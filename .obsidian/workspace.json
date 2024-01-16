@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/OB_Template-main/README.md",
+                "file": "Templates/3) Resource/Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/OB_Template-main/README.md",
+                "file": "Templates/3) Resource/Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/OB_Template-main/README.md",
+                "file": "Templates/3) Resource/Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/OB_Template-main/README.md"
+                "file": "Templates/3) Resource/Template.md"
               }
             }
           },
@@ -148,6 +148,18 @@
             "state": {
               "type": "calendar",
               "state": {}
+            }
+          },
+          {
+            "id": "afb418228d533bfa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
             }
           }
         ]
@@ -167,51 +179,53 @@
       "command-palette:Open command palette": false,
       "khoj:Khoj": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "40ba0b2e328561a4",
   "lastOpenFiles": [
-    "PARA/2) Area, Long-term Goals/Godot.md",
-    "Templates/OB_Template-main/0A_Templates/0A_9_Recipes/0A_9_1_Recipes.md",
-    "Templates/OB_Template-main/0A_Templates/0A_9_Recipes",
-    "Templates/OB_Template-main/0A_Templates/0A_99_Index/0A_99_Index.md",
-    "Templates/OB_Template-main/0A_Templates/0A_99_Index",
-    "Templates/OB_Template-main/0A_Templates/0A_8_Reviews/0A_8_1_GameReview.md",
-    "Templates/OB_Template-main/0A_Templates/0A_8_Reviews",
-    "Templates/OB_Template-main/0A_Templates/0A_7_Blog/0A_7_1_Blog.md",
-    "Templates/OB_Template-main/0A_Templates/0A_7_Blog",
-    "Templates/OB_Template-main/0A_Templates/0A_6_Books/0A_6_1_Books.md",
-    "Templates/OB_Template-main/0A_Templates/0A_6_Books",
-    "Templates/OB_Template-main/0A_Templates/0A_5_DecisionMaking/0A_5_1_DecisionMaking.md",
-    "Templates/OB_Template-main/0A_Templates/0A_5_DecisionMaking",
-    "Templates/OB_Template-main/0A_Templates/0A_4_Course/0A_4_3_CourseNote_V2.md",
-    "Templates/OB_Template-main/0A_Templates/0A_4_Course/0A_4_2_CourseNote.md",
-    "Templates/OB_Template-main/0A_Templates/0A_4_Course/0A_4_1_Course.md",
-    "Templates/OB_Template-main/0A_Templates/0A_4_Course",
-    "Templates/OB_Template-main/0A_Templates/0A_3_Project/0A_3_4_ProjectProposal.md",
-    "Templates/OB_Template-main/0A_Templates/0A_3_Project/0A_3_3_Project_V2.md",
-    "Templates/OB_Template-main/0A_Templates/0A_3_Project/0A_3_2_ActionPlan.md",
-    "Templates/OB_Template-main/0A_Templates/0A_3_Project/0A_3_1_Project.md",
-    "Templates/OB_Template-main/0A_Templates/0A_3_Project",
-    "Templates/OB_Template-main/0A_Templates/0A_2_Lists/0A_2_1_List.md",
-    "Templates/OB_Template-main/0A_Templates/0A_2_Lists",
-    "Templates/OB_Template-main/0A_Templates/0A_1_Logs/0A_1_9_WeeklyLog_V2.md",
-    "Templates/OB_Template-main/0A_Templates/0A_1_Logs/0A_1_8_WeeklyReview_V2.md",
-    "Templates/OB_Template-main/0A_Templates/0A_1_Logs/0A_1_7_DailyLog_V2.md",
-    "Templates/OB_Template-main/0A_Templates/0A_1_Logs/0A_1_6_WeeklyLog.md",
-    "Templates/OB_Template-main/0A_Templates/0A_1_Logs/0A_1_4_YearlyGoals.md",
-    "Templates/OB_Template-main/0A_Templates/0A_1_Logs/0A_1_5_YearlyReview.md",
-    "Templates/OB_Template-main/0A_Templates/0A_1_Logs/0A_1_3_MonthlyLog.md",
-    "Templates/OB_Template-main/0A_Templates/0A_1_Logs/0A_1_2_WeeklyReview.md",
-    "Templates/OB_Template-main/0A_Templates/0A_1_Logs/0A_1_1_DailyLog.md",
-    "Templates/OB_Template-main/0A_Templates/0A_1_Logs/0A_1_10_WeekAndDailyLog.md",
-    "Templates/OB_Template-main/0A_Templates/0A_1_Logs",
-    "Templates/OB_Template-main/0A_Templates/0A_17_WordDictionary/0A_17_1_WordDictionary.md",
-    "Templates/obsidian-template-master/screenshots/screenshot-3.png",
-    "Templates/obsidian-template-master/screenshots/screenshot-2.png",
-    "Templates/obsidian-template-master/screenshots/screenshot-1.png",
-    "Templates/obsidian-template-master/stats.png",
+    "Templates/4) Archive",
+    "Templates/3) Resource",
+    "Templates/2) Area",
+    "Templates/1) Project",
+    "Templates/Unsorted/LifeOS/3. Resources/EnglishLearning/README.md",
+    "Templates/Unsorted/LifeOS/3. Resources/BlockChain/README.md",
+    "Templates/3) Resource/Template.md",
+    "Templates/Unsorted/LifeOS/1. Projects/Template.md",
+    "PARA/3) Resource, Interests/Cheeses.md",
+    "Templates/Unsorted/LifeOS/4. Archives/Template.md",
+    "Templates/Unsorted/LifeOS/4. Archives/README.md",
+    "Templates/Unsorted/LifeOS/4. Archives",
+    "Templates/Unsorted/LifeOS/3. Resources/EnglishLearning",
+    "Templates/Unsorted/LifeOS/3. Resources/BlockChain",
+    "Templates/Unsorted/LifeOS/3. Resources/README.md",
+    "Templates/Unsorted/LifeOS/3. Resources",
+    "Templates/Unsorted/LifeOS/2. Areas/Work/Work.README.md",
+    "Templates/Unsorted/LifeOS/2. Areas/Life/Life.README.md",
+    "Templates/Unsorted/LifeOS/2. Areas/PKM/PKM.README.md",
+    "Templates/Unsorted/LifeOS/2. Areas/Work",
+    "Templates/Unsorted/LifeOS/2. Areas/Life",
+    "Templates/Unsorted/LifeOS/2. Areas/PKM",
+    "Templates/Unsorted/LifeOS/2. Areas/Template.md",
+    "Templates/Unsorted/LifeOS/2. Areas/README.md",
+    "Templates/Unsorted/LifeOS/1. Projects/PKM-LifeOS/PeriodicPARA.md",
+    "Templates/Unsorted/LifeOS/1. Projects/PKM-LifeOS/LifeOS.README.md",
+    "Templates/Unsorted/LifeOS/1. Projects/README.md",
+    "Templates/Unsorted/LifeOS/0. PeriodicNotes/Templates/Yearly.md",
+    "Templates/Unsorted/LifeOS/0. PeriodicNotes/Templates/Weekly.md",
+    "Templates/Unsorted/LifeOS/0. PeriodicNotes/Templates/Quarterly.md",
+    "Templates/Unsorted/LifeOS/0. PeriodicNotes/Templates/Monthly.md",
+    "Templates/Unsorted/LifeOS/0. PeriodicNotes/Templates/Daily.md",
+    "Templates/Unsorted/LifeOS/0. PeriodicNotes/2023/Weekly/2023-W22.md",
+    "Templates/Unsorted/LifeOS/0. PeriodicNotes/2023/Quarterly/2023-Q2.md",
+    "Templates/Unsorted/LifeOS/0. PeriodicNotes/2023/Quarterly/2023-Q1.md",
+    "Templates/Unsorted/LifeOS/0. PeriodicNotes/2023/Monthly/2023-06.md",
+    "Templates/Unsorted/LifeOS/HOME.canvas",
+    "Templates/Unsorted/obsidian-template-master/screenshots/screenshot-2.png",
+    "Templates/Unsorted/obsidian-template-master/screenshots/screenshot-3.png",
+    "Templates/Unsorted/obsidian-template-master/screenshots/screenshot-1.png",
+    "Templates/Unsorted/obsidian-template-master/stats.png",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled.canvas",
