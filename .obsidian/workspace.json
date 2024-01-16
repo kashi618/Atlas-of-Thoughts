@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/3) Resource, Interests/Cheeses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40ba0b2e328561a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/3) Resource/Template.md",
+                "file": "PARA/3) Resource, Interests/Game Development/Godot/Creating a Player.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/3) Resource/Template.md",
+                "file": "PARA/3) Resource, Interests/Game Development/Godot/Creating a Player.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/3) Resource/Template.md",
+                "file": "PARA/3) Resource, Interests/Game Development/Godot/Creating a Player.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/3) Resource/Template.md"
+                "file": "PARA/3) Resource, Interests/Game Development/Godot/Creating a Player.md"
               }
             }
           },
@@ -177,23 +164,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "khoj:Khoj": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "40ba0b2e328561a4",
+  "active": "f3c488d642e0bb6c",
   "lastOpenFiles": [
+    "PARA/3) Resource, Interests/Game Development/Godot",
+    "PARA/3) Resource, Interests/Game Development",
+    "Templates/3) Resource/Template.md",
+    "PARA/3) Resource, Interests/Cheeses.md",
     "Templates/4) Archive",
     "Templates/3) Resource",
     "Templates/2) Area",
     "Templates/1) Project",
     "Templates/Unsorted/LifeOS/3. Resources/EnglishLearning/README.md",
     "Templates/Unsorted/LifeOS/3. Resources/BlockChain/README.md",
-    "Templates/3) Resource/Template.md",
     "Templates/Unsorted/LifeOS/1. Projects/Template.md",
-    "PARA/3) Resource, Interests/Cheeses.md",
     "Templates/Unsorted/LifeOS/4. Archives/Template.md",
     "Templates/Unsorted/LifeOS/4. Archives/README.md",
     "Templates/Unsorted/LifeOS/4. Archives",
@@ -205,8 +193,6 @@
     "Templates/Unsorted/LifeOS/2. Areas/Life/Life.README.md",
     "Templates/Unsorted/LifeOS/2. Areas/PKM/PKM.README.md",
     "Templates/Unsorted/LifeOS/2. Areas/Work",
-    "Templates/Unsorted/LifeOS/2. Areas/Life",
-    "Templates/Unsorted/LifeOS/2. Areas/PKM",
     "Templates/Unsorted/LifeOS/2. Areas/Template.md",
     "Templates/Unsorted/LifeOS/2. Areas/README.md",
     "Templates/Unsorted/LifeOS/1. Projects/PKM-LifeOS/PeriodicPARA.md",
