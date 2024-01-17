@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/3) Resource, Interests/Game Development/Godot/Creating a Basic Player with Movement.md",
+                "file": "Templates/3) Resource/HowTo.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 470.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PARA/3) Resource, Interests/Game Development/Godot/Creating a Basic Player with Movement.md",
+                "file": "Templates/3) Resource/HowTo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/3) Resource, Interests/Game Development/Godot/Creating a Basic Player with Movement.md",
+                "file": "Templates/3) Resource/HowTo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/3) Resource, Interests/Game Development/Godot/Creating a Basic Player with Movement.md"
+                "file": "Templates/3) Resource/HowTo.md"
               }
             }
           },
@@ -169,45 +169,46 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f3c488d642e0bb6c",
+  "active": "d828e5b8bc561a69",
   "lastOpenFiles": [
+    "Templates/Unsorted/obsidian-template-master/templates/TODO.md",
+    "Templates/3) Resource/HowTo.md",
+    "Templates/Unsorted/obsidian-template-master/templates/Resource.md",
+    "Templates/Unsorted/obsidian-template-master/templates/Tag.md",
+    "Templates/Unsorted/obsidian-template-master/templates/Term.md",
+    "Templates/Unsorted/obsidian-template-master/templates/Question split.md",
+    "Templates/Unsorted/obsidian-template-master/templates/quote.md",
+    "Templates/Unsorted/obsidian-template-master/templates/Question.md",
+    "Templates/Unsorted/obsidian-template-master/templates/Post.md",
+    "Templates/Unsorted/obsidian-template-master/templates/Library.md",
+    "Templates/Unsorted/obsidian-template-master/templates/Note extraction.md",
+    "Templates/Unsorted/obsidian-template-master/templates/Thought.md",
+    "Templates/Unsorted/obsidian-template-master/templates/Yearly Reading list.md",
+    "Templates/Unsorted/obsidian-template-master/templates/Course.md",
+    "Templates/Unsorted/obsidian-template-master/templates/Book.md",
+    "Templates/Unsorted/obsidian-template-master/README.md",
+    "Templates/Unsorted/OB_Template-main/0A_Templates/0A_16_Investment/0A_16_1_Stocks.md",
+    "Templates/Unsorted/OB_Template-main/0A_Templates/0A_17_WordDictionary/0A_17_1_WordDictionary.md",
+    "Templates/Unsorted/OB_Template-main/0A_Templates/0A_99_Index/0A_99_Index.md",
+    "Templates/Unsorted/OB_Template-main/0A_Templates/0A_7_Blog/0A_7_1_Blog.md",
+    "Templates/Unsorted/OB_Template-main/0A_Templates/0A_6_Books/0A_6_1_Books.md",
+    "Templates/Unsorted/OB_Template-main/0A_Templates/0A_5_DecisionMaking/0A_5_1_DecisionMaking.md",
+    "Templates/Unsorted/OB_Template-main/0A_Templates/0A_4_Course/0A_4_3_CourseNote_V2.md",
+    "Templates/Unsorted/OB_Template-main/0A_Templates/0A_4_Course/0A_4_2_CourseNote.md",
+    "Templates/Unsorted/OB_Template-main/0A_Templates/0A_4_Course/0A_4_1_Course.md",
+    "Templates/Unsorted/OB_Template-main/0A_Templates/0A_2_Lists/0A_2_1_List.md",
+    "Templates/Unsorted/LifeOS/HOME.canvas",
     "PARA/3) Resource, Interests/Game Development/Godot/Basic Player Nodes.png",
-    "PARA/3) Resource, Interests/Game Development/Godot/Creating a Basic Player with Movement.md",
     "PARA/3) Resource, Interests/Game Development/Godot",
     "PARA/3) Resource, Interests/Game Development",
-    "Templates/3) Resource/Template.md",
-    "PARA/3) Resource, Interests/Cheeses.md",
     "Templates/4) Archive",
     "Templates/3) Resource",
     "Templates/2) Area",
     "Templates/1) Project",
-    "Templates/Unsorted/LifeOS/3. Resources/EnglishLearning/README.md",
-    "Templates/Unsorted/LifeOS/3. Resources/BlockChain/README.md",
-    "Templates/Unsorted/LifeOS/1. Projects/Template.md",
-    "Templates/Unsorted/LifeOS/4. Archives/Template.md",
-    "Templates/Unsorted/LifeOS/4. Archives/README.md",
     "Templates/Unsorted/LifeOS/4. Archives",
     "Templates/Unsorted/LifeOS/3. Resources/EnglishLearning",
     "Templates/Unsorted/LifeOS/3. Resources/BlockChain",
-    "Templates/Unsorted/LifeOS/3. Resources/README.md",
     "Templates/Unsorted/LifeOS/3. Resources",
-    "Templates/Unsorted/LifeOS/2. Areas/Work/Work.README.md",
-    "Templates/Unsorted/LifeOS/2. Areas/Life/Life.README.md",
-    "Templates/Unsorted/LifeOS/2. Areas/PKM/PKM.README.md",
-    "Templates/Unsorted/LifeOS/2. Areas/Template.md",
-    "Templates/Unsorted/LifeOS/2. Areas/README.md",
-    "Templates/Unsorted/LifeOS/1. Projects/PKM-LifeOS/PeriodicPARA.md",
-    "Templates/Unsorted/LifeOS/1. Projects/PKM-LifeOS/LifeOS.README.md",
-    "Templates/Unsorted/LifeOS/1. Projects/README.md",
-    "Templates/Unsorted/LifeOS/0. PeriodicNotes/Templates/Yearly.md",
-    "Templates/Unsorted/LifeOS/0. PeriodicNotes/Templates/Weekly.md",
-    "Templates/Unsorted/LifeOS/0. PeriodicNotes/Templates/Quarterly.md",
-    "Templates/Unsorted/LifeOS/0. PeriodicNotes/Templates/Monthly.md",
-    "Templates/Unsorted/LifeOS/0. PeriodicNotes/Templates/Daily.md",
-    "Templates/Unsorted/LifeOS/0. PeriodicNotes/2023/Weekly/2023-W22.md",
-    "Templates/Unsorted/LifeOS/0. PeriodicNotes/2023/Quarterly/2023-Q2.md",
-    "Templates/Unsorted/LifeOS/0. PeriodicNotes/2023/Quarterly/2023-Q1.md",
-    "Templates/Unsorted/LifeOS/HOME.canvas",
     "Templates/Unsorted/obsidian-template-master/screenshots/screenshot-2.png",
     "Templates/Unsorted/obsidian-template-master/screenshots/screenshot-3.png",
     "Templates/Unsorted/obsidian-template-master/screenshots/screenshot-1.png",
