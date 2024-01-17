@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/3) Resource/HowTo.md",
+                "file": "PARA/3) Resource, Interests/Game Development/Godot/2D Character with Movement.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "21d15ce437d88049",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-17 15.12.18.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/3) Resource/HowTo.md",
+                "file": "Excalidraw/Drawing 2024-01-17 15.12.18.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/3) Resource/HowTo.md",
+                "file": "Excalidraw/Drawing 2024-01-17 15.12.18.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/3) Resource/HowTo.md"
+                "file": "Excalidraw/Drawing 2024-01-17 15.12.18.excalidraw.md"
               }
             }
           },
@@ -169,10 +180,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d828e5b8bc561a69",
+  "active": "21d15ce437d88049",
   "lastOpenFiles": [
-    "Templates/Unsorted/obsidian-template-master/templates/TODO.md",
+    "PARA/3) Resource, Interests/Game Development/Godot/2D Character with Movement.md",
+    "Excalidraw/Drawing 2024-01-17 15.12.18.excalidraw.md",
+    "Excalidraw",
+    "PARA/3) Resource, Interests/Game Development/Godot/Basic Player Nodes.png",
     "Templates/3) Resource/HowTo.md",
+    "Templates/Unsorted/obsidian-template-master/templates/TODO.md",
     "Templates/Unsorted/obsidian-template-master/templates/Resource.md",
     "Templates/Unsorted/obsidian-template-master/templates/Tag.md",
     "Templates/Unsorted/obsidian-template-master/templates/Term.md",
@@ -195,10 +210,7 @@
     "Templates/Unsorted/OB_Template-main/0A_Templates/0A_5_DecisionMaking/0A_5_1_DecisionMaking.md",
     "Templates/Unsorted/OB_Template-main/0A_Templates/0A_4_Course/0A_4_3_CourseNote_V2.md",
     "Templates/Unsorted/OB_Template-main/0A_Templates/0A_4_Course/0A_4_2_CourseNote.md",
-    "Templates/Unsorted/OB_Template-main/0A_Templates/0A_4_Course/0A_4_1_Course.md",
-    "Templates/Unsorted/OB_Template-main/0A_Templates/0A_2_Lists/0A_2_1_List.md",
     "Templates/Unsorted/LifeOS/HOME.canvas",
-    "PARA/3) Resource, Interests/Game Development/Godot/Basic Player Nodes.png",
     "PARA/3) Resource, Interests/Game Development/Godot",
     "PARA/3) Resource, Interests/Game Development",
     "Templates/4) Archive",
@@ -208,7 +220,6 @@
     "Templates/Unsorted/LifeOS/4. Archives",
     "Templates/Unsorted/LifeOS/3. Resources/EnglishLearning",
     "Templates/Unsorted/LifeOS/3. Resources/BlockChain",
-    "Templates/Unsorted/LifeOS/3. Resources",
     "Templates/Unsorted/obsidian-template-master/screenshots/screenshot-2.png",
     "Templates/Unsorted/obsidian-template-master/screenshots/screenshot-3.png",
     "Templates/Unsorted/obsidian-template-master/screenshots/screenshot-1.png",
