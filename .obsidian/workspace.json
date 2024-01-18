@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "55e6c0f4076fddf5",
+        "id": "360ae9ecee902167",
         "type": "tabs",
         "children": [
           {
-            "id": "f3c488d642e0bb6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA/3) Resource, Interests/Game Development/Godot/2D Character with Movement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21d15ce437d88049",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA/3) Resource, Interests/Game Development/Godot/2D Character with Movement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46e7763b733e176b",
+            "id": "cb53bc9217fe87f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,11 +169,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "46e7763b733e176b",
+  "active": "cb53bc9217fe87f6",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-17 15.13.55.excalidraw.md",
     "PARA/3) Resource, Interests/Game Development/Godot/2D Character with Movement.md",
     "PARA/3) Resource, Interests/Game Development/Godot/Basic Player Nodes.png",
+    "Excalidraw/Drawing 2024-01-17 15.13.55.excalidraw.md",
     "Pasted Image 20240117151339_665.png",
     "Excalidraw/Drawing 2024-01-17 15.12.18.excalidraw.md",
     "Excalidraw",
@@ -224,7 +199,6 @@
     "Templates/Unsorted/OB_Template-main/0A_Templates/0A_7_Blog/0A_7_1_Blog.md",
     "Templates/Unsorted/OB_Template-main/0A_Templates/0A_6_Books/0A_6_1_Books.md",
     "Templates/Unsorted/OB_Template-main/0A_Templates/0A_5_DecisionMaking/0A_5_1_DecisionMaking.md",
-    "Templates/Unsorted/OB_Template-main/0A_Templates/0A_4_Course/0A_4_3_CourseNote_V2.md",
     "Templates/Unsorted/LifeOS/HOME.canvas",
     "PARA/3) Resource, Interests/Game Development/Godot",
     "PARA/3) Resource, Interests/Game Development",
