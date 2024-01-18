@@ -1,7 +1,8 @@
-{title}
+```plain
 ---
 parent: "[[Fleeting MOC]]"
 tags:
 - 🪴weedy
-date: 2024-01-18T00:58
+date: {{date:YYYY-MM-DD}}T{{time:HH:mm}}
 ---
+```
