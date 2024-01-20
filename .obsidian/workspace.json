@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 268.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -162,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,9 +181,11 @@
   },
   "active": "bde6e3ae147d0d93",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-20 21.18.35.excalidraw.md",
+    "Templates/1) Project/Game Design Document.md",
+    "Excalidraw",
     "PARA/2) Area, Long-term Goals/GameDev ToDo List.md",
     "PARA/3) Resource, Interests/Game Development/2D Platformer.md",
-    "Templates/1) Project/Game Design Document.md",
     "PARA/Flappy Bird Godot.md",
     "Templates/Unsorted/obsidian-template-master/templates/Course.md",
     "Templates/Unsorted/obsidian-template-master/templates/Book.md",
@@ -208,12 +212,10 @@
     "Templates/Unsorted/obsidian-template-master/screenshots/screenshot-2.png",
     "Templates/Unsorted/obsidian-template-master/templates/daily/Daily Note  - System.md",
     "Templates/Unsorted/obsidian-template-master/templates/daily/Daily Note.md",
-    "Templates/Unsorted/obsidian-template-master/templates/Create Anki card.md",
     "Templates/Unsorted/LifeOS/HOME.canvas",
     "PARA/3) Resource, Interests/Game Development/Godot/Basic Player Nodes.png",
     "Untitled",
     "Pasted Image 20240117151339_665.png",
-    "Excalidraw",
     "PARA/3) Resource, Interests/Game Development/Godot",
     "PARA/3) Resource, Interests/Game Development",
     "Templates/4) Archive",
