@@ -2,13 +2,10 @@
 
 ### ▪️ Game Summary
 **What this game is about:**
-	Tetris is a puzzle game about controlling falling tetronimos to complete lines.
+	Poopy Turd is a ragebait game about controlling a flying turd going through pipes. It is different than flappy bird because it is a turd, not a bird.
 ### ▪️ Inspiration
->    **Example Game**
->      This game is about ...
-
->    **Example Game 2**
->      This game is about ...
+>    Flappy Bird
+>      A game made in 2012 about about controlling a flying bird going through pipes. Player controls the wings of the bird, as pipes 
 
 ### ▪️ Platform
 **Supported platforms:**
@@ -22,17 +19,19 @@
 ### ▪️ Genre
 - Singleplayer
 - Puzzle
+- Cats
 - Casual
+- Ragebait
 
 ### ▪️ Target Audience
 **Who this game is for:**
-	Due to the simple and easy to learn concept, this game is targeted for casual players who love solving puzzles.
+	On the surface this is an easy to learn intuitive game. However, it might catch you off guard due to its difficulty.
 
 ---
 # **Concept** 💡
 ##### ▪️ Gameplay Overview
 **What are the objectives:**
-	The player controls a set of 5 different tetronimos falling from the top of the screen. Each tetronimo can also be rotated. The player has to place the tetronimos in such a way that it forms a complete line horizontally on the grid. By completing lines, it gets removed and the player scores a point. When the grid fills up, and no more tetronimos can be placed, the game will end. 
+	The player will control a fan propelling flying turd upwards. The player will have to turn on and off a fan whilst cats fly towards the turd. The objective is to stay alive as long as possible, and prevent the turd from hitting the cats.
 
 ##### ▪️ Theme Interpretation
    \*ONLY FOR GAME JAMS/THEME RELATED GAMES
@@ -40,8 +39,8 @@
 ##### ▪️ Mechanics
 | Mechanic | Animated Mockup<br>(Art not final) |
 | ---- | ---- |
-| Falling Pieces | ![[Tetris - Falling Piece.gif \| 400]] |
-| Completing Line | ![[Tetris - Completing Line.gif \| 400]] |
+| Controlling a turn using a fan |  |
+|  |  |
 
 ---
 # **Art** 🎨
