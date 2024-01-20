@@ -1,24 +1,33 @@
-### Introduction 📋
+# Introduction 📋
 
-##### ▪️ Game Summary
-Mass Flux is a tile based puzzle game about reducing or generally manipulating the shape of a mass of cell-blocks to navigate to a goal.
-##### ▪️ Inspiration
+### ▪️ Game Summary
+   This game is about ...
+   {Tetris is a puzzle game about placing tetronimos to complete lines}
+### ▪️ Inspiration
+>    **Example Game**
+>      This game is about ...
 
+>    **Example Game 2**
+>      This game is about ...
 
-##### ▪️ Player Experience
+### ▪️ Player Experience
+   In a 10x20 grid, the player will manage 5 different shaped tetronomis falling from the top of the grid. The player will then try to move these blocks to form a line. Each line scores a point
 
+### ▪️ Platform
+   The game is developed to be released on PC
 
-##### ▪️ Platform
+### ▪️ Development Software
+- Godot 4.2 for programming
+- Aseprite for graphics and UI
+- FL Studio 12 for all music and SFX
 
+### ▪️ Genre
+- Singleplayer
+- Puzzle
+- Casual
 
-##### ▪️ Development Software
-
-
-##### ▪️ Genre
-
-
-##### ▪️ Target Audience
-
+### ▪️ Target Audience
+   
 
 ---
 ### **Concept** 💡
