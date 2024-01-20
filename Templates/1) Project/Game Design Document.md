@@ -35,33 +35,41 @@
    \*ONLY FOR GAME JAMS/THEME RELATED GAMES
 
 ##### ▪️ Mechanics
-| Mechanic | Animated Mockup<br>(Art not final) | 150 |  |
-| ---- | ---- | ---- | ---- |
-| Falling Pieces | ![[Tetris - Falling Piece.gif \| 400]] | ![[Tetris - Completing Line.gif \| 400]] |  |
+| Mechanic | Animated Mockup<br>(Art not final) |
+| ---- | ---- |
+| Falling Pieces | ![[Tetris - Falling Piece.gif \| 400]] |
+| Completing Line | ![[Tetris - Completing Line.gif \| 400]] |
 
 ---
 ### **Art** 🎨
 
-##### ▪️ Theme / Colour Palette
-   Because this is a casual puzzle game, a neutral and simple colour palette was used. However, the tetronimos would change colour depending on the level. This would give a visual indicator of leveling up, whilst keeping the UI and interface neutral and simple.
+##### ▪️ Theme and Design
 
-##### ▪️ Design
-![[Tetris - UI and Tetronimos.png]]
+
+##### ▪️ Colour Palette
+![[Tetris - UI and Tetronimos.png|500]]
 
 ---
 ### **Audio** 🎸
 ##### ▪️ Music
-
+Retro and arcade type chiptune music  played throughout the game. When level gets higher, also increase the speed and pitch.
 
 ##### ▪️ Sound Effects
-
+   To add more weight and feedback to the player's actions, synthesized thumps and bling are used.
 
 ---
 ### **Game Experience** ✨
 ##### ▪️ UI
-
+   The UI is simple and intuitive, giving information about the player's score, statistics, next piece, level, etc. But not complicated or overloading the player with information.
 
 ##### ▪️ Controls
+- **Keyboard**
+	 Movement - WASD
+
+    aasdsa
+
+sd
+    a
 
 
 ---
