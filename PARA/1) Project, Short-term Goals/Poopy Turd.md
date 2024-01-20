@@ -71,6 +71,9 @@ Where is the game taking place:**
 ### ▪️ Controls
 - **Keyboard**
 	 Turn the fan on - Space
+	 Restart - R
+	 Control UI - arrow keys and enter
+
 
 ---
 # **Timeline** 📈
