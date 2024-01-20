@@ -13,26 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/3) Resource/HowTo.md",
-                "mode": "preview",
+                "file": "PARA/3) Resource, Interests/Game Development/2D Platformer.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d4fd5c842e4d1ed0",
+            "id": "5af95e9c3f21f52b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/3) Resource/asd.md",
+                "file": "PARA/2) Area, Long-term Goals/GameDev ToDo List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62153b247f56a1c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/2) Area, Long-term Goals/Flappy Bird Godot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bde6e3ae147d0d93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Design Document.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/3) Resource/asd.md",
+                "file": "Game Design Document.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/3) Resource/asd.md",
+                "file": "Game Design Document.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/3) Resource/asd.md"
+                "file": "Game Design Document.md"
               }
             }
           },
@@ -182,15 +206,23 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d4fd5c842e4d1ed0",
+  "active": "bde6e3ae147d0d93",
   "lastOpenFiles": [
+    "PARA/2) Area, Long-term Goals/Flappy Bird Godot.md",
+    "Game Design Document.md",
+    "PARA/2) Area, Long-term Goals/GameDev ToDo List.md",
+    "PARA/1) Project, Short-term Goals/Short-term Responsibilities.md",
+    "PARA/1) Project, Short-term Goals/Readme.md",
+    "PARA/3) Resource, Interests/Game Development/2D Platformer.md",
+    "PARA/2) Area, Long-term Goals/ReadMe.md",
+    "PARA/3) Resource, Interests/Game Development/Godot/2D Character.md",
+    "PARA/3) Resource, Interests/Game Development/Godot/Basic Player Nodes.png",
     "Templates/3) Resource/HowTo.md",
-    "Fleeting MOC.md",
     "Templates/3) Resource/asd.md",
+    "Fleeting MOC.md",
     "Untitled",
     "Excalidraw/Drawing 2024-01-17 15.13.55.excalidraw.md",
     "Excalidraw/Drawing 2024-01-17 15.12.18.excalidraw.md",
-    "PARA/3) Resource, Interests/Game Development/Godot/2D Character.md",
     "Templates/Unsorted/obsidian-template-master/templates/Resource.md",
     "Templates/Unsorted/obsidian-template-master/templates/Question split.md",
     "Templates/Unsorted/OB_Template-main/0A_Templates/0A_3_Project/0A_3_4_ProjectProposal.md",
@@ -204,16 +236,8 @@
     "Templates/Unsorted/LifeOS/3. Resources/EnglishLearning/README.md",
     "Templates/Unsorted/LifeOS/3. Resources/BlockChain/README.md",
     "GameDevelopment.md",
-    "PARA/3) Resource, Interests/Game Development/Godot/Basic Player Nodes.png",
-    "PARA/3) Resource, Interests/Cheeses.md",
     "Pasted Image 20240117151339_665.png",
     "Excalidraw",
-    "Templates/Unsorted/obsidian-template-master/templates/TODO.md",
-    "Templates/Unsorted/obsidian-template-master/templates/Tag.md",
-    "Templates/Unsorted/obsidian-template-master/templates/Term.md",
-    "Templates/Unsorted/obsidian-template-master/templates/quote.md",
-    "Templates/Unsorted/obsidian-template-master/templates/Question.md",
-    "Templates/Unsorted/obsidian-template-master/templates/Post.md",
     "Templates/Unsorted/LifeOS/HOME.canvas",
     "PARA/3) Resource, Interests/Game Development/Godot",
     "PARA/3) Resource, Interests/Game Development",
