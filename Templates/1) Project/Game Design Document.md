@@ -2,12 +2,11 @@
 tags: []
 ---
 
-### **Introduction* 📋
-- Game Summary
-- Inspiration
-- Player Experience
-- Platform
-- Development Software
+### **Introduction** 📋
+##### > Game Summary
+##### > Inspiration
+##### > Player Experience
+##### > PlatformDevelopment Software
 - Genre
 - Target Audience
 ---
@@ -33,11 +32,13 @@ tags: []
 - UI
 - Controls
 ---
-### **Development Timeline** 📈
+### **Timeline** 📈
+
+Type : #Art
+Status: #Finished #InProgress #NotStarted 
+
 | # | Assignment | Type | Status | Finish By | Notes |
 | ---- | ---- | :--- | ---- | ---- | ---- |
-|  |  |  | #Finished |  |  |
-|  |  |  | #InProgress |  |  |
-|  |  |  | #NotStarted |  |  |
-Type : #Art #Audio #Coding #Other
-Status: #Finished #InProgress #NotStarted 
+| 1 |  |  |  |  |  |
+| 2 |  |  |  |  |  |
+| 3 |  |  |  |  |  |

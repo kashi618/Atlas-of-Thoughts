@@ -1,0 +1,115 @@
+{
+  "ruleConfigs": {
+    "Space between Chinese and English or numbers": {
+      "Ensures that Chinese and English or numbers are separated by a single space. Follow this [guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)": false
+    },
+    "format-tags-in-yaml": {
+      "enabled": false
+    },
+    "insert-yaml-attributes": {
+      "enabled": false,
+      "text-to-insert": "aliases: \ntags: "
+    },
+    "yaml-timestamp": {
+      "enabled": true,
+      "date-created": true,
+      "date-created-key": "created_date",
+      "force-retention-of-create-value": false,
+      "date-modified": true,
+      "date-modified-key": "updated_date",
+      "format": "DD/MM/yyyy"
+    },
+    "yaml-title": {
+      "enabled": false,
+      "title-key": "title"
+    },
+    "capitalize-headings": {
+      "enabled": false,
+      "style": "Title Case",
+      "ignore-case-words": true,
+      "ignore-words": "macOS, iOS, iPhone, iPad, JavaScript, TypeScript, AppleScript",
+      "lowercase-words": "via, a, an, the, and, or, but, for, nor, so, yet, at, by, in, of, on, to, up, as, is, if, it, for, to, with, without, into, onto, per"
+    },
+    "file-name-heading": {
+      "enabled": false
+    },
+    "header-increment": {
+      "enabled": false,
+      "start-at-h2": false
+    },
+    "footnote-after-punctuation": {
+      "enabled": false
+    },
+    "move-footnotes-to-the-bottom": {
+      "enabled": false
+    },
+    "re-index-footnotes": {
+      "enabled": false
+    },
+    "convert-bullet-list-markers": {
+      "enabled": false
+    },
+    "proper-ellipsis": {
+      "enabled": false
+    },
+    "remove-consecutive-list-markers": {
+      "enabled": false
+    },
+    "remove-empty-list-markers": {
+      "enabled": false
+    },
+    "remove-hyphenated-line-breaks": {
+      "enabled": false
+    },
+    "remove-multiple-spaces": {
+      "enabled": true
+    },
+    "compact-yaml": {
+      "enabled": true,
+      "inner-new-lines": false
+    },
+    "consecutive-blank-lines": {
+      "enabled": true
+    },
+    "convert-spaces-to-tabs": {
+      "enabled": true,
+      "tabsize": "4"
+    },
+    "heading-blank-lines": {
+      "enabled": false,
+      "bottom": true,
+      "empty-line-after-yaml": true
+    },
+    "line-break-at-document-end": {
+      "enabled": true
+    },
+    "paragraph-blank-lines": {
+      "enabled": false
+    },
+    "space-after-list-markers": {
+      "enabled": false
+    },
+    "trailing-spaces": {
+      "enabled": true,
+      "twp-space-line-break": false
+    }
+  },
+  "lintOnSave": true,
+  "recordLintOnSaveLogs": false,
+  "displayChanged": false,
+  "settingsConvertedToConfigKeyValues": true,
+  "foldersToIgnore": [
+    "templates"
+  ],
+  "linterLocale": "system-default",
+  "logLevel": 4,
+  "lintCommands": [],
+  "customRegexes": [],
+  "commonStyles": {
+    "aliasArrayStyle": "single-line",
+    "tagArrayStyle": "single-line",
+    "minimumNumberOfDollarSignsToBeAMathBlock": 2,
+    "escapeCharacter": "\"",
+    "removeUnnecessaryEscapeCharsForMultiLineArrays": false
+  }
+}

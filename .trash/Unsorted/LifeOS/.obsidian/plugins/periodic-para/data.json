@@ -1,0 +1,16 @@
+{
+  "periodicNotesPath": "0. PeriodicNotes",
+  "projectsPath": "1. Projects",
+  "areasPath": "2. Areas",
+  "resourcesPath": "3. Resources",
+  "archivesPath": "4. Archives",
+  "projectListHeader": "Project List",
+  "areaListHeader": "First Things Dimension",
+  "habitHeader": "Habit",
+  "dailyRecordHeader": "Daily Record",
+  "dailyRecordAPI": "",
+  "dailyRecordToken": "",
+  "useDailyRecord": false,
+  "usePeriodicNotes": true,
+  "usePARANotes": true
+}
