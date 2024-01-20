@@ -37,14 +37,14 @@
 ##### ▪️ Mechanics
 | Mechanic | Animated Mockup<br>(Art not final) |
 | ---- | ---- |
-| Falling Pieces |  |
-| Completing Lines |  |
+| Falling Pieces | [[Tetris - Falling Piece.gif]] |
+| Completing Lines | [[Tetris - Completing Line.gif]] |
 
 ---
 ### **Art** 🎨
 
 ##### ▪️ Theme Interpretation
-
+   
 
 ##### ▪️ Design
 
