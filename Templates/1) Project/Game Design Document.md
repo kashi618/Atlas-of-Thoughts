@@ -10,9 +10,6 @@
 >    **Example Game 2**
 >      This game is about ...
 
-### ▪️ Player Experience
-   In a 10x20 grid, the player will manage 5 different shaped tetronomis falling from the top of the grid. The player will then try to move these blocks to form a line. Each line scores a point
-
 ### ▪️ Platform
    The game is developed to be released on PC
 
@@ -27,23 +24,21 @@
 - Casual
 
 ### ▪️ Target Audience
-   
+   Due to the simple and easy to learn concept, this game is targeted for casual players who love solving puzzles.
 
 ---
 ### **Concept** 💡
-
-
 ##### ▪️ Gameplay Overvie
-
+   The player controls a set of 5 different tetronimos falling from the top of the screen. Each tetronimo can also be rotated. The player has to place the tetronimos in such a way that it forms a complete line horizontally on the grid. By completing lines, it gets removed and the player scores a point. When the grid fills up, and no more tetronimos can be placed, the game will end. 
 
 ##### ▪️ Theme Interpretation
+   \*ONLY FOR GAME JAMS/THEME RELATED GAMES
 
-
-##### ▪️ Primary Mechanics
-
-
-##### ▪️ Secondar Mechanmics
-
+##### ▪️ Mechanics
+| Mechanic | Animated Mockup<br>(Art not final) |
+| ---- | ---- |
+| Falling Pieces |  |
+| Completing Lines |  |
 
 ---
 ### **Art** 🎨
