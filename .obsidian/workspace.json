@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"Templates/2) Area/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,7 +178,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5b15d93833cfa788",
+  "active": "30b6437a7fac2bd4",
   "lastOpenFiles": [
     "PARA/5) Media, Pictures, Gifs/Tetris - Completing Line.gif",
     "Templates/1) Project/Game Design Document.md",
