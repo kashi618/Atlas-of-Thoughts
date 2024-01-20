@@ -35,9 +35,9 @@
    \*ONLY FOR GAME JAMS/THEME RELATED GAMES
 
 ##### ▪️ Mechanics
-| Mechanic | Animated Mockup<br>(Art not final) |  |  |
+| Mechanic | Animated Mockup<br>(Art not final) | 150 |  |
 | ---- | ---- | ---- | ---- |
-| Falling Pieces | [[Tetris - Falling Piece.gif \| 100]] | [[Tetris - Completing Line.gif]] |  |
+| Falling Pieces | ![[Tetris - Falling Piece.gif \| 400]] | ![[Tetris - Completing Line.gif \| 400]] |  |
 
 ---
 ### **Art** 🎨
