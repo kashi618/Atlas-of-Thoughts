@@ -35,19 +35,18 @@
    \*ONLY FOR GAME JAMS/THEME RELATED GAMES
 
 ##### ▪️ Mechanics
-| Mechanic | Animated Mockup<br>(Art not final) |
-| ---- | ---- |
-| Falling Pieces | [[Tetris - Falling Piece.gif]] |
-| Completing Lines | [[Tetris - Completing Line.gif]] |
+| Mechanic | Animated Mockup<br>(Art not final) |  |  |
+| ---- | ---- | ---- | ---- |
+| Falling Pieces | [[Tetris - Falling Piece.gif \| 100]] | [[Tetris - Completing Line.gif]] |  |
 
 ---
 ### **Art** 🎨
 
-##### ▪️ Theme Interpretation
-   
+##### ▪️ Theme / Colour Palette
+   Because this is a casual puzzle game, a neutral and simple colour palette was used. However, the tetronimos would change colour depending on the level. This would give a visual indicator of leveling up, whilst keeping the UI and interface neutral and simple.
 
 ##### ▪️ Design
-
+![[Tetris - UI and Tetronimos.png]]
 
 ---
 ### **Audio** 🎸
