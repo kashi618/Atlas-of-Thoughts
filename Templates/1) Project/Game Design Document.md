@@ -66,10 +66,9 @@
 # **Game Experience** ✨
 ##### ▪️ UI
 **What will the UI look like:**
-   The UI is simple and intuitive, giving information about the player's score, statistics, next piece, level, etc. But not complicated or overloading the player with information.
+	The UI is simple and intuitive, giving information about the player's score, statistics, next piece, level, etc. But not complicated or overloading the player with information.
 
 ##### ▪️ Controls
-**What are the controls:**
 - **Keyboard**
 	 Movement - WASD
 
