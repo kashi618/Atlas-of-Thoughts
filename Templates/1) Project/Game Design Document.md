@@ -1,35 +1,35 @@
 ### Introduction 📋
-##### Game Summary
-##### > Inspiration
 
-##### > Player Experience
-##### > Platform
-##### > Development Software
-##### > Genre
+##### ▪️ Game Summary
+##### ▪️ Inspiration
 
-##### > Target Audience
+##### ▪️ Player Experience
+##### ▪️ Platform
+##### ▪️ Development Software
+##### ▪️ Genre
+##### ▪️ Target Audience
 ---
 ### **Concept** 💡
 
-##### > Gameplay Overvie
-##### > Theme Interpretation
-##### > Primary Mechanics
-##### > Secondar Mechanmics
+##### ▪️ Gameplay Overvie
+##### ▪️ Theme Interpretation
+##### ▪️ Primary Mechanics
+##### ▪️ Secondar Mechanmics
 ---
 ### **Art** 🎨
 
-##### > Theme Interpretation
-##### > Design
+##### ▪️ Theme Interpretation
+##### ▪️ Design
 ---
 ### **Audio** 🎸
 
-##### > Music
-##### > Sound Effects
+##### ▪️ Music
+##### ▪️ Sound Effects
 ---
 ### **Game Experience** ✨
 
-##### > UI
-##### > Controls
+##### ▪️ UI
+##### ▪️ Controls
 ---
 ### **Timeline** 📈
 

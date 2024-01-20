@@ -1,4 +1,9 @@
 {
   "accentColor": "",
-  "baseFontSize": 23
+  "baseFontSize": 17,
+  "theme": "obsidian",
+  "textFontFamily": "Open Sauce One",
+  "enabledCssSnippets": [
+    "style"
+  ]
 }
