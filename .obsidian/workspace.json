@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/1) Project/Game Design Document.md",
+                "file": "PARA/1) Project, Short-term Goals/Flappy Bird.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/1) Project/Game Design Document.md",
+                "file": "PARA/1) Project, Short-term Goals/Flappy Bird.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/1) Project/Game Design Document.md",
+                "file": "PARA/1) Project, Short-term Goals/Flappy Bird.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/1) Project/Game Design Document.md"
+                "file": "PARA/1) Project, Short-term Goals/Flappy Bird.md"
               }
             }
           },
@@ -179,8 +179,8 @@
   },
   "active": "c460e84dd4703768",
   "lastOpenFiles": [
-    "PARA/1) Project, Short-term Goals/Flappy Bird.md",
     "Templates/1) Project/Game Design Document.md",
+    "PARA/1) Project, Short-term Goals/Flappy Bird.md",
     "PARA/4) Archive, Completed/Archive.md",
     "PARA/6) Unsorted/Unsorted.md",
     "Templates/4) Archive/Archive.md",
