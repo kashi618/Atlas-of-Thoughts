@@ -1,4 +1,8 @@
-### **[Introduction]* 📋
+---
+tags: []
+---
+
+### **Introduction* 📋
 - Game Summary
 - Inspiration
 - Player Experience
@@ -30,6 +34,6 @@
 - Controls
 ---
 
-> ### **Development Timeline** 📈
+### **Development Timeline** 📈
 
 
