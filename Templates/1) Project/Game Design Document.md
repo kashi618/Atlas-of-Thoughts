@@ -33,7 +33,11 @@ tags: []
 - UI
 - Controls
 ---
-
 ### **Development Timeline** 📈
-
-
+| # | Assignment | Type | Status | Finish By | Notes |
+| ---- | ---- | :--- | ---- | ---- | ---- |
+|  |  |  | #Finished |  |  |
+|  |  |  | #InProgress |  |  |
+|  |  |  | #NotStarted |  |  |
+Type : #Art #Audio #Coding #Other
+Status: #Finished #InProgress #NotStarted 
