@@ -39,9 +39,10 @@
 ##### ▪️ Mechanics
 | Mechanic | Animated Mockup<br>(Art not final) |
 | ---- | ---- |
-| Controlling a ball using a fan |  |
+| Player controls a falling ball going through two cats |  |
 | Change appearance of ball<br>(basketball, soccer ball, etc) |  |
 | Flying cats from the side of the screen |  |
+|  |  |
 
 ---
 # **Art** 🎨
