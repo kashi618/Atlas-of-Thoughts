@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/1) Project, Short-term Goals/Cats and Balls.md",
+                "file": "PARA/3) Resource, Interests/Game Development/2D Platformer.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "PARA/1) Project, Short-term Goals/Cats and Balls.md",
+            "file": "PARA/3) Resource, Interests/Game Development/2D Platformer.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "PARA/1) Project, Short-term Goals/Cats and Balls.md",
+            "file": "PARA/3) Resource, Interests/Game Development/2D Platformer.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "PARA/1) Project, Short-term Goals/Cats and Balls.md"
+            "file": "PARA/3) Resource, Interests/Game Development/2D Platformer.md"
           }
         }
       },
@@ -155,6 +155,7 @@
   "active": "500e70b5e778483d",
   "lastOpenFiles": [
     "PARA/3) Resource, Interests/Cheeses.md",
+    "PARA/1) Project, Short-term Goals/Cats and Balls.md",
     "PARA/3) Resource, Interests/Game Development/2D Platformer.md"
   ]
 }
