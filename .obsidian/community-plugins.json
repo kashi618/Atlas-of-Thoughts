@@ -11,5 +11,11 @@
   "obsidian-emoji-toolbar",
   "editing-toolbar",
   "colored-tags",
-  "obsidian-file-color"
+  "obsidian-file-color",
+  "templater-obsidian",
+  "obsidian-outliner",
+  "obsidian-icon-folder",
+  "recent-files-obsidian",
+  "omnisearch",
+  "homepage"
 ]

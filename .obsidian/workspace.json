@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "73fd6322c8c65991",
+        "id": "56f476ea4f96db49",
         "type": "tabs",
         "children": [
           {
-            "id": "32c2277df4b485ad",
+            "id": "649fb318b499f9af",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "PARA/5) Media, Pictures, Gifs/Tetris - UI and Tetronimos.png"
+              }
+            }
+          },
+          {
+            "id": "dc70c67420f1ccbf",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "PARA/5) Media, Pictures, Gifs/Tetris - Falling Piece.gif"
+              }
+            }
+          },
+          {
+            "id": "2dc77fda3b2d9055",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/3) Resource/Resource.md",
+                "file": "Templates/3) Resource/Wiki Type.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,6 +85,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "bae4cd76c1ec09e7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/3) Resource/Resource.md",
+                "file": "Templates/3) Resource/Wiki Type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/3) Resource/Resource.md",
+                "file": "Templates/3) Resource/Wiki Type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/3) Resource/Resource.md"
+                "file": "Templates/3) Resource/Wiki Type.md"
               }
             }
           },
@@ -156,9 +185,19 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "10af3d52db344972",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Templates/3) Resource/Wiki Type.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -173,26 +212,31 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "32c2277df4b485ad",
+  "active": "2dc77fda3b2d9055",
   "lastOpenFiles": [
-    "Templates/2) Area/Area.md",
-    "PARA/3) Resource, Interests/French Revolution.md",
-    "PARA/3) Resource, Interests/Ideology.md",
-    "Templates/1) Project/Game Design Document.md",
-    "Templates/3) Resource/Resource.md",
-    "PARA/3) Resource, Interests/Nazism.md",
-    "PARA/3) Resource, Interests/Nationalism.md",
+    "PARA/3) Resource, Interests/@ Nazism.md",
+    "Templates/3) Resource/Wiki Type.md",
     "Templates/4) Archive/Archive.md",
-    "PARA/3) Resource, Interests/Index.md",
+    "PARA/3) Resource, Interests/@ French Revolution.md",
+    "PARA/3) Resource, Interests/@ Ideology.md",
+    "PARA/3) Resource, Interests/Nationalism.md",
     "PARA/3) Resource, Interests/Cheeses.md",
-    "PARA/5) Media, Pictures, Gifs/Tetris - Falling Piece.gif",
+    "PARA/1) Project, Short-term Goals/Cats and Balls.md",
     "PARA/5) Media, Pictures, Gifs/Tetris - Completing Line.gif",
+    "PARA/5) Media, Pictures, Gifs/Tetris - Falling Piece.gif",
+    "PARA/5) Media, Pictures, Gifs/Tetris - UI and Tetronimos.png",
+    "PARA/6) Unsorted/Unsorted.md",
+    "PARA/3) Resource, Interests/Index.md",
+    "Templates/2) Area/Area.md",
+    "Templates/1) Project/Game Design Document.md",
     "PARA/3) Resource, Interests/Philosophy",
     "PARA/3) Resource, Interests/LeavingCertNotes/Japanese/Te Form.md",
-    "PARA/1) Project, Short-term Goals/Cats and Balls.md",
     "PARA/3) Resource, Interests/LeavingCertNotes/Japanese/Japanese Kanji.odt",
     "PARA/3) Resource, Interests/LeavingCertNotes/Japanese/Japanese Grammer & Culture Knowledge.odt",
     "PARA/3) Resource, Interests/LeavingCertNotes/Japanese/Japanese Adjectives and Verbs.odt",
@@ -206,9 +250,7 @@
     "PARA/2) Area, Long-term Goals/GameDev ToDo List.md",
     "PARA/3) Resource, Interests/Game Development/2D Platformer.md",
     "Pasted image 20240120231025.png",
-    "PARA/6) Unsorted/Unsorted.md",
     "PARA/1) Project, Short-term Goals/Project.md",
-    "PARA/5) Media, Pictures, Gifs/Tetris - UI and Tetronimos.png",
     "Tetris - UI and Tetronimos.png",
     "PARA/3) Resource, Interests/Readme.md",
     "PARA/4) Archive, Completed/ReadMe.md",
@@ -221,7 +263,6 @@
     "PARA/Flappy Bird Godot.md",
     "Templates/Unsorted/obsidian-template-master/templates/Course.md",
     "Templates/Unsorted/obsidian-template-master/templates/Book.md",
-    "Templates/Unsorted/obsidian-template-master/templates/Company.md",
     "Templates/Unsorted/obsidian-template-master/stats.png",
     "Templates/Unsorted/obsidian-template-master/screenshots/screenshot-1.png",
     "Templates/Unsorted/obsidian-template-master/screenshots/screenshot-3.png",

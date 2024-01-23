@@ -1,7 +1,0 @@
----
-tags:
-  - History
----
-Definition
-
-Examples

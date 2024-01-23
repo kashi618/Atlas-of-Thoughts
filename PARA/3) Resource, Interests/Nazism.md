@@ -1,2 +1,0 @@
-#Politics #History #Ideology 
-What

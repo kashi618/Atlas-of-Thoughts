@@ -1,13 +1,13 @@
 {
   "palette": {
-    "seed": 0,
+    "seed": 1,
     "selected": "adaptive-soft",
     "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
   },
   "mixColors": true,
   "transition": true,
   "accessibility": {
-    "highTextContrast": false
+    "highTextContrast": true
   },
   "knownTags": {
     "Art": 1,
@@ -19,7 +19,9 @@
     "ideology": 7,
     "Ideology": 8,
     "Politics": 9,
-    "History": 10
+    "History": 10,
+    "Philosophy": 11,
+    "Definition": 12
   },
   "_version": 3
 }

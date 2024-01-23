@@ -1,2 +1,0 @@
-[[Cheeses]]
-[[Philosophy]]
