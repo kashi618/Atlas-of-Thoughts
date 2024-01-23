@@ -1,7 +1,8 @@
 ---
-tags: 
-Create Date: "{{date}}"
-Finish Date: Finish Date
+tags:
+  - Definition
+Create Date: 2024-01-23
+Finish Date: 2024-01-23
 ---
 ### Summary 💡
 

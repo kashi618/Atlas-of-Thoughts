@@ -1,7 +1,8 @@
 ---
-tags: 
-Create Date: "{{date}}"
-Finish Date: Finish Date
+tags:
+  - Ideology
+  - Politics
+Created Date: 2024-01-23
 ---
 ### Summary 💡
 

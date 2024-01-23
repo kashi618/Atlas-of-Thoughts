@@ -11,9 +11,23 @@
             "id": "649fb318b499f9af",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "PARA/5) Media, Pictures, Gifs/Tetris - UI and Tetronimos.png"
+                "file": "PARA/3) Resource, Interests/$ Ideology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a18d1d7f4b6dcb76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/3) Resource, Interests/@ Nationalism.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -26,21 +40,9 @@
                 "file": "PARA/5) Media, Pictures, Gifs/Tetris - Falling Piece.gif"
               }
             }
-          },
-          {
-            "id": "2dc77fda3b2d9055",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/3) Resource/Wiki Type.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/3) Resource/Wiki Type.md",
+                "file": "PARA/3) Resource, Interests/@ Nationalism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/3) Resource/Wiki Type.md",
+                "file": "PARA/3) Resource, Interests/@ Nationalism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/3) Resource/Wiki Type.md"
+                "file": "PARA/3) Resource, Interests/@ Nationalism.md"
               }
             }
           },
@@ -192,12 +194,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/3) Resource/Wiki Type.md"
+                "file": "PARA/3) Resource, Interests/@ Nationalism.md"
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -218,22 +220,28 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2dc77fda3b2d9055",
+  "active": "a18d1d7f4b6dcb76",
   "lastOpenFiles": [
-    "PARA/3) Resource, Interests/@ Nazism.md",
+    "PARA/3) Resource, Interests/$ Ideology.md",
+    "PARA/3) Resource, Interests/$ Nazism.md",
+    "PARA/3) Resource, Interests/@ Communism.md",
+    "PARA/3) Resource, Interests/@ Nationalism.md",
+    "PARA/3) Resource, Interests/$ Chinese Communist Party.md",
+    "PARA/3) Resource, Interests/$ French Revolution.md",
     "Templates/3) Resource/Wiki Type.md",
+    "as.md",
+    "Templates/2) Area/Area.md",
+    "PARA/2) Area, Long-term Goals/Cheeses.md",
+    "PARA/2) Area, Long-term Goals/GameDev ToDo List.md",
+    "Ideology.md",
+    "PARA/5) Media, Pictures, Gifs/Tetris - UI and Tetronimos.png",
+    "PARA/5) Media, Pictures, Gifs/Tetris - Falling Piece.gif",
     "Templates/4) Archive/Archive.md",
-    "PARA/3) Resource, Interests/@ French Revolution.md",
-    "PARA/3) Resource, Interests/@ Ideology.md",
-    "PARA/3) Resource, Interests/Nationalism.md",
-    "PARA/3) Resource, Interests/Cheeses.md",
+    "2024-01-23.md",
     "PARA/1) Project, Short-term Goals/Cats and Balls.md",
     "PARA/5) Media, Pictures, Gifs/Tetris - Completing Line.gif",
-    "PARA/5) Media, Pictures, Gifs/Tetris - Falling Piece.gif",
-    "PARA/5) Media, Pictures, Gifs/Tetris - UI and Tetronimos.png",
     "PARA/6) Unsorted/Unsorted.md",
     "PARA/3) Resource, Interests/Index.md",
-    "Templates/2) Area/Area.md",
     "Templates/1) Project/Game Design Document.md",
     "PARA/3) Resource, Interests/Philosophy",
     "PARA/3) Resource, Interests/LeavingCertNotes/Japanese/Te Form.md",
@@ -247,7 +255,6 @@
     "Untitled 1.md",
     "Untitled.canvas",
     "PARA/4) Archive, Completed/Archive.md",
-    "PARA/2) Area, Long-term Goals/GameDev ToDo List.md",
     "PARA/3) Resource, Interests/Game Development/2D Platformer.md",
     "Pasted image 20240120231025.png",
     "PARA/1) Project, Short-term Goals/Project.md",
@@ -258,11 +265,7 @@
     "PARA/5) Media, Pictures, Gifs",
     "PARA/5 Unsorted/ReadMe.md",
     "Pasted image 20240120214420.png",
-    "Excalidraw/Drawing 2024-01-20 21.18.35.excalidraw.md",
     "Excalidraw",
-    "PARA/Flappy Bird Godot.md",
-    "Templates/Unsorted/obsidian-template-master/templates/Course.md",
-    "Templates/Unsorted/obsidian-template-master/templates/Book.md",
     "Templates/Unsorted/obsidian-template-master/stats.png",
     "Templates/Unsorted/obsidian-template-master/screenshots/screenshot-1.png",
     "Templates/Unsorted/obsidian-template-master/screenshots/screenshot-3.png",
