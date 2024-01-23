@@ -11,11 +11,46 @@
             "id": "a8befa7d97e9e093",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PARA/3) Resource, Interests/Cheeses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4411d4764a6293fe",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "PARA/5) Media, Pictures, Gifs/Tetris - Completing Line.gif"
+              }
+            }
+          },
+          {
+            "id": "b6d840738805c460",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "PARA/5) Media, Pictures, Gifs/Tetris - Falling Piece.gif"
+              }
+            }
+          },
+          {
+            "id": "ccaad797504d079d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "PARA/5) Media, Pictures, Gifs/Tetris - Falling Piece.gif"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -65,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -82,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PARA/5) Media, Pictures, Gifs/Tetris - Falling Piece.gif",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PARA/5) Media, Pictures, Gifs/Tetris - Falling Piece.gif",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PARA/5) Media, Pictures, Gifs/Tetris - Falling Piece.gif"
+              }
             }
           },
           {
@@ -151,12 +189,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,15 +204,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a8befa7d97e9e093",
+  "active": "ccaad797504d079d",
   "lastOpenFiles": [
+    "PARA/5) Media, Pictures, Gifs/Tetris - Completing Line.gif",
+    "PARA/5) Media, Pictures, Gifs/Tetris - Falling Piece.gif",
+    "Templates/3) Resource/Resource.md",
+    "French Revolution.md",
+    "PARA/3) Resource, Interests/Nationalism.md",
+    "PARA/3) Resource, Interests/Cheeses.md",
+    "PARA/3) Resource, Interests/Index.md",
+    "Templates/2) Area/Area.md",
+    "PARA/3) Resource, Interests/Philosophy",
     "PARA/3) Resource, Interests/LeavingCertNotes/Japanese/Te Form.md",
     "Templates/4) Archive/Archive.md",
-    "PARA/3) Resource, Interests/Cheeses.md",
     "PARA/1) Project, Short-term Goals/Cats and Balls.md",
     "PARA/3) Resource, Interests/LeavingCertNotes/Japanese/Japanese Kanji.odt",
     "PARA/3) Resource, Interests/LeavingCertNotes/Japanese/Japanese Grammer & Culture Knowledge.odt",
@@ -190,13 +235,9 @@
     "PARA/2) Area, Long-term Goals/GameDev ToDo List.md",
     "PARA/3) Resource, Interests/Game Development/2D Platformer.md",
     "Templates/1) Project/Game Design Document.md",
-    "Templates/3) Resource/Resource.md",
     "Pasted image 20240120231025.png",
     "PARA/6) Unsorted/Unsorted.md",
-    "Templates/2) Area/Area.md",
     "PARA/1) Project, Short-term Goals/Project.md",
-    "PARA/5) Media, Pictures, Gifs/Tetris - Completing Line.gif",
-    "PARA/5) Media, Pictures, Gifs/Tetris - Falling Piece.gif",
     "PARA/5) Media, Pictures, Gifs/Tetris - UI and Tetronimos.png",
     "Tetris - UI and Tetronimos.png",
     "PARA/3) Resource, Interests/Readme.md",
@@ -212,14 +253,10 @@
     "Templates/Unsorted/obsidian-template-master/templates/Book.md",
     "Templates/Unsorted/obsidian-template-master/templates/Company.md",
     "Templates/Unsorted/obsidian-template-master/templates/ID.md",
-    "Templates/Unsorted/obsidian-template-master/templates/Note.md",
-    "Templates/Unsorted/obsidian-template-master/templates/Note extraction.md",
-    "Templates/Unsorted/obsidian-template-master/templates/People.md",
     "Templates/Unsorted/obsidian-template-master/stats.png",
     "Templates/Unsorted/obsidian-template-master/screenshots/screenshot-1.png",
     "Templates/Unsorted/obsidian-template-master/screenshots/screenshot-3.png",
     "Templates/Unsorted/LifeOS/HOME.canvas",
-    "PARA/3) Resource, Interests/Game Development/Godot",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled 1.canvas"

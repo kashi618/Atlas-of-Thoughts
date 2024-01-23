@@ -1,6 +1,5 @@
 [
   "obsidian-git",
-  "obsidian-dictionary-plugin",
   "highlightr-plugin",
   "obsidian-linter",
   "cm-editor-syntax-highlight-obsidian",
@@ -8,8 +7,9 @@
   "obsidian-style-settings",
   "calendar",
   "table-editor-obsidian",
-  "obsidian-excalidraw-plugin",
   "dataview",
   "obsidian-emoji-toolbar",
-  "editing-toolbar"
+  "editing-toolbar",
+  "colored-tags",
+  "obsidian-file-color"
 ]
