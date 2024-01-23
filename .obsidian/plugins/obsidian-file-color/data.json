@@ -1,6 +1,75 @@
 {
   "cascadeColors": false,
   "colorBackground": false,
-  "palette": [],
-  "fileColors": []
+  "palette": [
+    {
+      "id": "FEutWz1dJGUGrGR--ttWS",
+      "name": "Red",
+      "value": "#ffa3a3"
+    },
+    {
+      "id": "ofR1FEOWd-Z_iVxmCVW0M",
+      "name": "Orange",
+      "value": "#fecc90"
+    },
+    {
+      "id": "0jy0IN9iY3Qfpk3uuczKS",
+      "name": "Yellow",
+      "value": "#fcff99"
+    },
+    {
+      "id": "FgjpbEdsIRHThBsc-PvA1",
+      "name": "Green",
+      "value": "#caffbf"
+    },
+    {
+      "id": "tKaQohKU5S1pJjEYgZqYY",
+      "name": "Cyan",
+      "value": "#9bf6ff"
+    },
+    {
+      "id": "ryIZEDHgHv-2z5VPkIp6L",
+      "name": "Blue",
+      "value": "#8a8eff"
+    },
+    {
+      "id": "o_xK7W_WZDfsRTBGCy-0M",
+      "name": "Purple",
+      "value": "#e59ffe"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "PARA/1) Project, Short-term Goals",
+      "color": "FEutWz1dJGUGrGR--ttWS"
+    },
+    {
+      "path": "PARA/2) Area, Long-term Goals",
+      "color": "ofR1FEOWd-Z_iVxmCVW0M"
+    },
+    {
+      "path": "PARA/3) Resource, Interests",
+      "color": "0jy0IN9iY3Qfpk3uuczKS"
+    },
+    {
+      "path": "PARA/4) Archive, Completed",
+      "color": "FgjpbEdsIRHThBsc-PvA1"
+    },
+    {
+      "path": "PARA/5) Media, Pictures, Gifs",
+      "color": "tKaQohKU5S1pJjEYgZqYY"
+    },
+    {
+      "path": "PARA/6) Unsorted",
+      "color": "ryIZEDHgHv-2z5VPkIp6L"
+    },
+    {
+      "path": "PARA",
+      "color": "o_xK7W_WZDfsRTBGCy-0M"
+    },
+    {
+      "path": "Templates",
+      "color": "o_xK7W_WZDfsRTBGCy-0M"
+    }
+  ]
 }

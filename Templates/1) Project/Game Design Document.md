@@ -76,8 +76,8 @@
 ---
 # **Timeline** 📈
 
-Type : #Art
-Status: #Finished #InProgress #NotStarted 
+Type : Coding Music Art Other
+Status: Finished InProgress NotStarted
 
 | # | Assignment | Type | Status | Finish By | Notes |
 | ---- | ---- | :--- | ---- | ---- | ---- |

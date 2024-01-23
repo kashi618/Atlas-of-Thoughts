@@ -13,7 +13,13 @@
     "Art": 1,
     "Finished": 2,
     "InProgress": 3,
-    "NotStarted": 4
+    "NotStarted": 4,
+    "history": 5,
+    "politics": 6,
+    "ideology": 7,
+    "Ideology": 8,
+    "Politics": 9,
+    "History": 10
   },
   "_version": 3
 }
