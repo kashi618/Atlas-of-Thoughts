@@ -1,52 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "Book List",
-      "path": "PARA/2) Area, Long-term Goals/Book List.md"
-    },
-    {
-      "basename": "GameDev ToDo List",
-      "path": "PARA/2) Area, Long-term Goals/GameDev ToDo List.md"
-    },
-    {
-      "basename": "()",
-      "path": "().md"
-    },
-    {
-      "basename": "@ Communism",
-      "path": "PARA/3) Resource, Interests/@ Communism.md"
-    },
-    {
-      "basename": "$ French Revolution",
-      "path": "PARA/3) Resource, Interests/$ French Revolution.md"
-    },
-    {
-      "basename": "Cheeses",
-      "path": "PARA/2) Area, Long-term Goals/Cheeses.md"
-    },
-    {
-      "basename": "$ Chinese Communist Party",
-      "path": "PARA/3) Resource, Interests/$ Chinese Communist Party.md"
-    },
-    {
-      "basename": "@ Nationalism",
-      "path": "PARA/3) Resource, Interests/@ Nationalism.md"
-    },
-    {
-      "basename": "Tetris - Falling Piece",
-      "path": "PARA/5) Media, Pictures, Gifs/Tetris - Falling Piece.gif"
+      "basename": "Dictionary",
+      "path": "PARA/3) Resource, Interests/Dictionary.md"
     },
     {
       "basename": "$ Ideology",
       "path": "PARA/3) Resource, Interests/$ Ideology.md"
     },
     {
+      "basename": "Dictionary",
+      "path": "Templates/2) Area/Dictionary.md"
+    },
+    {
+      "basename": "@ Nationalism",
+      "path": "PARA/3) Resource, Interests/@ Nationalism.md"
+    },
+    {
+      "basename": "Book List",
+      "path": "PARA/2) Area, Long-term Goals/Book List.md"
+    },
+    {
+      "basename": "@ Communism",
+      "path": "PARA/3) Resource, Interests/@ Communism.md"
+    },
+    {
+      "basename": "$ Chinese Communist Party",
+      "path": "PARA/3) Resource, Interests/$ Chinese Communist Party.md"
+    },
+    {
+      "basename": "$ French Revolution",
+      "path": "PARA/3) Resource, Interests/$ French Revolution.md"
+    },
+    {
       "basename": "$ Nazism",
       "path": "PARA/3) Resource, Interests/$ Nazism.md"
+    },
+    {
+      "basename": "Cheeses",
+      "path": "PARA/2) Area, Long-term Goals/Cheeses.md"
+    },
+    {
+      "basename": "GameDev ToDo List",
+      "path": "PARA/2) Area, Long-term Goals/GameDev ToDo List.md"
+    },
+    {
+      "basename": "Cats and Balls",
+      "path": "PARA/1) Project, Short-term Goals/Cats and Balls.md"
+    },
+    {
+      "basename": "Tetris - Completing Line",
+      "path": "PARA/5) Media, Pictures, Gifs/Tetris - Completing Line.gif"
+    },
+    {
+      "basename": "Archive",
+      "path": "PARA/4) Archive, Completed/Archive.md"
+    },
+    {
+      "basename": "Tetris - Falling Piece",
+      "path": "PARA/5) Media, Pictures, Gifs/Tetris - Falling Piece.gif"
     },
     {
       "basename": "Wiki Type",
@@ -59,14 +71,6 @@
     {
       "basename": "Tetris - UI and Tetronimos",
       "path": "PARA/5) Media, Pictures, Gifs/Tetris - UI and Tetronimos.png"
-    },
-    {
-      "basename": "Cats and Balls",
-      "path": "PARA/1) Project, Short-term Goals/Cats and Balls.md"
-    },
-    {
-      "basename": "Tetris - Completing Line",
-      "path": "PARA/5) Media, Pictures, Gifs/Tetris - Completing Line.gif"
     }
   ],
   "omittedPaths": [],

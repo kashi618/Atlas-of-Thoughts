@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "PARA/3) Resource, Interests/@ Communism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f8e5465aeb774b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/3) Resource, Interests/Dictionary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adec673639cdd804",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/3) Resource, Interests/Dictionary.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,27 +99,18 @@
             }
           },
           {
-            "id": "c18f85f28970efef",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "387bde81ffbda191",
+            "id": "edcf14911837d0e8",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 242.50260543823242
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -110,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "PARA/3) Resource, Interests/Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "PARA/3) Resource, Interests/Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "PARA/3) Resource, Interests/Dictionary.md"
               }
             }
           },
@@ -188,7 +204,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "PARA/3) Resource, Interests/Dictionary.md"
               }
             }
           }
@@ -214,26 +230,32 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3bdb8539f75af236",
+  "active": "adec673639cdd804",
   "lastOpenFiles": [
-    "Home.md",
-    "Pasted image 20240124150227.png",
-    "Pasted image 20240124150223.png",
-    "PARA/2) Area, Long-term Goals/GameDev ToDo List.md",
-    "().md",
+    "PARA/3) Resource, Interests/$ Ideology.md",
+    "Templates/2) Area/Dictionary.md",
+    "PARA/3) Resource, Interests/Dictionary.md",
+    "PARA/3) Resource, Interests/@ Nationalism.md",
     "PARA/2) Area, Long-term Goals/Book List.md",
     "PARA/3) Resource, Interests/@ Communism.md",
-    "PARA/3) Resource, Interests/$ French Revolution.md",
-    "Untitled.md",
-    "Plato - The Republic.md",
-    "PARA/2) Area, Long-term Goals/Cheeses.md",
     "PARA/3) Resource, Interests/$ Chinese Communist Party.md",
-    "PARA/3) Resource, Interests/@ Nationalism.md",
+    "PARA/3) Resource, Interests/$ French Revolution.md",
+    "PARA/3) Resource, Interests/$ Nazism.md",
+    "2023-01-01.md",
+    "Ubiquitous.md",
+    "PARA/2) Area, Long-term Goals/Cheeses.md",
+    "PARA/2) Area, Long-term Goals/GameDev ToDo List.md",
+    "PARA/1) Project, Short-term Goals/Cats and Balls.md",
+    "PARA/5) Media, Pictures, Gifs/Tetris - Completing Line.gif",
+    "PARA/4) Archive, Completed/Archive.md",
+    "Pasted image 20240124150227.png",
+    "Pasted image 20240124150223.png",
+    "Home.md",
+    "().md",
+    "Plato - The Republic.md",
     "Spaces/Home",
     "Spaces",
     "PARA/5) Media, Pictures, Gifs/Tetris - Falling Piece.gif",
-    "PARA/3) Resource, Interests/$ Ideology.md",
-    "PARA/3) Resource, Interests/$ Nazism.md",
     "Templates/3) Resource/Wiki Type.md",
     "as.md",
     "Templates/2) Area/Area.md",
@@ -241,13 +263,9 @@
     "PARA/5) Media, Pictures, Gifs/Tetris - UI and Tetronimos.png",
     "Templates/4) Archive/Archive.md",
     "2024-01-23.md",
-    "PARA/1) Project, Short-term Goals/Cats and Balls.md",
-    "PARA/5) Media, Pictures, Gifs/Tetris - Completing Line.gif",
     "PARA/6) Unsorted/Unsorted.md",
     "PARA/3) Resource, Interests/Index.md",
-    "Templates/1) Project/Game Design Document.md",
     "PARA/3) Resource, Interests/Philosophy",
-    "PARA/3) Resource, Interests/LeavingCertNotes/Japanese/Te Form.md",
     "PARA/3) Resource, Interests/LeavingCertNotes/Japanese/Japanese Kanji.odt",
     "PARA/3) Resource, Interests/LeavingCertNotes/Japanese/Japanese Grammer & Culture Knowledge.odt",
     "PARA/3) Resource, Interests/LeavingCertNotes/Japanese/Japanese Adjectives and Verbs.odt",
@@ -256,7 +274,6 @@
     "PARA/3) Resource, Interests/LeavingCertNotes/Japanese",
     "PARA/3) Resource, Interests/LeavingCertNotes",
     "Untitled.canvas",
-    "PARA/4) Archive, Completed/Archive.md",
     "Pasted image 20240120231025.png",
     "Tetris - UI and Tetronimos.png",
     "Pasted image 20240120220226.png",

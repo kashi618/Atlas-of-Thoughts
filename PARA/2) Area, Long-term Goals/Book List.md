@@ -1,5 +1,5 @@
 ### InProgress
-- Plato - The Republic
+- **Plato** - The Republic
 
 ### OnHold
 - **Wu Cheng'en** - Journey to the West
@@ -25,7 +25,8 @@
 - **Homer** - The Odyssey
 - **Virgil** - The Aeneid
 - **Euripides** - Medea
-#### **Childhood Books**:
+- **Aesop** - Aesop's Fables
+- #### **Childhood Books**:
 - **Dav Pilkey** - The Adventures of Captain Underpants
 - **David Walliams** - Mr Stink
 - **David Walliams** - Billionare Boy
