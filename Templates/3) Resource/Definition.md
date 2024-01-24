@@ -1,4 +1,4 @@
-## Abolition ^[The act of officially ending, removing, or stopping something. ]
+## Abolition ^Abolition
 ##### Definition📖
 The act of officially ending, removing, or stopping something. 
 ##### Example✏️
