@@ -212,7 +212,7 @@
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
   "cMenuWidth": 502,
-  "cMenuFontColor": "#1f497d",
+  "cMenuFontColor": "#0affe4",
   "cMenuBackgroundColor": "#d3f8b6",
   "autohide": false,
   "custom_bg1": "#FFB78B8C",
@@ -220,9 +220,9 @@
   "custom_bg3": "#A0CCF68C",
   "custom_bg4": "#F0A7D88C",
   "custom_bg5": "#ADEFEF8C",
-  "custom_fc1": "#D83931",
-  "custom_fc2": "#DE7802",
-  "custom_fc3": "#245BDB",
-  "custom_fc4": "#6425D0",
-  "custom_fc5": "#646A73"
+  "custom_fc1": "#0AFFE4",
+  "custom_fc2": "#FECC90",
+  "custom_fc3": "#FFB0F3",
+  "custom_fc4": "#AEFFCE",
+  "custom_fc5": "#A2FAFF"
 }

@@ -16,5 +16,21 @@
       "key": "S"
     }
   ],
-  "markdown:add-metadata-property": []
+  "markdown:add-metadata-property": [],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad1"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad3"
+    }
+  ]
 }

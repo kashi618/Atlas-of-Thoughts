@@ -1,0 +1,27 @@
+{
+  "palette": {
+    "seed": 1,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": true
+  },
+  "knownTags": {
+    "Art": 1,
+    "Finished": 2,
+    "InProgress": 3,
+    "NotStarted": 4,
+    "history": 5,
+    "politics": 6,
+    "ideology": 7,
+    "Ideology": 8,
+    "Politics": 9,
+    "History": 10,
+    "Philosophy": 11,
+    "Definition": 12
+  },
+  "_version": 3
+}
