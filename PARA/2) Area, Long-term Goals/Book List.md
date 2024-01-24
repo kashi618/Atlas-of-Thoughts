@@ -11,11 +11,20 @@
 -  **Khaled Hosseini** - The Kite Runner
 - **Harper Lee** - To Kill a Mockingbird
 - **Jenny Downham** - Before I Die
+- **Sun Tzu** - Art of War
+-  **Antoine De Saint-Exupéry** - The Little Prince
+- **Shi Nai'an** - The Water Margin Outlaws of the Marsh
 
 ### Finished
 - **Andy Mulligan** - Trash
 - **S. E. Hinton** - The Outsiders
 - **Yan Lianke** - The Day the Sun Died
+- **Osamu Dazai** - No Longer Human
+- **John Steinbeck** - Of Mice and Men
+- **Karl Marx & Friedrich Engels** - The Communist Manifesto
+- **Homer** - The Odyssey
+- **Virgil** - The Aeneid
+- **Euripides** - Medea
 #### **Childhood Books**:
 - **Dav Pilkey** - The Adventures of Captain Underpants
 - **David Walliams** - Mr Stink
