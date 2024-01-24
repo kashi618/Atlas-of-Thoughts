@@ -8,41 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "649fb318b499f9af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA/3) Resource, Interests/$ Ideology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a18d1d7f4b6dcb76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA/3) Resource, Interests/@ Nationalism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dc70c67420f1ccbf",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "PARA/5) Media, Pictures, Gifs/Tetris - Falling Piece.gif"
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PARA/3) Resource, Interests/@ Nationalism.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/3) Resource, Interests/@ Nationalism.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/3) Resource, Interests/@ Nationalism.md"
+                "file": "Home.md"
               }
             }
           },
@@ -194,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PARA/3) Resource, Interests/@ Nationalism.md"
+                "file": "Home.md"
               }
             }
           }
@@ -220,8 +197,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a18d1d7f4b6dcb76",
+  "active": "dc70c67420f1ccbf",
   "lastOpenFiles": [
+    "PARA/5) Media, Pictures, Gifs/Tetris - Falling Piece.gif",
+    "Home.md",
     "PARA/3) Resource, Interests/$ Ideology.md",
     "PARA/3) Resource, Interests/$ Nazism.md",
     "PARA/3) Resource, Interests/@ Communism.md",
@@ -235,7 +214,6 @@
     "PARA/2) Area, Long-term Goals/GameDev ToDo List.md",
     "Ideology.md",
     "PARA/5) Media, Pictures, Gifs/Tetris - UI and Tetronimos.png",
-    "PARA/5) Media, Pictures, Gifs/Tetris - Falling Piece.gif",
     "Templates/4) Archive/Archive.md",
     "2024-01-23.md",
     "PARA/1) Project, Short-term Goals/Cats and Balls.md",
@@ -260,10 +238,8 @@
     "PARA/1) Project, Short-term Goals/Project.md",
     "Tetris - UI and Tetronimos.png",
     "PARA/3) Resource, Interests/Readme.md",
-    "PARA/4) Archive, Completed/ReadMe.md",
     "Pasted image 20240120220226.png",
     "PARA/5) Media, Pictures, Gifs",
-    "PARA/5 Unsorted/ReadMe.md",
     "Pasted image 20240120214420.png",
     "Excalidraw",
     "Templates/Unsorted/obsidian-template-master/stats.png",
