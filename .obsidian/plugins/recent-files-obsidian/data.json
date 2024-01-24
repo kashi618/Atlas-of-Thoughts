@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Home.md"
+      "basename": "Book List",
+      "path": "PARA/2) Area, Long-term Goals/Book List.md"
     },
     {
-      "basename": "Tetris - Falling Piece",
-      "path": "PARA/5) Media, Pictures, Gifs/Tetris - Falling Piece.gif"
+      "basename": "GameDev ToDo List",
+      "path": "PARA/2) Area, Long-term Goals/GameDev ToDo List.md"
+    },
+    {
+      "basename": "()",
+      "path": "().md"
+    },
+    {
+      "basename": "@ Communism",
+      "path": "PARA/3) Resource, Interests/@ Communism.md"
+    },
+    {
+      "basename": "$ French Revolution",
+      "path": "PARA/3) Resource, Interests/$ French Revolution.md"
+    },
+    {
+      "basename": "Cheeses",
+      "path": "PARA/2) Area, Long-term Goals/Cheeses.md"
+    },
+    {
+      "basename": "$ Chinese Communist Party",
+      "path": "PARA/3) Resource, Interests/$ Chinese Communist Party.md"
     },
     {
       "basename": "@ Nationalism",
       "path": "PARA/3) Resource, Interests/@ Nationalism.md"
+    },
+    {
+      "basename": "Tetris - Falling Piece",
+      "path": "PARA/5) Media, Pictures, Gifs/Tetris - Falling Piece.gif"
     },
     {
       "basename": "$ Ideology",
@@ -21,32 +45,12 @@
       "path": "PARA/3) Resource, Interests/$ Nazism.md"
     },
     {
-      "basename": "@ Communism",
-      "path": "PARA/3) Resource, Interests/@ Communism.md"
-    },
-    {
-      "basename": "$ Chinese Communist Party",
-      "path": "PARA/3) Resource, Interests/$ Chinese Communist Party.md"
-    },
-    {
-      "basename": "$ French Revolution",
-      "path": "PARA/3) Resource, Interests/$ French Revolution.md"
-    },
-    {
       "basename": "Wiki Type",
       "path": "Templates/3) Resource/Wiki Type.md"
     },
     {
       "basename": "Area",
       "path": "Templates/2) Area/Area.md"
-    },
-    {
-      "basename": "Cheeses",
-      "path": "PARA/2) Area, Long-term Goals/Cheeses.md"
-    },
-    {
-      "basename": "GameDev ToDo List",
-      "path": "PARA/2) Area, Long-term Goals/GameDev ToDo List.md"
     },
     {
       "basename": "Tetris - UI and Tetronimos",

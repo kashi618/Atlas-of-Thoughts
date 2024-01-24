@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "56f476ea4f96db49",
+        "id": "8950c90f1baf23ef",
         "type": "tabs",
         "children": [
           {
-            "id": "dc70c67420f1ccbf",
+            "id": "5057b2ca19e04ad5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "PARA/2) Area, Long-term Goals/Book List.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -72,6 +72,22 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "c18f85f28970efef",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "387bde81ffbda191",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -93,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "PARA/2) Area, Long-term Goals/Book List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "PARA/2) Area, Long-term Goals/Book List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "PARA/2) Area, Long-term Goals/Book List.md"
               }
             }
           },
@@ -171,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "PARA/2) Area, Long-term Goals/Book List.md"
               }
             }
           }
@@ -197,21 +213,29 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dc70c67420f1ccbf",
+  "active": "5057b2ca19e04ad5",
   "lastOpenFiles": [
-    "PARA/5) Media, Pictures, Gifs/Tetris - Falling Piece.gif",
+    "Pasted image 20240124150227.png",
+    "Pasted image 20240124150223.png",
+    "PARA/2) Area, Long-term Goals/GameDev ToDo List.md",
+    "().md",
+    "PARA/2) Area, Long-term Goals/Book List.md",
+    "PARA/3) Resource, Interests/@ Communism.md",
+    "PARA/3) Resource, Interests/$ French Revolution.md",
+    "Untitled.md",
+    "Plato - The Republic.md",
     "Home.md",
+    "PARA/2) Area, Long-term Goals/Cheeses.md",
+    "PARA/3) Resource, Interests/$ Chinese Communist Party.md",
+    "PARA/3) Resource, Interests/@ Nationalism.md",
+    "Spaces/Home",
+    "Spaces",
+    "PARA/5) Media, Pictures, Gifs/Tetris - Falling Piece.gif",
     "PARA/3) Resource, Interests/$ Ideology.md",
     "PARA/3) Resource, Interests/$ Nazism.md",
-    "PARA/3) Resource, Interests/@ Communism.md",
-    "PARA/3) Resource, Interests/@ Nationalism.md",
-    "PARA/3) Resource, Interests/$ Chinese Communist Party.md",
-    "PARA/3) Resource, Interests/$ French Revolution.md",
     "Templates/3) Resource/Wiki Type.md",
     "as.md",
     "Templates/2) Area/Area.md",
-    "PARA/2) Area, Long-term Goals/Cheeses.md",
-    "PARA/2) Area, Long-term Goals/GameDev ToDo List.md",
     "Ideology.md",
     "PARA/5) Media, Pictures, Gifs/Tetris - UI and Tetronimos.png",
     "Templates/4) Archive/Archive.md",
@@ -230,21 +254,14 @@
     "PARA/3) Resource, Interests/LeavingCertNotes/Japanese/Japanese Oral Exam Pictures.odt",
     "PARA/3) Resource, Interests/LeavingCertNotes/Japanese",
     "PARA/3) Resource, Interests/LeavingCertNotes",
-    "Untitled 1.md",
     "Untitled.canvas",
     "PARA/4) Archive, Completed/Archive.md",
-    "PARA/3) Resource, Interests/Game Development/2D Platformer.md",
     "Pasted image 20240120231025.png",
-    "PARA/1) Project, Short-term Goals/Project.md",
     "Tetris - UI and Tetronimos.png",
-    "PARA/3) Resource, Interests/Readme.md",
     "Pasted image 20240120220226.png",
-    "PARA/5) Media, Pictures, Gifs",
     "Pasted image 20240120214420.png",
-    "Excalidraw",
     "Templates/Unsorted/obsidian-template-master/stats.png",
     "Templates/Unsorted/obsidian-template-master/screenshots/screenshot-1.png",
-    "Templates/Unsorted/obsidian-template-master/screenshots/screenshot-3.png",
     "Templates/Unsorted/LifeOS/HOME.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
