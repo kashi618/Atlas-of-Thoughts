@@ -28,11 +28,11 @@
 - Processes/Plastic cheese
 
 #### ToBeTried
-- [ ] Fresh Mozzarell
-- [ ] Double Gloucester
-- [ ] Red Leicester
-- [ ] Blue Stilton
-- [ ] Gorgonzola
-- [ ] Sage Derby
-- [ ] Rogue River Blue
-- [ ] Montgomery jack
+- Fresh Mozzarella
+- Double Gloucester
+- Red Leicester
+- Blue Stilton
+- Gorgonzola
+- Sage Derby
+- Rogue River Blue
+- Montgomery jack
