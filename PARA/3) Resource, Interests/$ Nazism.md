@@ -2,6 +2,8 @@
 tags:
   - Ideology
   - Politics
+  - History
+  - Government
 Created Date: 2024-01-23
 ---
 ### Summary 💡

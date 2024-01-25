@@ -9,6 +9,7 @@ Created Date: 2024-01-23
 > A classless society based on the abolition of private property.
 
 ### Definition 📖 
+A form of [[Utopia|utopian]] society.
 ##### Quotes:
 "The theory of Communists may be summed up in the single sentence: Abolition of private property"
 

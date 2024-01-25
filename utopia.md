@@ -1,15 +1,13 @@
 ---
-tags:
-  - Definition
-Create Date: 2024-01-23
-Finish Date: 2024-01-23
+tags: 
+Create Date: 2024-01-25
+Finish Date: Finish Date
 ---
 ### Summary 💡
 
 
 > [!NOTE] Title
 > Summary
-
 ### Definition 📖
 ##### Quotes:
 

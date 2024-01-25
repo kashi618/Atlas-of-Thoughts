@@ -8,7 +8,6 @@ Finish Date: Finish Date
 
 > [!NOTE] Title
 > Summary
-
 ### Definition 📖
 ##### Quotes:
 

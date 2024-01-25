@@ -1,1 +1,1 @@
-Elliot Rodgers
+Elliot Rodgers, a 22 year old incel frequently vlogging his thoughts about "sexually active men" on youtube. 

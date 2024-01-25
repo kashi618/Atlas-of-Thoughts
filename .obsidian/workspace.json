@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "2b24ec62c9108c1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "305a4a7c6ff342e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/3) Resource, Interests/$ 2014 Isla Vista Massacre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "32ffe595e1e161fa",
         "type": "tabs",
         "children": [
@@ -13,19 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eudaimonia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab5db7bead34a58b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA/2) Area, Long-term Goals/Book List.md",
+                "file": "$ Logic.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,6 +49,7 @@
       {
         "id": "1b4e08c64f3212e8",
         "type": "tabs",
+        "dimension": 61.24721603563474,
         "children": [
           {
             "id": "d828e5b8bc561a69",
@@ -70,23 +77,7 @@
             }
           },
           {
-            "id": "6e896f928abd4fd1",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "bae4cd76c1ec09e7",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "edcf14911837d0e8",
+            "id": "e4ac9152b73f12dd",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -94,10 +85,25 @@
             }
           }
         ]
+      },
+      {
+        "id": "33f9e54b0fb84bb3",
+        "type": "tabs",
+        "dimension": 38.75278396436526,
+        "children": [
+          {
+            "id": "4e6cdfd6861a3b7f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 242.50260543823242
+    "width": 300.5026054382324
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -113,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eudaimonia.md",
+                "file": "PARA/3) Resource, Interests/$ 2014 Isla Vista Massacre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eudaimonia.md",
+                "file": "PARA/3) Resource, Interests/$ 2014 Isla Vista Massacre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eudaimonia.md"
+                "file": "PARA/3) Resource, Interests/$ 2014 Isla Vista Massacre.md"
               }
             }
           },
@@ -191,7 +197,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Eudaimonia.md"
+                "file": "PARA/3) Resource, Interests/$ 2014 Isla Vista Massacre.md"
               }
             }
           }
@@ -205,6 +211,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -214,44 +221,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "audio-recorder:Start/stop recording": false,
       "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false,
       "homepage:Open homepage": false
     }
   },
-  "active": "1d23e0dc76f5024c",
+  "active": "305a4a7c6ff342e8",
   "lastOpenFiles": [
+    "PARA/3) Resource, Interests/$ Chinese Communist Party.md",
+    "PARA/3) Resource, Interests/$ 2014 Isla Vista Massacre.md",
     "PARA/3) Resource, Interests/@ Communism.md",
+    "Utopia.md",
+    "utopia.md",
+    "$ Philosophy.md",
+    "$ Epistemology.md",
+    "$ Logic.md",
+    "$ Aesthetics.md",
+    "$ Ethics.md",
+    "$ Political Philosophy.md",
+    "$ Metaphysics.md",
+    "Templates/3) Resource/Wiki Type.md",
+    "Untitled.canvas",
+    "Templates/2) Area/Dictionary.md",
+    "Templates/2) Area/Area.md",
+    "Templates/3) Resource/Definition.md",
+    "PARA/3) Resource, Interests/@ Eudaimonia.md",
     "PARA/3) Resource, Interests/@ Nationalism.md",
-    "Eudaimonia.md",
+    "PARA/3) Resource, Interests/$ French Revolution.md",
+    "PARA/3) Resource, Interests/$ Nazism.md",
+    "PARA/3) Resource, Interests/$ Ideology.md",
+    "PARA/2) Area, Long-term Goals/Book List.md",
     "Home.md",
     "abolition.md",
-    "PARA/2) Area, Long-term Goals/Book List.md",
     "PARA/3) Resource, Interests/Dictionary.md",
-    "PARA/3) Resource, Interests/$ 2014 Isla Vista Massacre.md",
-    "PARA/3) Resource, Interests/$ Nazism.md",
-    "PARA/3) Resource, Interests/$ Chinese Communist Party.md",
     "PARA/3) Resource, Interests/Abolition.md",
-    "Templates/3) Resource/Definition.md",
-    "Templates/3) Resource/Wiki Type.md",
-    "PARA/3) Resource, Interests/$ French Revolution.md",
-    "PARA/3) Resource, Interests/$ Ideology.md",
-    "Ideology.md",
-    "Templates/2) Area/Dictionary.md",
-    "2023-01-01.md",
-    "Ubiquitous.md",
-    "PARA/2) Area, Long-term Goals/Cheeses.md",
-    "PARA/2) Area, Long-term Goals/GameDev ToDo List.md",
-    "PARA/1) Project, Short-term Goals/Cats and Balls.md",
     "PARA/5) Media, Pictures, Gifs/Tetris - Completing Line.gif",
-    "PARA/4) Archive, Completed/Archive.md",
     "Pasted image 20240124150227.png",
     "Pasted image 20240124150223.png",
-    "().md",
-    "Plato - The Republic.md",
     "Spaces/Home",
     "Spaces",
     "PARA/5) Media, Pictures, Gifs/Tetris - Falling Piece.gif",
-    "as.md",
     "PARA/5) Media, Pictures, Gifs/Tetris - UI and Tetronimos.png",
     "PARA/3) Resource, Interests/Philosophy",
     "PARA/3) Resource, Interests/LeavingCertNotes/Japanese/Japanese Kanji.odt",
@@ -261,7 +268,6 @@
     "PARA/3) Resource, Interests/LeavingCertNotes/Japanese/Japanese Oral Exam Pictures.odt",
     "PARA/3) Resource, Interests/LeavingCertNotes/Japanese",
     "PARA/3) Resource, Interests/LeavingCertNotes",
-    "Untitled.canvas",
     "Pasted image 20240120231025.png",
     "Tetris - UI and Tetronimos.png",
     "Pasted image 20240120220226.png",

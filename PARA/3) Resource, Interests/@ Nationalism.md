@@ -6,7 +6,7 @@ Created Date: 2024-01-23
 ---
 ### Summary: 💡
 > [!NOTE] Nationalism
-> An [[$ Ideology]] based on one's loyalty and devotion to a state.
+> An ideology based on one's loyalty and devotion to a state.
 ### Definition: 📖
 ##### Quotes:
 

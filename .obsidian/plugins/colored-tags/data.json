@@ -21,7 +21,9 @@
     "Politics": 9,
     "History": 10,
     "Philosophy": 11,
-    "Definition": 12
+    "Definition": 12,
+    "PoliticalPhilosophy": 13,
+    "Government": 14
   },
   "_version": 3
 }
