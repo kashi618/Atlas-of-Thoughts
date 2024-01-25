@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ceb5bc3e92b8474b",
+        "id": "e98e90fbf409d655",
         "type": "tabs",
         "children": [
           {
-            "id": "8ffc9f511d8777fc",
+            "id": "fbd7fec6ce954a79",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81b8a2a668c85586",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -44,7 +27,7 @@
       {
         "id": "1b4e08c64f3212e8",
         "type": "tabs",
-        "dimension": 61.24721603563475,
+        "dimension": 61.24721603563474,
         "children": [
           {
             "id": "d828e5b8bc561a69",
@@ -130,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,9 +186,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -217,8 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,10 +211,25 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "81b8a2a668c85586",
+  "active": "fbd7fec6ce954a79",
   "lastOpenFiles": [
+    "Media, Pictures, Gifs/Tetris - UI and Tetronimos.png",
+    "Media, Pictures, Gifs/Tetris - Completing Line.gif",
+    "Media, Pictures, Gifs/Sennheiser HD599.png",
+    "Media, Pictures, Gifs/Moondrop Chu II.png",
+    "Media, Pictures, Gifs/KZ ZS10 Pro.png",
+    "Media, Pictures, Gifs/Audio Technica M50xBT2.png",
+    "Media, Pictures, Gifs/AKG K371-BT.png",
+    "Media, Pictures, Gifs/Hifiman HE400se.png",
+    "PARA/2) Area, Long-term Goals/Headphones & IEMs.md",
+    "Media, Pictures, Gifs/Salnotes Dioko.png",
     "Home.md",
-    "Untitled.md",
+    "Salnotes Diokoa.png",
+    "PARA/2) Area, Long-term Goals/GameDev ToDo List.md",
+    "Media, Pictures, Gifs/Sennheiser HD600.png",
+    "PARA/2) Area, Long-term Goals/Book List.md",
+    "PARA/2) Area, Long-term Goals/Cheeses.md",
+    "PARA/4) Archive, Completed/Archive.md",
     "PARA/3) Resource, Interests/@ Communism.md",
     "Spaces/Home",
     "Spaces",
@@ -261,16 +252,6 @@
     "Templates/3) Resource/Definition.md",
     "PARA/3) Resource, Interests/@ Eudaimonia.md",
     "PARA/3) Resource, Interests/@ Nationalism.md",
-    "PARA/3) Resource, Interests/$ Ideology.md",
-    "PARA/2) Area, Long-term Goals/Book List.md",
-    "abolition.md",
-    "PARA/3) Resource, Interests/Dictionary.md",
-    "PARA/3) Resource, Interests/Abolition.md",
-    "PARA/5) Media, Pictures, Gifs/Tetris - Completing Line.gif",
-    "Pasted image 20240124150227.png",
-    "Pasted image 20240124150223.png",
-    "PARA/5) Media, Pictures, Gifs/Tetris - Falling Piece.gif",
-    "PARA/5) Media, Pictures, Gifs/Tetris - UI and Tetronimos.png",
     "PARA/3) Resource, Interests/Philosophy",
     "PARA/3) Resource, Interests/LeavingCertNotes/Japanese/Japanese Kanji.odt",
     "PARA/3) Resource, Interests/LeavingCertNotes/Japanese/Japanese Grammer & Culture Knowledge.odt",
@@ -279,11 +260,6 @@
     "PARA/3) Resource, Interests/LeavingCertNotes/Japanese/Japanese Oral Exam Pictures.odt",
     "PARA/3) Resource, Interests/LeavingCertNotes/Japanese",
     "PARA/3) Resource, Interests/LeavingCertNotes",
-    "Pasted image 20240120231025.png",
-    "Tetris - UI and Tetronimos.png",
-    "Pasted image 20240120220226.png",
-    "Pasted image 20240120214420.png",
-    "Templates/Unsorted/obsidian-template-master/stats.png",
     "Templates/Unsorted/LifeOS/HOME.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
