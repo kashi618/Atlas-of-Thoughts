@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "09223c5b78393b77",
+        "id": "ceb5bc3e92b8474b",
         "type": "tabs",
         "children": [
           {
-            "id": "d2a1b5ebd73ba5f0",
+            "id": "8ffc9f511d8777fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "33f9e54b0fb84bb3",
@@ -223,12 +223,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d2a1b5ebd73ba5f0",
+  "active": "8ffc9f511d8777fc",
   "lastOpenFiles": [
+    "PARA/3) Resource, Interests/@ Communism.md",
+    "Home.md",
     "Spaces/Home",
     "Spaces",
-    "Home.md",
-    "PARA/3) Resource, Interests/@ Communism.md",
     "PARA/3) Resource, Interests/$ Nazism.md",
     "PARA/3) Resource, Interests/$ French Revolution.md",
     "PARA/3) Resource, Interests/$ Philosophy.md",

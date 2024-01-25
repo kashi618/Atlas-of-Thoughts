@@ -5,6 +5,10 @@
       "path": "Home.md"
     },
     {
+      "basename": "GameDev ToDo List",
+      "path": "PARA/2) Area, Long-term Goals/GameDev ToDo List.md"
+    },
+    {
       "basename": "@ Communism",
       "path": "PARA/3) Resource, Interests/@ Communism.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "Cheeses",
       "path": "PARA/2) Area, Long-term Goals/Cheeses.md"
-    },
-    {
-      "basename": "GameDev ToDo List",
-      "path": "PARA/2) Area, Long-term Goals/GameDev ToDo List.md"
     },
     {
       "basename": "Cats and Balls",
