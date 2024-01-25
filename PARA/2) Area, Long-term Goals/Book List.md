@@ -12,7 +12,7 @@
 - **Harper Lee** - To Kill a Mockingbird
 - **Jenny Downham** - Before I Die
 - **Sun Tzu** - Art of War
--  **Antoine De Saint-Exupéry** - The Little Prince
+- **Antoine De Saint-Exupéry** - The Little Prince
 - **Shi Nai'an** - The Water Margin Outlaws of the Marsh
 
 ### Finished
@@ -25,8 +25,25 @@
 - **Homer** - The Odyssey
 - **Virgil** - The Aeneid
 - **Euripides** - Medea
+
+### ToBuy/Planning
+###### Philosophy
+- **Friedrich Nietzsche** - Gay Science
+- **Friedrich Nietzsche** - Beyond Good and Evil
+- **Plato** - Dialogues
+- **Plato** - Crito
+- **Ovid** - Metamorphosis
+- **Aquinas** - Treatise on Law
+- **Heraclitus** - On Nature
+###### Fiction/Non-Fiction
+- **Cormac MacCarthy** - Blood Meridian
+- **Osamu Dazai** - The Setting Sun
+
+
+- 
+
+### **Childhood Books**
 - **Aesop** - Aesop's Fables
-- #### **Childhood Books**:
 - **Dav Pilkey** - The Adventures of Captain Underpants
 - **David Walliams** - Mr Stink
 - **David Walliams** - Billionare Boy
@@ -78,8 +95,3 @@
 - **Roald Dahl** - The BFG
 - **Roald Dahl** - Matilda
 - **Stephan Pastis** - Timmy Failure the Cat Stole my Pants
-
-
-### ToBuy
-- Blood Meridian
-- 

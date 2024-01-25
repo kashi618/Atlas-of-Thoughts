@@ -6,7 +6,7 @@ Created Date: 2024-01-23
 ---
 ### Summary 💡
 > [!NOTE] Communism
-> A classless society based on the [[abolition]] of private property.
+> A classless society based on the abolition of private property.
 
 ### Definition 📖 
 ##### Quotes:
