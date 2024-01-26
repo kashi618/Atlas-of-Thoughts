@@ -11,8 +11,12 @@
             "id": "fbd7fec6ce954a79",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -27,7 +31,7 @@
       {
         "id": "1b4e08c64f3212e8",
         "type": "tabs",
-        "dimension": 61.24721603563474,
+        "dimension": 61.24721603563475,
         "children": [
           {
             "id": "d828e5b8bc561a69",
@@ -78,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "33f9e54b0fb84bb3",
@@ -113,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           },
           {
@@ -186,7 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           }
         ],
@@ -213,6 +224,9 @@
   },
   "active": "fbd7fec6ce954a79",
   "lastOpenFiles": [
+    "Spaces/Home",
+    "Spaces",
+    "Home.md",
     "Media, Pictures, Gifs/Tetris - UI and Tetronimos.png",
     "Media, Pictures, Gifs/Tetris - Completing Line.gif",
     "Media, Pictures, Gifs/Sennheiser HD599.png",
@@ -223,16 +237,12 @@
     "Media, Pictures, Gifs/Hifiman HE400se.png",
     "PARA/2) Area, Long-term Goals/Headphones & IEMs.md",
     "Media, Pictures, Gifs/Salnotes Dioko.png",
-    "Home.md",
     "Salnotes Diokoa.png",
     "PARA/2) Area, Long-term Goals/GameDev ToDo List.md",
-    "Media, Pictures, Gifs/Sennheiser HD600.png",
     "PARA/2) Area, Long-term Goals/Book List.md",
     "PARA/2) Area, Long-term Goals/Cheeses.md",
     "PARA/4) Archive, Completed/Archive.md",
     "PARA/3) Resource, Interests/@ Communism.md",
-    "Spaces/Home",
-    "Spaces",
     "PARA/3) Resource, Interests/$ Nazism.md",
     "PARA/3) Resource, Interests/$ French Revolution.md",
     "PARA/3) Resource, Interests/$ Philosophy.md",
