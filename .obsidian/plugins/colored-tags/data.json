@@ -23,7 +23,8 @@
     "Philosophy": 11,
     "Definition": 12,
     "PoliticalPhilosophy": 13,
-    "Government": 14
+    "Government": 14,
+    "Project": 15
   },
   "_version": 3
 }

@@ -13,7 +13,7 @@ Finish Date: Finish Date
 Think of philosophy as a tree, with many branches reaching out.
 The main branches consists of:
 - [[$ Metaphysics]]
-- [[Epistemology #]]
+- [[$ Epistemology]]
 - [[$ Ethics]]
 - [[$ Political Philosophy]]
 - [[$ Aesthetics]]
