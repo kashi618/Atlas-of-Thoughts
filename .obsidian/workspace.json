@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/3) Resource, Interests/$ Ethics.md",
-                "mode": "preview",
+                "file": "PARA/Index.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -130,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PARA/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PARA/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PARA/Index.md"
+              }
             }
           },
           {
@@ -203,7 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "PARA/Index.md"
+              }
             }
           }
         ],
@@ -227,7 +233,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4e6cdfd6861a3b7f",
+  "active": "15747b421939cc18",
   "lastOpenFiles": [
     "PARA/3) Resource, Interests/$ Ethics.md",
     "PARA/3) Resource, Interests/$ Aesthetics.md",
