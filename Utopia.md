@@ -1,11 +1,12 @@
 ---
-tags: 
+tags:
+  - "#Philosophy"
 Create Date: 2024-01-25
 ---
 ### Summary 💡
 
 
-> [!NOTE] Title
+> [!NOTE] Utopia
 > Summary
 ### Definition 📖
 ##### Quotes:

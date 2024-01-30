@@ -9,7 +9,7 @@ Create Date: 2024-01-23
 ### Summary 💡
 
 
-> [!NOTE] Title
+> [!NOTE] Nazism
 > Summary
 
 ### Definition 📖

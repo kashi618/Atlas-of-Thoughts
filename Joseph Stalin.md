@@ -1,11 +1,13 @@
 ---
-tags: 
-Create Date: "{{date}}"
-Finish Date: Finish Date
+tags:
+  - "#People"
+  - "#Politics"
+  - Russian
+Create Date: 2024-01-30
 ---
 ### Summary 💡
 
-> [!NOTE] Title
+> [!NOTE] Joseph Stalin
 > Summary
 
 ### Definition 📖

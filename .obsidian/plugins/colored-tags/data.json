@@ -24,7 +24,14 @@
     "Definition": 12,
     "PoliticalPhilosophy": 13,
     "Government": 14,
-    "Project": 15
+    "Project": 15,
+    "Science": 16,
+    "People": 17,
+    "Russia": 18,
+    "Russian": 19,
+    "Western": 20,
+    "Profession": 21,
+    "Greek": 22
   },
   "_version": 3
 }

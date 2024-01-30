@@ -32,7 +32,7 @@
 - **Friedrich Nietzsche** - Beyond Good and Evil
 - **Plato** - Dialogues
 - **Plato** - Crito
-- **Ovid** - Metamorphosis
+- **Ovid** - Metamorphoses
 - **Marcus Aurelius** - Meditations
 - **Aquinas** - Treatise on Law
 - **Heraclitus** - On Nature
@@ -42,7 +42,9 @@
 - **Osamu Dazai** - The Setting Sun
 -  **Yevgeny Zamyatin** - We
 	*Distopian Future*
-###### Non-Fiction
+- **Franz Kafka** - The Metamorphosis
+##### Science
+- **Nikolai Vavilov** - Origin and Geography of Cultivated Plants
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 tags:
-  - History
-Create Date: 2024-01-23
+  - "#Philosophy"
+Create Date: 2024-01-24
 ---
 ### Summary 💡
 
-
-> [!NOTE] Title
+> [!NOTE] Western Philosophy
 > Summary
 
 ### Definition 📖
+
 ##### Quotes:
 
 ### Examples ✏️
