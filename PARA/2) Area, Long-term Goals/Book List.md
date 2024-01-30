@@ -27,7 +27,7 @@
 - **Euripides** - Medea
 
 ### ToBuy/Planning
-###### Philosophy
+##### Philosophy
 - **Friedrich Nietzsche** - Gay Science
 - **Friedrich Nietzsche** - Beyond Good and Evil
 - **Plato** - Dialogues
@@ -35,13 +35,18 @@
 - **Ovid** - Metamorphosis
 - **Aquinas** - Treatise on Law
 - **Heraclitus** - On Nature
-###### Fiction/Non-Fiction
+##### Fiction
 - **Cormac MacCarthy** - Blood Meridian
 - **Osamu Dazai** - The Setting Sun
+-  **Yevgeny Zamyatin** - We
+	Distopian Future
+###### Non-Fiction
 
+---
 
-- 
+<br>
 
+---
 ### **Childhood Books**
 - **Aesop** - Aesop's Fables
 - **Dav Pilkey** - The Adventures of Captain Underpants
