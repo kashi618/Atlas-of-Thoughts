@@ -13,10 +13,10 @@
   "colored-tags",
   "obsidian-file-color",
   "templater-obsidian",
-  "obsidian-outliner",
   "obsidian-icon-folder",
   "recent-files-obsidian",
   "omnisearch",
   "obsidian-sort-and-permute-lines",
-  "make-md"
+  "make-md",
+  "obsidian-outliner"
 ]

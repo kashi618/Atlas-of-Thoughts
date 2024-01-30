@@ -8,7 +8,7 @@
 - **Friedrich Nietzsche** - Ecce Homo
 - **Friedrich Nietzsche** - The Anti Christ 
 - **Jordan Peterson** - 12 Rules for Life
--  **Khaled Hosseini** - The Kite Runner
+- **Khaled Hosseini** - The Kite Runner
 - **Harper Lee** - To Kill a Mockingbird
 - **Jenny Downham** - Before I Die
 - **Sun Tzu** - Art of War
@@ -33,13 +33,15 @@
 - **Plato** - Dialogues
 - **Plato** - Crito
 - **Ovid** - Metamorphosis
+- **Marcus Aurelius** - Meditations
 - **Aquinas** - Treatise on Law
 - **Heraclitus** - On Nature
+- **Epictetus** - Discourses and Selected Writings
 ##### Fiction
 - **Cormac MacCarthy** - Blood Meridian
 - **Osamu Dazai** - The Setting Sun
 -  **Yevgeny Zamyatin** - We
-	Distopian Future
+	*Distopian Future*
 ###### Non-Fiction
 
 ---

@@ -18,7 +18,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "/",
+  "activeView": "Spaces/Home",
   "hideFrontmatter": true,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
@@ -38,10 +38,19 @@
     "/",
     "Spaces/Home/Spaces/Home/a",
     "Spaces/Home/Spaces/Home/a",
-    "//PARA",
     "Spaces/Home/Spaces/Home/a",
     "//PARA/PARA/3) Resource, Interests",
-    "//PARA/PARA/2) Area, Long-term Goals"
+    "//PARA/PARA/2) Area, Long-term Goals",
+    "//PARA/PARA/4) Archive, Completed",
+    "//PARA/PARA/4) Archive, Completed",
+    "//Templates/Templates/2) Area",
+    "//Templates/Templates/3) Resource",
+    "//Templates/Templates/2) Area",
+    "//Templates/Templates/4) Archive",
+    "////PARA",
+    "////PARA",
+    "///",
+    "///"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -64,6 +73,7 @@
   "waypoints": [
     "Spaces/Home",
     "/",
+    "PARA",
     "spaces://$tags"
   ],
   "spacesUseAlias": false,

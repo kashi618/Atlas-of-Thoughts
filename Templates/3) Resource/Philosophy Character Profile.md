@@ -1,17 +1,16 @@
 ---
-tags: 
+tags:
+  - Philosophy
 Create Date: "{{date}}"
 Finish Date: Finish Date
 ---
-### Summary 💡
+### Who? 💡
 
-> [!NOTE] Title
-> Summary
+> [!NOTE] Name
+> Description
 
-### Definition 📖
+### Beliefs 📖
 
 ##### Quotes:
-
-### Examples ✏️
 
 ### Sources/References 🌐 
