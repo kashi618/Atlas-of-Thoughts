@@ -31,7 +31,8 @@
     "Russian": 19,
     "Western": 20,
     "Profession": 21,
-    "Greek": 22
+    "Greek": 22,
+    "Soviet": 23
   },
   "_version": 3
 }
