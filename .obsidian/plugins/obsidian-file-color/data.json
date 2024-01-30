@@ -36,6 +36,11 @@
       "id": "o_xK7W_WZDfsRTBGCy-0M",
       "name": "Purple",
       "value": "#e59ffe"
+    },
+    {
+      "id": "0asfs8T8-i_ZQw4P8xoLn",
+      "name": "HOME",
+      "value": "#fe7171"
     }
   ],
   "fileColors": [
@@ -66,6 +71,10 @@
     {
       "path": "Templates",
       "color": "o_xK7W_WZDfsRTBGCy-0M"
+    },
+    {
+      "path": "PARA/Home.md",
+      "color": "0asfs8T8-i_ZQw4P8xoLn"
     }
   ]
 }

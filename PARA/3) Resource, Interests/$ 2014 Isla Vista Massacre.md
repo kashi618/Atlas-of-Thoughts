@@ -1,1 +1,1 @@
-Elliot Rodgers, a 22 year old incel frequently vlogging his thoughts about "sexually active men" on youtube. Goes on a killing rampage.
+Elliot Rodgers, a 22 year old incel frequently vlogging his thoughts about "sexually active men" on youtube. Goes on a killing rampage

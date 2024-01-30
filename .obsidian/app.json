@@ -1,8 +1,8 @@
 {
   "alwaysUpdateLinks": true,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "strictLineBreaks": false,
   "showLineNumber": true,
   "spellcheck": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "source"
 }

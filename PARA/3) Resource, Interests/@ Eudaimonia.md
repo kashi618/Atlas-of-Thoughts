@@ -2,7 +2,6 @@
 tags:
   - Philosophy
 Create Date: 2024-01-25
-Finish Date: Finish Date
 ---
 ### Summary 💡
 
