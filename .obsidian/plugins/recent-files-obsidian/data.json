@@ -5,6 +5,10 @@
       "path": "PARA/2) Area, Long-term Goals/Book List.md"
     },
     {
+      "basename": "Aesthetics",
+      "path": "Aesthetics.md"
+    },
+    {
       "basename": "Cheeses",
       "path": "PARA/2) Area, Long-term Goals/Cheeses.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "Chinese Communist Party",
       "path": "Chinese Communist Party.md"
-    },
-    {
-      "basename": "Aesthetics",
-      "path": "Aesthetics.md"
     },
     {
       "basename": "Agronomist",

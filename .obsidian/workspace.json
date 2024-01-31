@@ -132,6 +132,14 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "440667ba7e77650e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       },
@@ -213,13 +221,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "d828e5b8bc561a69",
+  "active": "4895439786fb2328",
   "lastOpenFiles": [
-    "PARA/2) Area, Long-term Goals/Cheeses.md",
+    "Aesthetics.md",
     "PARA/2) Area, Long-term Goals/Book List.md",
+    "PARA/2) Area, Long-term Goals/Cheeses.md",
     "Political Philosophy.md",
     "The Odyssey.md",
     "Socrates.md",
@@ -235,7 +248,6 @@
     "Logic.md",
     "PARA/3) Resource, Interests/Eudaimonia.md",
     "Chinese Communist Party.md",
-    "Aesthetics.md",
     "PARA/3) Resource, Interests/Agronomist.md",
     "PARA/3) Resource, Interests/Communism.md",
     "PARA/3) Resource, Interests/Abolition.md",
