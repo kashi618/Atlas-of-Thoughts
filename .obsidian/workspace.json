@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "118c4baac38a38c3",
+        "id": "70e09ead894e0de8",
         "type": "tabs",
         "children": [
           {
-            "id": "eee79ec4f3a45061",
+            "id": "4895439786fb2328",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nikolai Vavilov.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -31,7 +27,7 @@
       {
         "id": "1b4e08c64f3212e8",
         "type": "tabs",
-        "dimension": 53.67483296213808,
+        "dimension": 59.242761692650326,
         "children": [
           {
             "id": "d828e5b8bc561a69",
@@ -85,12 +81,12 @@
         ]
       },
       {
-        "id": "8c0290a4b158d729",
+        "id": "5f252b2efa3321c0",
         "type": "tabs",
-        "dimension": 46.32516703786192,
+        "dimension": 40.75723830734967,
         "children": [
           {
-            "id": "d202517a9fd809b7",
+            "id": "370a24fabb7b70f5",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -117,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Nikolai Vavilov.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Nikolai Vavilov.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,7 +175,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nikolai Vavilov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +191,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nikolai Vavilov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,21 +211,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "workspaces:Manage workspace layouts": false,
-      "homepage:Open homepage": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "eee79ec4f3a45061",
+  "active": "4895439786fb2328",
   "lastOpenFiles": [
+    "Political Philosophy.md",
+    "The Odyssey.md",
     "Socrates.md",
     "Soviet Union.md",
     "Nikolai Vavilov.md",
     "Nazism.md",
     "PARA/3) Resource, Interests/Philosophy.md",
-    "Political Philosophy.md",
     "Joseph Stalin.md",
     "French Revolution.md",
     "Epistemology.md",
@@ -255,7 +246,6 @@
     "Western Philosophy.md",
     "Metaphysics.md",
     "PARA/2) Area, Long-term Goals/Cheeses.md",
-    "PARA/Templates/3) Resource/Word Definition.md",
     "Media, Pictures, Gifs/Socrates.png",
     "Untitled",
     "Pasted image 20240130210156.png",
