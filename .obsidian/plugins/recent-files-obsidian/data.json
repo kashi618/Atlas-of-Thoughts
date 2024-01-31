@@ -5,6 +5,10 @@
       "path": "PARA/2) Area, Long-term Goals/Book List.md"
     },
     {
+      "basename": "Cats and Balls",
+      "path": "PARA/1) Project, Short-term Goals/Cats and Balls.md"
+    },
+    {
       "basename": "Cheeses",
       "path": "PARA/2) Area, Long-term Goals/Cheeses.md"
     },
@@ -183,10 +187,6 @@
     {
       "basename": "Sennheiser HD600",
       "path": "Media, Pictures, Gifs/Sennheiser HD600.png"
-    },
-    {
-      "basename": "Cats and Balls",
-      "path": "PARA/1) Project, Short-term Goals/Cats and Balls.md"
     },
     {
       "basename": "Tetris - Falling Piece",

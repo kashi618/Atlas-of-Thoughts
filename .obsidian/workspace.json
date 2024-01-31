@@ -132,6 +132,14 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "440667ba7e77650e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       },
@@ -213,7 +221,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "d828e5b8bc561a69",
