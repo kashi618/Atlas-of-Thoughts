@@ -45,10 +45,6 @@
   ],
   "fileColors": [
     {
-      "path": "PARA/1) Project, Short-term Goals",
-      "color": "FEutWz1dJGUGrGR--ttWS"
-    },
-    {
       "path": "PARA/2) Area, Long-term Goals",
       "color": "ofR1FEOWd-Z_iVxmCVW0M"
     },
@@ -71,6 +67,10 @@
     {
       "path": "PARA/Templates",
       "color": "o_xK7W_WZDfsRTBGCy-0M"
+    },
+    {
+      "path": "PARA/1) Project, Short-term Goals",
+      "color": "FEutWz1dJGUGrGR--ttWS"
     }
   ]
 }
