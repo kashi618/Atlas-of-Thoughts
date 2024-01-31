@@ -1,30 +1,30 @@
 ### InProgress
-- **Plato** - The Republic
+- **Plato** - The Republic (*135,250*)
 
 ### OnHold
-- **Wu Cheng'en** - Journey to the West
-- **Luo Guanzhong** - Romance of the Three Kingdoms
-- **Friedrich Nietzsche** - Twilight of the Idols
-- **Friedrich Nietzsche** - Ecce Homo
-- **Friedrich Nietzsche** - The Anti Christ 
-- **Jordan Peterson** - 12 Rules for Life
-- **Khaled Hosseini** - The Kite Runner
-- **Harper Lee** - To Kill a Mockingbird
-- **Jenny Downham** - Before I Die
-- **Sun Tzu** - Art of War
-- **Antoine De Saint-Exupéry** - The Little Prince
-- **Shi Nai'an** - The Water Margin Outlaws of the Marsh
+- **Wu Cheng'en** - Journey to the West (*480,000*)
+- **Luo Guanzhong** - Romance of the Three Kingdoms (*585,000)
+- **Friedrich Nietzsche** - Twilight of the Idols (*26,000*)
+- **Friedrich Nietzsche** - Ecce Homo (*40,000*)
+- **Friedrich Nietzsche** - The Anti Christ (*24,000*)
+- **Jordan Peterson** - 12 Rules for Life: An Antidote to Chaos (*97,000*)
+- **Khaled Hosseini** - The Kite Runner (*88,000*)
+- **Harper Lee** - To Kill a Mockingbird (*84,000*)
+- **Jenny Downham** - Before I Die (*69,500*)
+- **Sun Tzu** - Art of War (*17,000*)
+- **Antoine De Saint-Exupéry** - The Little Prince (*24,672*)
+- **Shi Nai'an** - The Water Margin Outlaws of the Marsh (*681,000)
 
 ### Finished
-- **Andy Mulligan** - Trash
-- **S. E. Hinton** - The Outsiders
-- **Yan Lianke** - The Day the Sun Died
-- **Osamu Dazai** - No Longer Human
-- **John Steinbeck** - Of Mice and Men
-- **Karl Marx & Friedrich Engels** - The Communist Manifesto
-- **Homer** - The Odyssey
-- **Virgil** - The Aeneid
-- **Euripides** - Medea
+- **Andy Mulligan** - Trash (*60,000*)
+- **S. E. Hinton** - The Outsiders (*57,000*)
+- **Yan Lianke** - The Day the Sun Died (*127,000*)
+- **Osamu Dazai** - No Longer Human (*44,000*)
+- **John Steinbeck** - Of Mice and Men (*34,000*)
+- **Karl Marx & Friedrich Engels** - The Communist Manifesto (*4,000*)
+- **Homer** - The Odyssey (*180,000*)
+- **Virgil** - The Aeneid (*140,000*)
+- **Euripides** - Medea (*15,000*)
 
 ### ToBuy/Planning
 ##### Philosophy
@@ -43,8 +43,12 @@
 -  **Yevgeny Zamyatin** - We
 	*Distopian Future*
 - **Franz Kafka** - The Metamorphosis
+- **Homer** - Illiad
+- **James Joyce** - Ulysses
 ##### Science
 - **Nikolai Vavilov** - Origin and Geography of Cultivated Plants
+
+
 
 ---
 

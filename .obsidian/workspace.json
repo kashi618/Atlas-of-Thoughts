@@ -11,8 +11,12 @@
             "id": "4895439786fb2328",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PARA/2) Area, Long-term Goals/Book List.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -113,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PARA/2) Area, Long-term Goals/Book List.md"
+              }
             }
           },
           {
@@ -139,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "PARA/2) Area, Long-term Goals/Book List.md"
+              }
             }
           },
           {
@@ -175,6 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PARA/2) Area, Long-term Goals/Book List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,6 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PARA/2) Area, Long-term Goals/Book List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
