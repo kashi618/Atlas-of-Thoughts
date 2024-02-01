@@ -5,28 +5,40 @@
       "path": "PARA/2) Area, Long-term Goals/Book List.md"
     },
     {
-      "basename": "Cats and Balls",
-      "path": "PARA/1) Project, Short-term Goals/Cats and Balls.md"
+      "basename": "Eudaimonia",
+      "path": "PARA/3) Resource, Interests/Eudaimonia.md"
     },
     {
-      "basename": "Cheeses",
-      "path": "PARA/2) Area, Long-term Goals/Cheeses.md"
+      "basename": "Nikolai Vavilov",
+      "path": "PARA/3) Resource, Interests/Nikolai Vavilov.md"
     },
     {
-      "basename": "The Odyssey",
-      "path": "The Odyssey.md"
+      "basename": "Headphones & IEMs",
+      "path": "PARA/2) Area, Long-term Goals/Headphones & IEMs.md"
+    },
+    {
+      "basename": "Agronomist",
+      "path": "PARA/3) Resource, Interests/Agronomist.md"
+    },
+    {
+      "basename": "Chinese Communist Party",
+      "path": "Chinese Communist Party.md"
+    },
+    {
+      "basename": "Socrates",
+      "path": "Socrates.md"
     },
     {
       "basename": "Political Philosophy",
       "path": "Political Philosophy.md"
     },
     {
-      "basename": "Nikolai Vavilov",
-      "path": "Nikolai Vavilov.md"
+      "basename": "The Odyssey",
+      "path": "The Odyssey.md"
     },
     {
-      "basename": "Socrates",
-      "path": "Socrates.md"
+      "basename": "Utopia",
+      "path": "Utopia.md"
     },
     {
       "basename": "Soviet Union",
@@ -35,6 +47,18 @@
     {
       "basename": "Nazism",
       "path": "Nazism.md"
+    },
+    {
+      "basename": "Aesthetics",
+      "path": "Aesthetics.md"
+    },
+    {
+      "basename": "2014 Isla Vista Massacre",
+      "path": "2014 Isla Vista Massacre.md"
+    },
+    {
+      "basename": "Cheeses",
+      "path": "PARA/2) Area, Long-term Goals/Cheeses.md"
     },
     {
       "basename": "Philosophy",
@@ -65,22 +89,6 @@
       "path": "Logic.md"
     },
     {
-      "basename": "Eudaimonia",
-      "path": "PARA/3) Resource, Interests/Eudaimonia.md"
-    },
-    {
-      "basename": "Chinese Communist Party",
-      "path": "Chinese Communist Party.md"
-    },
-    {
-      "basename": "Aesthetics",
-      "path": "Aesthetics.md"
-    },
-    {
-      "basename": "Agronomist",
-      "path": "PARA/3) Resource, Interests/Agronomist.md"
-    },
-    {
       "basename": "Communism",
       "path": "PARA/3) Resource, Interests/Communism.md"
     },
@@ -91,10 +99,6 @@
     {
       "basename": "Nationalism",
       "path": "Nationalism.md"
-    },
-    {
-      "basename": "Utopia",
-      "path": "Utopia.md"
     },
     {
       "basename": "Western Philosophy",
@@ -121,10 +125,6 @@
       "path": "PARA/Templates/3) Resource/Wiki Type.md"
     },
     {
-      "basename": "2014 Isla Vista Massacre",
-      "path": "2014 Isla Vista Massacre.md"
-    },
-    {
       "basename": "Socrates",
       "path": "Media, Pictures, Gifs/Socrates.png"
     },
@@ -139,10 +139,6 @@
     {
       "basename": "Archive",
       "path": "PARA/4) Archive, Completed/Archive.md"
-    },
-    {
-      "basename": "Headphones & IEMs",
-      "path": "PARA/2) Area, Long-term Goals/Headphones & IEMs.md"
     },
     {
       "basename": "GameDev ToDo List",
@@ -187,6 +183,10 @@
     {
       "basename": "Sennheiser HD600",
       "path": "Media, Pictures, Gifs/Sennheiser HD600.png"
+    },
+    {
+      "basename": "Cats and Balls",
+      "path": "PARA/1) Project, Short-term Goals/Cats and Balls.md"
     },
     {
       "basename": "Tetris - Falling Piece",
