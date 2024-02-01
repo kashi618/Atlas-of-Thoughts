@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Odyssey.md",
+                "file": "PARA/2) Area, Long-term Goals/Book List.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Odyssey.md"
+                "file": "PARA/2) Area, Long-term Goals/Book List.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "The Odyssey.md"
+                "file": "PARA/2) Area, Long-term Goals/Book List.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Odyssey.md",
+                "file": "PARA/2) Area, Long-term Goals/Book List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Odyssey.md",
+                "file": "PARA/2) Area, Long-term Goals/Book List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,21 +224,25 @@
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false,
-      "homepage:Open homepage": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "4895439786fb2328",
   "lastOpenFiles": [
-    "Utopia.md",
-    "The Odyssey.md",
-    "Soviet Union.md",
+    "PARA/3) Resource, Interests/Eudaimonia.md",
+    "PARA/3) Resource, Interests/Nikolai Vavilov.md",
+    "PARA/2) Area, Long-term Goals/Headphones & IEMs.md",
+    "PARA/3) Resource, Interests/Agronomist.md",
+    "Chinese Communist Party.md",
     "Socrates.md",
-    "Nazism.md",
     "Political Philosophy.md",
+    "Poppies in July.md",
+    "The Odyssey.md",
+    "Utopia.md",
+    "Soviet Union.md",
+    "Nazism.md",
     "Aesthetics.md",
     "2014 Isla Vista Massacre.md",
-    "PARA/3) Resource, Interests/Nikolai Vavilov.md",
     "PARA/2) Area, Long-term Goals/Book List.md",
     "PARA/2) Area, Long-term Goals/Cheeses.md",
     "conflict-files-obsidian-git.md",
@@ -249,13 +253,8 @@
     "Ethics.md",
     "Mathematics.md",
     "Logic.md",
-    "PARA/3) Resource, Interests/Eudaimonia.md",
-    "Chinese Communist Party.md",
-    "PARA/3) Resource, Interests/Agronomist.md",
     "PARA/3) Resource, Interests/Communism.md",
     "PARA/3) Resource, Interests/Abolition.md",
-    "PARA/Home.md",
-    "Nationalism.md",
     "Media, Pictures, Gifs/Socrates.png",
     "Untitled",
     "Pasted image 20240130210156.png",
