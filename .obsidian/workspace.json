@@ -82,7 +82,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "5f252b2efa3321c0",
@@ -229,6 +230,7 @@
   },
   "active": "4895439786fb2328",
   "lastOpenFiles": [
+    "PARA/2) Area, Long-term Goals/Book List.md",
     "PARA/3) Resource, Interests/Eudaimonia.md",
     "PARA/3) Resource, Interests/Nikolai Vavilov.md",
     "PARA/2) Area, Long-term Goals/Headphones & IEMs.md",
@@ -243,7 +245,6 @@
     "Nazism.md",
     "Aesthetics.md",
     "2014 Isla Vista Massacre.md",
-    "PARA/2) Area, Long-term Goals/Book List.md",
     "PARA/2) Area, Long-term Goals/Cheeses.md",
     "conflict-files-obsidian-git.md",
     "PARA/3) Resource, Interests/Philosophy.md",

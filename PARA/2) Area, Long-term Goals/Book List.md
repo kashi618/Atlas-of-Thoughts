@@ -2,7 +2,6 @@
 - **Plato** - The Republic (*135,250*)
 - **Plutarch** - The Age Of Alexander (*156,000*)
 - **Arrian** - The Campaigns of Alexander (*108,000*)
-- 
 
 ### OnHold
 - **Wu Cheng'en** - Journey to the West (*480,000*)
@@ -16,7 +15,7 @@
 - **Jenny Downham** - Before I Die (*69,500*)
 - **Sun Tzu** - Art of War (*17,000*)
 - **Antoine De Saint-Exupéry** - The Little Prince (*24,672*)
-- **Shi Nai'an** - The Water Margin Outlaws of the Marsh (*681,000)
+- **Shi Nai'an** - The Water Margin Outlaws of the Marsh (*681,000*)
 
 ### Finished
 - **Andy Mulligan** - Trash (*60,000*)
@@ -31,23 +30,23 @@
 
 ### ToBuy/Planning
 ##### Philosophy
-- **Friedrich Nietzsche** - Gay Science
-- **Friedrich Nietzsche** - Beyond Good and Evil
+- **Friedrich Nietzsche** - Gay Science (*100,000*)
+- **Friedrich Nietzsche** - Beyond Good and Evil (*29,000*)
 - **Plato** - Dialogues
-- **Plato** - Crito
-- **Ovid** - Metamorphoses
-- **Marcus Aurelius** - Meditations
-- **Aquinas** - Treatise on Law
+- **Plato** - Crito (*10,000*)
+- **Ovid** - Metamorphoses (*100,000*)
+- **Marcus Aurelius** - Meditations (*40,000*)
+- **Aquinas** - Treatise on Law (*64,000*)
 - **Heraclitus** - On Nature
-- **Epictetus** - Discourses and Selected Writings
+- **Epictetus** - Discourses and Selected Writings (*76,000*)
 ##### Fiction
-- **Cormac MacCarthy** - Blood Meridian
-- **Osamu Dazai** - The Setting Sun
--  **Yevgeny Zamyatin** - We
+- **Cormac MacCarthy** - Blood Meridian (*87,000*)
+- **Osamu Dazai** - The Setting Sun (*48,000*)
+-  **Yevgeny Zamyatin** - We (*55,000*)
 	*Distopian Future*
-- **Franz Kafka** - The Metamorphosis
-- **Homer** - Illiad
-- **James Joyce** - Ulysses
+- **Franz Kafka** - The Metamorphosis (*22,000**)
+- **Homer** - Illiad (*88,000*)
+- **James Joyce** - Ulysses (*168,000*)
 ##### Science
 - **Nikolai Vavilov** - Origin and Geography of Cultivated Plants
 
