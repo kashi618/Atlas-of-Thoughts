@@ -29612,25 +29612,22 @@ var SimpleGit = class extends GitManager {
     this.plugin.setState(1 /* status */);
     const status2 = await this.git.status((err) => this.onError(err));
     this.plugin.setState(0 /* idle */);
+    const allFilesFormatted = status2.files.map((e) => {
+      const res = this.formatPath(e);
+      return {
+        path: res.path,
+        from: res.from,
+        index: e.index === "?" ? "U" : e.index,
+        working_dir: e.working_dir === "?" ? "U" : e.working_dir,
+        vault_path: this.getVaultPath(res.path)
+      };
+    });
     return {
-      changed: status2.files.filter((e) => e.working_dir !== " ").map((e) => {
-        const res = this.formatPath(e);
-        return {
-          path: res.path,
-          from: res.from,
-          working_dir: e.working_dir === "?" ? "U" : e.working_dir,
-          vault_path: this.getVaultPath(res.path)
-        };
-      }),
-      staged: status2.files.filter((e) => e.index !== " " && e.index != "?").map((e) => {
-        const res = this.formatPath(e, e.index === "R");
-        return {
-          path: res.path,
-          from: res.from,
-          index: e.index,
-          vault_path: this.getVaultPath(res.path)
-        };
-      }),
+      all: allFilesFormatted,
+      changed: allFilesFormatted.filter((e) => e.working_dir !== " "),
+      staged: allFilesFormatted.filter(
+        (e) => e.index !== " " && e.index != "U"
+      ),
       conflicted: status2.conflicted.map(
         (path2) => this.formatPath({ path: path2 }).path
       )
@@ -31268,7 +31265,7 @@ var IsomorphicGit = class extends GitManager {
       const conflicted = [];
       window.clearTimeout(timeout);
       notice == null ? void 0 : notice.hide();
-      return { changed, staged, conflicted };
+      return { all: status2, changed, staged, conflicted };
     } catch (error) {
       window.clearTimeout(timeout);
       notice == null ? void 0 : notice.hide();
@@ -31648,7 +31645,7 @@ var IsomorphicGit = class extends GitManager {
       throw error;
     }
   }
-  async branchIsMerged(branch2) {
+  async branchIsMerged(_) {
     return true;
   }
   async init() {
@@ -31815,7 +31812,7 @@ var IsomorphicGit = class extends GitManager {
     );
     await this.setConfig(`branch.${branch2}.remote`, remote);
   }
-  updateGitPath(gitPath) {
+  updateGitPath(_) {
     return;
   }
   async getFileChangesCount(commitHash1, commitHash2) {
@@ -32024,8 +32021,8 @@ var IsomorphicGit = class extends GitManager {
       return diff2;
     } else {
       let workdirContent;
-      if (await app.vault.adapter.exists(vaultPath)) {
-        workdirContent = await app.vault.adapter.read(vaultPath);
+      if (await this.app.vault.adapter.exists(vaultPath)) {
+        workdirContent = await this.app.vault.adapter.read(vaultPath);
       } else {
         workdirContent = "";
       }
@@ -34137,7 +34134,7 @@ var ChangedFilesModal = class extends import_obsidian14.FuzzySuggestModal {
     let working_dir = "";
     let index2 = "";
     if (item.working_dir != " ")
-      working_dir = `Working dir: ${item.working_dir} `;
+      working_dir = `Working Dir: ${item.working_dir} `;
     if (item.index != " ")
       index2 = `Index: ${item.index}`;
     return `${working_dir}${index2} | ${item.vault_path}`;
@@ -43121,11 +43118,11 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
       id: "add-to-gitignore",
       name: "Add file to gitignore",
       checkCallback: (checking) => {
-        const file = app.workspace.getActiveFile();
+        const file = this.app.workspace.getActiveFile();
         if (checking) {
           return file !== null;
         } else {
-          app.vault.adapter.append(
+          this.app.vault.adapter.append(
             this.gitManager.getVaultPath(".gitignore"),
             "\n" + this.gitManager.asRepositoryRelativePath(
               file.path,
@@ -43294,12 +43291,13 @@ var ObsidianGit = class extends import_obsidian30.Plugin {
         if (!await this.isAllInitialized())
           return;
         const status2 = await this.gitManager.status();
+        console.log(status2);
         this.setState(0 /* idle */);
         if (status2.changed.length + status2.staged.length > 500) {
           this.displayError("Too many changes to display");
           return;
         }
-        new ChangedFilesModal(this, status2.changed).open();
+        new ChangedFilesModal(this, status2.all).open();
       }
     });
     this.addCommand({
@@ -44270,9 +44268,7 @@ I strongly recommend to use "Source mode" for viewing the conflicted files. For 
     if (remoteName) {
       this.displayMessage("Fetching remote branches");
       await this.gitManager.fetch(remoteName);
-      const branches = await this.gitManager.getRemoteBranches(
-        remoteName
-      );
+      const branches = await this.gitManager.getRemoteBranches(remoteName);
       const branchModal = new GeneralModal({
         options: branches,
         placeholder: "Select or create a new remote branch by typing its name and selecting it"
