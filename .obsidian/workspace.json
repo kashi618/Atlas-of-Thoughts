@@ -4,34 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "6a65b0f5c339f67b",
+        "id": "bf961dea5671e214",
         "type": "tabs",
         "children": [
           {
-            "id": "ec0f0f5d7f3443de",
+            "id": "8113a90455cff7aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Western Philosophy.md",
-                "mode": "preview",
+                "file": "PARA/3) Resource, Interests/Nikolai Vavilov.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "4b2076d0fe6f3939",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-07 13.59.01.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-07 13.59.01.excalidraw.md"
+                "file": "PARA/3) Resource, Interests/Nikolai Vavilov.md"
               }
             }
           },
@@ -167,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-07 13.59.01.excalidraw.md"
+                "file": "PARA/3) Resource, Interests/Nikolai Vavilov.md"
               }
             }
           },
@@ -189,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-07 13.59.01.excalidraw.md",
+                "file": "PARA/3) Resource, Interests/Nikolai Vavilov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-07 13.59.01.excalidraw.md",
+                "file": "PARA/3) Resource, Interests/Nikolai Vavilov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,10 +223,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4b2076d0fe6f3939",
+  "active": "8113a90455cff7aa",
   "lastOpenFiles": [
-    "Western Philosophy.md",
+    "PARA/3) Resource, Interests/Agronomist.md",
+    "PARA/Other/School/Drawing 2024-02-07 15.06.58.excalidraw.md",
     "Excalidraw/Drawing 2024-02-07 13.59.01.excalidraw.md",
+    "Untitled.canvas",
+    "Western Philosophy.md",
     "Excalidraw",
     "Untitled.md",
     "PARA/2) Area, Long-term Goal, Notes/Headphones & IEMs.md",
@@ -247,7 +239,6 @@
     "PARA/2) Area, Long-term Goal, Notes/GameDev ToDo List.md",
     "PARA/Other",
     "PARA/3) Resource, Interests/Nikolai Vavilov.md",
-    "PARA/3) Resource, Interests/Agronomist.md",
     "PARA/3) Resource, Interests/Communism.md",
     "PARA/3) Resource, Interests/Abolition.md",
     "MHW Large Monsters.md",
@@ -265,7 +256,6 @@
     "Aesthetics.md",
     "2014 Isla Vista Massacre.md",
     "conflict-files-obsidian-git.md",
-    "PARA/3) Resource, Interests/Philosophy.md",
     "Media, Pictures, Gifs/Socrates.png",
     "Pasted image 20240130210156.png",
     "Media, Pictures, Gifs/Nikolai Vavilov.png",
@@ -280,7 +270,6 @@
     "Media, Pictures, Gifs/KZ ZS10 Pro.png",
     "Media, Pictures, Gifs/Audio Technica M50xBT2.png",
     "Media, Pictures, Gifs/AKG K371-BT.png",
-    "Untitled.canvas",
     "PARA/3) Resource, Interests/Philosophy",
     "PARA/3) Resource, Interests/LeavingCertNotes/Japanese/Japanese Kanji.odt",
     "PARA/3) Resource, Interests/LeavingCertNotes/Japanese/Japanese Grammer & Culture Knowledge.odt",
