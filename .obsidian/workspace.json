@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/2) Area, Long-term Goal, Notes/Book List.md",
+                "file": "Western Philosophy.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "4b2076d0fe6f3939",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-07 13.59.01.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/2) Area, Long-term Goal, Notes/Book List.md"
+                "file": "Excalidraw/Drawing 2024-02-07 13.59.01.excalidraw.md"
               }
             }
           },
@@ -156,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PARA/2) Area, Long-term Goal, Notes/Book List.md"
+                "file": "Excalidraw/Drawing 2024-02-07 13.59.01.excalidraw.md"
               }
             }
           },
@@ -178,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PARA/2) Area, Long-term Goal, Notes/Book List.md",
+                "file": "Excalidraw/Drawing 2024-02-07 13.59.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/2) Area, Long-term Goal, Notes/Book List.md",
+                "file": "Excalidraw/Drawing 2024-02-07 13.59.01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,15 +230,22 @@
       "audio-recorder:Start/stop recording": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec0f0f5d7f3443de",
+  "active": "4b2076d0fe6f3939",
   "lastOpenFiles": [
+    "Western Philosophy.md",
+    "Excalidraw/Drawing 2024-02-07 13.59.01.excalidraw.md",
+    "Excalidraw",
+    "Untitled.md",
     "PARA/2) Area, Long-term Goal, Notes/Headphones & IEMs.md",
-    "PARA/2) Area, Long-term Goal, Notes/GameDev ToDo List.md",
-    "PARA/2) Area, Long-term Goal, Notes/Cheeses.md",
+    "PARA/Other/School",
     "PARA/2) Area, Long-term Goal, Notes/Book List.md",
+    "PARA/2) Area, Long-term Goal, Notes/Cheeses.md",
+    "PARA/2) Area, Long-term Goal, Notes/GameDev ToDo List.md",
+    "PARA/Other",
     "PARA/3) Resource, Interests/Nikolai Vavilov.md",
     "PARA/3) Resource, Interests/Agronomist.md",
     "PARA/3) Resource, Interests/Communism.md",
@@ -248,9 +266,6 @@
     "2014 Isla Vista Massacre.md",
     "conflict-files-obsidian-git.md",
     "PARA/3) Resource, Interests/Philosophy.md",
-    "Joseph Stalin.md",
-    "French Revolution.md",
-    "Epistemology.md",
     "Media, Pictures, Gifs/Socrates.png",
     "Pasted image 20240130210156.png",
     "Media, Pictures, Gifs/Nikolai Vavilov.png",
@@ -269,9 +284,6 @@
     "PARA/3) Resource, Interests/Philosophy",
     "PARA/3) Resource, Interests/LeavingCertNotes/Japanese/Japanese Kanji.odt",
     "PARA/3) Resource, Interests/LeavingCertNotes/Japanese/Japanese Grammer & Culture Knowledge.odt",
-    "PARA/3) Resource, Interests/LeavingCertNotes/Japanese/Japanese Adjectives and Verbs.odt",
-    "PARA/3) Resource, Interests/LeavingCertNotes/Japanese/Japanese Vocab (chapters).odt",
-    "PARA/3) Resource, Interests/LeavingCertNotes/Japanese/Japanese Oral Exam Pictures.odt",
     "Templates/Unsorted/LifeOS/HOME.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
