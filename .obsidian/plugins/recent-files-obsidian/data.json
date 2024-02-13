@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Book List",
+      "path": "PARA/2) Area, Notes, Other/Book List.md"
+    },
+    {
       "basename": "MHW Large Monsters",
       "path": "PARA/2) Area, Notes, Other/Games/MHW Large Monsters.md"
+    },
+    {
+      "basename": "AKG K371-BT",
+      "path": "Media, Pictures, Gifs/AKG K371-BT.png"
+    },
+    {
+      "basename": "Nikolai Vavilov",
+      "path": "Media, Pictures, Gifs/Nikolai Vavilov.png"
+    },
+    {
+      "basename": "Salnotes Dioko",
+      "path": "Media, Pictures, Gifs/Salnotes Dioko.png"
     },
     {
       "basename": "MHW Shock Trap",
@@ -15,10 +31,6 @@
     {
       "basename": "Cheeses",
       "path": "PARA/2) Area, Notes, Other/Foods/Cheeses.md"
-    },
-    {
-      "basename": "Book List",
-      "path": "PARA/2) Area, Notes, Other/Book List.md"
     },
     {
       "basename": "Headphones & IEMs",
@@ -157,10 +169,6 @@
       "path": "PARA/Templates/1) Project/Game Design Document.md"
     },
     {
-      "basename": "Nikolai Vavilov",
-      "path": "Media, Pictures, Gifs/Nikolai Vavilov.png"
-    },
-    {
       "basename": "Archive",
       "path": "PARA/4) Archive, Completed/Archive.md"
     },
@@ -187,10 +195,6 @@
     {
       "basename": "Audio Technica M50xBT2",
       "path": "Media, Pictures, Gifs/Audio Technica M50xBT2.png"
-    },
-    {
-      "basename": "AKG K371-BT",
-      "path": "Media, Pictures, Gifs/AKG K371-BT.png"
     }
   ],
   "omittedPaths": [],

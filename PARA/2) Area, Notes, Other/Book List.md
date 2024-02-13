@@ -5,7 +5,7 @@
 
 ### OnHold
 - **Wu Cheng'en** - Journey to the West (*480,000*)
-- **Luo Guanzhong** - Romance of the Three Kingdoms (*585,000)
+- **Luo Guanzhong** - Romance of the Three Kingdoms (*585,000*)
 - **Friedrich Nietzsche** - Twilight of the Idols (*26,000*)
 - **Friedrich Nietzsche** - Ecce Homo (*40,000*)
 - **Friedrich Nietzsche** - The Anti Christ (*24,000*)
