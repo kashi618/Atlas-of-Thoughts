@@ -11,8 +11,13 @@
             "id": "8113a90455cff7aa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PARA/2) Area, Long-term Goal, Notes/Recipes/Pancakes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -98,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PARA/2) Area, Long-term Goal, Notes/Recipes/Pancakes.md"
+              }
             }
           },
           {
@@ -148,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "PARA/2) Area, Long-term Goal, Notes/Recipes/Pancakes.md"
+              }
             }
           },
           {
@@ -169,6 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PARA/2) Area, Long-term Goal, Notes/Recipes/Pancakes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PARA/2) Area, Long-term Goal, Notes/Recipes/Pancakes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,8 +222,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8113a90455cff7aa",
+  "active": "d828e5b8bc561a69",
   "lastOpenFiles": [
+    "PARA/2) Area, Long-term Goal, Notes/Recipes/Pancakes.md",
+    "PARA/2) Area, Long-term Goal, Notes/Recipes",
     "Excalidraw/Drawing 2024-02-07 16.06.10.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Set Grid.svg",
     "Excalidraw/Scripts/Downloaded/Set Grid.md",
@@ -231,7 +244,6 @@
     "Excalidraw/Drawing 2024-02-07 13.59.01.excalidraw.md",
     "PARA/3) Resource, Interests/Agronomist.md",
     "Western Philosophy.md",
-    "Untitled.md",
     "PARA/2) Area, Long-term Goal, Notes/Headphones & IEMs.md",
     "PARA/Other/School",
     "PARA/2) Area, Long-term Goal, Notes/Book List.md",
@@ -254,7 +266,6 @@
     "Spaces/Home/a/Untitled.canvas",
     "Spaces/Home/a",
     "Spaces/Home",
-    "Spaces",
     "Media, Pictures, Gifs/Tetris - UI and Tetronimos.png",
     "Media, Pictures, Gifs/Tetris - Completing Line.gif",
     "Media, Pictures, Gifs/Sennheiser HD599.png",
