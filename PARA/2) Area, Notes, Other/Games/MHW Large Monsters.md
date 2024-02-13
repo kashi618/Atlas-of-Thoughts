@@ -1,7 +1,7 @@
 
 | MHW:                 |             LR              |     | HR  |                             |  MR  |     |
 |:-------------------- |:---------------------------:|:---:|:---:|:---------------------------:|:----:|:---:|
-|                      | ![[MHW Shock Trap.bmp\|25]] | a![[MHW Long Sword.bmp\|]]  | ![[MHW Shock Trap.bmp\|25]]    | ![[MHW Long Sword.bmp\|25]] | ![[MHW Shock Trap.bmp\|25]] | ![[MHW Long Sword.bmp\|25]]    |
+|                      | ![[MHW Shock Trap.bmp\|25]] | ![[MHW Long Sword.bmp\|25]]  | ![[MHW Shock Trap.bmp\|25]]    | ![[MHW Long Sword.bmp\|25]] | ![[MHW Shock Trap.bmp\|25]] | ![[MHW Long Sword.bmp\|25]]    |
 | Acidic Glavenus      |             ☑️              | ☑️  | ☑️  |             ☑️              |  ☑️  | ☑️  |
 | Alatreon             |             ☑️              | ☑️  | ☑️  |             ☑️              |  ☑️  | ☑️  |
 | Ancient Leshen       |             ☑️              | ☑️  | ☑️  |             ☑️              |  ☑️  | ☑️  |
