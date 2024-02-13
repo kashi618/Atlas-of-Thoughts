@@ -33,7 +33,8 @@
     "Profession": 21,
     "Greek": 22,
     "Soviet": 23,
-    "excalidraw": 24
+    "excalidraw": 24,
+    "tldraw": 25
   },
   "_version": 3
 }
