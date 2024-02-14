@@ -29,7 +29,7 @@
 | **Glavenus** | — | — | — | — | ✅ | ✅ |
 | **Gold Rathian** | — | — | — | — | ☑️ | ☑️ |
 | Great Girros | ☑️ | ☑️ | ✅ | ✅ | ☑️ | ☑️ |
-| Great Jagras | ✅ | ✅ | ✅ | ✅ | ☑️ | ☑️ |
+| Great Jagras | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Jyuratodus | ☑️ | ☑️ | ☑️ | ☑️ | ☑️ | ☑️ |
 | Kirin | — | ☑️ | — | ☑️ | — | ☑️ |
 | Kulu-Ya-Ku | ☑️ | ☑️ | ✅ | ✅ | ☑️ | ☑️ |
