@@ -5,11 +5,11 @@
 | **Acidic Glavenus** | — | — | — | — | ✅ | ✅ |
 | **Alatreon** | — | — | — | — | — | ☑️ |
 | Ancient Leshen | ☑️ | ☑️ | ☑️ | ☑️ | ☑️ | ☑️ |
-| Anjanath | ☑️ | ✅ | ✅ | ✅ | ☑️ | ☑️ |
+| Anjanath | ✅ | ✅ | ✅ | ✅ | ☑️ | ☑️ |
 | Azure Rathalos | ☑️ | ☑️ | ✅ | ✅ | ☑️ | ☑️ |
 | **Banbaro** | — | — | — | — | ✅ | ✅ |
 | **Barioth** | — | — | — | — | ✅ | ✅ |
-| Barroth | ☑️ | ☑️ | ☑️ | ✅ | ☑️ | ☑️ |
+| Barroth | ☑️ | ✅ | ☑️ | ✅ | ☑️ | ☑️ |
 | Bazelgeuse | ☑️ | ☑️ | ✅ | ✅ | ☑️ | ☑️ |
 | Behemoth | — | ☑️ | — | ☑️ | — | ☑️ |
 | **Beothodus** | — | — | — | — | ✅ | ✅ |
@@ -36,7 +36,7 @@
 | Kulve Taroth | — | ☑️ | — | ☑️ | — | ☑️ |
 | Kushala Daora | — | ☑️ | — | ✅ | — | ☑️ |
 | Lavasioth | ☑️ | ☑️ | ☑️ | ✅ | ☑️ | ☑️ |
-| Legiana | ☑️ | ✅ | ✅ | ✅ | ☑️ | ☑️ |
+| Legiana | ✅ | ✅ | ✅ | ✅ | ☑️ | ☑️ |
 | Leshen | ☑️ | ☑️ | ☑️ | ☑️ | ☑️ | ☑️ |
 | **Lunastra** | — | — | — | — | — | ✅ |
 | **Namielle** | — | — | — | — | — | ☑️ |
@@ -64,10 +64,10 @@
 | Teostra | — | ☑️ | — | ✅ | — | ☑️ |
 | **Tigrex** | — | — | — | — | ✅ | ✅ |
 | Tobi-Kadachi | ☑️ | ☑️ | ☑️ | ✅ | ☑️ | ☑️ |
-| Tzitzi-Ya-Ku | ☑️ | ✅ | ☑️ | ✅ | ☑️ | ☑️ |
+| Tzitzi-Ya-Ku | ✅ | ✅ | ☑️ | ✅ | ☑️ | ☑️ |
 | Uragaan | ☑️ | ☑️ | ☑️ | ✅ | ☑️ | ☑️ |
 | Vaal Hazak | — | ☑️ | — | ✅ | — | ☑️ |
-| **Velkhana** | — | — | — | — | — | ☑️ |
+| **Velkhana** | — | — | — | — | — | ✅ |
 | **Viper Tobi-Kadachi** | — | — | — | — | ✅ | ✅ |
 | Xeno'jiva | — | ☑️ | — | ✅ | — | ☑️ |
 | **Yian Garuga** | — | — | — | — | ☑️ | ☑️ |
