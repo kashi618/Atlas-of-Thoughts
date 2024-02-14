@@ -29,7 +29,7 @@
 | **Glavenus** | — | — | — | — | ✅ | ✅ |
 | **Gold Rathian** | — | — | — | — | ☑️ | ☑️ |
 | Great Girros | ☑️ | ☑️ | ✅ | ✅ | ☑️ | ☑️ |
-| Great Jagras | ☑️ | ☑️ | ☑️ | ✅ | ☑️ | ☑️ |
+| Great Jagras | ✅ | ✅ | ✅ | ✅ | ☑️ | ☑️ |
 | Jyuratodus | ☑️ | ☑️ | ☑️ | ☑️ | ☑️ | ☑️ |
 | Kirin | — | ☑️ | — | ☑️ | — | ☑️ |
 | Kulu-Ya-Ku | ☑️ | ☑️ | ✅ | ✅ | ☑️ | ☑️ |
@@ -46,7 +46,7 @@
 | Odogaron | ☑️ | ✅ | ✅ | ✅ | ☑️ | ☑️ |
 | Paolumu | ☑️ | ☑️ | ✅ | ✅ | ☑️ | ☑️ |
 | Pink Rathian | ☑️ | ☑️ | ☑️ | ✅ | ☑️ | ☑️ |
-| Pukei-Pukei | ☑️ | ☑️ | ☑️ | ☑️ | ☑️ | ☑️ |
+| Pukei-Pukei | ☑️ | ☑️ | ✅ | ✅ | ☑️ | ☑️ |
 | Radobaan | ☑️ | ☑️ | ✅ | ✅ | ☑️ | ☑️ |
 | **Raging Brachydios** | — | — | — | — | ☑️ | ☑️ |
 | **Rajang** | — | — | — | — | ☑️ | ☑️ |
