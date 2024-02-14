@@ -56,7 +56,7 @@
 | **Safi'Jiva** | — | — | — | — | — | ☑️ |
 | **Savage Deviljho** | — | — | — | — | ☑️ | ☑️ |
 | **Scarred Yian Garuga** | — | — | — | — | ☑️ | ☑️ |
-| **Seething Bazelgeuse** | — | — | — | — | ☑️ | ☑️ |
+| **Seething Bazelgeuse** | — | — | — | — | ✅ | ✅ |
 | **Shara Ishvalda** | — | — | — | — | — | ☑️ |
 | **Shrieking Legiana** | — | — | — | — | ✅ | ✅ |
 | **Silver Rathalos** | — | — | — | — | ☑️ | ☑️ |
