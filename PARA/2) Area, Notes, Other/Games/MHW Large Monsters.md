@@ -13,13 +13,13 @@
 | Bazelgeuse | ☑️ | ☑️ | ✅ | ✅ | ☑️ | ☑️ |
 | Behemoth | — | ☑️ | — | ☑️ | — | ☑️ |
 | **Beothodus** | — | — | — | — | ✅ | ✅ |
-| **Black Diablos** | — | — | — | — | ☑️ | ☑️ |
+| Black Diablos | — | — | ✅ | ✅ | ☑️ | ☑️ |
 | **Blackveil Vaal Hazak** | — | — | — | — | — | ☑️ |
 | **Brachydios** | — | — | — | — | ✅ | ✅ |
 | **Brute Tigrex** | — | — | — | — | ☑️ | ☑️ |
 | **Coral Pukei-Pukei** | — | — | — | — | ✅ | ✅ |
 | Deviljho | ☑️ | ☑️ | ☑️ | ☑️ | ☑️ | ☑️ |
-| Diablos | ☑️ | ✅ | ☑️ | ☑️ | ☑️ | ☑️ |
+| Diablos | ☑️ | ✅ | ✅ | ✅ | ☑️ | ☑️ |
 | Dodogama | ☑️ | ☑️ | ✅ | ✅ | ☑️ | ☑️ |
 | **Ebony Odogaron** | — | — | — | — | ✅ | ✅ |
 | **Fatalis**<br> | — | — | — | — | — | ☑️ |
