@@ -32,7 +32,7 @@
 | Great Jagras | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Jyuratodus | ☑️ | ☑️ | ☑️ | ☑️ | ☑️ | ☑️ |
 | Kirin | — | ☑️ | — | ☑️ | — | ☑️ |
-| Kulu-Ya-Ku | ☑️ | ☑️ | ✅ | ✅ | ☑️ | ☑️ |
+| Kulu-Ya-Ku | ☑️ | ☑️ | ✅ | ✅ | ✅ | ✅ |
 | Kulve Taroth | — | ☑️ | — | ☑️ | — | ☑️ |
 | Kushala Daora | — | ☑️ | — | ✅ | — | ☑️ |
 | Lavasioth | ☑️ | ☑️ | ☑️ | ✅ | ☑️ | ☑️ |
@@ -46,7 +46,7 @@
 | Odogaron | ☑️ | ✅ | ✅ | ✅ | ☑️ | ☑️ |
 | Paolumu | ☑️ | ☑️ | ✅ | ✅ | ☑️ | ☑️ |
 | Pink Rathian | ☑️ | ☑️ | ☑️ | ✅ | ☑️ | ☑️ |
-| Pukei-Pukei | ☑️ | ☑️ | ✅ | ✅ | ☑️ | ☑️ |
+| Pukei-Pukei | ☑️ | ☑️ | ✅ | ✅ | ✅ | ✅ |
 | Radobaan | ☑️ | ☑️ | ✅ | ✅ | ☑️ | ☑️ |
 | **Raging Brachydios** | — | — | — | — | ☑️ | ☑️ |
 | **Rajang** | — | — | — | — | ☑️ | ☑️ |
@@ -63,7 +63,7 @@
 | **Stygian Zinogre** | — | — | — | — | ☑️ | ☑️ |
 | Teostra | — | ☑️ | — | ✅ | — | ☑️ |
 | **Tigrex** | — | — | — | — | ✅ | ✅ |
-| Tobi-Kadachi | ☑️ | ☑️ | ☑️ | ✅ | ☑️ | ☑️ |
+| Tobi-Kadachi | ☑️ | ☑️ | ☑️ | ✅ | ✅ | ✅ |
 | Tzitzi-Ya-Ku | ✅ | ✅ | ☑️ | ✅ | ☑️ | ☑️ |
 | Uragaan | ☑️ | ☑️ | ☑️ | ✅ | ☑️ | ☑️ |
 | Vaal Hazak | — | ☑️ | — | ✅ | — | ☑️ |
