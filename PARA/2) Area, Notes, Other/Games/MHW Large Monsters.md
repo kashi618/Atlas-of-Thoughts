@@ -9,7 +9,7 @@
 | Azure Rathalos | ☑️ | ☑️ | ✅ | ✅ | ☑️ | ☑️ |
 | **Banbaro** | — | — | — | — | ✅ | ✅ |
 | **Barioth** | — | — | — | — | ✅ | ✅ |
-| Barroth | ☑️ | ✅ | ☑️ | ✅ | ☑️ | ☑️ |
+| Barroth | ☑️ | ✅ | ☑️ | ✅ | ✅ | ✅ |
 | Bazelgeuse | ☑️ | ☑️ | ✅ | ✅ | ☑️ | ☑️ |
 | Behemoth | — | ☑️ | — | ☑️ | — | ☑️ |
 | **Beothodus** | — | — | — | — | ✅ | ✅ |
