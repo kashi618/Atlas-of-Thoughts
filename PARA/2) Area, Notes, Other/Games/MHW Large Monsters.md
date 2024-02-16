@@ -19,7 +19,7 @@
 | **Brute Tigrex** | — | — | — | — | ☑️ | ☑️ |
 | **Coral Pukei-Pukei** | — | — | — | — | ✅ | ✅ |
 | Deviljho | ☑️ | ☑️ | ☑️ | ☑️ | ☑️ | ☑️ |
-| Diablos | ☑️ | ✅ | ✅ | ✅ | ☑️ | ☑️ |
+| Diablos | ☑️ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Dodogama | ☑️ | ☑️ | ✅ | ✅ | ☑️ | ☑️ |
 | **Ebony Odogaron** | — | — | — | — | ✅ | ✅ |
 | **Fatalis**<br> | — | — | — | — | — | ☑️ |
