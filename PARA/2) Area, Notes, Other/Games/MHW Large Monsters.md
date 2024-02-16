@@ -43,7 +43,7 @@
 | **Nargacuga** | — | — | — | — | ✅ | ✅ |
 | Nergigante | — | ☑️ | — | ✅ | — | ☑️ |
 | **Nightshade Paolumu** | — | — | — | — | ✅ | ✅ |
-| Odogaron | ☑️ | ✅ | ✅ | ✅ | ☑️ | ☑️ |
+| Odogaron | ☑️ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Paolumu | ☑️ | ☑️ | ✅ | ✅ | ☑️ | ☑️ |
 | Pink Rathian | ☑️ | ☑️ | ☑️ | ✅ | ☑️ | ☑️ |
 | Pukei-Pukei | ☑️ | ☑️ | ✅ | ✅ | ✅ | ✅ |
