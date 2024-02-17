@@ -14,7 +14,7 @@
 | Behemoth | — | ☑️ | — | ☑️ | — | ☑️ |
 | **Beothodus** | — | — | — | — | ✅ | ✅ |
 | Black Diablos | — | — | ✅ | ✅ | ☑️ | ☑️ |
-| **Blackveil Vaal Hazak** | — | — | — | — | — | ☑️ |
+| **Blackveil Vaal Hazak** | — | — | — | — | — | ✅ |
 | **Brachydios** | — | — | — | — | ✅ | ✅ |
 | **Brute Tigrex** | — | — | — | — | ☑️ | ☑️ |
 | **Coral Pukei-Pukei** | — | — | — | — | ✅ | ✅ |
@@ -39,7 +39,7 @@
 | Legiana | ✅ | ✅ | ✅ | ✅ | ☑️ | ☑️ |
 | Leshen | ☑️ | ☑️ | ☑️ | ☑️ | ☑️ | ☑️ |
 | **Lunastra** | — | — | — | — | — | ✅ |
-| **Namielle** | — | — | — | — | — | ☑️ |
+| **Namielle** | — | — | — | — | — | ✅ |
 | **Nargacuga** | — | — | — | — | ✅ | ✅ |
 | Nergigante | — | ☑️ | — | ✅ | — | ☑️ |
 | **Nightshade Paolumu** | — | — | — | — | ✅ | ✅ |
@@ -52,7 +52,7 @@
 | **Rajang** | — | — | — | — | ☑️ | ☑️ |
 | Rathalos | ☑️ | ☑️ | ✅ | ✅ | ☑️ | ☑️ |
 | Rathian | ☑️ | ☑️ | ✅ | ✅ | ☑️ | ☑️ |
-| **Ruiner Nergigante** | — | — | — | — | — | ☑️ |
+| **Ruiner Nergigante** | — | — | — | — | — | ✅ |
 | **Safi'Jiva** | — | — | — | — | — | ☑️ |
 | **Savage Deviljho** | — | — | — | — | ☑️ | ☑️ |
 | **Scarred Yian Garuga** | — | — | — | — | ☑️ | ☑️ |
