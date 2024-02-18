@@ -4,7 +4,7 @@
 |  | ![[MHW Shock Trap.bmp\|25]] | ![[MHW Long Sword.bmp\|25]] | ![[MHW Shock Trap.bmp\|25]] | ![[MHW Long Sword.bmp\|25]] | ![[MHW Shock Trap.bmp\|25]] | ![[MHW Long Sword.bmp\|25]] |
 | **Acidic Glavenus** | — | — | — | — | ✅ | ✅ |
 | **Alatreon** | — | — | — | — | — | ☑️ |
-| Ancient Leshen | ☑️ | ☑️ | ☑️ | ☑️ | ☑️ | ☑️ |
+| Ancient Leshen | — | — | ☑️ | ☑️ | — | — |
 | Anjanath | ✅ | ✅ | ✅ | ✅ | ☑️ | ☑️ |
 | Azure Rathalos | ☑️ | ☑️ | ✅ | ✅ | ☑️ | ☑️ |
 | **Banbaro** | — | — | — | — | ✅ | ✅ |
@@ -37,7 +37,7 @@
 | Kushala Daora | — | ☑️ | — | ✅ | — | ☑️ |
 | Lavasioth | ☑️ | ☑️ | ☑️ | ✅ | ☑️ | ☑️ |
 | Legiana | ✅ | ✅ | ✅ | ✅ | ☑️ | ☑️ |
-| Leshen | ☑️ | ☑️ | ☑️ | ☑️ | ☑️ | ☑️ |
+| Leshen | — | — | ☑️ | ☑️ | — | — |
 | **Lunastra** | — | — | — | — | — | ✅ |
 | **Namielle** | — | — | — | — | — | ✅ |
 | **Nargacuga** | — | — | — | — | ✅ | ✅ |
@@ -57,14 +57,14 @@
 | **Savage Deviljho** | — | — | — | — | ☑️ | ☑️ |
 | **Scarred Yian Garuga** | — | — | — | — | ☑️ | ☑️ |
 | **Seething Bazelgeuse** | — | — | — | — | ✅ | ✅ |
-| **Shara Ishvalda** | — | — | — | — | — | ☑️ |
+| **Shara Ishvalda** | — | — | — | — | — | ✅ |
 | **Shrieking Legiana** | — | — | — | — | ✅ | ✅ |
 | **Silver Rathalos** | — | — | — | — | ☑️ | ☑️ |
 | **Stygian Zinogre** | — | — | — | — | ☑️ | ☑️ |
 | Teostra | — | ☑️ | — | ✅ | — | ☑️ |
 | **Tigrex** | — | — | — | — | ✅ | ✅ |
 | Tobi-Kadachi | ☑️ | ☑️ | ☑️ | ✅ | ✅ | ✅ |
-| Tzitzi-Ya-Ku | ✅ | ✅ | ☑️ | ✅ | ☑️ | ☑️ |
+| Tzitzi-Ya-Ku | ✅ | ✅ | ☑️ | ✅ | ✅ | ✅ |
 | Uragaan | ☑️ | ☑️ | ☑️ | ✅ | ☑️ | ☑️ |
 | Vaal Hazak | — | ☑️ | — | ✅ | — | ☑️ |
 | **Velkhana** | — | — | — | — | — | ✅ |

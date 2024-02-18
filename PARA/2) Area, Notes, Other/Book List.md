@@ -2,6 +2,7 @@
 - **Plato** - The Republic (*135,250*)
 - **Plutarch** - The Age Of Alexander (*156,000*)
 - **Arrian** - The Campaigns of Alexander (*108,000*)
+- **Antoine De Saint-Exupéry** - The Little Prince (*24,672*)
 
 ### OnHold
 - **Wu Cheng'en** - Journey to the West (*480,000*)
@@ -50,7 +51,6 @@
 ##### Science
 - **Nikolai Vavilov** - Origin and Geography of Cultivated Plants
 
--
 
 ---
 
