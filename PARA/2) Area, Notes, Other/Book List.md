@@ -47,6 +47,8 @@ she who became the sun
 ###### Confucianism
 - **Wang Yang-Ming** - The Philosophy of Wang Yang-Ming
 - **Wang Yang-Ming** - Instructions For Practical Living And Other Neo-Confucian Writing
+##### Autobiographies
+- **Shen fu** - Six Records of a Floating Life
 ##### Fiction
 - **Cormac MacCarthy** - Blood Meridian (*87,000*)
 - **Osamu Dazai** - The Setting Sun (*48,000*)
