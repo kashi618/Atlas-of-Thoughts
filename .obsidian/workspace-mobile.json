@@ -11,8 +11,13 @@
             "id": "4895439786fb2328",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -107,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,6 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -133,7 +140,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md"
+          }
         }
       }
     ],
@@ -155,6 +164,11 @@
   },
   "active": "4895439786fb2328",
   "lastOpenFiles": [
+    "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
+    "/PARA/2) Area, Notes, Other/Book List.md",
+    "/PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
+    "PARA/2) Area, Notes, Other/Japanese",
+    "/PARA/2) Area, Notes, Other/Japanese",
     "/PARA/2) Area, Long-term Goals/Book List.md",
     "PARA/3) Resource, Interests/Nikolai Vavilov.md",
     "/PARA/3) Resource, Interests/Nikolai Vavilov.md",
@@ -177,9 +191,6 @@
     "/PARA/3) Resource, Interests/$ Nazism.md",
     "/PARA/3) Resource, Interests/$ Ideology.md",
     "/Templates/3) Resource/Wiki Type.md",
-    "/Templates/1) Project/Game Design Document.md",
-    "/PARA/3) Resource, Interests/@ Nationalism.md",
-    "/PARA/3) Resource, Interests/@ Communism.md",
-    "/PARA/3) Resource, Interests/$ French Revolution.md"
+    "/Templates/1) Project/Game Design Document.md"
   ]
 }
