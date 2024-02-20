@@ -4,6 +4,8 @@
 - **Arrian** - The Campaigns of Alexander (*108,000*)
 - **Antoine De Saint-Exupéry** - The Little Prince (*24,672*)
 
+she who became the sun
+
 ### OnHold
 - **Wu Cheng'en** - Journey to the West (*480,000*)
 - **Luo Guanzhong** - Romance of the Three Kingdoms (*585,000*)
@@ -33,6 +35,8 @@
 ##### Philosophy
 - **Friedrich Nietzsche** - Gay Science (*100,000*)
 - **Friedrich Nietzsche** - Beyond Good and Evil (*29,000*)
+
+###### Classical
 - **Plato** - Dialogues
 - **Plato** - Crito (*10,000*)
 - **Ovid** - Metamorphoses (*100,000*)
@@ -40,14 +44,21 @@
 - **Aquinas** - Treatise on Law (*64,000*)
 - **Heraclitus** - On Nature
 - **Epictetus** - Discourses and Selected Writings (*76,000*)
+###### Confucianism
+- **Wang Yang-Ming** - The Philosophy of Wang Yang-Ming
+- **Wang Yang-Ming** - Instructions For Practical Living And Other Neo-Confucian Writing
+##### Autobiographies
+- **Shen fu** - Six Records of a Floating Life
 ##### Fiction
 - **Cormac MacCarthy** - Blood Meridian (*87,000*)
 - **Osamu Dazai** - The Setting Sun (*48,000*)
 -  **Yevgeny Zamyatin** - We (*55,000*)
-	*Distopian Future*
+	*Distopian Future
 - **Franz Kafka** - The Metamorphosis (*22,000**)
 - **Homer** - Illiad (*88,000*)
 - **James Joyce** - Ulysses (*168,000*)
+- **Shelley Parker-Chan** - She Who Became the Sun (*125,550*)
+- **Shelley Parker-Chan** - He Who Drowned the World (*177,000*)
 ##### Science
 - **Nikolai Vavilov** - Origin and Geography of Cultivated Plants
 

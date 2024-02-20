@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Leaving Cert Orals",
+      "path": "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md"
+    },
+    {
+      "basename": "Book List",
+      "path": "PARA/2) Area, Notes, Other/Book List.md"
+    },
+    {
       "basename": "Headphones & IEMs",
       "path": "PARA/2) Area, Notes, Other/Headphones & IEMs.md"
     },
     {
       "basename": "GameDev ToDo List",
       "path": "PARA/2) Area, Notes, Other/GameDev ToDo List.md"
-    },
-    {
-      "basename": "Book List",
-      "path": "PARA/2) Area, Notes, Other/Book List.md"
     },
     {
       "basename": "MHW Large Monsters",
@@ -195,10 +199,6 @@
     {
       "basename": "KZ ZS10 Pro",
       "path": "Media, Pictures, Gifs/KZ ZS10 Pro.png"
-    },
-    {
-      "basename": "Audio Technica M50xBT2",
-      "path": "Media, Pictures, Gifs/Audio Technica M50xBT2.png"
     }
   ],
   "omittedPaths": [],
