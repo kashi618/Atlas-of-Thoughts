@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -208,8 +208,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -229,8 +228,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d828e5b8bc561a69",
+  "active": "18f0fb3c9f179dc8",
   "lastOpenFiles": [
+    "2024-02-20.md",
     "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
     "PARA/2) Area, Notes, Other/Book List.md",
     "PARA/2) Area, Notes, Other/Japanese",
@@ -274,7 +274,6 @@
     "PARA/3) Resource, Interests/Eudaimonia.md",
     "Chinese Communist Party.md",
     "Socrates.md",
-    "Political Philosophy.md",
     "Media, Pictures, Gifs/Socrates.png",
     "Pasted image 20240130210156.png",
     "Spaces/Home/a/Untitled.canvas",
