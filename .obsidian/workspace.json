@@ -68,7 +68,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5f252b2efa3321c0",
@@ -230,11 +231,11 @@
   },
   "active": "18f0fb3c9f179dc8",
   "lastOpenFiles": [
-    "2024-02-20.md",
+    "PARA/2) Area, Notes, Other/Headphones & IEMs.md",
     "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
+    "2024-02-20.md",
     "PARA/2) Area, Notes, Other/Book List.md",
     "PARA/2) Area, Notes, Other/Japanese",
-    "PARA/2) Area, Notes, Other/Headphones & IEMs.md",
     "PARA/2) Area, Notes, Other/GameDev ToDo List.md",
     "PARA/2) Area, Notes, Other/Games/MHW Large Monsters.md",
     "PARA/2) Area, Notes, Other/Foods/Foods + Drinks.md",
