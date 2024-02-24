@@ -13,14 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
+                "file": "PARA/2) Area, Notes, Other/Foods + Drinks/Chinese.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "8574f1fe19220a4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alcohol.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c255978dbc19261",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md"
+                "file": "Alcohol.md"
               }
             }
           },
@@ -163,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md"
+                "file": "Alcohol.md"
               }
             }
           },
@@ -185,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
+                "file": "Alcohol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
+                "file": "Alcohol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,28 +252,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "18f0fb3c9f179dc8",
+  "active": "7c255978dbc19261",
   "lastOpenFiles": [
-    "PARA/2) Area, Notes, Other/Headphones & IEMs.md",
+    "PARA/2) Area, Notes, Other/Foods + Drinks/Chinese.md",
+    "Alcohol.md",
     "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
+    "PARA/2) Area, Notes, Other/Headphones & IEMs.md",
     "2024-02-20.md",
     "PARA/2) Area, Notes, Other/Book List.md",
     "PARA/2) Area, Notes, Other/Japanese",
     "PARA/2) Area, Notes, Other/GameDev ToDo List.md",
     "PARA/2) Area, Notes, Other/Games/MHW Large Monsters.md",
-    "PARA/2) Area, Notes, Other/Foods/Foods + Drinks.md",
     "Media, Pictures, Gifs/AKG K371-BT.png",
     "Media, Pictures, Gifs/Nikolai Vavilov.png",
     "Media, Pictures, Gifs/Salnotes Dioko.png",
     "Media, Pictures, Gifs/MHW Shock Trap.bmp",
     "Media, Pictures, Gifs/MHW Long Sword.bmp",
-    "PARA/2) Area, Notes, Other/Foods/Cheeses.md",
+    "PARA/2) Area, Notes, Other/Foods + Drinks/Cheeses.md",
     "2014 Isla Vista Massacre.md",
     "PARA/2) Area, Notes, Other/Games",
-    "PARA/2) Area, Notes, Other/Foods",
+    "PARA/2) Area, Notes, Other/Foods + Drinks",
     "Untitled.canvas",
-    "PARA/2) Area, Notes, Other/Foods/Recipes/Pancakes & Crepes.md",
-    "PARA/2) Area, Notes, Other/Foods/Recipes",
+    "PARA/2) Area, Notes, Other/Foods + Drinks/Recipes/Pancakes & Crepes.md",
+    "PARA/2) Area, Notes, Other/Foods + Drinks/Recipes",
     "Excalidraw/Drawing 2024-02-07 16.06.10.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Set Grid.svg",
     "Excalidraw/Scripts/Downloaded/Set Grid.md",
@@ -273,7 +298,6 @@
     "Resource.md",
     "PARA/3) Resource, Interests/Eudaimonia.md",
     "Chinese Communist Party.md",
-    "Socrates.md",
     "Media, Pictures, Gifs/Socrates.png",
     "Pasted image 20240130210156.png",
     "Spaces/Home/a/Untitled.canvas",

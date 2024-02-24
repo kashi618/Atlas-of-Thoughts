@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Alcohol",
+      "path": "Alcohol.md"
+    },
+    {
+      "basename": "Chinese",
+      "path": "PARA/2) Area, Notes, Other/Foods + Drinks/Chinese.md"
+    },
+    {
       "basename": "Leaving Cert Orals",
       "path": "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "MHW Large Monsters",
       "path": "PARA/2) Area, Notes, Other/Games/MHW Large Monsters.md"
-    },
-    {
-      "basename": "Foods + Drinks",
-      "path": "PARA/2) Area, Notes, Other/Foods/Foods + Drinks.md"
     },
     {
       "basename": "AKG K371-BT",
@@ -46,7 +50,7 @@
     },
     {
       "basename": "Cheeses",
-      "path": "PARA/2) Area, Notes, Other/Foods/Cheeses.md"
+      "path": "PARA/2) Area, Notes, Other/Foods + Drinks/Cheeses.md"
     },
     {
       "basename": "2014 Isla Vista Massacre",
@@ -58,7 +62,7 @@
     },
     {
       "basename": "Pancakes & Crepes",
-      "path": "PARA/2) Area, Notes, Other/Foods/Recipes/Pancakes & Crepes.md"
+      "path": "PARA/2) Area, Notes, Other/Foods + Drinks/Recipes/Pancakes & Crepes.md"
     },
     {
       "basename": "Nikolai Vavilov",
