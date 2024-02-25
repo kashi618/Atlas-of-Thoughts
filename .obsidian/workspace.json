@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/2) Area, Notes, Other/Foods + Drinks/Chinese.md",
-                "mode": "source",
+                "file": "PARA/2) Area, Notes, Other/Games/MHW Large Monsters.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -32,19 +32,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7c255978dbc19261",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alcohol.md"
+                "file": "PARA/2) Area, Notes, Other/Games/MHW Large Monsters.md"
               }
             }
           },
@@ -187,7 +176,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Alcohol.md"
+                "file": "PARA/2) Area, Notes, Other/Games/MHW Large Monsters.md"
               }
             }
           },
@@ -209,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alcohol.md",
+                "file": "PARA/2) Area, Notes, Other/Games/MHW Large Monsters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alcohol.md",
+                "file": "PARA/2) Area, Notes, Other/Games/MHW Large Monsters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,8 +241,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7c255978dbc19261",
+  "active": "18f0fb3c9f179dc8",
   "lastOpenFiles": [
+    "PARA/2) Area, Notes, Other/Foods + Drinks/Recipes/Pancakes & Crepes.md",
     "PARA/2) Area, Notes, Other/Foods + Drinks/Chinese.md",
     "Alcohol.md",
     "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
@@ -273,7 +263,6 @@
     "PARA/2) Area, Notes, Other/Games",
     "PARA/2) Area, Notes, Other/Foods + Drinks",
     "Untitled.canvas",
-    "PARA/2) Area, Notes, Other/Foods + Drinks/Recipes/Pancakes & Crepes.md",
     "PARA/2) Area, Notes, Other/Foods + Drinks/Recipes",
     "Excalidraw/Drawing 2024-02-07 16.06.10.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Set Grid.svg",
