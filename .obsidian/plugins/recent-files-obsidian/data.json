@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Jamais Vu",
+      "path": "Jamais Vu.md"
+    },
+    {
+      "basename": "Déjà Vu",
+      "path": "Déjà Vu.md"
+    },
+    {
+      "basename": "Déjà Vécu",
+      "path": "Déjà Vécu.md"
+    },
+    {
+      "basename": "Presque Vu",
+      "path": "Presque Vu.md"
+    },
+    {
+      "basename": "Epistemology",
+      "path": "Epistemology.md"
+    },
+    {
       "basename": "MHW Large Monsters",
       "path": "PARA/2) Area, Notes, Other/Games/MHW Large Monsters.md"
     },
@@ -133,10 +153,6 @@
       "path": "French Revolution.md"
     },
     {
-      "basename": "Epistemology",
-      "path": "Epistemology.md"
-    },
-    {
       "basename": "Ethics",
       "path": "Ethics.md"
     },
@@ -158,19 +174,19 @@
     },
     {
       "basename": "Word Definition",
-      "path": "PARA/Templates/3) Resource/Word Definition.md"
+      "path": "Templates/3) Resource/Word Definition.md"
     },
     {
       "basename": "Character Profile",
-      "path": "PARA/Templates/3) Resource/Character Profile.md"
+      "path": "Templates/3) Resource/Character Profile.md"
     },
     {
       "basename": "Character Profile Philosophy",
-      "path": "PARA/Templates/3) Resource/Character Profile Philosophy.md"
+      "path": "Templates/3) Resource/Character Profile Philosophy.md"
     },
     {
       "basename": "Wiki Type",
-      "path": "PARA/Templates/3) Resource/Wiki Type.md"
+      "path": "Templates/3) Resource/Wiki Type.md"
     },
     {
       "basename": "Socrates",
@@ -178,27 +194,11 @@
     },
     {
       "basename": "Game Design Document",
-      "path": "PARA/Templates/1) Project/Game Design Document.md"
+      "path": "Templates/1) Project/Game Design Document.md"
     },
     {
       "basename": "Archive",
       "path": "PARA/4) Archive, Completed/Archive.md"
-    },
-    {
-      "basename": "Tetris - UI and Tetronimos",
-      "path": "Media, Pictures, Gifs/Tetris - UI and Tetronimos.png"
-    },
-    {
-      "basename": "Tetris - Completing Line",
-      "path": "Media, Pictures, Gifs/Tetris - Completing Line.gif"
-    },
-    {
-      "basename": "Sennheiser HD599",
-      "path": "Media, Pictures, Gifs/Sennheiser HD599.png"
-    },
-    {
-      "basename": "Moondrop Chu II",
-      "path": "Media, Pictures, Gifs/Moondrop Chu II.png"
     }
   ],
   "omittedPaths": [],

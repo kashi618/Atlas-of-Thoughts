@@ -27,9 +27,9 @@
   "PARA/1) Project, Short-term Goals": "LiArrowRightFromLine",
   "PARA/3) Resource, Interests": "LiArrowRightFromLine",
   "PARA/4) Archive, Completed": "LiArrowRightFromLine",
-  "PARA/Templates/1) Project": "LiArrowRightFromLine",
-  "PARA/Templates/2) Area": "LiArrowRightFromLine",
-  "PARA/Templates/3) Resource": "LiArrowRightFromLine",
-  "PARA/Templates/4) Archive": "LiArrowRightFromLine",
-  "PARA/2) Area, Notes, Other": "LiArrowRightFromLine"
+  "PARA/2) Area, Notes, Other": "LiArrowRightFromLine",
+  "Templates/1) Project": "LiArrowRightFromLine",
+  "Templates/2) Area": "LiArrowRightFromLine",
+  "Templates/3) Resource": "LiArrowRightFromLine",
+  "Templates/4) Archive": "LiArrowRightFromLine"
 }
