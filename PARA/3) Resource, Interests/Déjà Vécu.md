@@ -15,9 +15,10 @@ People often experiencing [[Déjà Vécu]] very intensely, and such, frequently 
 ### Related Terms ✏️
 - [[Déjà Vu]]
 - [[Jamais Vu]]
+- [[Déjà Vécu]]
 - [[Presque Vu]]
 - [[Déjà Rêvé]]
 - [[Déjà Entendu]]
 
-
 ### Sources/References 🌐 
+https://www.wikiwand.com/en/D%C3%A9j%C3%A0_vu

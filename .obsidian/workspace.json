@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5ae25580fd817aa9",
+        "id": "b2d29d9df4dd5046",
         "type": "tabs",
         "children": [
           {
-            "id": "27e688bdab465334",
+            "id": "78334c66f8e9d873",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jamais Vu.md",
+                "file": "PARA/3) Resource, Interests/Socrates.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jamais Vu.md"
+                "file": "PARA/3) Resource, Interests/Socrates.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Jamais Vu.md"
+                "file": "PARA/3) Resource, Interests/Socrates.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jamais Vu.md",
+                "file": "PARA/3) Resource, Interests/Socrates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jamais Vu.md",
+                "file": "PARA/3) Resource, Interests/Socrates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,14 +229,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "27e688bdab465334",
+  "active": "78334c66f8e9d873",
   "lastOpenFiles": [
-    "Déjà Vu.md",
-    "Jamais Vu.md",
-    "Déjà Vécu.md",
-    "Presque Vu.md",
-    "Epistemology.md",
-    "PARA/2) Area, Notes, Other/Games/MHW Large Monsters.md",
+    "Xenophon.md",
+    "PARA/3) Resource, Interests/Socrates.md",
+    "Aristotle.md",
+    "Plato.md",
+    "Socratic Dialogue.md",
+    "Soviet Union.md",
+    "Utopia.md",
+    "The Odyssey - Homer.md",
+    "The Republic.md",
+    "The Republic - Plato.md",
+    "Justice.md",
+    "PARA/3) Resource, Interests/Philosophy.md",
+    "Friedrick Nietzsche.md",
+    "PARA/3) Resource, Interests/Nationalism.md",
+    "PARA/3) Resource, Interests/Déjà Vécu.md",
+    "PARA/3) Resource, Interests/Déjà Rêvé.md",
+    "Wang Yangming.md",
+    "PARA/3) Resource, Interests/Nikolai Vavilov.md",
+    "PARA/3) Resource, Interests/Jamais Vu.md",
+    "PARA/3) Resource, Interests/Déjà Vu.md",
+    "PARA/3) Resource, Interests/Déjà Entendu.md",
+    "Aesthetics.md",
+    "2024-03-02.md",
+    "2014 Isla Vista Massacre.md",
+    "Greek Empire.md",
+    "Nazism.md",
+    "Untitled.canvas",
     "ZenZone/visuals.py",
     "ZenZone/speech/__init__.py",
     "ZenZone/speech",
@@ -248,34 +269,13 @@
     "ZenZone/neopixel",
     "ZenZone/music/__init__.py",
     "ZenZone/Untitled.canvas",
-    "ZenZone/README.md",
-    "ZenZone/Project WriteUp.md",
-    "ZenZone/Project WriteUp Tasks.md",
-    "ZenZone/Project WriteUp Logs.md",
-    "ZenZone/Project WriteUp Checklist.md",
     "ASDASDASD/icons/lucide-icons/ArrowRightFromLine.svg",
     "ASDASDASD/Untitled.canvas",
-    "ASDASDASD/README.md",
-    "ASDASDASD/Project WriteUp.md",
-    "ASDASDASD/Project WriteUp Tasks.md",
-    "ASDASDASD/Project WriteUp Logs.md",
-    "ASDASDASD/Project WriteUp Checklist.md",
-    "PARA/2) Area, Notes, Other/Foods + Drinks/Recipes/Pancakes & Crepes.md",
-    "PARA/2) Area, Notes, Other/Foods + Drinks/Chinese.md",
-    "Alcohol.md",
-    "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
-    "PARA/2) Area, Notes, Other/Headphones & IEMs.md",
-    "2024-02-20.md",
-    "PARA/2) Area, Notes, Other/Book List.md",
-    "PARA/2) Area, Notes, Other/GameDev ToDo List.md",
     "Media, Pictures, Gifs/AKG K371-BT.png",
     "Media, Pictures, Gifs/Nikolai Vavilov.png",
     "Media, Pictures, Gifs/Salnotes Dioko.png",
     "Media, Pictures, Gifs/MHW Shock Trap.bmp",
     "Media, Pictures, Gifs/MHW Long Sword.bmp",
-    "PARA/2) Area, Notes, Other/Foods + Drinks/Cheeses.md",
-    "2014 Isla Vista Massacre.md",
-    "Untitled.canvas",
     "Excalidraw/Scripts/Downloaded/Set Grid.svg",
     "Excalidraw/Scripts/Downloaded/Organic Line.svg",
     "Media, Pictures, Gifs/Socrates.png",
