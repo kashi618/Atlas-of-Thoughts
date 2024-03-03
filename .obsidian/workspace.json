@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/3) Resource, Interests/Socrates.md",
+                "file": "PARA/2) Area, Notes, Other/Book List.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/3) Resource, Interests/Socrates.md"
+                "file": "PARA/2) Area, Notes, Other/Book List.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PARA/3) Resource, Interests/Socrates.md"
+                "file": "PARA/2) Area, Notes, Other/Book List.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PARA/3) Resource, Interests/Socrates.md",
+                "file": "PARA/2) Area, Notes, Other/Book List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/3) Resource, Interests/Socrates.md",
+                "file": "PARA/2) Area, Notes, Other/Book List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,8 +231,9 @@
   },
   "active": "78334c66f8e9d873",
   "lastOpenFiles": [
-    "Xenophon.md",
+    "PARA/2) Area, Notes, Other/GameDev ToDo List.md",
     "PARA/3) Resource, Interests/Socrates.md",
+    "Xenophon.md",
     "Aristotle.md",
     "Plato.md",
     "Socratic Dialogue.md",
@@ -256,7 +257,6 @@
     "2024-03-02.md",
     "2014 Isla Vista Massacre.md",
     "Greek Empire.md",
-    "Nazism.md",
     "Untitled.canvas",
     "ZenZone/visuals.py",
     "ZenZone/speech/__init__.py",

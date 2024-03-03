@@ -3,8 +3,7 @@
 - **Plutarch** - The Age Of Alexander (*156,000*)
 - **Arrian** - The Campaigns of Alexander (*108,000*)
 - **Antoine De Saint-Exupéry** - The Little Prince (*24,672*)
-
-she who became the sun
+- **Laozi** - DaoDeJing (*7,800*)
 
 ### OnHold
 - **Wu Cheng'en** - Journey to the West (*480,000*)
@@ -37,7 +36,7 @@ she who became the sun
 - **Friedrich Nietzsche** - Beyond Good and Evil (*29,000*)
 
 ###### Classical
-- **Plato** - Dialogues
+- **Plato** - Dialogues (*40,000*)
 - **Plato** - Crito (*10,000*)
 - **Ovid** - Metamorphoses (*100,000*)
 - **Marcus Aurelius** - Meditations (*40,000*)
@@ -47,8 +46,12 @@ she who became the sun
 ###### Confucianism
 - **Wang Yang-Ming** - The Philosophy of Wang Yang-Ming
 - **Wang Yang-Ming** - Instructions For Practical Living And Other Neo-Confucian Writing
+
+##### Poetry
+- **Li Bai**
+
 ##### Autobiographies
-- **Shen fu** - Six Records of a Floating Life
+- **Shen fu** - Six Records of a Floating Life (*55,000*)
 ##### Fiction
 - **Cormac MacCarthy** - Blood Meridian (*87,000*)
 - **Osamu Dazai** - The Setting Sun (*48,000*)
