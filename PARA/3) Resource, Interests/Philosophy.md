@@ -1,6 +1,7 @@
 ---
 tags:
   - "#Philosophy"
+  - Definition
 Create Date: 2024-01-25
 ---
 ### Summary 💡
@@ -11,7 +12,7 @@ Create Date: 2024-01-25
 
 ### Definition 📖
 Think of [[Philosophy]] as a tree, with many branches reaching out.
-The main branches consists of:
+With the main branches consiting of:
 - [[Metaphysics]]
 - [[Epistemology]]
 - [[Ethics]]
@@ -23,5 +24,5 @@ The main branches consists of:
 - [[Socrates]]
 - [[Wang Yangming]]
 - [[Friedrick Nietzsche]]
-- 
+- [[LaoZi]]
 ### Sources/References 🌐 

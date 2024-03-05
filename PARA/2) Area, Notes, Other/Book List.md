@@ -43,9 +43,10 @@
 - **Aquinas** - Treatise on Law (*64,000*)
 - **Heraclitus** - On Nature
 - **Epictetus** - Discourses and Selected Writings (*76,000*)
-###### Confucianism
+###### Confucianism and Daoism
 - **Wang Yang-Ming** - The Philosophy of Wang Yang-Ming
 - **Wang Yang-Ming** - Instructions For Practical Living And Other Neo-Confucian Writing
+- **Benjamin Hoff** - The Tao of Pooh
 
 ##### Poetry
 - **Li Bai**
