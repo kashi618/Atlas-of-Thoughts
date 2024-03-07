@@ -9,12 +9,21 @@
 - [[#私のへや]]
 
 ##### 去年の夏休み 
-こんいちは。ネオです。去年のなつやすみについて話します。
-去年の夏休みには楽しかったです。
+
+
 
 ##### 私のへや
-こんにちは。ネオです。私のへやについて話します。
-私はブランチャーズタウンに住んでいます。ブランチャーズタウンはダブイリンの西(にし)にあります。私は十四年間ブランチャーズタウンに住んでいます。私の家(いえ)は四しんしつです．
+**(Where I live)**
+I live in Blanchardstown. Blanchardstown is in the west of Dublin 15.
+My house is small, but it is very warm and cosy. My room is in the attic, because last summer I fixed my attic.
+**(About my room)**
+My room is very cold, but is big and bright. This is because there is 2 big windows on the left side of my room. The floor is brown, and the ceiling is white. I also have 3 small lights at the top of my room. At the back of my room is a black closet and my computer desk. I have two monitors, keyboard, and a mouse on the desk. I also have my pencil case, books, and copies.
+**(What I do in my room)**
+I'm my room I often read, play computer games, and study Japanese. 
+I love Japanese manga. For example Doraemon and Shin-chan. I think Shin-chan is very funny. I also like to read books. My favourite books are Japanese books. For example, Ningen Shikkaku.
+
+At my desk, I also play many computer games. My favourite games are Elden Ring, Dark Souls, and Monster Hunter.
+Everyday afterschool, I alsoReading is my hobby.
 
 
 ****
