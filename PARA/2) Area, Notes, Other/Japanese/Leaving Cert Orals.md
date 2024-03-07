@@ -1,6 +1,8 @@
 ## Section 1
 #### General Conversation
-
+shourai - future
+anata no shourai wa nani oshitai desu ka
+computer science wo
 
 ****
 ## Section 2
@@ -20,11 +22,7 @@ My house is small, but it is very warm and cosy. My room is in the attic, becaus
 My room is very cold, but is big and bright. This is because there is 2 big windows on the left side of my room. The floor is brown, and the ceiling is white. I also have 3 small lights at the top of my room. At the back of my room is a black closet and my computer desk. I have two monitors, keyboard, and a mouse on the desk. I also have my pencil case, books, and copies.
 **(What I do in my room)**
 I'm my room I often read, play computer games, and study Japanese. 
-I love Japanese manga. For example Doraemon and Shin-chan. I think Shin-chan is very funny. I also like to read books. My favourite books are Japanese books. For example, Ningen Shikkaku.
-
-At my desk, I also play many computer games. My favourite games are Elden Ring, Dark Souls, and Monster Hunter.
-Everyday afterschool, I alsoReading is my hobby.
-
+I love Japanese manga. For example Doraemon and Shin-chan. I think Shin-chan is very funny. I also like to read books. My favourite books are Japanese books. For example, Ningen Shikkaku.At my desk, I also play many computer games. My favourite games are Elden Ring, Dark Souls, and Monster Hunter.
 
 ****
 ## Section 3
@@ -44,10 +42,7 @@ This photo is about Japanese school clearning. There are 6 students in the class
 **(Intro)**
 This picture is about Japanese school study. The students are studying in the classroom. There are many students, and it is a mixed school because there are male and female students.
 
-
-
-
-##### クラブ活動
+##### ほうかご
 ![|500](https://i.imgur.com/4z4hWAe.jpg)
 **(Intro)**
 This picture is about Japanese afterschool activities. The students are practising instruments in the classroom. There are many students, and it is a mixed school because there are male and female students.
@@ -69,4 +64,3 @@ On the right side of the classroom, many of the students are playing the flute. 
 
 **(Outro)**
 I think Japanese club activities look fun, because you play instruments with your friends. In Japan, there are alot of club activities. For example band practise, baseball, kendou etc. In Irish schools, we only have sport club activities. For example, football, basketball, and volleyball.
-
