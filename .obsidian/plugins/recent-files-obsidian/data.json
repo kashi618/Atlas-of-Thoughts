@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Leaving Cert Orals",
+      "path": "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md"
+    },
+    {
       "basename": "Philosophy Other",
-      "path": "Philosophy Other.md"
+      "path": "PARA/2) Area, Notes, Other/Philosophy Other.md"
     },
     {
       "basename": "Book List",
       "path": "PARA/2) Area, Notes, Other/Book List.md"
     },
     {
-      "basename": "GameDev ToDo List",
-      "path": "PARA/2) Area, Notes, Other/GameDev ToDo List.md"
-    },
-    {
       "basename": "Headphones & IEMs",
       "path": "PARA/2) Area, Notes, Other/Headphones & IEMs.md"
+    },
+    {
+      "basename": "How to use Obsidian",
+      "path": "PARA/How to use Obsidian.md"
+    },
+    {
+      "basename": "2014 Isla Vista Massacre",
+      "path": "2014 Isla Vista Massacre.md"
+    },
+    {
+      "basename": "GameDev ToDo List",
+      "path": "PARA/2) Area, Notes, Other/GameDev ToDo List.md"
     },
     {
       "basename": "Chinese Communist Party",
@@ -27,14 +39,6 @@
     {
       "basename": "Nikolai Vavilov",
       "path": "PARA/3) Resource, Interests/Nikolai Vavilov.md"
-    },
-    {
-      "basename": "Leaving Cert Orals",
-      "path": "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md"
-    },
-    {
-      "basename": "How to use Obsidian",
-      "path": "PARA/How to use Obsidian.md"
     },
     {
       "basename": "Western Philosophy",
@@ -195,10 +199,6 @@
     {
       "basename": "The Odyssey - Homer",
       "path": "The Odyssey - Homer.md"
-    },
-    {
-      "basename": "Character Profile",
-      "path": "Templates/3) Resource/Character Profile.md"
     }
   ],
   "omittedPaths": [],

@@ -1,9 +1,12 @@
+**Key:**
+Tr. | Translator
+
 ### InProgress
 - **Plato** - The Republic (*135,250*)
 - **Plutarch** - The Age Of Alexander (*156,000*)
 - **Arrian** - The Campaigns of Alexander (*108,000*)
 - **Antoine De Saint-Exupéry** - The Little Prince (*24,672*)
-- **Laozi** - DaoDeJing (*7,800*)
+- **Laozi | Tr. Jeff Pepper** - DaoDeJing in Clear English (*7,800*)
 
 ### OnHold
 - **Wu Cheng'en** - Journey to the West (*480,000*)
@@ -43,6 +46,11 @@
 - **Aquinas** - Treatise on Law (*64,000*)
 - **Heraclitus** - On Nature
 - **Epictetus** - Discourses and Selected Writings (*76,000*)
+- **Aristotle** - Nicomachean Ethics
+
+###### Modern Philosoophy
+- **René Descartes** - Meditations
+- **René Descartes** - Discourse
 ###### Confucianism and Daoism
 - **Wang Yang-Ming** - The Philosophy of Wang Yang-Ming
 - **Wang Yang-Ming** - Instructions For Practical Living And Other Neo-Confucian Writing
