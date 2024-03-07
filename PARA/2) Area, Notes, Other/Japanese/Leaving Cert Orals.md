@@ -40,6 +40,7 @@ The students are studying in the classroom. I think they are studying maths, bec
 ![|500](https://i.imgur.com/4z4hWAe.jpg)
 This picture is about Japanese afterschool activities.
 
+**(Classroom | Bright, Brown, Windows)**
 The students are practising instruments in the classroom. In the classroom, the walls and floor are brown. The classroom is also very big and bright. I think this is because of the lights and the windows on the left side of the classroom. There are alot of windows, and they are very big. 
 
 **(Female students | Marimba, uniform, summer uniform)**
