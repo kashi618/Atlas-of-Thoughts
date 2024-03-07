@@ -24,7 +24,6 @@
 - 油条
 - 温州初旭鸭舌 
 - Taro Fish Snacks
-- HiChew
 ### Drinks
 - 茅台
 ### Ingredients

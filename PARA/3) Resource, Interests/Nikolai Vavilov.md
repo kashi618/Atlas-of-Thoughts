@@ -9,7 +9,7 @@ Create Date: 2024-01-30
 ### Summary 💡
 
 > [!NOTE] Nikolai Vavilov
-> A Soviet scientist whose life's work was to gather seeds from all over the world.
+> A Soviet scientist whose life's work was to gather seeds from all over the world. His life tragically ended due to being disliked by [[Joseph Stalin]]
 
 ### Definition ✏️
 - Born in November 25th, 1887.

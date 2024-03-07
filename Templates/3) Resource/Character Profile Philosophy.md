@@ -2,7 +2,7 @@
 tags:
   - Philosophy
   - "#People"
-Create Date: <% tp.date.now() %>
+Create Date: <%tp.date.now()%>
 ---
 ### Portrait
 {Image of Character}

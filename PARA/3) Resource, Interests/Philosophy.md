@@ -1,17 +1,18 @@
 ---
 tags:
   - "#Philosophy"
+  - Definition
 Create Date: 2024-01-25
 ---
 ### Summary 💡
 
 
 > [!NOTE] Philosophy
-> Summary
+> The love of wisdom and knowledge.
 
 ### Definition 📖
 Think of [[Philosophy]] as a tree, with many branches reaching out.
-The main branches consists of:
+With the main branches consiting of:
 - [[Metaphysics]]
 - [[Epistemology]]
 - [[Ethics]]
@@ -20,6 +21,8 @@ The main branches consists of:
 - [[Logic]]
 
 ### People of Great Interest ✏️
-[[Socrates]]
- 
+- [[Socrates]]
+- [[Wang Yangming]]
+- [[Friedrick Nietzsche]]
+- [[LaoZi]]
 ### Sources/References 🌐 

@@ -1,10 +1,10 @@
 ---
 tags: 
-Create Date: <% tp.date.now() %>
+Create Date: <%tp.date.now()%>
 ---
 ### Summary 💡
 
-> [!NOTE] <% tp.file.title %>
+> [!NOTE] <%tp.file.title%>
 > Summary
 
 ### Definition 📖
