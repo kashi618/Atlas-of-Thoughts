@@ -1,3 +1,4 @@
+### Books To Read
 Most answers here suggest reading some introductions to philosophy. While that’s all fine and dandy, as the question seems to be about the works of great philosophers, i.e. primary works, I thought I would chip in with a fairly substantial list of important works from great philosophers. I order them according to some hazy principle that takes into account how easy they are to read and how they might build upon each other or have important synergy – or something. At the end of the day, it will be just my personal list that happens to make sense for me.
 
 Caveat: I leave out non-Western philosophy because I have little expertise on it, and I lean towards theoretical philosophy (metaphysics, epistemology, etc.) rather than practical (ethics, political philosophy, aesthetics) simply because of my own (lack of) knowledge. Ok, enough hedging, let’s do this!
@@ -146,7 +147,8 @@ While I should think there is enough of material above for years of philosophy, 
 Phew! That should keep you occupied for a little while!
 
 ---
-[
+
+### Books to Read
 
 Which books I should read to start studying philosophy?
 
@@ -211,3 +213,52 @@ But Graham is actually talking about Anglophone and usually analytic (as opposed
 Graham's brilliantly stated criticism doesn't apply to Nietzsche and Sartre and de Beauvoir and Kierkegaard. "It depends on what you consider good or evil" is a ludicrous response to Nietzsche. And for people of any depth, ethics gets much more interesting than "well my opinion is that people should strive for the common good, so everybody be nice." That's what you (and I) imagine before reading high quality philosophy of ethics, but not what it actually is.
 
 According to Bertrand Russell in A History of Western Philosophy, "It is undeniable that Nietzsche has had a great influence, not among technical philosophers, but among people of literary and artistic culture." Right. "People of literary and artistic culture" are considered non-philosophers by Anglophone convention. But the best ones, to me, are more interesting to read than Quine or Wittgenstein or their predecessors (Hume, Locke, etc).
+
+---
+
+### Philosophy Terms
+KNOW THESE TERMS (they will be on the test*):
+
+Hegemony
+
+Ideology
+
+Phenomenology
+
+Phenomena/Noumena
+
+Scientism (which is a cross between Google it and blow me)
+
+Social democracy
+
+Socialism
+
+Communism
+
+Anarchism
+
+Neo-liberalism
+
+Dialectic
+
+Dasein
+
+Postmodernism
+
+Structuralism
+
+Myth (via-a-vis Roland Barthes)
+
+Simulacra
+
+Sublimation
+
+Sublation (aufheben)
+
+Historicity
+
+Ego/Superego/Id
+
+Objet petit a
+
+(* the test is life itself, haha!)
