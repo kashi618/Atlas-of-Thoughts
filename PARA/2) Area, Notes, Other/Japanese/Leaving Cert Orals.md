@@ -16,9 +16,9 @@ computer science wo
 
 ##### 私のへや
 **(Where I live)**
-I live in Blanchardstown. Blanchardstown is in the west of Dublin 15.
+Firstly, I live in Blanchardstown. Blanchardstown is in the west of Dublin 15.
 My house is small, but it is very cosy. My room is in the attic, because last summer I fixed my attic.
-私はブランチャーズタウンに住んでいます。ブランチャーズタウンはダブリン十五にあります。わたしの家（いえ）は小さいですが、とてもいごこちのよいです。
+まずに私はブランチャーズタウンに住んでいます。ブランチャーズタウンはダブリン十五にあります。わたしの家（いえ）は小さいですが、とてもいごこちのよいです。
 
 **(About my room)**
 My room is very cold, but is big and bright. This is because there is 2 big windows on the left side of my room. 
@@ -28,7 +28,7 @@ The floor is brown, and the ceiling is white. I also have 3 small lights at the 
 ゆかは茶色でかべはしろいです。三つの電気（でんき）もへやの上にあります。
 
 At the back of my room is a black closet and my computer desk. 
-へやの後ろ（うしろ）に
+へやの後ろ（うしろ）にくろい
 
 I have two monitors, keyboard, and a mouse on the desk. I also have my pencil case, books, and copies.
 
