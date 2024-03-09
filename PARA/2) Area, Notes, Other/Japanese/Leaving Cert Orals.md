@@ -28,7 +28,7 @@ The floor is brown, and the ceiling is white. I also have 3 small lights at the 
 ゆかは茶色でかべはしろいです。三つの電気（でんき）もへやの上にあります。
 
 At the back of my room is a black closet and my computer desk. 
-へやの後（あと）に
+へやの後ろ（うしろ）に
 
 I have two monitors, keyboard, and a mouse on the desk. I also have my pencil case, books, and copies.
 
