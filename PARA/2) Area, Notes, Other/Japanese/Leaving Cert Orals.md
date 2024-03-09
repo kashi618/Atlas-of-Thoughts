@@ -17,9 +17,22 @@ computer science wo
 ##### 私のへや
 **(Where I live)**
 I live in Blanchardstown. Blanchardstown is in the west of Dublin 15.
-My house is small, but it is very warm and cosy. My room is in the attic, because last summer I fixed my attic.
+My house is small, but it is very cosy. My room is in the attic, because last summer I fixed my attic.
+私はブランチャーズタウンに住んでいます。ブランチャーズタウンはダブリン十五にあります。わたしの家（いえ）は小さいですが、とてもいごこちのよいです。
+
 **(About my room)**
-My room is very cold, but is big and bright. This is because there is 2 big windows on the left side of my room. The floor is brown, and the ceiling is white. I also have 3 small lights at the top of my room. At the back of my room is a black closet and my computer desk. I have two monitors, keyboard, and a mouse on the desk. I also have my pencil case, books, and copies.
+My room is very cold, but is big and bright. This is because there is 2 big windows on the left side of my room. 
+私のへやはとてもさむいです。でも大きくてあかるいです。二つまどはへやの左（ひだり）がわがありますから。
+
+The floor is brown, and the ceiling is white. I also have 3 small lights at the top of my room. 
+ゆかは茶色でかべはしろいです。三つの電気（でんき）もへやの上にあります。
+
+At the back of my room is a black closet and my computer desk. 
+へやの後（あと）に
+
+I have two monitors, keyboard, and a mouse on the desk. I also have my pencil case, books, and copies.
+
+
 **(What I do in my room)**
 I'm my room I often read, play computer games, and study Japanese. 
 I love Japanese manga. For example Doraemon and Shin-chan. I think Shin-chan is very funny. I also like to read books. My favourite books are Japanese books. For example, Ningen Shikkaku.At my desk, I also play many computer games. My favourite games are Elden Ring, Dark Souls, and Monster Hunter.
