@@ -59,6 +59,7 @@ This picture is about Japanese school study. The students are studying in the cl
 ![|500](https://i.imgur.com/4z4hWAe.jpg)
 **(Intro)**
 This picture is about Japanese afterschool activities. The students are practising instruments in the classroom. There are many students, and it is a mixed school because there are male and female students.
+このしゃしんは日本の学校のクラブ活動ついてです
 
 **(Classroom | Bright, brown, windows)**
 In the classroom, the walls and floor are brown. I think it looks nice, because in Irish schools the walls are white. The classroom is also very big and bright. I think this is because of the lights and the windows on the left side of the classroom. There are alot of windows, and they are very big. 

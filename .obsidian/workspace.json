@@ -4,37 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "53d1d638ecb7809a",
+        "id": "ec822177d1a3417a",
         "type": "tabs",
         "children": [
           {
-            "id": "57993573f85b28e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA/2) Area, Notes, Other/Book List.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c54681409205f1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA/2) Area, Notes, Other/Book List.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14a230549baebda3",
+            "id": "eb9c9380eb394fe3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,11 +229,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "14a230549baebda3",
+  "active": "eb9c9380eb394fe3",
   "lastOpenFiles": [
-    "PARA/2) Area, Notes, Other/Philosophy Other.md",
-    "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
     "PARA/2) Area, Notes, Other/Book List.md",
+    "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
+    "PARA/2) Area, Notes, Other/Philosophy Other.md",
     "PARA/2) Area, Notes, Other/Headphones & IEMs.md",
     "PARA/How to use Obsidian.md",
     "2014 Isla Vista Massacre.md",
