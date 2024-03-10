@@ -5,6 +5,38 @@
       "path": "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md"
     },
     {
+      "basename": "Character Profile",
+      "path": "Templates/3) Resource/Character Profile.md"
+    },
+    {
+      "basename": "Epistemology",
+      "path": "Epistemology.md"
+    },
+    {
+      "basename": "MHW Large Monsters",
+      "path": "PARA/2) Area, Notes, Other/Games/MHW Large Monsters.md"
+    },
+    {
+      "basename": "Plato",
+      "path": "Plato.md"
+    },
+    {
+      "basename": "Aesthetics",
+      "path": "Aesthetics.md"
+    },
+    {
+      "basename": "Wiki Type",
+      "path": "Templates/3) Resource/Wiki Type.md"
+    },
+    {
+      "basename": "Cats and Balls",
+      "path": "PARA/1) Project, Short-term Goals/Cats and Balls.md"
+    },
+    {
+      "basename": "Nationalism",
+      "path": "PARA/3) Resource, Interests/Nationalism.md"
+    },
+    {
       "basename": "Book List",
       "path": "PARA/2) Area, Notes, Other/Book List.md"
     },
@@ -47,10 +79,6 @@
     {
       "basename": "Socrates",
       "path": "PARA/3) Resource, Interests/Socrates.md"
-    },
-    {
-      "basename": "Aesthetics",
-      "path": "Aesthetics.md"
     },
     {
       "basename": "ImageURL",
@@ -133,10 +161,6 @@
       "path": "PARA/3) Resource, Interests/Abolition.md"
     },
     {
-      "basename": "MHW Large Monsters",
-      "path": "PARA/2) Area, Notes, Other/Games/MHW Large Monsters.md"
-    },
-    {
       "basename": "Chinese",
       "path": "PARA/2) Area, Notes, Other/Foods + Drinks/Chinese.md"
     },
@@ -173,32 +197,8 @@
       "path": "Justice.md"
     },
     {
-      "basename": "Plato",
-      "path": "Plato.md"
-    },
-    {
       "basename": "Nazism",
       "path": "Nazism.md"
-    },
-    {
-      "basename": "Roman Empire",
-      "path": "Roman Empire.md"
-    },
-    {
-      "basename": "Socratic Dialogue",
-      "path": "Socratic Dialogue.md"
-    },
-    {
-      "basename": "Soviet Union",
-      "path": "Soviet Union.md"
-    },
-    {
-      "basename": "The Republic - Plato",
-      "path": "The Republic - Plato.md"
-    },
-    {
-      "basename": "The Odyssey - Homer",
-      "path": "The Odyssey - Homer.md"
     }
   ],
   "omittedPaths": [],
