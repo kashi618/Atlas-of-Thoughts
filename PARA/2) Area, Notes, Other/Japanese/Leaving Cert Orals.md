@@ -28,7 +28,7 @@ The floor is brown, and the ceiling is white. I also have 3 small lights at the 
 ゆかは茶色でかべはしろいです。三つの電気（でんき）もへやの上にあります。
 
 At the back of my room is a black closet and my computer desk. 
-へやの後ろ（うしろ）にくろ色のおしいれ
+へやの後ろ（うしろ）にくろいおしいれ
 
 I have two monitors, keyboard, and a mouse on the desk. I also have my pencil case, books, and copies.
 
@@ -58,11 +58,12 @@ This picture is about Japanese school study. The students are studying in the cl
 ##### ほうかご
 ![|500](https://i.imgur.com/4z4hWAe.jpg)
 **(Intro)**
-This picture is about Japanese afterschool activities. The students are practising instruments in the classroom. There are many students, and it is a mixed school because there are male and female students.
-このしゃしんは日本の学校のクラブ活動ついてです
+This picture is about Japanese afterschool activities. The students are practising instruments in the classroom. There are many students. This is a mixed school, because there are male and female students.
+このしゃしんは日本の学校のクラブ活動ついてです。せいとはきょうしつにがっきのれんしゅうしています。たくさんせいとがいます。この学校はきょうがくです。女子生徒と男子生徒がいますから。
 
 **(Classroom | Bright, brown, windows)**
 In the classroom, the walls and floor are brown. I think it looks nice, because in Irish schools the walls are white. The classroom is also very big and bright. I think this is because of the lights and the windows on the left side of the classroom. There are alot of windows, and they are very big. 
+
 
 **(Female students | Marimba, uniform, summer uniform)**
 Beside the window are 2 female students. The students are playing the marimba. The female students are wearing a black skirt and white t-shirt. They are wearing the japanese summer uniform. Japan has 2 uniforms because the winter is very cold and the summer is very hot. In Irish school, we only have 1 uniform. 
