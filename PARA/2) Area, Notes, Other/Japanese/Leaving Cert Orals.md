@@ -66,8 +66,8 @@ Firslty, in the classroom, the walls and floor are brown. I think it looks nice,
 まず,きょうしつの中にかべとゆかは茶色があります。すてきだと思います。アイルランドのかべは白いですから。きょうしつもとても大きくてあかるいです。電気とまどがありますから。たくさん大きいのまどがあります。そしてまどは大きいです。
 
 **(Female students | Marimba, uniform, summer uniform)**
-Beside the window are 2 female students. The students are playing the marimba. The female students are wearing a black skirt and white t-shirt. They are wearing the japanese summer uniform. Japan has 2 uniforms because the winter is very cold and the summer is very hot. In Irish school, we only have 1 uniform. 
-まどの間（あいだ）に二人（ふたり）女子生徒がいます。女子生徒はマリンバをれんしゅうしています。
+Beside the window are 2 female students. The students are playing the marimba. They are wearing the japanese summer uniform. The female students are wearing a black skirt and white t-shirt. Japan has 2 uniforms because the winter is very cold and the summer is very hot. In Irish school, we only have 1 uniform. 
+まどの間（あいだ）に二人（ふたり）女子生徒がいます。女子生徒はマリンバをれんしゅうしています。そして（かれら）は日本の夏のせいふくをきます。くろいスカートと白いシャツをきます。
 
 **(Male student | Uniform, mask, covid, drums, )**
 Infront of the girl students is a male student playing the drums. The male student is wearing black pants and a mask. Perhaps he is wearing a mask because of corona. He is playing the drums. The drums are red and black. I like drums because I think they are cool. But my parents don't like the drums, because they are loud
