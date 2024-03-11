@@ -35,7 +35,7 @@ I have two monitors, keyboard, and a mouse on the desk. I also have my pencil ca
 
 **(What I do in my room)**
 I'm my room I often read, play computer games, and study Japanese. 
-I love Japanese manga. For example Doraemon and Shin-chan. I think Shin-chan is very funny. I also like to read books. My favourite books are Japanese books. For example, Ningen Shikkaku.At my desk, I also play many computer games. My favourite games are Elden Ring, Dark Souls, and Monster Hunter.
+I love Japanese manga. For example Doraemon and Shin-chan. I think Shin-chan is very funny. I also like to read books. My favourite books are Japanese books. For example, Ningen Shikkaku.　At my desk, I also play many computer games. My favourite games are Elden Ring, Dark Souls, and Monster Hunter.
 
 ****
 ## Section 3
@@ -48,12 +48,17 @@ I love Japanese manga. For example Doraemon and Shin-chan. I think Shin-chan is 
 ![|500](https://i.imgur.com/w9QSjKE.jpeg)
 **(Intro)**
 This photo is about Japanese school clearning. There are 6 students in the classroom. It is a mixed school because there are male and female students.
+このしゃしんは日本の学校のそうじついてです。せいとはきょうしつにがっきのれんしゅうしています。たくさんせいとがいます。この学校はきょうがくです。女子生徒と男子生徒がいますから。
 
 
 ##### 勉強
 ![|500](https://i.imgur.com/QgBxCdO.jpeg)
 **(Intro)**
 This picture is about Japanese school study. The students are studying in the classroom. There are many students, and it is a mixed school because there are male and female students.
+このしゃしんは日本の学校の勉強ついてです。せいとはきょうしつにがっきのれんしゅうしています。たくさんせいとがいます。この学校はきょうがくです。女子生徒と男子生徒がいますから。
+
+Firstly, in the classroom, it is very big and bright.
+まず、きょうしつはとても大きくてあかるいです。
 
 ##### ほうかご
 ![|500](https://i.imgur.com/4z4hWAe.jpg)
@@ -62,7 +67,7 @@ This picture is about Japanese afterschool activities. The students are practisi
 このしゃしんは日本の学校のクラブ活動ついてです。せいとはきょうしつにがっきのれんしゅうしています。たくさんせいとがいます。この学校はきょうがくです。女子生徒と男子生徒がいますから。
 
 **(Classroom | Bright, brown, windows)**
-Firslty, in the classroom, the walls and floor are brown. I think it looks nice, because in Irish schools the walls are white. The classroom is also very big and bright. This is because of the lights and the windows on the left side of the classroom. There are alot of windows, and they are very big. 
+Firstly, in the classroom, the walls and floor are brown. I think it looks nice, because in Irish schools the walls are white. The classroom is also very big and bright. This is because of the lights and the windows on the left side of the classroom. There are alot of windows, and they are very big. 
 まず,きょうしつの中にかべとゆかは茶色があります。すてきだと思います。アイルランドのかべは白いですから。きょうしつもとても大きくてあかるいです。電気とまどがありますから。たくさん大きいのまどがあります。そしてまどは大きいです。
 
 **(Female students | Marimba, uniform, summer uniform)**
@@ -73,14 +78,28 @@ Beside the window are 2 female students. The students are playing the marimba. T
 Infront of the girl students is a male student playing the drums. The male student is wearing black pants and a mask. Perhaps he is wearing a mask because of corona. The drums are red and black. I like drums because I think they are cool. But my mom don't like the drums, because they are loud.
 女子生徒の前に男子生徒はドラムをえんそうしています。男子生は黒いズポンや白いうわばきや白いマスクをきます。たぶん、コロナですから。男子生徒のダラムはあか色とくろ色です。ダラムはかっこいいと思うので好きです。でも母は好きじゃないです。うるさいですから。
 
-
-**(Projector | French horn, tied hair, black bow, sitting, reading)**
+**(Projector | French horn,,sitting, reading sheet music)**
 Under the projector is a girl student playing the french horn. She is sitting down on the white chair, and reading the sheet music. 
 プロジェクターの下にこの女子生徒はfrench hornをれんしゅうしています。女子生徒はいすをすわっています。そしてがくふをよんでいます。
 
 **(Right Side | Flute players, pencil case, instrument bag)**
 On the right side of the classroom, many of the students are playing the flute. They look very busy. On this female student's chair, is a red pencil case. Under the chair is a small black bag. Perhaps this is the instrument's bag.
-きょうしつの右（みぎ）がわにたくさん生徒はフルートをふいています。かれらはいそがしそうです。この生徒のいすの上にあかいふでばこがあります。いすのしたにちいさいい
+きょうしつの右（みぎ）がわにたくさん生徒はフルートをふいています。かれらはいそがしそうです。この生徒のいすの上にあかいふでばこがあります。いすのしたに小さなくろいかばんがあります。たぶんこのかばんはがっきのかばんです。
 
 **(Outro)**
 I think Japanese club activities look fun, because you play instruments with your friends. In Japan, there are alot of club activities. For example band practise, baseball, kendou etc. In Irish schools, we only have sport club activities. For example, football, basketball, and volleyball.
+日本のクラブ活動はたのしそうと思います。あなたと友だちでがっきをれんしゅうしています。日本にたくさんクラブ活動があります。たとえば、やきゅうぶやけんどうぶやぶんかぶなどがあります。アイルランドの学校にはうんどうぶしかありません。たとえば、バスケットボールやバレーボールやさっかーがあります。
+
+このしゃしんは日本の学校のクラブ活動ついてです。せいとはきょうしつにがっきのれんしゅうしています。たくさんせいとがいます。この学校はきょうがくです。女子生徒と男子生徒がいますから。
+
+まず,きょうしつの中にかべとゆかは茶色があります。すてきだと思います。アイルランドのかべは白いですから。きょうしつもとても大きくてあかるいです。電気とまどがありますから。たくさん大きいのまどがあります。そしてまどは大きいです。
+
+どの間に二人女子生徒がいます。女子生徒はマリンバをれんしゅうしています。そして女子生徒は日本の夏のせいふくをきます。黒いスカートと白いシャツをきます。日本の学校に二つせいふくがありまず。夏のせいふくと冬のせいふくです。日本の夏はとてもあたたかいです。そして日本の冬はとてもさむいですから。アイルランドの学校に一つせいふくがあります。
+
+女子生徒の前に男子生徒はドラムをえんそうしています。男子生は黒いズポンや白いうわばきや白いマスクをきます。たぶん、コロナですから。男子生徒のダラムはあか色とくろ色です。ダラムはかっこいいと思うので好きです。でも母は好きじゃないです。うるさいですから。
+
+プロジェクターの下にこの女子生徒はfrench hornをれんしゅうしています。女子生徒はいすをすわっています。そしてがくふをよんでいます。
+
+きょうしつの右がわにたくさん生徒はフルートをふいています。かれらはいそがしそうです。この生徒のいすの上にあかいふでばこがあります。いすのしたに小さなくろいかばんがあります。たぶんこのかばんはがっきのかばんです。
+
+日本のクラブ活動はたのしそうと思います。あなたと友だちでがっきをれんしゅうしています。日本にたくさんクラブ活動があります。たとえば、やきゅうぶやけんどうぶやぶんかぶなどがあります。アイルランドの学校にはうんどうぶしかありません。たとえば、バスケットボールやバレーボールやさっかーがあります。

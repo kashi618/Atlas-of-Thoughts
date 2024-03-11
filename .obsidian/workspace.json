@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Science",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "5f252b2efa3321c0",
@@ -225,6 +226,9 @@
   },
   "active": "58b56e731f063f81",
   "lastOpenFiles": [
+    "PARA/2) Area, Notes, Other/Book List.md",
+    "PARA/3) Resource, Interests/Déjà Entendu.md",
+    "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
     "Templates/3) Resource/Character Profile.md",
     "Epistemology.md",
     "PARA/2) Area, Notes, Other/Games/MHW Large Monsters.md",
@@ -232,9 +236,7 @@
     "Aesthetics.md",
     "Templates/3) Resource/Wiki Type.md",
     "PARA/1) Project, Short-term Goals/Cats and Balls.md",
-    "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
     "PARA/3) Resource, Interests/Nationalism.md",
-    "PARA/2) Area, Notes, Other/Book List.md",
     "PARA/2) Area, Notes, Other/Philosophy Other.md",
     "PARA/2) Area, Notes, Other/Headphones & IEMs.md",
     "PARA/How to use Obsidian.md",
@@ -250,7 +252,6 @@
     "LaoZi.md",
     "Chin.md",
     "Logic.md",
-    "Mathematics.md",
     "Untitled.canvas",
     "ZenZone/visuals.py",
     "ZenZone/speech/__init__.py",

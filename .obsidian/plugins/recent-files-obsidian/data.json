@@ -5,6 +5,14 @@
       "path": "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md"
     },
     {
+      "basename": "Book List",
+      "path": "PARA/2) Area, Notes, Other/Book List.md"
+    },
+    {
+      "basename": "Déjà Entendu",
+      "path": "PARA/3) Resource, Interests/Déjà Entendu.md"
+    },
+    {
       "basename": "Character Profile",
       "path": "Templates/3) Resource/Character Profile.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "Nationalism",
       "path": "PARA/3) Resource, Interests/Nationalism.md"
-    },
-    {
-      "basename": "Book List",
-      "path": "PARA/2) Area, Notes, Other/Book List.md"
     },
     {
       "basename": "Philosophy Other",
@@ -143,10 +147,6 @@
     {
       "basename": "Déjà Vu",
       "path": "PARA/3) Resource, Interests/Déjà Vu.md"
-    },
-    {
-      "basename": "Déjà Entendu",
-      "path": "PARA/3) Resource, Interests/Déjà Entendu.md"
     },
     {
       "basename": "Communism",
