@@ -67,10 +67,13 @@ Firslty, in the classroom, the walls and floor are brown. I think it looks nice,
 
 **(Female students | Marimba, uniform, summer uniform)**
 Beside the window are 2 female students. The students are playing the marimba. They are wearing the japanese summer uniform. The female students are wearing a black skirt and white t-shirt. Japan has 2 uniforms because the winter is very cold and the summer is very hot. In Irish school, we only have 1 uniform. 
-まどの間（あいだ）に二人（ふたり）女子生徒がいます。女子生徒はマリンバをれんしゅうしています。そして（かれら）は日本の夏のせいふくをきます。くろいスカートと白いシャツをきます。
+まどの間（あいだ）に二人（ふたり）女子生徒がいます。女子生徒はマリンバをれんしゅうしています。そして女子生徒は日本の夏のせいふくをきます。黒いスカートと白いシャツをきます。日本の学校に二つせいふくがありまず。夏のせいふくと冬のせいふくです。日本の夏はとてもあたたかいです。そして日本の冬はとてもさむいですから。アイルランドの学校に一つせいふくがあります。
 
 **(Male student | Uniform, mask, covid, drums, )**
-Infront of the girl students is a male student playing the drums. The male student is wearing black pants and a mask. Perhaps he is wearing a mask because of corona. He is playing the drums. The drums are red and black. I like drums because I think they are cool. But my parents don't like the drums, because they are loud
+Infront of the girl students is a male student playing the drums. The male student is wearing black pants and a mask. Perhaps he is wearing a mask because of corona. The drums are red and black. I like drums because I think they are cool. But my parents don't like the drums, because they are loud.
+女子生徒の前に男子生徒はドラムをえんそうしています。男子生は黒いズポンや白いうわばきや白いマスクをきます。たぶん、コロナですから。男子のダラムは
+n
+
 
 **(Projector | French horn, tied hair, black bow, sitting, reading)**
 At the top of the class room is a projector. Under the projector is a girl student playing the french horn. She is sitting down on the white chair, and reading the sheet music. Her hair is tied up, and she has a small black bow on her t-shirt.
