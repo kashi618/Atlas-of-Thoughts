@@ -70,16 +70,17 @@ Beside the window are 2 female students. The students are playing the marimba. T
 まどの間（あいだ）に二人（ふたり）女子生徒がいます。女子生徒はマリンバをれんしゅうしています。そして女子生徒は日本の夏のせいふくをきます。黒いスカートと白いシャツをきます。日本の学校に二つせいふくがありまず。夏のせいふくと冬のせいふくです。日本の夏はとてもあたたかいです。そして日本の冬はとてもさむいですから。アイルランドの学校に一つせいふくがあります。
 
 **(Male student | Uniform, mask, covid, drums, )**
-Infront of the girl students is a male student playing the drums. The male student is wearing black pants and a mask. Perhaps he is wearing a mask because of corona. The drums are red and black. I like drums because I think they are cool. But my parents don't like the drums, because they are loud.
-女子生徒の前に男子生徒はドラムをえんそうしています。男子生は黒いズポンや白いうわばきや白いマスクをきます。たぶん、コロナですから。男子のダラムは
-n
+Infront of the girl students is a male student playing the drums. The male student is wearing black pants and a mask. Perhaps he is wearing a mask because of corona. The drums are red and black. I like drums because I think they are cool. But my mom don't like the drums, because they are loud.
+女子生徒の前に男子生徒はドラムをえんそうしています。男子生は黒いズポンや白いうわばきや白いマスクをきます。たぶん、コロナですから。男子生徒のダラムはあか色とくろ色です。ダラムはかっこいいと思うので好きです。でも母は好きじゃないです。うるさいですから。
 
 
 **(Projector | French horn, tied hair, black bow, sitting, reading)**
-At the top of the class room is a projector. Under the projector is a girl student playing the french horn. She is sitting down on the white chair, and reading the sheet music. Her hair is tied up, and she has a small black bow on her t-shirt.
+Under the projector is a girl student playing the french horn. She is sitting down on the white chair, and reading the sheet music. 
+プロジェクターの下にこの女子生徒はfrench hornをれんしゅうしています。女子生徒はいすをすわっています。そしてがくふをよんでいます。
 
 **(Right Side | Flute players, pencil case, instrument bag)**
 On the right side of the classroom, many of the students are playing the flute. They look very busy. On this female student's chair, is a red pencil case. Under the chair is a small black bag. Perhaps this is the instrument's bag.
+きょうしつの右（みぎ）がわにたくさん生徒はフルートをふいています。かれらはいそがしそうです。この生徒のいすの上にあかいふでばこがあります。いすのしたにちいさいい
 
 **(Outro)**
 I think Japanese club activities look fun, because you play instruments with your friends. In Japan, there are alot of club activities. For example band practise, baseball, kendou etc. In Irish schools, we only have sport club activities. For example, football, basketball, and volleyball.
