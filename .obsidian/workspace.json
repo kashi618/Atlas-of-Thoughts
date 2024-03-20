@@ -24,9 +24,12 @@
             "id": "bb41a7f6f2bcf2ea",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "PARA/2) Area, Notes, Other/Games/MHW Large Monsters.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -130,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/2) Area, Notes, Other/Philosophy Other.md"
+                "file": "PARA/2) Area, Notes, Other/Games/MHW Large Monsters.md"
               }
             }
           },
@@ -167,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PARA/2) Area, Notes, Other/Philosophy Other.md"
+                "file": "PARA/2) Area, Notes, Other/Games/MHW Large Monsters.md"
               }
             }
           },
@@ -189,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PARA/2) Area, Notes, Other/Philosophy Other.md",
+                "file": "PARA/2) Area, Notes, Other/Games/MHW Large Monsters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/2) Area, Notes, Other/Philosophy Other.md",
+                "file": "PARA/2) Area, Notes, Other/Games/MHW Large Monsters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,8 +239,10 @@
   },
   "active": "bb41a7f6f2bcf2ea",
   "lastOpenFiles": [
-    "PARA/2) Area, Notes, Other/Book List.md",
     "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
+    "PARA/How to use Obsidian.md",
+    "Aristotle.md",
+    "PARA/2) Area, Notes, Other/Book List.md",
     "PARA/3) Resource, Interests/Déjà Entendu.md",
     "Templates/3) Resource/Character Profile.md",
     "Epistemology.md",
@@ -249,7 +254,6 @@
     "PARA/3) Resource, Interests/Nationalism.md",
     "PARA/2) Area, Notes, Other/Philosophy Other.md",
     "PARA/2) Area, Notes, Other/Headphones & IEMs.md",
-    "PARA/How to use Obsidian.md",
     "2014 Isla Vista Massacre.md",
     "PARA/2) Area, Notes, Other/GameDev ToDo List.md",
     "Chinese Communist Party.md",
@@ -261,7 +265,6 @@
     "Chinese Philosophy.md",
     "LaoZi.md",
     "Chin.md",
-    "Logic.md",
     "Untitled.canvas",
     "ZenZone/visuals.py",
     "ZenZone/speech/__init__.py",
