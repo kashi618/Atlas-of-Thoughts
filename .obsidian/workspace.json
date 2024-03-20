@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
+                "file": "PARA/2) Area, Notes, Other/Philosophy Other.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb41a7f6f2bcf2ea",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,8 +94,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "5f252b2efa3321c0",
@@ -120,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md"
+                "file": "PARA/2) Area, Notes, Other/Philosophy Other.md"
               }
             }
           },
@@ -157,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md"
+                "file": "PARA/2) Area, Notes, Other/Philosophy Other.md"
               }
             }
           },
@@ -179,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
+                "file": "PARA/2) Area, Notes, Other/Philosophy Other.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
+                "file": "PARA/2) Area, Notes, Other/Philosophy Other.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,11 +234,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "58b56e731f063f81",
+  "active": "bb41a7f6f2bcf2ea",
   "lastOpenFiles": [
     "PARA/2) Area, Notes, Other/Book List.md",
-    "PARA/3) Resource, Interests/Déjà Entendu.md",
     "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
+    "PARA/3) Resource, Interests/Déjà Entendu.md",
     "Templates/3) Resource/Character Profile.md",
     "Epistemology.md",
     "PARA/2) Area, Notes, Other/Games/MHW Large Monsters.md",
