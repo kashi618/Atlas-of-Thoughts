@@ -20,7 +20,7 @@
 | **Coral Pukei-Pukei**    |              —              |              —              |              —              |              —              |              ✅              |              ✅              |
 | Deviljho                 |             ☑️              |             ☑️              |             ☑️              |             ☑️              |             ☑️              |             ☑️              |
 | Diablos                  |             ☑️              |              ✅              |              ✅              |              ✅              |              ✅              |              ✅              |
-| Dodogama                 |             ☑️              |             ☑️              |              ✅              |              ✅              |             ☑️              |             ☑️              |
+| Dodogama                 |             ☑️              |             ☑️              |              ✅              |              ✅              |              ✅              |              ✅              |
 | **Ebony Odogaron**       |              —              |              —              |              —              |              —              |              ✅              |              ✅              |
 | **Fatalis**<br>          |              —              |              —              |              —              |              —              |              —              |             ☑️              |
 | **Frostfang Barioth**    |              —              |              —              |              —              |              —              |             ☑️              |             ☑️              |
