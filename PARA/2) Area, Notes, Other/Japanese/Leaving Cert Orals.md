@@ -1,6 +1,7 @@
 ## Section 1
 #### General Conversation
-shourai - future
+shourai - future　
+
 anata no shourai wa nani oshitai desu ka
 computer science wo
 
@@ -11,8 +12,37 @@ computer science wo
 - [[#私のへや]]
 
 ##### 去年の夏休み 
+去年の夏休みについて話します。
+
+**(About summer holiday)**
+Last year's summer holiday was really fun. I went to China, and had a birthday party.
+去年の夏休みは楽しかったです。中国に行って誕生日のパーティーをしました。
+
+**(Going to China)**
+(Firstly) from July to August, I went to China. China is much hotter than Ireland. The temperature was 30 degrees.
+（まず）七月から八月まで中国にいきました。中国はアイルランドよりとてもあついです。きおんは30度でした。
+
+Everyday in China my granny made Chinese food. For example, dumplings, spicy chicken, and fried rice.
+中国では毎日そぼはちゅうかりょうりを作りました。たとえば、ぎょうざやスパイシーチキンやチャーハンです。そぼの料理はとてもおいしいです。
+
+In china I also went to the zoo. In the zoo I saw alot of pandas. Panda's are very cute, because they are very fat, black, and white.
+中国にどうぶつえんもいきました。どぶつえんにたくさんパンダを見ました。パンダはとてもかわいいです。とてもふとつでくろいとしろいですから。
+
+**(Birthday party)**
+Next, my birthday is June 18th.　Last year's summer holiday, I had my 16th birthday party.
+（つぎに）わたしの誕生日は六月十八日にあります。去年の夏休みに私の十六才の誕生日のパーティーをしました。
+
+In the afternoon my friends came over and we sang karaoke.
+昼に私の友だちベノナさんを来て、カラオケをうたいました。
+
+I was on the table singing. It was really funny because I was not skillful at singing. 
+私はつくえの上で
+
+
 
 ##### 私のへや
+私のへやについて話します。
+
 **(Where I live)**
 Firstly, I live in Blanchardstown. Blanchardstown is in the west of Dublin 15.
 My house is small, but it is very cosy. My room is in the attic, because last summer I fixed my attic.
@@ -20,7 +50,7 @@ My house is small, but it is very cosy. My room is in the attic, because last su
 
 **(About my room)**
 My room is very cold, but is big and bright. This is because there is 2 big windows on the left side of my room. 
-私のへやはとてもさむいです。でも大きくてあかるいです。二つまどはへやの左（ひだり）がわがありますから。
+私のへやはとてもさむいです。でも大きくてあかるいです。二つまどはへやの左（ひだり）がわにありますから。
 
 The floor is brown, and the ceiling is white. I also have 3 small lights at the top of my room. 
 ゆかは茶色でかべはしろいです。三つの電気（でんき）もへやの上にあります。
@@ -28,14 +58,27 @@ The floor is brown, and the ceiling is white. I also have 3 small lights at the 
 At the back of my room is a black closet and my computer desk. 
 へやの後ろ（うしろ）にくろいおしいれがあります。
 
-I have two monitors, keyboard, and a mouse on the desk. I also have my pencil case, books, and copies.
-うつくえの上に二つモニタやけーボードーやマウスなどがあります。
-
+I have two monitors, keyboard, and a mouse on the desk.
+つくえの上に二つモニタやキーボードーやマウスなどがあります。
 
 **(What I do in my room)**
 I'm my room I often read, play computer games, and study Japanese. 
-へやに本をよんだり、
-I love Japanese manga. For example Doraemon and Shin-chan. I think Shin-chan is very funny. I also like to read books. My favourite books are Japanese books. For example, Ningen Shikkaku.　At my desk, I also play many computer games. My favourite games are Elden Ring, Dark Souls, and Monster Hunter.
+へやで本とマンガを読んだり、コンピューターゲームをしたり、日本語を勉強します。
+
+I like reading books. Especially Japanese books. For example, Ningen Shikkaku.
+本を読むことが好きです。とくに日本の本が好きです。たとえば、人間失格です。
+
+I also like Japanese manga. For example, Doraemon and Crayon Shin Chan.
+日本の漫画もすきです。たとえば、ドラえもんとクレヨンしんちゃんです。
+
+Shin chan is dumb, but he is also very funny. 
+しんちゃんはバカな人ですが、とてもおもしろいと思います。
+
+At my desk, I also play many computer games. My favourite games are Elden Ring, Dark Souls, and Monster Hunter.
+つくえの前にたくさんコンピューターゲームおしています。わたしのいいゲームはエルデンリングやダークソウルやモンスターハンターがあります。
+
+Every day I play computer games for 3 hours.
+毎日ニ時間コンピューターゲームをしています。
 
 ****
 ## Section 3
@@ -49,6 +92,8 @@ I love Japanese manga. For example Doraemon and Shin-chan. I think Shin-chan is 
 **(Intro)**
 This photo is about Japanese school clearning. There are 6 students in the classroom. It is a mixed school because there are male and female students.
 このしゃしんは日本の学校のそうじついてです。せいとはきょうしつにがっきのれんしゅうしています。たくさんせいとがいます。この学校はきょうがくです。女子生徒と男子生徒がいますから。
+
+
 
 
 ##### 勉強

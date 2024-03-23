@@ -36,7 +36,8 @@
     "excalidraw": 24,
     "tldraw": 25,
     "Phenomenon": 26,
-    "Philosopher": 27
+    "Philosopher": 27,
+    "Title": 28
   },
   "_version": 3
 }

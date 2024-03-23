@@ -18,6 +18,8 @@ Create Date: 2024-01-30
 ##### Quotes:
 *"I am the wisest man alive, for I know one thing, and that is that I know nothing."*
 - [[The Republic - Plato]]
+*"The unexamined life is not worth living"*
+- [[Apology - Plato]]
 
 ### Beliefs ✏️
 - [[Justice]] as the highest form of [[Eudaimonia]]
