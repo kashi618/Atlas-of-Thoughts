@@ -31,7 +31,7 @@
 | Great Girros             |             ☑️              |             ☑️              |              ✅              |              ✅              |              ✅              |              ✅              |
 | Great Jagras             |              ✅              |              ✅              |              ✅              |              ✅              |              ✅              |              ✅              |
 | Jyuratodus               |             ☑️              |             ☑️              |             ☑️              |             ☑️              |             ☑️              |             ☑️              |
-| Kirin                    |              —              |             ☑️              |              —              |             ☑️              |              —              |             ☑️              |
+| Kirin                    |              —              |             ☑️              |              —              |             ☑️              |              —              |              ✅              |
 | Kulu-Ya-Ku               |             ☑️              |             ☑️              |              ✅              |              ✅              |              ✅              |              ✅              |
 | Kulve Taroth             |              —              |             ☑️              |              —              |             ☑️              |              —              |             ☑️              |
 | Kushala Daora            |              —              |             ☑️              |              —              |              ✅              |              —              |             ☑️              |
