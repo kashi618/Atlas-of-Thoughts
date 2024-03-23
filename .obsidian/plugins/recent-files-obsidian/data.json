@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Presque Vu",
+      "path": "PARA/3) Resource, Interests/Presque Vu.md"
+    },
+    {
+      "basename": "The Republic - Plato",
+      "path": "PARA/3) Resource, Interests/The Republic - Plato.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Agronomist",
+      "path": "PARA/3) Resource, Interests/Agronomist.md"
+    },
+    {
+      "basename": "Jamais Vu",
+      "path": "PARA/3) Resource, Interests/Jamais Vu.md"
+    },
+    {
+      "basename": "Metaphysics",
+      "path": "PARA/3) Resource, Interests/Metaphysics.md"
+    },
+    {
+      "basename": "Philosophy Other",
+      "path": "PARA/2) Area, Notes, Other/Philosophy Other.md"
+    },
+    {
       "basename": "MHW Large Monsters",
       "path": "PARA/2) Area, Notes, Other/Games/MHW Large Monsters.md"
     },
@@ -15,10 +43,6 @@
     {
       "basename": "Aristotle",
       "path": "Aristotle.md"
-    },
-    {
-      "basename": "Philosophy Other",
-      "path": "PARA/2) Area, Notes, Other/Philosophy Other.md"
     },
     {
       "basename": "Book List",
@@ -89,10 +113,6 @@
       "path": "PARA/3) Resource, Interests/Socrates.md"
     },
     {
-      "basename": "ImageURL",
-      "path": "ImageURL.md"
-    },
-    {
       "basename": "Chinese Philosophy",
       "path": "Chinese Philosophy.md"
     },
@@ -125,18 +145,6 @@
       "path": "Utopia.md"
     },
     {
-      "basename": "Presque Vu",
-      "path": "PARA/3) Resource, Interests/Presque Vu.md"
-    },
-    {
-      "basename": "Jamais Vu",
-      "path": "PARA/3) Resource, Interests/Jamais Vu.md"
-    },
-    {
-      "basename": "Metaphysics",
-      "path": "PARA/3) Resource, Interests/Metaphysics.md"
-    },
-    {
       "basename": "Déjà Vécu",
       "path": "PARA/3) Resource, Interests/Déjà Vécu.md"
     },
@@ -151,10 +159,6 @@
     {
       "basename": "Communism",
       "path": "PARA/3) Resource, Interests/Communism.md"
-    },
-    {
-      "basename": "Agronomist",
-      "path": "PARA/3) Resource, Interests/Agronomist.md"
     },
     {
       "basename": "Abolition",
@@ -195,10 +199,6 @@
     {
       "basename": "Justice",
       "path": "Justice.md"
-    },
-    {
-      "basename": "Nazism",
-      "path": "Nazism.md"
     }
   ],
   "omittedPaths": [],
