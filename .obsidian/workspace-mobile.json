@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/2) Area, Notes, Other/Philosophy Other.md",
-                "mode": "preview",
+                "file": "The Republic - Plato.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "PARA/2) Area, Notes, Other/Philosophy Other.md",
+            "file": "The Republic - Plato.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "PARA/2) Area, Notes, Other/Philosophy Other.md",
+            "file": "The Republic - Plato.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -143,7 +143,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "PARA/2) Area, Notes, Other/Philosophy Other.md"
+            "file": "The Republic - Plato.md"
           }
         }
       }
@@ -168,6 +168,7 @@
   },
   "active": "4895439786fb2328",
   "lastOpenFiles": [
+    "PARA/2) Area, Notes, Other/Philosophy Other.md",
     "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
     "/PARA/2) Area, Notes, Other/Games/MHW Large Monsters.md",
     "PARA/3) Resource, Interests/Jamais Vu.md",
@@ -193,7 +194,6 @@
     "Wang Yangming.md",
     "The Republic - Plato.md",
     "The Odyssey - Homer.md",
-    "Socratic Dialogue.md",
     "Templates/3) Resource",
     "Templates/1) Project",
     "Templates",

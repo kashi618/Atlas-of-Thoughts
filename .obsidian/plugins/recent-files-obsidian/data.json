@@ -1,24 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "MHW Large Monsters",
-      "path": "PARA/2) Area, Notes, Other/Games/MHW Large Monsters.md"
-    },
-    {
-      "basename": "Leaving Cert Orals",
-      "path": "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md"
-    },
-    {
-      "basename": "How to use Obsidian",
-      "path": "PARA/How to use Obsidian.md"
-    },
-    {
-      "basename": "Aristotle",
-      "path": "Aristotle.md"
+      "basename": "The Republic - Plato",
+      "path": "The Republic - Plato.md"
     },
     {
       "basename": "Philosophy Other",
       "path": "PARA/2) Area, Notes, Other/Philosophy Other.md"
+    },
+    {
+      "basename": "Leaving Cert Orals",
+      "path": "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md"
     },
     {
       "basename": "Book List",
@@ -35,6 +27,10 @@
     {
       "basename": "Epistemology",
       "path": "Epistemology.md"
+    },
+    {
+      "basename": "MHW Large Monsters",
+      "path": "PARA/2) Area, Notes, Other/Games/MHW Large Monsters.md"
     },
     {
       "basename": "Plato",
@@ -59,6 +55,10 @@
     {
       "basename": "Headphones & IEMs",
       "path": "PARA/2) Area, Notes, Other/Headphones & IEMs.md"
+    },
+    {
+      "basename": "How to use Obsidian",
+      "path": "PARA/How to use Obsidian.md"
     },
     {
       "basename": "2014 Isla Vista Massacre",
@@ -123,6 +123,10 @@
     {
       "basename": "Utopia",
       "path": "Utopia.md"
+    },
+    {
+      "basename": "Aristotle",
+      "path": "Aristotle.md"
     },
     {
       "basename": "Presque Vu",
@@ -195,10 +199,6 @@
     {
       "basename": "Justice",
       "path": "Justice.md"
-    },
-    {
-      "basename": "Nazism",
-      "path": "Nazism.md"
     }
   ],
   "omittedPaths": [],
