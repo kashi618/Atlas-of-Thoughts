@@ -1,6 +1,7 @@
 ### Books To Read
 Most answers here suggest reading some introductions to philosophy. While that’s all fine and dandy, as the question seems to be about the works of great philosophers, i.e. primary works, I thought I would chip in with a fairly substantial list of important works from great philosophers. I order them according to some hazy principle that takes into account how easy they are to read and how they might build upon each other or have important synergy – or something. At the end of the day, it will be just my personal list that happens to make sense for me.
 
+
 Caveat: I leave out non-Western philosophy because I have little expertise on it, and I lean towards theoretical philosophy (metaphysics, epistemology, etc.) rather than practical (ethics, political philosophy, aesthetics) simply because of my own (lack of) knowledge. Ok, enough hedging, let’s do this!
 
 1. There can be only one first choice: start with Plato. In many ways the father of all Western philosophy, Plato’s thought set the stage for the more than two millennia of philosophy to follow. I recommend:
