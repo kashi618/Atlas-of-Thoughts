@@ -25,20 +25,21 @@ Last year's summer holiday was really fun. I went to China, and had a birthday p
 Everyday in China my granny made Chinese food. For example, dumplings, spicy chicken, and fried rice.
 中国では毎日そぼはちゅうかりょうりを作りました。たとえば、ぎょうざやスパイシーチキンやチャーハンです。そぼの料理はとてもおいしいです。
 
-In china I also went to the zoo. In the zoo I saw alot of pandas. Panda's are very cute, because they are very fat, black, and white.
-中国にどうぶつえんもいきました。どぶつえんにたくさんパンダを見ました。パンダはとてもかわいいです。とてもふとつでくろいとしろいですから。
+In China I also went to the zoo. In the zoo I saw alot of pandas. Panda's are very cute, because they are very fat, black, and white.
+中国にどうぶつえんもいきました。どぶつえんでたくさんパンダを見ました。パンダはとてもかわいいです。そしてふとつでくろいとしろいですから。
 
 **(Birthday party)**
 Next, my birthday is June 18th.　Last year's summer holiday, I had my 16th birthday party.
 （つぎに）わたしの誕生日は六月十八日にあります。去年の夏休みに私の十六才の誕生日のパーティーをしました。
 
 In the afternoon my friends came over and we sang karaoke.
-昼に私の友だちベノナさんを来て、カラオケをうたいました。
+昼（ひる）に私の友だちベノナさんを来て、カラオケをうたいました。
 
-I was on the table singing. It was really funny because I was not skillful at singing. 
-私はつくえの上で
+It was really funny. I was singing ontop of the table, but I sucked at singing.
+楽しかったでした。私はつくえの上でうたっていました、でも私はへたです。
 
-
+At night, I ate a big chocolate cake. The cake was very fluffy, and there was alot of strawberrys on top of it.
+夜（よる）に大きいのチョコレートケーキを食べました。ケーキはフワフワです。そして、ケーキの上にたくさんいちごがありました。
 
 ##### 私のへや
 私のへやについて話します。
