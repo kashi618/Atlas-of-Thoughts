@@ -94,43 +94,52 @@ Every day I play computer games for 3 hours.
 This photo is about Japanese school clearning. There are 6 students in the classroom. It is a mixed school because there are male and female students.
 このしゃしんは日本の学校のそうじついてです。せいとはきょうしつにがっきのれんしゅうしています。たくさんせいとがいます。この学校はきょうがくです。女子生徒と男子生徒がいますから。
 
-Firstly, in this classroom the floors are brown, and the walls are white. The classroom is also very big and bright.
-まず,きょうしつのかべは白いです。そしてゆかは茶色です。
+Firstly, in this classroom the floors are brown, and the walls are white. In the classroom there are alot of desks.
+まず、きょうしつのかべはしろいです。そして、ゆかは茶色です。きょうしつの中にたくさんつくえがあります。
 
- This is because of the lights and the windows on the left side of the classroom. There are alot of windows, and they are very big. 
-きょうしつもとても大きくてあかるいです。電気とまどがありますから。たくさん大きいのまどがあります。そしてまどは大きいです。
+**(Between Desk | Sweeping floor, Uniform)**
+In between the desk is a female student sweeping the floor. She is short.
+つくえの間にこの女子生徒はゆかをはいています。この生徒はｄ
+
+She is wearing a black skirt, a white t-shirt, and indoor shoes. 
+女子生徒は日本の夏のせいふくをきます。黒いスカートや白いシャツやうわばきなどをきます。
+
+**(Blackboard | 2 Male students, Comparision)
+
+At the back of the classroom is a blackboard. 2 male students are wiping the blackboard.
+きょうしつのうしろにこくばんがあります。
 
 
+Comparing Irish schools to Japanese schools, we don't use blackboards. In Irish schools we use the white board. I think it is more convenient
+アイルランドの学校はにほんのがっこうよりこくばんがありません。アイルランドの学校でホワイトボードがあります。ホワイトボードはもっと便利だと思います。
 
 ##### 勉強
 ![|500](https://i.imgur.com/QgBxCdO.jpeg)
 **(Intro)**
 This picture is about Japanese school study. The students are studying in the classroom. There are many students, and it is a mixed school because there are male and female students.
-このしゃしんは日本の学校の勉強ついてです。せいとはきょうしつにがっきのれんしゅうしています。たくさんせいとがいます。この学校はきょうがくです。女子生徒と男子生徒がいますから。
+このしゃしんは日本の学校の勉強についてです。せいとはきょうしつにがっきのれんしゅうしています。たくさんせいとがいます。この学校はきょうがくです。女子生徒と男子生徒がいますから。
 
 **(Classroom | Bright and big)**
 Firstly, the classroom walls and floor are brown. I think it looks nice. This is because in Irish schools the walls are white. 
-まず,きょうしつのかべとゆかは茶色です。すてきだと思います。アイルランドのかべは白いですから
+まず,きょうしつのかべとゆかは茶色です。すてきだと思います。アイルランドのかべは白いですから。
 
 The classroom is also very big and bright. This is because of the lights in the classroom. There are alot of
 きょうしつもとても大きくてあかるいです。電気とまどがありますから。たくさん大きいのまどがあります。そしてまどは大きいです。
-
-
 
 ##### ほうかご
 ![|500](https://i.imgur.com/4z4hWAe.jpg)
 **(Intro)**
 This picture is about Japanese afterschool activities. The students are practising instruments in the classroom. There are many students. This is a mixed school, because there are male and female students.
-このしゃしんは日本の学校のクラブ活動ついてです。せいとはきょうしつにがっきのれんしゅうしています。たくさんせいとがいます。この学校はきょうがくです。女子生徒と男子生徒がいますから。
+このしゃしんは日本の学校のクラブ活動についてです。せいとはきょうしつにがっきのれんしゅうしています。たくさんせいとがいます。この学校はきょうがくです。女子生徒と男子生徒がいますから。
 
-**(Classroom | Bright, brown, windows)**
+**(Classroom description | Bright, brown, windows)**
 Firstly, the classroom walls and floor are brown. I think it looks nice. This is because in Irish schools the walls are white. 
 まず,きょうしつのかべとゆかは茶色です。すてきだと思います。アイルランドのかべは白いですから
 
 The classroom is also very big and bright. This is because of the lights and the windows on the left side of the classroom. There are alot of windows, and they are very big. 
 きょうしつもとても大きくてあかるいです。電気とまどがありますから。たくさん大きいのまどがあります。そしてまどは大きいです。
 
-**(Female students | Marimba, uniform, summer uniform)**
+**(Left side of classroom | Uniform, marima practice)**
 Beside the window are 2 female students. The students are playing the marimba. 
 まどの間（あいだ）に二人（ふたり）女子生徒がいます。女子生徒はマリンバをれんしゅうしています。
 
@@ -141,7 +150,7 @@ In Japanese schools, they have two uniforms. The winter uniform and summer unifo
 日本の学校に二つせいふくがありまず。夏のせいふくと冬のせいふくです。
 
 This is because the the summer is very hot, and winter is very cold. In Irish schools, we only have 1 uniform. 
-日本の夏はとてもあたたかく冬はとてもさむいです。アイルランドの学校に一つせいふくがあります。
+	日本の夏はとてもあたたかく冬はとてもさむいです。アイルランドの学校に一つせいふくがあります。
 
 **(Male student | Uniform, mask, covid, drums, )**
 Infront of the girl students is a male student playing the drums. The male student is wearing black pants and a mask. Perhaps he is wearing a mask because of corona. The drums are red and black. I like drums because I think they are cool. But my mom don't like the drums, because they are loud.
