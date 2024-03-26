@@ -94,24 +94,36 @@ Every day I play computer games for 3 hours.
 This photo is about Japanese school clearning. There are 6 students in the classroom. It is a mixed school because there are male and female students.
 このしゃしんは日本の学校のそうじついてです。せいとはきょうしつにがっきのれんしゅうしています。たくさんせいとがいます。この学校はきょうがくです。女子生徒と男子生徒がいますから。
 
+**(Classroom Description | Floor and wall, alot of desks, pencilcase)**
 Firstly, in this classroom the floors are brown, and the walls are white. In the classroom there are alot of desks.
 まず、きょうしつのかべはしろいです。そして、ゆかは茶色です。きょうしつの中にたくさんつくえがあります。
 
-**(Between Desk | Sweeping floor, Uniform)**
-In between the desk is a female student sweeping the floor. She is short.
-つくえの間にこの女子生徒はゆかをはいています。この生徒はｄ
+On top of the desk is a copy and a brown pencil case. Inside the pencil case is alot of pens and pencils.
+つくえの上にノートと茶色のふでばくがあります。ふでばこの中にたくさんえんびつやけしごむやぺんなどがあります。
 
-She is wearing a black skirt, a white t-shirt, and indoor shoes. 
+**(Between Desk | Sweeping floor, uniform, opinion)**
+In between the desks is a female student sweeping the floor. She is short.
+つくえの間に女子生徒はゆかをはいています。この生徒はひくいです
+
+The female student is wearing the Japanese summer uniform. She is wearing a black skirt, a white t-shirt, and indoor shoes. 
 女子生徒は日本の夏のせいふくをきます。黒いスカートや白いシャツやうわばきなどをきます。
 
-**(Blackboard | 2 Male students, Comparision)
+In Japanese schools, they have two uniforms. The winter uniform and summer uniform.
+日本の学校に二つせいふくがありまず。夏のせいふくと冬のせいふくです。
 
-At the back of the classroom is a blackboard. 2 male students are wiping the blackboard.
-きょうしつのうしろにこくばんがあります。
+This is because the the summer is very hot, and winter is very cold. In Irish schools, we only have 1 uniform. 
+日本の夏はとてもあたたかく冬はとてもさむいです。アイルランドの学校に一つせいふくがあります。
 
+However, I think the Japanese school uniform is more fashionable and comfy. Comparing Japanese school uniform to Irish uniform, I like the colours.
+でも、にほんのせいふくはもっとおしゃれでかいてきだとおもいます。日本のせいふくはアイルランドのせいふくより色が好きです。
+
+**(Blackboard | 2 Male students, comparision)
+
+At the back of the classroom is a blackboard. The blackboard is very dirty, however 2 male students are wiping the blackboard.
+きょうしつのうしろにこくばんがあります。こくばんはきたないです。でも、二人だんしせいとはせいそしています。
 
 Comparing Irish schools to Japanese schools, we don't use blackboards. In Irish schools we use the white board. I think it is more convenient
-アイルランドの学校はにほんのがっこうよりこくばんがありません。アイルランドの学校でホワイトボードがあります。ホワイトボードはもっと便利だと思います。
+アイルランドの学校はにほんのがっこうよりこくばんがありません。アイルランドの学校にホワイトボードがあります。ホワイトボードはもっと便利だと思います。
 
 ##### 勉強
 ![|500](https://i.imgur.com/QgBxCdO.jpeg)
@@ -150,7 +162,7 @@ In Japanese schools, they have two uniforms. The winter uniform and summer unifo
 日本の学校に二つせいふくがありまず。夏のせいふくと冬のせいふくです。
 
 This is because the the summer is very hot, and winter is very cold. In Irish schools, we only have 1 uniform. 
-	日本の夏はとてもあたたかく冬はとてもさむいです。アイルランドの学校に一つせいふくがあります。
+日本の夏はとてもあたたかく冬はとてもさむいです。アイルランドの学校に一つせいふくがあります。
 
 **(Male student | Uniform, mask, covid, drums, )**
 Infront of the girl students is a male student playing the drums. The male student is wearing black pants and a mask. Perhaps he is wearing a mask because of corona. The drums are red and black. I like drums because I think they are cool. But my mom don't like the drums, because they are loud.
