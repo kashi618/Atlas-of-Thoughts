@@ -94,6 +94,11 @@ Every day I play computer games for 3 hours.
 This photo is about Japanese school clearning. There are 6 students in the classroom. It is a mixed school because there are male and female students.
 このしゃしんは日本の学校のそうじついてです。せいとはきょうしつにがっきのれんしゅうしています。たくさんせいとがいます。この学校はきょうがくです。女子生徒と男子生徒がいますから。
 
+Firstly, in this classroom the floors are brown, and the walls are white. The classroom is also very big and bright.
+まず,きょうしつのかべは白いです。そしてゆかは茶色です。
+
+ This is because of the lights and the windows on the left side of the classroom. There are alot of windows, and they are very big. 
+きょうしつもとても大きくてあかるいです。電気とまどがありますから。たくさん大きいのまどがあります。そしてまどは大きいです。
 
 
 
@@ -103,8 +108,14 @@ This photo is about Japanese school clearning. There are 6 students in the class
 This picture is about Japanese school study. The students are studying in the classroom. There are many students, and it is a mixed school because there are male and female students.
 このしゃしんは日本の学校の勉強ついてです。せいとはきょうしつにがっきのれんしゅうしています。たくさんせいとがいます。この学校はきょうがくです。女子生徒と男子生徒がいますから。
 
-Firstly, in the classroom, it is very big and bright.
-まず、きょうしつはとても大きくてあかるいです。
+**(Classroom | Bright and big)**
+Firstly, the classroom walls and floor are brown. I think it looks nice. This is because in Irish schools the walls are white. 
+まず,きょうしつのかべとゆかは茶色です。すてきだと思います。アイルランドのかべは白いですから
+
+The classroom is also very big and bright. This is because of the lights in the classroom. There are alot of
+きょうしつもとても大きくてあかるいです。電気とまどがありますから。たくさん大きいのまどがあります。そしてまどは大きいです。
+
+
 
 ##### ほうかご
 ![|500](https://i.imgur.com/4z4hWAe.jpg)
@@ -113,12 +124,24 @@ This picture is about Japanese afterschool activities. The students are practisi
 このしゃしんは日本の学校のクラブ活動ついてです。せいとはきょうしつにがっきのれんしゅうしています。たくさんせいとがいます。この学校はきょうがくです。女子生徒と男子生徒がいますから。
 
 **(Classroom | Bright, brown, windows)**
-Firstly, in the classroom, the walls and floor are brown. I think it looks nice, because in Irish schools the walls are white. The classroom is also very big and bright. This is because of the lights and the windows on the left side of the classroom. There are alot of windows, and they are very big. 
-まず,きょうしつの中にかべとゆかは茶色があります。すてきだと思います。アイルランドのかべは白いですから。きょうしつもとても大きくてあかるいです。電気とまどがありますから。たくさん大きいのまどがあります。そしてまどは大きいです。
+Firstly, the classroom walls and floor are brown. I think it looks nice. This is because in Irish schools the walls are white. 
+まず,きょうしつのかべとゆかは茶色です。すてきだと思います。アイルランドのかべは白いですから
+
+The classroom is also very big and bright. This is because of the lights and the windows on the left side of the classroom. There are alot of windows, and they are very big. 
+きょうしつもとても大きくてあかるいです。電気とまどがありますから。たくさん大きいのまどがあります。そしてまどは大きいです。
 
 **(Female students | Marimba, uniform, summer uniform)**
-Beside the window are 2 female students. The students are playing the marimba. They are wearing the japanese summer uniform. The female students are wearing a black skirt and white t-shirt. Japan has 2 uniforms because the winter is very cold and the summer is very hot. In Irish school, we only have 1 uniform. 
-まどの間（あいだ）に二人（ふたり）女子生徒がいます。女子生徒はマリンバをれんしゅうしています。そして女子生徒は日本の夏のせいふくをきます。黒いスカートと白いシャツをきます。日本の学校に二つせいふくがありまず。夏のせいふくと冬のせいふくです。日本の夏はとてもあたたかいです。そして日本の冬はとてもさむいですから。アイルランドの学校に一つせいふくがあります。
+Beside the window are 2 female students. The students are playing the marimba. 
+まどの間（あいだ）に二人（ふたり）女子生徒がいます。女子生徒はマリンバをれんしゅうしています。
+
+They are wearing the japanese summer uniform. The female students are wearing a black skirt, white t-shirt, and indoor shoes. 
+そして女子生徒は日本の夏のせいふくをきます。黒いスカートや白いシャツやうわばきなどをきます。
+
+In Japanese schools, they have two uniforms. The winter uniform and summer uniform.
+日本の学校に二つせいふくがありまず。夏のせいふくと冬のせいふくです。
+
+This is because the the summer is very hot, and winter is very cold. In Irish schools, we only have 1 uniform. 
+日本の夏はとてもあたたかく冬はとてもさむいです。アイルランドの学校に一つせいふくがあります。
 
 **(Male student | Uniform, mask, covid, drums, )**
 Infront of the girl students is a male student playing the drums. The male student is wearing black pants and a mask. Perhaps he is wearing a mask because of corona. The drums are red and black. I like drums because I think they are cool. But my mom don't like the drums, because they are loud.
