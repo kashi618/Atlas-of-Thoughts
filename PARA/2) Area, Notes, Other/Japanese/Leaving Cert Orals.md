@@ -136,12 +136,28 @@ This picture is about Japanese school study. The students are studying in the cl
 Firstly, the classroom walls and floor are brown. The classroom is also big and bright. Comparing Japanese classrooms to Irish classrooms, they are much bigger.
 まず,きょうしつのかべとゆかは茶色です。そして、きょうしつは大きくてあかるいです。日本のきょうしつはアイルランドのきょうしつよりもっと大きいです。
 
-At the front of the classroom is the teacher. He is infront of the blackboard.
-
-In the classroom there is alot of students. There are over 30 students, and they are studying.
+In the classroom there is alot of students. There are over 30 students. I think they  are studying maths, because there are numbers on the blackboard.
 きょうしつの中にたくさんせいとがいます。生徒は三十人いじょういると思います。そして、せいとはすうがくを勉強していると思います。こくばんにすうじがありますから。
 
+Maths in Japan looks harder than maths in Ireland.
+日本のすうがくはアイルランドのすうがくよりむずかしそうです。
 
+I don't like maths, because it i hard. But, I like physics because its fun, and I like the teacher.
+すうがくはきらいです。むずかしですから。でもぶつりがすきです。とてもおもしろいです。
+
+
+**(Students | Uniform)**
+All the students are wearing the Japanese summer uniform. The female students are wearing a black skirt, a white t-shirt, and indoor shoes, and the male students are wearing black pants, a white t-shirt, and indoor shoes.
+すべてのせいとはにほんの夏休せいふくをきています。女子生徒は黒いスカートや白いシャツやうわばきなどをきています。そして、男子生徒は黒いズボンや白いシャツやうわばきなどをきてきます。
+
+In Japanese schools, they have two uniforms. The winter uniform and summer uniform.
+日本の学校に二つせいふくがありまず。夏のせいふくと冬のせいふくです。
+
+This is because the the summer is very hot, and winter is very cold. In Irish schools, we only have 1 uniform. 
+日本の夏はとてもあたたかく冬はとてもさむいです。アイルランドの学校に一つせいふくがあります。
+
+However, I think the Japanese school uniform is more fashionable and comfy. Comparing Japanese school uniform to Irish uniform, I like the colours.
+でも、にほんのせいふくはもっとおしゃれでかいてきだとおもいます。日本のせいふくはアイルランドのせいふくより色が好きです。
 
 ##### ほうかご
 ![|500](https://i.imgur.com/4z4hWAe.jpg)
