@@ -92,21 +92,22 @@ Every day I play computer games for 3 hours.
 ![|500](https://i.imgur.com/w9QSjKE.jpeg)
 **(Intro)**
 This photo is about Japanese school clearning. There are 6 students in the classroom. It is a mixed school because there are male and female students.
-このしゃしんは日本の学校のそうじついてです。せいとはきょうしつにがっきのれんしゅうしています。たくさんせいとがいます。この学校はきょうがくです。女子生徒と男子生徒がいますから。
+このしゃしんは日本の学校のそうじについてです。きょうしつに六人の生徒がいます
+。この学校はきょうがくです。女子生徒と男子生徒がいますから。
 
 **(Classroom Description | Floor and wall, alot of desks, pencilcase)**
 Firstly, in this classroom the floors are brown, and the walls are white. In the classroom there are alot of desks.
 まず、きょうしつのかべはしろいです。そして、ゆかは茶色です。きょうしつの中にたくさんつくえがあります。
 
 On top of the desk is a copy and a brown pencil case. Inside the pencil case is alot of pens and pencils.
-つくえの上にノートと茶色のふでばくがあります。ふでばこの中にたくさんえんびつやけしごむやぺんなどがあります。
+つくえの上に茶色のふでばことノートがあります。ふでばこの中にたくさんえんびつやけしごむやぺんなどがあります。
 
 **(Between Desk | Sweeping floor, uniform, opinion)**
 In between the desks is a female student sweeping the floor. She is short.
 つくえの間に女子生徒はゆかをはいています。この生徒はひくいです
 
 The female student is wearing the Japanese summer uniform. She is wearing a black skirt, a white t-shirt, and indoor shoes. 
-女子生徒は日本の夏のせいふくをきます。黒いスカートや白いシャツやうわばきなどをきます。
+女子生徒は日本の夏のせいふくをきています。黒いスカートや白いシャツやうわばきなどをきています。
 
 In Japanese schools, they have two uniforms. The winter uniform and summer uniform.
 日本の学校に二つせいふくがありまず。夏のせいふくと冬のせいふくです。
@@ -128,15 +129,19 @@ Comparing Irish schools to Japanese schools, we don't use blackboards. In Irish 
 ##### 勉強
 ![|500](https://i.imgur.com/QgBxCdO.jpeg)
 **(Intro)**
-This picture is about Japanese school study. The students are studying in the classroom. There are many students, and it is a mixed school because there are male and female students.
-このしゃしんは日本の学校の勉強についてです。せいとはきょうしつにがっきのれんしゅうしています。たくさんせいとがいます。この学校はきょうがくです。女子生徒と男子生徒がいますから。
+This picture is about Japanese school study. The students are studying in the classroom. This is a mixed school, because there are male and female students.
+このしゃしんは日本の学校の勉強についてです。せいとはきょうしつにがっきのれんしゅうしています。この学校はきょうがくです。女子生徒と男子生徒がいますから。
 
-**(Classroom | Bright and big)**
-Firstly, the classroom walls and floor are brown. I think it looks nice. This is because in Irish schools the walls are white. 
-まず,きょうしつのかべとゆかは茶色です。すてきだと思います。アイルランドのかべは白いですから。
+**(Classroom Description | Big classroom, comparision, studying)**
+Firstly, the classroom walls and floor are brown. The classroom is also big and bright. Comparing Japanese classrooms to Irish classrooms, they are much bigger.
+まず,きょうしつのかべとゆかは茶色です。そして、きょうしつは大きくてあかるいです。日本のきょうしつはアイルランドのきょうしつよりもっと大きいです。
 
-The classroom is also very big and bright. This is because of the lights in the classroom. There are alot of
-きょうしつもとても大きくてあかるいです。電気とまどがありますから。たくさん大きいのまどがあります。そしてまどは大きいです。
+At the front of the classroom is the teacher. He is infront of the blackboard.
+
+In the classroom there is alot of students. There are over 30 students, and they are studying.
+きょうしつの中にたくさんせいとがいます。生徒は三十人いじょういると思います。そして、せいとはすうがくを勉強していると思います。こくばんにすうじがありますから。
+
+
 
 ##### ほうかご
 ![|500](https://i.imgur.com/4z4hWAe.jpg)
@@ -156,7 +161,7 @@ Beside the window are 2 female students. The students are playing the marimba.
 まどの間（あいだ）に二人（ふたり）女子生徒がいます。女子生徒はマリンバをれんしゅうしています。
 
 They are wearing the japanese summer uniform. The female students are wearing a black skirt, white t-shirt, and indoor shoes. 
-そして女子生徒は日本の夏のせいふくをきます。黒いスカートや白いシャツやうわばきなどをきます。
+そして女子生徒は日本の夏のせいふくをきています。黒いスカートや白いシャツやうわばきなどをきています。
 
 In Japanese schools, they have two uniforms. The winter uniform and summer uniform.
 日本の学校に二つせいふくがありまず。夏のせいふくと冬のせいふくです。
@@ -166,7 +171,7 @@ This is because the the summer is very hot, and winter is very cold. In Irish sc
 
 **(Male student | Uniform, mask, covid, drums, )**
 Infront of the girl students is a male student playing the drums. The male student is wearing black pants and a mask. Perhaps he is wearing a mask because of corona. The drums are red and black. I like drums because I think they are cool. But my mom don't like the drums, because they are loud.
-女子生徒の前に男子生徒はドラムをえんそうしています。男子生は黒いズポンや白いうわばきや白いマスクをきます。たぶん、コロナですから。男子生徒のダラムはあか色とくろ色です。ダラムはかっこいいと思うので好きです。でも母は好きじゃないです。うるさいですから。
+女子生徒の前に男子生徒はドラムをえんそうしています。男子生は黒いズポンや白いうわばきや白いマスクをきています。たぶん、コロナですから。男子生徒のダラムはあか色とくろ色です。ダラムはかっこいいと思うので好きです。でも母は好きじゃないです。うるさいですから。
 
 **(Projector | French horn,,sitting, reading sheet music)**
 Under the projector is a girl student playing the french horn. She is sitting down on the white chair, and reading the sheet music. 
