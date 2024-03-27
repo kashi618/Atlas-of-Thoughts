@@ -133,8 +133,8 @@ This picture is about Japanese school study. The students are studying in the cl
 このしゃしんは日本の学校の勉強についてです。せいとはきょうしつにがっきのれんしゅうしています。この学校はきょうがくです。女子生徒と男子生徒がいますから。
 
 **(Classroom Description | Big classroom, comparision, studying)**
-Firstly, the classroom walls and floor are brown. The classroom is also big and bright. Comparing Japanese classrooms to Irish classrooms, they are much bigger.
-まず,きょうしつのかべとゆかは茶色です。そして、きょうしつは大きくてあかるいです。日本のきょうしつはアイルランドのきょうしつよりもっと大きいです。
+Firstly, the classroom walls and floor are brown. The classroom is also big and bright, because there are alot of lights. Comparing Japanese classrooms to Irish classrooms, they are much bigger.
+まず,きょうしつのかべとゆかは茶色です。そして、きょうしつは大きくてあかるいです。たくさん電気がありますから。日本のきょうしつはアイルランドのきょうしつよりもっと大きいです。
 
 In the classroom there is alot of students. There are over 30 students. I think they  are studying maths, because there are numbers on the blackboard.
 きょうしつの中にたくさんせいとがいます。生徒は三十人いじょういると思います。そして、せいとはすうがくを勉強していると思います。こくばんにすうじがありますから。
@@ -158,6 +158,16 @@ This is because the the summer is very hot, and winter is very cold. In Irish sc
 
 However, I think the Japanese school uniform is more fashionable and comfy. Comparing Japanese school uniform to Irish uniform, I like the colours.
 でも、にほんのせいふくはもっとおしゃれでかいてきだとおもいます。日本のせいふくはアイルランドのせいふくより色が好きです。
+
+**(Description | Desks, above and under)**
+The students are sitting behind the desk. On top of the desk are alot of pencil cases, notpads, and books.
+生徒はつくえのうしろにすわっています。つくえの上にたくさんふでばこやノートや本があります。
+
+This students pencil case is a green crocodile. There are alot of pens, pencils, and erasers in the crocodile. I wanna buy it because i think it looks funny. 
+この生徒のふでばこはみどり色のわにのです。わにのの中にたくさんペンやえんびつやけしごむがあります。わにのはかわいいと思います。
+
+You can put books under desks in Japan. I think its very convenient. Comparing Ireland to Japan, you cannot.
+日本のつくえの下に本をおくことができます。とてもべんりだとおもいます。アイルランドのつくえは日本のつくえよりほんをおくことができません。
 
 ##### ほうかご
 ![|500](https://i.imgur.com/4z4hWAe.jpg)
