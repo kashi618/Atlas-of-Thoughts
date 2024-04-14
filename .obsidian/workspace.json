@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "83336657563e146d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,7 +242,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "1868f89e5ee10227",
+  "active": "83336657563e146d",
   "lastOpenFiles": [
     "PARA/How to use Obsidian.md",
     "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
