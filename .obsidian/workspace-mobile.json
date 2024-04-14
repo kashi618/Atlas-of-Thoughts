@@ -11,13 +11,8 @@
             "id": "4895439786fb2328",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Republic - Plato.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -114,7 +109,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "The Republic - Plato.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +125,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "The Republic - Plato.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -142,9 +135,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "The Republic - Plato.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -166,7 +157,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4895439786fb2328",
+  "active": "4165edff11c022a3",
   "lastOpenFiles": [
     "PARA/2) Area, Notes, Other/Philosophy Other.md",
     "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
