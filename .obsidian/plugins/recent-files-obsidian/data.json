@@ -1,20 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Alcohol",
+      "path": "PARA/2) Area, Notes, Other/Foods + Drinks/Alcohol.md"
+    },
+    {
+      "basename": "Abolition",
+      "path": "PARA/3) Resource, Interests, Wiki/Abolition.md"
+    },
+    {
+      "basename": "Archive",
+      "path": "PARA/4) Archive, Completed/Archive.md"
+    },
+    {
+      "basename": "How to use Obsidian",
+      "path": "PARA/How to use Obsidian.md"
+    },
+    {
+      "basename": "Cats and Balls",
+      "path": "PARA/1) Project, Short-term Goals/Archived/Cats and Balls.md"
+    },
+    {
+      "basename": "GameDev ToDo List",
+      "path": "PARA/2) Area, Notes, Other/GameDev ToDo List.md"
+    },
+    {
+      "basename": "Philosophy Other",
+      "path": "PARA/2) Area, Notes, Other/Philosophy Other.md"
+    },
+    {
       "basename": "MHW Large Monsters",
-      "path": "PARA/2) Area, Notes, Other/Game Notes & Checklists/MHW Large Monsters.md"
+      "path": "PARA/2) Area, Notes, Other/Game Related/MHW Large Monsters.md"
     },
     {
       "basename": "Dark Souls Remastered Quest Guide",
-      "path": "PARA/2) Area, Notes, Other/Game Notes & Checklists/Dark Souls Remastered Quest Guide.md"
+      "path": "PARA/2) Area, Notes, Other/Game Related/Dark Souls Remastered Quest Guide.md"
     },
     {
       "basename": "Elden Ring Quest Guide",
-      "path": "PARA/2) Area, Notes, Other/Game Notes & Checklists/Elden Ring Quest Guide.md"
-    },
-    {
-      "basename": "Alcohol",
-      "path": "PARA/2) Area, Notes, Other/Foods + Drinks/Alcohol.md"
+      "path": "PARA/2) Area, Notes, Other/Game Related/Elden Ring Quest Guide.md"
     },
     {
       "basename": "Chinese",
@@ -25,20 +49,12 @@
       "path": "PARA/2) Area, Notes, Other/Foods + Drinks/Cheeses.md"
     },
     {
-      "basename": "GameDev ToDo List",
-      "path": "PARA/2) Area, Notes, Other/GameDev ToDo List.md"
-    },
-    {
       "basename": "Guitars",
       "path": "PARA/2) Area, Notes, Other/Wishlist/Guitars.md"
     },
     {
       "basename": "Headphones & IEMs",
       "path": "PARA/2) Area, Notes, Other/Wishlist/Headphones & IEMs.md"
-    },
-    {
-      "basename": "How to use Obsidian",
-      "path": "PARA/How to use Obsidian.md"
     },
     {
       "basename": "Book List",
@@ -57,48 +73,40 @@
       "path": "UNSORTED/2014 Isla Vista Massacre.md"
     },
     {
-      "basename": "Philosophy Other",
-      "path": "PARA/2) Area, Notes, Other/Wishlist/Philosophy Other.md"
-    },
-    {
       "basename": "Leaving Cert Orals",
       "path": "PARA/2) Area, Notes, Other/School/Japanese/Leaving Cert Orals.md"
     },
     {
       "basename": "Agronomist",
-      "path": "PARA/3) Resource, Interests/Agronomist.md"
-    },
-    {
-      "basename": "Abolition",
-      "path": "PARA/3) Resource, Interests/Abolition.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Agronomist.md"
     },
     {
       "basename": "Socrates",
-      "path": "PARA/3) Resource, Interests/Socrates.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Socrates.md"
     },
     {
       "basename": "Eudaimonia",
-      "path": "PARA/3) Resource, Interests/Eudaimonia.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Eudaimonia.md"
     },
     {
       "basename": "Nationalism",
-      "path": "PARA/3) Resource, Interests/Nationalism.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Nationalism.md"
     },
     {
       "basename": "Nikolai Vavilov",
-      "path": "PARA/3) Resource, Interests/Nikolai Vavilov.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Nikolai Vavilov.md"
     },
     {
       "basename": "Philosophy",
-      "path": "PARA/3) Resource, Interests/Philosophy.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Philosophy.md"
     },
     {
       "basename": "Presque Vu",
-      "path": "PARA/3) Resource, Interests/Presque Vu.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Presque Vu.md"
     },
     {
       "basename": "The Republic - Plato",
-      "path": "PARA/3) Resource, Interests/The Republic - Plato.md"
+      "path": "PARA/3) Resource, Interests, Wiki/The Republic - Plato.md"
     },
     {
       "basename": "Untitled",
@@ -106,11 +114,11 @@
     },
     {
       "basename": "Jamais Vu",
-      "path": "PARA/3) Resource, Interests/Jamais Vu.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Jamais Vu.md"
     },
     {
       "basename": "Metaphysics",
-      "path": "PARA/3) Resource, Interests/Metaphysics.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Metaphysics.md"
     },
     {
       "basename": "Aristotle",
@@ -118,7 +126,7 @@
     },
     {
       "basename": "Déjà Entendu",
-      "path": "PARA/3) Resource, Interests/Déjà Entendu.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Déjà Entendu.md"
     },
     {
       "basename": "Character Profile",
@@ -135,10 +143,6 @@
     {
       "basename": "Wiki Type",
       "path": "Templates/3) Resource/Wiki Type.md"
-    },
-    {
-      "basename": "Cats and Balls",
-      "path": "PARA/1) Project, Short-term Goals/Cats and Balls.md"
     },
     {
       "basename": "Chinese Communist Party",
@@ -182,23 +186,19 @@
     },
     {
       "basename": "Déjà Vécu",
-      "path": "PARA/3) Resource, Interests/Déjà Vécu.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Déjà Vécu.md"
     },
     {
       "basename": "Déjà Rêvé",
-      "path": "PARA/3) Resource, Interests/Déjà Rêvé.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Déjà Rêvé.md"
     },
     {
       "basename": "Déjà Vu",
-      "path": "PARA/3) Resource, Interests/Déjà Vu.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Déjà Vu.md"
     },
     {
       "basename": "Communism",
-      "path": "PARA/3) Resource, Interests/Communism.md"
-    },
-    {
-      "basename": "Ethics",
-      "path": "UNSORTED/Ethics.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Communism.md"
     }
   ],
   "omittedPaths": [],
