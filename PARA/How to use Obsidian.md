@@ -6,7 +6,7 @@
 > Paragraph
 
 ## Internal Links
-#Title|Link To Title
+"#Title|Link To Title"
 [[#Title|Link To Title]]
 ##### Title
 

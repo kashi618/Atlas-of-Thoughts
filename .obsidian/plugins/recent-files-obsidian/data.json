@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Area Masterlist",
+      "path": "PARA/2) Area, Notes, Other/Area Masterlist.md"
+    },
+    {
+      "basename": "GameDev ToDo List",
+      "path": "PARA/2) Area, Notes, Other/Unsorted/GameDev ToDo List.md"
+    },
+    {
+      "basename": "Philosophy Other",
+      "path": "PARA/2) Area, Notes, Other/Unsorted/Philosophy Other.md"
+    },
+    {
+      "basename": "Books",
+      "path": "PARA/2) Area, Notes, Other/Wishlist/Books.md"
+    },
+    {
+      "basename": "How to use Obsidian",
+      "path": "PARA/How to use Obsidian.md"
+    },
+    {
       "basename": "Cheeses",
       "path": "PARA/2) Area, Notes, Other/Foods + Drinks/Cheeses.md"
     },
@@ -17,20 +37,8 @@
       "path": "PARA/4) Archive, Completed/Archive.md"
     },
     {
-      "basename": "How to use Obsidian",
-      "path": "PARA/How to use Obsidian.md"
-    },
-    {
       "basename": "Cats and Balls",
       "path": "PARA/1) Project, Short-term Goals/Archived/Cats and Balls.md"
-    },
-    {
-      "basename": "GameDev ToDo List",
-      "path": "PARA/2) Area, Notes, Other/GameDev ToDo List.md"
-    },
-    {
-      "basename": "Philosophy Other",
-      "path": "PARA/2) Area, Notes, Other/Philosophy Other.md"
     },
     {
       "basename": "MHW Large Monsters",
@@ -57,20 +65,16 @@
       "path": "PARA/2) Area, Notes, Other/Wishlist/Headphones & IEMs.md"
     },
     {
-      "basename": "Book List",
-      "path": "PARA/2) Area, Notes, Other/Wishlist/Book List.md"
-    },
-    {
       "basename": "Apology - Plato",
-      "path": "UNSORTED/Apology - Plato.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Unsorted/Apology - Plato.md"
     },
     {
       "basename": "Aesthetics",
-      "path": "UNSORTED/Aesthetics.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Unsorted/Aesthetics.md"
     },
     {
       "basename": "2014 Isla Vista Massacre",
-      "path": "UNSORTED/2014 Isla Vista Massacre.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Unsorted/2014 Isla Vista Massacre.md"
     },
     {
       "basename": "Leaving Cert Orals",
@@ -110,7 +114,7 @@
     },
     {
       "basename": "Untitled",
-      "path": "UNSORTED/Untitled.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Unsorted/Untitled.md"
     },
     {
       "basename": "Jamais Vu",
@@ -122,7 +126,7 @@
     },
     {
       "basename": "Aristotle",
-      "path": "UNSORTED/Aristotle.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Unsorted/Aristotle.md"
     },
     {
       "basename": "Déjà Entendu",
@@ -134,11 +138,11 @@
     },
     {
       "basename": "Epistemology",
-      "path": "UNSORTED/Epistemology.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Unsorted/Epistemology.md"
     },
     {
       "basename": "Plato",
-      "path": "UNSORTED/Plato.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Unsorted/Plato.md"
     },
     {
       "basename": "Wiki Type",
@@ -146,43 +150,43 @@
     },
     {
       "basename": "Chinese Communist Party",
-      "path": "UNSORTED/Chinese Communist Party.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Unsorted/Chinese Communist Party.md"
     },
     {
       "basename": "Western Philosophy",
-      "path": "UNSORTED/Western Philosophy.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Unsorted/Western Philosophy.md"
     },
     {
       "basename": "Chinese Philosophy",
-      "path": "UNSORTED/Chinese Philosophy.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Unsorted/Chinese Philosophy.md"
     },
     {
       "basename": "LaoZi",
-      "path": "UNSORTED/LaoZi.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Unsorted/LaoZi.md"
     },
     {
       "basename": "Logic",
-      "path": "UNSORTED/Logic.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Unsorted/Logic.md"
     },
     {
       "basename": "Mathematics",
-      "path": "UNSORTED/Mathematics.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Unsorted/Mathematics.md"
     },
     {
       "basename": "Political Philosophy",
-      "path": "UNSORTED/Political Philosophy.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Unsorted/Political Philosophy.md"
     },
     {
       "basename": "Xenophon",
-      "path": "UNSORTED/Xenophon.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Unsorted/Xenophon.md"
     },
     {
       "basename": "Wang Yangming",
-      "path": "UNSORTED/Wang Yangming.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Unsorted/Wang Yangming.md"
     },
     {
       "basename": "Utopia",
-      "path": "UNSORTED/Utopia.md"
+      "path": "PARA/3) Resource, Interests, Wiki/Unsorted/Utopia.md"
     },
     {
       "basename": "Déjà Vécu",
@@ -195,10 +199,6 @@
     {
       "basename": "Déjà Vu",
       "path": "PARA/3) Resource, Interests, Wiki/Déjà Vu.md"
-    },
-    {
-      "basename": "Communism",
-      "path": "PARA/3) Resource, Interests, Wiki/Communism.md"
     }
   ],
   "omittedPaths": [],
