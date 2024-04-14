@@ -11,6 +11,7 @@
 - Pecorino Romano
 - Manchego
 - Shredded Mozzarella
+- Fresh Mozzarella
 #### Irish
 - Cashel Blue
 - Irish Sage Cheddard
@@ -28,7 +29,6 @@
 - Processes/Plastic cheese
 
 #### ToBeTried
-- Fresh Mozzarella
 - Double Gloucester
 - Red Leicester
 - Blue Stilton

@@ -1,12 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Leaving Cert Orals",
-      "path": "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md"
+      "basename": "MHW Large Monsters",
+      "path": "PARA/2) Area, Notes, Other/Game Notes & Checklists/MHW Large Monsters.md"
+    },
+    {
+      "basename": "Dark Souls Remastered Quest Guide",
+      "path": "PARA/2) Area, Notes, Other/Game Notes & Checklists/Dark Souls Remastered Quest Guide.md"
+    },
+    {
+      "basename": "Elden Ring Quest Guide",
+      "path": "PARA/2) Area, Notes, Other/Game Notes & Checklists/Elden Ring Quest Guide.md"
+    },
+    {
+      "basename": "Alcohol",
+      "path": "PARA/2) Area, Notes, Other/Foods + Drinks/Alcohol.md"
+    },
+    {
+      "basename": "Chinese",
+      "path": "PARA/2) Area, Notes, Other/Foods + Drinks/Chinese.md"
+    },
+    {
+      "basename": "Cheeses",
+      "path": "PARA/2) Area, Notes, Other/Foods + Drinks/Cheeses.md"
+    },
+    {
+      "basename": "GameDev ToDo List",
+      "path": "PARA/2) Area, Notes, Other/GameDev ToDo List.md"
+    },
+    {
+      "basename": "Guitars",
+      "path": "PARA/2) Area, Notes, Other/Wishlist/Guitars.md"
+    },
+    {
+      "basename": "Headphones & IEMs",
+      "path": "PARA/2) Area, Notes, Other/Wishlist/Headphones & IEMs.md"
     },
     {
       "basename": "How to use Obsidian",
       "path": "PARA/How to use Obsidian.md"
+    },
+    {
+      "basename": "Book List",
+      "path": "PARA/2) Area, Notes, Other/Wishlist/Book List.md"
+    },
+    {
+      "basename": "Apology - Plato",
+      "path": "UNSORTED/Apology - Plato.md"
+    },
+    {
+      "basename": "Aesthetics",
+      "path": "UNSORTED/Aesthetics.md"
+    },
+    {
+      "basename": "2014 Isla Vista Massacre",
+      "path": "UNSORTED/2014 Isla Vista Massacre.md"
+    },
+    {
+      "basename": "Philosophy Other",
+      "path": "PARA/2) Area, Notes, Other/Wishlist/Philosophy Other.md"
+    },
+    {
+      "basename": "Leaving Cert Orals",
+      "path": "PARA/2) Area, Notes, Other/School/Japanese/Leaving Cert Orals.md"
     },
     {
       "basename": "Agronomist",
@@ -37,18 +93,6 @@
       "path": "PARA/3) Resource, Interests/Philosophy.md"
     },
     {
-      "basename": "Aesthetics",
-      "path": "Aesthetics.md"
-    },
-    {
-      "basename": "Apology - Plato",
-      "path": "Apology - Plato.md"
-    },
-    {
-      "basename": "2014 Isla Vista Massacre",
-      "path": "2014 Isla Vista Massacre.md"
-    },
-    {
       "basename": "Presque Vu",
       "path": "PARA/3) Resource, Interests/Presque Vu.md"
     },
@@ -58,7 +102,7 @@
     },
     {
       "basename": "Untitled",
-      "path": "Untitled.md"
+      "path": "UNSORTED/Untitled.md"
     },
     {
       "basename": "Jamais Vu",
@@ -69,20 +113,8 @@
       "path": "PARA/3) Resource, Interests/Metaphysics.md"
     },
     {
-      "basename": "Philosophy Other",
-      "path": "PARA/2) Area, Notes, Other/Philosophy Other.md"
-    },
-    {
-      "basename": "MHW Large Monsters",
-      "path": "PARA/2) Area, Notes, Other/Games/MHW Large Monsters.md"
-    },
-    {
       "basename": "Aristotle",
-      "path": "Aristotle.md"
-    },
-    {
-      "basename": "Book List",
-      "path": "PARA/2) Area, Notes, Other/Book List.md"
+      "path": "UNSORTED/Aristotle.md"
     },
     {
       "basename": "Déjà Entendu",
@@ -94,11 +126,11 @@
     },
     {
       "basename": "Epistemology",
-      "path": "Epistemology.md"
+      "path": "UNSORTED/Epistemology.md"
     },
     {
       "basename": "Plato",
-      "path": "Plato.md"
+      "path": "UNSORTED/Plato.md"
     },
     {
       "basename": "Wiki Type",
@@ -109,52 +141,44 @@
       "path": "PARA/1) Project, Short-term Goals/Cats and Balls.md"
     },
     {
-      "basename": "Headphones & IEMs",
-      "path": "PARA/2) Area, Notes, Other/Headphones & IEMs.md"
-    },
-    {
-      "basename": "GameDev ToDo List",
-      "path": "PARA/2) Area, Notes, Other/GameDev ToDo List.md"
-    },
-    {
       "basename": "Chinese Communist Party",
-      "path": "Chinese Communist Party.md"
+      "path": "UNSORTED/Chinese Communist Party.md"
     },
     {
       "basename": "Western Philosophy",
-      "path": "Western Philosophy.md"
+      "path": "UNSORTED/Western Philosophy.md"
     },
     {
       "basename": "Chinese Philosophy",
-      "path": "Chinese Philosophy.md"
+      "path": "UNSORTED/Chinese Philosophy.md"
     },
     {
       "basename": "LaoZi",
-      "path": "LaoZi.md"
+      "path": "UNSORTED/LaoZi.md"
     },
     {
       "basename": "Logic",
-      "path": "Logic.md"
+      "path": "UNSORTED/Logic.md"
     },
     {
       "basename": "Mathematics",
-      "path": "Mathematics.md"
+      "path": "UNSORTED/Mathematics.md"
     },
     {
       "basename": "Political Philosophy",
-      "path": "Political Philosophy.md"
+      "path": "UNSORTED/Political Philosophy.md"
     },
     {
       "basename": "Xenophon",
-      "path": "Xenophon.md"
+      "path": "UNSORTED/Xenophon.md"
     },
     {
       "basename": "Wang Yangming",
-      "path": "Wang Yangming.md"
+      "path": "UNSORTED/Wang Yangming.md"
     },
     {
       "basename": "Utopia",
-      "path": "Utopia.md"
+      "path": "UNSORTED/Utopia.md"
     },
     {
       "basename": "Déjà Vécu",
@@ -173,32 +197,8 @@
       "path": "PARA/3) Resource, Interests/Communism.md"
     },
     {
-      "basename": "Chinese",
-      "path": "PARA/2) Area, Notes, Other/Foods + Drinks/Chinese.md"
-    },
-    {
-      "basename": "Alcohol",
-      "path": "PARA/2) Area, Notes, Other/Foods + Drinks/Alcohol.md"
-    },
-    {
-      "basename": "Cheeses",
-      "path": "PARA/2) Area, Notes, Other/Foods + Drinks/Cheeses.md"
-    },
-    {
       "basename": "Ethics",
-      "path": "Ethics.md"
-    },
-    {
-      "basename": "French Revolution",
-      "path": "French Revolution.md"
-    },
-    {
-      "basename": "Friedrick Nietzsche",
-      "path": "Friedrick Nietzsche.md"
-    },
-    {
-      "basename": "Greek Empire",
-      "path": "Greek Empire.md"
+      "path": "UNSORTED/Ethics.md"
     }
   ],
   "omittedPaths": [],

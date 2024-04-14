@@ -1,5 +1,5 @@
 **Key:**
-Tr. | Translator
+Tr.  |  Translator
 
 ### InProgress
 - **Plato** - The Republic (*135,250*)
@@ -7,6 +7,7 @@ Tr. | Translator
 - **Arrian** - The Campaigns of Alexander (*108,000*)
 - **Antoine De Saint-Exupéry** - The Little Prince (*24,672*)
 - **Laozi | Tr. Jeff Pepper** - DaoDeJing in Clear English (*7,800*)
+- 
 
 ### OnHold
 - **Wu Cheng'en** - Journey to the West (*480,000*)
