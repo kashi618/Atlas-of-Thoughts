@@ -8,46 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "90200834c3f61d29",
+            "id": "96c37560dcfc9ea0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/2) Area, Notes, Other/Area Masterlist.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf1371bad0759e67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA/2) Area, Notes, Other/Other/Statues, Busts, etc.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35a8ab92ebf0c1ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA/2) Area, Notes, Other/Other/Weird Animals.md",
-                "mode": "source",
+                "file": "道德经.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Science",
+                "query": "tag:#Title",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/2) Area, Notes, Other/Other/Weird Animals.md"
+                "file": "道德经.md"
               }
             }
           },
@@ -190,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PARA/2) Area, Notes, Other/Other/Weird Animals.md"
+                "file": "道德经.md"
               }
             }
           },
@@ -212,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PARA/2) Area, Notes, Other/Other/Weird Animals.md",
+                "file": "道德经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/2) Area, Notes, Other/Other/Weird Animals.md",
+                "file": "道德经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,11 +230,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "35a8ab92ebf0c1ce",
+  "active": "96c37560dcfc9ea0",
   "lastOpenFiles": [
-    "PARA/2) Area, Notes, Other/Area Masterlist.md",
-    "PARA/2) Area, Notes, Other/Other/Weird Animals.md",
+    "PARA/How to use Obsidian.md",
+    "道德经.md",
+    "PARA/1) Project, Short-term Goals/Currently Playing Games.md",
     "PARA/2) Area, Notes, Other/Other/Statues, Busts, etc.md",
+    "PARA/2) Area, Notes, Other/Other/Weird Animals.md",
+    "PARA/2) Area, Notes, Other/Area Masterlist.md",
     "PARA/2) Area, Notes, Other/Wishlist/Tattoos.md",
     "PARA/2) Area, Notes, Other/Other",
     "PARA/2) Area, Notes, Other/Wishlist/Headphones & IEMs.md",
@@ -272,7 +248,6 @@
     "PARA/2) Area, Notes, Other/Game Related/Elden Ring Quest Guide.md",
     "PARA/2) Area, Notes, Other/Unsorted",
     "conflict-files-obsidian-git.md",
-    "PARA/How to use Obsidian.md",
     "PARA/3) Resource, Interests, Wiki/Unsorted/Xenophon.md",
     "PARA/3) Resource, Interests, Wiki/Unsorted/Western Philosophy.md",
     "PARA/3) Resource, Interests, Wiki/Unsorted/Wang Yangming.md",
@@ -285,8 +260,6 @@
     "PARA/3) Resource, Interests, Wiki/Unsorted/Roman Empire.md",
     "PARA/3) Resource, Interests, Wiki/Unsorted/Political Philosophy.md",
     "PARA/3) Resource, Interests, Wiki/Unsorted/Plato.md",
-    "PARA/3) Resource, Interests, Wiki/Unsorted/Nazism.md",
-    "PARA/3) Resource, Interests, Wiki/Unsorted/Mathematics.md",
     "PARA/3) Resource, Interests, Wiki/Unsorted",
     "PARA/2) Area, Notes, Other/Unsorted",
     "PARA/1) Project, Short-term Goals/Active",
