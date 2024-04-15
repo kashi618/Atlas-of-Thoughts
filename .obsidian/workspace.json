@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "道德经.md",
+                "file": "道德经 - 第一章.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "道德经.md"
+                "file": "道德经 - 第一章.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "道德经.md"
+                "file": "道德经 - 第一章.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "道德经.md",
+                "file": "道德经 - 第一章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "道德经.md",
+                "file": "道德经 - 第一章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,9 +232,11 @@
   },
   "active": "96c37560dcfc9ea0",
   "lastOpenFiles": [
-    "PARA/How to use Obsidian.md",
-    "道德经.md",
+    "PARA/1) Project, Short-term Goals/道德经.md",
+    "道德经 - 第一章.md",
+    "Untitled",
     "PARA/1) Project, Short-term Goals/Currently Playing Games.md",
+    "PARA/How to use Obsidian.md",
     "PARA/2) Area, Notes, Other/Other/Statues, Busts, etc.md",
     "PARA/2) Area, Notes, Other/Other/Weird Animals.md",
     "PARA/2) Area, Notes, Other/Area Masterlist.md",
@@ -258,17 +260,14 @@
     "PARA/3) Resource, Interests, Wiki/Unsorted/Soviet Union.md",
     "PARA/3) Resource, Interests, Wiki/Unsorted/Socratic Dialogue.md",
     "PARA/3) Resource, Interests, Wiki/Unsorted/Roman Empire.md",
-    "PARA/3) Resource, Interests, Wiki/Unsorted/Political Philosophy.md",
-    "PARA/3) Resource, Interests, Wiki/Unsorted/Plato.md",
     "PARA/3) Resource, Interests, Wiki/Unsorted",
     "PARA/2) Area, Notes, Other/Unsorted",
     "PARA/1) Project, Short-term Goals/Active",
-    "PARA/1) Project, Short-term Goals/Archived",
+    "PARA/1) Project, Short-term Goals/On Hold",
     "PARA/2) Area, Notes, Other/School Related/Japanese",
     "PARA/3) Resource, Interests, Wiki/Unsorted",
     "PARA/2) Area, Notes, Other/Wishlist",
     "Untitled.canvas",
-    "ZenZone/visuals.py",
     "ZenZone/Untitled.canvas",
     "ASDASDASD/icons/lucide-icons/ArrowRightFromLine.svg",
     "ASDASDASD/Untitled.canvas",
