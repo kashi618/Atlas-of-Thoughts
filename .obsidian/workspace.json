@@ -4,18 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "56407ddc41d588e0",
+        "id": "41837bbc1def303b",
         "type": "tabs",
         "children": [
           {
-            "id": "108c3211df3441d3",
+            "id": "90200834c3f61d29",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PARA/2) Area, Notes, Other/Area Masterlist.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf1371bad0759e67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/2) Area, Notes, Other/Other/Statues, Busts, etc.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35a8ab92ebf0c1ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/2) Area, Notes, Other/Other/Weird Animals.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PARA/2) Area, Notes, Other/Other/Weird Animals.md"
+              }
             }
           },
           {
@@ -155,7 +189,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "PARA/2) Area, Notes, Other/Other/Weird Animals.md"
+              }
             }
           },
           {
@@ -176,6 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PARA/2) Area, Notes, Other/Other/Weird Animals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PARA/2) Area, Notes, Other/Other/Weird Animals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,45 +257,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "108c3211df3441d3",
+  "active": "35a8ab92ebf0c1ce",
   "lastOpenFiles": [
+    "PARA/2) Area, Notes, Other/Area Masterlist.md",
+    "PARA/2) Area, Notes, Other/Other/Weird Animals.md",
+    "PARA/2) Area, Notes, Other/Other/Statues, Busts, etc.md",
+    "PARA/2) Area, Notes, Other/Wishlist/Tattoos.md",
+    "PARA/2) Area, Notes, Other/Other",
+    "PARA/2) Area, Notes, Other/Wishlist/Headphones & IEMs.md",
+    "PARA/2) Area, Notes, Other/Game Related/Dark Souls Remastered Quest Guide.md",
+    "PARA/2) Area, Notes, Other/Game Related/MHW Large Monster Checklist.md",
+    "PARA/2) Area, Notes, Other/Unsorted/Philosophy Other.md",
+    "PARA/2) Area, Notes, Other/Unsorted/GameDev ToDo List.md",
+    "PARA/2) Area, Notes, Other/Game Related/Elden Ring Quest Guide.md",
+    "PARA/2) Area, Notes, Other/Unsorted",
     "conflict-files-obsidian-git.md",
     "PARA/How to use Obsidian.md",
-    "PARA/2) Area, Notes, Other/GameDev ToDo List.md",
-    "PARA/2) Area, Notes, Other/Philosophy Other.md",
-    "PARA/2) Area, Notes, Other/Unsorted/Philosophy Other.md",
-    "PARA/2) Area, Notes, Other/Area Masterlist.md",
-    "UNSORTED/Xenophon.md",
-    "UNSORTED/Western Philosophy.md",
-    "UNSORTED/Wang Yangming.md",
-    "UNSORTED/Utopia.md",
-    "UNSORTED/Untitled.md",
-    "UNSORTED/The Republic - Plato.md",
-    "UNSORTED/The Odyssey - Homer.md",
-    "UNSORTED/Soviet Union.md",
-    "UNSORTED/Socratic Dialogue.md",
-    "UNSORTED/Roman Empire.md",
-    "UNSORTED/Political Philosophy.md",
-    "UNSORTED/Plato.md",
-    "UNSORTED/Nazism.md",
-    "UNSORTED/Mathematics.md",
-    "UNSORTED/Logic.md",
-    "UNSORTED/LaoZi.md",
-    "UNSORTED/Justice.md",
-    "UNSORTED/Joseph Stalin.md",
-    "UNSORTED/Greek Empire.md",
-    "UNSORTED/Friedrick Nietzsche.md",
-    "UNSORTED",
+    "PARA/3) Resource, Interests, Wiki/Unsorted/Xenophon.md",
+    "PARA/3) Resource, Interests, Wiki/Unsorted/Western Philosophy.md",
+    "PARA/3) Resource, Interests, Wiki/Unsorted/Wang Yangming.md",
+    "PARA/3) Resource, Interests, Wiki/Unsorted/Utopia.md",
+    "PARA/3) Resource, Interests, Wiki/Unsorted/Untitled.md",
+    "PARA/3) Resource, Interests, Wiki/Unsorted/The Republic - Plato.md",
+    "PARA/3) Resource, Interests, Wiki/Unsorted/The Odyssey - Homer.md",
+    "PARA/3) Resource, Interests, Wiki/Unsorted/Soviet Union.md",
+    "PARA/3) Resource, Interests, Wiki/Unsorted/Socratic Dialogue.md",
+    "PARA/3) Resource, Interests, Wiki/Unsorted/Roman Empire.md",
+    "PARA/3) Resource, Interests, Wiki/Unsorted/Political Philosophy.md",
+    "PARA/3) Resource, Interests, Wiki/Unsorted/Plato.md",
+    "PARA/3) Resource, Interests, Wiki/Unsorted/Nazism.md",
+    "PARA/3) Resource, Interests, Wiki/Unsorted/Mathematics.md",
+    "PARA/3) Resource, Interests, Wiki/Unsorted",
     "PARA/2) Area, Notes, Other/Unsorted",
     "PARA/1) Project, Short-term Goals/Active",
     "PARA/1) Project, Short-term Goals/Archived",
-    "PARA/2) Area, Notes, Other/School/Japanese",
+    "PARA/2) Area, Notes, Other/School Related/Japanese",
     "PARA/3) Resource, Interests, Wiki/Unsorted",
     "PARA/2) Area, Notes, Other/Wishlist",
     "Untitled.canvas",
     "ZenZone/visuals.py",
-    "ZenZone/speech/__init__.py",
-    "ZenZone/speech",
     "ZenZone/Untitled.canvas",
     "ASDASDASD/icons/lucide-icons/ArrowRightFromLine.svg",
     "ASDASDASD/Untitled.canvas",
