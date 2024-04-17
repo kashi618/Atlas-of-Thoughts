@@ -11,11 +11,43 @@
             "id": "be8cb9d9ca884068",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PARA/1) Project, Short-term Goals/道德经.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b57eb685a6f34c08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "道德经 - 第二章.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26fcbfc3070180e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "道德经 - 第一章.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "道德经 - 第二章.md"
+              }
             }
           },
           {
@@ -155,7 +189,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "道德经 - 第二章.md"
+              }
             }
           },
           {
@@ -176,6 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "道德经 - 第二章.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "道德经 - 第二章.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,13 +257,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "be8cb9d9ca884068",
+  "active": "b57eb685a6f34c08",
   "lastOpenFiles": [
     "道德经 - 第一章.md",
+    "道德经 - 第二章.md",
     "PARA/1) Project, Short-term Goals/道德经.md",
+    "PARA/How to use Obsidian.md",
+    "1.md",
+    "PARA/3) Resource, Interests, Wiki/Presque Vu.md",
+    "PARA/3) Resource, Interests, Wiki/Philosophy.md",
+    "LaoZi.md",
+    "PARA/3) Resource, Interests, Wiki/Déjà Vu.md",
+    "PARA/3) Resource, Interests, Wiki/Unsorted/LaoZi.md",
+    "PARA/3) Resource, Interests, Wiki/Eudaimonia.md",
+    "PARA/3) Resource, Interests, Wiki/Nationalism.md",
+    "PARA/3) Resource, Interests, Wiki/Metaphysics.md",
+    "PARA/3) Resource, Interests, Wiki/Jamais Vu.md",
+    "PARA/3) Resource, Interests, Wiki/Déjà Vécu.md",
+    "PARA/3) Resource, Interests, Wiki/Déjà Rêvé.md",
+    "PARA/3) Resource, Interests, Wiki/Déjà Entendu.md",
     "Untitled",
     "PARA/1) Project, Short-term Goals/Currently Playing Games.md",
-    "PARA/How to use Obsidian.md",
     "PARA/2) Area, Notes, Other/Other/Statues, Busts, etc.md",
     "PARA/2) Area, Notes, Other/Other/Weird Animals.md",
     "PARA/2) Area, Notes, Other/Area Masterlist.md",
@@ -235,20 +287,7 @@
     "PARA/2) Area, Notes, Other/Game Related/Dark Souls Remastered Quest Guide.md",
     "PARA/2) Area, Notes, Other/Game Related/MHW Large Monster Checklist.md",
     "PARA/2) Area, Notes, Other/Unsorted/Philosophy Other.md",
-    "PARA/2) Area, Notes, Other/Unsorted/GameDev ToDo List.md",
-    "PARA/2) Area, Notes, Other/Game Related/Elden Ring Quest Guide.md",
     "PARA/2) Area, Notes, Other/Unsorted",
-    "conflict-files-obsidian-git.md",
-    "PARA/3) Resource, Interests, Wiki/Unsorted/Xenophon.md",
-    "PARA/3) Resource, Interests, Wiki/Unsorted/Western Philosophy.md",
-    "PARA/3) Resource, Interests, Wiki/Unsorted/Wang Yangming.md",
-    "PARA/3) Resource, Interests, Wiki/Unsorted/Utopia.md",
-    "PARA/3) Resource, Interests, Wiki/Unsorted/Untitled.md",
-    "PARA/3) Resource, Interests, Wiki/Unsorted/The Republic - Plato.md",
-    "PARA/3) Resource, Interests, Wiki/Unsorted/The Odyssey - Homer.md",
-    "PARA/3) Resource, Interests, Wiki/Unsorted/Soviet Union.md",
-    "PARA/3) Resource, Interests, Wiki/Unsorted/Socratic Dialogue.md",
-    "PARA/3) Resource, Interests, Wiki/Unsorted/Roman Empire.md",
     "PARA/3) Resource, Interests, Wiki/Unsorted",
     "PARA/2) Area, Notes, Other/Unsorted",
     "PARA/1) Project, Short-term Goals/Active",

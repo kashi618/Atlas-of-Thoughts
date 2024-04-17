@@ -11,7 +11,7 @@ Create Date: 2024-03-02
 ### Definition 📖
 French for *"Never Seen"*.
 
-Often experienced when one suddenlty forgets or doesn't recognise a word, person, or place they should already know.
+Often experienced when one suddenly forgets or doesn't recognise a word, person, or place they should already know.
 
 ### Related Terms ✏️
 - [[Déjà Vu]]

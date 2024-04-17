@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "道德经 - 第二章",
+      "path": "道德经 - 第二章.md"
+    },
+    {
       "basename": "道德经 - 第一章",
       "path": "道德经 - 第一章.md"
     },
@@ -9,12 +13,60 @@
       "path": "PARA/1) Project, Short-term Goals/道德经.md"
     },
     {
-      "basename": "Currently Playing Games",
-      "path": "PARA/1) Project, Short-term Goals/Currently Playing Games.md"
-    },
-    {
       "basename": "How to use Obsidian",
       "path": "PARA/How to use Obsidian.md"
+    },
+    {
+      "basename": "1",
+      "path": "1.md"
+    },
+    {
+      "basename": "Presque Vu",
+      "path": "PARA/3) Resource, Interests, Wiki/Presque Vu.md"
+    },
+    {
+      "basename": "Philosophy",
+      "path": "PARA/3) Resource, Interests, Wiki/Philosophy.md"
+    },
+    {
+      "basename": "LaoZi",
+      "path": "LaoZi.md"
+    },
+    {
+      "basename": "Déjà Vu",
+      "path": "PARA/3) Resource, Interests, Wiki/Déjà Vu.md"
+    },
+    {
+      "basename": "Eudaimonia",
+      "path": "PARA/3) Resource, Interests, Wiki/Eudaimonia.md"
+    },
+    {
+      "basename": "Nationalism",
+      "path": "PARA/3) Resource, Interests, Wiki/Nationalism.md"
+    },
+    {
+      "basename": "Metaphysics",
+      "path": "PARA/3) Resource, Interests, Wiki/Metaphysics.md"
+    },
+    {
+      "basename": "Jamais Vu",
+      "path": "PARA/3) Resource, Interests, Wiki/Jamais Vu.md"
+    },
+    {
+      "basename": "Déjà Vécu",
+      "path": "PARA/3) Resource, Interests, Wiki/Déjà Vécu.md"
+    },
+    {
+      "basename": "Déjà Rêvé",
+      "path": "PARA/3) Resource, Interests, Wiki/Déjà Rêvé.md"
+    },
+    {
+      "basename": "Déjà Entendu",
+      "path": "PARA/3) Resource, Interests, Wiki/Déjà Entendu.md"
+    },
+    {
+      "basename": "Currently Playing Games",
+      "path": "PARA/1) Project, Short-term Goals/Currently Playing Games.md"
     },
     {
       "basename": "Statues, Busts, etc",
@@ -97,40 +149,12 @@
       "path": "PARA/3) Resource, Interests, Wiki/Socrates.md"
     },
     {
-      "basename": "Eudaimonia",
-      "path": "PARA/3) Resource, Interests, Wiki/Eudaimonia.md"
-    },
-    {
-      "basename": "Nationalism",
-      "path": "PARA/3) Resource, Interests, Wiki/Nationalism.md"
-    },
-    {
       "basename": "Nikolai Vavilov",
       "path": "PARA/3) Resource, Interests, Wiki/Nikolai Vavilov.md"
     },
     {
-      "basename": "Philosophy",
-      "path": "PARA/3) Resource, Interests, Wiki/Philosophy.md"
-    },
-    {
-      "basename": "Presque Vu",
-      "path": "PARA/3) Resource, Interests, Wiki/Presque Vu.md"
-    },
-    {
       "basename": "The Republic - Plato",
       "path": "PARA/3) Resource, Interests, Wiki/The Republic - Plato.md"
-    },
-    {
-      "basename": "Jamais Vu",
-      "path": "PARA/3) Resource, Interests, Wiki/Jamais Vu.md"
-    },
-    {
-      "basename": "Metaphysics",
-      "path": "PARA/3) Resource, Interests, Wiki/Metaphysics.md"
-    },
-    {
-      "basename": "Déjà Entendu",
-      "path": "PARA/3) Resource, Interests, Wiki/Déjà Entendu.md"
     },
     {
       "basename": "Character Profile",
@@ -139,18 +163,6 @@
     {
       "basename": "Wiki Type",
       "path": "Templates/3) Resource/Wiki Type.md"
-    },
-    {
-      "basename": "Déjà Vécu",
-      "path": "PARA/3) Resource, Interests, Wiki/Déjà Vécu.md"
-    },
-    {
-      "basename": "Déjà Rêvé",
-      "path": "PARA/3) Resource, Interests, Wiki/Déjà Rêvé.md"
-    },
-    {
-      "basename": "Déjà Vu",
-      "path": "PARA/3) Resource, Interests, Wiki/Déjà Vu.md"
     }
   ],
   "omittedPaths": [],
