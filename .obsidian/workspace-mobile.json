@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/1) Project, Short-term Goals/道德经.md",
+                "file": "道德经 - 第三章.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "PARA/1) Project, Short-term Goals/道德经.md",
+            "file": "道德经 - 第三章.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "PARA/1) Project, Short-term Goals/道德经.md",
+            "file": "道德经 - 第三章.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -143,12 +143,20 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "PARA/1) Project, Short-term Goals/道德经.md"
+            "file": "道德经 - 第三章.md"
           }
+        }
+      },
+      {
+        "id": "3774d1ef68905f20",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
+          "state": {}
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,6 +176,11 @@
   },
   "active": "4895439786fb2328",
   "lastOpenFiles": [
+    "PARA/1) Project, Short-term Goals/道德经.md",
+    "PARA/3) Resource, Interests, Wiki/道德经 - 第二章.md",
+    "PARA/3) Resource, Interests, Wiki/道德经 - 第一章.md",
+    "道德经 - 第三章.md",
+    "1.md",
     "PARA/2) Area, Notes, Other/Philosophy Other.md",
     "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
     "/PARA/2) Area, Notes, Other/Games/MHW Large Monsters.md",
@@ -189,11 +202,6 @@
     "PARA/3) Resource, Interests/Déjà Rêvé.md",
     "PARA/2) Area, Notes, Other/Foods + Drinks/Chinese.md",
     "PARA/2) Area, Notes, Other/Foods + Drinks/Alcohol.md",
-    "Chinese Philosophy.md",
-    "Aristotle.md",
-    "Wang Yangming.md",
-    "The Republic - Plato.md",
-    "The Odyssey - Homer.md",
     "Templates/3) Resource",
     "Templates/1) Project",
     "Templates",
