@@ -11,8 +11,13 @@
             "id": "4895439786fb2328",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PARA/1) Project, Short-term Goals/道德经.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -109,6 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "PARA/1) Project, Short-term Goals/道德经.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,6 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "PARA/1) Project, Short-term Goals/道德经.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +142,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "PARA/1) Project, Short-term Goals/道德经.md"
+          }
         }
       }
     ],
@@ -157,7 +166,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4165edff11c022a3",
+  "active": "4895439786fb2328",
   "lastOpenFiles": [
     "PARA/2) Area, Notes, Other/Philosophy Other.md",
     "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
