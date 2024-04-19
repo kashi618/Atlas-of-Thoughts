@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "00bc7892b846f522",
+        "id": "c4d470f76488d8e9",
         "type": "tabs",
         "children": [
           {
-            "id": "be8cb9d9ca884068",
+            "id": "696fa01b99907d89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/1) Project, Short-term Goals/道德经.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b57eb685a6f34c08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "道德经 - 第二章.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26fcbfc3070180e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "道德经 - 第一章.md",
+                "file": "PARA/2) Area, Notes, Other/School Related/Computer Science/KeyTerms.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,11 +94,25 @@
             "id": "370a24fabb7b70f5",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/1) Project, Short-term Goals/On Hold/Cats and Balls.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57211516c3fb6f2e",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "道德经 - 第二章.md"
+                "file": "PARA/2) Area, Notes, Other/School Related/Computer Science/KeyTerms.md"
               }
             }
           },
@@ -190,7 +177,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "道德经 - 第二章.md"
+                "file": "PARA/2) Area, Notes, Other/School Related/Computer Science/KeyTerms.md"
               }
             }
           },
@@ -212,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "道德经 - 第二章.md",
+                "file": "PARA/2) Area, Notes, Other/School Related/Computer Science/KeyTerms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "道德经 - 第二章.md",
+                "file": "PARA/2) Area, Notes, Other/School Related/Computer Science/KeyTerms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,18 +237,23 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b57eb685a6f34c08",
+  "active": "696fa01b99907d89",
   "lastOpenFiles": [
+    "PARA/2) Area, Notes, Other/School Related/Japanese/Leaving Cert Orals.md",
+    "PARA/2) Area, Notes, Other/School Related/Computer Science/KeyTerms.md",
+    "PARA/1) Project, Short-term Goals/On Hold/Cats and Balls.md",
+    "PARA/1) Project, Short-term Goals/道德经.md",
+    "PARA/2) Area, Notes, Other/School Related/Computer Science",
+    "道德经 - 第三章.md",
     "道德经 - 第一章.md",
     "道德经 - 第二章.md",
-    "PARA/1) Project, Short-term Goals/道德经.md",
     "PARA/How to use Obsidian.md",
     "1.md",
     "PARA/3) Resource, Interests, Wiki/Presque Vu.md",
@@ -283,10 +275,6 @@
     "PARA/2) Area, Notes, Other/Area Masterlist.md",
     "PARA/2) Area, Notes, Other/Wishlist/Tattoos.md",
     "PARA/2) Area, Notes, Other/Other",
-    "PARA/2) Area, Notes, Other/Wishlist/Headphones & IEMs.md",
-    "PARA/2) Area, Notes, Other/Game Related/Dark Souls Remastered Quest Guide.md",
-    "PARA/2) Area, Notes, Other/Game Related/MHW Large Monster Checklist.md",
-    "PARA/2) Area, Notes, Other/Unsorted/Philosophy Other.md",
     "PARA/2) Area, Notes, Other/Unsorted",
     "PARA/3) Resource, Interests, Wiki/Unsorted",
     "PARA/2) Area, Notes, Other/Unsorted",
@@ -294,7 +282,6 @@
     "PARA/1) Project, Short-term Goals/On Hold",
     "PARA/2) Area, Notes, Other/School Related/Japanese",
     "PARA/3) Resource, Interests, Wiki/Unsorted",
-    "PARA/2) Area, Notes, Other/Wishlist",
     "Untitled.canvas",
     "ZenZone/Untitled.canvas",
     "ASDASDASD/icons/lucide-icons/ArrowRightFromLine.svg",
