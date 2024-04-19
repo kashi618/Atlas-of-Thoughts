@@ -5,7 +5,7 @@ Create Date: 2024-03-02
 ---
 ### Summary 💡
 
-> [!NOTE] Déjà Vu
+> [!NOTE] Presque Vu
 > A phenomenon that occurs when one is on the brink of a powerful epiphany, or eurika moment, without actually achieving or forgetting said epiphany.
 
 ### Definition 📖
