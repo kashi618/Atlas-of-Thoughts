@@ -7,7 +7,7 @@ tags:
 Create Date: 2024-01-30
 ---
 ### Portrait
-![[Socrates.png|175]]
+![|200](https://i.imgur.com/8uMnDKh.png)
 
 ### Who? 💡
 

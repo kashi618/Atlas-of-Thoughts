@@ -6,6 +6,10 @@ tags:
   - Soviet
 Create Date: 2024-01-30
 ---
+### Portrait
+![|200](https://i.imgur.com/viKLBov.png)
+
+
 ### Summary 💡
 
 > [!NOTE] Nikolai Vavilov
