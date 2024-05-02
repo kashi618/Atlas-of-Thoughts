@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/1) Project/$ ToDo list $.md",
+                "file": "Templates/3) Resource/Character Profile.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/1) Project/$ ToDo list $.md"
+                "file": "Templates/3) Resource/Character Profile.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/1) Project/$ ToDo list $.md"
+                "file": "Templates/3) Resource/Character Profile.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/1) Project/$ ToDo list $.md",
+                "file": "Templates/3) Resource/Character Profile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/1) Project/$ ToDo list $.md",
+                "file": "Templates/3) Resource/Character Profile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,35 +231,35 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f65cfde99bf60d9c",
+  "active": "d828e5b8bc561a69",
   "lastOpenFiles": [
+    "Templates/3) Resource/Basic with Tags.md",
+    "Templates/1) Project/Game Design Document.md",
+    "Notes/3) Resource/道德经 - 第三章.md",
+    "Notes/3) Resource/道德经 - 第二章.md",
+    "Notes/3) Resource/道德经 - 第一章.md",
+    "Notes/How to use Obsidian.md",
+    "Notes/1) Project/$ ToDo list $.md",
     "Leaving Cert Study List.md",
+    "Notes/4) Archive, Completed/Archive.md",
     "Notes/2) Area/$ Area Sorted $.md",
     "Notes/2) Area/Chinese Foods, Snacks, Drinks.md",
     "Notes/2) Area/$ Area Masterlist $.md",
     "Notes/2) Area/Alcohol.md",
     "Notes/2) Area/Philosphy Books To Read.md",
     "Notes/2) Area/Cheeses.md",
-    "Notes/How to use Obsidian.md",
-    "Templates/1) Project/Game Design Document.md",
     "Notes/2) Area/MHW Large Monster Checklist.md",
     "Notes/1) Project/Currently Playing Games.md",
     "Notes/1) Project/道德经 Study.md",
     "Notes/2) Area/Books.md",
-    "Notes/1) Project/$ ToDo list $.md",
     "Notes/2) Area/Headphones & IEMs.md",
     "Notes/1) Project/On Hold/Cats and Balls.md",
     "Media, Pictures, Gifs/AKG K371-BT.png",
-    "道德经 - 第三章.md",
     "$ Masterlist $.md",
     "$ Resource Masterlist $.md",
     "Notes/3) Resource/Unsorted/Xenophon.md",
     "Notes/3) Resource/Unsorted/Western Philosophy.md",
     "Notes/3) Resource/Unsorted/Wang Yangming.md",
-    "Notes/3) Resource/Unsorted/Utopia.md",
-    "Notes/3) Resource/Unsorted/Untitled.md",
-    "Notes/3) Resource/Unsorted/The Republic - Plato.md",
-    "Notes/3) Resource/Unsorted/The Odyssey - Homer.md",
     "Notes/3) Resource/Unsorted",
     "Notes/3) Resource",
     "Notes/2) Area",

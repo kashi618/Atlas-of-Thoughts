@@ -45,10 +45,6 @@
   ],
   "fileColors": [
     {
-      "path": "Notes/4) Archive, Completed",
-      "color": "FgjpbEdsIRHThBsc-PvA1"
-    },
-    {
       "path": "Media, Pictures, Gifs",
       "color": "tKaQohKU5S1pJjEYgZqYY"
     },
@@ -71,6 +67,10 @@
     {
       "path": "Notes/3) Resource",
       "color": "0jy0IN9iY3Qfpk3uuczKS"
+    },
+    {
+      "path": "Notes/How to use Obsidian.md",
+      "color": "FgjpbEdsIRHThBsc-PvA1"
     }
   ]
 }
