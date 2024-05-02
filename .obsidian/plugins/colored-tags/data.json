@@ -38,7 +38,9 @@
     "Phenomenon": 26,
     "Philosopher": 27,
     "Title": 28,
-    "Daoism": 29
+    "Daoism": 29,
+    "Area": 30,
+    "Resource": 31
   },
   "_version": 3
 }

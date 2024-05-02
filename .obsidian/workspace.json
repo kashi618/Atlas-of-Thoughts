@@ -13,14 +13,67 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/2) Area, Notes, Other/School Related/Computer Science/KeyTerms.md",
+                "file": "PARA/2) Area, Notes, Other/Alcohol.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "10954cb438ed8e66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/1) Project, Short-term Goals/Cheese list.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47c34e0f86e5ae1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/2) Area, Notes, Other/$ Area Masterlist $.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fde0536e8ea591f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/2) Area, Notes, Other/$ Area Masterlist $.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2868b269576288db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/2) Area, Notes, Other/$ Area Sorted $.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/2) Area, Notes, Other/School Related/Computer Science/KeyTerms.md"
+                "file": "PARA/2) Area, Notes, Other/$ Area Sorted $.md"
               }
             }
           },
@@ -177,7 +230,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PARA/2) Area, Notes, Other/School Related/Computer Science/KeyTerms.md"
+                "file": "PARA/2) Area, Notes, Other/$ Area Sorted $.md"
               }
             }
           },
@@ -199,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PARA/2) Area, Notes, Other/School Related/Computer Science/KeyTerms.md",
+                "file": "PARA/2) Area, Notes, Other/$ Area Sorted $.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,18 +269,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/2) Area, Notes, Other/School Related/Computer Science/KeyTerms.md",
+                "file": "PARA/2) Area, Notes, Other/$ Area Sorted $.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,36 +298,37 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "696fa01b99907d89",
+  "active": "2868b269576288db",
   "lastOpenFiles": [
-    "PARA/2) Area, Notes, Other/Game Related/MHW Large Monster Checklist.md",
-    "PARA/2) Area, Notes, Other/Game Related/Elden Ring Quest Guide.md",
-    "PARA/2) Area, Notes, Other/Game Related/Dark Souls Remastered Quest Guide.md",
-    "PARA/2) Area, Notes, Other/School Related/Computer Science/KeyTerms.md",
-    "PARA/How to use Obsidian.md",
-    "PARA/3) Resource, Interests, Wiki/Communism.md",
-    "PARA/3) Resource, Interests, Wiki/Abolition.md",
+    "PARA/2) Area, Notes, Other/$ Area Masterlist $.md",
+    "PARA/2) Area, Notes, Other/$ Area Sorted $.md",
+    "PARA/2) Area, Notes, Other/Weird Animals.md",
+    "PARA/2) Area, Notes, Other/Tattoos.md",
+    "PARA/2) Area, Notes, Other/Steam Custom Launch.md",
+    "PARA/2) Area, Notes, Other/Statues, Busts, etc.md",
+    "PARA/2) Area, Notes, Other/Philosphy Books To Read.md",
+    "PARA/2) Area, Notes, Other/Pancakes & Crepes.md",
+    "PARA/2) Area, Notes, Other/MHW Large Monster Checklist.md",
+    "PARA/2) Area, Notes, Other/Leaving Cert Orals.md",
+    "PARA/2) Area, Notes, Other/KeyTerms.md",
+    "PARA/2) Area, Notes, Other/Headphones & IEMs.md",
+    "PARA/2) Area, Notes, Other/Guitars.md",
+    "PARA/2) Area, Notes, Other/GameDev ToDo List.md",
+    "PARA/2) Area, Notes, Other/Elden Ring Quest Guide.md",
+    "PARA/2) Area, Notes, Other/Dark Souls Remastered Quest Guide.md",
+    "PARA/2) Area, Notes, Other/Chinese.md",
+    "PARA/2) Area, Notes, Other/Alcohol.md",
     "PARA/3) Resource, Interests, Wiki/Agronomist.md",
-    "PARA/3) Resource, Interests, Wiki/Déjà Rêvé.md",
-    "Title.md",
-    "PARA/1) Project, Short-term Goals/道德经.md",
-    "PARA/3) Resource, Interests, Wiki/道德经 - 第一章.md",
-    "PARA/3) Resource, Interests, Wiki/Eudaimonia.md",
-    "PARA/3) Resource, Interests, Wiki/Déjà Vécu.md",
+    "PARA/3) Resource, Interests, Wiki/Abolition.md",
+    "PARA/3) Resource, Interests, Wiki/Communism.md",
     "PARA/3) Resource, Interests, Wiki/Déjà Entendu.md",
-    "PARA/3) Resource, Interests, Wiki/Jamais Vu.md",
-    "PARA/3) Resource, Interests, Wiki/Presque Vu.md",
-    "PARA/3) Resource, Interests, Wiki/Déjà Vu.md",
-    "PARA/3) Resource, Interests, Wiki/Unsorted/Joseph Stalin.md",
-    "PARA/3) Resource, Interests, Wiki/Nikolai Vavilov.md",
-    "PARA/2) Area, Notes, Other/School Related/Japanese/Leaving Cert Orals.md",
-    "PARA/1) Project, Short-term Goals/On Hold/Cats and Balls.md",
+    "PARA/How to use Obsidian.md",
+    "$ Resource Masterlist $.md",
+    "PARA/1) Project, Short-term Goals/道德经 Study.md",
+    "PARA/1) Project, Short-term Goals/Currently Reading.md",
+    "PARA/1) Project, Short-term Goals/Guitar Tabs",
+    "Guitar",
     "PARA/2) Area, Notes, Other/School Related/Computer Science",
-    "道德经 - 第三章.md",
-    "道德经 - 第一章.md",
-    "道德经 - 第二章.md",
-    "1.md",
-    "Untitled",
     "PARA/2) Area, Notes, Other/Other",
     "PARA/2) Area, Notes, Other/Unsorted",
     "PARA/3) Resource, Interests, Wiki/Unsorted",
@@ -282,7 +336,6 @@
     "PARA/1) Project, Short-term Goals/Active",
     "PARA/1) Project, Short-term Goals/On Hold",
     "PARA/2) Area, Notes, Other/School Related/Japanese",
-    "PARA/3) Resource, Interests, Wiki/Unsorted",
     "Untitled.canvas",
     "ZenZone/Untitled.canvas",
     "ASDASDASD/icons/lucide-icons/ArrowRightFromLine.svg",

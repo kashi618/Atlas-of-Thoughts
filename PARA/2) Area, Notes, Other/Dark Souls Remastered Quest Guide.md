@@ -1,9 +1,6 @@
----
 
 ---
-
----
-## START OF THE GAME
+<center><h2>START OF THE GAME</h2></center>
 
 ---
 
@@ -36,7 +33,8 @@
 
 ---
 
-## AFTER KILLING CAPRA DEMON 
+<h2><center> AFTER KILLING CAPRA DEMON </h2></center>
+
 **Before ringing both bells**
 
 ---
@@ -77,7 +75,7 @@
 
 ---
 
-## AFTER RINGING BOTH BELLS
+<h2><center> AFTER RINGING BOTH BELLS </h2></center>
 
 ---
 
@@ -98,7 +96,9 @@
 - On the second path of boulders, fall off the left side onto a rafter and follow the dead-end tunnel for Hollowed Griggs.
 
 ---
-## AFTER SENS FORTRESS
+
+<h2><center> AFTER SENS FORTRESS </h2></center>
+
 ---
 
 **Solaire of Astora (Anor Londo, second Bonfire)**
@@ -111,7 +111,9 @@
 - Use the Black Eye Orb and invade then kill him
 
 ---
-## AFTER ACQUIRING LORDVESSEL
+
+<h2><center> AFTER ACQUIRING LORDVESSEL </h2></center>
+
 ---
 
 DISCLAIMER: If you wish to do the Darkwraith Covenant for Red Eye Orbs, or simply to get the Age of Darkness Ending, do NOT place the Lordvessel for Fraampt in FireLink Shrine.

@@ -1,44 +1,132 @@
 {
   "recentFiles": [
     {
-      "basename": "KeyTerms",
-      "path": "PARA/2) Area, Notes, Other/School Related/Computer Science/KeyTerms.md"
+      "basename": "$ Area Sorted $",
+      "path": "PARA/2) Area, Notes, Other/$ Area Sorted $.md"
+    },
+    {
+      "basename": "$ Area Masterlist $",
+      "path": "PARA/2) Area, Notes, Other/$ Area Masterlist $.md"
+    },
+    {
+      "basename": "Weird Animals",
+      "path": "PARA/2) Area, Notes, Other/Weird Animals.md"
+    },
+    {
+      "basename": "Tattoos",
+      "path": "PARA/2) Area, Notes, Other/Tattoos.md"
+    },
+    {
+      "basename": "Steam Custom Launch",
+      "path": "PARA/2) Area, Notes, Other/Steam Custom Launch.md"
+    },
+    {
+      "basename": "Statues, Busts, etc",
+      "path": "PARA/2) Area, Notes, Other/Statues, Busts, etc.md"
+    },
+    {
+      "basename": "Philosphy Books To Read",
+      "path": "PARA/2) Area, Notes, Other/Philosphy Books To Read.md"
+    },
+    {
+      "basename": "Pancakes & Crepes",
+      "path": "PARA/2) Area, Notes, Other/Pancakes & Crepes.md"
     },
     {
       "basename": "MHW Large Monster Checklist",
-      "path": "PARA/2) Area, Notes, Other/Game Related/MHW Large Monster Checklist.md"
+      "path": "PARA/2) Area, Notes, Other/MHW Large Monster Checklist.md"
+    },
+    {
+      "basename": "Leaving Cert Orals",
+      "path": "PARA/2) Area, Notes, Other/Leaving Cert Orals.md"
+    },
+    {
+      "basename": "KeyTerms",
+      "path": "PARA/2) Area, Notes, Other/KeyTerms.md"
+    },
+    {
+      "basename": "Headphones & IEMs",
+      "path": "PARA/2) Area, Notes, Other/Headphones & IEMs.md"
+    },
+    {
+      "basename": "Guitars",
+      "path": "PARA/2) Area, Notes, Other/Guitars.md"
+    },
+    {
+      "basename": "GameDev ToDo List",
+      "path": "PARA/2) Area, Notes, Other/GameDev ToDo List.md"
     },
     {
       "basename": "Elden Ring Quest Guide",
-      "path": "PARA/2) Area, Notes, Other/Game Related/Elden Ring Quest Guide.md"
+      "path": "PARA/2) Area, Notes, Other/Elden Ring Quest Guide.md"
     },
     {
       "basename": "Dark Souls Remastered Quest Guide",
-      "path": "PARA/2) Area, Notes, Other/Game Related/Dark Souls Remastered Quest Guide.md"
+      "path": "PARA/2) Area, Notes, Other/Dark Souls Remastered Quest Guide.md"
     },
     {
-      "basename": "How to use Obsidian",
-      "path": "PARA/How to use Obsidian.md"
+      "basename": "Chinese",
+      "path": "PARA/2) Area, Notes, Other/Chinese.md"
     },
     {
-      "basename": "Communism",
-      "path": "PARA/3) Resource, Interests, Wiki/Communism.md"
-    },
-    {
-      "basename": "Abolition",
-      "path": "PARA/3) Resource, Interests, Wiki/Abolition.md"
+      "basename": "Alcohol",
+      "path": "PARA/2) Area, Notes, Other/Alcohol.md"
     },
     {
       "basename": "Agronomist",
       "path": "PARA/3) Resource, Interests, Wiki/Agronomist.md"
     },
     {
-      "basename": "Déjà Rêvé",
-      "path": "PARA/3) Resource, Interests, Wiki/Déjà Rêvé.md"
+      "basename": "Abolition",
+      "path": "PARA/3) Resource, Interests, Wiki/Abolition.md"
     },
     {
-      "basename": "道德经",
-      "path": "PARA/1) Project, Short-term Goals/道德经.md"
+      "basename": "Communism",
+      "path": "PARA/3) Resource, Interests, Wiki/Communism.md"
+    },
+    {
+      "basename": "Déjà Entendu",
+      "path": "PARA/3) Resource, Interests, Wiki/Déjà Entendu.md"
+    },
+    {
+      "basename": "How to use Obsidian",
+      "path": "PARA/How to use Obsidian.md"
+    },
+    {
+      "basename": "$ Resource Masterlist $",
+      "path": "$ Resource Masterlist $.md"
+    },
+    {
+      "basename": "道德经 Study",
+      "path": "PARA/1) Project, Short-term Goals/道德经 Study.md"
+    },
+    {
+      "basename": "Currently Reading",
+      "path": "PARA/1) Project, Short-term Goals/Currently Reading.md"
+    },
+    {
+      "basename": "Currently Playing Games",
+      "path": "PARA/1) Project, Short-term Goals/Currently Playing Games.md"
+    },
+    {
+      "basename": "Cheese list",
+      "path": "PARA/1) Project, Short-term Goals/Cheese list.md"
+    },
+    {
+      "basename": "Archive",
+      "path": "PARA/4) Archive, Completed/Archive.md"
+    },
+    {
+      "basename": "Apology - Plato",
+      "path": "PARA/3) Resource, Interests, Wiki/Unsorted/Apology - Plato.md"
+    },
+    {
+      "basename": "2014 Isla Vista Massacre",
+      "path": "PARA/3) Resource, Interests, Wiki/Unsorted/2014 Isla Vista Massacre.md"
+    },
+    {
+      "basename": "Déjà Rêvé",
+      "path": "PARA/3) Resource, Interests, Wiki/Déjà Rêvé.md"
     },
     {
       "basename": "道德经 - 第一章",
@@ -51,10 +139,6 @@
     {
       "basename": "Déjà Vécu",
       "path": "PARA/3) Resource, Interests, Wiki/Déjà Vécu.md"
-    },
-    {
-      "basename": "Déjà Entendu",
-      "path": "PARA/3) Resource, Interests, Wiki/Déjà Entendu.md"
     },
     {
       "basename": "Jamais Vu",
@@ -75,10 +159,6 @@
     {
       "basename": "Nikolai Vavilov",
       "path": "PARA/3) Resource, Interests, Wiki/Nikolai Vavilov.md"
-    },
-    {
-      "basename": "Leaving Cert Orals",
-      "path": "PARA/2) Area, Notes, Other/School Related/Japanese/Leaving Cert Orals.md"
     },
     {
       "basename": "Cats and Balls",
@@ -103,58 +183,6 @@
     {
       "basename": "Metaphysics",
       "path": "PARA/3) Resource, Interests, Wiki/Metaphysics.md"
-    },
-    {
-      "basename": "Currently Playing Games",
-      "path": "PARA/1) Project, Short-term Goals/Currently Playing Games.md"
-    },
-    {
-      "basename": "Statues, Busts, etc",
-      "path": "PARA/2) Area, Notes, Other/Other/Statues, Busts, etc.md"
-    },
-    {
-      "basename": "Weird Animals",
-      "path": "PARA/2) Area, Notes, Other/Other/Weird Animals.md"
-    },
-    {
-      "basename": "Area Masterlist",
-      "path": "PARA/2) Area, Notes, Other/Area Masterlist.md"
-    },
-    {
-      "basename": "Tattoos",
-      "path": "PARA/2) Area, Notes, Other/Wishlist/Tattoos.md"
-    },
-    {
-      "basename": "Headphones & IEMs",
-      "path": "PARA/2) Area, Notes, Other/Wishlist/Headphones & IEMs.md"
-    },
-    {
-      "basename": "Philosophy Other",
-      "path": "PARA/2) Area, Notes, Other/Unsorted/Philosophy Other.md"
-    },
-    {
-      "basename": "GameDev ToDo List",
-      "path": "PARA/2) Area, Notes, Other/Unsorted/GameDev ToDo List.md"
-    },
-    {
-      "basename": "Cheeses",
-      "path": "PARA/2) Area, Notes, Other/Foods + Drinks/Cheeses.md"
-    },
-    {
-      "basename": "Alcohol",
-      "path": "PARA/2) Area, Notes, Other/Foods + Drinks/Alcohol.md"
-    },
-    {
-      "basename": "Archive",
-      "path": "PARA/4) Archive, Completed/Archive.md"
-    },
-    {
-      "basename": "Chinese",
-      "path": "PARA/2) Area, Notes, Other/Foods + Drinks/Chinese.md"
-    },
-    {
-      "basename": "Guitars",
-      "path": "PARA/2) Area, Notes, Other/Wishlist/Guitars.md"
     },
     {
       "basename": "Socrates",

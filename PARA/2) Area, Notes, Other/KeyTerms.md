@@ -1,18 +1,12 @@
 ### Abstraction
 - The process of stripping a problem to its fundamentals, identifying
-
 ### Agent-Based Modelling
-
 ### Algorithmns
-
 ### Artificial Intelligence
-
 ### Binary
 ### Hexadecimal
-
 ### Bit
 ### Byte
-
 ### Client-Server Model
 ### Computational Thinking
 ### Computing Systems
@@ -20,7 +14,6 @@
 ### Data
 ### Decomposition
 ### Embedded Systems
-
 ### Emergent Behaviour
 ### File Systems
 ### Foreign Key
@@ -33,7 +26,6 @@
 ### IOT (Internet of Things)
 ### LAN (Local Area Network)
 ### Logic Gates
-
 ### MAC Address
 ### Machine Learning
 ### Normalised Database
