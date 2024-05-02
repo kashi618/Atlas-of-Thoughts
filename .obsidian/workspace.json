@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/1) Project, Short-term Goals/Cheese list.md",
+                "file": "ToDo list.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,8 +83,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5f252b2efa3321c0",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA/1) Project, Short-term Goals/Cheese list.md"
+                "file": "ToDo list.md"
               }
             }
           },
@@ -178,7 +177,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PARA/1) Project, Short-term Goals/Cheese list.md"
+                "file": "ToDo list.md"
               }
             }
           },
@@ -200,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PARA/1) Project, Short-term Goals/Cheese list.md",
+                "file": "ToDo list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA/1) Project, Short-term Goals/Cheese list.md",
+                "file": "ToDo list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +248,14 @@
   },
   "active": "10954cb438ed8e66",
   "lastOpenFiles": [
+    "Leaving Cert Study List.md",
     "ToDo list.md",
+    "道德经 - 第三章.md",
+    "PARA/2) Area/$ Area Sorted $.md",
+    "$ Masterlist $.md",
+    "$ Resource Masterlist $.md",
+    "PARA/2) Area/$ Area Masterlist $.md",
+    "PARA/1) Project, Short-term Goals/Cheese list.md",
     "PARA/3) Resourc/Unsorted/Xenophon.md",
     "PARA/3) Resourc/Unsorted/Western Philosophy.md",
     "PARA/3) Resourc/Unsorted/Wang Yangming.md",
@@ -268,13 +274,6 @@
     "PARA/3) Resourc/Unsorted/Justice.md",
     "PARA/3) Resourc/Unsorted/Joseph Stalin.md",
     "PARA/3) Resourc/Unsorted/Greek Empire.md",
-    "PARA/3) Resourc/Unsorted/Friedrick Nietzsche.md",
-    "PARA/3) Resourc/Unsorted/French Revolution.md",
-    "PARA/3) Resourc/Unsorted/Ethics.md",
-    "PARA/3) Resourc/Unsorted/Epistemology.md",
-    "PARA/3) Resourc/Unsorted/Chinese Philosophy.md",
-    "PARA/3) Resourc/Unsorted/Chinese Communist Party.md",
-    "PARA/3) Resourc/Unsorted/Aristotle.md",
     "PARA/3) Resourc/Unsorted",
     "PARA/3) Resourc",
     "PARA/2) Area",

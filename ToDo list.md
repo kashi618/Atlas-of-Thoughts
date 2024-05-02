@@ -2,6 +2,7 @@
 - [ ] Buy Jae a gift
 - [ ] Email to check on mom's IRP card
 - [ ] Email to check on mom's bank fraud return
+- [ ] Create manifesto of philosophical beliefs
 
 ## Monthly (May)
 - [ ] Clean room
@@ -9,9 +10,9 @@
 - [ ] Change bedsheets
 
 ## Currently Waiting For
-- [ ] Metamorphosis - Kafka (This saturday)
-- [ ] 1984 - Cowel (This saturday)
-- [ ] 
+- [ ] Metamorphosis - Kafka (5/4/24)
+- [ ] 1984 - Cowel (5/4/24)
+
 ## Leaving Cert Study
 ### English
 - [ ] Sylvia Plath Poetry
@@ -21,7 +22,6 @@
 - [ ] Key scenes in Shawshank
 - [ ] Key scenes in Hamlet
 - [ ] Hamlet character quotes
-- [ ] 
 
 ### Maths
 - [ ] Create list of formulas not in formulae and tables book
