@@ -1,100 +1,108 @@
 {
   "recentFiles": [
     {
-      "basename": "$ Area Sorted $",
-      "path": "PARA/2) Area, Notes, Other/$ Area Sorted $.md"
+      "basename": "Dark Souls Remastered Quest Guide",
+      "path": "PARA/2) Area/Dark Souls Remastered Quest Guide.md"
     },
     {
       "basename": "$ Area Masterlist $",
-      "path": "PARA/2) Area, Notes, Other/$ Area Masterlist $.md"
+      "path": "PARA/2) Area/$ Area Masterlist $.md"
     },
     {
-      "basename": "Weird Animals",
-      "path": "PARA/2) Area, Notes, Other/Weird Animals.md"
+      "basename": "$ Area Sorted $",
+      "path": "PARA/2) Area/$ Area Sorted $.md"
     },
     {
-      "basename": "Tattoos",
-      "path": "PARA/2) Area, Notes, Other/Tattoos.md"
-    },
-    {
-      "basename": "Steam Custom Launch",
-      "path": "PARA/2) Area, Notes, Other/Steam Custom Launch.md"
-    },
-    {
-      "basename": "Statues, Busts, etc",
-      "path": "PARA/2) Area, Notes, Other/Statues, Busts, etc.md"
-    },
-    {
-      "basename": "Philosphy Books To Read",
-      "path": "PARA/2) Area, Notes, Other/Philosphy Books To Read.md"
-    },
-    {
-      "basename": "Pancakes & Crepes",
-      "path": "PARA/2) Area, Notes, Other/Pancakes & Crepes.md"
-    },
-    {
-      "basename": "MHW Large Monster Checklist",
-      "path": "PARA/2) Area, Notes, Other/MHW Large Monster Checklist.md"
-    },
-    {
-      "basename": "Leaving Cert Orals",
-      "path": "PARA/2) Area, Notes, Other/Leaving Cert Orals.md"
-    },
-    {
-      "basename": "KeyTerms",
-      "path": "PARA/2) Area, Notes, Other/KeyTerms.md"
-    },
-    {
-      "basename": "Headphones & IEMs",
-      "path": "PARA/2) Area, Notes, Other/Headphones & IEMs.md"
-    },
-    {
-      "basename": "Guitars",
-      "path": "PARA/2) Area, Notes, Other/Guitars.md"
+      "basename": "$ Masterlist $",
+      "path": "$ Masterlist $.md"
     },
     {
       "basename": "GameDev ToDo List",
-      "path": "PARA/2) Area, Notes, Other/GameDev ToDo List.md"
-    },
-    {
-      "basename": "Elden Ring Quest Guide",
-      "path": "PARA/2) Area, Notes, Other/Elden Ring Quest Guide.md"
-    },
-    {
-      "basename": "Dark Souls Remastered Quest Guide",
-      "path": "PARA/2) Area, Notes, Other/Dark Souls Remastered Quest Guide.md"
-    },
-    {
-      "basename": "Chinese",
-      "path": "PARA/2) Area, Notes, Other/Chinese.md"
-    },
-    {
-      "basename": "Alcohol",
-      "path": "PARA/2) Area, Notes, Other/Alcohol.md"
-    },
-    {
-      "basename": "Agronomist",
-      "path": "PARA/3) Resource, Interests, Wiki/Agronomist.md"
-    },
-    {
-      "basename": "Abolition",
-      "path": "PARA/3) Resource, Interests, Wiki/Abolition.md"
-    },
-    {
-      "basename": "Communism",
-      "path": "PARA/3) Resource, Interests, Wiki/Communism.md"
-    },
-    {
-      "basename": "Déjà Entendu",
-      "path": "PARA/3) Resource, Interests, Wiki/Déjà Entendu.md"
-    },
-    {
-      "basename": "How to use Obsidian",
-      "path": "PARA/How to use Obsidian.md"
+      "path": "PARA/2) Area/GameDev ToDo List.md"
     },
     {
       "basename": "$ Resource Masterlist $",
       "path": "$ Resource Masterlist $.md"
+    },
+    {
+      "basename": "道德经 - 第三章",
+      "path": "道德经 - 第三章.md"
+    },
+    {
+      "basename": "Weird Animals",
+      "path": "PARA/2) Area/Weird Animals.md"
+    },
+    {
+      "basename": "Tattoos",
+      "path": "PARA/2) Area/Tattoos.md"
+    },
+    {
+      "basename": "Steam Custom Launch",
+      "path": "PARA/2) Area/Steam Custom Launch.md"
+    },
+    {
+      "basename": "Statues, Busts, etc",
+      "path": "PARA/2) Area/Statues, Busts, etc.md"
+    },
+    {
+      "basename": "Philosphy Books To Read",
+      "path": "PARA/2) Area/Philosphy Books To Read.md"
+    },
+    {
+      "basename": "Pancakes & Crepes",
+      "path": "PARA/2) Area/Pancakes & Crepes.md"
+    },
+    {
+      "basename": "MHW Large Monster Checklist",
+      "path": "PARA/2) Area/MHW Large Monster Checklist.md"
+    },
+    {
+      "basename": "Leaving Cert Orals",
+      "path": "PARA/2) Area/Leaving Cert Orals.md"
+    },
+    {
+      "basename": "KeyTerms",
+      "path": "PARA/2) Area/KeyTerms.md"
+    },
+    {
+      "basename": "Headphones & IEMs",
+      "path": "PARA/2) Area/Headphones & IEMs.md"
+    },
+    {
+      "basename": "Guitars",
+      "path": "PARA/2) Area/Guitars.md"
+    },
+    {
+      "basename": "Elden Ring Quest Guide",
+      "path": "PARA/2) Area/Elden Ring Quest Guide.md"
+    },
+    {
+      "basename": "Chinese",
+      "path": "PARA/2) Area/Chinese.md"
+    },
+    {
+      "basename": "Alcohol",
+      "path": "PARA/2) Area/Alcohol.md"
+    },
+    {
+      "basename": "Agronomist",
+      "path": "PARA/3) Resourc/Agronomist.md"
+    },
+    {
+      "basename": "Abolition",
+      "path": "PARA/3) Resourc/Abolition.md"
+    },
+    {
+      "basename": "Communism",
+      "path": "PARA/3) Resourc/Communism.md"
+    },
+    {
+      "basename": "Déjà Entendu",
+      "path": "PARA/3) Resourc/Déjà Entendu.md"
+    },
+    {
+      "basename": "How to use Obsidian",
+      "path": "PARA/How to use Obsidian.md"
     },
     {
       "basename": "道德经 Study",
@@ -118,87 +126,79 @@
     },
     {
       "basename": "Apology - Plato",
-      "path": "PARA/3) Resource, Interests, Wiki/Unsorted/Apology - Plato.md"
+      "path": "PARA/3) Resourc/Unsorted/Apology - Plato.md"
     },
     {
       "basename": "2014 Isla Vista Massacre",
-      "path": "PARA/3) Resource, Interests, Wiki/Unsorted/2014 Isla Vista Massacre.md"
+      "path": "PARA/3) Resourc/Unsorted/2014 Isla Vista Massacre.md"
     },
     {
       "basename": "Déjà Rêvé",
-      "path": "PARA/3) Resource, Interests, Wiki/Déjà Rêvé.md"
+      "path": "PARA/3) Resourc/Déjà Rêvé.md"
     },
     {
       "basename": "道德经 - 第一章",
-      "path": "PARA/3) Resource, Interests, Wiki/道德经 - 第一章.md"
+      "path": "PARA/3) Resourc/道德经 - 第一章.md"
     },
     {
       "basename": "Eudaimonia",
-      "path": "PARA/3) Resource, Interests, Wiki/Eudaimonia.md"
+      "path": "PARA/3) Resourc/Eudaimonia.md"
     },
     {
       "basename": "Déjà Vécu",
-      "path": "PARA/3) Resource, Interests, Wiki/Déjà Vécu.md"
+      "path": "PARA/3) Resourc/Déjà Vécu.md"
     },
     {
       "basename": "Jamais Vu",
-      "path": "PARA/3) Resource, Interests, Wiki/Jamais Vu.md"
+      "path": "PARA/3) Resourc/Jamais Vu.md"
     },
     {
       "basename": "Presque Vu",
-      "path": "PARA/3) Resource, Interests, Wiki/Presque Vu.md"
+      "path": "PARA/3) Resourc/Presque Vu.md"
     },
     {
       "basename": "Déjà Vu",
-      "path": "PARA/3) Resource, Interests, Wiki/Déjà Vu.md"
+      "path": "PARA/3) Resourc/Déjà Vu.md"
     },
     {
       "basename": "Joseph Stalin",
-      "path": "PARA/3) Resource, Interests, Wiki/Unsorted/Joseph Stalin.md"
+      "path": "PARA/3) Resourc/Unsorted/Joseph Stalin.md"
     },
     {
       "basename": "Nikolai Vavilov",
-      "path": "PARA/3) Resource, Interests, Wiki/Nikolai Vavilov.md"
+      "path": "PARA/3) Resourc/Nikolai Vavilov.md"
     },
     {
       "basename": "Cats and Balls",
       "path": "PARA/1) Project, Short-term Goals/On Hold/Cats and Balls.md"
     },
     {
-      "basename": "道德经 - 第三章",
-      "path": "道德经 - 第三章.md"
-    },
-    {
       "basename": "道德经 - 第二章",
-      "path": "PARA/3) Resource, Interests, Wiki/道德经 - 第二章.md"
+      "path": "PARA/3) Resourc/道德经 - 第二章.md"
     },
     {
       "basename": "Philosophy",
-      "path": "PARA/3) Resource, Interests, Wiki/Philosophy.md"
+      "path": "PARA/3) Resourc/Philosophy.md"
     },
     {
       "basename": "Nationalism",
-      "path": "PARA/3) Resource, Interests, Wiki/Nationalism.md"
+      "path": "PARA/3) Resourc/Nationalism.md"
     },
     {
       "basename": "Metaphysics",
-      "path": "PARA/3) Resource, Interests, Wiki/Metaphysics.md"
+      "path": "PARA/3) Resourc/Metaphysics.md"
     },
     {
       "basename": "Socrates",
-      "path": "PARA/3) Resource, Interests, Wiki/Socrates.md"
+      "path": "PARA/3) Resourc/Socrates.md"
     },
     {
       "basename": "The Republic - Plato",
-      "path": "PARA/3) Resource, Interests, Wiki/The Republic - Plato.md"
+      "path": "PARA/3) Resourc/The Republic - Plato.md"
     },
     {
       "basename": "Character Profile",
       "path": "Templates/3) Resource/Character Profile.md"
-    },
-    {
-      "basename": "Wiki Type",
-      "path": "Templates/3) Resource/Wiki Type.md"
     }
   ],
   "omittedPaths": [],

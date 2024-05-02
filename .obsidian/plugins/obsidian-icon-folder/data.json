@@ -30,10 +30,10 @@
   },
   "PARA/1) Project, Short-term Goals": "LiArrowRightFromLine",
   "PARA/4) Archive, Completed": "LiArrowRightFromLine",
-  "PARA/2) Area, Notes, Other": "LiArrowRightFromLine",
   "Templates/1) Project": "LiArrowRightFromLine",
   "Templates/2) Area": "LiArrowRightFromLine",
   "Templates/3) Resource": "LiArrowRightFromLine",
   "Templates/4) Archive": "LiArrowRightFromLine",
-  "PARA/3) Resource, Interests, Wiki": "LiArrowRightFromLine"
+  "PARA/3) Resourc": "LiArrowRightFromLine",
+  "PARA/2) Area": "LiArrowRightFromLine"
 }

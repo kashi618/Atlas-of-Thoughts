@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "道德经 - 第三章.md",
+                "file": "PARA/2) Area/GameDev ToDo List.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "641f5e55937e1850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA/2) Area/Dark Souls Remastered Quest Guide.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "道德经 - 第三章.md",
+            "file": "PARA/2) Area/Dark Souls Remastered Quest Guide.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "道德经 - 第三章.md",
+            "file": "PARA/2) Area/Dark Souls Remastered Quest Guide.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -143,7 +157,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "道德经 - 第三章.md"
+            "file": "PARA/2) Area/Dark Souls Remastered Quest Guide.md"
           }
         }
       },
@@ -156,7 +170,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 1
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,12 +188,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4895439786fb2328",
+  "active": "c93afe82d3e67a15",
   "lastOpenFiles": [
-    "PARA/1) Project, Short-term Goals/道德经.md",
-    "PARA/3) Resource, Interests, Wiki/道德经 - 第二章.md",
-    "PARA/3) Resource, Interests, Wiki/道德经 - 第一章.md",
+    "PARA/2) Area/$ Area Masterlist $.md",
+    "PARA/2) Area/$ Area Sorted $.md",
+    "$ Masterlist $.md",
+    "PARA/2) Area/GameDev ToDo List.md",
+    "$ Resource Masterlist $.md",
     "道德经 - 第三章.md",
+    "PARA/1) Project, Short-term Goals/道德经.md",
+    "PARA/3) Resourc/道德经 - 第二章.md",
+    "PARA/3) Resourc/道德经 - 第一章.md",
     "1.md",
     "PARA/2) Area, Notes, Other/Philosophy Other.md",
     "PARA/2) Area, Notes, Other/Japanese/Leaving Cert Orals.md",
@@ -197,11 +216,6 @@
     "PARA/3) Resource, Interests/Socrates.md",
     "PARA/3) Resource, Interests/Presque Vu.md",
     "PARA/3) Resource, Interests/Nationalism.md",
-    "PARA/3) Resource, Interests/Metaphysics.md",
-    "PARA/3) Resource, Interests/Déjà Vécu.md",
-    "PARA/3) Resource, Interests/Déjà Rêvé.md",
-    "PARA/2) Area, Notes, Other/Foods + Drinks/Chinese.md",
-    "PARA/2) Area, Notes, Other/Foods + Drinks/Alcohol.md",
     "Templates/3) Resource",
     "Templates/1) Project",
     "Templates",
