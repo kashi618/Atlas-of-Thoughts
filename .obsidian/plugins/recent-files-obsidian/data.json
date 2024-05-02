@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "ToDo list",
+      "path": "ToDo list.md"
+    },
+    {
+      "basename": "GameDev ToDo List",
+      "path": "PARA/2) Area/GameDev ToDo List.md"
+    },
+    {
+      "basename": "Leaving Cert Study List",
+      "path": "Leaving Cert Study List.md"
+    },
+    {
       "basename": "Dark Souls Remastered Quest Guide",
       "path": "PARA/2) Area/Dark Souls Remastered Quest Guide.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "$ Masterlist $",
       "path": "$ Masterlist $.md"
-    },
-    {
-      "basename": "GameDev ToDo List",
-      "path": "PARA/2) Area/GameDev ToDo List.md"
     },
     {
       "basename": "$ Resource Masterlist $",
@@ -191,14 +199,6 @@
     {
       "basename": "Socrates",
       "path": "PARA/3) Resourc/Socrates.md"
-    },
-    {
-      "basename": "The Republic - Plato",
-      "path": "PARA/3) Resourc/The Republic - Plato.md"
-    },
-    {
-      "basename": "Character Profile",
-      "path": "Templates/3) Resource/Character Profile.md"
     }
   ],
   "omittedPaths": [],

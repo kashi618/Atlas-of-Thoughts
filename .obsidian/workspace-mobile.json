@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARA/2) Area/GameDev ToDo List.md",
+                "file": "ToDo list.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,9 +32,34 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "37b6d0f7644a0861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leaving Cert Study List.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a5c84801ddc4beb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ToDo list.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +153,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "PARA/2) Area/Dark Souls Remastered Quest Guide.md",
+            "file": "ToDo list.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +170,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "PARA/2) Area/Dark Souls Remastered Quest Guide.md",
+            "file": "ToDo list.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,7 +182,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "PARA/2) Area/Dark Souls Remastered Quest Guide.md"
+            "file": "ToDo list.md"
           }
         }
       },
@@ -188,12 +213,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c93afe82d3e67a15",
+  "active": "4895439786fb2328",
   "lastOpenFiles": [
+    "PARA/2) Area/GameDev ToDo List.md",
+    "ToDo list.md",
+    "Leaving Cert Study List.md",
+    "PARA/2) Area/Dark Souls Remastered Quest Guide.md",
     "PARA/2) Area/$ Area Masterlist $.md",
     "PARA/2) Area/$ Area Sorted $.md",
     "$ Masterlist $.md",
-    "PARA/2) Area/GameDev ToDo List.md",
     "$ Resource Masterlist $.md",
     "道德经 - 第三章.md",
     "PARA/1) Project, Short-term Goals/道德经.md",
@@ -213,9 +241,6 @@
     "Templates/3) Resource/Basic with Tags.md",
     "Plato.md",
     "PARA/How to use Obsidian.md",
-    "PARA/3) Resource, Interests/Socrates.md",
-    "PARA/3) Resource, Interests/Presque Vu.md",
-    "PARA/3) Resource, Interests/Nationalism.md",
     "Templates/3) Resource",
     "Templates/1) Project",
     "Templates",
