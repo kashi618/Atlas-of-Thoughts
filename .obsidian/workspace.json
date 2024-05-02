@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10954cb438ed8e66",
+            "id": "f65cfde99bf60d9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToDo list.md",
-                "mode": "source",
+                "file": "Notes/2) Area/$ Area Sorted $.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -91,19 +91,6 @@
         "dimension": 40.75723830734967,
         "children": [
           {
-            "id": "370a24fabb7b70f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA/1) Project, Short-term Goals/On Hold/Cats and Balls.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "57211516c3fb6f2e",
             "type": "leaf",
             "state": {
@@ -111,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -133,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ToDo list.md"
+                "file": "Notes/2) Area/$ Area Sorted $.md"
               }
             }
           },
@@ -177,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ToDo list.md"
+                "file": "Notes/2) Area/$ Area Sorted $.md"
               }
             }
           },
@@ -199,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ToDo list.md",
+                "file": "Notes/2) Area/$ Area Sorted $.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ToDo list.md",
+                "file": "Notes/2) Area/$ Area Sorted $.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,8 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,37 +231,38 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "10954cb438ed8e66",
+  "active": "f65cfde99bf60d9c",
   "lastOpenFiles": [
+    "Notes/2) Area/Chinese Foods, Snacks, Drinks.md",
+    "Notes/2) Area/$ Area Sorted $.md",
+    "Notes/2) Area/$ Area Masterlist $.md",
+    "Notes/2) Area/Alcohol.md",
+    "Notes/2) Area/Philosphy Books To Read.md",
+    "Notes/2) Area/Cheeses.md",
+    "Notes/How to use Obsidian.md",
+    "Templates/1) Project/Game Design Document.md",
+    "Notes/2) Area/MHW Large Monster Checklist.md",
+    "Notes/1) Project/Currently Playing Games.md",
+    "Notes/1) Project/道德经 Study.md",
+    "Notes/2) Area/Books.md",
+    "Notes/1) Project/$ ToDo list $.md",
+    "Notes/2) Area/Headphones & IEMs.md",
+    "Notes/1) Project/On Hold/Cats and Balls.md",
+    "Media, Pictures, Gifs/AKG K371-BT.png",
     "Leaving Cert Study List.md",
-    "ToDo list.md",
     "道德经 - 第三章.md",
-    "PARA/2) Area/$ Area Sorted $.md",
     "$ Masterlist $.md",
     "$ Resource Masterlist $.md",
-    "PARA/2) Area/$ Area Masterlist $.md",
-    "PARA/1) Project, Short-term Goals/Cheese list.md",
-    "PARA/3) Resourc/Unsorted/Xenophon.md",
-    "PARA/3) Resourc/Unsorted/Western Philosophy.md",
-    "PARA/3) Resourc/Unsorted/Wang Yangming.md",
-    "PARA/3) Resourc/Unsorted/Utopia.md",
-    "PARA/3) Resourc/Unsorted/Untitled.md",
-    "PARA/3) Resourc/Unsorted/The Republic - Plato.md",
-    "PARA/3) Resourc/Unsorted/The Odyssey - Homer.md",
-    "PARA/3) Resourc/Unsorted/Soviet Union.md",
-    "PARA/3) Resourc/Unsorted/Socratic Dialogue.md",
-    "PARA/3) Resourc/Unsorted/Roman Empire.md",
-    "PARA/3) Resourc/Unsorted/Political Philosophy.md",
-    "PARA/3) Resourc/Unsorted/Plato.md",
-    "PARA/3) Resourc/Unsorted/Nazism.md",
-    "PARA/3) Resourc/Unsorted/Mathematics.md",
-    "PARA/3) Resourc/Unsorted/Logic.md",
-    "PARA/3) Resourc/Unsorted/Justice.md",
-    "PARA/3) Resourc/Unsorted/Joseph Stalin.md",
-    "PARA/3) Resourc/Unsorted/Greek Empire.md",
-    "PARA/3) Resourc/Unsorted",
-    "PARA/3) Resourc",
-    "PARA/2) Area",
+    "Notes/3) Resource/Unsorted/Xenophon.md",
+    "Notes/3) Resource/Unsorted/Western Philosophy.md",
+    "Notes/3) Resource/Unsorted/Wang Yangming.md",
+    "Notes/3) Resource/Unsorted/Utopia.md",
+    "Notes/3) Resource/Unsorted/Untitled.md",
+    "Notes/3) Resource/Unsorted/The Republic - Plato.md",
+    "Notes/3) Resource/Unsorted/The Odyssey - Homer.md",
+    "Notes/3) Resource/Unsorted",
+    "Notes/3) Resource",
+    "Notes/2) Area",
     "PARA/1) Project, Short-term Goals/Guitar Tabs",
     "Guitar",
     "PARA/2) Area, Notes, Other/School Related/Computer Science",
@@ -288,7 +274,6 @@
     "ZenZone/Untitled.canvas",
     "ASDASDASD/icons/lucide-icons/ArrowRightFromLine.svg",
     "ASDASDASD/Untitled.canvas",
-    "Media, Pictures, Gifs/AKG K371-BT.png",
     "Media, Pictures, Gifs/Nikolai Vavilov.png",
     "Media, Pictures, Gifs/Salnotes Dioko.png",
     "Media, Pictures, Gifs/MHW Shock Trap.bmp",
