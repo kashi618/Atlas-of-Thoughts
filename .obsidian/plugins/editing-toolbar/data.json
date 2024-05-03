@@ -212,8 +212,8 @@
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
   "cMenuWidth": 502,
-  "cMenuFontColor": "#aeffce",
-  "cMenuBackgroundColor": "#d3f8b6",
+  "cMenuFontColor": "#002060",
+  "cMenuBackgroundColor": "rgba(163, 67, 31, 0.2)",
   "autohide": false,
   "custom_bg1": "#FFB78B8C",
   "custom_bg2": "#CDF4698C",
@@ -224,5 +224,6 @@
   "custom_fc2": "#FECC90",
   "custom_fc3": "#FFB0F3",
   "custom_fc4": "#AEFFCE",
-  "custom_fc5": "#A2FAFF"
+  "custom_fc5": "#A2FAFF",
+  "isLoadOnMobile": false
 }
