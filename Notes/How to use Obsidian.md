@@ -54,3 +54,9 @@ Bottom Text
 1. Item 1
 2. Item 2
 3. Item 3
+   
+---
+## Check Boxes
+- [ ] Item 1
+- [x] Item 2
+- [ ] Item3

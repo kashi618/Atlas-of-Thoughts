@@ -1,38 +1,55 @@
 #### French
-- Bleu d'Auvergne
-- Roquefort
-- Brie
-- Camambert
-- Babybel
+- [x] Bleu d'Auvergne
+	9/10
+- [x] Roquefort
+	7/10
+- [x] Brie
+	6/10
+- [x] Camambert
+	6.5/10
+- [x] Babybel
+	5/10
 #### Italian
-- Grana Padano
-- Parmigiano Reggiano
-- Parmesan
-- Pecorino Romano
-- Manchego
-- Shredded Mozzarella
-- Fresh Mozzarella
+- [x] Grana Padano
+	8.3/10
+- [x] Parmigiano Reggiano
+	9/10
+- [x] Parmesan
+	6/10
+- [x] Pecorino Romano
+	6.5/10
+- [x] Manchego
+	6.7/10
+- [x] Shredded Mozzarella
+	5/10
+- [x] Fresh Mozzarella
+	6/10
+- [ ] Gorgonzola
 #### Irish
-- Cashel Blue
-- Irish Sage Cheddard
-- Tipperary Smoked Brie
+- [x] Cashel Blue
+	4/10
+- [x] Tipperary Smoked Brie
 #### English
-- Cheddar
+- [x] Cheddar
+	7/10
+- [ ] Double Gloucester
+- [x] Sage Derby
+	6.5/10
+- [ ] Red Leicester
+- [ ] Blue Stilton
 #### Dutch
-- Vintage Gouda
+- [x] Vintage Gouda
+- [ ] 6.7/10
+#### United States
+- [ ] Rogue River Blue
+- [ ] Montgomery Jack
 #### Greece
-- Feta
+- [x] Feta
 #### Middle Eastern
-- Kashkaval (Polish made)
+- [x] Kashkaval (Polish made)
+	5/10
 #### Other
-- Goats cheese
-- Processes/Plastic cheese
-
-#### ToBeTried
-- Double Gloucester
-- Red Leicester
-- Blue Stilton
-- Gorgonzola
-- Sage Derby
-- Rogue River Blue
-- Montgomery jack
+- [x] Goats cheese
+	7.5/10
+- [x] Processed/Plastic cheese
+	5/10

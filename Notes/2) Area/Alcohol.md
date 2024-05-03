@@ -1,13 +1,31 @@
-
 ### Wine
-- Macallan 12
+- [ ] Macallan 12
+- [x] Jameson
+- [x] Jack Daniels
+- [x] The Sandman
+- [x] Casillero del Diablo
 
 ### Baijiu
-- 茅台酒 
-- 红星二锅头
-- 红小白
+- [x] 茅台酒 
+- [x] 红星二锅头
+- [x] 红小白
 
 ### Rum
-- Captain Morgan Original Spiced Gold
-- Captain Morgan Dark Rum
-- **Captain Morgan White Rum**
+- [x] Captain Morgan Original Spiced Gold
+- [x] Captain Morgan Dark Rum
+- [ ] Captain Morgan White Rum
+
+### Liqueur
+- [x] Sambuca
+
+### Cognac
+- [x] Hennessy XO
+
+### Beer
+- [x] Guinness
+- [ ] Heineken
+- [ ] Budweiser
+- [ ] Bud Light
+- [ ] Corona
+- [ ] Miller Lite
+- [x] Birra Moretti

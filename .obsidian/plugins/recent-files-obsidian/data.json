@@ -1,6 +1,90 @@
 {
   "recentFiles": [
     {
+      "basename": "Cheeses",
+      "path": "Notes/2) Area/Cheeses.md"
+    },
+    {
+      "basename": "Alcohol",
+      "path": "Notes/2) Area/Alcohol.md"
+    },
+    {
+      "basename": "$ Area Sorted $",
+      "path": "Notes/2) Area/$ Area Sorted $.md"
+    },
+    {
+      "basename": "GameDev ToDo List",
+      "path": "Notes/2) Area/GameDev ToDo List.md"
+    },
+    {
+      "basename": "Guitars",
+      "path": "Notes/2) Area/Guitars.md"
+    },
+    {
+      "basename": "How to use Obsidian",
+      "path": "Notes/How to use Obsidian.md"
+    },
+    {
+      "basename": "MHW Large Monster Checklist",
+      "path": "Notes/2) Area/MHW Large Monster Checklist.md"
+    },
+    {
+      "basename": "Books",
+      "path": "Notes/2) Area/Books.md"
+    },
+    {
+      "basename": "Chinese Foods, Snacks, Drinks",
+      "path": "Notes/2) Area/Chinese Foods, Snacks, Drinks.md"
+    },
+    {
+      "basename": "$ Area Masterlist $",
+      "path": "Notes/2) Area/$ Area Masterlist $.md"
+    },
+    {
+      "basename": "Greek Empire",
+      "path": "Notes/3) Resource/Unsorted/Greek Empire.md"
+    },
+    {
+      "basename": "Friedrick Nietzsche",
+      "path": "Notes/3) Resource/Unsorted/Friedrick Nietzsche.md"
+    },
+    {
+      "basename": "French Revolution",
+      "path": "Notes/3) Resource/Unsorted/French Revolution.md"
+    },
+    {
+      "basename": "Ethics",
+      "path": "Notes/3) Resource/Unsorted/Ethics.md"
+    },
+    {
+      "basename": "Communist Manifesto - Karl Marx, Freidrich Engels",
+      "path": "Notes/3) Resource/Unsorted/Communist Manifesto - Karl Marx, Freidrich Engels.md"
+    },
+    {
+      "basename": "Communism",
+      "path": "Notes/3) Resource/Communism.md"
+    },
+    {
+      "basename": "$ Resource Masterlist $",
+      "path": "Notes/3) Resource/$ Resource Masterlist $.md"
+    },
+    {
+      "basename": "$ ToDo list $",
+      "path": "Notes/1) Project/$ ToDo list $.md"
+    },
+    {
+      "basename": "Mathematics",
+      "path": "Notes/3) Resource/Unsorted/Mathematics.md"
+    },
+    {
+      "basename": "Logic",
+      "path": "Notes/3) Resource/Unsorted/Logic.md"
+    },
+    {
+      "basename": "Superfest Glass",
+      "path": "Notes/3) Resource/Unsorted/Superfest Glass.md"
+    },
+    {
       "basename": "Nikolai Vavilov",
       "path": "Notes/3) Resource/Nikolai Vavilov.md"
     },
@@ -15,14 +99,6 @@
     {
       "basename": "The Republic - Plato",
       "path": "Notes/3) Resource/The Republic - Plato.md"
-    },
-    {
-      "basename": "How to use Obsidian",
-      "path": "Notes/How to use Obsidian.md"
-    },
-    {
-      "basename": "Greek Empire",
-      "path": "Notes/3) Resource/Unsorted/Greek Empire.md"
     },
     {
       "basename": "Political Philosophy",
@@ -65,14 +141,6 @@
       "path": "Notes/3) Resource/Unsorted/Wang Yangming.md"
     },
     {
-      "basename": "Logic",
-      "path": "Notes/3) Resource/Unsorted/Logic.md"
-    },
-    {
-      "basename": "Ethics",
-      "path": "Notes/3) Resource/Unsorted/Ethics.md"
-    },
-    {
       "basename": "Epistemology",
       "path": "Notes/3) Resource/Unsorted/Epistemology.md"
     },
@@ -105,10 +173,6 @@
       "path": "Notes/3) Resource/Déjà Entendu.md"
     },
     {
-      "basename": "Communism",
-      "path": "Notes/3) Resource/Communism.md"
-    },
-    {
       "basename": "Agronomist",
       "path": "Notes/3) Resource/Agronomist.md"
     },
@@ -135,70 +199,6 @@
     {
       "basename": "Philosophy",
       "path": "Notes/3) Resource/Philosophy.md"
-    },
-    {
-      "basename": "Character Profile",
-      "path": "Templates/3) Resource/Character Profile.md"
-    },
-    {
-      "basename": "Basic with Tags",
-      "path": "Templates/3) Resource/Basic with Tags.md"
-    },
-    {
-      "basename": "Game Design Document",
-      "path": "Templates/1) Project/Game Design Document.md"
-    },
-    {
-      "basename": "道德经 - 第三章",
-      "path": "Notes/3) Resource/道德经 - 第三章.md"
-    },
-    {
-      "basename": "道德经 - 第二章",
-      "path": "Notes/3) Resource/道德经 - 第二章.md"
-    },
-    {
-      "basename": "道德经 - 第一章",
-      "path": "Notes/3) Resource/道德经 - 第一章.md"
-    },
-    {
-      "basename": "$ ToDo list $",
-      "path": "Notes/1) Project/$ ToDo list $.md"
-    },
-    {
-      "basename": "$ Area Sorted $",
-      "path": "Notes/2) Area/$ Area Sorted $.md"
-    },
-    {
-      "basename": "Chinese Foods, Snacks, Drinks",
-      "path": "Notes/2) Area/Chinese Foods, Snacks, Drinks.md"
-    },
-    {
-      "basename": "$ Area Masterlist $",
-      "path": "Notes/2) Area/$ Area Masterlist $.md"
-    },
-    {
-      "basename": "Alcohol",
-      "path": "Notes/2) Area/Alcohol.md"
-    },
-    {
-      "basename": "Philosphy Books To Read",
-      "path": "Notes/2) Area/Philosphy Books To Read.md"
-    },
-    {
-      "basename": "Cheeses",
-      "path": "Notes/2) Area/Cheeses.md"
-    },
-    {
-      "basename": "MHW Large Monster Checklist",
-      "path": "Notes/2) Area/MHW Large Monster Checklist.md"
-    },
-    {
-      "basename": "Currently Playing Games",
-      "path": "Notes/1) Project/Currently Playing Games.md"
-    },
-    {
-      "basename": "道德经 Study",
-      "path": "Notes/1) Project/道德经 Study.md"
     }
   ],
   "omittedPaths": [],
