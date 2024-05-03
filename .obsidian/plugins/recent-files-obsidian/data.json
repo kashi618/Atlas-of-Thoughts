@@ -5,6 +5,10 @@
       "path": "Notes/2) Area/Cheeses.md"
     },
     {
+      "basename": "Books",
+      "path": "Notes/2) Area/Books.md"
+    },
+    {
       "basename": "Alcohol",
       "path": "Notes/2) Area/Alcohol.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "MHW Large Monster Checklist",
       "path": "Notes/2) Area/MHW Large Monster Checklist.md"
-    },
-    {
-      "basename": "Books",
-      "path": "Notes/2) Area/Books.md"
     },
     {
       "basename": "Chinese Foods, Snacks, Drinks",

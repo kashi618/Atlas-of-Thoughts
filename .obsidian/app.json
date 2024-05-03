@@ -4,5 +4,6 @@
   "strictLineBreaks": false,
   "showLineNumber": true,
   "spellcheck": false,
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "vimMode": false
 }
