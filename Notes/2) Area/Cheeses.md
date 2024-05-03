@@ -32,9 +32,9 @@
 #### English
 - [x] Cheddar
 	7/10
-- [ ] Double Gloucester
 - [x] Sage Derby
 	6.5/10
+- [ ] Double Gloucester
 - [ ] Red Leicester
 - [ ] Blue Stilton
 #### Dutch
