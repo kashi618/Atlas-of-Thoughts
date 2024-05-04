@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Books",
+      "path": "Notes/2) Area/Books.md"
+    },
+    {
       "basename": "Cheeses",
       "path": "Notes/2) Area/Cheeses.md"
     },
@@ -9,16 +13,16 @@
       "path": "Notes/2) Area/Alcohol.md"
     },
     {
-      "basename": "Chinese Foods, Snacks, Drinks",
-      "path": "Notes/2) Area/Chinese Foods, Snacks, Drinks.md"
-    },
-    {
-      "basename": "Books",
-      "path": "Notes/2) Area/Books.md"
+      "basename": "$ Area Masterlist $",
+      "path": "Notes/2) Area/$ Area Masterlist $.md"
     },
     {
       "basename": "$ Area Sorted $",
       "path": "Notes/2) Area/$ Area Sorted $.md"
+    },
+    {
+      "basename": "Chinese Foods, Snacks, Drinks",
+      "path": "Notes/2) Area/Chinese Foods, Snacks, Drinks.md"
     },
     {
       "basename": "GameDev ToDo List",
@@ -35,10 +39,6 @@
     {
       "basename": "MHW Large Monster Checklist",
       "path": "Notes/2) Area/MHW Large Monster Checklist.md"
-    },
-    {
-      "basename": "$ Area Masterlist $",
-      "path": "Notes/2) Area/$ Area Masterlist $.md"
     },
     {
       "basename": "Greek Empire",
