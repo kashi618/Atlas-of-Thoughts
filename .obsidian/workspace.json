@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd3d4fdf9ab4f8c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/3) Resource/Unsorted/Aesthetics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2) Area/Books.md"
+                "file": "Notes/3) Resource/Unsorted/Aesthetics.md"
               }
             }
           },
@@ -163,7 +177,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/2) Area/Books.md"
+                "file": "Notes/3) Resource/Unsorted/Aesthetics.md"
               }
             }
           },
@@ -185,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2) Area/Books.md",
+                "file": "Notes/3) Resource/Unsorted/Aesthetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2) Area/Books.md",
+                "file": "Notes/3) Resource/Unsorted/Aesthetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,34 +245,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f65cfde99bf60d9c",
+  "active": "d828e5b8bc561a69",
   "lastOpenFiles": [
-    "Notes/2) Area/Cheeses.md",
+    "Notes/3) Resource/Unsorted/2014 Isla Vista Massacre.md",
+    "Notes/3) Resource/$ Resource Masterlist $.md",
+    "Notes/3) Resource/Abolition.md",
+    "Notes/3) Resource/Agronomist.md",
+    "Notes/3) Resource/Communism.md",
+    "Notes/3) Resource/Déjà Rêvé.md",
+    "Notes/3) Resource/Presque Vu.md",
+    "Notes/3) Resource/Philosophy.md",
+    "Notes/3) Resource/Nikolai Vavilov.md",
+    "Notes/3) Resource/Nationalism.md",
+    "Notes/3) Resource/Metaphysics.md",
+    "Notes/3) Resource/Memento Mori.md",
+    "Templates/3) Resource/Wiki Type.md",
     "Notes/2) Area/Books.md",
+    "Templates/3) Resource/Character Profile.md",
+    "Templates/3) Resource/Character Profile Philosophy.md",
+    "Templates/3) Resource/Basic with Tags.md",
+    "Templates/1) Project/Game Design Document.md",
+    "Notes/3) Resource/The Republic - Plato.md",
+    "Notes/3) Resource/Socrates.md",
+    "Notes/2) Area/Cheeses.md",
     "Notes/2) Area/Alcohol.md",
     "Notes/2) Area/$ Area Masterlist $.md",
     "Notes/2) Area/$ Area Sorted $.md",
     "Notes/2) Area/Chinese Foods, Snacks, Drinks.md",
     "Notes/2) Area/GameDev ToDo List.md",
-    "Notes/2) Area/Guitars.md",
-    "Notes/How to use Obsidian.md",
-    "Notes/2) Area/MHW Large Monster Checklist.md",
-    "Notes/3) Resource/Unsorted/Greek Empire.md",
-    "Notes/3) Resource/Unsorted/Friedrick Nietzsche.md",
-    "Notes/3) Resource/Unsorted/French Revolution.md",
-    "Notes/3) Resource/Unsorted/Ethics.md",
-    "Notes/3) Resource/Unsorted/Communist Manifesto - Karl Marx, Freidrich Engels.md",
-    "Notes/3) Resource/Communism.md",
-    "Notes/3) Resource/$ Resource Masterlist $.md",
-    "Notes/1) Project/$ ToDo list $.md",
-    "Notes/3) Resource/Unsorted/Mathematics.md",
-    "Notes/3) Resource/Unsorted/Logic.md",
-    "Notes/3) Resource/Unsorted/Superfest Glass.md",
-    "Compare how democratic you find the society established in atleast two texts on your comparative course.md",
-    "Notes/3) Resource/Nikolai Vavilov.md",
-    "Notes/3) Resource/Socrates.md",
-    "Notes/3) Resource/Presque Vu.md",
-    "Notes/3) Resource/The Republic - Plato.md",
     "Media, Pictures, Gifs/AKG K371-BT.png",
     "Notes/3) Resource/Unsorted",
     "Notes/3) Resource",

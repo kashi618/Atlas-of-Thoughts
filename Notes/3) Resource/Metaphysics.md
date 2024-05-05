@@ -11,7 +11,7 @@ Create Date: 2024-01-25
 ### Questions 📖
 - Why are we here?
 - What is our purpose?
+- Is there a meaning to life?
+### Definition
+- The study of reality, and existence.
 
-### Examples ✏️
-
-### Sources/References 🌐 

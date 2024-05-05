@@ -40,7 +40,8 @@
     "Title": 28,
     "Daoism": 29,
     "Area": 30,
-    "Resource": 31
+    "Resource": 31,
+    "Latin": 32
   },
   "_version": 3
 }

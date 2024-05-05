@@ -1,8 +1,88 @@
 {
   "recentFiles": [
     {
+      "basename": "Aesthetics",
+      "path": "Notes/3) Resource/Unsorted/Aesthetics.md"
+    },
+    {
+      "basename": "2014 Isla Vista Massacre",
+      "path": "Notes/3) Resource/Unsorted/2014 Isla Vista Massacre.md"
+    },
+    {
+      "basename": "$ Resource Masterlist $",
+      "path": "Notes/3) Resource/$ Resource Masterlist $.md"
+    },
+    {
+      "basename": "Abolition",
+      "path": "Notes/3) Resource/Abolition.md"
+    },
+    {
+      "basename": "Agronomist",
+      "path": "Notes/3) Resource/Agronomist.md"
+    },
+    {
+      "basename": "Communism",
+      "path": "Notes/3) Resource/Communism.md"
+    },
+    {
+      "basename": "Déjà Rêvé",
+      "path": "Notes/3) Resource/Déjà Rêvé.md"
+    },
+    {
+      "basename": "Presque Vu",
+      "path": "Notes/3) Resource/Presque Vu.md"
+    },
+    {
+      "basename": "Philosophy",
+      "path": "Notes/3) Resource/Philosophy.md"
+    },
+    {
+      "basename": "Nikolai Vavilov",
+      "path": "Notes/3) Resource/Nikolai Vavilov.md"
+    },
+    {
+      "basename": "Nationalism",
+      "path": "Notes/3) Resource/Nationalism.md"
+    },
+    {
+      "basename": "Metaphysics",
+      "path": "Notes/3) Resource/Metaphysics.md"
+    },
+    {
+      "basename": "Memento Mori",
+      "path": "Notes/3) Resource/Memento Mori.md"
+    },
+    {
+      "basename": "Wiki Type",
+      "path": "Templates/3) Resource/Wiki Type.md"
+    },
+    {
       "basename": "Books",
       "path": "Notes/2) Area/Books.md"
+    },
+    {
+      "basename": "Character Profile",
+      "path": "Templates/3) Resource/Character Profile.md"
+    },
+    {
+      "basename": "Character Profile Philosophy",
+      "path": "Templates/3) Resource/Character Profile Philosophy.md"
+    },
+    {
+      "basename": "Basic with Tags",
+      "path": "Templates/3) Resource/Basic with Tags.md"
+    },
+    {
+      "basename": "Game Design Document",
+      "path": "Templates/1) Project/Game Design Document.md"
+    },
+    {
+      "basename": "The Republic - Plato",
+      "path": "Notes/3) Resource/The Republic - Plato.md"
+    },
+    {
+      "basename": "Socrates",
+      "path": "Notes/3) Resource/Socrates.md"
     },
     {
       "basename": "Cheeses",
@@ -61,14 +141,6 @@
       "path": "Notes/3) Resource/Unsorted/Communist Manifesto - Karl Marx, Freidrich Engels.md"
     },
     {
-      "basename": "Communism",
-      "path": "Notes/3) Resource/Communism.md"
-    },
-    {
-      "basename": "$ Resource Masterlist $",
-      "path": "Notes/3) Resource/$ Resource Masterlist $.md"
-    },
-    {
       "basename": "$ ToDo list $",
       "path": "Notes/1) Project/$ ToDo list $.md"
     },
@@ -83,22 +155,6 @@
     {
       "basename": "Superfest Glass",
       "path": "Notes/3) Resource/Unsorted/Superfest Glass.md"
-    },
-    {
-      "basename": "Nikolai Vavilov",
-      "path": "Notes/3) Resource/Nikolai Vavilov.md"
-    },
-    {
-      "basename": "Socrates",
-      "path": "Notes/3) Resource/Socrates.md"
-    },
-    {
-      "basename": "Presque Vu",
-      "path": "Notes/3) Resource/Presque Vu.md"
-    },
-    {
-      "basename": "The Republic - Plato",
-      "path": "Notes/3) Resource/The Republic - Plato.md"
     },
     {
       "basename": "Political Philosophy",
@@ -143,62 +199,6 @@
     {
       "basename": "Epistemology",
       "path": "Notes/3) Resource/Unsorted/Epistemology.md"
-    },
-    {
-      "basename": "Chinese Philosophy",
-      "path": "Notes/3) Resource/Unsorted/Chinese Philosophy.md"
-    },
-    {
-      "basename": "Chinese Communist Party",
-      "path": "Notes/3) Resource/Unsorted/Chinese Communist Party.md"
-    },
-    {
-      "basename": "Aristotle",
-      "path": "Notes/3) Resource/Unsorted/Aristotle.md"
-    },
-    {
-      "basename": "Apology - Plato",
-      "path": "Notes/3) Resource/Unsorted/Apology - Plato.md"
-    },
-    {
-      "basename": "Aesthetics",
-      "path": "Notes/3) Resource/Unsorted/Aesthetics.md"
-    },
-    {
-      "basename": "2014 Isla Vista Massacre",
-      "path": "Notes/3) Resource/Unsorted/2014 Isla Vista Massacre.md"
-    },
-    {
-      "basename": "Déjà Entendu",
-      "path": "Notes/3) Resource/Déjà Entendu.md"
-    },
-    {
-      "basename": "Agronomist",
-      "path": "Notes/3) Resource/Agronomist.md"
-    },
-    {
-      "basename": "Abolition",
-      "path": "Notes/3) Resource/Abolition.md"
-    },
-    {
-      "basename": "Eudaimonia",
-      "path": "Notes/3) Resource/Eudaimonia.md"
-    },
-    {
-      "basename": "Jamais Vu",
-      "path": "Notes/3) Resource/Jamais Vu.md"
-    },
-    {
-      "basename": "Metaphysics",
-      "path": "Notes/3) Resource/Metaphysics.md"
-    },
-    {
-      "basename": "Nationalism",
-      "path": "Notes/3) Resource/Nationalism.md"
-    },
-    {
-      "basename": "Philosophy",
-      "path": "Notes/3) Resource/Philosophy.md"
     }
   ],
   "omittedPaths": [],

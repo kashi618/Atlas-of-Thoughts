@@ -1,16 +1,15 @@
 ---
 tags: 
-Create Date: <%tp.date.now()%>
+Create Date: "{{date}}"
 ---
 ### Summary 💡
 
-> [!NOTE] <%tp.file.title%>
+> [!NOTE] {{title}}
 > Summary
 
 ### Definition 📖
 
 ##### Quotes:
-
 ### Examples ✏️
 
-### Sources/References 🌐 
+
