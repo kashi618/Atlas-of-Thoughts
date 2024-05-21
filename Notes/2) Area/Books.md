@@ -114,6 +114,8 @@ Tr.  |  Translator
 - **James Joyce** - Ulysses (*168,000*)
 - **Shelley Parker-Chan** - She Who Became the Sun (*125,550*)
 - **Shelley Parker-Chan** - He Who Drowned the World (*177,000*)
+- **Fyodor Dostoevsky** - Crime and Punishment
+- **Fyodor Dostoevsky** - The Brothers Karamazov
 ##### Science/History
 - **Nikolai Vavilov** - Origin and Geography of Cultivated Plants
 - Voynich Manuscript

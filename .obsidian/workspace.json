@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "57179ad0a600e470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2) Area/Guitars.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/3) Resource/Unsorted/Aesthetics.md"
+                "file": "Notes/2) Area/Guitars.md"
               }
             }
           },
@@ -177,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/3) Resource/Unsorted/Aesthetics.md"
+                "file": "Notes/2) Area/Guitars.md"
               }
             }
           },
@@ -199,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/3) Resource/Unsorted/Aesthetics.md",
+                "file": "Notes/2) Area/Guitars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/3) Resource/Unsorted/Aesthetics.md",
+                "file": "Notes/2) Area/Guitars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,8 +258,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d828e5b8bc561a69",
+  "active": "57179ad0a600e470",
   "lastOpenFiles": [
+    "Notes/2) Area/$ Area Sorted $.md",
+    "Notes/2) Area/$ Area Masterlist $.md",
+    "Notes/How to use Obsidian.md",
+    "Notes/3) Resource/道德经 - 第三章.md",
+    "Pasted image 20240513145645.png",
+    "Pasted image 20240513145647.png",
+    "Notes/2) Area/Guitars.md",
+    "Notes/2) Area/Books.md",
+    "Notes/2) Area/Alcohol.md",
+    "Notes/2) Area/Quotes.md",
     "Notes/3) Resource/Unsorted/2014 Isla Vista Massacre.md",
     "Notes/3) Resource/$ Resource Masterlist $.md",
     "Notes/3) Resource/Abolition.md",
@@ -260,19 +283,11 @@
     "Notes/3) Resource/Metaphysics.md",
     "Notes/3) Resource/Memento Mori.md",
     "Templates/3) Resource/Wiki Type.md",
-    "Notes/2) Area/Books.md",
     "Templates/3) Resource/Character Profile.md",
     "Templates/3) Resource/Character Profile Philosophy.md",
     "Templates/3) Resource/Basic with Tags.md",
     "Templates/1) Project/Game Design Document.md",
     "Notes/3) Resource/The Republic - Plato.md",
-    "Notes/3) Resource/Socrates.md",
-    "Notes/2) Area/Cheeses.md",
-    "Notes/2) Area/Alcohol.md",
-    "Notes/2) Area/$ Area Masterlist $.md",
-    "Notes/2) Area/$ Area Sorted $.md",
-    "Notes/2) Area/Chinese Foods, Snacks, Drinks.md",
-    "Notes/2) Area/GameDev ToDo List.md",
     "Media, Pictures, Gifs/AKG K371-BT.png",
     "Notes/3) Resource/Unsorted",
     "Notes/3) Resource",
@@ -294,8 +309,6 @@
     "Media, Pictures, Gifs/MHW Long Sword.bmp",
     "Excalidraw/Scripts/Downloaded/Set Grid.svg",
     "Excalidraw/Scripts/Downloaded/Organic Line.svg",
-    "Media, Pictures, Gifs/Socrates.png",
-    "Pasted image 20240130210156.png",
     "Spaces/Home/a/Untitled.canvas",
     "Templates/Unsorted/LifeOS/HOME.canvas",
     "Untitled 2.canvas",

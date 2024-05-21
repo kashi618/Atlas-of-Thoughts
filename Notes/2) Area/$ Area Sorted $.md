@@ -31,6 +31,7 @@
 - [[Cheeses]]
 - [[Chinese Foods, Snacks, Drinks]]
 - [[GameDev ToDo List]]
+- [[Quotes]]
 
 ---
 <center><h2>Funny</h2></center>

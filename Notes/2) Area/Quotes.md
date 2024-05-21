@@ -1,0 +1,1 @@
+- *If the literature we are reading does not wake us, why then do we read it? A literary work must be an ice axe to break the sea frozen inside us.* - Franz Kafka

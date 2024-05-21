@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Guitars",
+      "path": "Notes/2) Area/Guitars.md"
+    },
+    {
+      "basename": "$ Area Sorted $",
+      "path": "Notes/2) Area/$ Area Sorted $.md"
+    },
+    {
+      "basename": "$ Area Masterlist $",
+      "path": "Notes/2) Area/$ Area Masterlist $.md"
+    },
+    {
+      "basename": "How to use Obsidian",
+      "path": "Notes/How to use Obsidian.md"
+    },
+    {
+      "basename": "道德经 - 第三章",
+      "path": "Notes/3) Resource/道德经 - 第三章.md"
+    },
+    {
+      "basename": "Pasted image 20240513145645",
+      "path": "Pasted image 20240513145645.png"
+    },
+    {
+      "basename": "Pasted image 20240513145647",
+      "path": "Pasted image 20240513145647.png"
+    },
+    {
+      "basename": "Books",
+      "path": "Notes/2) Area/Books.md"
+    },
+    {
+      "basename": "Alcohol",
+      "path": "Notes/2) Area/Alcohol.md"
+    },
+    {
+      "basename": "Quotes",
+      "path": "Notes/2) Area/Quotes.md"
+    },
+    {
       "basename": "Aesthetics",
       "path": "Notes/3) Resource/Unsorted/Aesthetics.md"
     },
@@ -57,10 +97,6 @@
       "path": "Templates/3) Resource/Wiki Type.md"
     },
     {
-      "basename": "Books",
-      "path": "Notes/2) Area/Books.md"
-    },
-    {
       "basename": "Character Profile",
       "path": "Templates/3) Resource/Character Profile.md"
     },
@@ -89,32 +125,12 @@
       "path": "Notes/2) Area/Cheeses.md"
     },
     {
-      "basename": "Alcohol",
-      "path": "Notes/2) Area/Alcohol.md"
-    },
-    {
-      "basename": "$ Area Masterlist $",
-      "path": "Notes/2) Area/$ Area Masterlist $.md"
-    },
-    {
-      "basename": "$ Area Sorted $",
-      "path": "Notes/2) Area/$ Area Sorted $.md"
-    },
-    {
       "basename": "Chinese Foods, Snacks, Drinks",
       "path": "Notes/2) Area/Chinese Foods, Snacks, Drinks.md"
     },
     {
       "basename": "GameDev ToDo List",
       "path": "Notes/2) Area/GameDev ToDo List.md"
-    },
-    {
-      "basename": "Guitars",
-      "path": "Notes/2) Area/Guitars.md"
-    },
-    {
-      "basename": "How to use Obsidian",
-      "path": "Notes/How to use Obsidian.md"
     },
     {
       "basename": "MHW Large Monster Checklist",
@@ -183,22 +199,6 @@
     {
       "basename": "Untitled",
       "path": "Notes/3) Resource/Unsorted/Untitled.md"
-    },
-    {
-      "basename": "Western Philosophy",
-      "path": "Notes/3) Resource/Unsorted/Western Philosophy.md"
-    },
-    {
-      "basename": "Xenophon",
-      "path": "Notes/3) Resource/Unsorted/Xenophon.md"
-    },
-    {
-      "basename": "Wang Yangming",
-      "path": "Notes/3) Resource/Unsorted/Wang Yangming.md"
-    },
-    {
-      "basename": "Epistemology",
-      "path": "Notes/3) Resource/Unsorted/Epistemology.md"
     }
   ],
   "omittedPaths": [],
