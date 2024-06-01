@@ -16,6 +16,8 @@
 - [[Leaving Cert Orals]]
 ### Computer Science
 - [[KeyTerms]]
+### English
+- [[English Study]]
 ---
 <center><h2>Wishlist</h2></center>
 
@@ -23,6 +25,7 @@
 - [[Books]]
 - [[Headphones & IEMs]]
 - [[Tattoos]]
+- [[Wishlist Other]]
 
 ---
 <center><h2>Lists</h2></center>
@@ -44,3 +47,4 @@
 
 - [[Steam Custom Launch]]
 - [[Philosphy Books To Read]]
+- [[Bleaching Hair]]
