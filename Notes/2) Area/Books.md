@@ -129,10 +129,11 @@ Tr.  |  Translator
 - **Shelley Parker-Chan** - He Who Drowned the World (*177,000*)
 - **Fyodor Dostoevsky** - Crime and Punishment
 - **Fyodor Dostoevsky** - The Brothers Karamazov
-- **J.R.R Tolkien** - The Hobbit
-- **J.R.R Tolkien** - The Fellowship of the Ring
-- **J.R.R Tolkien** - The Two Towers
-- **J.R.R Tolkien** - The Return of the King
+- **J.R.R Tolkien** - The Lord of the Rings
+	- [ ] The Hobbit
+	- [ ] The Fellowship of the Ring
+	- [ ] The Two Towers
+	- [ ] The Return of the King
 ##### Science/History
 - **Nikolai Vavilov** - Origin and Geography of Cultivated Plants
 - Voynich Manuscript
