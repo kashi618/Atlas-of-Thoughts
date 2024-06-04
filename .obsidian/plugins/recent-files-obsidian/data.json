@@ -1,16 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Bleaching Hair",
-      "path": "Bleaching Hair.md"
+      "basename": "Books",
+      "path": "Notes/2) Area/Books.md"
     },
     {
       "basename": "$ Area Sorted $",
       "path": "Notes/2) Area/$ Area Sorted $.md"
     },
     {
+      "basename": "Headphones & IEMs",
+      "path": "Notes/2) Area/Headphones & IEMs.md"
+    },
+    {
+      "basename": "GameDev ToDo List",
+      "path": "Notes/2) Area/GameDev ToDo List.md"
+    },
+    {
+      "basename": "Philosphy Books To Read",
+      "path": "Notes/2) Area/Philosphy Books To Read.md"
+    },
+    {
+      "basename": "Weird Animals",
+      "path": "Notes/2) Area/Weird Animals.md"
+    },
+    {
+      "basename": "Leaving Cert Orals",
+      "path": "Notes/2) Area/Leaving Cert Orals.md"
+    },
+    {
+      "basename": "KeyTerms",
+      "path": "Notes/2) Area/KeyTerms.md"
+    },
+    {
       "basename": "$ Area Masterlist $",
       "path": "Notes/2) Area/$ Area Masterlist $.md"
+    },
+    {
+      "basename": "Bleaching Hair",
+      "path": "Notes/2) Area/Bleaching Hair.md"
+    },
+    {
+      "basename": "How to use Obsidian",
+      "path": "Notes/How to use Obsidian.md"
+    },
+    {
+      "basename": "English Study",
+      "path": "Notes/2) Area/English Study.md"
+    },
+    {
+      "basename": "Steam Custom Launch",
+      "path": "Notes/2) Area/Steam Custom Launch.md"
     },
     {
       "basename": "Cheeses",
@@ -29,14 +69,6 @@
       "path": "Notes/1) Project/道德经 Study.md"
     },
     {
-      "basename": "Books",
-      "path": "Notes/2) Area/Books.md"
-    },
-    {
-      "basename": "English Study",
-      "path": "Notes/2) Area/English Study.md"
-    },
-    {
       "basename": "Aesthetics",
       "path": "Notes/3) Resource/Unsorted/Aesthetics.md"
     },
@@ -45,28 +77,12 @@
       "path": "Notes/2) Area/Alcohol.md"
     },
     {
-      "basename": "KeyTerms",
-      "path": "Notes/2) Area/KeyTerms.md"
-    },
-    {
       "basename": "Guitars",
       "path": "Notes/2) Area/Guitars.md"
     },
     {
-      "basename": "How to use Obsidian",
-      "path": "Notes/How to use Obsidian.md"
-    },
-    {
       "basename": "道德经 - 第三章",
       "path": "Notes/3) Resource/道德经 - 第三章.md"
-    },
-    {
-      "basename": "Pasted image 20240513145645",
-      "path": "Pasted image 20240513145645.png"
-    },
-    {
-      "basename": "Pasted image 20240513145647",
-      "path": "Pasted image 20240513145647.png"
     },
     {
       "basename": "Quotes",
@@ -153,10 +169,6 @@
       "path": "Notes/2) Area/Chinese Foods, Snacks, Drinks.md"
     },
     {
-      "basename": "GameDev ToDo List",
-      "path": "Notes/2) Area/GameDev ToDo List.md"
-    },
-    {
       "basename": "MHW Large Monster Checklist",
       "path": "Notes/2) Area/MHW Large Monster Checklist.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Mathematics",
       "path": "Notes/3) Resource/Unsorted/Mathematics.md"
-    },
-    {
-      "basename": "Logic",
-      "path": "Notes/3) Resource/Unsorted/Logic.md"
-    },
-    {
-      "basename": "Superfest Glass",
-      "path": "Notes/3) Resource/Unsorted/Superfest Glass.md"
-    },
-    {
-      "basename": "Political Philosophy",
-      "path": "Notes/3) Resource/Unsorted/Political Philosophy.md"
     }
   ],
   "omittedPaths": [],

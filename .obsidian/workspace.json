@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "11ddebf74292eefc",
+        "id": "5eff6ef16eee429c",
         "type": "tabs",
         "children": [
           {
-            "id": "7ed2af6740610696",
+            "id": "6ce5571eabafcd3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2) Area/$ Area Sorted $.md",
+                "file": "Notes/2) Area/Books.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "98a9771f47961a38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bleaching Hair.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bleaching Hair.md"
+                "file": "Notes/2) Area/Books.md"
               }
             }
           },
@@ -177,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Bleaching Hair.md"
+                "file": "Notes/2) Area/Books.md"
               }
             }
           },
@@ -199,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bleaching Hair.md",
+                "file": "Notes/2) Area/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bleaching Hair.md",
+                "file": "Notes/2) Area/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,36 +232,36 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "98a9771f47961a38",
+  "active": "6ce5571eabafcd3a",
   "lastOpenFiles": [
     "Notes/2) Area/$ Area Sorted $.md",
-    "Bleaching Hair.md",
+    "Notes/2) Area/Headphones & IEMs.md",
+    "Notes/2) Area/GameDev ToDo List.md",
+    "Notes/2) Area/Philosphy Books To Read.md",
+    "Notes/2) Area/Weird Animals.md",
+    "Notes/2) Area/Leaving Cert Orals.md",
+    "Notes/2) Area/KeyTerms.md",
     "Notes/2) Area/$ Area Masterlist $.md",
+    "Notes/2) Area/Bleaching Hair.md",
+    "Notes/How to use Obsidian.md",
+    "Pasted image 20240513145647.png",
+    "Pasted image 20240513145645.png",
+    "Notes/2) Area/English Study.md",
+    "Notes/2) Area/Steam Custom Launch.md",
     "Notes/2) Area/Cheeses.md",
     "Notes/2) Area/Wishlist Other.md",
     "Notes/2) Area/Tattoos.md",
     "Notes/1) Project/道德经 Study.md",
     "Notes/2) Area/Books.md",
-    "Notes/2) Area/English Study.md",
     "Notes/3) Resource/Unsorted/Aesthetics.md",
     "Notes/2) Area/Alcohol.md",
-    "Notes/2) Area/KeyTerms.md",
     "Notes/2) Area/Guitars.md",
-    "Notes/How to use Obsidian.md",
     "Notes/3) Resource/道德经 - 第三章.md",
-    "Pasted image 20240513145645.png",
-    "Pasted image 20240513145647.png",
     "Notes/2) Area/Quotes.md",
     "Notes/3) Resource/Unsorted/2014 Isla Vista Massacre.md",
     "Notes/3) Resource/$ Resource Masterlist $.md",
     "Notes/3) Resource/Abolition.md",
     "Notes/3) Resource/Agronomist.md",
-    "Notes/3) Resource/Communism.md",
-    "Notes/3) Resource/Déjà Rêvé.md",
-    "Notes/3) Resource/Presque Vu.md",
-    "Notes/3) Resource/Philosophy.md",
-    "Notes/3) Resource/Nikolai Vavilov.md",
-    "Notes/3) Resource/Nationalism.md",
     "Media, Pictures, Gifs/AKG K371-BT.png",
     "Notes/3) Resource/Unsorted",
     "Notes/3) Resource",

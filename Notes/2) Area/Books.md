@@ -3,12 +3,13 @@ Tr.  |  Translator
 
 ### InProgress
 - **Laozi | Tr. Jeff Pepper** - DaoDeJing in Clear English (*7,800*)
+- **George Cowell** - Nineteen Eighty-Four (*89,000*)
 
 ### OnHold
 - **Plato** - The Republic (*135,250*)
 - **Plutarch** - The Age Of Alexander (*156,000*)
 - **Arrian** - The Campaigns of Alexander (*108,000*)
-- **Antoine De Saint-Exupéry** - The Little Prince (*24,500)
+- **Antoine De Saint-Exupéry** - The Little Prince (*24,500*)
 - **Wu Cheng'en** - Journey to the West (*480,000*)
 - **Luo Guanzhong** - Romance of the Three Kingdoms (*585,000*)
 - **Friedrich Nietzsche** - Twilight of the Idols (*26,000*)
@@ -20,28 +21,6 @@ Tr.  |  Translator
 - **Jenny Downham** - Before I Die (*69,500*)
 - **Sun Tzu** - Art of War (*17,000*)
 - **Shi Nai'an** - The Water Margin Outlaws of the Marsh (*681,000*)
-- - **Franz Kafka** - Contemplation (*8,000*)
-	- [ ] Children on the Road
-	- [ ] Unmasking a Confidence Trickster
-	- [ ] The Sudden Walk
-	- [ ] Resolutions
-	- [ ] The Excursion into the Mountains
-	- [ ] The Pliught of the Bachelor
-	- [ ] The Businessman
-	- [ ] Looking out Distractedly
-	- [ ] The Way Home
-	- [ ] The Men Running Past
-	- [ ] The Passenger
-	- [ ] Dresses
-	- [ ] The Rejecti0on
-	- [ ] For the Consideration of Amateur Jockeys
-	- [ ] The window on the Street
-	- [ ] Desire to be a Red Indian
-	- [ ] The Trees
-	- [ ] Being Unhappy
-- **Franz Kafka** - The Judgement (*4,500*)
-- **Franz Kafka** - The Stoker (*8,500*)
-- **Franz Kafka** - Metamorphosis (*17,000*)
 - **Franz Kafka** - In the Penal Colony (*12,000*)
 - **Franz Kafka** - A Country Doctor: Short Prose for my Father (*12,000*)
 	- [ ] The New Advocate
@@ -63,18 +42,43 @@ Tr.  |  Translator
 	- [ ] A Little Woman
 	- [ ] A Hunger-Artist
 	- [ ] Josefine, the Singer, or The Mouse People
-- **George Cowell** - Nineteen Eighty-Four (*89,000*)
-- 
-### Finished
-- **Andy Mulligan** - Trash (*60,000*)
-- **S. E. Hinton** - The Outsiders (*57,000*)
-- **Yan Lianke** - The Day the Sun Died (*127,000*)
-- **Osamu Dazai** - No Longer Human (*44,000*)
-- **John Steinbeck** - Of Mice and Men (*34,000*)
-- **Karl Marx & Friedrich Engels** - The Communist Manifesto (*4,000*)
+
+### Reread
 - **Homer** - The Odyssey (*180,000*)
 - **Virgil** - The Aeneid (*140,000*)
 - **Euripides** - Medea (*15,000*)
+
+### Finished
+- **Andy Mulligan** - Trash (*60,000*)
+- **John Steinbeck** - Of Mice and Men (*34,000*)
+- **S. E. Hinton** - The Outsiders (*57,000*)
+- **Yan Lianke** - The Day the Sun Died (*127,000*)
+- **Osamu Dazai** - No Longer Human (*44,000*)
+- **Karl Marx & Friedrich Engels** - The Communist Manifesto (*4,000*)
+- **Franz Kafka** - Metamorphosis (*17,000*)
+- **Franz Kafka** - Contemplation (*8,000*)
+	- [x] Children on the Road
+	- [x] Unmasking a Confidence Trickster
+	- [x] The Sudden Walk
+	- [x] Resolutions
+	- [x] The Excursion into the Mountains
+	- [x] The Pliught of the Bachelor
+	- [x] The Businessman
+	- [x] Looking out Distractedly
+	- [x] The Way Home
+	- [x] The Men Running Past
+	- [x] The Passenger
+	- [x] Dresses
+	- [x] The Rejecti0on
+	- [x] For the Consideration of Amateur Jockeys
+	- [x] The window on the Street
+	- [x] Desire to be a Red Indian
+	- [x] The Trees
+	- [x] Being Unhappy
+- **Franz Kafka** - The Judgement (*4,500*)
+- **Franz Kafka** - The Stoker (*8,500*)
+- **Tara Westover** - Educated
+- **Brian Frield** - Philadelphia Here I come
 
 ### ToBuy/Planning
 ##### Philosophy
@@ -105,25 +109,39 @@ Tr.  |  Translator
 ##### Autobiographies
 - **Shen fu** - Six Records of a Floating Life (*55,000*)
 ##### Fiction
+- **Jane Austen** - Pride and Prejudice
+- **Anne Frank** - The Diary of a Young Girl
+- **Anne Frank** - Tales From the Secret Annex
+- **F. Scott Fitzgerald** - The Great Gatsby
 - **Cormac MacCarthy** - Blood Meridian (*87,000*)
+- **Frank Herbert** - Dune
 - **Osamu Dazai** - The Setting Sun (*48,000*)
+- **Ray Bradbury** - Fahrenheit 451
+- **Bram Stoker** - Dracula
+- **Mary Shelly** - Frankenstein
+- **Neil Gaiman** - Sandman
+- **Rebecca Skloot** - The Immortal Life of Henrietta Lacks
 -  **Yevgeny Zamyatin** - We (*55,000*)
-	*Distopian Future
-- **Franz Kafka** - The Metamorphosis (*22,000*)
+	Distopian Future
 - **Homer** - Illiad (*88,000*)
 - **James Joyce** - Ulysses (*168,000*)
 - **Shelley Parker-Chan** - She Who Became the Sun (*125,550*)
 - **Shelley Parker-Chan** - He Who Drowned the World (*177,000*)
 - **Fyodor Dostoevsky** - Crime and Punishment
 - **Fyodor Dostoevsky** - The Brothers Karamazov
+- **J.R.R Tolkien** - The Hobbit
+- **J.R.R Tolkien** - The Fellowship of the Ring
+- **J.R.R Tolkien** - The Two Towers
+- **J.R.R Tolkien** - The Return of the King
 ##### Science/History
 - **Nikolai Vavilov** - Origin and Geography of Cultivated Plants
 - Voynich Manuscript
+- **Carlo Rovelli** - Seven Brief Lessons on Physics
 
+##### Misc Authors (Non Researched)
+- **Yukio Mishima**
+	Post war Japan author
 
----
-
-<br>
 
 ---
 ### **Childhood Books**
@@ -160,13 +178,6 @@ Tr.  |  Translator
 - **Francesca Simon** - Horrid Henry's Nightmare
 - **Francesca Simon** - Horrid Henry's Krazy Ketchup
 - **Francesca Simon** - Horrid Henry's Cannibal Curse
-- **J. K. Rowling** - Harry Potter and the Philosopher's Stone
-- **J. K. Rowling** - Harry Potter and the Chamber of Secrets
-- **J. K. Rowling** - Harry Potter and the Prisoner of Azkaban
-- **J. K. Rowling** - Harry Potter and the Goblet of Fire
-- **J. K. Rowling** - Harry Potter and the Order of the Phoenix
-- **J. K. Rowling** - Harry Potter and the Half-Blood Prince
-- **J. K. Rowling** - Harry Potter and the Deathly Hallows
 - **Jim Halligan** - Diabolic Downloads
 - **Liz Pichon** - Tom Gates
 - **Maeve friel** - The Lantern Moon
