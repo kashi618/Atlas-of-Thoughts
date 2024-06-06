@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Guitars",
+      "path": "Notes/2) Area/Guitars.md"
+    },
+    {
       "basename": "Books",
       "path": "Notes/2) Area/Books.md"
+    },
+    {
+      "basename": "Nylon Acoustic-Electricc",
+      "path": "Nylon Acoustic-Electricc.md"
+    },
+    {
+      "basename": "English Study",
+      "path": "Notes/2) Area/English Study.md"
+    },
+    {
+      "basename": "Cheeses",
+      "path": "Notes/2) Area/Cheeses.md"
+    },
+    {
+      "basename": "Elden Ring Quest Guide",
+      "path": "Notes/2) Area/Elden Ring Quest Guide.md"
+    },
+    {
+      "basename": "KeyTerms",
+      "path": "Notes/2) Area/KeyTerms.md"
+    },
+    {
+      "basename": "Leaving Cert Orals",
+      "path": "Notes/2) Area/Leaving Cert Orals.md"
+    },
+    {
+      "basename": "Philosphy Books To Read",
+      "path": "Notes/2) Area/Philosphy Books To Read.md"
+    },
+    {
+      "basename": "Statues, Busts, etc",
+      "path": "Notes/2) Area/Statues, Busts, etc.md"
+    },
+    {
+      "basename": "道德经 Study",
+      "path": "Notes/1) Project/道德经 Study.md"
+    },
+    {
+      "basename": "Currently Playing Games",
+      "path": "Notes/1) Project/Currently Playing Games.md"
+    },
+    {
+      "basename": "Quotes",
+      "path": "Notes/2) Area/Quotes.md"
     },
     {
       "basename": "$ Area Sorted $",
@@ -17,20 +65,8 @@
       "path": "Notes/2) Area/GameDev ToDo List.md"
     },
     {
-      "basename": "Philosphy Books To Read",
-      "path": "Notes/2) Area/Philosphy Books To Read.md"
-    },
-    {
       "basename": "Weird Animals",
       "path": "Notes/2) Area/Weird Animals.md"
-    },
-    {
-      "basename": "Leaving Cert Orals",
-      "path": "Notes/2) Area/Leaving Cert Orals.md"
-    },
-    {
-      "basename": "KeyTerms",
-      "path": "Notes/2) Area/KeyTerms.md"
     },
     {
       "basename": "$ Area Masterlist $",
@@ -45,16 +81,8 @@
       "path": "Notes/How to use Obsidian.md"
     },
     {
-      "basename": "English Study",
-      "path": "Notes/2) Area/English Study.md"
-    },
-    {
       "basename": "Steam Custom Launch",
       "path": "Notes/2) Area/Steam Custom Launch.md"
-    },
-    {
-      "basename": "Cheeses",
-      "path": "Notes/2) Area/Cheeses.md"
     },
     {
       "basename": "Wishlist Other",
@@ -65,10 +93,6 @@
       "path": "Notes/2) Area/Tattoos.md"
     },
     {
-      "basename": "道德经 Study",
-      "path": "Notes/1) Project/道德经 Study.md"
-    },
-    {
       "basename": "Aesthetics",
       "path": "Notes/3) Resource/Unsorted/Aesthetics.md"
     },
@@ -77,16 +101,8 @@
       "path": "Notes/2) Area/Alcohol.md"
     },
     {
-      "basename": "Guitars",
-      "path": "Notes/2) Area/Guitars.md"
-    },
-    {
       "basename": "道德经 - 第三章",
       "path": "Notes/3) Resource/道德经 - 第三章.md"
-    },
-    {
-      "basename": "Quotes",
-      "path": "Notes/2) Area/Quotes.md"
     },
     {
       "basename": "2014 Isla Vista Massacre",
@@ -183,22 +199,6 @@
     {
       "basename": "French Revolution",
       "path": "Notes/3) Resource/Unsorted/French Revolution.md"
-    },
-    {
-      "basename": "Ethics",
-      "path": "Notes/3) Resource/Unsorted/Ethics.md"
-    },
-    {
-      "basename": "Communist Manifesto - Karl Marx, Freidrich Engels",
-      "path": "Notes/3) Resource/Unsorted/Communist Manifesto - Karl Marx, Freidrich Engels.md"
-    },
-    {
-      "basename": "$ ToDo list $",
-      "path": "Notes/1) Project/$ ToDo list $.md"
-    },
-    {
-      "basename": "Mathematics",
-      "path": "Notes/3) Resource/Unsorted/Mathematics.md"
     }
   ],
   "omittedPaths": [],

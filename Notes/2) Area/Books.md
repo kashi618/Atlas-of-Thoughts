@@ -109,6 +109,7 @@ Tr.  |  Translator
 ##### Autobiographies
 - **Shen fu** - Six Records of a Floating Life (*55,000*)
 ##### Fiction
+- **George Orwell** - Animal Farm
 - **Jane Austen** - Pride and Prejudice
 - **Anne Frank** - The Diary of a Young Girl
 - **Anne Frank** - Tales From the Secret Annex
@@ -117,6 +118,9 @@ Tr.  |  Translator
 - **Frank Herbert** - Dune
 - **Osamu Dazai** - The Setting Sun (*48,000*)
 - **Ray Bradbury** - Fahrenheit 451
+- **Stephen King** - The Shining
+- **Stephen King** - IT
+- **Stephen King** - 11/22/63
 - **Bram Stoker** - Dracula
 - **Mary Shelly** - Frankenstein
 - **Neil Gaiman** - Sandman
@@ -133,12 +137,20 @@ Tr.  |  Translator
 	- [ ] The Hobbit
 	- [ ] The Fellowship of the Ring
 	- [ ] The Two Towers
-	- [ ] The Return of the King
+	- [ ] The Return of the King#
+- **George R.R Martin** - A Song of Ice and Fire
+	- [ ] A Game of Thrones
+	- [ ] A Clash of Kinds
+	- [ ] A Storm of Swords
+	- [ ] A Feast for Crows
+	- [ ] A Dance with Dragons
+	- [ ] The Winds of Winter
+	- [ ] A Dream of Springs
 ##### Science/History
 - **Nikolai Vavilov** - Origin and Geography of Cultivated Plants
 - Voynich Manuscript
 - **Carlo Rovelli** - Seven Brief Lessons on Physics
-
+- **Stephen Hawking** - A Brief History of Time
 ##### Misc Authors (Non Researched)
 - **Yukio Mishima**
 	Post war Japan author

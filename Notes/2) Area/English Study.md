@@ -1,3 +1,8 @@
+# Index
+
+[[#5 Language Types (Paper 1 Question A iii)]]
+[[#Poetry]]
+
 ## 5 Language Types (Paper 1 Question A iii) 
 
 - [[#Language of Information]]
@@ -5,6 +10,7 @@
 - [[#Language of Persuasion]]
 - [[#Language of Narration]]
 - [[#Aesthetic Language]]
+
 ### Language of Information 
 
  **Purpose:** 
@@ -100,3 +106,39 @@ To bring life to a piece of writing
 - Discursive essays
 - Speeches
 - Articles
+
+## Poetry
+
+[[#Sylvia Plath]]
+[[#Emily Dickinson]]
+[[#William Butler Yeats]]
+
+### Sylvia Plath
+- Poppies in July
+- Morning Song
+- Child
+- Mirror
+- The Arrival of the Bee box
+
+
+#### Poppies in July
+
+- Misleading title. Poppies are a universal symbol for hope and peace. However, it is about tryign to escape.
+- *"Little poppies, little hell flames"*. Angry tone, references hell/
+- *"Do you do no harm?"*. Rhetorical questions, interpreting the poppies as dangerous.
+- *"Where are your opiates, your nauseous capsules"*. Plath wishes for the tranquillizing effects of opium
+- *"Bloodied mouths"* and *"but colourless, colourless"*.
+
+### Emily Dickinson
+- I felt a Funeral, in my Brain
+- "Hope" is the thing with feathers
+- The Soul has Sandaged moments
+- I heard a Fly buss when I died
+- A narrow Fellow in the Grass
+
+### William Butler Yeats
+- The lake isle of Innisfree
+- The wild swans at coole
+- Sailing to Byzantium
+- September 1913
+- Easter 1916

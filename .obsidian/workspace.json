@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5eff6ef16eee429c",
+        "id": "ed22e0e6ebe529c2",
         "type": "tabs",
         "children": [
           {
-            "id": "6ce5571eabafcd3a",
+            "id": "285420b4e9cb4611",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2) Area/Books.md",
-                "mode": "source",
+                "file": "Notes/2) Area/Guitars.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2) Area/Books.md"
+                "file": "Notes/2) Area/Guitars.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/2) Area/Books.md"
+                "file": "Notes/2) Area/Guitars.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2) Area/Books.md",
+                "file": "Notes/2) Area/Guitars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2) Area/Books.md",
+                "file": "Notes/2) Area/Guitars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,36 +232,36 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6ce5571eabafcd3a",
+  "active": "285420b4e9cb4611",
   "lastOpenFiles": [
+    "Notes/2) Area/Books.md",
+    "Nylon Acoustic-Electricc.md",
+    "Notes/2) Area/Guitars.md",
+    "Notes/2) Area/English Study.md",
+    "Notes/2) Area/Cheeses.md",
+    "Notes/2) Area/Elden Ring Quest Guide.md",
+    "Notes/2) Area/KeyTerms.md",
+    "Notes/2) Area/Leaving Cert Orals.md",
+    "Notes/2) Area/Philosphy Books To Read.md",
+    "Notes/2) Area/Statues, Busts, etc.md",
+    "Notes/1) Project/道德经 Study.md",
+    "Notes/1) Project/Currently Playing Games.md",
+    "Notes/2) Area/Quotes.md",
     "Notes/2) Area/$ Area Sorted $.md",
     "Notes/2) Area/Headphones & IEMs.md",
     "Notes/2) Area/GameDev ToDo List.md",
-    "Notes/2) Area/Philosphy Books To Read.md",
     "Notes/2) Area/Weird Animals.md",
-    "Notes/2) Area/Leaving Cert Orals.md",
-    "Notes/2) Area/KeyTerms.md",
     "Notes/2) Area/$ Area Masterlist $.md",
     "Notes/2) Area/Bleaching Hair.md",
     "Notes/How to use Obsidian.md",
     "Pasted image 20240513145647.png",
     "Pasted image 20240513145645.png",
-    "Notes/2) Area/English Study.md",
     "Notes/2) Area/Steam Custom Launch.md",
-    "Notes/2) Area/Cheeses.md",
     "Notes/2) Area/Wishlist Other.md",
     "Notes/2) Area/Tattoos.md",
-    "Notes/1) Project/道德经 Study.md",
-    "Notes/2) Area/Books.md",
     "Notes/3) Resource/Unsorted/Aesthetics.md",
     "Notes/2) Area/Alcohol.md",
-    "Notes/2) Area/Guitars.md",
     "Notes/3) Resource/道德经 - 第三章.md",
-    "Notes/2) Area/Quotes.md",
-    "Notes/3) Resource/Unsorted/2014 Isla Vista Massacre.md",
-    "Notes/3) Resource/$ Resource Masterlist $.md",
-    "Notes/3) Resource/Abolition.md",
-    "Notes/3) Resource/Agronomist.md",
     "Media, Pictures, Gifs/AKG K371-BT.png",
     "Notes/3) Resource/Unsorted",
     "Notes/3) Resource",
