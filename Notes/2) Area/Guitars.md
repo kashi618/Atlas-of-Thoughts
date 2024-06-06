@@ -18,6 +18,9 @@
 - **Eart GW2 Headless, Purple Satin Finish**
 ![|330](https://i.imgur.com/CBheK0x.png)
 
+- **Eart GW2 Headless, Blue Satin Finish**
+![|330](https://i.imgur.com/Ovg4R3r.png)
+
 - **Ibanez QX527PE**
 ![|480](https://i.imgur.com/1v8XHB3.png)
 
