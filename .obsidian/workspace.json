@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/2) Area/English Study.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -213,8 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5,
-    "collapsed": true
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
