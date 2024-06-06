@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/2) Area/English Study.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -233,10 +234,10 @@
   },
   "active": "285420b4e9cb4611",
   "lastOpenFiles": [
+    "Notes/2) Area/English Study.md",
     "Notes/2) Area/Guitars.md",
     "Notes/2) Area/Books.md",
     "Nylon Acoustic-Electricc.md",
-    "Notes/2) Area/English Study.md",
     "Notes/2) Area/Cheeses.md",
     "Notes/2) Area/Elden Ring Quest Guide.md",
     "Notes/2) Area/KeyTerms.md",
