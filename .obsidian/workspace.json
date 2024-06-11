@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "285420b4e9cb4611",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2) Area/$ Area Sorted $.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5881849ed52dd5cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2) Area/Rechargeable Battery Datasheet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "26455f1977874fbe",
             "type": "leaf",
             "state": {
@@ -58,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c97445bd9eaddfbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2) Area/Elden Ring Checklist.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2) Area/Windows 11 MISC.md"
+                "file": "Notes/2) Area/Elden Ring Checklist.md"
               }
             }
           },
@@ -203,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/2) Area/Windows 11 MISC.md"
+                "file": "Notes/2) Area/Elden Ring Checklist.md"
               }
             }
           },
@@ -225,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2) Area/Windows 11 MISC.md",
+                "file": "Notes/2) Area/Elden Ring Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2) Area/Windows 11 MISC.md",
+                "file": "Notes/2) Area/Elden Ring Checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +240,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 360.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,36 +259,36 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d828e5b8bc561a69",
+  "active": "c97445bd9eaddfbc",
   "lastOpenFiles": [
-    "Notes/2) Area/$ Area Sorted $.md",
+    "Notes/2) Area/Elden Ring Quest Guide.md",
+    "Notes/2) Area/English Study.md",
+    "Notes/2) Area/KeyTerms.md",
+    "Notes/2) Area/Pancakes & Crepes.md",
     "Notes/2) Area/Windows 11 MISC.md",
+    "Notes/How to use Obsidian.md",
+    "Templates/3) Resource/Character Profile Philosophy.md",
+    "Notes/2) Area/Elden Ring Checklist.md",
+    "Notes/2) Area/$ Area Sorted $.md",
+    "Notes/2) Area/Weird Animals.md",
+    "Notes/2) Area/Cheeses.md",
+    "Notes/2) Area/Chinese Foods, Snacks, Drinks.md",
+    "Notes/2) Area/Leaving Cert Orals.md",
+    "Notes/2) Area/MHW Large Monster Checklist.md",
+    "Notes/2) Area/Quotes.md",
+    "Notes/2) Area/Statues, Busts, etc.md",
+    "Notes/2) Area/Guitars.md",
+    "Notes/2) Area/Dark Souls Remastered Quest Guide.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Nylon Acoustic-Electricc.md",
     "Notes/2) Area/Rechargeable Battery Datasheet.md",
-    "Notes/2) Area/English Study.md",
-    "Notes/2) Area/Guitars.md",
     "Notes/2) Area/Books.md",
-    "Notes/2) Area/Cheeses.md",
-    "Notes/2) Area/Elden Ring Quest Guide.md",
-    "Notes/2) Area/KeyTerms.md",
-    "Notes/2) Area/Leaving Cert Orals.md",
     "Notes/2) Area/Philosphy Books To Read.md",
-    "Notes/2) Area/Statues, Busts, etc.md",
     "Notes/1) Project/道德经 Study.md",
     "Notes/1) Project/Currently Playing Games.md",
-    "Notes/2) Area/Quotes.md",
     "Notes/2) Area/Headphones & IEMs.md",
-    "Notes/2) Area/GameDev ToDo List.md",
-    "Notes/2) Area/Weird Animals.md",
-    "Notes/2) Area/$ Area Masterlist $.md",
-    "Notes/2) Area/Bleaching Hair.md",
-    "Notes/How to use Obsidian.md",
     "Pasted image 20240513145647.png",
     "Pasted image 20240513145645.png",
-    "Notes/2) Area/Steam Custom Launch.md",
-    "Notes/2) Area/Wishlist Other.md",
     "Media, Pictures, Gifs/AKG K371-BT.png",
     "Notes/3) Resource/Unsorted",
     "Notes/3) Resource",

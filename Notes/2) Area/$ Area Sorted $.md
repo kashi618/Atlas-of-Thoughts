@@ -8,6 +8,7 @@
 
 - [[Dark Souls Remastered Quest Guide]]
 - [[Elden Ring Quest Guide]]
+- [[Elden Ring Checklist]]
 - [[MHW Large Monster Checklist]]
 ---
 <center><h2>School Related</h2></center>

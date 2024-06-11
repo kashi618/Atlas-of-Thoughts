@@ -1,52 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "Windows 11 MISC",
-      "path": "Notes/2) Area/Windows 11 MISC.md"
-    },
-    {
-      "basename": "$ Area Sorted $",
-      "path": "Notes/2) Area/$ Area Sorted $.md"
-    },
-    {
-      "basename": "Rechargeable Battery Datasheet",
-      "path": "Notes/2) Area/Rechargeable Battery Datasheet.md"
-    },
-    {
-      "basename": "English Study",
-      "path": "Notes/2) Area/English Study.md"
-    },
-    {
-      "basename": "Guitars",
-      "path": "Notes/2) Area/Guitars.md"
-    },
-    {
-      "basename": "Books",
-      "path": "Notes/2) Area/Books.md"
-    },
-    {
-      "basename": "Cheeses",
-      "path": "Notes/2) Area/Cheeses.md"
+      "basename": "Elden Ring Checklist",
+      "path": "Notes/2) Area/Elden Ring Checklist.md"
     },
     {
       "basename": "Elden Ring Quest Guide",
       "path": "Notes/2) Area/Elden Ring Quest Guide.md"
     },
     {
+      "basename": "English Study",
+      "path": "Notes/2) Area/English Study.md"
+    },
+    {
       "basename": "KeyTerms",
       "path": "Notes/2) Area/KeyTerms.md"
+    },
+    {
+      "basename": "Pancakes & Crepes",
+      "path": "Notes/2) Area/Pancakes & Crepes.md"
+    },
+    {
+      "basename": "Windows 11 MISC",
+      "path": "Notes/2) Area/Windows 11 MISC.md"
+    },
+    {
+      "basename": "How to use Obsidian",
+      "path": "Notes/How to use Obsidian.md"
+    },
+    {
+      "basename": "Character Profile Philosophy",
+      "path": "Templates/3) Resource/Character Profile Philosophy.md"
+    },
+    {
+      "basename": "$ Area Sorted $",
+      "path": "Notes/2) Area/$ Area Sorted $.md"
+    },
+    {
+      "basename": "Weird Animals",
+      "path": "Notes/2) Area/Weird Animals.md"
+    },
+    {
+      "basename": "Cheeses",
+      "path": "Notes/2) Area/Cheeses.md"
+    },
+    {
+      "basename": "Chinese Foods, Snacks, Drinks",
+      "path": "Notes/2) Area/Chinese Foods, Snacks, Drinks.md"
     },
     {
       "basename": "Leaving Cert Orals",
       "path": "Notes/2) Area/Leaving Cert Orals.md"
     },
     {
-      "basename": "Philosphy Books To Read",
-      "path": "Notes/2) Area/Philosphy Books To Read.md"
+      "basename": "MHW Large Monster Checklist",
+      "path": "Notes/2) Area/MHW Large Monster Checklist.md"
+    },
+    {
+      "basename": "Quotes",
+      "path": "Notes/2) Area/Quotes.md"
     },
     {
       "basename": "Statues, Busts, etc",
       "path": "Notes/2) Area/Statues, Busts, etc.md"
+    },
+    {
+      "basename": "Guitars",
+      "path": "Notes/2) Area/Guitars.md"
+    },
+    {
+      "basename": "Dark Souls Remastered Quest Guide",
+      "path": "Notes/2) Area/Dark Souls Remastered Quest Guide.md"
+    },
+    {
+      "basename": "Rechargeable Battery Datasheet",
+      "path": "Notes/2) Area/Rechargeable Battery Datasheet.md"
+    },
+    {
+      "basename": "Books",
+      "path": "Notes/2) Area/Books.md"
+    },
+    {
+      "basename": "Philosphy Books To Read",
+      "path": "Notes/2) Area/Philosphy Books To Read.md"
     },
     {
       "basename": "道德经 Study",
@@ -57,10 +93,6 @@
       "path": "Notes/1) Project/Currently Playing Games.md"
     },
     {
-      "basename": "Quotes",
-      "path": "Notes/2) Area/Quotes.md"
-    },
-    {
       "basename": "Headphones & IEMs",
       "path": "Notes/2) Area/Headphones & IEMs.md"
     },
@@ -69,20 +101,12 @@
       "path": "Notes/2) Area/GameDev ToDo List.md"
     },
     {
-      "basename": "Weird Animals",
-      "path": "Notes/2) Area/Weird Animals.md"
-    },
-    {
       "basename": "$ Area Masterlist $",
       "path": "Notes/2) Area/$ Area Masterlist $.md"
     },
     {
       "basename": "Bleaching Hair",
       "path": "Notes/2) Area/Bleaching Hair.md"
-    },
-    {
-      "basename": "How to use Obsidian",
-      "path": "Notes/How to use Obsidian.md"
     },
     {
       "basename": "Steam Custom Launch",
@@ -165,10 +189,6 @@
       "path": "Templates/3) Resource/Character Profile.md"
     },
     {
-      "basename": "Character Profile Philosophy",
-      "path": "Templates/3) Resource/Character Profile Philosophy.md"
-    },
-    {
       "basename": "Basic with Tags",
       "path": "Templates/3) Resource/Basic with Tags.md"
     },
@@ -179,18 +199,6 @@
     {
       "basename": "The Republic - Plato",
       "path": "Notes/3) Resource/The Republic - Plato.md"
-    },
-    {
-      "basename": "Socrates",
-      "path": "Notes/3) Resource/Socrates.md"
-    },
-    {
-      "basename": "Chinese Foods, Snacks, Drinks",
-      "path": "Notes/2) Area/Chinese Foods, Snacks, Drinks.md"
-    },
-    {
-      "basename": "MHW Large Monster Checklist",
-      "path": "Notes/2) Area/MHW Large Monster Checklist.md"
     }
   ],
   "omittedPaths": [],
