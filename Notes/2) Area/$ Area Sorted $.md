@@ -48,3 +48,5 @@
 - [[Steam Custom Launch]]
 - [[Philosphy Books To Read]]
 - [[Bleaching Hair]]
+- [[Rechargeable Battery Datasheet]]
+- [[Windows 11 MISC]]

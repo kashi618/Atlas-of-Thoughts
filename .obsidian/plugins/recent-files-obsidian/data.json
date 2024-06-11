@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Windows 11 MISC",
+      "path": "Notes/2) Area/Windows 11 MISC.md"
+    },
+    {
+      "basename": "$ Area Sorted $",
+      "path": "Notes/2) Area/$ Area Sorted $.md"
+    },
+    {
+      "basename": "Rechargeable Battery Datasheet",
+      "path": "Notes/2) Area/Rechargeable Battery Datasheet.md"
+    },
+    {
       "basename": "English Study",
       "path": "Notes/2) Area/English Study.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "Books",
       "path": "Notes/2) Area/Books.md"
-    },
-    {
-      "basename": "Nylon Acoustic-Electricc",
-      "path": "Nylon Acoustic-Electricc.md"
     },
     {
       "basename": "Cheeses",
@@ -51,10 +59,6 @@
     {
       "basename": "Quotes",
       "path": "Notes/2) Area/Quotes.md"
-    },
-    {
-      "basename": "$ Area Sorted $",
-      "path": "Notes/2) Area/$ Area Sorted $.md"
     },
     {
       "basename": "Headphones & IEMs",
@@ -187,18 +191,6 @@
     {
       "basename": "MHW Large Monster Checklist",
       "path": "Notes/2) Area/MHW Large Monster Checklist.md"
-    },
-    {
-      "basename": "Greek Empire",
-      "path": "Notes/3) Resource/Unsorted/Greek Empire.md"
-    },
-    {
-      "basename": "Friedrick Nietzsche",
-      "path": "Notes/3) Resource/Unsorted/Friedrick Nietzsche.md"
-    },
-    {
-      "basename": "French Revolution",
-      "path": "Notes/3) Resource/Unsorted/French Revolution.md"
     }
   ],
   "omittedPaths": [],

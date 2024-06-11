@@ -13,14 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2) Area/English Study.md",
-                "mode": "preview",
+                "file": "Notes/2) Area/$ Area Sorted $.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5881849ed52dd5cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2) Area/Rechargeable Battery Datasheet.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26455f1977874fbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2) Area/$ Area Sorted $.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68b3d3a5da2cee8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2) Area/Windows 11 MISC.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -120,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2) Area/English Study.md"
+                "file": "Notes/2) Area/Windows 11 MISC.md"
               }
             }
           },
@@ -164,7 +203,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/2) Area/English Study.md"
+                "file": "Notes/2) Area/Windows 11 MISC.md"
               }
             }
           },
@@ -186,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2) Area/English Study.md",
+                "file": "Notes/2) Area/Windows 11 MISC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2) Area/English Study.md",
+                "file": "Notes/2) Area/Windows 11 MISC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,12 +271,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "285420b4e9cb4611",
+  "active": "d828e5b8bc561a69",
   "lastOpenFiles": [
+    "Notes/2) Area/$ Area Sorted $.md",
+    "Notes/2) Area/Windows 11 MISC.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Nylon Acoustic-Electricc.md",
+    "Notes/2) Area/Rechargeable Battery Datasheet.md",
     "Notes/2) Area/English Study.md",
     "Notes/2) Area/Guitars.md",
     "Notes/2) Area/Books.md",
-    "Nylon Acoustic-Electricc.md",
     "Notes/2) Area/Cheeses.md",
     "Notes/2) Area/Elden Ring Quest Guide.md",
     "Notes/2) Area/KeyTerms.md",
@@ -247,7 +291,6 @@
     "Notes/1) Project/道德经 Study.md",
     "Notes/1) Project/Currently Playing Games.md",
     "Notes/2) Area/Quotes.md",
-    "Notes/2) Area/$ Area Sorted $.md",
     "Notes/2) Area/Headphones & IEMs.md",
     "Notes/2) Area/GameDev ToDo List.md",
     "Notes/2) Area/Weird Animals.md",
@@ -258,10 +301,6 @@
     "Pasted image 20240513145645.png",
     "Notes/2) Area/Steam Custom Launch.md",
     "Notes/2) Area/Wishlist Other.md",
-    "Notes/2) Area/Tattoos.md",
-    "Notes/3) Resource/Unsorted/Aesthetics.md",
-    "Notes/2) Area/Alcohol.md",
-    "Notes/3) Resource/道德经 - 第三章.md",
     "Media, Pictures, Gifs/AKG K371-BT.png",
     "Notes/3) Resource/Unsorted",
     "Notes/3) Resource",
