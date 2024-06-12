@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2) Area/Elden Ring Checklist.md"
+                "file": "Notes/2) Area/MHW Large Monster Checklist.md"
               }
             }
           },
@@ -216,7 +216,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/2) Area/Elden Ring Checklist.md"
+                "file": "Notes/2) Area/MHW Large Monster Checklist.md"
               }
             }
           },
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2) Area/Elden Ring Checklist.md",
+                "file": "Notes/2) Area/MHW Large Monster Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2) Area/Elden Ring Checklist.md",
+                "file": "Notes/2) Area/MHW Large Monster Checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,10 +285,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e460eb733c47ca40",
+  "active": "c97445bd9eaddfbc",
   "lastOpenFiles": [
-    "Notes/2) Area/MHW Large Monster Checklist.md",
     "Notes/2) Area/Elden Ring Checklist.md",
+    "Notes/2) Area/MHW Large Monster Checklist.md",
     "Notes/2) Area/Elden Ring Quest Guide.md",
     "Notes/2) Area/Leaving Cert Orals.md",
     "Notes/How to use Obsidian.md",
