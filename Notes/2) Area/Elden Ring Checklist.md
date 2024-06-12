@@ -62,181 +62,181 @@
 | Black Knife         |  ✅  |
 
 | Straight Swords            | ☑️✅ |
-| -------------------------- | --- |
-| Short Sword                |     |
-| Longsword                  |     |
-| Breadsword                 |     |
-| Weathered Straight Sword   |     |
-| Lordsworn's Straight Sword |     |
+| -------------------------- | :-: |
+| Short Sword                |  ✅  |
+| Longsword                  |  ✅  |
+| Breadsword                 |  ✅  |
+| Weathered Straight Sword   |  ✅  |
+| Lordsworn's Straight Sword |  ✅  |
 | Noble's Slender Sword      |     |
-| Cane Sword                 |     |
+| Cane Sword                 |  ✅  |
 | Warhawk's Talon            |     |
 | Lazuli Glintstone Sword    |     |
-| Carian Knight's Sword      |     |
-| Crystal Sword              |     |
-| Rotten Crystal Sword       |     |
-| Miquellan Knight's Sword   |     |
-| Ornamental Straight Sword  |     |
-| Golden Epitaph             |     |
+| Carian Knight's Sword      |  ✅  |
+| Crystal Sword              |  ✅  |
+| Rotten Crystal Sword       |  ✅  |
+| Miquellan Knight's Sword   |  ✅  |
+| Ornamental Straight Sword  |  ✅  |
+| Golden Epitaph             |  ✅  |
 | Sword of St Trina          |     |
-| Regalia of Eochaid         |     |
-| Coded Sword                |     |
+| Regalia of Eochaid         |  ✅  |
+| Coded Sword                |  ✅  |
 | Sword of Night and Flame   |     |
 
-| Greatswords                  |     |
+| Greatswords                  | ☑️✅ |
 | ---------------------------- | --- |
-| Bastard Sword                |     |
-| Claymore                     |     |
+| Bastard Sword                | ✅   |
+| Claymore                     | ✅   |
 | Iron Greatsword              |     |
-| Lordsworn's Greatsword       |     |
-| Knight's Greatsword          |     |
-| Banished Knight's Greatsword |     |
+| Lordsworn's Greatsword       | ✅   |
+| Knight's Greatsword          | ✅   |
+| Banished Knight's Greatsword | ✅   |
 | Forked Greatsword            |     |
 | Flamberge                    |     |
-| Gargoyle's Greatsword        |     |
-| Gargoyle's Blackblade        |     |
+| Gargoyle's Greatsword        | ✅   |
+| Gargoyle's Blackblade        | ✅   |
 | Inseparable Sword            |     |
-| Sword of Milos               |     |
-| Marais Executioner's Sword   |     |
-| Ordovis's Greatsword         |     |
-| Alabaster lord's Sword       |     |
-| Death's Poker                |     |
-| Helphen's Steeple            |     |
-| Blasphemous Blade            |     |
-| Golden Order Greatsword      |     |
-| Dark Moon Greatsword         |     |
+| Sword of Milos               | ✅   |
+| Marais Executioner's Sword   | ✅   |
+| Ordovis's Greatsword         | ✅   |
+| Alabaster lord's Sword       | ✅   |
+| Death's Poker                | ✅   |
+| Helphen's Steeple            | ✅   |
+| Blasphemous Blade            | ✅   |
+| Golden Order Greatsword      | ✅   |
+| Dark Moon Greatsword         | ✅   |
 | Sacred Relic Sword           |     |
 
-| Colossal Swords          |     |
+| Colossal Swords          | ☑️✅ |
 | ------------------------ | --- |
-| Zweihander               |     |
-| Greatsword               |     |
+| Zweihander               | ✅   |
+| Greatsword               | ✅   |
 | Watchdog's Greatsword    |     |
-| Troll's Golden Sword     |     |
-| Troll Knight's Sword     |     |
-| Royal Greatsword         |     |
-| Grafted Blade Greatsword |     |
-| Ruins Greatsword         |     |
-| Starscourge Greatsword   |     |
-| Godslayer's Greatsword   |     |
-| Maliketh's Black Blade   |     |
+| Troll's Golden Sword     | ✅   |
+| Troll Knight's Sword     | ✅   |
+| Royal Greatsword         | ✅   |
+| Grafted Blade Greatsword | ✅   |
+| Ruins Greatsword         | ✅   |
+| Starscourge Greatsword   | ✅   |
+| Godslayer's Greatsword   | ✅   |
+| Maliketh's Black Blade   | ✅   |
 
-| Thrusting Swords        |     |
+| Thrusting Swords        | ☑️✅ |
 | ----------------------- | --- |
-| Rapier                  |     |
-| Estoc                   |     |
+| Rapier                  | ✅   |
+| Estoc                   | ✅   |
 | Noble's Estoc           |     |
-| Cleanrot Knight's Sword |     |
-| Rogier's Rapier         |     |
-| Antspur Rapier          |     |
-| Frozen Needle           |     |
+| Cleanrot Knight's Sword | ✅   |
+| Rogier's Rapier         | ✅   |
+| Antspur Rapier          | ✅   |
+| Frozen Needle           | ✅   |
 
-| Heavy Thrusting Swords  |     |
+| Heavy Thrusting Swords  | ☑️✅ |
 | ----------------------- | --- |
-| Great Epee              |     |
-| Godskin Sticher         |     |
-| Bloody Helice           |     |
-| Dragon King's Cragblade |     |
+| Great Epee              | ✅   |
+| Godskin Sticher         | ✅   |
+| Bloody Helice           | ✅   |
+| Dragon King's Cragblade | ✅   |
 
-| Curved Swords              |     |
+| Curved Swords              | ☑️✅ |
 | -------------------------- | --- |
-| Scimitar                   |     |
-| Falchion                   |     |
-| SHamshir                   |     |
+| Scimitar                   | ✅   |
+| Falchion                   | ✅   |
+| Shamshir                   | ✅   |
 | Grossmesser                |     |
-| Bandit's Curved Sword      |     |
-| Shotel                     |     |
-| Scavenger's Curved Sword   |     |
-| Mantis Blade               |     |
+| Bandit's Curved Sword      | ✅   |
+| Shotel                     | ✅   |
+| Scavenger's Curved Sword   | ✅   |
+| Mantis Blade               | ✅   |
 | Beastman's Curved Sword    |     |
-| Flowing Curved Sword       |     |
+| Flowing Curved Sword       | ✅   |
 | Serpent-God's Curved Sword |     |
 | Magma Blade                |     |
-| Nox Flowing Sword          |     |
+| Nox Flowing Sword          | ✅   |
 | Wing of Astel              |     |
-| Eclipse Shotel             |     |
+| Eclipse Shotel             | ✅   |
 
-| Curved Greatswords      |     |
+| Curved Greatswords      | ☑️✅ |
 | ----------------------- | --- |
-| Dismounter              |     |
+| Dismounter              | ✅   |
 | Omen Cleaver            |     |
 | Monk's Flameblade       |     |
 | Beastman's Cleaver      |     |
-| Bloodhound's Fang       |     |
-| Onyx lord's Greatsword  |     |
-| Zamor Curved Sword      |     |
-| Magma Wyrm's Scalesword |     |
-| Morgott's Cursed Sword  |     |
+| Bloodhound's Fang       | ✅   |
+| Onyx lord's Greatsword  | ✅   |
+| Zamor Curved Sword      | ✅   |
+| Magma Wyrm's Scalesword | ✅   |
+| Morgott's Cursed Sword  | ✅   |
 
-| Katanas            |     |
+| Katanas            | ☑️✅ |
 | ------------------ | --- |
-| Uchigatana         |     |
-| Nagakiba           |     |
-| Serpentbone Blade  |     |
-| Meteoric Ore Blade |     |
-| Moonveil           |     |
-| Rivers of Blood    |     |
-| Dragonscale Blade  |     |
-| Hand of Malenia    |     |
+| Uchigatana         | ✅   |
+| Nagakiba           | ✅   |
+| Serpentbone Blade  | ✅   |
+| Meteoric Ore Blade | ✅   |
+| Moonveil           | ✅   |
+| Rivers of Blood    | ✅   |
+| Dragonscale Blade  | ✅   |
+| Hand of Malenia    | ✅   |
 
-| Twinblades              |     |
+| Twinblades              | ☑️✅ |
 | ----------------------- | --- |
 | Twinblade               |     |
-| Twinned Knight Swords   |     |
-| Godskin Peeler          |     |
-| Gargoyle's Twinblade    |     |
-| gargoyle's Black Blades |     |
-| Eleonora's Poleblade    |     |
+| Twinned Knight Swords   | ✅   |
+| Godskin Peeler          | ✅   |
+| Gargoyle's Twinblade    | ✅   |
+| gargoyle's Black Blades | ✅   |
+| Eleonora's Poleblade    | ✅   |
 
-| Axes                |     |
+| Axes                | ☑️✅ |
 | ------------------- | --- |
-| Handaxe             |     |
-| Forked Hatchet      |     |
-| Battle Axe          |     |
+| Handaxe             | ✅   |
+| Forked Hatchet      | ✅   |
+| Battle Axe          | ✅   |
 | Warped Axe          |     |
 | Jawbone Axe         |     |
 | Iron Cleaver        |     |
-| Highland Axe        |     |
+| Highland Axe        | ✅   |
 | Celebrant's Cleaver |     |
-| Sacrificial Axe     |     |
-| Icerind Hatchet     |     |
-| Ripple Blade        |     |
+| Sacrificial Axe     | ✅   |
+| Icerind Hatchet     | ✅   |
+| Ripple Blade        | ✅   |
 | Stormhawk Axe       |     |
-| Rosus' Axe          |     |
+| Rosus' Axe          | ✅   |
 
-| Greataxes                |     |
+| Greataxes                | ☑️✅ |
 | ------------------------ | --- |
-| Greataxe                 |     |
+| Greataxe                 | ✅   |
 | Crescent Moon Axe        |     |
 | Longhaft Axe             |     |
 | Executioner's Greataxe   |     |
 | Great Omenkiller Cleaver |     |
-| Rusted Anchor            |     |
-| Butchering Knife         |     |
-| Gargoyle's Great Axe     |     |
-| Gargoyle's Black Axe     |     |
-| Winged Greathorn         |     |
-| Axe of Godrick           |     |
+| Rusted Anchor            | ✅   |
+| Butchering Knife         | ✅   |
+| Gargoyle's Great Axe     | ✅   |
+| Gargoyle's Black Axe     | ✅   |
+| Winged Greathorn         | ✅   |
+| Axe of Godrick           | ✅   |
 
-| Hammers                    |     |
+| Hammers                    | ☑️✅ |
 | -------------------------- | --- |
-| Club                       |     |
+| Club                       | ✅   |
 | Curved Club                |     |
 | Spiked Club                |     |
-| Stone Club                 |     |
-| Mace                       |     |
-| Morning Star               |     |
-| Warpick                    |     |
-| Hammer                     |     |
-| Monk's Flamemace           |     |
-| Varre's Bouquet            |     |
-| Envoy's Horn               |     |
-| Nox Flowing Hammer         |     |
+| Stone Club                 | ✅   |
+| Mace                       | ✅   |
+| Morning Star               | ✅   |
+| Warpick                    | ✅   |
+| Hammer                     | ✅   |
+| Monk's Flamemace           | ✅   |
+| Varre's Bouquet            | ✅   |
+| Envoy's Horn               | ✅   |
+| Nox Flowing Hammer         | ✅   |
 | Ringed Finger              |     |
-| Scepter of the All-Knowing |     |
-| Marika's Hammer            |     |
+| Scepter of the All-Knowing | ✅   |
+| Marika's Hammer            | ✅   |
 
-| Flails           |     |
+| Flails           | ☑️✅ |
 | ---------------- | --- |
 | Flail            |     |
 | Nightrider Flail |     |
@@ -244,7 +244,7 @@
 | Family Heads     |     |
 | Bastard's Stars  |     |
 
-| Great Hammers              |     |
+| Great Hammers              | ☑️✅ |
 | -------------------------- | --- |
 | Large Club                 |     |
 | Curved Great Club          |     |
@@ -261,7 +261,7 @@
 | Beastclaw Greathammer      |     |
 | Devourer's Scepter         |     |
 
-| Clossal Weapons           |     |
+| Clossal Weapons           | ☑️✅ |
 | ------------------------- | --- |
 | Duelist Greataxe          |     |
 | Rotten Greataxe           |     |
@@ -279,7 +279,7 @@
 | Fallingstar Beast Jaw     |     |
 | Axe of Godfrey            |     |
 
-| Spears                           |     |
+| Spears                           | ☑️✅ |
 | -------------------------------- | --- |
 | Short Spear                      |     |
 | Iron Spear                       |     |
@@ -297,7 +297,7 @@
 | Death Ritual Spear               |     |
 | Bolt of Gransax                  |     |
 
-| Great Spears           |     |
+| Great Spears           | ☑️✅ |
 | ---------------------- | --- |
 | Lance                  |     |
 | Treespear              |     |
@@ -306,7 +306,7 @@
 | Vyke's War Spear       |     |
 | Mohgwyn's Sacred Spear |     |
 
-| Halberds                  |     |
+| Halberds                  | ☑️✅ |
 | ------------------------- | --- |
 | Halberd                   |     |
 | Banished Knight's Halberd |     |
@@ -325,55 +325,121 @@
 | Loretta's War Sickle      |     |
 | Commander's Standard      |     |
 
-| Reapers       |     |
+| Reapers       | ☑️✅ |
 | ------------- | --- |
 | Scythe        |     |
 | Grave Scythe  |     |
 | Halo Scythe   |     |
 | Winged Scythe |     |
 
-| Whips |     |
-| ----- | --- |
-|       |     |
+| Whips                  | ☑️✅ |
+| ---------------------- | --- |
+| Whip                   |     |
+| Thorned Whip           |     |
+| Urumi                  |     |
+| Hoslow's Petal Whip    |     |
+| Magma Whip Candlestick |     |
+| Giant's Red Braid      |     |
 
-| Fists |     |
-| ----- | --- |
-|       |     |
+| Fists                | ☑️✅ |
+| -------------------- | --- |
+| Caestus              |     |
+| Spiked Caestus       |     |
+| Katar                |     |
+| Iron Ball            |     |
+| Star Fist            |     |
+| Clinging Bone        |     |
+| Veteran's Prosthesis |     |
+| Cipher Pata          |     |
+| Grafted Dragon       |     |
 
-| Claws |     |
-| ----- | --- |
-|       |     |
+| Claws            | ☑️✅ |
+| ---------------- | --- |
+| Hookclaws        |     |
+| Bloodhound Claws |     |
+| Venomous Fang    |     |
+| Raptor Talons    |     |
 
-| Light Bows |     |
-| ---------- | --- |
-|            |     |
+| Light Bows           | ☑️✅ |
+| -------------------- | --- |
+| Shortbow             |     |
+| Composite Bow        |     |
+| Red Branch Shortbow  |     |
+| Misbegotten Shortbow |     |
+| Harp Bow             |     |
 
-| Bows |     |
-| ---- | --- |
-|      |     |
+| Bows           | ☑️✅ |
+| -------------- | --- |
+| Longbow        |     |
+| Albinauric Bow |     |
+| Black Bow      |     |
+| Pulley Bow     |     |
+| Horn Bow       |     |
+| Serpent Bow    |     |
+| Erdtree Bow    |     |
 
-| Greatbows |     |
-| --------- | --- |
-|           |     |
+| Greatbows        | ☑️✅ |
+| ---------------- | --- |
+| Greatbow         |     |
+| Golem Greatbow   |     |
+| Erdtree Greatbow |     |
+| Lion Greatbow    |     |
 
-| Crossbows |     |
-| --------- | --- |
-|           |     |
+| Crossbows                   | ☑️✅ |
+| --------------------------- | --- |
+| Soldier's Crossbow          |     |
+| Light Crossbow              |     |
+| Heavy Crossbow              |     |
+| Arbalest                    |     |
+| Crepus's Black-Key Crossbow |     |
+| Pully Crossbow              |     |
+| Full Moon Crossbow          |     |
 
-| Balistas |     |
-| -------- | --- |
-|          |     |
+| Balistas      | ☑️✅ |
+| ------------- | --- |
+| Hand Ballista |     |
+| Jar Cannon    |     |
 
-| Glintstone Staffs |     |
-| ----------------- | --- |
-|                   |     |
+| Glintstone Staffs        | ☑️✅ |
+| ------------------------ | --- |
+| Astrologer's Staff       |     |
+| Glintstone Staff         |     |
+| Academy Glintstone Staff |     |
+| Digger's Staff           |     |
+| Demi-Human Queen's Staff |     |
+| Azur's Glintstone Staff  |     |
+| Lusat's Glintstone Staff |     |
+| Carian Glintstone Staff  |     |
+| Carrian Glintblade Staff |     |
+| Carian Regal Scepter     |     |
+| Albinauric Staff         |     |
+| Staff of Loss            |     |
+| Gelmir Glintstone Staff  |     |
+| Crystal Staff            |     |
+| Rotten Crystal Staff     |     |
+| Meteorite Staff          |     |
+| Staff of the Guilty      |     |
+| Prince of Death's Staff  |     |
 
-| Sacred Seals |     |
-| ------------ | --- |
-|              |     |
+| Sacred Seals          | ☑️✅ |
+| --------------------- | --- |
+| Finger Seal           |     |
+| Erdtree Seal          |     |
+| Golden Order Seal     |     |
+| Gravel Stone Seal     |     |
+| Giant's Seal          |     |
+| Godslayer's Seal      |     |
+| Clawmark Seal         |     |
+| Frenzied Flame Seal   |     |
+| Dragon Communion Seal |     |
 
-| Torches |     |
-| ------- | --- |
-|         |     |
+| Torches               | ☑️✅ |
+| --------------------- | --- |
+| Torch                 |     |
+| Beast-Repellent Torch |     |
+| Steel-Wire Torch      |     |
+| Sentry's Torch        |     |
+| Ghostflame Torch      |     |
+| St Trina's Torch      |     |
 
 ### Armor

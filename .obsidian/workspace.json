@@ -34,38 +34,12 @@
             }
           },
           {
-            "id": "c97445bd9eaddfbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2) Area/MHW Large Monster Checklist.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e460eb733c47ca40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Notes/2) Area/Elden Ring Checklist.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b51d4ccf7c1e12d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/How to use Obsidian.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -172,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2) Area/MHW Large Monster Checklist.md"
+                "file": "Notes/2) Area/Elden Ring Checklist.md"
               }
             }
           },
@@ -216,7 +190,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/2) Area/MHW Large Monster Checklist.md"
+                "file": "Notes/2) Area/Elden Ring Checklist.md"
               }
             }
           },
@@ -238,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2) Area/MHW Large Monster Checklist.md",
+                "file": "Notes/2) Area/Elden Ring Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2) Area/MHW Large Monster Checklist.md",
+                "file": "Notes/2) Area/Elden Ring Checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,10 +259,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c97445bd9eaddfbc",
+  "active": "e460eb733c47ca40",
   "lastOpenFiles": [
-    "Notes/2) Area/Elden Ring Checklist.md",
+    "Notes/2) Area/Windows 11 MISC.md",
     "Notes/2) Area/MHW Large Monster Checklist.md",
+    "Notes/2) Area/Elden Ring Checklist.md",
     "Notes/2) Area/Elden Ring Quest Guide.md",
     "Notes/2) Area/Leaving Cert Orals.md",
     "Notes/How to use Obsidian.md",
@@ -296,7 +271,6 @@
     "Notes/2) Area/English Study.md",
     "Notes/2) Area/KeyTerms.md",
     "Notes/2) Area/Pancakes & Crepes.md",
-    "Notes/2) Area/Windows 11 MISC.md",
     "Templates/3) Resource/Character Profile Philosophy.md",
     "Notes/2) Area/$ Area Sorted $.md",
     "Notes/2) Area/Weird Animals.md",
