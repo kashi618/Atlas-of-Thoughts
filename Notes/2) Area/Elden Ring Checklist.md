@@ -48,7 +48,7 @@
 | Parrying Dagger     |  ✅  |
 | Misericorde         |  ✅  |
 | Great Knife         |     |
-| Bloodstained Dagger |     |
+| Bloodstained Dagger |  ✅  |
 | Erdsteel Dagger     |  ✅  |
 | Wakizashi           |  ✅  |
 | Celebrant's Sickle  |     |
@@ -61,7 +61,7 @@
 | Blade of Calling    |     |
 | Black Knife         |  ✅  |
 
-| **Straight Swords**            | ☑️✅ |
+| **Straight Swords**        | ☑️✅ |
 | -------------------------- | :-: |
 | Short Sword                |  ✅  |
 | Longsword                  |  ✅  |
@@ -71,7 +71,7 @@
 | Noble's Slender Sword      |     |
 | Cane Sword                 |  ✅  |
 | Warhawk's Talon            |     |
-| Lazuli Glintstone Sword    |     |
+| Lazuli Glintstone Sword    |  ✅  |
 | Carian Knight's Sword      |  ✅  |
 | Crystal Sword              |  ✅  |
 | Rotten Crystal Sword       |  ✅  |
@@ -83,7 +83,7 @@
 | Coded Sword                |  ✅  |
 | Sword of Night and Flame   |     |
 
-| **Greatswords**                  | ☑️✅ |
+| **Greatswords**              | ☑️✅ |
 | ---------------------------- | :-: |
 | Bastard Sword                |  ✅  |
 | Claymore                     |  ✅  |
@@ -195,7 +195,7 @@
 | Battle Axe          |  ✅  |
 | Warped Axe          |     |
 | Jawbone Axe         |     |
-| Iron Cleaver        |     |
+| Iron Cleaver        |  ✅  |
 | Highland Axe        |  ✅  |
 | Celebrant's Cleaver |     |
 | Sacrificial Axe     |  ✅  |
@@ -290,6 +290,7 @@
 | Cross-Naginata         |  ✅  |
 | Clayman's Harpoon      |     |
 | Celebrant's Rib-Rake   |     |
+| Torchpole              |  ✅  |
 | Inquisitor's Girandole |  ✅  |
 | Crystal Spear          |     |
 | Rotten Crystal Spear   |     |
@@ -378,7 +379,7 @@
 | Serpent Bow    |  ✅  |
 | Erdtree Bow    |  ✅  |
 
-| Greatbows        | ☑️✅ |
+| **Greatbows**    | ☑️✅ |
 | ---------------- | :-: |
 | Greatbow         |  ✅  |
 | Golem Greatbow   |     |

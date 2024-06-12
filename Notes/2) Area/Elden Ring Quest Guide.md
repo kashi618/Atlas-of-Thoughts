@@ -16,7 +16,7 @@ It's generally a good idea to start by heading toward the map for each zone. (Th
 - Enter Murkwater Cave near where you fought Nerijus. In the last room, open the chest and fight **Patches** until he surrenders. Then, stop and exhaust his dialogue. Reload the area and exhaust his dialogue. Then open the other chest nearby, which will transport you to Mistwood. Head North to the Third Church of Marika. Fast travel back to Murkwater Cave and talk to **Patches** again. Attack **Patches** until he starts fighting back. Avoid him until he gives you a gesture, then use that gesture. Then, reload the area and speak to Patches again.
 - After you hear howling in the Mistwood, return to the Church of Elleh and speak to **Merchant Kale**. Then, go back to where you heard the howling, and use the gesture. Find **Blaidd** in the Mistwood Ruins nearby (avoid waking up the giant bear). Then, speak to **Kale** again
 - On a ruin near the Mistwood Outskirts, find **Kenneth Haight.** He will ask you to clear Fort Haight, in the South East. Once you’ve cleared Fort Haight, return and talk to him. Then, go back to Fort Haight and talk to him there.
-- Summon **Blaidd** to help you defeat the Forlorn Hound Evergael in Southern Liurnia. Then speak to him outside of the Evergael.
+- Summon **Blaidd** to help you defeat the Forlorn Hound Evergael in Southern Limgrave. Then speak to him outside of the Evergael.
 
 ## Weeping Peninsula
 - Meet **Irina** past the Bridge of Sacrifice on the way to the Weeping Peninsula and accept a letter
@@ -39,7 +39,7 @@ It's generally a good idea to start by heading toward the map for each zone. (Th
 - Meet **Gatekeeper Gostoc** near the castle gates. The safest way to enter is through the path he provides, but he will have them open the gates, if you’d rather rush through the danger. (Note that he steals 30% of your runes every time you die, which you can only get back by killing him at the end of the castle. However, if you don’t kill him, he will sell a very valuable item at the end of **Nepheli’s** questline. So, the choice is yours.)
 - Talk to **Rogier** in the chapel. Purchase something from him, then speak to him again.
 - Find the Chrysalid’s Memento and give it to **Roderika** at the Stormhill Shack
-- From the Liftside Chamber Grace, head around the corner to the right and drop down. Continue through this zone and examine the room behind the final boss, including a bloodstain near there that looks like **Rogier**.
+- From the Liftside Chamber Grace, head around the coLansseaxrner to the right and drop down. Continue through this zone and examine the room behind the final boss, including a bloodstain near there that looks like **Rogier**.
 - Before killing Godrick, go from the Secluded Cell Grace toward the main gate, past the troll, and into a side room. Talk to **Nepheli.** Summon **Nepheli** to fight Godrick with you.
 - After killing Godrick, talk to everyone in the Roundtable Hold again. Talk to **Roderika** and **Hewg** multiple times until **Hewg** takes **Roderika** as an apprentice. Talk to **D** after talking to **Rogier.**
 - After talking to **Enia** at the Rountable Hold, return to The First Step Grace for a message from **White-Faced Varre**
