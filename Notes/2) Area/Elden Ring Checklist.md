@@ -61,7 +61,7 @@
 | Blade of Calling    |     |
 | Black Knife         |  ✅  |
 
-| Straight Swords            | ☑️✅ |
+| **Straight Swords**            | ☑️✅ |
 | -------------------------- | :-: |
 | Short Sword                |  ✅  |
 | Longsword                  |  ✅  |
@@ -83,7 +83,7 @@
 | Coded Sword                |  ✅  |
 | Sword of Night and Flame   |     |
 
-| Greatswords                  | ☑️✅ |
+| **Greatswords**                  | ☑️✅ |
 | ---------------------------- | :-: |
 | Bastard Sword                |  ✅  |
 | Claymore                     |  ✅  |
@@ -107,7 +107,7 @@
 | Dark Moon Greatsword         |  ✅  |
 | Sacred Relic Sword           |     |
 
-| Colossal Swords          | ☑️✅ |
+| **Colossal Swords**          | ☑️✅ |
 | ------------------------ | :-: |
 | Zweihander               |  ✅  |
 | Greatsword               |  ✅  |
@@ -121,7 +121,7 @@
 | Godslayer's Greatsword   |  ✅  |
 | Maliketh's Black Blade   |  ✅  |
 
-| Thrusting Swords        | ☑️✅ |
+| **Thrusting Swords**        | ☑️✅ |
 | ----------------------- | :-: |
 | Rapier                  |  ✅  |
 | Estoc                   |  ✅  |
@@ -131,14 +131,14 @@
 | Antspur Rapier          |  ✅  |
 | Frozen Needle           |  ✅  |
 
-| Heavy Thrusting Swords  | ☑️✅ |
+| **Heavy Thrusting Swords**  | ☑️✅ |
 | ----------------------- | :-: |
 | Great Epee              |  ✅  |
 | Godskin Sticher         |  ✅  |
 | Bloody Helice           |  ✅  |
 | Dragon King's Cragblade |  ✅  |
 
-| Curved Swords              | ☑️✅ |
+| **Curved Swords**          | ☑️✅ |
 | -------------------------- | :-: |
 | Scimitar                   |  ✅  |
 | Falchion                   |  ✅  |
@@ -156,7 +156,7 @@
 | Wing of Astel              |     |
 | Eclipse Shotel             |  ✅  |
 
-| Curved Greatswords      | ☑️✅ |
+| **Curved Greatswords**  | ☑️✅ |
 | ----------------------- | :-: |
 | Dismounter              |  ✅  |
 | Omen Cleaver            |     |
@@ -168,7 +168,7 @@
 | Magma Wyrm's Scalesword |  ✅  |
 | Morgott's Cursed Sword  |  ✅  |
 
-| Katanas            | ☑️✅ |
+| **Katanas**        | ☑️✅ |
 | ------------------ | :-: |
 | Uchigatana         |  ✅  |
 | Nagakiba           |  ✅  |
@@ -179,7 +179,7 @@
 | Dragonscale Blade  |  ✅  |
 | Hand of Malenia    |  ✅  |
 
-| Twinblades              | ☑️✅ |
+| **Twinblades**          | ☑️✅ |
 | ----------------------- | :-: |
 | Twinblade               |     |
 | Twinned Knight Swords   |  ✅  |
@@ -188,7 +188,7 @@
 | gargoyle's Black Blades |  ✅  |
 | Eleonora's Poleblade    |  ✅  |
 
-| Axes                | ☑️✅ |
+| **Axes**            | ☑️✅ |
 | ------------------- | :-: |
 | Handaxe             |  ✅  |
 | Forked Hatchet      |  ✅  |
@@ -204,7 +204,7 @@
 | Stormhawk Axe       |     |
 | Rosus' Axe          |  ✅  |
 
-| Greataxes                | ☑️✅ |
+| **Greataxes**            | ☑️✅ |
 | ------------------------ | :-: |
 | Greataxe                 |  ✅  |
 | Crescent Moon Axe        |     |
@@ -218,7 +218,7 @@
 | Winged Greathorn         |  ✅  |
 | Axe of Godrick           |  ✅  |
 
-| Hammers                    | ☑️✅ |
+| **Hammers**                | ☑️✅ |
 | -------------------------- | :-: |
 | Club                       |  ✅  |
 | Curved Club                |     |
@@ -236,7 +236,7 @@
 | Scepter of the All-Knowing |  ✅  |
 | Marika's Hammer            |  ✅  |
 
-| Flails           | ☑️✅ |
+| **Flails**       | ☑️✅ |
 | ---------------- | :-: |
 | Flail            |  ✅  |
 | Nightrider Flail |  ✅  |
@@ -244,7 +244,7 @@
 | Family Heads     |  ✅  |
 | Bastard's Stars  |  ✅  |
 
-| Great Hammers              | ☑️✅ |
+| *Great Hammers*            | ☑️✅ |
 | -------------------------- | :-: |
 | Large Club                 |     |
 | Curved Great Club          |  ✅  |
@@ -261,7 +261,7 @@
 | Beastclaw Greathammer      |  ✅  |
 | Devourer's Scepter         |  ✅  |
 
-| Clossal Weapons           | ☑️✅ |
+| **Clossal Weapons**       | ☑️✅ |
 | ------------------------- | :-: |
 | Duelist Greataxe          |     |
 | Rotten Greataxe           |     |
@@ -279,7 +279,7 @@
 | Fallingstar Beast Jaw     |  ✅  |
 | Axe of Godfrey            |  ✅  |
 
-| Spears                 | ☑️✅ |
+| **Spears**             | ☑️✅ |
 | ---------------------- | :-: |
 | Short Spear            |  ✅  |
 | Iron Spear             |     |
@@ -297,7 +297,7 @@
 | Death Ritual Spear     |  ✅  |
 | Bolt of Gransax        |     |
 
-| Great Spears           | ☑️✅ |
+| **Great Spears**       | ☑️✅ |
 | ---------------------- | :-: |
 | Lance                  |     |
 | Treespear              |     |
@@ -306,7 +306,7 @@
 | Vyke's War Spear       |  ✅  |
 | Mohgwyn's Sacred Spear |  ✅  |
 
-| Halberds                  | ☑️✅ |
+| **Halberds**              | ☑️✅ |
 | ------------------------- | :-: |
 | Halberd                   |  ✅  |
 | Banished Knight's Halberd |  ✅  |
@@ -325,14 +325,14 @@
 | Loretta's War Sickle      |  ✅  |
 | Commander's Standard      |  ✅  |
 
-| Reapers       | ☑️✅ |
+| **Reapers**   | ☑️✅ |
 | ------------- | :-: |
 | Scythe        |  ✅  |
 | Grave Scythe  |  ✅  |
 | Halo Scythe   |     |
 | Winged Scythe |  ✅  |
 
-| Whips                  | ☑️✅ |
+| **Whips**              | ☑️✅ |
 | ---------------------- | :-: |
 | Whip                   |  ✅  |
 | Thorned Whip           |     |
@@ -341,7 +341,7 @@
 | Magma Whip Candlestick |  ✅  |
 | Giant's Red Braid      |     |
 
-| Fists                | ☑️✅ |
+| **Fists**            | ☑️✅ |
 | -------------------- | :-: |
 | Caestus              |  ✅  |
 | Spiked Caestus       |     |
@@ -353,14 +353,14 @@
 | Cipher Pata          |  ✅  |
 | Grafted Dragon       |  ✅  |
 
-| Claws            | ☑️✅ |
+| **Claws**        | ☑️✅ |
 | ---------------- | :-: |
 | Hookclaws        |  ✅  |
 | Bloodhound Claws |  ✅  |
 | Venomous Fang    |     |
 | Raptor Talons    |  ✅  |
 
-| Light Bows           | ☑️✅ |
+| **Light Bows**       | ☑️✅ |
 | -------------------- | :-: |
 | Shortbow             |  ✅  |
 | Composite Bow        |  ✅  |
@@ -368,7 +368,7 @@
 | Misbegotten Shortbow |     |
 | Harp Bow             |     |
 
-| Bows           | ☑️✅ |
+| **Bows**       | ☑️✅ |
 | -------------- | :-: |
 | Longbow        |  ✅  |
 | Albinauric Bow |     |
@@ -395,12 +395,12 @@
 | Pully Crossbow              |  ✅  |
 | Full Moon Crossbow          |     |
 
-| Balistas      | ☑️✅ |
+| **Balistas**  | ☑️✅ |
 | ------------- | :-: |
 | Hand Ballista |  ✅  |
 | Jar Cannon    |  ✅  |
 
-| Glintstone Staffs        | ☑️✅ |
+| **Glintstone Staffs**    | ☑️✅ |
 | ------------------------ | :-: |
 | Astrologer's Staff       |  ✅  |
 | Glintstone Staff         |  ✅  |
@@ -421,7 +421,7 @@
 | Staff of the Guilty      |     |
 | Prince of Death's Staff  |  ✅  |
 
-| Sacred Seals          | ☑️✅ |
+| **Sacred Seals**      | ☑️✅ |
 | --------------------- | :-: |
 | Finger Seal           |  ✅  |
 | Erdtree Seal          |     |
@@ -433,7 +433,7 @@
 | Frenzied Flame Seal   |     |
 | Dragon Communion Seal |  ✅  |
 
-| Torches               | ☑️✅ |
+| **Torches**           | ☑️✅ |
 | --------------------- | :-: |
 | Torch                 |  ✅  |
 | Beast-Repellent Torch |  ✅  |
@@ -441,5 +441,84 @@
 | Sentry's Torch        |  ✅  |
 | Ghostflame Torch      |     |
 | St Trina's Torch      |  ✅  |
+
+### Shields
+
+| **Small Shields**        | ☑️✅ |
+| ------------------------ | :-: |
+| Rickety Shield           |  ✅  |
+| Riveted Wooden Shields   |  ✅  |
+| Blue-White Wooden Shield |  ✅  |
+| Scripture Wooden Shield  |     |
+| Red Thorn Roundshield    |  ✅  |
+| Pillory Shield           |  ✅  |
+| Buckler                  |  ✅  |
+| Iron Roundshield         |  ✅  |
+| Gilded iron Shield       |  ✅  |
+| Man-Serpent's Shield     |  ✅  |
+| Ice Crest Shield         |  ✅  |
+| Rift Shield              |  ✅  |
+| Perfumer's Shield        |     |
+| Shield of the Guilty     |     |
+| Spiralhorn Shield        |     |
+| Smoldering Shield        |     |
+| Coil Shield              |     |
+
+| **Medium Shields**          | ☑️✅ |
+| --------------------------- | :-: |
+| Hawk Crest Wooden Shield    |  ✅  |
+| Horse Crest Wooden Shield   |  ✅  |
+| Flame Crest Wooden Shield   |  ✅  |
+| Marred Wooden Shield        |  ✅  |
+| Sun Realm Shield            |     |
+| Round Shield                |  ✅  |
+| Large Leather Shield        |  ✅  |
+| Black Leather Shield        |  ✅  |
+| Marred Leather Shield       |  ✅  |
+| Heater Shield               |  ✅  |
+| Blue Crest Heater Shield    |  ✅  |
+| Red Crest heater Shield     |  ✅  |
+| Beast Crest Heater Shield   |     |
+| Inverted Hawk Heater Shield |  ✅  |
+| Eclipse Crest Heater Shield |     |
+| Kite Shield                 |  ✅  |
+| Blue-Gold Kite Shield       |  ✅  |
+| Scorpion Kite Shield        |  ✅  |
+| Twinbird Kite Shield        |     |
+| Brass Shield                |  ✅  |
+| Banished Knight's Shield    |     |
+| Albinauric Shield           |     |
+| Beastman's Jar-Shield       |     |
+| Carian Knight's Shield      |  ✅  |
+| Silver Mirrorshield         |  ✅  |
+| Great Turtle Shell          |  ✅  |
+
+| **Greatshields**            | ☑️✅ |
+| --------------------------- | :-: |
+| Wooden Greatshield          |  ✅  |
+| Lordsworn's Shield          |  ✅  |
+| Briar Greatshield           |  ✅  |
+| Spiked Palisade Shield      |     |
+| Icon Shield                 |     |
+| Golden Beast Crest Shield   |  ✅  |
+| Manor Towershield           |     |
+| Crossed-Tree Towershield    |  ✅  |
+| Inverted Hawk Towershield   |     |
+| Dragon Towershield          |     |
+| Distinguished Greatshield   |  ✅  |
+| Gilded Greatshield          |     |
+| Cuckoo Greatshield          |     |
+| Redmane Greatshield         |     |
+| Golden Greatshield          |     |
+| Haligtree Crest Greatshield |     |
+| Crucible Hornshield         |  ✅  |
+| Dragonclaw Shield           |  ✅  |
+| Fingerprint Stone Shield    |  ✅  |
+| Eclipse Crest Greatshield   |     |
+| Ant's Skull Plate           |  ✅  |
+| Erdtree Greatshield         |  ✅  |
+| Jellyfish Shield            |  ✅  |
+| Visage Shield               |  ✅  |
+| One-Eyed Shield             |  ✅  |
 
 ### Armor
