@@ -325,9 +325,11 @@
 | Loretta's War Sickle      |     |
 | Commander's Standard      |     |
 
-| Reapers |     |
-| ------- | --- |
-|         |     |
+| Reapers      |     |
+| ------------ | --- |
+| Scythe       |     |
+| Grave Scythe |     |
+| N            |     |
 
 | Whips |     |
 | ----- | --- |
