@@ -75,7 +75,7 @@ It's generally a good idea to start by heading toward the map for each zone. (Th
 - Head North up the hill from the Revenger's shack to reach the Four Belfries. Use the imbued stonesword key, from the chest nearby, on the Northeastern Belfry. Go through the portal to get the Stormhawk King Ashes (for **Nepheli**'s quest)
 - Talk to **Iji**, sitting next to the main road.
 - Go through Caria Manor and speak to **Ranni.** Then, go back and forth exhausting the dialogue with **Rogier** and **Ranni**. After joining **Ranni’s** service, return to **Rogier**
-- Speak to the summons of **Blaidd, **Iji,** and **Seluvis.** Then speak to **Ranni** again.
+- Speak to the summons of **Blaidd**, **Iji**, and **Seluvis**. Then speak to **Ranni** again.
 - Go to Seluvis’ Rise nearby to speak to **Seluvis.** **Seluvis**'s full questline must be completed (through Altus Plateau) before completing Nokron, and you will need to atone at the Church of Vows afterwards, so you may choose to skip his quest. To continue his quest, you must give the potion to 1 of 3 people. 1) **Nepheli**- this will give you a unique item, but end **Nepheli**'s questline 2) **Gideon** - this won't change anything OR 3) **Dung Eater**, found much later in Leyndell - this will give you a unique item, but end **Dung Eater**'s questline and prevent you from receiving one of the endings (not required for the trophy). The choice is yours.
 - Speak to everybody in the Roundtable Hold. Go back and forth between **Nepheli** (who has moved downstairs) and **Gideon** until you give **Nepheli** an item. Give her 1) the potion from **Seluvis**, ending her questline OR 2) the Stormhawk King Ashes
 - Search the ruins near Ranni’s rise for an illusory floor. Return to **Seluvis** and exhaust his dialogue

@@ -375,7 +375,7 @@
 | Albinauric Bow |     |
 | Black Bow      |     |
 | Pulley Bow     |  ✅  |
-| Horn Bow       |     |
+| Horn Bow       |  ✅  |
 | Serpent Bow    |  ✅  |
 | Erdtree Bow    |  ✅  |
 
@@ -499,7 +499,7 @@
 | Wooden Greatshield          |  ✅  |
 | Lordsworn's Shield          |  ✅  |
 | Briar Greatshield           |  ✅  |
-| Spiked Palisade Shield      |     |
+| Spiked Palisade Shield      |  ✅  |
 | Icon Shield                 |     |
 | Golden Beast Crest Shield   |  ✅  |
 | Manor Towershield           |     |

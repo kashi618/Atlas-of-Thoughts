@@ -1,17 +1,38 @@
+## Index
+
+- [[#<center>Game Related</center>|Game Related]]
+- [[#<center>Tech Related</center>|Tech Related]]
+- [[#<center>Food Related</center>|Food Related]]
+- [[#<center>School Related</center>|School Relatedaa]]
 
 ---
-<center><h2>Recipes</h2></center>
-
-- [[Pancakes & Crepes]]
----
-<center><h2>Game Related</h2></center>
+## <center>Game Related</center>
 
 - [[Dark Souls Remastered Quest Guide]]
 - [[Elden Ring Quest Guide]]
 - [[Elden Ring Checklist]]
 - [[MHW Large Monster Checklist]]
+
 ---
-<center><h2>School Related</h2></center>
+
+## <center>Tech Related</center>
+
+
+---
+
+## <center>Food Related</center>
+
+### Recipes
+- [[Pancakes & Crepes]]
+
+### Misc
+- [[Alcohol]]
+- [[Cheeses]]
+- [[Chinese Foods, Snacks, Drinks]]
+
+---
+
+## <center>School Related</center>
 
 ### Japanese
 - [[Leaving Cert Orals]]
@@ -19,8 +40,10 @@
 - [[KeyTerms]]
 ### English
 - [[English Study]]
+
 ---
-<center><h2>Wishlist</h2></center>
+
+## <center>Wishlist</center>
 
 - [[Guitars]]
 - [[Books]]
@@ -29,22 +52,23 @@
 - [[Wishlist Other]]
 
 ---
-<center><h2>Lists</h2></center>
 
-- [[Alcohol]]
-- [[Cheeses]]
-- [[Chinese Foods, Snacks, Drinks]]
+## <center>Lists</center>
+
+
 - [[GameDev ToDo List]]
 - [[Quotes]]
 
 ---
-<center><h2>Funny</h2></center>
+
+## <center>Funny</center>
 
 - [[Statues, Busts, etc]]
 - [[Weird Animals]]
 
 ---
-<center><h2>Other</h2></center>
+
+## <center>Other</center>
 
 - [[Steam Custom Launch]]
 - [[Philosphy Books To Read]]

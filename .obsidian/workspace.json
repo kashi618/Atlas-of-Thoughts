@@ -4,37 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ed22e0e6ebe529c2",
+        "id": "544321e0ec7a65cf",
         "type": "tabs",
         "children": [
           {
-            "id": "26455f1977874fbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2) Area/$ Area Sorted $.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d374065f7d979a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2) Area/Elden Ring Quest Guide.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e460eb733c47ca40",
+            "id": "38225911e6cac094",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -45,9 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "738fe00732b349ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2) Area/Elden Ring Quest Guide.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2) Area/Elden Ring Quest Guide.md"
+                "file": "Notes/2) Area/Elden Ring Checklist.md"
               }
             }
           },
@@ -190,7 +176,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/2) Area/Elden Ring Quest Guide.md"
+                "file": "Notes/2) Area/Elden Ring Checklist.md"
               }
             }
           },
@@ -212,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2) Area/Elden Ring Quest Guide.md",
+                "file": "Notes/2) Area/Elden Ring Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2) Area/Elden Ring Quest Guide.md",
+                "file": "Notes/2) Area/Elden Ring Checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,23 +245,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3d374065f7d979a2",
+  "active": "38225911e6cac094",
   "lastOpenFiles": [
-    "Notes/2) Area/Elden Ring Checklist.md",
     "Notes/2) Area/Elden Ring Quest Guide.md",
+    "Notes/2) Area/Elden Ring Checklist.md",
     "Notes/2) Area/$ Area Sorted $.md",
-    "Notes/2) Area/Windows 11 MISC.md",
+    "Notes/2) Area/Cheeses.md",
+    "Notes/2) Area/Books.md",
+    "Notes/2) Area/Alcohol.md",
+    "Notes/2) Area/Chinese Foods, Snacks, Drinks.md",
     "Notes/2) Area/MHW Large Monster Checklist.md",
     "Notes/2) Area/Leaving Cert Orals.md",
-    "Notes/How to use Obsidian.md",
-    "Notes/2) Area/Alcohol.md",
     "Notes/2) Area/English Study.md",
+    "Notes/2) Area/Wishlist Other.md",
+    "Notes/2) Area/Windows 11 MISC.md",
+    "Notes/How to use Obsidian.md",
     "Notes/2) Area/KeyTerms.md",
     "Notes/2) Area/Pancakes & Crepes.md",
     "Templates/3) Resource/Character Profile Philosophy.md",
     "Notes/2) Area/Weird Animals.md",
-    "Notes/2) Area/Cheeses.md",
-    "Notes/2) Area/Chinese Foods, Snacks, Drinks.md",
     "Notes/2) Area/Quotes.md",
     "Notes/2) Area/Statues, Busts, etc.md",
     "Notes/2) Area/Guitars.md",
@@ -283,10 +271,8 @@
     "Untitled 1.md",
     "Nylon Acoustic-Electricc.md",
     "Notes/2) Area/Rechargeable Battery Datasheet.md",
-    "Notes/2) Area/Books.md",
     "Notes/2) Area/Philosphy Books To Read.md",
     "Notes/1) Project/道德经 Study.md",
-    "Notes/1) Project/Currently Playing Games.md",
     "Pasted image 20240513145647.png",
     "Pasted image 20240513145645.png",
     "Media, Pictures, Gifs/AKG K371-BT.png",
