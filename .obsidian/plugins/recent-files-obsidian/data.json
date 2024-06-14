@@ -5,12 +5,16 @@
       "path": "Notes/2) Area/Elden Ring Checklist.md"
     },
     {
+      "basename": "$ Area Sorted $",
+      "path": "Notes/2) Area/$ Area Sorted $.md"
+    },
+    {
       "basename": "Elden Ring Quest Guide",
       "path": "Notes/2) Area/Elden Ring Quest Guide.md"
     },
     {
-      "basename": "$ Area Sorted $",
-      "path": "Notes/2) Area/$ Area Sorted $.md"
+      "basename": "Dark Souls Remastered Quest Guide",
+      "path": "Notes/2) Area/Dark Souls Remastered Quest Guide.md"
     },
     {
       "basename": "Cheeses",
@@ -79,10 +83,6 @@
     {
       "basename": "Guitars",
       "path": "Notes/2) Area/Guitars.md"
-    },
-    {
-      "basename": "Dark Souls Remastered Quest Guide",
-      "path": "Notes/2) Area/Dark Souls Remastered Quest Guide.md"
     },
     {
       "basename": "Rechargeable Battery Datasheet",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2) Area/Elden Ring Checklist.md",
+                "file": "Notes/2) Area/Elden Ring Quest Guide.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2) Area/Elden Ring Quest Guide.md",
-                "mode": "preview",
+                "file": "Notes/2) Area/Elden Ring Checklist.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,11 +246,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "38225911e6cac094",
+  "active": "738fe00732b349ee",
   "lastOpenFiles": [
+    "Notes/2) Area/$ Area Sorted $.md",
     "Notes/2) Area/Elden Ring Quest Guide.md",
     "Notes/2) Area/Elden Ring Checklist.md",
-    "Notes/2) Area/$ Area Sorted $.md",
+    "Notes/2) Area/Dark Souls Remastered Quest Guide.md",
     "Notes/2) Area/Cheeses.md",
     "Notes/2) Area/Books.md",
     "Notes/2) Area/Alcohol.md",
@@ -267,7 +269,6 @@
     "Notes/2) Area/Quotes.md",
     "Notes/2) Area/Statues, Busts, etc.md",
     "Notes/2) Area/Guitars.md",
-    "Notes/2) Area/Dark Souls Remastered Quest Guide.md",
     "Untitled 1.md",
     "Nylon Acoustic-Electricc.md",
     "Notes/2) Area/Rechargeable Battery Datasheet.md",

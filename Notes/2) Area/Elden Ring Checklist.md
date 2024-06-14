@@ -288,7 +288,7 @@
 | Pike                   |  ✅  |
 | Spiked Spear           |  ✅  |
 | Cross-Naginata         |  ✅  |
-| Clayman's Harpoon      |     |
+| Clayman's Harpoon      |  ✅  |
 | Celebrant's Rib-Rake   |     |
 | Torchpole              |  ✅  |
 | Inquisitor's Girandole |  ✅  |
@@ -382,7 +382,7 @@
 | **Greatbows**    | ☑️✅ |
 | ---------------- | :-: |
 | Greatbow         |  ✅  |
-| Golem Greatbow   |     |
+| Golem Greatbow   |  ✅  |
 | Erdtree Greatbow |     |
 | Lion Greatbow    |  ✅  |
 
