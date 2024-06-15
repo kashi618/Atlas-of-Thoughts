@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2) Area/Elden Ring Quest Guide.md",
+                "file": "Notes/2) Area/Books.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2) Area/Elden Ring Checklist.md"
+                "file": "Notes/2) Area/Books.md"
               }
             }
           },
@@ -177,7 +176,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/2) Area/Elden Ring Checklist.md"
+                "file": "Notes/2) Area/Books.md"
               }
             }
           },
@@ -199,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2) Area/Elden Ring Checklist.md",
+                "file": "Notes/2) Area/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2) Area/Elden Ring Checklist.md",
+                "file": "Notes/2) Area/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,11 +245,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "738fe00732b349ee",
+  "active": "38225911e6cac094",
   "lastOpenFiles": [
-    "Notes/2) Area/$ Area Sorted $.md",
+    "Notes/1) Project/Currently Playing Games.md",
     "Notes/2) Area/Elden Ring Quest Guide.md",
     "Notes/2) Area/Elden Ring Checklist.md",
+    "Notes/2) Area/$ Area Sorted $.md",
     "Notes/2) Area/Dark Souls Remastered Quest Guide.md",
     "Notes/2) Area/Cheeses.md",
     "Notes/2) Area/Books.md",
@@ -273,7 +273,6 @@
     "Nylon Acoustic-Electricc.md",
     "Notes/2) Area/Rechargeable Battery Datasheet.md",
     "Notes/2) Area/Philosphy Books To Read.md",
-    "Notes/1) Project/道德经 Study.md",
     "Pasted image 20240513145647.png",
     "Pasted image 20240513145645.png",
     "Media, Pictures, Gifs/AKG K371-BT.png",

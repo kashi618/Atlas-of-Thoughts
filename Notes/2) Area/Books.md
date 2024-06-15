@@ -109,35 +109,16 @@ Tr.  |  Translator
 ##### Autobiographies
 - **Shen fu** - Six Records of a Floating Life (*55,000*)
 ##### Fiction
-- **George Orwell** - Animal Farm
-- **Jane Austen** - Pride and Prejudice
 - **Anne Frank** - The Diary of a Young Girl
 - **Anne Frank** - Tales From the Secret Annex
-- **F. Scott Fitzgerald** - The Great Gatsby
-- **Cormac MacCarthy** - Blood Meridian (*87,000*)
-- **Frank Herbert** - Dune
-- **Osamu Dazai** - The Setting Sun (*48,000*)
-- **Ray Bradbury** - Fahrenheit 451
-- **Stephen King** - The Shining
-- **Stephen King** - IT
-- **Stephen King** - 11/22/63
+- **Alexandre Dumas, Auguste Maquet** - The Count of Monte Cristo
 - **Bram Stoker** - Dracula
-- **Mary Shelly** - Frankenstein
-- **Neil Gaiman** - Sandman
-- **Rebecca Skloot** - The Immortal Life of Henrietta Lacks
--  **Yevgeny Zamyatin** - We (*55,000*)
-	Distopian Future
-- **Homer** - Illiad (*88,000*)
-- **James Joyce** - Ulysses (*168,000*)
-- **Shelley Parker-Chan** - She Who Became the Sun (*125,550*)
-- **Shelley Parker-Chan** - He Who Drowned the World (*177,000*)
+- **Cormac MacCarthy** - Blood Meridian (*87,000*)
+- **F. Scott Fitzgerald** - The Great Gatsby
+- **Frank Herbert** - Dune
 - **Fyodor Dostoevsky** - Crime and Punishment
 - **Fyodor Dostoevsky** - The Brothers Karamazov
-- **J.R.R Tolkien** - The Lord of the Rings
-	- [ ] The Hobbit
-	- [ ] The Fellowship of the Ring
-	- [ ] The Two Towers
-	- [ ] The Return of the King#
+- **George Orwell** - Animal Farm
 - **George R.R Martin** - A Song of Ice and Fire
 	- [ ] A Game of Thrones
 	- [ ] A Clash of Kinds
@@ -146,6 +127,32 @@ Tr.  |  Translator
 	- [ ] A Dance with Dragons
 	- [ ] The Winds of Winter
 	- [ ] A Dream of Springs
+- **Homer** - Illiad (*88,000*)
+- **James Joyce** - Ulysses (*168,000*)
+- **Jane Austen** - Pride and Prejudice
+- **J.R.R Tolkien** - The Lord of the Rings
+	- [ ] The Hobbit
+	- [ ] The Fellowship of the Ring
+	- [ ] The Two Towers
+	- [ ] The Return of the King
+- **Louis Sachar** - Holes
+- **Madeline Miller** - The Song of Achilles
+- **Mary Shelly** - Frankenstein
+- **Neil Gaiman** - Sandman
+- **Osamu Dazai** - The Setting Sun (*48,000*)
+- **Rebecca Skloot** - The Immortal Life of Henrietta Lacks
+- **Ray Bradbury** - Fahrenheit 451
+- **Shelley Parker-Chan** - She Who Became the Sun (*125,550*)
+- **Shelley Parker-Chan** - He Who Drowned the World (*177,000*)
+- **Stephen King**
+	- The Shining
+	- IT
+	- 11/22/63
+- **Yevgeny Zamyatin** - We (*55,000*)
+
+##### Satire/Comedy
+- [ ] **Douglas Adams, Thomas Tidholm, Eoin Colfer** - The Hitchhiker's Guide to the Galaxy
+
 ##### Science/History
 - **Nikolai Vavilov** - Origin and Geography of Cultivated Plants
 - Voynich Manuscript
