@@ -45,7 +45,7 @@
 
 ## <center>Wishlist</center>
 
-- [[Guitars]]
+- [[Guitar Wishlist]]
 - [[Books]]
 - [[Headphones & IEMs]]
 - [[Tattoos]]

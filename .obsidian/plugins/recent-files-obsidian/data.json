@@ -5,8 +5,16 @@
       "path": "Notes/2) Area/Books.md"
     },
     {
-      "basename": "Currently Playing Games",
-      "path": "Notes/1) Project/Currently Playing Games.md"
+      "basename": "Guitar Wishlist",
+      "path": "Notes/2) Area/Guitar Wishlist.md"
+    },
+    {
+      "basename": "GameDev ToDo List",
+      "path": "Notes/2) Area/GameDev ToDo List.md"
+    },
+    {
+      "basename": "Guitar Songs",
+      "path": "Guitar Songs.md"
     },
     {
       "basename": "Elden Ring Quest Guide",
@@ -15,6 +23,10 @@
     {
       "basename": "Elden Ring Checklist",
       "path": "Notes/2) Area/Elden Ring Checklist.md"
+    },
+    {
+      "basename": "Currently Playing Games",
+      "path": "Notes/1) Project/Currently Playing Games.md"
     },
     {
       "basename": "$ Area Sorted $",
@@ -85,10 +97,6 @@
       "path": "Notes/2) Area/Statues, Busts, etc.md"
     },
     {
-      "basename": "Guitars",
-      "path": "Notes/2) Area/Guitars.md"
-    },
-    {
       "basename": "Rechargeable Battery Datasheet",
       "path": "Notes/2) Area/Rechargeable Battery Datasheet.md"
     },
@@ -103,10 +111,6 @@
     {
       "basename": "Headphones & IEMs",
       "path": "Notes/2) Area/Headphones & IEMs.md"
-    },
-    {
-      "basename": "GameDev ToDo List",
-      "path": "Notes/2) Area/GameDev ToDo List.md"
     },
     {
       "basename": "$ Area Masterlist $",
@@ -195,10 +199,6 @@
     {
       "basename": "Game Design Document",
       "path": "Templates/1) Project/Game Design Document.md"
-    },
-    {
-      "basename": "The Republic - Plato",
-      "path": "Notes/3) Resource/The Republic - Plato.md"
     }
   ],
   "omittedPaths": [],
