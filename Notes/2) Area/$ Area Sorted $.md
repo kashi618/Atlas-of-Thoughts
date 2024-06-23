@@ -20,6 +20,7 @@
 - [[Guitar Wishlist]]
 - [[Headphones & IEMs]]
 - [[Philosphy Books To Read]]
+- [[TV Shows & Movies & Anime]]
 - [[Quotes]]
 - [[Tattoos]]
 

@@ -95,7 +95,7 @@
 | Flamberge                    |     |
 | Gargoyle's Greatsword        |  ✅  |
 | Gargoyle's Blackblade        |  ✅  |
-| Inseparable Sword            |     |
+| Inseparable Sword            |  ✅  |
 | Sword of Milos               |  ✅  |
 | Marais Executioner's Sword   |  ✅  |
 | Ordovis's Greatsword         |  ✅  |
