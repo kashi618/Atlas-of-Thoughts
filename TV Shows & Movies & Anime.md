@@ -233,6 +233,8 @@
 ### Watching
 
 ### Finished
+
+**TV**
 - Adachi and Shimamura
 - Akame ga Kill!
 - Asobi Asobase
@@ -272,8 +274,8 @@
 - Kaguya-sama: Love is War
 - Rent a Girlfriend
 - Keijo!!!!!!!!
-- Kissxsis
-- Konosuba
+- Kiss x Sis
+- KONOSUBA God's Blessing on this Wonderful World! 
 - Love Live!
 - Lucky Star
 - Miss Kobayashi's Dragon Maid
@@ -293,11 +295,50 @@
 - The Pet Girl of Sakurasou
 - The Ryuo's Work is Never Done!
 - The Seven Deadly Sins
+- The Seven Deadly Sins: Imperial Wrath of the Gods
+- The Seven Deadly Sins: Revival of the Commandments
+- The Seven Deadly Sins: Signs of A Holy War
 - Tonikawa: Over the Moon For You
 - Toradora!
 - Umamusume: Prety Derby
 - WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Not Popular!
-- Wonder Egg Prio
+- Wonder Egg Priority
+
+**Movies**
+- A Silent Voice
+- Cowboy Bebop: The Movie - Knockin' on Heaven's Door
+- Demon Slayer The Movie: Mugen Train
+- Doraemon: The Day When I Was Born
+- Fate/Zero Cafe
+- Fullmetal Alchemist: The Movie- Conqueror of Shamballa
+- I Want to Eat Your Pancreas
+- Into the Forest of Fireflies' Light
+- K-ON! The Movie
+- KONOSUBA God's Blessing on this Wonderful World! Legend of Crimson 
+- Love Live! The School Idol Movie
+- My Neighbor Totoro
+- Saga of Tanya the Evil: The Movie
+- Spirited Away
+- STAND BY ME Doraemon
+- STAND BY ME Doraemon 2
+- Tamako Love Story
+- The Seven Deadly Sins The Movie: Prisoners of the Sky
+- The Seven Deadly Sins: Cursed by light
+- Weathering With You
+- Your Name
+
+**OVA**
+- Asobi Asobase: Workshop of Fun OVA
+- Eromanga Sensei OVA
+- Haganai: Add-on Disc
+- Haven't You Heard? I'm Sakamoto: Haven't You Heard? I was Sakamoto
+- Hori-san to Miyamura-kun: Shingakki
+- K-ON! Live House!
+- Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen OVA
+- Kase-san and Morning Glories
+- Kiss x Sis
+- KONOSUBA God's Blessing on this Wonderful World! 2 God's Blessings on these Wonderful Works of Art!
+- KONOSUBA God's Bblessing on this Wonderful World! God's Blessings On This Wonderful Choker! 
 
 ### Planning
 - (**TV**) - Mobile Suit Gundam: The Witch from Mercury
