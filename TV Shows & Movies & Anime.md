@@ -114,6 +114,15 @@
 - (**Movie**) - Evil Dead Rise
 - (**Movie**) - The Virgin Suicides
 - (**Movie**) - Midsommar
+- (**Movie**) - Paranormal Activity
+	- Paranormal Activity
+	- Paranormal Activity 2
+	- Paranormal Activity 3
+	- Paranormal Activity 4
+	- Paranormal Activity: The Marked Ones
+	- Paranormal Activity: The Ghost Dimension
+	- Paranormal Activity: Next of Kin
+- (**Moive**) - Truth or Dare
 
 **Romance**
 - (**Movie**) - Titanic
@@ -224,6 +233,71 @@
 ### Watching
 
 ### Finished
+- Adachi and Shimamura
+- Akame ga Kill!
+- Asobi Asobase
+- BANANA FISH
+- Blend S
+- Bungou Stray Dogs
+- Celestial Method
+- Cells at Work!
+- Cowboy Bebop
+- Darling in the Franxx
+- DEATH NOTE
+- Demon Slayer
+- Domestic Girlfield
+- Don't Toy With Me, Miss Nagatoro
+- Eromanga Sensei
+- Fate/stay night
+- Fate/stay night: Unlimited Blade Works
+- Fate/Zero
+- Fullmetal Alchemist
+- Given
+- Haganai
+- Haganai NEXT
+- Haikyuu!!
+- Haven't You Heard? I'm Sakamoto
+- Himouto! Umaru-chan
+- Horimiya
+- How to Keep a Mummy
+- Interviews with Monster Girls
+- Jojo's Bizzare Adventures
+	- Phantom Blood
+	- Battle Tendency
+	- Stardust Crusaders
+	- Diamond is Unbreakable
+	- Golden Wind
+- Junji Ito Collection
+- K-ON!
+- Kaguya-sama: Love is War
+- Rent a Girlfriend
+- Keijo!!!!!!!!
+- Kissxsis
+- Konosuba
+- Love Live!
+- Lucky Star
+- Miss Kobayashi's Dragon Maid
+- Mob Psycho 100
+- Naruto
+- Naruto: Shippuuden
+- Nekopara
+- Neon Genesis Evangelion
+- OniAi
+- Orange
+- Rent-a-Girlfriend
+- Saga of Tanya the Evil
+- Seven Mortal Sins
+- Tamako Market
+- The Disastrous Life of Saiki K.
+- The Helpful Fox Senko-san
+- The Pet Girl of Sakurasou
+- The Ryuo's Work is Never Done!
+- The Seven Deadly Sins
+- Tonikawa: Over the Moon For You
+- Toradora!
+- Umamusume: Prety Derby
+- WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Not Popular!
+- Wonder Egg Prio
 
 ### Planning
 - (**TV**) - Mobile Suit Gundam: The Witch from Mercury
