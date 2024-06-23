@@ -83,8 +83,13 @@
 	- Insidious: Chapter 3
 	- Insidious: The Last Key
 	- Insidious: The Red Door
+- (**Movie**) - Pan's Labyrinth
+- (**Movie**) - Blair Witch
+- (**Movie**) - IT
+- (**Movie**) - The Exorcist
 
-**Misc/Un**
+
+**Misc/Unsorted**
 - (**Movie**) - Mulan
 	- Mulan (1998)
 	- Mulan II
@@ -152,7 +157,14 @@
 	- 1971 (Gene Wilder)
 - (**Movie**) - Zoolander
 - (**Movie**) - The Godfather
-- (**Movie**) - Pan's Labyrinth
+
+- (**Movie**) - Minions/Despicable Me
+	- Despicable Me (2010)
+	- Despicable Me 2
+	- Minions
+	- Despicable Me 3
+	- Minions: The Rise of Gru
+	- Despicable Me 4
 
 ---
 ## Anime
