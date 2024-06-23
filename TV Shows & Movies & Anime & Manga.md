@@ -1,6 +1,7 @@
 # Index
 - [[#TV Shows & Movies]]
 - [[#Anime]]
+- [[#Manga]]
 
 ---
 ## TV Shows & Movies
@@ -230,7 +231,13 @@
 ---
 ## Anime
 
-### Watching
+### Watching/Paused
+- One Piece
+- Fragtime
+- Girlfriend, Girlfriend
+- Happy-Go-Lucky Days
+- Miss Kobayashi's Dragon Maid S
+- Saekano the Movie: Finale
 
 ### Finished
 
@@ -338,7 +345,132 @@
 - Kase-san and Morning Glories
 - Kiss x Sis
 - KONOSUBA God's Blessing on this Wonderful World! 2 God's Blessings on these Wonderful Works of Art!
-- KONOSUBA God's Bblessing on this Wonderful World! God's Blessings On This Wonderful Choker! 
+- KONOSUBA God's Bblessing on this Wonderful World! God's Blessings On This Wonderful Choker!
+- Love Live! School Idol Project OVA
+- Lucky Star OVA
+- Miss Kobayashi's Dragon Maid: Valentines and Hot Springs! (Please Don't Get Your Hopes Up) 
+- Nekopara OVA
+- The Seven Deadly Sins OVA
+- The Seven Deadly Sins: Revival of the Commandments OVA
+- Toradora! Bento Battle
+- Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!: Motenaishi, Nazomeite Miru
+
+**ONA**
+- Gekidan Nanatsu no Taizai
+- Kanojo, Okarishimasu Collab Mini Animation 
+- Kanojo, Okarishimasu Petit
+- Nanatsu no Taizai: Tsumi no Kokuhaku Dennou Grimoire!
+- Saiki Kusuo no Ψ-nan (ONA)
+- sin: Nanatsu no Taizai Zange-roku
+- The Disastrous Life of Saiki K.: Reawakened
+- Youjo Shenki
+- Your Light: Kase-san and Morning Glories
+
+**TV Short**
+- Bananaya
+- Hakone-chan
+- How Clumsy You Are, Miss Ueno
+- Inugami-san to Nekoyama-san
+- Onigiri
+- The Disastrous Life of Saiki K.
+- Tsuredure Children
+- Umayon
+- Wooser's Hand-to-Mouth Life
+- Wooser's Hand-to-Mouth Life: Awakening Arc
+- Wooser's Hand-to-Mouth Life: Phantasmagoric Arc
+
+**Completed Special**
+- Asobi Asobase Specials
+- Baka and Test Mini Special
+- Cells at Work! Specials
+- Cells at Work!: The Common Cold
+- Death Note: Relight
+- Fate/Zero: Please! Einzbern Counseling Room
+- In Search of Axis
+- Inugami-san to Nekoyama-san: Nekoyama-san to Onsen Ryokou
+- K-ON! Season 1 Shorts
+- K-ON! Season 2 Shorts
+- Keijo!!!!!!!! Specials
+- Miss Kobayashi's Dragon Something
+- OniAi Specials
+- Seven Mortal Sins Zange-roku Specials
+- Tamako Market Specials
+- The Disastrous Life of Saiki K. Season 3
+- Toradora!: SOS! Hurray for Foodies
+- WONDER EGG PRIORITY: My Priority
+- Wooser's Hand-to-Mouth Life Special
 
 ### Planning
 - (**TV**) - Mobile Suit Gundam: The Witch from Mercury
+
+---
+
+## Manga
+### Reading/Paused/Following
+- Battle in 5 Seconds
+- Beelzebub
+- Berserk
+- Bleach
+- Breasts Are My Favorite Things in the World!
+- Chainsaw Man
+- Dasei 67 Percent
+- DICE
+- Don't Blush, Sekime-san!
+- Don't Toy With Me, Miss Nagatoro
+- Dragon Ball
+- Dragon Ball Super
+- Fly Me to the Moon
+- Himouto! Umaru-chan
+- How Do We Relationship?
+- I Shall Survive Using Potions!
+- I'm Standing on a Million Lives
+- K-ON!
+- K-ON! College
+- K-ON! Shuffle
+- Kaguya-sama wo Kataritai
+- Komi Can't Communicate
+- Living-Room Matsunaga-san
+- Love is Like a Cocktail
+- Lucky Star
+- Menhera Shoujo Kurumi-chan
+- Nekopara
+- ONIMAI: I'm Now Your Sister!
+- Ore no Kokan wa Bishoujo Datta no ka
+- Rent-A-Girlfriend
+- SPY x FAMILY
+- The Gamer
+- The Seven Deadly Sins
+- The Way of the House husband
+- Wake up, Sleeping Beauty
+
+## Completed
+- Black Paradox
+- BLAME!
+- Colorful Macchiato!: Mahou Shoujo wa Tatakawanai
+- Darling in the Franxx
+- DEATH NOTE
+- Demon Slayer
+- Doukyonin ga Konoyo no Mon Janai
+- Gyo
+- Himouto! Umaru-chan G
+- Himouto! Umaru-chan S
+- Horimiya
+- JoJo's Bizzare Adventure
+	- Phantom Blood
+	- Battle Tendency
+	- Stardust Crusaders
+- Junji Ito Story Collection
+- Junji Ito's Cat Diary: Yon & Mu
+- Kaguya-sama wa Kokurasetai Darkness
+- Kaguya-sama: Love is War
+- Museum of Terror
+- No Longer Human (Junji Ito)
+- No Longer Human (Usamaru Furuya)
+- Remina
+- Saikou na Atashi no Saikyou na Rokudenashi Kouryakuhou
+- Sensor
+- Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei
+- Shiver: Junji Ito Selected Stories
+- The Drifting Classroom
+- Tomie
+- Uzumaki: Spiral into Horror

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TV Shows & Movies & Anime.md",
+                "file": "TV Shows & Movies & Anime & Manga.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TV Shows & Movies & Anime.md"
+                "file": "TV Shows & Movies & Anime & Manga.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TV Shows & Movies & Anime.md"
+                "file": "TV Shows & Movies & Anime & Manga.md"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TV Shows & Movies & Anime.md",
+                "file": "TV Shows & Movies & Anime & Manga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TV Shows & Movies & Anime.md",
+                "file": "TV Shows & Movies & Anime & Manga.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +249,7 @@
   "active": "071b8045333510de",
   "lastOpenFiles": [
     "Notes/2) Area/Books.md",
-    "TV Shows & Movies & Anime.md",
+    "TV Shows & Movies & Anime & Manga.md",
     "Notes/2) Area/$ Area Sorted $.md",
     "Notes/2) Area/Leaving Cert Classics.md",
     "Notes/How to use Obsidian.md",
