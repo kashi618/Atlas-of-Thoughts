@@ -74,6 +74,7 @@
 - (**Movie**) - Tangled
 
 **Horror and Thriller**
+- (**Movie**) - Ma
 - (**Movie**) - Scream
 	- Scream (1996)
 	- Scream 2
