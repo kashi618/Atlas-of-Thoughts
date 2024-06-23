@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Leaving Cert Classics",
+      "path": "Leaving Cert Classics.md"
+    },
+    {
+      "basename": "$ Area Sorted $",
+      "path": "Notes/2) Area/$ Area Sorted $.md"
+    },
+    {
       "basename": "Books",
       "path": "Notes/2) Area/Books.md"
+    },
+    {
+      "basename": "Leaving Cert English",
+      "path": "Notes/2) Area/Leaving Cert English.md"
+    },
+    {
+      "basename": "Leaving Cert Computer Science",
+      "path": "Notes/2) Area/Leaving Cert Computer Science.md"
     },
     {
       "basename": "Guitar Wishlist",
       "path": "Notes/2) Area/Guitar Wishlist.md"
     },
     {
-      "basename": "GameDev ToDo List",
-      "path": "Notes/2) Area/GameDev ToDo List.md"
+      "basename": "$ Area Masterlist $",
+      "path": "Notes/2) Area/$ Area Masterlist $.md"
     },
     {
       "basename": "Guitar Songs",
       "path": "Guitar Songs.md"
+    },
+    {
+      "basename": "GameDev ToDo List",
+      "path": "Notes/2) Area/GameDev ToDo List.md"
     },
     {
       "basename": "Elden Ring Quest Guide",
@@ -27,10 +47,6 @@
     {
       "basename": "Currently Playing Games",
       "path": "Notes/1) Project/Currently Playing Games.md"
-    },
-    {
-      "basename": "$ Area Sorted $",
-      "path": "Notes/2) Area/$ Area Sorted $.md"
     },
     {
       "basename": "Dark Souls Remastered Quest Guide",
@@ -57,24 +73,12 @@
       "path": "Notes/2) Area/Leaving Cert Orals.md"
     },
     {
-      "basename": "English Study",
-      "path": "Notes/2) Area/English Study.md"
-    },
-    {
-      "basename": "Wishlist Other",
-      "path": "Notes/2) Area/Wishlist Other.md"
-    },
-    {
       "basename": "Windows 11 MISC",
       "path": "Notes/2) Area/Windows 11 MISC.md"
     },
     {
       "basename": "How to use Obsidian",
       "path": "Notes/How to use Obsidian.md"
-    },
-    {
-      "basename": "KeyTerms",
-      "path": "Notes/2) Area/KeyTerms.md"
     },
     {
       "basename": "Pancakes & Crepes",
@@ -111,10 +115,6 @@
     {
       "basename": "Headphones & IEMs",
       "path": "Notes/2) Area/Headphones & IEMs.md"
-    },
-    {
-      "basename": "$ Area Masterlist $",
-      "path": "Notes/2) Area/$ Area Masterlist $.md"
     },
     {
       "basename": "Bleaching Hair",
@@ -195,10 +195,6 @@
     {
       "basename": "Basic with Tags",
       "path": "Templates/3) Resource/Basic with Tags.md"
-    },
-    {
-      "basename": "Game Design Document",
-      "path": "Templates/1) Project/Game Design Document.md"
     }
   ],
   "omittedPaths": [],

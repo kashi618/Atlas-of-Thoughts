@@ -4,9 +4,11 @@ Tr.  |  Translator
 ### InProgress
 - **Laozi | Tr. Jeff Pepper** - DaoDeJing in Clear English (*7,800*)
 - **George Cowell** - Nineteen Eighty-Four (*89,000*)
+- **Benjamin Hoff** - The Tao of Pooh
+- **Benjamin Hoff** - The Te of Piglet
 
 ### OnHold
-- **Plato** - The Republic (*135,250*)
+- **Plato** - The Republic (*135,250*) 
 - **Plutarch** - The Age Of Alexander (*156,000*)
 - **Arrian** - The Campaigns of Alexander (*108,000*)
 - **Antoine De Saint-Exupéry** - The Little Prince (*24,500*)
@@ -101,7 +103,6 @@ Tr.  |  Translator
 ###### Confucianism and Daoism
 - **Wang Yang-Ming** - The Philosophy of Wang Yang-Ming
 - **Wang Yang-Ming** - Instructions For Practical Living And Other Neo-Confucian Writing
-- **Benjamin Hoff** - The Tao of Pooh
 
 ##### Poetry
 - **Li Bai**

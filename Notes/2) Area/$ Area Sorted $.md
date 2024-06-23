@@ -1,77 +1,51 @@
-## Index
 
-- [[#<center>Game Related</center>|Game Related]]
-- [[#<center>Tech Related</center>|Tech Related]]
-- [[#<center>Food Related</center>|Food Related]]
-- [[#<center>School Related</center>|School Relatedaa]]
-
----
-## <center>Game Related</center>
-
+## Game Related
+**FromSoft**
 - [[Dark Souls Remastered Quest Guide]]
 - [[Elden Ring Quest Guide]]
 - [[Elden Ring Checklist]]
+
+**Monster Hunter**
 - [[MHW Large Monster Checklist]]
 
----
-
-## <center>Tech Related</center>
-
-
----
-
-## <center>Food Related</center>
-
-### Recipes
-- [[Pancakes & Crepes]]
-
-### Misc
+## Lists
+**Foods/Drinks**
 - [[Alcohol]]
 - [[Cheeses]]
 - [[Chinese Foods, Snacks, Drinks]]
 
----
-
-## <center>School Related</center>
-
-### Japanese
-- [[Leaving Cert Orals]]
-### Computer Science
-- [[KeyTerms]]
-### English
-- [[English Study]]
-
----
-
-## <center>Wishlist</center>
-
-- [[Guitar Wishlist]]
+**Misc**
 - [[Books]]
-- [[Headphones & IEMs]]
-- [[Tattoos]]
-- [[Wishlist Other]]
-
----
-
-## <center>Lists</center>
-
-
 - [[GameDev ToDo List]]
+- [[Guitar Wishlist]]
+- [[Headphones & IEMs]]
+- [[Philosphy Books To Read]]
 - [[Quotes]]
+- [[Tattoos]]
 
----
+## Tech Related
+- [[Rechargeable Battery Datasheet]]
+- [[Steam Custom Launch]]
+- [[Windows 11 MISC]]
 
-## <center>Funny</center>
+## Other
 
+- [[Bleaching Hair]]
 - [[Statues, Busts, etc]]
 - [[Weird Animals]]
 
----
+## Food Related
+### Recipes
+- [[Pancakes & Crepes]]
 
-## <center>Other</center>
+## School Related
+### Japanese
+- [[Leaving Cert Orals]]
+### Classics
+- [[Leaving Cert Classics]]
+### Computer Science
+- [[Leaving Cert Computer Science]]
+### English
+- [[Leaving Cert English]]
 
-- [[Steam Custom Launch]]
-- [[Philosphy Books To Read]]
-- [[Bleaching Hair]]
-- [[Rechargeable Battery Datasheet]]
-- [[Windows 11 MISC]]
+
