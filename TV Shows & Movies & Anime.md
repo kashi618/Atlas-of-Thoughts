@@ -65,7 +65,24 @@
 	- Shrek the Halls
 	- Shrek Forever After
 - (**Movie**) - Beauty and the Beast
+- (**Movie**) - Mulan
+- (**Movie**) - Hercules
+- (**Movie**) - Edward Scissorhands
 - (**Movie**) - Amélie
+- (**Movie**) - E.T.
+- (**Movie**) - Ghostbusters
+	- Ghostbusters (1984)
+	- Ghostbusteres II
+	- Ghostbusters (2016)
+	- Ghostbusters: Afterlife
+	- Ghostbusters: Frozen Empire
+- (**Moive**) - The Karate Kid
+	- The Karate Kid (1984)
+	- The Karate Kid Part II
+	- The Karate Kid Part III
+	- The Next Karate Kid
+	- The Karate Kid (2010)
+	- The Karate Kid 2
 - (**Movie**) - The Little Mermaid
 - (**Movie**) - Rio 2
 - (**Movie**) - Maleficent
@@ -105,7 +122,6 @@
 	- 2005 (Johnny Depp)
 	- 1971 (Gene Wilder)
 - (**Movie**) - Zoolander
-- (**Movie**) - Mulan
 - (**Movie**) - The Godfather
 - (**Movie**) - Pan's Labyrinth
 
