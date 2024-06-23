@@ -108,6 +108,7 @@
 - (**Movie**) - 기생충 (Parasite)
 - (**Movie**) - Evil Dead Rise
 - (**Movie**) - The Virgin Suicides
+- (**Movie**) - Midsommar
 
 **Misc/Unsorted**
 - (**Movie**) - Mulan
