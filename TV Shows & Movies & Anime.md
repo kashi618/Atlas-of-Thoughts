@@ -49,15 +49,29 @@
 	- Home Alone 2: Lost in New York
 - (**Movie**) - Happy Never After
 - (**Movie**) - Brave
+- (**Movie**) - Talk to Me
 - (**Movie**) - Frozen
 	- Frozen
 	- Frozen 2
 - (**Movie**) - Aladdin
 - (**Movie**) - Rio 
 - (**Movie**) - Snow White and the Seven Dwarfs (1937)
+- (**Movie**) - Bambi
+- (**Movie**) - Scream
+	- Scream VI
 ### Planning
 - (**TV**) - Tom and Jerry (1940-1967)
 - (**TV**) - Rick and Morty Season 4-7
+- (**Movie**) - Scream
+	- Scream (1996)
+	- Scream 2
+	- Scream 3
+	- Scream 4
+	- Scream (2022)
+- (**Movie**) - Back to the Future
+	- Back to the Future
+	- Back to the Future II
+	- Back to the Future III
 - (**Movie**) - Shrek
 	- Shrek
 	- Shrek 2
@@ -76,6 +90,12 @@
 	- Ghostbusters (2016)
 	- Ghostbusters: Afterlife
 	- Ghostbusters: Frozen Empire
+- (**Moive**) - Indiana Jones
+	- Raiders of the Lost Ark
+	- Indiana Jones and the Temple of Doom
+	- Indiana Jones and the Last Crusade
+	- Indiana Jones and the Kingdom of the Crystal Skull
+	- Indiana Jones and the Dial of Destiny
 - (**Moive**) - The Karate Kid
 	- The Karate Kid (1984)
 	- The Karate Kid Part II
@@ -109,9 +129,9 @@
 - (**Movie**) - 流浪地球2 (Wandering Earth 2)
 - (**Movie**) - Insidious
 	- Insidious
-	- Insidious 2
-	- Insidious 3
-	- Insidious 4
+	- Insidious: Chapter 2
+	- Insidious: Chapter 3
+	- Insidious: The Last Key
 	- Insidious: The Red Door
 - (**Movie**) - Kungfu Panda
 	- Kungfu Panda 4
