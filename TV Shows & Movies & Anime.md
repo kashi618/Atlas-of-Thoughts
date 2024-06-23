@@ -59,6 +59,9 @@
 - (**Movie**) - Bambi
 - (**Movie**) - Scream
 	- Scream VI
+- (**Movie**) - Wreck-It Ralph
+- (**Movie**) - The Emoji Movie
+- **Movie**) - Pixels
 ### Planning
 - (**TV**) - Tom and Jerry (1940-1967)
 - (**TV**) - Rick and Morty Season 4-7
@@ -77,6 +80,7 @@
 	- Scream 3
 	- Scream 4
 	- Scream (2022)
+- (**Movie**) - The Visit
 - (**Movie**) - Insidious
 	- Insidious
 	- Insidious: Chapter 2
@@ -110,7 +114,33 @@
 - (**Movie**) - The Virgin Suicides
 - (**Movie**) - Midsommar
 
+**Romance**
+- (**Movie**) - Titanic
+- (**Movie**) - The Notebook
+
+**Comedy**
+- (**Movie**) - White Chicks
+- (**Movie**) - Mean Girls
+	- Mean Girls
+	- Mean Girls 2
+- (**Movie**) - Legally Blonde
+- (**Movie**) - Mamma Mia
+	- Mamma Mia!
+	- Mamma Mia! Here We Go Again
+
 **Misc/Unsorted**
+- (**Movie**) - Sausage Party
+- (**Movie**) - The Emoji Movie
+	- The Emoji Movie 2
+	- The Emoji Movie 3
+- (**Movie**) - Wreck-It Ralph
+	- Ralph Breaks the Internet
+- (**Movie**) - Lolita
+- (**Movie**) - Pitch Perfect
+	- Pitch Perfect
+	- Pitch Perfect 2
+	- Pitch Perfect 3
+- (**Movie**) - Nineteen Eighty-Four
 - (**Movie**) - Mulan
 	- Mulan (1998)
 	- Mulan II
