@@ -62,12 +62,33 @@
 ### Planning
 - (**TV**) - Tom and Jerry (1940-1967)
 - (**TV**) - Rick and Morty Season 4-7
+
+**Disney Movies**
+- (**Movie**) - Beauty and the Beast
+- (**Movie**) - Hercules
+- (**Movie**) - The Little Mermaid
+- (**Movie**) - Maleficent
+- (**Movie**) - Tangled
+
+**Horror and Thriller**
 - (**Movie**) - Scream
 	- Scream (1996)
 	- Scream 2
 	- Scream 3
 	- Scream 4
 	- Scream (2022)
+- (**Movie**) - Insidious
+	- Insidious
+	- Insidious: Chapter 2
+	- Insidious: Chapter 3
+	- Insidious: The Last Key
+	- Insidious: The Red Door
+
+**Misc/Un**
+- (**Movie**) - Mulan
+	- Mulan (1998)
+	- Mulan II
+	- Mulan (2020)
 - (**Movie**) - Back to the Future
 	- Back to the Future
 	- Back to the Future II
@@ -78,15 +99,12 @@
 	- Shrek the Third
 	- Shrek the Halls
 	- Shrek Forever After
-- (**Movie**) - Beauty and the Beast
-- (**Movie**) - Mulan
-- (**Movie**) - Hercules
 - (**Movie**) - Edward Scissorhands
 - (**Movie**) - Amélie
 - (**Movie**) - E.T.
 - (**Movie**) - Ghostbusters
 	- Ghostbusters (1984)
-	- Ghostbusteres II
+	- Ghostbusters II
 	- Ghostbusters (2016)
 	- Ghostbusters: Afterlife
 	- Ghostbusters: Frozen Empire
@@ -103,10 +121,7 @@
 	- The Next Karate Kid
 	- The Karate Kid (2010)
 	- The Karate Kid 2
-- (**Movie**) - The Little Mermaid
 - (**Movie**) - Rio 2
-- (**Movie**) - Maleficent
-- (**Movie**) - Tangled
 - (**Movie**) - Home Alone
 	- Home Alone 3
 	- Home Alone 4
@@ -127,12 +142,6 @@
 - (**Movie**) - The Snowman
 - (**Movie**) - The Snowman and the Snowdog
 - (**Movie**) - 流浪地球2 (Wandering Earth 2)
-- (**Movie**) - Insidious
-	- Insidious
-	- Insidious: Chapter 2
-	- Insidious: Chapter 3
-	- Insidious: The Last Key
-	- Insidious: The Red Door
 - (**Movie**) - Kungfu Panda
 	- Kungfu Panda 4
 - (**Movie**) - Rush Hour
