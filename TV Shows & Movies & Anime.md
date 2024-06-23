@@ -87,7 +87,27 @@
 - (**Movie**) - Blair Witch
 - (**Movie**) - IT
 - (**Movie**) - The Exorcist
-
+- (**Movie**) - The Shining
+- (**Movie**) - The Conjuring
+	- The Conjuring
+	- Annabelle
+	- The Conjuring 2
+	- Annabelle: Creation
+	- The Nun
+	- The Curse of La Llorona
+	- Annabelle Comes Home
+	- The Conjuring: The Devil Made Me Do It
+	- The Nun II
+- (**Movie**) - Pearl
+	- X
+	- Pearl
+- (**Movie**) - 부산행 (Train to Busan)
+	- 부산행 (Train to Busan)
+	- Seoul Station
+	- Penninsula
+- (**Movie**) - 기생충 (Parasite)
+- (**Movie**) - Evil Dead Rise
+- (**Movie**) - The Virgin Suicides
 
 **Misc/Unsorted**
 - (**Movie**) - Mulan
