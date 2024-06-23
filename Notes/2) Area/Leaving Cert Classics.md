@@ -56,6 +56,7 @@
 - [[#Dionysia Festival]]
 
 ### Erechtheion
+ ![|400](https://i.imgur.com/BU5VozF.png)
 
 ### Parthenon
  ![|400](https://i.imgur.com/6qWRllb.png)
@@ -89,20 +90,26 @@
 - From the bottom of the temple, it also **curved inwards**, making it appear **taller** and more **powerful**.
 
 ### Greek Theatre
+ ![|400](https://i.imgur.com/54y9R3k.png)
 
 ### Pantheon
+ ![|400](https://i.imgur.com/PkvMfZN.png)
 
 ### Temple of Vesta
+ ![|400](https://i.imgur.com/oCTWg39.png)
 
 ### Colosseum
+ ![|400](https://i.imgur.com/1hiGxSX.png)
 
 ### Circus Maximus
+ ![|400](https://i.imgur.com/gWLoKVd.png)
 
 ### Themes in Drama
 
 ### Medea
 
 ### Dramatic Devices
+ ![|400](https://i.imgur.com/0imVtbK.png)
 
 ### Audience Experience
 ### Dionysia Festival

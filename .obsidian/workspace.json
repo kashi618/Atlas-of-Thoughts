@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2) Area/$ Area Sorted $.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "071b8045333510de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TV Shows & Movies & Anime & Manga.md",
+                "file": "Notes/2) Area/Leaving Cert Classics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TV Shows & Movies & Anime & Manga.md"
+                "file": "Notes/2) Area/Leaving Cert Classics.md"
               }
             }
           },
@@ -177,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TV Shows & Movies & Anime & Manga.md"
+                "file": "Notes/2) Area/Leaving Cert Classics.md"
               }
             }
           },
@@ -199,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TV Shows & Movies & Anime & Manga.md",
+                "file": "Notes/2) Area/Leaving Cert Classics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TV Shows & Movies & Anime & Manga.md",
+                "file": "Notes/2) Area/Leaving Cert Classics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,11 +232,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "071b8045333510de",
+  "active": "97511c78edc51e41",
   "lastOpenFiles": [
-    "Notes/2) Area/Books.md",
-    "TV Shows & Movies & Anime & Manga.md",
     "Notes/2) Area/$ Area Sorted $.md",
+    "Notes/2) Area/TV Shows & Movies & Anime & Manga.md",
+    "Guitar Songs.md",
+    "Notes/2) Area/Books.md",
     "Notes/2) Area/Leaving Cert Classics.md",
     "Notes/How to use Obsidian.md",
     "Notes/2) Area/Leaving Cert Computer Science.md",
@@ -262,7 +249,6 @@
     "Notes/2) Area/Guitar Wishlist.md",
     "Notes/2) Area/Wishlist Other.md",
     "Notes/2) Area/$ Area Masterlist $.md",
-    "Guitar Songs.md",
     "Untitled.md",
     "Notes/2) Area/GameDev ToDo List.md",
     "Notes/1) Project/Currently Playing Games.md",
