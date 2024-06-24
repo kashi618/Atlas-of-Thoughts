@@ -80,8 +80,6 @@
 - When the battle in the great hall breaks out, Athena is personally there giving out advice and encouragement for Odysseus. This was important as Odysseus feared he was losing control of the situation.
 - Athena also pleads with her father Zeus to end the fighting between Odysseus andthe suitor's relatives. Zeus responds by sending a lightning bolt to stop the fighting.
 
-### The Aeneid - Themes
-
 ### The Aeneid - Propoganda
 - Was commisioned by Augustus for Virigl to write a national epic as part of Augustus's propoganda program.
 - It was done to celebrate the new golden age of peace that Augustus's reign ushered in.
@@ -117,10 +115,7 @@
 - [[#Circus Maximus]]
 
 **Greek and Roman Drama**
-- [[#Themes in Drama]]
-- [[#Medea]]
 - [[#Dramatic Devices]]
-- [[#Audience Experience]]
 - [[#Dionysia Festival]]
 
 ### Erechtheion
@@ -189,6 +184,7 @@
 ### Temple of Vesta
  ![|400](https://i.imgur.com/oCTWg39.png)
 
+
 ### Colosseum
  ![|400](https://i.imgur.com/1hiGxSX.png)
 - Used for gladiator fights.
@@ -202,17 +198,9 @@
 ### Circus Maximus
  ![|400](https://i.imgur.com/gWLoKVd.png)
 
-
-### Themes in Drama
-
-### Medea
-
 ### Dramatic Devices
  ![|400](https://i.imgur.com/0imVtbK.png)
 - Used in Medea, during the messenger scene.
-- 
-
-### Audience Experience
 ### Dionysia Festival
 - 5 day festival in Athens around march, held in honor of Dionysus, God of wine, party, and drama.
 
@@ -347,14 +335,8 @@
 - Meanwhile at Vetti, Caesar exterminated almost their entire fleet, forcing them to surrender. The civilians were then all sold into slavery.
 
 ## Strand 4 Gods and Humans
-- [[#Greek Gods and Goddesses]]
-- [[#Roman Gods and Goddesses]]
 - [[#Funerary Practices]]
 - [[#Attitudes to Living Well]]
-
-### Greek Gods and Goddesses
-
-### Roman Gods and Goddesses
 
 ### Funery Practices
 
