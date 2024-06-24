@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2) Area/Leaving Cert Classics.md",
-                "mode": "preview",
+                "file": "Guitar Songs.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2) Area/Leaving Cert Classics.md"
+                "file": "Guitar Songs.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/2) Area/Leaving Cert Classics.md"
+                "file": "Guitar Songs.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2) Area/Leaving Cert Classics.md",
+                "file": "Guitar Songs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2) Area/Leaving Cert Classics.md",
+                "file": "Guitar Songs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,11 +234,11 @@
   },
   "active": "97511c78edc51e41",
   "lastOpenFiles": [
+    "Notes/2) Area/Leaving Cert Classics.md",
     "Notes/2) Area/$ Area Sorted $.md",
     "Notes/2) Area/TV Shows & Movies & Anime & Manga.md",
     "Guitar Songs.md",
     "Notes/2) Area/Books.md",
-    "Notes/2) Area/Leaving Cert Classics.md",
     "Notes/How to use Obsidian.md",
     "Notes/2) Area/Leaving Cert Computer Science.md",
     "Notes/2) Area/Elden Ring Quest Guide.md",
