@@ -160,6 +160,7 @@
 - Men would carry falloy raied on sticks, whilst women would carry baskets of offerings.
 - Goat would also be killed and the blood was offered up to Dionysius.
 - Many wine was drunk during this time.
+- It was a public festival, which mean't all work was ceased.
 
 - During this festival, the Archon would be responsible for commisioning drama's and playwrights which would play throughout the 5 days.
 - The archon would also choose a group of men aclled the Choregia, who were responsible for putting on the play itself. This included the sets, costumes, chorus's, etc.
@@ -177,24 +178,114 @@
 - [[#Battle of Issus]]
 - [[#Battle of Gaugamela]]
 - [[#Battle of Hydaspes]]
-- [[#Military Tactics]]
 - [[#Alexander as a Leader and Person]]
+- [[#Caesar as a Leader and Person]]
 
 ### Battle of Granicus
 ![|330](https://i.imgur.com/6NphzPX.png)
+- Alexander vs Memnon of Rhodes
+
+- Memnon adviesed that they should not risk a battle, and to destroy all crops and grass, even gutting the towns to leave no resources to Alexander's army.
+
+- Alexander's army was massed into 2 groups of phalanx's. and was protected by 2 groups of cavalry on the left and right flank of them.
+- Philotas and Alexander controlled the right cavalry flank, whilst Parmenio controlled the left cavalry flank.
+
+- There was a river separating them, and the Persians were on higher land.
+- It was also a very broad front.
+- Parmeniop advised to wait until day time, so that they can cross the river when the Persian army retreated.
+
+- However, Alexander believed that the water was only a "mere trickle", and that the same army has crossed worse terrains without difficulty.
+- He also believed that if they hesitated now, it would give the Persian army courage out of their hesitation. The Greeks were not cowards, and will not back down.
+
+- Parmenia and philotas entered first, with the infantry following behind.
+- The fight was intense, as the Persian army aimed downwards with projectiles to push the Greek army back.
+- However, Alexander's army pushed back with an even greater force.
+- Alexander saw Darius' brother in law, and engaged with hand-to-hand combat with him. Alexander won, however he was nearly struck from behind by a Persian general, saved only by Cleitus.
+- When the cavalry reached the centre of the persian army, their army collapsed, breaking it into 2 separate parts.
+- Alexander had won the battle.
+- After, Alexander burred the Greeks whom were killed with their armor, and gave tax relief to their wives and children, as a sort of respect.
 
 ### Battle of Issus
 ![|330](https://i.imgur.com/cpEyWwn.png)
 
 ### Battle of Gaugamela
 ![|330](https://i.imgur.com/uu3P1U5.png)
+- Alexander's army was inferior in numbers when compared to Darius' army.
+- Alexander set up a meeting with the officers, to plan on what to do.
+- Many officials suggested an immediate advance, however Alexander took Parmenio's advice to scout out the area first and examine the ground he was fighting on.
+- After, Alexander called another meeting with all his solders, rallying them and preparing them for combat the next day.
 
+- However, that night Parmenio went to Alexander's tent after this meeting, urging him to attaack under the cover of night.
+- Alexander refused this, as he knew that he was not gonna "steal victory like a thief". Also, it was very risky, as it needed to be carefully planned as otherwise it would end up in confusion. Alexander did not have to time to give each of the troops these orders. The third reason was that even if victory was won at nighttime, Darius would not have to admit to inferiority, due to being attacked at a vulnerable time.
+
+- During the battle the next day, the two armies lined up against each other.
+- Darius took lead at the center of his army, surrounded by infantry and scythed chariots to the front, and many cavalry units at his sides.
+- Alexander on the other hand, took a risky approach. He ordered his army to take more of a slanted curved shape, with the right cavalry units placed closer to Darius' army.
+
+- When the battle started, Alexander immediatly pushed forward on his right cavalry flank towards Darius, who replied by doing the same. Alexander wanted to reach the ground which was more rough, as he knew that Darius' chariots would not do well in unleveled land.
+- Meanwhile, Parmenio did the same on the left cavalry flank, although not as aggressive.
+- In Darius's perspective, it would seem that Alexander is leaving his central Phalanx's and Infantry open. So in response, he sent his scythed chariots forwards to take advantage.
+- Unbeknownst to Darius, the night before, Alexander warned his troops how to defend against these chariots, due to the intel gathered from scouting the area. The infantry, following Alexander's advice, expertly manouvred themselves into verticle lines.
+- When the scythed chariots pushed forward against Alexander's infantry, the horses would run straight through the gaps created. Thus, giving the phalanx time to aim their spears and attack the chariots.
+- As Alexander fought on the right cavalry flank, he spotted an opening to Darius, which was created by the absence of the chariots. Thus, Alexander pushed forward towards Darius, breaking through and outflanking the Persians.
+- Alexander's push from the right cavalry flank to the center of the Persian army worked, as Darius' army slowly disintegrated and lost their positioning. However, he was unable to give further chase to Darius, as Parmenio on the left cavalry flank was struggling.
+- Alexander, isntead of chasing after Darius, decided to go back over to Parmenio's section to help out.
+- Alexander's men were recovered, and Darius retreated.
 
 ### Battle of Hydaspes
+- Alexander vs King Porus
+- As Alexander crossed the Indus River, he spotted Porus' main army by a river.
+- Alexander ordered his troops to dismantle the floatillas used to cross the Indus river, and to recontruct them for use in the crossing of this river.
+- Meanwhile, Porus was preparing his troops as he could see Alexander.
+- Porus stationed many elephants at the river banks, and behind them, many many troups.
+- Porus has a massive army, and it would be certain death to Alexander if he decided to cross.
+- This was because the elephants would scare away Alexander's cavalry units, but also, his army would slowly be picked off due to the amount of ranged units Porus had stationed there.
 
-### Military Tactics
+- Alexander used psychological warfare against Porus, calling many of the men to go up and down the river screaming, as if they were going to cross. This caused Porus to become complacent, as he was unable to predict which one was a rouse.
+- Meanwhile, Alexander was scouting out potential places his army could cross safely.
+- Around 30 kilometers up from the river, Alexander noticed a bend in the river with a small island between the two sides. This island was heavilly wooded with trees, and would be perfect for a crossing.
+- Alexander then spaced his army out parallel to the river, so that communication could be done through using sounds and fire.
+
+- Alexander calls Craterus to stay on the riverbank opposite to Porus's main army, and to not cross but wait for him until he commands half of the troops the island he spotted.
+- When Alexander reached the river bend, he assembled his flotilla of boats, and crossed over sneakily.
+- When Alexander crossed to the island, Porus' son spotted him, although he as too late. Alexander then proceeded to cross to the other side.
+- Porus sent his son and some of his troops to stop Alexander, however they were swiftly defeated by Alexander.
+- Porus then started to shift his army towards Alexander, as he was now on the same side as him.
+- Porus spaced out 100 elephants at the center of his army towards Alexander, knowing that his cavalry units would be unable to break through, as they would startle the horses. Although Alexander was outnumbered, the discipline and training the Greek infant recieved, would quickly show the power of his army.
+- Alexander first sent his long ranged units, and his phalanx units to take up space and attack the elephants. Meanwhile, Alexander's right cavalry flank fought Porus' left flank. Porus saw that his left flank was collapsing, and sent the cavalry from his right to back them up.
+- However, this was a mistake. This was because he opened up his right side, which the cavalry units from Alexander's left side quickly siezed. They managed to use the opportunity to get behind Porus, and sandwhich Porus' left cavalry units.
+- This caused many of Porus' elephants to panic, trampling their own soldiers.
+- Although Porus was losing, he refused to give up.
+- When he was defeated, Alexander asked how he wished to be treated. Porus replied that he wished to be treated like how a king treats another king. Alexander was impressed, and appointed him as the new satrap of Punjab
 
 ### Alexander as a Leader and Person
+- During the battle of Issus when Darius was defeated, he was able to escape. However, his wife and 2 sisters was not able to.
+- Alexander did treat them as barbarians or violate them, but instead protected them and treated them with royalty.
+- They were even given a separate tent away from the prying eyes of his soldiers and troops.
+
+- When Darius was killed by Bessus, Alexander gave his body to his family. This was done as an act of respect, allowing them to burry his body.
+
+- When Alexander took over the Persian empire, he did not strip them of their Persian culture and traditions in place of Macedoian culture and traditions.
+- He instead celebrated them, and treated them as if they were his own people.
+- He introduced the policy of fusion, hoping to adapt to the Persian customs.
+- He wore the traditional Persian Diadem dress, and practised the act of prostration.
+- He also merged and trained many of the upcoming young Persian soldiers, and merged them with his own army.
+- He wanted them to feel as if Alexander was their king and ruler, not their conquorer and killer.
+
+- He recruited many Persian court advisers and seers
+
+### Caesar as a Leader and Person
+- He was very cruel and inhumane to the treatment of the Gauls.
+- He claimed and boasted he killed over 1 million Gauls, and captured and sold another 1 million.
+- He also ransacked and destroyed over 800 towns.
+- Although these figures may be exaggerated, Caesar still used this figures as prop;oganda to show the powr and brutality of the Roman empire.
+
+- Although he slaughtered and conquored many of the barbarians, he also allowed him men to do everything. This would included pillaged the villages, rape, and capture the Gauls.
+- The Gauls were called Barbarians, and treated as outsiders inferior to the Romans.
+
+- His treatment can also be seen in the capture of helvetian, where out of the 350,00 people, less then 100,000 people survived.
+- Meanwhile at Vetti, Caesar exterminated almost their entire fleet, forcing them to surrender. The civilians were then all sold into slavery.
+
 ## Strand 4 Gods and Humans
 - [[#Greek Gods and Goddesses]]
 - [[#Roman Gods and Goddesses]]
