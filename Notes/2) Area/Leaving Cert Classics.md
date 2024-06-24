@@ -8,23 +8,77 @@
 
 ## Strand 1 World of Heroes
 **The Odyssey**
-- [[#The Odyssey]]
-- [[#The Odyssey - Themes]]
-- [[#The Odyssey - Propoganda]]
+- [[#The Odyssey - Key Scenes]]
 - [[#The Odyssey - Role of Women]]
-- [[#The Odyssey - Social Values]]
 
 **The Aeneid**
-- [[#The Aeneid]]
 - [[#The Aeneid - Themes]]
 - [[#The Aeneid - Propoganda]]
-- [[#The Aeneid - Role of Women]]
-- [[#The Aeneid - Social Values]]
 
-### The Odyssey - Themes
-### The Odyssey - Propoganda
-### The Odyssey - Role of Women
-### The Odyssey - Social Values
+### The Odyssey - Key Scenes
+**Polyphemus' Island**
+- Odysseus and his men spent several days at sea with no land in sight as they were trying to travel home.
+-  Finally, they found an island, the land of the cyclops, sons of Poseidon.
+- Odysseus picked out 12 of his best men on deck, and planned to meet the island's inhabitants and explore the island.
+- Once on the island, Odysseus found a large cave with many sheep inside.
+- When he entered the cave, he realised that it was the home of one of the cyclops.
+- He found vases with goat's milk and fresh cheese. He tasted the foods, and planned to negotiate with the owner of the cave for spare food.
+- When the cyclops returned, Odysseus and his men hid in fear. However, they were found out when the cyclops lit a fire.
+- The cyclops was Polyphemus, and Odysseus introduced himself and asked for hospitalty. Polyphemus said that he does not return hospitality to beings inferior to him, grabbing two of Odysseus' men and eating them.
+- Polyphemus then blocked the cave with a stone, preventing Odysseus from escaping, and fell asleep.
+- Odysseus's men planned to kill Polyphemus when he was sleeping, however Odysseus told them they would be trapped due to the stone.
+- The next day, Polyphemus opened the cave to let his sheep out, but prevented Odysseus and his men to leave.
+- Odysseus came up with a plan to avenge his men, grabbing and sharpening a wooden spike.
+- When Polyphemus returned, Odysseus poured in a jar the wine from the wineskins of all his men, as offering for the cyclops.
+- Polyphemus drank the wine, asked for Odysseus' name, whom Odysseus answered as "nobody".
+- Polyphemus then was like, super duper ooper eepy. So he like kinda just went to bed and just eeped.
+- Odysseus and his men took the wooden spike, and stabbed his eye.
+- Polyphemus woke up in agony, screaming in pain. The noise caused his brothers to come check him out, but he answered that "nobody stabbed his eye". So the other cyclops returned home.
+- The next day, when morning came, the now blind Polyphemus opened the cave for his sheep to graze, using his hands to feel if it was his sheep that left and not Odysseus.
+- Odysseus and his men grappled onto the underbelly of the sheep, and managed to escape.
+- When he got to his ship, he shouted and sayed that Polyphemus deserved being blind, as he was a criminal for rejecting criminal. He then cried out his name, saying that it was the King of Ithaca, Odysseus who blinded him.
+- When Poseidon heard of this, he prevented Odysseus from returning home, cursing him to wander the sea for years.
+
+**Trojan Horse**
+- During the 9th year of the Trojan war, the Greeks came up with a plan to end the war.
+- They first crafted a large wooden horse, and hid all the men inside, creating the appearance that they had left the city, and giving a present to the Trojans.
+- They then left a Greek called Sinon tied up to a pole, as a sacrifice to the Gods.
+- When Sinon was interrogated, Sinon said that the Greeks had offended the Goddess Athena, who was on the Greek's side. As a result, a plague spread across the Greeks.
+- Without the support of Athena, the Greeks believed it would be impossible to capture Troy, and used the wooden horse as a source of offering.
+- Many of the Trojans believed this story, and was wondering what to do with it.
+- They ended up leading the horse to Troy, believing that housing such a grandiose offering would bring up their relations with the Gods.
+- The wooden horse was moved to the center of the city of Troy, and they began a celebration of their victory.
+- Under the guise of night, when everyone slept, a trap door opened in the wooden horse and the Greek infantry emerged.
+- Odysseus, Menalaus, and many more infiltrated the city, killing many. 
+- They also sent out a signal at night, as many Greek ships were also stationed secreted by the river banks. This gave Agamemnon, who was the leader of the army there, signal to start advancing towards the city.
+- Nearly all of the people in the city of Troy were killed, not even civilians, women, or children were spared.
+
+**Circe**
+- When Odysseus arrived at Circe's island, she provided hospitality to Odysseus' men, giving them a large feast.
+- Circe however, used a magic potion in their drinks to transform Odysseus' men to pigs.
+- Eurylochus, who suspected it to be a trap, did not drink or eat of anything by Circe, and managed to escape to Odysseus.
+- Odysseus learned about what happened to the men, and immediately planned to go back and rescue them.
+- However, his men begged him to leave, before everyone was turned into pigs.
+- Odysseus, feeling a sense of duty, believed that he had to save the rest of his men, even if it costed his life.
+- As he set off alone, he met Hermes who gave him an antidote to Circe's potion.
+- As Odysseus went to Circe, she offered him a drink with the magic potion.
+- However, she was surprised and was was in fear when Odysseus did not turn.
+- Odysseus threatened Circe with his sword, which Circe replyed that she will sleep with him if he spared his life.
+- Odysseus accepted the invitation, on the oath that his men will be spared and freed.
+- Circe returned the pigs back into his men, and they celebrated with a feast.
+- Odysseus stayed on Circe's island for a year, before being confronted by his men to return home.
+- Circe allowed this, on the offer that he will have to go to the underworld in search of answers. 
+
+### The Odyssey - Role of Athena
+- Primary supporter for Odysseus, both directly and indirectly.
+- They were alike, as they were skillful schemers.
+- Athena's relationship to Odysseus can be seen as an act of mentoship, protection, and divine favor.
+ 
+- Athena is seen asking Zeus to release Odysseus from Calpypso, arguing that he has spent over seven years as a captive.
+- Athena also disguises Odysseus as a begger during his return to Ithaca, allowing him to enter his palace without being recognised.
+- Athene advises Peneloper to offther the suitors the bow and arrow contest. This was done to palce the weapon into Odysseus' hands.
+- When the battle in the great hall breaks out, Athena is personally there giving out advice and encouragement for Odysseus. This was important as Odysseus feared he was losing control of the situation.
+- Athena also pleads with her father Zeus to end the fighting between Odysseus andthe suitor's relatives. Zeus responds by sending a lightning bolt to stop the fighting.
 
 ### The Aeneid - Themes
 
@@ -47,10 +101,6 @@
 - It is also prophesized in the Aeneid that in there will be a son of God, called Augustus who will "bring back the golden years" of Rome. Many grandiose language is used to emphasize the divine heritage of Augustus.
 
 - The Golden age refers to Augustus' victory at the battle of Actium.
-
-### The Aeneid - Role of Women
-
-### The Aeneid - Social Values
 
 ---
 
@@ -125,6 +175,16 @@
 - Made of the same **Pentelic marble** as used in the **Parthenon**.
 - Also made of **grey marble** from **Egypt**,  **pink granite** from **Aswan**, and **yellow marble** from **Tusnia**.
 - Constructed using **cranes** and **large pulleys**.
+
+- There are 8 interior  recesses, 7 of which contained masterfully sclulpted sculptures of the Roman planetary Gods.
+- There are 4 pilars on each of the sides, 2 rounded and 2 squared.
+- The oculus was open up to the sky, and allowed the sun to shine into it, acting as a sundial. A few times per year, the sun would also shine directly on the sculptures of the Gods, lighting them up.
+- The oculus represented the universe.
+- Due to the oculus being open, it also allowed rain to come through. However, the floor was built to be slanted, so that the water would gather towards the center, and into a drain.
+
+- The coffered ceiling was the most innovative and inspiring design. It was hard to calculate and get the spacing correct, and each coffer was also hand crafted and sculpted. It ws made of concrete mixes using pumic stone, and due to the coffered nature, was very light.
+- It was so technologically advanced that even to this day, it is the largest freestanding dome in the world.
+- It shows the superiority of Roman architecture, unbeaten even to this day,
 
 ### Temple of Vesta
  ![|400](https://i.imgur.com/oCTWg39.png)
@@ -256,7 +316,7 @@
 - However, this was a mistake. This was because he opened up his right side, which the cavalry units from Alexander's left side quickly siezed. They managed to use the opportunity to get behind Porus, and sandwhich Porus' left cavalry units.
 - This caused many of Porus' elephants to panic, trampling their own soldiers.
 - Although Porus was losing, he refused to give up.
-- When he was defeated, Alexander asked how he wished to be treated. Porus replied that he wished to be treated like how a king treats another king. Alexander was impressed, and appointed him as the new satrap of Punjab
+- When he was defeated, Alexander asked how he wished to be treated. Porus replied that he wished to be treated like how a king treats another king. Alexander was impressed, and appointed him as the new satrap of Punjab.
 
 ### Alexander as a Leader and Person
 - During the battle of Issus when Darius was defeated, he was able to escape. However, his wife and 2 sisters was not able to.
