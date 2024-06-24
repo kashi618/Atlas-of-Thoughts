@@ -69,7 +69,7 @@
 - It was the center of Greek **Religious** and **civic** life.
 \
 	
-- 20,000 tones of marble used from quarries at Pentelli.
+- 20,000 tones of **Pentelic marble** used from quarries at **Pentelli**.
 -  Constructed using **cranes** and **large pulleys**.
 \
 	
@@ -94,6 +94,16 @@
 
 ### Pantheon
  ![|400](https://i.imgur.com/PkvMfZN.png)
+
+- It was to the **Romans** what the **Parthenon** was to the **Greeks**.
+- Reflected the **glory** and **power** of the Roman Empire, showings its **superiority** over other cultures.
+- Defined the **genius**, **creativity**, and **dominance** of Roman engineering.
+
+- Commissioned by **Imperator Hadrian**.
+
+- Made of the same **Pentelic marble** as used in the **Parthenon**.
+- Also made of **grey marble** from **Egypt**,  **pink granite** from **Aswan**, and **yellow marble** from **Tusnia**.
+- Constructed using **cranes** and **large pulleys**.
 
 ### Temple of Vesta
  ![|400](https://i.imgur.com/oCTWg39.png)
