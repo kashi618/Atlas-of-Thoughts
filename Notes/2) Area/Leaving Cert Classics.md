@@ -109,6 +109,9 @@
 
 ### Greek Theatre
  ![|400](https://i.imgur.com/54y9R3k.png)
+- The orchestra is the stage where the actors would perform at. It was circular, and stood at the center of the theatre. Due to the genius construction of the Greak Theatre, it had excellent acoustics. This mean't that spectators who sat at the very top of the theatre would still be able to hear a pin being dropped on the orchestra.
+- The theatron is the wedge shaped sections of seating, which the spectators would sit on. They were often carved from stone, and curved around the orchestra, getting taller as it goes up in levels.
+- The skene was a building behind the orchestra. It was used as a backdrop to the play, and allowed the actors to change costumes, masks, and characters.
 
 ### Pantheon
  ![|400](https://i.imgur.com/PkvMfZN.png)
@@ -128,6 +131,13 @@
 
 ### Colosseum
  ![|400](https://i.imgur.com/1hiGxSX.png)
+- Used for gladiator fights.
+- The colosseum was primarily made up of concrete and arches.
+- The Roman architects used many arches in the design of the colosseum, as it was light and supported its weight when stacked.
+
+- The three levels of the colosseum followed the classical order. The first level contained Doric style pillars, the second had scroll topped Ionic pillars, whilst the top level showed beautifully decorated Corinthian pillars.
+
+- The arch was very important during the contruction of the colosseum.
 
 ### Circus Maximus
  ![|400](https://i.imgur.com/gWLoKVd.png)
@@ -197,4 +207,71 @@
 
 ### Funery Practices
 
+**Prothesis**
+- First stage of the Greek funeral.
+- Eyes and mouth were closed and washed as a sign of respect.
+- Coins were placed under the tongue as payment for Charon, ferryman of the dead.
+- Body was annointed with oil and perfume by women only.
+- Body dressed in the finest clothes and garment, propped up with a pillow for families to pay respects.
+- Female mourners would often dress in black clothes and cut their hair off, beating their chests and crying.
+
+**Ekphora**
+- On the 3rd day of the funeral, professionalk undertakers would take control over the funeral arrangements.
+- The body would be carried in a box, whilst family and friends would dress in black and follow behind.
+- Singers, dancers, and wailers would also follow and mourn.
+- Family members would give a eulogy, praising the life of the one who died, and the good deeds the person did.
+- When the family came back from the Ekphora, they would clean the house with sea water and hyssop, to stop bad spirits from coming.
+
+- Burial/Cremation
+- The body of the dead was either buried or cremated, by request of the families.
+
+**Burials**
+- In burials, a hole would be dug outside of city walled and the body would be burried. This was done to stop the spread of diseases when the body rotted.
+- Grave goods such as toys, money, and gifts would also be burried with the dead, to be used in the afterlife.
+- The rich would have elaborate sarcophagus's made and decorated specifically for their corpses.
+- If there was no body for burial, empty combs called the cenotaph would be erected in place.
+- It is also common to leave paintinted vases on the graves of the dead, as offerings.
+
+**Cremations**
+- In cremations, the body would be placed on a pyre and burned.
+- Spices, perfumes, and token would be thrown into the burning bypre
+- Botive offerings, gifts, and food, and libations were also cast into the funeral pyre.
+- After, the ashes would be collected and placed into urns for the family.
+- These urns were usually buried or placed in shines.
+
+**Parentalia**
+- Parentalia was a 9 day festival used to remember the dead.
+- All work was ceased, people did not marry, and temples would be closed.
+- Family members would visit the graves and cemeteries of their deceased ones, to offer gifts, wine, and flowers.
+- This was done as a guesture to honor the dead and to make sure their spirits did not return to haunt the living.
+
+**Anthesteria**
+- 3 day festival used to connected the living to the dead.
+- Day 1:
+	- The dead would rise form the underworld and roam the earth
+	- Libations of wine would be poured in honor of Dionysius.
+- Day 2:
+	- Drinking contests of wine would be done by the citizens
+	- Libatoins of wine would be poured in honor of the dead
+- Day 3:
+	- This day was dedicated specifically for the dead.
+	- Families would offered fruit to Hermes, and the dead would return back to the underworld.
+
 ### Attitudes to Living Well
+- Socrated believed that living a just life was one's moral duty.
+- According to Socrates, living a just life was to be a law abiding citizen.
+- He believed in the idea of state service and duty.
+- It was one's moral obligation.
+- When jailed for "spreading corruption into the minds of children", he was faced with 2 options.
+- If he escaped, he would be harming his moral duty.
+- Although he was wrongfully jailed, he believed that it was not that the laws are unjust for jailing him, but that people guarding these laws.
+
+- Horace did not believe that living a just life was as important
+- He believed that a good life is to live a simple, quiet life, enjoying the present and following the footsteps of nature.
+- He believed in carpe diem, which translates to sieze the day.
+- This can be seen in ode 1.11, where he is seen talking to a fortune teller.
+- He tells her to stop wasting her time trying to predict the future, but to instead "sieze the day" and to live in the present.
+- Horace's attitude to life can also be seen in ode 2.11, where he is seen counselling licinius.
+- He tells him to avoid acting rashly or cautiously, and teaches him about how to "cherish the Golden order" of Rome.
+- The Golden order meant that one should not be worried when misfortune hits, but to instead be brave and honest. 
+- He believed that although bad might follow good, good may also follow bad.
