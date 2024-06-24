@@ -29,6 +29,24 @@
 ### The Aeneid - Themes
 
 ### The Aeneid - Propoganda
+- Was commisioned by Augustus for Virigl to write a national epic as part of Augustus's propoganda program.
+- It was done to celebrate the new golden age of peace that Augustus's reign ushered in.
+
+- Aeneas is pious and virtuous, and can be seen as a model Roman.
+- He is God-fearing, but respectful of Roman religious traditions. This can be seen when he prays to the God Apollo to seek help to find a homeland for his people, the Romans. Apollo instructs Aeneas to go to the land of his ancestors.
+
+- Propoganda can also be seen on the shield of Aeneas.
+- Aeneas' shield was brought to him by his mother Venus, who asked the talented blacksmish Vulcan to craft.
+- On this shield, there was many depictions of the power and greatness of Rome.
+- On the center of the shield, it shows emporer Augustus, leading the Italians into combat.
+- Augustus is seen with many Gods supporting and backing him up. This shows that Augustus was favoured by the Gods, and had their help on his side.
+- The placement of this on the center of the shield reiterates that Augustus's victory was central to the founding of the new Roman imperial age.
+
+- Throughout the Aeneid, Virgil also reminds the reader many times that Caesar and Augustus descened from the Gods, (Aeneas's mother Venus), and a long line of heroic figures (Aeneas).
+- This repetition instilled in the minds of the Roman citizens that Caesar and Augustus was both divine, and heroic.
+- It is also prophesized in the Aeneid that in there will be a son of God, called Augustus who will "bring back the golden years" of Rome. Many grandiose language is used to emphasize the divine heritage of Augustus.
+
+- The Golden age refers to Augustus' victory at the battle of Actium.
 
 ### The Aeneid - Role of Women
 
@@ -114,15 +132,34 @@
 ### Circus Maximus
  ![|400](https://i.imgur.com/gWLoKVd.png)
 
+
 ### Themes in Drama
 
 ### Medea
 
 ### Dramatic Devices
  ![|400](https://i.imgur.com/0imVtbK.png)
+- Used in Medea, during the messenger scene.
+- 
 
 ### Audience Experience
 ### Dionysia Festival
+- 5 day festival in Athens around march, held in honor of Dionysus, God of wine, party, and drama.
+
+- The festival began with a procession of the statue of Dionysus, which was brought to the center of Athens.
+- Men would carry falloy raied on sticks, whilst women would carry baskets of offerings.
+- Goat would also be killed and the blood was offered up to Dionysius.
+- Many wine was drunk during this time.
+
+- During this festival, the Archon would be responsible for commisioning drama's and playwrights which would play throughout the 5 days.
+- The archon would also choose a group of men aclled the Choregia, who were responsible for putting on the play itself. This included the sets, costumes, chorus's, etc.
+- On the first day, comedies would be played, followed by 3 days of tragedies. 
+- Three playwrights would create three plays, performed as sets of three over the course of a day.
+- Pigs would be killed, and its blood would be sprinkled on the stages before performances. This was done to purify the stages.
+- At the end of the festival, judges would vote for the greatest play performed. Rewards such as the bronze tripod or a crown of laurel leaves would be given to the victors.
+- Sometimes monuments would be built to record the winners.
+
+- Not only did the festival honor the God of wine and drama Dionysius, but also shows the Athenian prowess to the wider world.
 
 ## Strand 3 Power and Identity
 **Alexander the Great**
