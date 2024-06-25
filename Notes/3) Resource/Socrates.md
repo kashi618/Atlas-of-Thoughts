@@ -23,6 +23,7 @@ Create Date: 2024-01-30
 
 ### Beliefs ✏️
 - [[Justice]] as the highest form of [[Eudaimonia]]
+- Living a Just life, is to follow one's moral duty, to become a law abiding citizen.
 
 ### Books
 Although Socrates did not write any books in his lifetime, many accounts of him and his knowledge have been written down. Such as:

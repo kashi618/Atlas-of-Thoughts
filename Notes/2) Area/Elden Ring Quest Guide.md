@@ -1,7 +1,29 @@
 SOURCE:
 https://www.reddit.com/r/Eldenring/comments/tjmodv/all_npc_interactions_in_elden_ring/
 
-It's generally a good idea to start by heading toward the map for each zone. (The exception to this is Mt Gelmir, where the map is pretty out of the way)
+## Index:
+- [[#Limgrave]]
+- [[#Weeping Peninsula]]
+- [[#Stormhill]]
+- [[#Stormveil Castle]]
+- [[#Liurnia of the Lakes]]
+	- [[#Southeast Liurnia]]
+	- [[#Central Liurnia]]
+	- [[#Northwestern Liurnia (South to North)]]
+	- [[#Northeastern Liurnia]]
+- [[#Caelid/Dragonbarrow]]
+- [[#Altus Plateau]]
+- [[#Nokron/Nokstella]]
+- [[#Deeproot Depths]]
+- [[#Mt Gelmir]]
+- [[#Volcano Manor]]
+- [[#Leyndell]]
+- [[#Mountaintops of the Giants]]
+- [[#Consecrated Snowfield / Haligtree]]
+- [[#Crumbling Farum Azula]]
+- [[#Capital of Ash]]
+- [[#Frenzied Flame Ending]]
+
 ## Limgrave
 
 - Talk to **White-Faced Varre** at the very start of the game, next to The First Step Grace.

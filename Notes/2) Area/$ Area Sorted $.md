@@ -3,7 +3,9 @@
 **FromSoft**
 - [[Dark Souls Remastered Quest Guide]]
 - [[Elden Ring Quest Guide]]
+- [[Elden Ring Quest Guide SotET]]
 - [[Elden Ring Checklist]]
+
 
 **Monster Hunter**
 - [[MHW Large Monster Checklist]]

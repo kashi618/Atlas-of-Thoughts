@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9bee99ef2c251c21",
+        "id": "a06600b3430eefba",
         "type": "tabs",
         "children": [
           {
-            "id": "97511c78edc51e41",
+            "id": "ad44ff27260b6572",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2) Area/Leaving Cert Classics.md",
-                "mode": "source",
+                "file": "Notes/2) Area/Elden Ring Quest Guide.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2) Area/Leaving Cert Classics.md"
+                "file": "Notes/2) Area/Elden Ring Quest Guide.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/2) Area/Leaving Cert Classics.md"
+                "file": "Notes/2) Area/Elden Ring Quest Guide.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2) Area/Leaving Cert Classics.md",
+                "file": "Notes/2) Area/Elden Ring Quest Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2) Area/Leaving Cert Classics.md",
+                "file": "Notes/2) Area/Elden Ring Quest Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,34 +232,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "97511c78edc51e41",
+  "active": "ad44ff27260b6572",
   "lastOpenFiles": [
-    "Notes/2) Area/Leaving Cert Classics.md",
-    "Notes/2) Area/GameDev ToDo List.md",
-    "Notes/2) Area/Chinese Foods, Snacks, Drinks.md",
-    "Guitar Songs.md",
     "Notes/2) Area/$ Area Sorted $.md",
-    "Notes/2) Area/TV Shows & Movies & Anime & Manga.md",
-    "Notes/2) Area/Books.md",
-    "Notes/How to use Obsidian.md",
-    "Notes/2) Area/Leaving Cert Computer Science.md",
+    "Elden Ring Quest Guide SotET.md",
     "Notes/2) Area/Elden Ring Quest Guide.md",
     "Notes/2) Area/Elden Ring Checklist.md",
-    "Notes/2) Area/Dark Souls Remastered Quest Guide.md",
-    "Notes/2) Area/Leaving Cert English.md",
-    "Notes/2) Area/Guitar Wishlist.md",
-    "Notes/2) Area/Wishlist Other.md",
-    "Notes/2) Area/$ Area Masterlist $.md",
-    "Untitled.md",
-    "Notes/1) Project/Currently Playing Games.md",
-    "Notes/2) Area/Cheeses.md",
+    "Notes/1) Project/$ ToDo list $.md",
+    "Notes/3) Resource/Déjà Vu.md",
+    "Notes/3) Resource/道德经 - 第一章.md",
+    "Notes/3) Resource/The Republic - Plato.md",
+    "Notes/3) Resource/Presque Vu.md",
+    "Notes/3) Resource/Nikolai Vavilov.md",
+    "Notes/3) Resource/Nationalism.md",
+    "Notes/3) Resource/Memento Mori.md",
+    "Notes/3) Resource/Metaphysics.md",
+    "Notes/3) Resource/Déjà Rêvé.md",
+    "Notes/3) Resource/Socrates.md",
+    "Notes/2) Area/Quotes.md",
+    "Notes/2) Area/Bleaching Hair.md",
     "Notes/2) Area/Alcohol.md",
-    "Notes/2) Area/MHW Large Monster Checklist.md",
+    "Notes/2) Area/$ Area Masterlist $.md",
     "Notes/2) Area/Leaving Cert Orals.md",
-    "Notes/2) Area/Windows 11 MISC.md",
-    "Notes/2) Area/Pancakes & Crepes.md",
-    "Templates/3) Resource/Character Profile Philosophy.md",
-    "Notes/2) Area/Weird Animals.md",
+    "Notes/1) Project/道德经 Study.md",
+    "Notes/2) Area/GameDev ToDo List.md",
+    "Notes/2) Area/Leaving Cert Classics.md",
+    "Notes/2) Area/Chinese Foods, Snacks, Drinks.md",
+    "Guitar Songs.md",
+    "Notes/2) Area/TV Shows & Movies & Anime & Manga.md",
     "Pasted image 20240513145647.png",
     "Pasted image 20240513145645.png",
     "Media, Pictures, Gifs/AKG K371-BT.png",
