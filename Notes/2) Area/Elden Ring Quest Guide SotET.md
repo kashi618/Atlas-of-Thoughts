@@ -1,3 +1,4 @@
+SOURCE: https://www.reddit.com/r/Eldenring/comments/1dnw7dr/all_npc_interactions_in_shadow_of_the_erdtree/
 **Graveside Plain**
 
 - Speak to **Leda** at the Cocoon of the Empyrean Grace
