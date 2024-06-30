@@ -56,7 +56,7 @@
 | Crystal Knife       |  ✅  |
 | Scorpion's Stinger  |  ✅  |
 | Cinquedea           |     |
-| Glintstone Kris     |     |
+| Glintstone Kris     |  ✅  |
 | Reduvia             |  ✅  |
 | Blade of Calling    |     |
 | Black Knife         |  ✅  |
@@ -83,29 +83,29 @@
 | Coded Sword                |  ✅  |
 | Sword of Night and Flame   |     |
 
-| **Greatswords**              | ☑️✅ |
-| ---------------------------- | :-: |
-| Bastard Sword                |  ✅  |
-| Claymore                     |  ✅  |
-| Iron Greatsword              |     |
-| Lordsworn's Greatsword       |  ✅  |
-| Knight's Greatsword          |  ✅  |
-| Banished Knight's Greatsword |  ✅  |
-| Forked Greatsword            |     |
-| Flamberge                    |     |
-| Gargoyle's Greatsword        |  ✅  |
-| Gargoyle's Blackblade        |  ✅  |
-| Inseparable Sword            |  ✅  |
-| Sword of Milos               |  ✅  |
-| Marais Executioner's Sword   |  ✅  |
-| Ordovis's Greatsword         |  ✅  |
-| Alabaster lord's Sword       |  ✅  |
-| Death's Poker                |  ✅  |
-| Helphen's Steeple            |  ✅  |
-| Blasphemous Blade            |  ✅  |
-| Golden Order Greatsword      |  ✅  |
-| Dark Moon Greatsword         |  ✅  |
-| Sacred Relic Sword           |     |
+| **Greatswords**              | ☑️✅ |     |
+| ---------------------------- | :-: | --- |
+| Bastard Sword                |  ✅  |     |
+| Claymore                     |  ✅  |     |
+| Iron Greatsword              |     |     |
+| Lordsworn's Greatsword       |  ✅  |     |
+| Knight's Greatsword          |  ✅  |     |
+| Banished Knight's Greatsword |  ✅  |     |
+| Forked Greatsword            |     |     |
+| Flamberge                    |     |     |
+| Gargoyle's Greatsword        |  ✅  |     |
+| Gargoyle's Blackblade        |  ✅  |     |
+| Inseparable Sword            |  ✅  |     |
+| Sword of Milos               |  ✅  |     |
+| Marais Executioner's Sword   |  ✅  |     |
+| Ordovis's Greatsword         |  ✅  |     |
+| Alabaster lord's Sword       |  ✅  |     |
+| Death's Poker                |  ✅  |     |
+| Helphen's Steeple            |  ✅  |     |
+| Blasphemous Blade            |  ✅  |     |
+| Golden Order Greatsword      |  ✅  |     |
+| Dark Moon Greatsword         |  ✅  |     |
+| Sacred Relic Sword           |     |     |
 
 | **Colossal Swords**          | ☑️✅ |
 | ------------------------ | :-: |

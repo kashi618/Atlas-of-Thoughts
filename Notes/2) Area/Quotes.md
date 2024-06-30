@@ -5,4 +5,5 @@
 -  *I find that a duck’s opinion of me is very much influenced over whether or not I have bread* - Mitch Hedberg
 
 - *This, too, will pass away* - King Solomon
-- 
+
+- *Where is lighting that will make me look most attractive? What am I saying? I look good everywhere* - Sophie Kachinsky

@@ -19,6 +19,7 @@
 **Misc**
 - [[Books]]
 - [[GameDev ToDo List]]
+- [[Guitar Songs]]
 - [[Guitar Wishlist]]
 - [[Headphones & IEMs]]
 - [[Philosphy Books To Read]]
@@ -40,6 +41,8 @@
 ## Food Related
 ### Recipes
 - [[Pancakes & Crepes]]
+- [[辣子鸡 - Sichuan Spicy Chicken]]
+- [[蛋花湯 - Egg Drop Soup]]
 
 ## School Related
 ### Japanese
