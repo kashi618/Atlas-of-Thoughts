@@ -39,10 +39,14 @@
 - [[Weird Animals]]
 
 ## Food Related
+
+- [[Recipe Book]] (Contains pictures of food)
+\
 ### Recipes
 - [[Pancakes & Crepes]]
 - [[辣子鸡 - Sichuan Spicy Chicken]]
 - [[蛋花湯 - Egg Drop Soup]]
+- [[Sauted Potatoes]]
 
 ## School Related
 ### Japanese

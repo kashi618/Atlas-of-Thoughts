@@ -26,7 +26,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2) Area/Guitar Songs.md",
+                "file": "Notes/2) Area/$ Area Sorted $.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f29b3873599240c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2) Area/$ Area Sorted $.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f3184e86ccc9346",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recipe Book.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eccca6279405e816",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2) Area/蛋花湯 - Egg Drop Soup.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2) Area/Guitar Songs.md"
+                "file": "Recipe Book.md"
               }
             }
           },
@@ -177,7 +216,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/2) Area/Guitar Songs.md"
+                "file": "Recipe Book.md"
               }
             }
           },
@@ -199,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2) Area/Guitar Songs.md",
+                "file": "Recipe Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2) Area/Guitar Songs.md",
+                "file": "Recipe Book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,18 +285,24 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a208c69b4696812f",
+  "active": "4f3184e86ccc9346",
   "lastOpenFiles": [
     "Notes/2) Area/$ Area Sorted $.md",
+    "Recipe Book.md",
+    "Sauted Potatoes.md",
+    "Notes/How to use Obsidian.md",
     "Notes/2) Area/蛋花湯 - Egg Drop Soup.md",
+    "Notes/3) Resource/道德经 - 第二章.md",
+    "Notes/2) Area/$ Area Masterlist $.md",
+    "Notes/2) Area/Bleaching Hair.md",
+    "Notes/2) Area/Guitar Songs.md",
+    "Notes/2) Area/Dark Souls Remastered Quest Guide.md",
     "Notes/2) Area/辣子鸡 - Sichuan Spicy Chicken.md",
     "Notes/2) Area/Alcohol.md",
-    "Notes/2) Area/Bleaching Hair.md",
     "Notes/2) Area/Elden Ring Checklist.md",
     "Notes/2) Area/Pancakes & Crepes.md",
     "Notes/2) Area/Chinese Foods, Snacks, Drinks.md",
     "Notes/2) Area/Cheeses.md",
-    "Notes/2) Area/Dark Souls Remastered Quest Guide.md",
     "Notes/2) Area/Quotes.md",
     "Notes/2) Area/Elden Ring Quest Guide.md",
     "Notes/2) Area/Elden Ring Quest Guide SotET.md",
@@ -268,12 +313,6 @@
     "Notes/3) Resource/Presque Vu.md",
     "Notes/3) Resource/Nikolai Vavilov.md",
     "Notes/3) Resource/Nationalism.md",
-    "Notes/3) Resource/Memento Mori.md",
-    "Notes/3) Resource/Metaphysics.md",
-    "Notes/3) Resource/Déjà Rêvé.md",
-    "Notes/3) Resource/Socrates.md",
-    "Notes/2) Area/$ Area Masterlist $.md",
-    "Notes/2) Area/Leaving Cert Orals.md",
     "Pasted image 20240513145647.png",
     "Pasted image 20240513145645.png",
     "Media, Pictures, Gifs/AKG K371-BT.png",

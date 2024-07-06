@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Guitar Songs",
-      "path": "Notes/2) Area/Guitar Songs.md"
+      "basename": "Recipe Book",
+      "path": "Recipe Book.md"
     },
     {
       "basename": "$ Area Sorted $",
       "path": "Notes/2) Area/$ Area Sorted $.md"
     },
     {
+      "basename": "Sauted Potatoes",
+      "path": "Sauted Potatoes.md"
+    },
+    {
+      "basename": "How to use Obsidian",
+      "path": "Notes/How to use Obsidian.md"
+    },
+    {
       "basename": "蛋花湯 - Egg Drop Soup",
       "path": "Notes/2) Area/蛋花湯 - Egg Drop Soup.md"
+    },
+    {
+      "basename": "道德经 - 第二章",
+      "path": "Notes/3) Resource/道德经 - 第二章.md"
+    },
+    {
+      "basename": "$ Area Masterlist $",
+      "path": "Notes/2) Area/$ Area Masterlist $.md"
+    },
+    {
+      "basename": "Bleaching Hair",
+      "path": "Notes/2) Area/Bleaching Hair.md"
+    },
+    {
+      "basename": "Guitar Songs",
+      "path": "Notes/2) Area/Guitar Songs.md"
+    },
+    {
+      "basename": "Dark Souls Remastered Quest Guide",
+      "path": "Notes/2) Area/Dark Souls Remastered Quest Guide.md"
     },
     {
       "basename": "辣子鸡 - Sichuan Spicy Chicken",
@@ -19,10 +47,6 @@
     {
       "basename": "Alcohol",
       "path": "Notes/2) Area/Alcohol.md"
-    },
-    {
-      "basename": "Bleaching Hair",
-      "path": "Notes/2) Area/Bleaching Hair.md"
     },
     {
       "basename": "Elden Ring Checklist",
@@ -39,10 +63,6 @@
     {
       "basename": "Cheeses",
       "path": "Notes/2) Area/Cheeses.md"
-    },
-    {
-      "basename": "Dark Souls Remastered Quest Guide",
-      "path": "Notes/2) Area/Dark Souls Remastered Quest Guide.md"
     },
     {
       "basename": "Quotes",
@@ -101,10 +121,6 @@
       "path": "Notes/3) Resource/Socrates.md"
     },
     {
-      "basename": "$ Area Masterlist $",
-      "path": "Notes/2) Area/$ Area Masterlist $.md"
-    },
-    {
       "basename": "Leaving Cert Orals",
       "path": "Notes/2) Area/Leaving Cert Orals.md"
     },
@@ -127,10 +143,6 @@
     {
       "basename": "Books",
       "path": "Notes/2) Area/Books.md"
-    },
-    {
-      "basename": "How to use Obsidian",
-      "path": "Notes/How to use Obsidian.md"
     },
     {
       "basename": "Leaving Cert Computer Science",
@@ -187,18 +199,6 @@
     {
       "basename": "Tattoos",
       "path": "Notes/2) Area/Tattoos.md"
-    },
-    {
-      "basename": "Aesthetics",
-      "path": "Notes/3) Resource/Unsorted/Aesthetics.md"
-    },
-    {
-      "basename": "道德经 - 第三章",
-      "path": "Notes/3) Resource/道德经 - 第三章.md"
-    },
-    {
-      "basename": "2014 Isla Vista Massacre",
-      "path": "Notes/3) Resource/Unsorted/2014 Isla Vista Massacre.md"
     }
   ],
   "omittedPaths": [],
