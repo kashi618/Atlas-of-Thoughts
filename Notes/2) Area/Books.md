@@ -6,6 +6,7 @@ Tr.  |  Translator
 - **George Cowell** - Nineteen Eighty-Four (*89,000*)
 - **Benjamin Hoff** - The Tao of Pooh
 - **Benjamin Hoff** - The Te of Piglet
+- **Osamu Dazai** - The Setting Sun
 
 ### OnHold
 - **Plato** - The Republic (*135,250*) 
@@ -107,8 +108,9 @@ Tr.  |  Translator
 ##### Poetry
 - **Li Bai**
 
-##### Autobiographies
+##### Autobiographies/Biographies
 - **Shen fu** - Six Records of a Floating Life (*55,000*)
+- **Marco Pierre White** - The Devil in the Kitchen: Sex, Pain, Madness, and the Making of a Great Chef
 ##### Fiction
 - **Anne Frank** - The Diary of a Young Girl
 - **Anne Frank** - Tales From the Secret Annex

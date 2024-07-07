@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "41d93ac109df4410",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2) Area/Dark Souls Remastered Quest Guide.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a208c69b4696812f",
             "type": "leaf",
             "state": {
@@ -65,14 +52,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2) Area/蛋花湯 - Egg Drop Soup.md",
+                "file": "Notes/2) Area/Books.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2) Area/Dark Souls Remastered Quest Guide.md"
+                "file": "Notes/2) Area/Books.md"
               }
             }
           },
@@ -215,7 +203,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/2) Area/Dark Souls Remastered Quest Guide.md"
+                "file": "Notes/2) Area/Books.md"
               }
             }
           },
@@ -237,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2) Area/Dark Souls Remastered Quest Guide.md",
+                "file": "Notes/2) Area/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2) Area/Dark Souls Remastered Quest Guide.md",
+                "file": "Notes/2) Area/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,18 +272,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "41d93ac109df4410",
+  "active": "eccca6279405e816",
   "lastOpenFiles": [
+    "Notes/2) Area/Bleaching Hair.md",
+    "Notes/2) Area/蛋花湯 - Egg Drop Soup.md",
+    "Notes/2) Area/Dark Souls Remastered Quest Guide.md",
     "Notes/2) Area/$ Area Sorted $.md",
     "Recipe Book.md",
     "Sauted Potatoes.md",
-    "Notes/2) Area/蛋花湯 - Egg Drop Soup.md",
     "Notes/How to use Obsidian.md",
     "Notes/3) Resource/道德经 - 第二章.md",
     "Notes/2) Area/$ Area Masterlist $.md",
-    "Notes/2) Area/Bleaching Hair.md",
     "Notes/2) Area/Guitar Songs.md",
-    "Notes/2) Area/Dark Souls Remastered Quest Guide.md",
     "Notes/2) Area/辣子鸡 - Sichuan Spicy Chicken.md",
     "Notes/2) Area/Alcohol.md",
     "Notes/2) Area/Elden Ring Checklist.md",
