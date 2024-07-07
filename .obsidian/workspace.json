@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2) Area/$ Area Sorted $.md",
+                "file": "Notes/2) Area/Dark Souls Remastered Quest Guide.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipe Book.md"
+                "file": "Notes/2) Area/Dark Souls Remastered Quest Guide.md"
               }
             }
           },
@@ -216,7 +215,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Recipe Book.md"
+                "file": "Notes/2) Area/Dark Souls Remastered Quest Guide.md"
               }
             }
           },
@@ -238,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipe Book.md",
+                "file": "Notes/2) Area/Dark Souls Remastered Quest Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipe Book.md",
+                "file": "Notes/2) Area/Dark Souls Remastered Quest Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,13 +284,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4f3184e86ccc9346",
+  "active": "41d93ac109df4410",
   "lastOpenFiles": [
     "Notes/2) Area/$ Area Sorted $.md",
     "Recipe Book.md",
     "Sauted Potatoes.md",
-    "Notes/How to use Obsidian.md",
     "Notes/2) Area/蛋花湯 - Egg Drop Soup.md",
+    "Notes/How to use Obsidian.md",
     "Notes/3) Resource/道德经 - 第二章.md",
     "Notes/2) Area/$ Area Masterlist $.md",
     "Notes/2) Area/Bleaching Hair.md",
