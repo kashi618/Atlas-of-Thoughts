@@ -149,7 +149,7 @@ Tr.  |  Translator
 - **Madeline Miller** - The Song of Achilles
 - **Mary Shelly** 
 	- Frankenstein
-	- # Mathilda
+	- Mathilda
 - **Marquis de Sade** - The 120 Days of Sodom
 - **Neil Gaiman** - Sandman
 - **Olaf Stapledon** 
