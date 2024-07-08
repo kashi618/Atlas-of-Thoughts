@@ -166,6 +166,7 @@ Tr.  |  Translator
 	- 11/22/63
 	- Survivor Type
 - **Vladimir Nabokov** - Lolita
+- **William Gibson** - Neuromancer
 - **Yevgeny Zamyatin** - We (*55,000*)
 
 ##### Satire/Comedy
