@@ -112,11 +112,16 @@ Tr.  |  Translator
 - **Shen fu** - Six Records of a Floating Life (*55,000*)
 - **Marco Pierre White** - The Devil in the Kitchen: Sex, Pain, Madness, and the Making of a Great Chef
 ##### Fiction
+- **Augustina Bazterrica** - Tender Is the Flesh
 - **Anne Frank** - The Diary of a Young Girl
 - **Anne Frank** - Tales From the Secret Annex
 - **Alexandre Dumas, Auguste Maquet** - The Count of Monte Cristo
 - **Bram Stoker** - Dracula
+- **Bret Easton Ellis** - American Psycho
 - **Cormac MacCarthy** - Blood Meridian (*87,000*)
+- **C.M. Kösemen** 
+	- All Tomorrows
+	- All Yesterdays
 - **F. Scott Fitzgerald** - The Great Gatsby
 - **Frank Herbert** - Dune
 - **Fyodor Dostoevsky** - Crime and Punishment
@@ -131,6 +136,8 @@ Tr.  |  Translator
 	- [ ] The Winds of Winter
 	- [ ] A Dream of Springs
 - **Homer** - Illiad (*88,000*)
+- **Harlan Ellison** - I Have No Mouth, and I Must Scream
+- **Iris Chang** - The Rape of Nanking
 - **James Joyce** - Ulysses (*168,000*)
 - **Jane Austen** - Pride and Prejudice
 - **J.R.R Tolkien** - The Lord of the Rings
@@ -140,17 +147,25 @@ Tr.  |  Translator
 	- [ ] The Return of the King
 - **Louis Sachar** - Holes
 - **Madeline Miller** - The Song of Achilles
-- **Mary Shelly** - Frankenstein
+- **Mary Shelly** 
+	- Frankenstein
+	- # Mathilda
+- **Marquis de Sade** - The 120 Days of Sodom
 - **Neil Gaiman** - Sandman
-- **Osamu Dazai** - The Setting Sun (*48,000*)
+- **Olaf Stapledon** 
+	- Last and First Men
+	- Star Maker
 - **Rebecca Skloot** - The Immortal Life of Henrietta Lacks
 - **Ray Bradbury** - Fahrenheit 451
+- **Richard Preston** - The Hot Zone: A Terrifying True Story
 - **Shelley Parker-Chan** - She Who Became the Sun (*125,550*)
 - **Shelley Parker-Chan** - He Who Drowned the World (*177,000*)
 - **Stephen King**
 	- The Shining
 	- IT
 	- 11/22/63
+	- Survivor Type
+- **Vladimir Nabokov** - Lolita
 - **Yevgeny Zamyatin** - We (*55,000*)
 
 ##### Satire/Comedy
