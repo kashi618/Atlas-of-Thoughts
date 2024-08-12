@@ -66,6 +66,7 @@
 ### Planning
 - (**TV**) - Tom and Jerry (1940-1967)
 - (**TV**) - Rick and Morty Season 4-7
+- 
 
 **Disney Movies**
 - (**Movie**) - Beauty and the Beast
@@ -140,6 +141,8 @@
 	- Mamma Mia! Here We Go Again
 
 **Misc/Unsorted**
+- (**Movie**) - Draculov
+- Xavier renegade angels
 - (**Movie**) - Sausage Party
 - (**Movie**) - The Emoji Movie
 	- The Emoji Movie 2

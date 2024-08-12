@@ -4,11 +4,12 @@ Tr.  |  Translator
 ### InProgress
 - **Laozi | Tr. Jeff Pepper** - DaoDeJing in Clear English (*7,800*)
 - **George Cowell** - Nineteen Eighty-Four (*89,000*)
-- **Benjamin Hoff** - The Tao of Pooh
-- **Benjamin Hoff** - The Te of Piglet
 - **Osamu Dazai** - The Setting Sun
 
-### OnHold
+### OnHold/GoingToRead
+- **Benjamin Hoff** - The Tao of Pooh
+- **Benjamin Hoff** - The Te of Piglet
+- Pride and Prejudice
 - **Plato** - The Republic (*135,250*) 
 - **Plutarch** - The Age Of Alexander (*156,000*)
 - **Arrian** - The Campaigns of Alexander (*108,000*)

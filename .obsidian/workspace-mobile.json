@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToDo list.md",
+                "file": "Notes/2) Area/Weird Animals.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,39 +24,24 @@
             "id": "641f5e55937e1850",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA/2) Area/Dark Souls Remastered Quest Guide.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "37b6d0f7644a0861",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leaving Cert Study List.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "1a5c84801ddc4beb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ToDo list.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -153,6 +138,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Notes/2) Area/Weird Animals.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,6 +155,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Notes/2) Area/Weird Animals.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -180,7 +167,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "$ Resource Masterlist $.md"
+            "file": "Notes/2) Area/Weird Animals.md"
           }
         }
       },
@@ -211,8 +198,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4165edff11c022a3",
+  "active": "4895439786fb2328",
   "lastOpenFiles": [
+    "Notes/2) Area/TV Shows & Movies & Anime & Manga.md",
+    "Notes/2) Area/$ Area Sorted $.md",
+    "Notes/2) Area/Books.md",
+    "Notes/2) Area/辣子鸡 - Sichuan Spicy Chicken.md",
+    "Notes/2) Area/Cheeses.md",
     "$ Masterlist $.md",
     "ToDo list.md",
     "PARA/2) Area/GameDev ToDo List.md",
@@ -234,11 +226,6 @@
     "PARA/3) Resource, Interests/Déjà Entendu.md",
     "Xenophon.md",
     "Templates/3) Resource/Wiki Type.md",
-    "Templates/3) Resource/Character Profile.md",
-    "Templates/3) Resource/Character Profile Philosophy.md",
-    "Templates/3) Resource/Basic with Tags.md",
-    "Plato.md",
-    "PARA/How to use Obsidian.md",
     "Templates/3) Resource",
     "Templates/1) Project",
     "Templates",
