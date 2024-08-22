@@ -4,11 +4,11 @@ Tr.  |  Translator
 ### InProgress
 - **Laozi | Tr. Jeff Pepper** - DaoDeJing in Clear English (*7,800*)
 - **George Cowell** - Nineteen Eighty-Four (*89,000*)
-- **Osamu Dazai** - The Setting Sun
-
-### OnHold/GoingToRead
 - **Benjamin Hoff** - The Tao of Pooh
 - **Benjamin Hoff** - The Te of Piglet
+
+### OnHold/GoingToRead
+
 - Pride and Prejudice
 - **Plato** - The Republic (*135,250*) 
 - **Plutarch** - The Age Of Alexander (*156,000*)
@@ -53,6 +53,7 @@ Tr.  |  Translator
 - **Euripides** - Medea (*15,000*)
 
 ### Finished
+- **Osamu Dazai** - The Setting Sun
 - **Andy Mulligan** - Trash (*60,000*)
 - **John Steinbeck** - Of Mice and Men (*34,000*)
 - **S. E. Hinton** - The Outsiders (*57,000*)
