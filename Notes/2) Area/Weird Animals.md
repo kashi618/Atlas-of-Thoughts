@@ -26,6 +26,8 @@
 - **Bigfin Squid** - Long bois
 - **Fried Egg Jellyfish** - Its in the name
 - **Yeti Crab** - A furry crab...
+- **Giant Siphonosohere** - Long Worm Guys
+- **Giant Oarfish** - Japanese Folklore for as the harbringer of earthquakes
 ## Reptiles
 - **Gharial** - Long ah snoot
 - **Mata Mata** - Flattened turtle

@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2) Area/Weird Animals.md",
+                "file": "Notes/2) Area/TV Shows & Movies & Anime & Manga.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d5731166ca137d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flight.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +152,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/2) Area/Weird Animals.md",
+            "file": "Flight.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,7 +169,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/2) Area/Weird Animals.md",
+            "file": "Flight.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -167,7 +181,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/2) Area/Weird Animals.md"
+            "file": "Flight.md"
           }
         }
       },
@@ -198,10 +212,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4895439786fb2328",
+  "active": "8d5731166ca137d1",
   "lastOpenFiles": [
     "Notes/2) Area/TV Shows & Movies & Anime & Manga.md",
     "Notes/2) Area/$ Area Sorted $.md",
+    "Flight.md",
+    "TEMP",
+    "Notes/2) Area/Weird Animals.md",
     "Notes/2) Area/Books.md",
     "Notes/2) Area/辣子鸡 - Sichuan Spicy Chicken.md",
     "Notes/2) Area/Cheeses.md",
@@ -224,8 +241,6 @@
     "PARA/3) Resource, Interests/Jamais Vu.md",
     "PARA/3) Resource, Interests/Déjà Vu.md",
     "PARA/3) Resource, Interests/Déjà Entendu.md",
-    "Xenophon.md",
-    "Templates/3) Resource/Wiki Type.md",
     "Templates/3) Resource",
     "Templates/1) Project",
     "Templates",
@@ -234,7 +249,6 @@
     "/Templates/3) Resource",
     "/Templates/1) Project",
     "/Templates",
-    "/PARA/2) Area, Notes, Other/Foods + Drinks/Recipes",
-    "/PARA/2) Area, Notes, Other/Foods + Drinks"
+    "/PARA/2) Area, Notes, Other/Foods + Drinks/Recipes"
   ]
 }

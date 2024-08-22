@@ -61,8 +61,13 @@
 - (**Movie**) - Scream
 	- Scream VI
 - (**Movie**) - Wreck-It Ralph
-- (**Movie**) - The Emoji Movie
-- **Movie**) - Pixels
+- successor 
+- walle
+- ratatouille 
+- elemental
+- i.s.s
+- tarot
+- dead silence 2007
 ### Planning
 - (**TV**) - Tom and Jerry (1940-1967)
 - (**TV**) - Rick and Morty Season 4-7

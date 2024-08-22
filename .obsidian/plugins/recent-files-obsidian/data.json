@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Weird Animals",
-      "path": "Notes/2) Area/Weird Animals.md"
+      "basename": "Flight",
+      "path": "Flight.md"
     },
     {
       "basename": "TV Shows & Movies & Anime & Manga",
@@ -11,6 +11,10 @@
     {
       "basename": "$ Area Sorted $",
       "path": "Notes/2) Area/$ Area Sorted $.md"
+    },
+    {
+      "basename": "Weird Animals",
+      "path": "Notes/2) Area/Weird Animals.md"
     },
     {
       "basename": "Books",
@@ -195,10 +199,6 @@
     {
       "basename": "Steam Custom Launch",
       "path": "Notes/2) Area/Steam Custom Launch.md"
-    },
-    {
-      "basename": "Tattoos",
-      "path": "Notes/2) Area/Tattoos.md"
     }
   ],
   "omittedPaths": [],
