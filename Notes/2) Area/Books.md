@@ -105,7 +105,7 @@ Tr.  |  Translator
 ###### Confucianism and Daoism
 - **Wang Yang-Ming** - The Philosophy of Wang Yang-Ming
 - **Wang Yang-Ming** - Instructions For Practical Living And Other Neo-Confucian Writing
-
+- **Benjamin Hoff** - The Eternal Tao Te Ching
 ##### Poetry
 - **Li Bai**
 

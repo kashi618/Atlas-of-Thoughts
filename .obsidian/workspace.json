@@ -13,45 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2) Area/$ Area Sorted $.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f29b3873599240c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2) Area/$ Area Sorted $.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f3184e86ccc9346",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recipe Book.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eccca6279405e816",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Notes/2) Area/Books.md",
                 "mode": "source",
                 "backlinks": true,
@@ -59,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -272,12 +232,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "eccca6279405e816",
+  "active": "a208c69b4696812f",
   "lastOpenFiles": [
+    "Notes/2) Area/$ Area Sorted $.md",
+    "Notes/2) Area/Elden Ring Quest Guide.md",
+    "Flight.md",
+    "Notes/2) Area/Elden Ring Quest Guide SotET.md",
+    "Notes/2) Area/Books.md",
     "Notes/2) Area/Bleaching Hair.md",
     "Notes/2) Area/蛋花湯 - Egg Drop Soup.md",
     "Notes/2) Area/Dark Souls Remastered Quest Guide.md",
-    "Notes/2) Area/$ Area Sorted $.md",
     "Recipe Book.md",
     "Sauted Potatoes.md",
     "Notes/How to use Obsidian.md",
@@ -291,15 +255,11 @@
     "Notes/2) Area/Chinese Foods, Snacks, Drinks.md",
     "Notes/2) Area/Cheeses.md",
     "Notes/2) Area/Quotes.md",
-    "Notes/2) Area/Elden Ring Quest Guide.md",
-    "Notes/2) Area/Elden Ring Quest Guide SotET.md",
     "Notes/1) Project/$ ToDo list $.md",
     "Notes/3) Resource/Déjà Vu.md",
     "Notes/3) Resource/道德经 - 第一章.md",
     "Notes/3) Resource/The Republic - Plato.md",
     "Notes/3) Resource/Presque Vu.md",
-    "Notes/3) Resource/Nikolai Vavilov.md",
-    "Notes/3) Resource/Nationalism.md",
     "Pasted image 20240513145647.png",
     "Pasted image 20240513145645.png",
     "Media, Pictures, Gifs/AKG K371-BT.png",
