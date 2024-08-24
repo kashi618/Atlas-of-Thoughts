@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Books",
-      "path": "Notes/2) Area/Books.md"
+      "basename": "OverTheWire - Bandit",
+      "path": "OverTheWire - Bandit.md"
+    },
+    {
+      "basename": "Sauted Potatoes",
+      "path": "Sauted Potatoes.md"
+    },
+    {
+      "basename": "Flight 2024",
+      "path": "Flight 2024.md"
+    },
+    {
+      "basename": "Recipe Book",
+      "path": "Recipe Book.md"
+    },
+    {
+      "basename": "How to use Obsidian",
+      "path": "Notes/How to use Obsidian.md"
     },
     {
       "basename": "$ Area Sorted $",
@@ -13,8 +29,12 @@
       "path": "Notes/2) Area/Elden Ring Quest Guide.md"
     },
     {
-      "basename": "Flight",
-      "path": "Flight.md"
+      "basename": "Elden Ring Quest Guide SotET",
+      "path": "Notes/2) Area/Elden Ring Quest Guide SotET.md"
+    },
+    {
+      "basename": "Books",
+      "path": "Notes/2) Area/Books.md"
     },
     {
       "basename": "TV Shows & Movies & Anime & Manga",
@@ -43,18 +63,6 @@
     {
       "basename": "Dark Souls Remastered Quest Guide",
       "path": "Notes/2) Area/Dark Souls Remastered Quest Guide.md"
-    },
-    {
-      "basename": "Recipe Book",
-      "path": "Recipe Book.md"
-    },
-    {
-      "basename": "Sauted Potatoes",
-      "path": "Sauted Potatoes.md"
-    },
-    {
-      "basename": "How to use Obsidian",
-      "path": "Notes/How to use Obsidian.md"
     },
     {
       "basename": "道德经 - 第二章",
@@ -87,10 +95,6 @@
     {
       "basename": "Quotes",
       "path": "Notes/2) Area/Quotes.md"
-    },
-    {
-      "basename": "Elden Ring Quest Guide SotET",
-      "path": "Notes/2) Area/Elden Ring Quest Guide SotET.md"
     },
     {
       "basename": "$ ToDo list $",
@@ -195,10 +199,6 @@
     {
       "basename": "Headphones & IEMs",
       "path": "Notes/2) Area/Headphones & IEMs.md"
-    },
-    {
-      "basename": "Steam Custom Launch",
-      "path": "Notes/2) Area/Steam Custom Launch.md"
     }
   ],
   "omittedPaths": [],
