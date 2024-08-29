@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Skyrim - The End",
+      "path": "Skyrim - The End.md"
+    },
+    {
+      "basename": "TV Shows & Movies & Anime & Manga",
+      "path": "Notes/2) Area/TV Shows & Movies & Anime & Manga.md"
+    },
+    {
       "basename": "OverTheWire - Bandit",
       "path": "OverTheWire - Bandit.md"
+    },
+    {
+      "basename": "Flight 2024",
+      "path": "Flight 2024.md"
     },
     {
       "basename": "Sauted Potatoes",
       "path": "Sauted Potatoes.md"
     },
     {
-      "basename": "Flight 2024",
-      "path": "Flight 2024.md"
+      "basename": "Cheeses",
+      "path": "Notes/2) Area/Cheeses.md"
     },
     {
       "basename": "Recipe Book",
@@ -37,20 +49,12 @@
       "path": "Notes/2) Area/Books.md"
     },
     {
-      "basename": "TV Shows & Movies & Anime & Manga",
-      "path": "Notes/2) Area/TV Shows & Movies & Anime & Manga.md"
-    },
-    {
       "basename": "Weird Animals",
       "path": "Notes/2) Area/Weird Animals.md"
     },
     {
       "basename": "辣子鸡 - Sichuan Spicy Chicken",
       "path": "Notes/2) Area/辣子鸡 - Sichuan Spicy Chicken.md"
-    },
-    {
-      "basename": "Cheeses",
-      "path": "Notes/2) Area/Cheeses.md"
     },
     {
       "basename": "Bleaching Hair",
@@ -195,10 +199,6 @@
     {
       "basename": "Philosphy Books To Read",
       "path": "Notes/2) Area/Philosphy Books To Read.md"
-    },
-    {
-      "basename": "Headphones & IEMs",
-      "path": "Notes/2) Area/Headphones & IEMs.md"
     }
   ],
   "omittedPaths": [],

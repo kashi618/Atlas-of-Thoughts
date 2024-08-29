@@ -9,71 +9,71 @@
 1/10
 
 #### French
-- [x] **Bleu d'Auvergne**
+- **Bleu d'Auvergne**
 	9/10
-- [x] **Comte Le Fort**
+- **Comte Le Fort**
 	8/10
-- [x] Roquefort
+- Roquefort
 	7/10
-- [x] Ossau-Iraty
+- Ossau-Iraty
 	7.5/10
-- [x] Brie
+- Brie
 	6/10
-- [x] Camambert
+- Camambert
 	6.5/10
-- [x] Babybel
+- Babybel
 	5/10
 #### Italian
-- [x] **Parmigiano Reggiano**
+- **Parmigiano Reggiano**
 	9/10
-- [x] **Grana Padano**
+- Grana Padano**
 	8.3/10
-- [x] Queso De Cabra
+- Queso De Cabra
 	7.5/10
-- [x] Queso Manchego
+- Queso Manchego
 	7/10
-- [x] Queso Iberico
+- Queso Iberico
 	7/10
-- [x] Pecorino Romano
+- Pecorino Romano
 	6.5/10
-- [x] Parmesan
+- Parmesan
 	6/10
-- [x] Fresh Mozzarella
+- Fresh Mozzarella
 	6/10
-- [x] Shredded Mozzarella
+- Shredded Mozzarella
 	5/10
-- [ ] Gorgonzola
+Gorgonzola
 #### Irish
-- [x] **Boyne Valley Blue**
+- **Boyne Valley Blue**
 	8/10
-- [x] Cashel Blue
-	4/10
-- [x] Tipperary Smoked Brie
+- Cashel Blue
+	6/10
+- Tipperary Smoked Brie
 	4/10
 
 #### English
-- [x] Cheddar
+- Cheddar
 	7/10
-- [x] Sage Derby
+- Sage Derby
 	6.5/10
-- [ ] Double Gloucester
-- [ ] Red Leicester
-- [ ] Blue Stilton
+Double Gloucester
+Red Leicester
+Blue Stilton
 #### Dutch
-- [x] Vintage Gouda
+- Vintage Gouda
 	6.7/10
 
 #### United States
-- [ ] Rogue River Blue
-- [ ] Montgomery Jack
+Rogue River Blue
+Montgomery Jack
 #### Greece
-- [x] Feta
+- Feta
 	6/10
 #### Middle Eastern
-- [x] Kashkaval (Polish made)
+- Kashkaval (Polish made)
 	5/10
 #### Other
-- [x] Goats cheese
+- Goats cheese
 	7.5/10
-- [x] Processed/Plastic cheese
-	5/10
+- Processed/Plastic cheese
+	7/10

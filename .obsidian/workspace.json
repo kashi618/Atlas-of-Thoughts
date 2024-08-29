@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "8c910864688401ae",
+        "id": "19e21c336f9669a8",
         "type": "tabs",
         "children": [
           {
-            "id": "a208c69b4696812f",
+            "id": "80f360d5f582a3db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sauted Potatoes.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "356e5983e6b89b03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OverTheWire - Bandit.md",
+                "file": "Skyrim - The End.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +83,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5f252b2efa3321c0",
@@ -133,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OverTheWire - Bandit.md"
+                "file": "Skyrim - The End.md"
               }
             }
           },
@@ -177,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "OverTheWire - Bandit.md"
+                "file": "Skyrim - The End.md"
               }
             }
           },
@@ -199,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OverTheWire - Bandit.md",
+                "file": "Skyrim - The End.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OverTheWire - Bandit.md",
+                "file": "Skyrim - The End.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,11 +233,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "356e5983e6b89b03",
+  "active": "80f360d5f582a3db",
   "lastOpenFiles": [
-    "Sauted Potatoes.md",
+    "Skyrim - The End.md",
+    "Notes/2) Area/TV Shows & Movies & Anime & Manga.md",
     "OverTheWire - Bandit.md",
     "Flight 2024.md",
+    "Sauted Potatoes.md",
+    "Notes/2) Area/Cheeses.md",
     "Recipe Book.md",
     "Notes/How to use Obsidian.md",
     "Notes/2) Area/$ Area Sorted $.md",
@@ -268,12 +258,9 @@
     "Notes/2) Area/Elden Ring Checklist.md",
     "Notes/2) Area/Pancakes & Crepes.md",
     "Notes/2) Area/Chinese Foods, Snacks, Drinks.md",
-    "Notes/2) Area/Cheeses.md",
     "Notes/2) Area/Quotes.md",
     "Notes/1) Project/$ ToDo list $.md",
     "Notes/3) Resource/Déjà Vu.md",
-    "Notes/3) Resource/道德经 - 第一章.md",
-    "Notes/3) Resource/The Republic - Plato.md",
     "Pasted image 20240513145647.png",
     "Pasted image 20240513145645.png",
     "Media, Pictures, Gifs/AKG K371-BT.png",
