@@ -1,13 +1,27 @@
 ## Info
 Game Version: 1.6.1170.0
 
-## Main Mods
-- Alternative Start
-- UI
+## Main Mods I Want
+- **Dear Diary Dark Mode UI**
+- **2B Character Preset**
+- **Crash Logger**
+
+Big Mods + Dependencies etc
+- Landscape (Flora + Fauna) Overhaul
 - Legacy of the Dragonborn
-- 2B Character Preset
-- Soulslike Combat
-- Optimization
+- Soulslike Combat and Animation
+- Perk and Magic Overhaul
+- ENB/Lighting
+
+To Get
+- Immersive Creatures
+- More Weaponry (Immersive weapons?)
+- Improved Vanilla Armour Graphics
+
+Interesting Single Mods
+- Remember lockpick angle
+- Recorder Follower
+- More Character Outfits
 
 ## Tools
 - Bethini
