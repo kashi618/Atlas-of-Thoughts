@@ -48,14 +48,18 @@ DONT FORGET TO RERUN
   https://www.nexusmods.com/skyrimspecialedition/mods/51073
 
 - **Unofficial Skyrim Special Edition Patch - USSEP
-  **https://www.nexusmods.com/skyrimspecialedition/mods/266
+  https://www.nexusmods.com/skyrimspecialedition/mods/266
 
 - **Alternative Start - Live Another Life**
+  https://www.nexusmods.com/skyrimspecialedition/mods/272
 	- *Unofficial Skyrim Special Edition Patch - USSEP*
 
 - **RaceMenu**
-	- https://www.nexusmods.com/skyrimspecialedition/mods/19080
+  https://www.nexusmods.com/skyrimspecialedition/mods/19080
 
+- **Crash Logger SSE AE VR**
+  https://www.nexusmods.com/skyrimspecialedition/mods/59818
+	- Address Library for SKSE Plugins
 ### UI
 - **SkyUI**
   https://www.nexusmods.com/skyrimspecialedition/mods/12604
