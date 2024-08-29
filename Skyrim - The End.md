@@ -59,7 +59,7 @@ DONT FORGET TO RERUN
 
 - **Crash Logger SSE AE VR**
   https://www.nexusmods.com/skyrimspecialedition/mods/59818
-	- Address Library for SKSE Plugins
+	- *Address Library for SKSE Plugins*
 ### UI
 - **SkyUI**
   https://www.nexusmods.com/skyrimspecialedition/mods/12604
