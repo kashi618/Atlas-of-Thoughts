@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "8189026f667fc931",
+            "id": "5c82e65f1a29abcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/$ Area Sorted $.md",
+                "file": "Unsorted/3) Resource/Agronomist.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Unsorted/3) Resource/Agronomist.md"
+              }
             }
           },
           {
@@ -162,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Unsorted/3) Resource/Agronomist.md"
+              }
             }
           },
           {
@@ -183,6 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Unsorted/3) Resource/Agronomist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,6 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Unsorted/3) Resource/Agronomist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,34 +232,34 @@
       "random-note:Open random note": false
     }
   },
-  "active": "370a24fabb7b70f5",
+  "active": "5c82e65f1a29abcd",
   "lastOpenFiles": [
-    "Notes/$ Area Sorted $.md",
-    "Notes/Cheeses.md",
-    "Notes/Elden Ring Checklist.md",
-    "Notes/$ Area Masterlist $.md",
-    "Notes/Untitled.md",
-    "Notes/GameDev ToDo List.md",
-    "Notes/How to use Obsidian.md",
-    "Unsorted/1) Project/On Hold/Cats and Balls.md",
-    "Unsorted/1) Project/道德经 Study.md",
-    "Unsorted/1) Project/Currently Playing Games.md",
-    "Unsorted/1) Project/$ ToDo list $.md",
+    "Unsorted/3) Resource/Abolition.md",
+    "Unsorted/3) Resource/Unsorted/2014 Isla Vista Massacre.md",
+    "Unsorted/3) Resource/Unsorted/Justice.md",
+    "Unsorted/3) Resource/Unsorted/Logic.md",
+    "Unsorted/3) Resource/Unsorted/Mathematics.md",
+    "Unsorted/3) Resource/Unsorted/Nazism.md",
+    "Unsorted/3) Resource/Unsorted/Plato.md",
+    "Unsorted/3) Resource/Unsorted/Political Philosophy.md",
+    "Unsorted/3) Resource/Unsorted/Roman Empire.md",
+    "Unsorted/3) Resource/Unsorted/Soviet Union.md",
+    "Unsorted/3) Resource/Unsorted/Socratic Dialogue.md",
+    "Unsorted/3) Resource/Unsorted/Superfest Glass.md",
+    "Unsorted/3) Resource/Unsorted/Wang Yangming.md",
+    "Unsorted/3) Resource/Unsorted/Xenophon.md",
+    "Unsorted/3) Resource/Unsorted/Western Philosophy.md",
+    "Unsorted/3) Resource/Unsorted/Joseph Stalin.md",
+    "Unsorted/3) Resource/Unsorted/Greek Empire.md",
+    "Unsorted/3) Resource/Unsorted/Friedrick Nietzsche.md",
+    "Unsorted/3) Resource/Unsorted/French Revolution.md",
+    "Unsorted/3) Resource/Unsorted/Ethics.md",
+    "Unsorted/3) Resource/Unsorted/Epistemology.md",
     "Unsorted/3) Resource/Unsorted/Aesthetics.md",
-    "Unsorted/3) Resource/Déjà Vécu.md",
-    "Unsorted/3) Resource/Agronomist.md",
-    "Notes/Elden Ring Quest Guide SotET.md",
-    "Notes/Alcohol.md",
-    "Notes/辣子鸡 - Sichuan Spicy Chicken.md",
-    "Notes/蛋花湯 - Egg Drop Soup.md",
-    "Notes/Windows 11 MISC.md",
-    "Notes/Weird Animals.md",
-    "Notes/TV Shows & Movies & Anime & Manga.md",
-    "Notes/Tattoos.md",
-    "Notes/Statues, Busts, etc.md",
-    "Notes/Skyrim - The End.md",
-    "Notes/Sauted Potatoes.md",
-    "Notes/Recipe Book.md",
+    "Unsorted/3) Resource/Unsorted/Communist Manifesto - Karl Marx, Freidrich Engels.md",
+    "Unsorted/3) Resource/Unsorted/Chinese Philosophy.md",
+    "Unsorted/3) Resource/Unsorted/Chinese Communist Party.md",
+    "Unsorted/3) Resource/Unsorted/Aristotle.md",
     "Pasted image 20240513145647.png",
     "Pasted image 20240513145645.png",
     "Media, Pictures, Gifs/AKG K371-BT.png",
