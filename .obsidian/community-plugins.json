@@ -6,12 +6,12 @@
   "obsidian-emoji-toolbar",
   "editing-toolbar",
   "colored-tags",
-  "obsidian-file-color",
   "obsidian-icon-folder",
   "recent-files-obsidian",
   "omnisearch",
   "obsidian-sort-and-permute-lines",
   "obsidian-outliner",
   "obsidian-copy-block-link",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-file-color"
 ]

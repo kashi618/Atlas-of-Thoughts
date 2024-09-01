@@ -28,11 +28,12 @@
     "iconsInLinksEnabled": true,
     "debugMode": false
   },
-  "Templates/1) Project": "LiArrowRightFromLine",
   "Templates/2) Area": "LiArrowRightFromLine",
-  "Templates/3) Resource": "LiArrowRightFromLine",
   "Templates/4) Archive": "LiArrowRightFromLine",
-  "Notes/2) Area": "LiArrowRightFromLine",
-  "Notes/1) Project": "LiArrowRightFromLine",
-  "Notes/3) Resource": "LiArrowRightFromLine"
+  "Unsorted/3) Resource": "LiArrowRightFromLine",
+  "Unsorted/1) Project": "LiArrowRightFromLine",
+  "Notes": {
+    "iconName": "LiArrowRightFromLine",
+    "iconColor": "#ff6beb"
+  }
 }

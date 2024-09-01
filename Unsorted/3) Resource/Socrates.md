@@ -16,8 +16,8 @@ Create Date: 2024-01-30
 
 ### Life 📖
 ##### Quotes:
-*"I am the wisest man alive, for I know one thing, and that is that I know nothing."*
-- [[Notes/3) Resource/Unsorted/The Republic - Plato]]
+*"I am the wisest man alive, for I kn[](Western%20Philosophy.md) is that I know nothing."*
+- [[Unsorted/3) Resource/Unsorted/The Republic - Plato]]
 *"The unexamined life is not worth living"*
 - [[Apology - Plato]]
 
@@ -28,6 +28,6 @@ Create Date: 2024-01-30
 ### Books
 Although Socrates did not write any books in his lifetime, many accounts of him and his knowledge have been written down. Such as:
 - [[Plato]] (Socrate's student)
-	- [[Notes/3) Resource/Unsorted/The Republic - Plato]]
+	- [[Unsorted/3) Resource/Unsorted/The Republic - Plato]]
 - [[Aristotle]] (Plato's student)
 - [[Xenophon]] (Socrate's student)
