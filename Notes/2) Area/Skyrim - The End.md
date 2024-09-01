@@ -1,3 +1,5 @@
+#GameHelp
+
 ## Info
 Game Version: 1.6.1170.0
 
@@ -7,11 +9,12 @@ Game Version: 1.6.1170.0
 - **Crash Logger**
 
 Big Mods + Dependencies etc
-- Landscape (Flora + Fauna) Overhaul
+- Graphics Overhauk (Flora, Towns, Weather Mods)
+- ENB/Lighting
 - Legacy of the Dragonborn
 - Soulslike Combat and Animation
 - Perk and Magic Overhaul
-- ENB/Lighting
+
 
 To Get
 - Immersive Creatures
@@ -39,6 +42,8 @@ Interesting Single Mods
 
 DONT FORGET TO RERUN
 - Legacy of the Dragonborn Patches
+- Lux (patch hub)
+- Lux
 
 ### Vital
 - **Address Library for SKSE Plugins**
@@ -47,9 +52,13 @@ DONT FORGET TO RERUN
 - **powerofthree's Tweaks**
   https://www.nexusmods.com/skyrimspecialedition/mods/51073
 
+- **SSE Engine Fixes**
+	- *Address Library for SKSE Plugins*
+
 - **Unofficial Skyrim Special Edition Patch - USSEP
   https://www.nexusmods.com/skyrimspecialedition/mods/266
 
+### Vital 2.0
 - **Alternative Start - Live Another Life**
   https://www.nexusmods.com/skyrimspecialedition/mods/272
 	- *Unofficial Skyrim Special Edition Patch - USSEP*
@@ -60,6 +69,8 @@ DONT FORGET TO RERUN
 - **Crash Logger SSE AE VR**
   https://www.nexusmods.com/skyrimspecialedition/mods/59818
 	- *Address Library for SKSE Plugins*
+
+- https://www.nexusmods.com/skyrimspecialedition/mods/2786?tab=files&file_id=4208
 ### UI
 - **SkyUI**
   https://www.nexusmods.com/skyrimspecialedition/mods/12604
@@ -88,6 +99,30 @@ DONT FORGET TO RERUN
 	  https://www.nexusmods.com/skyrimspecialedition/mods/107216
 	- Quest Journal Fixes
 	  https://www.nexusmods.com/skyrimspecialedition/mods/108618
+
+
+### Graphics
+- **Trees**
+	- **Enhanced Vanilla Trees SE**
+	- **Dense Nordic Forests**
+
+- **Grass and Flora**
+	- **QW's Grass Patch 2**
+		- Cathedral - 3D Pine Grass - Full 3D Coverage
+		- Origins Of Forest
+		- Folkvangr
+		- QW's Grass Patch 2
+	- **Forest Fragments - Forest Debris Expansion**
+	- **Cathedral - 3D Rocky Shores**
+	- **Mari's Flora
+
+- **Textures**
+	- **Static Mesh Improvement Mod**
+	- **Skyrim 202X**
+	- **Rudy HQ - Nordic Ruins SE**
+
+- **Roads**
+	- **Blended Roads**
 
 ### Gameplay
 - **Simple Item Spawner**
@@ -132,11 +167,27 @@ DONT FORGET TO RERUN
 		- YoRHa 2B Attire - CBBE 3BA
 		  https://www.nexusmods.com/skyrimspecialedition/mods/50833
 
-
-
 ### Legacy of the Dragonborn
 - **Legacy of the Dragonborn SSE**
 	- Legacy of the Dragonborn SSE
 	  https://www.nexusmods.com/skyrimspecialedition/mods/11802
 	- Legacy of the Dragonborn Patches (Official)
 	  https://www.nexusmods.com/skyrimspecialedition/mods/30980
+
+### ENB and Lighting
+- **Rudy ENB**
+	- *SSE Engine Fixes*
+	- Obsidian Weather and Seasons
+	- Rudy ENB Obsidian Weathers ADDONS and REQUiRED Files
+	- Enhanced Volumentric Lighting and Shadows (EVLaS)
+		- *Address Library for SKSE Plugins*
+	- Moons and Stars - Sky Overhaul
+		- *Address Library for SKSE Plugins*
+	- Water for ENB
+	- Embers XD
+	- ENB Helper SE
+	- Particle Patch for ENB
+	- Rudy ENB
+	- Lux Via
+	- Lux
+	- Lux Patch Hub
