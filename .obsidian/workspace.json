@@ -27,22 +27,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c1039d5d5f3bcc76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cholestrol.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,8 +92,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5f252b2efa3321c0",
@@ -201,7 +187,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cholestrol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +203,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cholestrol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +230,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "96146b79b47a45f2",
+  "active": "d828e5b8bc561a69",
   "lastOpenFiles": [
     "Unsorted/3) Resource/Agronomist.md",
     "Cholestrol.md",
