@@ -105,7 +105,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5f252b2efa3321c0",
@@ -239,13 +240,13 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "c1039d5d5f3bcc76",
+  "active": "96146b79b47a45f2",
   "lastOpenFiles": [
     "Unsorted/3) Resource/Agronomist.md",
     "Cholestrol.md",
