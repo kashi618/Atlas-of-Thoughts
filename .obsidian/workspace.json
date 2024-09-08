@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cholestrol.md"
+                "file": "Co.md"
               }
             }
           },
@@ -165,7 +165,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Cholestrol.md"
+                "file": "Co.md"
               }
             }
           },
@@ -212,8 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,8 +231,9 @@
   },
   "active": "d828e5b8bc561a69",
   "lastOpenFiles": [
-    "Unsorted/3) Resource/Agronomist.md",
     "Cholestrol.md",
+    "Co.md",
+    "Unsorted/3) Resource/Agronomist.md",
     "Unsorted/3) Resource/Abolition.md",
     "Unsorted/3) Resource/Unsorted/2014 Isla Vista Massacre.md",
     "Unsorted/3) Resource/Unsorted/Justice.md",
@@ -257,7 +257,6 @@
     "Unsorted/3) Resource/Unsorted/Epistemology.md",
     "Unsorted/3) Resource/Unsorted/Aesthetics.md",
     "Unsorted/3) Resource/Unsorted/Communist Manifesto - Karl Marx, Freidrich Engels.md",
-    "Unsorted/3) Resource/Unsorted/Chinese Philosophy.md",
     "Pasted image 20240513145647.png",
     "Pasted image 20240513145645.png",
     "Media, Pictures, Gifs/AKG K371-BT.png",
