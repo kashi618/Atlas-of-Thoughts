@@ -20,17 +20,17 @@
   "app:toggle-left-sidebar": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
-      "key": "Numpad1"
+      "key": ","
     }
   ],
   "app:toggle-right-sidebar": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
-      "key": "Numpad3"
+      "key": "."
     }
   ]
 }
