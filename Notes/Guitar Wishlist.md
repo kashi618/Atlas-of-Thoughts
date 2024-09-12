@@ -1,4 +1,3 @@
-#Wishlist
 ## Index
 - [[#Headless]]
 - [[#Gibson Body]]

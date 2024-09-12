@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "90d70af8b4b52bb1",
+        "id": "00747d9ef924201b",
         "type": "tabs",
         "children": [
           {
-            "id": "e5f40560eef151f4",
+            "id": "97aceaa933416128",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -27,7 +27,7 @@
       {
         "id": "1b4e08c64f3212e8",
         "type": "tabs",
-        "dimension": 59.242761692650326,
+        "dimension": 59.22705314009662,
         "children": [
           {
             "id": "d828e5b8bc561a69",
@@ -78,13 +78,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5f252b2efa3321c0",
         "type": "tabs",
-        "dimension": 40.75723830734967,
+        "dimension": 40.77294685990338,
         "children": [
           {
             "id": "370a24fabb7b70f5",
@@ -114,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Unsorted/3) Resource/Agronomist.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Unsorted/3) Resource/Agronomist.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,7 +169,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unsorted/3) Resource/Agronomist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +185,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unsorted/3) Resource/Agronomist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,34 +211,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "96146b79b47a45f2",
+  "active": "d828e5b8bc561a69",
   "lastOpenFiles": [
-    "Cholestrol.md",
-    "Co.md",
-    "Unsorted/3) Resource/Agronomist.md",
-    "Unsorted/3) Resource/Abolition.md",
-    "Unsorted/3) Resource/Unsorted/2014 Isla Vista Massacre.md",
-    "Unsorted/3) Resource/Unsorted/Justice.md",
-    "Unsorted/3) Resource/Unsorted/Logic.md",
-    "Unsorted/3) Resource/Unsorted/Mathematics.md",
-    "Unsorted/3) Resource/Unsorted/Nazism.md",
-    "Unsorted/3) Resource/Unsorted/Plato.md",
-    "Unsorted/3) Resource/Unsorted/Political Philosophy.md",
-    "Unsorted/3) Resource/Unsorted/Roman Empire.md",
-    "Unsorted/3) Resource/Unsorted/Soviet Union.md",
-    "Unsorted/3) Resource/Unsorted/Socratic Dialogue.md",
-    "Unsorted/3) Resource/Unsorted/Superfest Glass.md",
-    "Unsorted/3) Resource/Unsorted/Wang Yangming.md",
-    "Unsorted/3) Resource/Unsorted/Xenophon.md",
-    "Unsorted/3) Resource/Unsorted/Western Philosophy.md",
-    "Unsorted/3) Resource/Unsorted/Joseph Stalin.md",
-    "Unsorted/3) Resource/Unsorted/Greek Empire.md",
-    "Unsorted/3) Resource/Unsorted/Friedrick Nietzsche.md",
-    "Unsorted/3) Resource/Unsorted/French Revolution.md",
-    "Unsorted/3) Resource/Unsorted/Ethics.md",
-    "Unsorted/3) Resource/Unsorted/Epistemology.md",
-    "Unsorted/3) Resource/Unsorted/Aesthetics.md",
-    "Unsorted/3) Resource/Unsorted/Communist Manifesto - Karl Marx, Freidrich Engels.md",
+    "Notes/Alcohol.md",
+    "Notes/Bleaching Hair.md",
+    "Notes/Books.md",
+    "Notes/Cheeses.md",
+    "Notes/Chinese Foods, Snacks, Drinks.md",
+    "Notes/Dark Souls Remastered Quest Guide.md",
+    "Notes/Elden Ring Checklist.md",
+    "Notes/Elden Ring Quest Guide.md",
+    "Notes/Elden Ring Quest Guide SotET.md",
+    "Notes/Flight 2024.md",
+    "Notes/GameDev ToDo List.md",
+    "Notes/Guitar Wishlist.md",
+    "Notes/Headphones & IEMs.md",
+    "Notes/How to use Obsidian.md",
+    "Notes/Leaving Cert Classics.md",
+    "Notes/Leaving Cert Computer Science.md",
+    "Notes/Leaving Cert English.md",
+    "Notes/Leaving Cert Orals.md",
+    "Notes/MHW Large Monster Checklist.md",
+    "Notes/OverTheWire - Bandit.md",
+    "Notes/Pancakes & Crepes.md",
+    "Notes/Philosphy Books To Read.md",
+    "Notes/Quotes.md",
+    "Notes/Rechargeable Battery Datasheet.md",
+    "Notes/Recipe Book.md",
+    "Notes/Sauted Potatoes.md",
     "Pasted image 20240513145647.png",
     "Pasted image 20240513145645.png",
     "Media, Pictures, Gifs/AKG K371-BT.png",

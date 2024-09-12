@@ -1,5 +1,3 @@
-#Interesting
-
 ## STRAIGHT FROM HELL
 - **Giant Centipede**
 ## Amphibian

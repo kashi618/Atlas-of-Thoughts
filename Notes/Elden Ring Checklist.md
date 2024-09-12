@@ -1,5 +1,3 @@
-#GameHelp
-
 ## Boss Tracker
 
 - [[#Limgrave]]

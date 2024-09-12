@@ -1,5 +1,3 @@
-#GameHelp
-
 SOURCE:
 https://www.reddit.com/r/Eldenring/comments/tjmodv/all_npc_interactions_in_elden_ring/
 

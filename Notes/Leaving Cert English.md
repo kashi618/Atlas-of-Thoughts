@@ -1,5 +1,3 @@
-#LeavingCert
-
 # Index
 
 - [[#5 Language Types (Paper 1 Question A iii)]]

@@ -1,5 +1,3 @@
-#books 
-
 ### Books To Read
 Most answers here suggest reading some introductions to philosophy. While that’s all fine and dandy, as the question seems to be about the works of great philosophers, i.e. primary works, I thought I would chip in with a fairly substantial list of important works from great philosophers. I order them according to some hazy principle that takes into account how easy they are to read and how they might build upon each other or have important synergy – or something. At the end of the day, it will be just my personal list that happens to make sense for me.
 

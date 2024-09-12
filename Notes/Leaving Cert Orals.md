@@ -1,5 +1,3 @@
-#LeavingCert
-
 ## Section 1
 #### General Conversation
 shourai - future　

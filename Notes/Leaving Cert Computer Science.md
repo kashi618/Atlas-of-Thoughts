@@ -1,5 +1,3 @@
-#LeavingCert
-
 ### Program Counter
 * A special register which keeps track of the memory address of the next instruction to be executed in a program
 ### Protocol

@@ -1,4 +1,3 @@
-#List
 **9/10**
 **8/10**
 7/10
@@ -57,9 +56,11 @@ Gorgonzola
 	7/10
 - Sage Derby
 	6.5/10
+- Blue Stilton
+	7/10
 Double Gloucester
 Red Leicester
-Blue Stilton
+
 #### Dutch
 - Vintage Gouda
 	6.7/10

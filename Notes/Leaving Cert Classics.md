@@ -1,5 +1,3 @@
-#LeavingCert
-
 ## Index
 - [[#Strand 1 World of Heroes]]
 - [[#Strand 2 Drama and Spectacle]]

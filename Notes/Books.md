@@ -1,4 +1,3 @@
-#books
 **Key:**
 Tr.  |  Translator
 

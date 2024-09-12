@@ -1,5 +1,3 @@
-#Recipe
-
 ### Ingredients:
 - **Ginger**
 - **Garlic**

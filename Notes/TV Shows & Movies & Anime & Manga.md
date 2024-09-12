@@ -1,5 +1,3 @@
-#List
-
 # Index
 - [[#TV Shows & Movies]]
 - [[#Anime]]
