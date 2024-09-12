@@ -11,8 +11,13 @@
             "id": "e5f40560eef151f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -78,8 +83,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5f252b2efa3321c0",
@@ -115,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unsorted/3) Resource/Agronomist.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -152,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Unsorted/3) Resource/Agronomist.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -174,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unsorted/3) Resource/Agronomist.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unsorted/3) Resource/Agronomist.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,8 +223,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "96146b79b47a45f2",
+  "active": "e5f40560eef151f4",
   "lastOpenFiles": [
+    "Untitled.md",
+    "College/Year 1",
+    "College",
     "Cholestrol.md",
     "Co.md",
     "Unsorted/3) Resource/Agronomist.md",
@@ -245,7 +253,6 @@
     "Unsorted/3) Resource/Unsorted/Ethics.md",
     "Unsorted/3) Resource/Unsorted/Epistemology.md",
     "Unsorted/3) Resource/Unsorted/Aesthetics.md",
-    "Unsorted/3) Resource/Unsorted/Communist Manifesto - Karl Marx, Freidrich Engels.md",
     "Pasted image 20240513145647.png",
     "Pasted image 20240513145645.png",
     "Media, Pictures, Gifs/AKG K371-BT.png",
@@ -256,8 +263,6 @@
     "Guitar",
     "PARA/2) Area, Notes, Other/School Related/Computer Science",
     "PARA/2) Area, Notes, Other/Other",
-    "PARA/2) Area, Notes, Other/Unsorted",
-    "PARA/3) Resource, Interests, Wiki/Unsorted",
     "PARA/2) Area, Notes, Other/Unsorted",
     "Untitled.canvas",
     "ZenZone/Untitled.canvas",
