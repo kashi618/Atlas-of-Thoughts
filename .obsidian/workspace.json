@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "90d70af8b4b52bb1",
+        "id": "9ce92ab8450e343c",
         "type": "tabs",
         "children": [
           {
-            "id": "e5f40560eef151f4",
+            "id": "ae24ac6234a908d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -53,34 +48,11 @@
             }
           },
           {
-            "id": "2c30b65de0426a26",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
             "id": "03f18a1eb6c43b0c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
-            }
-          },
-          {
-            "id": "30b6437a7fac2bd4",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
             }
           }
         ]
@@ -118,9 +90,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -134,8 +104,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f6d5e66d9154efe8",
@@ -155,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +161,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,9 +187,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e5f40560eef151f4",
+  "active": "ae24ac6234a908d2",
   "lastOpenFiles": [
+    "Recording 20240912174252.webm",
+    "Notes/Chinese Foods, Snacks, Drinks.md",
     "Untitled.md",
+    "Programming Sept.md",
     "College/Year 1",
     "College",
     "Cholestrol.md",
@@ -250,9 +217,6 @@
     "Unsorted/3) Resource/Unsorted/Greek Empire.md",
     "Unsorted/3) Resource/Unsorted/Friedrick Nietzsche.md",
     "Unsorted/3) Resource/Unsorted/French Revolution.md",
-    "Unsorted/3) Resource/Unsorted/Ethics.md",
-    "Unsorted/3) Resource/Unsorted/Epistemology.md",
-    "Unsorted/3) Resource/Unsorted/Aesthetics.md",
     "Pasted image 20240513145647.png",
     "Pasted image 20240513145645.png",
     "Media, Pictures, Gifs/AKG K371-BT.png",
