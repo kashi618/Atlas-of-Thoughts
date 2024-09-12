@@ -11,8 +11,13 @@
             "id": "ae24ac6234a908d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TU856 - Computer Science.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -74,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5026054382324
+    "width": 316.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -90,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TU856 - Computer Science.md"
+              }
             }
           },
           {
@@ -124,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "TU856 - Computer Science.md"
+              }
             }
           },
           {
@@ -145,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TU856 - Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,6 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TU856 - Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,9 +202,10 @@
   },
   "active": "ae24ac6234a908d2",
   "lastOpenFiles": [
+    "TU856 - Computer Science.md",
+    "College",
     "Recording 20240912174252.webm",
     "Notes/Chinese Foods, Snacks, Drinks.md",
-    "Untitled.md",
     "Programming Sept.md",
     "College/Year 1",
     "College",
@@ -226,8 +240,6 @@
     "PARA/1) Project, Short-term Goals/Guitar Tabs",
     "Guitar",
     "PARA/2) Area, Notes, Other/School Related/Computer Science",
-    "PARA/2) Area, Notes, Other/Other",
-    "PARA/2) Area, Notes, Other/Unsorted",
     "Untitled.canvas",
     "ZenZone/Untitled.canvas",
     "ASDASDASD/icons/lucide-icons/ArrowRightFromLine.svg",
