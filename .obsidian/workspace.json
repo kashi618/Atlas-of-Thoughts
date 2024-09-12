@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9ce92ab8450e343c",
+        "id": "b1f25b7fa571233b",
         "type": "tabs",
         "children": [
           {
-            "id": "ae24ac6234a908d2",
+            "id": "05b7b9cdc000e626",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TU856 - Computer Science.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -79,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5026054382324,
-    "collapsed": true
+    "width": 316.5026054382324
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -96,9 +90,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TU856 - Computer Science.md"
-              }
+              "state": {}
             }
           },
           {
@@ -132,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "TU856 - Computer Science.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TU856 - Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +161,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TU856 - Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,9 +188,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ae24ac6234a908d2",
+  "active": "05b7b9cdc000e626",
   "lastOpenFiles": [
+    "CMPU 1012 -.md",
     "TU856 - Computer Science.md",
+    "CMPU - Mathematics 1.md",
     "College",
     "Recording 20240912174252.webm",
     "Notes/Chinese Foods, Snacks, Drinks.md",
@@ -230,7 +220,6 @@
     "Unsorted/3) Resource/Unsorted/Joseph Stalin.md",
     "Unsorted/3) Resource/Unsorted/Greek Empire.md",
     "Unsorted/3) Resource/Unsorted/Friedrick Nietzsche.md",
-    "Unsorted/3) Resource/Unsorted/French Revolution.md",
     "Pasted image 20240513145647.png",
     "Pasted image 20240513145645.png",
     "Media, Pictures, Gifs/AKG K371-BT.png",
