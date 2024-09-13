@@ -6,11 +6,11 @@
         "type": "split",
         "children": [
           {
-            "id": "d2d1862dc964fed6",
+            "id": "9ce92ab8450e343c",
             "type": "tabs",
             "children": [
               {
-                "id": "58b56e731f063f81",
+                "id": "ae24ac6234a908d2",
                 "type": "leaf",
                 "state": {
                   "type": "empty",
@@ -50,34 +50,11 @@
                 }
               },
               {
-                "id": "2c30b65de0426a26",
-                "type": "leaf",
-                "state": {
-                  "type": "bookmarks",
-                  "state": {}
-                }
-              },
-              {
                 "id": "03f18a1eb6c43b0c",
                 "type": "leaf",
                 "state": {
                   "type": "mk-path-view",
                   "state": {}
-                }
-              },
-              {
-                "id": "30b6437a7fac2bd4",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "",
-                    "matchingCase": false,
-                    "explainSearch": false,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  }
                 }
               }
             ]
@@ -129,8 +106,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "f6d5e66d9154efe8",
@@ -207,14 +183,14 @@
           "command-palette:Open command palette": false,
           "audio-recorder:Start/stop recording": false,
           "workspaces:Manage workspace layouts": false,
-          "table-editor-obsidian:Advanced Tables Toolbar": false,
-          "templater-obsidian:Templater": false,
-          "omnisearch:Omnisearch": false,
           "switcher:Open quick switcher": false,
-          "random-note:Open random note": false
+          "random-note:Open random note": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "omnisearch:Omnisearch": false
         }
       },
-      "active": "58b56e731f063f81"
+      "active": "ae24ac6234a908d2",
+      "mtime": "2024-09-12T17:46:19+01:00"
     }
   },
   "active": "Workhorse"
