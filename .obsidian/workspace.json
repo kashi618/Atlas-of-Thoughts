@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b76aa93e5731bc98",
+        "id": "00747d9ef924201b",
         "type": "tabs",
         "children": [
           {
-            "id": "4770b1b0b6730ba2",
+            "id": "97aceaa933416128",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/TV Shows & Movies & Anime & Manga.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -27,7 +32,7 @@
       {
         "id": "1b4e08c64f3212e8",
         "type": "tabs",
-        "dimension": 59.242761692650326,
+        "dimension": 59.22705314009662,
         "children": [
           {
             "id": "d828e5b8bc561a69",
@@ -48,11 +53,34 @@
             }
           },
           {
+            "id": "2c30b65de0426a26",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
             "id": "03f18a1eb6c43b0c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
+            }
+          },
+          {
+            "id": "30b6437a7fac2bd4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
             }
           }
         ]
@@ -60,7 +88,7 @@
       {
         "id": "5f252b2efa3321c0",
         "type": "tabs",
-        "dimension": 40.75723830734967,
+        "dimension": 40.77294685990338,
         "children": [
           {
             "id": "370a24fabb7b70f5",
@@ -74,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5026054382324
+    "width": 313.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -90,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/TV Shows & Movies & Anime & Manga.md"
+              }
             }
           },
           {
@@ -104,7 +134,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f6d5e66d9154efe8",
@@ -124,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Notes/TV Shows & Movies & Anime & Manga.md"
+              }
             }
           },
           {
@@ -145,6 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/TV Shows & Movies & Anime & Manga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,6 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/TV Shows & Movies & Anime & Manga.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,38 +219,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4770b1b0b6730ba2",
+  "active": "97aceaa933416128",
   "lastOpenFiles": [
+    "Notes/Elden Ring Checklist.md",
     "TU856 - Computer Science.md",
-    "CMPU 1012 -.md",
+    "conflict-files-obsidian-git.md",
+    "CMPU 1025 - Programming 1 (Sem. 1).md",
+    "CMPU 1039 - Data Exploration.md",
     "CMPU - Mathematics 1.md",
-    "College",
-    "Recording 20240912174252.webm",
+    "CMPU 1012 -.md",
+    "Notes/Alcohol.md",
+    "Notes/Bleaching Hair.md",
+    "Notes/Books.md",
+    "Notes/Cheeses.md",
     "Notes/Chinese Foods, Snacks, Drinks.md",
-    "Programming Sept.md",
-    "College/Year 1",
-    "College",
-    "Cholestrol.md",
-    "Co.md",
-    "Unsorted/3) Resource/Agronomist.md",
-    "Unsorted/3) Resource/Abolition.md",
-    "Unsorted/3) Resource/Unsorted/2014 Isla Vista Massacre.md",
-    "Unsorted/3) Resource/Unsorted/Justice.md",
-    "Unsorted/3) Resource/Unsorted/Logic.md",
-    "Unsorted/3) Resource/Unsorted/Mathematics.md",
-    "Unsorted/3) Resource/Unsorted/Nazism.md",
-    "Unsorted/3) Resource/Unsorted/Plato.md",
-    "Unsorted/3) Resource/Unsorted/Political Philosophy.md",
-    "Unsorted/3) Resource/Unsorted/Roman Empire.md",
-    "Unsorted/3) Resource/Unsorted/Soviet Union.md",
-    "Unsorted/3) Resource/Unsorted/Socratic Dialogue.md",
-    "Unsorted/3) Resource/Unsorted/Superfest Glass.md",
-    "Unsorted/3) Resource/Unsorted/Wang Yangming.md",
-    "Unsorted/3) Resource/Unsorted/Xenophon.md",
-    "Unsorted/3) Resource/Unsorted/Western Philosophy.md",
-    "Unsorted/3) Resource/Unsorted/Joseph Stalin.md",
-    "Unsorted/3) Resource/Unsorted/Greek Empire.md",
-    "Unsorted/3) Resource/Unsorted/Friedrick Nietzsche.md",
+    "Notes/Dark Souls Remastered Quest Guide.md",
+    "Notes/Elden Ring Quest Guide.md",
+    "Notes/Elden Ring Quest Guide SotET.md",
+    "Notes/Flight 2024.md",
+    "Notes/GameDev ToDo List.md",
+    "Notes/Guitar Wishlist.md",
+    "Notes/Headphones & IEMs.md",
+    "Notes/How to use Obsidian.md",
+    "Notes/Leaving Cert Classics.md",
+    "Notes/Leaving Cert Computer Science.md",
+    "Notes/Leaving Cert English.md",
+    "Notes/Leaving Cert Orals.md",
+    "Notes/MHW Large Monster Checklist.md",
+    "Notes/OverTheWire - Bandit.md",
     "Pasted image 20240513145647.png",
     "Pasted image 20240513145645.png",
     "Media, Pictures, Gifs/AKG K371-BT.png",
@@ -225,6 +256,10 @@
     "PARA/1) Project, Short-term Goals/Guitar Tabs",
     "Guitar",
     "PARA/2) Area, Notes, Other/School Related/Computer Science",
+    "PARA/2) Area, Notes, Other/Other",
+    "PARA/2) Area, Notes, Other/Unsorted",
+    "PARA/3) Resource, Interests, Wiki/Unsorted",
+    "PARA/2) Area, Notes, Other/Unsorted",
     "Untitled.canvas",
     "ZenZone/Untitled.canvas",
     "ASDASDASD/icons/lucide-icons/ArrowRightFromLine.svg",
