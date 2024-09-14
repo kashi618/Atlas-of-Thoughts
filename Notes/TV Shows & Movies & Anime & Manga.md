@@ -300,6 +300,7 @@
 - Love Live!
 - Lucky Star
 - Miss Kobayashi's Dragon Maid
+- Mobile Suit Gundam: The Witch From Mercury
 - Mob Psycho 100
 - Naruto
 - Naruto: Shippuuden
