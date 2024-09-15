@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"60054c16cdc63d2c","type":"file","file":"Home Page/obsidian-icon.png","x":60,"y":-100,"width":80,"height":80},
-		{"id":"6ab15ad4c5f03016","type":"file","file":"College/TU856 - Computer Science.md","x":-610,"y":-320,"width":500,"height":460},
 		{"id":"3b26a240e372fd76","type":"text","text":"## College Stuff\n","x":-500,"y":-400,"width":280,"height":60},
 		{"id":"48d123dde7208a81","type":"text","text":"# Welcome to The Atlas of Thoughts","x":-360,"y":-500,"width":920,"height":80,"color":"6"},
 		{"id":"0119d76d110a7e05","type":"text","text":"## Useful","x":420,"y":-400,"width":280,"height":60},
-		{"id":"9361372b0209284a","x":310,"y":-320,"width":500,"height":460,"type":"text","text":"- [[TV Shows & Movies & Anime & Manga]]\n- [[Books]]\n- [[Recipe Book]]"},
 		{"id":"772c6401cb599650","x":-25,"y":-400,"width":250,"height":60,"type":"text","text":"## Game Related"},
-		{"id":"b44732a51db7c117","x":-100,"y":-320,"width":400,"height":200,"type":"text","text":"```query\ntag:#asd\n```"}
+		{"id":"6ab15ad4c5f03016","type":"file","file":"College/TU856 - Computer Science.md","x":-590,"y":-320,"width":460,"height":460},
+		{"id":"b44732a51db7c117","x":-100,"y":-320,"width":400,"height":230,"type":"text","text":"```dataview\nLIST FROM #gameRelated\n```"},
+		{"id":"9361372b0209284a","x":330,"y":-320,"width":460,"height":460,"type":"text","text":"```dataview\nLIST FROM #useful\n```"},
+		{"id":"60054c16cdc63d2c","type":"file","file":"Home Page/obsidian-icon.png","x":60,"y":-80,"width":80,"height":80}
 	],
 	"edges":[
 		{"id":"61f8b927f2cbc8f2","fromNode":"3b26a240e372fd76","fromSide":"bottom","toNode":"6ab15ad4c5f03016","toSide":"top"},

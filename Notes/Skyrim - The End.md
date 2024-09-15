@@ -1,3 +1,8 @@
+---
+tags:
+  - GameRelated
+---
+
 ## Info
 Game Version: 1.6.1170.0
 

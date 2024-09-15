@@ -1,4 +1,6 @@
-
+---
+tags:
+  - GameRelated
 ---
 <center><h2>START OF THE GAME</h2></center>
 

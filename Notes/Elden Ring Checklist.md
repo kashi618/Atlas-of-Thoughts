@@ -1,3 +1,8 @@
+---
+tags:
+  - GameRelated
+---
+
 ## Boss Tracker
 
 - [[#Limgrave]]
