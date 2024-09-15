@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utopia.md",
+                "file": "Chinese Communist Party.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -142,7 +142,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Utopia.md",
+            "file": "Chinese Communist Party.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Utopia.md",
+            "file": "Chinese Communist Party.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -171,7 +171,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Utopia.md"
+            "file": "Chinese Communist Party.md"
           }
         }
       },
@@ -200,6 +200,7 @@
   "active": "8d5731166ca137d1",
   "lastOpenFiles": [
     "Unsorted/3) Resource/Communism.md",
+    "Chinese Communist Party.md",
     "Utopia.md",
     "Unsorted/3) Resource/Abolition.md",
     "TU856 - Computer Science.md",
@@ -225,7 +226,6 @@
     "PARA/2) Area/Dark Souls Remastered Quest Guide.md",
     "PARA/2) Area/$ Area Masterlist $.md",
     "PARA/2) Area/$ Area Sorted $.md",
-    "$ Resource Masterlist $.md",
     "Templates/3) Resource",
     "Templates/1) Project",
     "Templates",
