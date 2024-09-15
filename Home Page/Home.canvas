@@ -8,8 +8,8 @@
 		{"id":"60054c16cdc63d2c","type":"file","file":"Home Page/obsidian-icon.png","x":71,"y":-60,"width":60,"height":60},
 		{"id":"6ab15ad4c5f03016","type":"file","file":"College/TU856 - Computer Science.md","x":-590,"y":-320,"width":460,"height":720},
 		{"id":"2145906c1b6e6508","type":"text","text":"# Usefull\n```dataview\nLIST FROM #useful\n```\n\n# Other\n```dataview\nLIST FROM #other \n```\n","x":330,"y":-320,"width":460,"height":720},
-		{"id":"f004db60a79cbee1","type":"text","text":"- [Atlas of Thoughts Repo](https://github.com/kashi618/Atlas-of-Thoughts)\n- []\n- [Reddit](https://www.reddit.com/)\n- [Youtube](https://www.youtube.com/)\n- [Gmail](https://mail.google.com/)","x":-116,"y":-320,"width":432,"height":240},
-		{"id":"9361372b0209284a","type":"text","text":"```dataview\nLIST\n```","x":-116,"y":100,"width":432,"height":300}
+		{"id":"9361372b0209284a","type":"text","text":"```dataview\nLIST\n```","x":-116,"y":100,"width":432,"height":300},
+		{"id":"f004db60a79cbee1","type":"text","text":"### [Atlas of Thoughts Repo](https://github.com/kashi618/Atlas-of-Thoughts)","x":-99,"y":-320,"width":400,"height":80}
 	],
 	"edges":[
 		{"id":"61f8b927f2cbc8f2","fromNode":"3b26a240e372fd76","fromSide":"bottom","toNode":"6ab15ad4c5f03016","toSide":"top"},
