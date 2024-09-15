@@ -1,3 +1,8 @@
+---
+tags:
+  - useful
+---
+
 ## Index
 - [[#Western Style|Western Style]]
 - [[#Asian Style|Asian Style]]

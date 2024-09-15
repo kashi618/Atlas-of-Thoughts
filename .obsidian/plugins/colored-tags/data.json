@@ -64,7 +64,9 @@
     "College-Year1": 52,
     "TU856": 53,
     "Template": 54,
-    "GameRelated": 55
+    "GameRelated": 55,
+    "useful": 56,
+    "other": 57
   },
   "_version": 3
 }

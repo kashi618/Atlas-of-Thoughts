@@ -1,3 +1,8 @@
+---
+tags:
+  - other
+---
+
 ## Statues
 - **Venus Callipyge** - Praxiteles and Demetrios of Laodicea
 - **The Thinker** - Auguste Rodin

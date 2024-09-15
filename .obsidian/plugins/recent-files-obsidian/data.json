@@ -5,6 +5,10 @@
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "Dark Souls Remastered Quest Guide",
+      "path": "Notes/Dark Souls Remastered Quest Guide.md"
+    },
+    {
       "basename": "obsidian-icon",
       "path": "Home Page/obsidian-icon.png"
     },
@@ -13,16 +17,76 @@
       "path": "College/TU856 - Computer Science.md"
     },
     {
+      "basename": "Windows 11 MISC",
+      "path": "Notes/Windows 11 MISC.md"
+    },
+    {
+      "basename": "Weird Animals",
+      "path": "Notes/Weird Animals.md"
+    },
+    {
+      "basename": "TV Shows & Movies & Anime & Manga",
+      "path": "Notes/TV Shows & Movies & Anime & Manga.md"
+    },
+    {
+      "basename": "Utopia",
+      "path": "Notes/Utopia.md"
+    },
+    {
+      "basename": "Tattoos",
+      "path": "Notes/Tattoos.md"
+    },
+    {
+      "basename": "Superfest Glass",
+      "path": "Notes/Superfest Glass.md"
+    },
+    {
+      "basename": "Statues, Busts, etc",
+      "path": "Notes/Statues, Busts, etc.md"
+    },
+    {
+      "basename": "Socrates",
+      "path": "Notes/Socrates.md"
+    },
+    {
       "basename": "Skyrim - The End",
       "path": "Notes/Skyrim - The End.md"
+    },
+    {
+      "basename": "Sauted Potatoes",
+      "path": "Notes/Sauted Potatoes.md"
+    },
+    {
+      "basename": "Recipe Book",
+      "path": "Notes/Recipe Book.md"
     },
     {
       "basename": "Rechargeable Battery Datasheet",
       "path": "Notes/Rechargeable Battery Datasheet.md"
     },
     {
-      "basename": "Nikolai Vavilov",
-      "path": "Notes/Nikolai Vavilov.md"
+      "basename": "Philosphy Books To Read",
+      "path": "Notes/Philosphy Books To Read.md"
+    },
+    {
+      "basename": "Presque Vu",
+      "path": "Notes/Presque Vu.md"
+    },
+    {
+      "basename": "Philosophy",
+      "path": "Notes/Philosophy.md"
+    },
+    {
+      "basename": "Pancakes & Crepes",
+      "path": "Notes/Pancakes & Crepes.md"
+    },
+    {
+      "basename": "OverTheWire - Bandit",
+      "path": "Notes/OverTheWire - Bandit.md"
+    },
+    {
+      "basename": "Nationalism",
+      "path": "Notes/Nationalism.md"
     },
     {
       "basename": "MHW Large Monster Checklist",
@@ -33,12 +97,72 @@
       "path": "Notes/Memento Mori.md"
     },
     {
-      "basename": "Leaving Cert Classics",
-      "path": "Notes/Leaving Cert Classics.md"
+      "basename": "How to use Obsidian",
+      "path": "Notes/How to use Obsidian.md"
+    },
+    {
+      "basename": "Headphones & IEMs",
+      "path": "Notes/Headphones & IEMs.md"
+    },
+    {
+      "basename": "Guitar Wishlist",
+      "path": "Notes/Guitar Wishlist.md"
     },
     {
       "basename": "GameDev ToDo List",
       "path": "Notes/GameDev ToDo List.md"
+    },
+    {
+      "basename": "Flight 2024",
+      "path": "Notes/Flight 2024.md"
+    },
+    {
+      "basename": "Eudaimonia",
+      "path": "Notes/Eudaimonia.md"
+    },
+    {
+      "basename": "Elden Ring Checklist",
+      "path": "Notes/Elden Ring Checklist.md"
+    },
+    {
+      "basename": "Déjà Rêvé",
+      "path": "Notes/Déjà Rêvé.md"
+    },
+    {
+      "basename": "Déjà Entendu",
+      "path": "Notes/Déjà Entendu.md"
+    },
+    {
+      "basename": "Communism",
+      "path": "Notes/Communism.md"
+    },
+    {
+      "basename": "Chinese Foods, Snacks, Drinks",
+      "path": "Notes/Chinese Foods, Snacks, Drinks.md"
+    },
+    {
+      "basename": "Chinese Communist Party",
+      "path": "Notes/Chinese Communist Party.md"
+    },
+    {
+      "basename": "Bleaching Hair",
+      "path": "Notes/Bleaching Hair.md"
+    },
+    {
+      "basename": "Alcohol",
+      "path": "Notes/Alcohol.md"
+    },
+    {
+      "basename": "Abolition",
+      "path": "Notes/Abolition.md"
+    },
+    {
+      "basename": "Nikolai Vavilov",
+      "path": "Notes/Nikolai Vavilov.md"
+    },
+    {
+      "basename": "Leaving Cert Classics",
+      "path": "Notes/Leaving Cert Classics.md"
     },
     {
       "basename": "Elden Ring Quest Guide SotET",
@@ -47,18 +171,6 @@
     {
       "basename": "Elden Ring Quest Guide",
       "path": "Notes/Elden Ring Quest Guide.md"
-    },
-    {
-      "basename": "Elden Ring Checklist",
-      "path": "Notes/Elden Ring Checklist.md"
-    },
-    {
-      "basename": "Dark Souls Remastered Quest Guide",
-      "path": "Notes/Dark Souls Remastered Quest Guide.md"
-    },
-    {
-      "basename": "Chinese Communist Party",
-      "path": "Notes/Chinese Communist Party.md"
     },
     {
       "basename": "Agronomist",
@@ -87,58 +199,6 @@
     {
       "basename": "Abolition",
       "path": "Abolition.md"
-    },
-    {
-      "basename": "Base Template",
-      "path": "Templates/Base Template.md"
-    },
-    {
-      "basename": "$ Area Masterlist $",
-      "path": "$ Area Masterlist $.md"
-    },
-    {
-      "basename": "CMPU 1005  - Communications",
-      "path": "CMPU 1005  - Communications.md"
-    },
-    {
-      "basename": "CMPU Template",
-      "path": "Templates/CMPU Template.md"
-    },
-    {
-      "basename": "CMPU 1025 - Sep 16th 2024",
-      "path": "CMPU 1025 - Sep 16th 2024.md"
-    },
-    {
-      "basename": "Recipe Book",
-      "path": "Recipe Book.md"
-    },
-    {
-      "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
-      "path": "CMPU 1025 - Programming 1 (Sem. 1).md"
-    },
-    {
-      "basename": "Sauted Potatoes",
-      "path": "Sauted Potatoes.md"
-    },
-    {
-      "basename": "Skyrim - The End",
-      "path": "Skyrim - The End.md"
-    },
-    {
-      "basename": "Tattoos",
-      "path": "Tattoos.md"
-    },
-    {
-      "basename": "Philosphy Books To Read",
-      "path": "Philosphy Books To Read.md"
-    },
-    {
-      "basename": "Chinese Foods, Snacks, Drinks",
-      "path": "Chinese Foods, Snacks, Drinks.md"
-    },
-    {
-      "basename": "Chinese Communist Party",
-      "path": "Chinese Communist Party.md"
     }
   ],
   "omittedPaths": [],

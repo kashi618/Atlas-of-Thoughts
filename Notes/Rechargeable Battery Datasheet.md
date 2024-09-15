@@ -1,3 +1,9 @@
+---
+tags:
+  - useful
+---
+
+
 ### JCB - 2400mAh
 
 | Singular<br>Life | Singular<br>Voltage |     | Duo<br>Life | Duo<br>Voltage |
