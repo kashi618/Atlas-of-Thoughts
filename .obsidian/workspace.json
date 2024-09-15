@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aa1e098d32cd2c32",
+        "id": "f1d41d7b07213d1c",
         "type": "tabs",
         "children": [
           {
-            "id": "b3c79eadf366ad5a",
+            "id": "f33702a992edf307",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,12 +16,25 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 100,
-                  "y": -60,
+                  "x": 45,
+                  "y": -180,
                   "zoom": 0
                 }
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "4126e1e7b9908c98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Agronomist.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -195,8 +208,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b3c79eadf366ad5a",
+  "active": "f33702a992edf307",
   "lastOpenFiles": [
+    "Notes/Agronomist.md",
+    "Home Page/Home.canvas",
     "道德经 Study.md",
     "道德经 - 第二章.md",
     "道德经 - 第三章.md",
@@ -223,10 +238,8 @@
     "Philosophy.md",
     "Pancakes & Crepes.md",
     "OverTheWire - Bandit.md",
-    "Nikolai Vavilov.md",
     "Home.canvas",
     "Home Page/obsidian-icon.png",
-    "Home Page/Home.canvas",
     "Home Page",
     "Other/Home.canvas",
     "Other",

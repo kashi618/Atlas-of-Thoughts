@@ -5,6 +5,10 @@
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "Agronomist",
+      "path": "Notes/Agronomist.md"
+    },
+    {
       "basename": "obsidian-icon",
       "path": "Home Page/obsidian-icon.png"
     },
