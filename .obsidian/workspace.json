@@ -16,7 +16,7 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 100,
+                  "x": 101,
                   "y": -30,
                   "zoom": 0
                 }
@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5026054382324
+    "width": 304.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -236,6 +237,8 @@
   },
   "active": "f33702a992edf307",
   "lastOpenFiles": [
+    "College/TU856 - Computer Science.md",
+    "Home Page/Home.canvas",
     "Notes/Windows 11 MISC.md",
     "Notes/Weird Animals.md",
     "Notes/TV Shows & Movies & Anime & Manga.md",
@@ -261,8 +264,6 @@
     "Notes/Guitar Wishlist.md",
     "Notes/GameDev ToDo List.md",
     "Notes/Flight 2024.md",
-    "Notes/Eudaimonia.md",
-    "Home Page/Home.canvas",
     "obsidian-icon.png",
     "Home.canvas",
     "Home Page/obsidian-icon.png",

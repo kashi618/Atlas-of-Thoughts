@@ -1,19 +1,20 @@
 {
 	"nodes":[
-		{"id":"3b26a240e372fd76","type":"text","text":"## College Stuff\n","x":-500,"y":-400,"width":280,"height":60},
 		{"id":"48d123dde7208a81","type":"text","text":"# Welcome to The Atlas of Thoughts","x":-360,"y":-500,"width":920,"height":80,"color":"6"},
+		{"id":"3b26a240e372fd76","type":"text","text":"## College Stuff\n","x":-500,"y":-400,"width":280,"height":60},
+		{"id":"c646ba0cc8578c77","type":"text","text":"## Other","x":420,"y":-400,"width":280,"height":60},
 		{"id":"772c6401cb599650","type":"text","text":"## Game Related","x":-25,"y":-400,"width":250,"height":60},
-		{"id":"6ab15ad4c5f03016","type":"file","file":"College/TU856 - Computer Science.md","x":-590,"y":-320,"width":460,"height":720},
-		{"id":"60054c16cdc63d2c","type":"file","file":"Home Page/obsidian-icon.png","x":65,"y":-60,"width":60,"height":60},
-		{"id":"b44732a51db7c117","type":"text","text":"\n```dataview\nLIST FROM #gameRelated\n```","x":-105,"y":-320,"width":400,"height":240},
-		{"id":"2145906c1b6e6508","x":-105,"y":100,"width":400,"height":300,"type":"text","text":""},
-		{"id":"9361372b0209284a","type":"text","text":"```dataview\nLIST FROM #useful\n```","x":320,"y":-320,"width":460,"height":720},
-		{"id":"0119d76d110a7e05","type":"text","text":"## Useful","x":410,"y":-400,"width":280,"height":60},
-		{"id":"c646ba0cc8578c77","type":"text","text":"## Other","x":-30,"y":20,"width":250,"height":60}
+		{"id":"9361372b0209284a","type":"text","text":"```dataview\nLIST FROM #useful\n```","x":-102,"y":100,"width":405,"height":300},
+		{"id":"b44732a51db7c117","type":"text","text":"\n```dataview\nLIST FROM #gameRelated\n```","x":-102,"y":-320,"width":405,"height":240},
+		{"id":"0119d76d110a7e05","type":"text","text":"## Useful","x":-40,"y":20,"width":280,"height":60},
+		{"id":"60054c16cdc63d2c","type":"file","file":"Home Page/obsidian-icon.png","x":71,"y":-60,"width":60,"height":60},
+		{"id":"2145906c1b6e6508","x":330,"y":-320,"width":460,"height":720,"type":"text","text":"```dataview\nLIST FROM #other \n```"},
+		{"id":"6ab15ad4c5f03016","type":"file","file":"College/TU856 - Computer Science.md","x":-590,"y":-320,"width":460,"height":720}
 	],
 	"edges":[
 		{"id":"61f8b927f2cbc8f2","fromNode":"3b26a240e372fd76","fromSide":"bottom","toNode":"6ab15ad4c5f03016","toSide":"top"},
-		{"id":"d0fd9f26614af552","fromNode":"0119d76d110a7e05","fromSide":"bottom","toNode":"9361372b0209284a","toSide":"top"},
-		{"id":"200d4e2dfcaf4175","fromNode":"772c6401cb599650","fromSide":"bottom","toNode":"b44732a51db7c117","toSide":"top"}
+		{"id":"200d4e2dfcaf4175","fromNode":"772c6401cb599650","fromSide":"bottom","toNode":"b44732a51db7c117","toSide":"top"},
+		{"id":"2c43084b3a771eec","fromNode":"c646ba0cc8578c77","fromSide":"bottom","toNode":"2145906c1b6e6508","toSide":"top"},
+		{"id":"2d9fe8c4937bf5d6","fromNode":"0119d76d110a7e05","fromSide":"bottom","toNode":"9361372b0209284a","toSide":"top"}
 	]
 }

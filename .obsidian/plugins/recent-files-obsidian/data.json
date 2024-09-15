@@ -5,16 +5,16 @@
       "path": "Home Page/Home.canvas"
     },
     {
-      "basename": "Dark Souls Remastered Quest Guide",
-      "path": "Notes/Dark Souls Remastered Quest Guide.md"
-    },
-    {
       "basename": "obsidian-icon",
       "path": "Home Page/obsidian-icon.png"
     },
     {
       "basename": "TU856 - Computer Science",
       "path": "College/TU856 - Computer Science.md"
+    },
+    {
+      "basename": "Dark Souls Remastered Quest Guide",
+      "path": "Notes/Dark Souls Remastered Quest Guide.md"
     },
     {
       "basename": "Windows 11 MISC",

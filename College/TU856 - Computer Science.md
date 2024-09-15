@@ -1,5 +1,6 @@
 - ### [Publish](https://timetables.tudublin.ie/timetables)
 - ### [Brightspace](https://brightspace.tudublin.ie/d2l/home)
+- #### [[TU856 - Computer Science]]
 ## Year 1
 ### Semester 1
 - [[CMPU 1025 - Programming 1 (Sem. 1)]]
