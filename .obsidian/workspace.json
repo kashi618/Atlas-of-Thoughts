@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aa1e098d32cd2c32",
+        "id": "0f502421343db03e",
         "type": "tabs",
         "children": [
           {
-            "id": "b3c79eadf366ad5a",
+            "id": "8972a8e985534737",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,9 +16,9 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 106.02608142493638,
-                  "y": -101.9503816793893,
-                  "zoom": -0.0009174531570804435
+                  "x": 65,
+                  "y": -180,
+                  "zoom": -1.3713754419721014
                 }
               },
               "pinned": true
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/TU856 - Computer Science.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "College/TU856 - Computer Science.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/TU856 - Computer Science.md",
+                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/TU856 - Computer Science.md",
+                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b3c79eadf366ad5a",
+  "active": "8972a8e985534737",
   "lastOpenFiles": [
     "道德经 Study.md",
     "道德经 - 第二章.md",
