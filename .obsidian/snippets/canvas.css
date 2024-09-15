@@ -1,0 +1,3 @@
+.canvas-node-content:not(.is-loaded):not(:has(.has-list-bullet)) {
+    text-align: center;
+}

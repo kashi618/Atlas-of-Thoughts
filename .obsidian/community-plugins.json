@@ -14,5 +14,10 @@
   "obsidian-copy-block-link",
   "obsidian-git",
   "obsidian-file-color",
-  "calendar"
+  "calendar",
+  "homepage",
+  "obsidian-advanced-slides",
+  "templater-obsidian",
+  "optimize-canvas-connections",
+  "better-canvas-lock"
 ]

@@ -4,20 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "00747d9ef924201b",
+        "id": "aa1e098d32cd2c32",
         "type": "tabs",
         "children": [
           {
-            "id": "97aceaa933416128",
+            "id": "b3c79eadf366ad5a",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Notes/TV Shows & Movies & Anime & Manga.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+                "file": "Home Page/Home.canvas",
+                "viewState": {
+                  "x": 106.02608142493638,
+                  "y": -101.9503816793893,
+                  "zoom": -0.0009174531570804435
+                }
+              },
+              "pinned": true
             }
           }
         ]
@@ -32,7 +36,7 @@
       {
         "id": "1b4e08c64f3212e8",
         "type": "tabs",
-        "dimension": 59.22705314009662,
+        "dimension": 59.242761692650326,
         "children": [
           {
             "id": "d828e5b8bc561a69",
@@ -51,44 +55,14 @@
               "type": "recent-files",
               "state": {}
             }
-          },
-          {
-            "id": "2c30b65de0426a26",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "03f18a1eb6c43b0c",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "30b6437a7fac2bd4",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5f252b2efa3321c0",
         "type": "tabs",
-        "dimension": 40.77294685990338,
+        "dimension": 40.75723830734967,
         "children": [
           {
             "id": "370a24fabb7b70f5",
@@ -102,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 304.5026054382324
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -119,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/TV Shows & Movies & Anime & Manga.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -134,8 +108,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f6d5e66d9154efe8",
@@ -156,7 +129,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/TV Shows & Movies & Anime & Manga.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -178,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/TV Shows & Movies & Anime & Manga.md",
+                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/TV Shows & Movies & Anime & Manga.md",
+                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
+    "width": 282.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -215,65 +188,71 @@
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
       "random-note:Open random note": false,
+      "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "97aceaa933416128",
+  "active": "96146b79b47a45f2",
   "lastOpenFiles": [
+    "道德经 Study.md",
+    "道德经 - 第二章.md",
+    "道德经 - 第三章.md",
+    "道德经 - 第一章.md",
+    "辣子鸡 - Sichuan Spicy Chicken.md",
+    "蛋花湯 - Egg Drop Soup.md",
+    "obsidian-icon.png",
+    "Windows 11 MISC.md",
+    "Weird Animals.md",
     "Utopia.md",
-    "Notes/CMPU 1031 - Web Development 1.md",
-    "Notes/CMPU 1025 - Sep 16th 2024.md",
-    "Notes/CMPU 1025 - Programming 1 (Sem. 1).md",
-    "Notes/CMPU 1024 - Program Design.md",
-    "Notes/CMPU 1018 - Mathematics 1.md",
-    "Notes/CMPU 1012 - IT Fundamentals.md",
-    "Notes/CMPU 1005  - Communications.md",
-    "Chinese Communist Party.md",
-    "Notes/Elden Ring Checklist.md",
+    "Tattoos.md",
+    "TV Shows & Movies & Anime & Manga.md",
     "TU856 - Computer Science.md",
-    "conflict-files-obsidian-git.md",
-    "CMPU 1025 - Programming 1 (Sem. 1).md",
-    "CMPU 1039 - Data Exploration.md",
-    "CMPU - Mathematics 1.md",
-    "CMPU 1012 -.md",
-    "Notes/Alcohol.md",
-    "Notes/Bleaching Hair.md",
-    "Notes/Books.md",
-    "Notes/Cheeses.md",
-    "Notes/Chinese Foods, Snacks, Drinks.md",
-    "Notes/Dark Souls Remastered Quest Guide.md",
-    "Notes/Elden Ring Quest Guide.md",
-    "Notes/Elden Ring Quest Guide SotET.md",
-    "Notes/Flight 2024.md",
-    "Notes/GameDev ToDo List.md",
+    "Superfest Glass.md",
+    "Statues, Busts, etc.md",
+    "Socrates.md",
+    "Skyrim - The End.md",
+    "Sauted Potatoes.md",
+    "Recipe Book.md",
+    "Rechargeable Battery Datasheet.md",
+    "Quotes.md",
+    "Presque Vu.md",
+    "Philosphy Books To Read.md",
+    "Philosophy.md",
+    "Pancakes & Crepes.md",
+    "OverTheWire - Bandit.md",
+    "Nikolai Vavilov.md",
+    "Home.canvas",
+    "Home Page/obsidian-icon.png",
+    "Home Page/Home.canvas",
+    "Home Page",
+    "Other/Home.canvas",
+    "Other",
+    "Home/Home.canvas",
+    "Home",
+    "Misc/Home.canvas",
+    "Misc",
+    "Notes/obsidian-icon.png",
+    "Notes/Home.canvas",
+    "Notes",
+    "New folder",
+    "College",
+    "obsidian-icon.ico",
+    "Templates",
+    "Recording 20240912174252.webm",
     "Pasted image 20240513145647.png",
     "Pasted image 20240513145645.png",
     "Media, Pictures, Gifs/AKG K371-BT.png",
-    "Unsorted/3) Resource/Unsorted",
-    "Unsorted/3) Resource",
-    "Notes",
-    "PARA/1) Project, Short-term Goals/Guitar Tabs",
-    "Guitar",
-    "PARA/2) Area, Notes, Other/School Related/Computer Science",
-    "PARA/2) Area, Notes, Other/Other",
-    "PARA/2) Area, Notes, Other/Unsorted",
-    "PARA/3) Resource, Interests, Wiki/Unsorted",
-    "PARA/2) Area, Notes, Other/Unsorted",
-    "Untitled.canvas",
     "ZenZone/Untitled.canvas",
     "ASDASDASD/icons/lucide-icons/ArrowRightFromLine.svg",
     "ASDASDASD/Untitled.canvas",
     "Media, Pictures, Gifs/Nikolai Vavilov.png",
     "Media, Pictures, Gifs/Salnotes Dioko.png",
     "Media, Pictures, Gifs/MHW Shock Trap.bmp",
-    "Media, Pictures, Gifs/MHW Long Sword.bmp",
-    "Excalidraw/Scripts/Downloaded/Set Grid.svg",
-    "Excalidraw/Scripts/Downloaded/Organic Line.svg",
     "Spaces/Home/a/Untitled.canvas",
-    "Templates/Unsorted/LifeOS/HOME.canvas",
-    "Untitled 2.canvas",
-    "Untitled 3.canvas",
-    "Untitled 1.canvas"
+    "Templates/Unsorted/LifeOS/HOME.canvas"
   ]
 }

@@ -29,11 +29,5 @@
     "debugMode": false
   },
   "Templates/2) Area": "LiArrowRightFromLine",
-  "Templates/4) Archive": "LiArrowRightFromLine",
-  "Unsorted/3) Resource": "LiArrowRightFromLine",
-  "Unsorted/1) Project": "LiArrowRightFromLine",
-  "Notes": {
-    "iconName": "LiArrowRightFromLine",
-    "iconColor": "#ff6beb"
-  }
+  "Templates/4) Archive": "LiArrowRightFromLine"
 }

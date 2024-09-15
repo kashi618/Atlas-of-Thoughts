@@ -4,7 +4,7 @@
   "theme": "obsidian",
   "textFontFamily": "Open Sauce One",
   "enabledCssSnippets": [
-    "noStrikeIfCheckBox"
+    "canvas"
   ],
   "baseFontSizeAction": false,
   "cssTheme": "Tokyo Night",
