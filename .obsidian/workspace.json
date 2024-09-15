@@ -17,11 +17,24 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": 100,
-                  "y": -50,
+                  "y": -40,
                   "zoom": 0
                 }
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "5d31172bececdb5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/CMPU Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -92,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "file": "Home Page/obsidian-icon.png"
               }
             }
           },
@@ -128,7 +141,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "file": "Home Page/obsidian-icon.png"
               }
             }
           },
@@ -150,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "Home Page/obsidian-icon.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "Home Page/obsidian-icon.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,12 +210,19 @@
   },
   "active": "6a99b5e9e5ee7e50",
   "lastOpenFiles": [
+    "Templates/CMPU Template.md",
+    "Templates/Base Template.md",
+    "College/TU856 - Computer Science.md",
+    "College/CMPU 1025 - Sep 16th 2024.md",
+    "College/CMPU 1031 - Web Development 1.md",
+    "College/CMPU 1005  - Communications.md",
+    "Notes/Books.md",
+    "Home Page/Home.canvas",
+    "Notes/Cheeses.md",
     "Notes/Windows 11 MISC.md",
     "Notes/Agronomist.md",
     "Notes/Skyrim - The End.md",
     "Notes/Rechargeable Battery Datasheet.md",
-    "Home Page/Home.canvas",
-    "College/TU856 - Computer Science.md",
     "Notes/Weird Animals.md",
     "Notes/TV Shows & Movies & Anime & Manga.md",
     "Notes/Utopia.md",
@@ -217,13 +237,6 @@
     "Notes/Philosophy.md",
     "Notes/Pancakes & Crepes.md",
     "Notes/OverTheWire - Bandit.md",
-    "Notes/Nationalism.md",
-    "Notes/MHW Large Monster Checklist.md",
-    "Notes/Memento Mori.md",
-    "Notes/How to use Obsidian.md",
-    "Notes/Headphones & IEMs.md",
-    "Notes/Guitar Wishlist.md",
-    "Notes/GameDev ToDo List.md",
     "obsidian-icon.png",
     "Home.canvas",
     "Home Page/obsidian-icon.png",
