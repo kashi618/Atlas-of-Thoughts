@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0f502421343db03e",
+        "id": "aa1e098d32cd2c32",
         "type": "tabs",
         "children": [
           {
-            "id": "8972a8e985534737",
+            "id": "b3c79eadf366ad5a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,9 +16,9 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 65,
-                  "y": -180,
-                  "zoom": -1.3713754419721014
+                  "x": 100,
+                  "y": 33,
+                  "zoom": 0
                 }
               },
               "pinned": true
@@ -75,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5026054382324
+    "width": 304.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -195,7 +196,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8972a8e985534737",
+  "active": "b3c79eadf366ad5a",
   "lastOpenFiles": [
     "道德经 Study.md",
     "道德经 - 第二章.md",
