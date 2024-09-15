@@ -1,9 +1,6 @@
-.markdown-preview-view ul > li.task-list-item.is-checked {
-    text-decoration:none;
-    color:var(--text-normal);
+.canvas-node-content:not(.is-loaded):not(:has(.has-list-bullet)) {
+    text-align: center;
 }
-
-.markdown-preview-view ol > li.task-list-item.is-checked {
-    text-decoration:none;
-    color:var(--text-normal);
+.external-link {
+  padding-right: 0px;
 }

@@ -17,7 +17,7 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": 100,
-                  "y": 33,
+                  "y": -60,
                   "zoom": 0
                 }
               },
@@ -75,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5026054382324,
-    "collapsed": true
+    "width": 304.5026054382324
   },
   "right": {
     "id": "a004b30a86264a3d",
