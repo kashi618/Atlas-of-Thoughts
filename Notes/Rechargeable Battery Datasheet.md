@@ -1,6 +1,6 @@
 ---
 tags:
-  - useful
+  - other
 ---
 
 

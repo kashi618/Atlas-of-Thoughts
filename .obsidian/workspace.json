@@ -23,45 +23,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "60193b88597d374a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Windows 11 MISC.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4126e1e7b9908c98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Agronomist.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "827db41e156228d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Skyrim - The End.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -114,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5026054382324,
-    "collapsed": true
+    "width": 304.5026054382324
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -237,9 +197,12 @@
   },
   "active": "f33702a992edf307",
   "lastOpenFiles": [
-    "College/TU856 - Computer Science.md",
-    "Home Page/Home.canvas",
     "Notes/Windows 11 MISC.md",
+    "Notes/Agronomist.md",
+    "Notes/Skyrim - The End.md",
+    "Notes/Rechargeable Battery Datasheet.md",
+    "Home Page/Home.canvas",
+    "College/TU856 - Computer Science.md",
     "Notes/Weird Animals.md",
     "Notes/TV Shows & Movies & Anime & Manga.md",
     "Notes/Utopia.md",
@@ -247,10 +210,8 @@
     "Notes/Superfest Glass.md",
     "Notes/Statues, Busts, etc.md",
     "Notes/Socrates.md",
-    "Notes/Skyrim - The End.md",
     "Notes/Sauted Potatoes.md",
     "Notes/Recipe Book.md",
-    "Notes/Rechargeable Battery Datasheet.md",
     "Notes/Philosphy Books To Read.md",
     "Notes/Presque Vu.md",
     "Notes/Philosophy.md",

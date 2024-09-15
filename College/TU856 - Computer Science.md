@@ -1,6 +1,7 @@
-- ### [Publish](https://timetables.tudublin.ie/timetables)
-- ### [Brightspace](https://brightspace.tudublin.ie/d2l/home)
-- #### 
+- #### [Publish](https://timetables.tudublin.ie/)
+- #### [Brightspace](https://brightspace.tudublin.ie/d2l/home)
+- #### [Office](https://www.office.com/)
+- #### [Outlook](https://outlook.office.com/)
 ## Year 1
 ### Semester 1
 - [[CMPU 1025 - Programming 1 (Sem. 1)]]
