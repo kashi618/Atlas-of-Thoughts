@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "file": "College/TU856 - Computer Science.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "file": "College/TU856 - Computer Science.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "College/TU856 - Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "College/TU856 - Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d828e5b8bc561a69",
+  "active": "b3c79eadf366ad5a",
   "lastOpenFiles": [
     "道德经 Study.md",
     "道德经 - 第二章.md",
