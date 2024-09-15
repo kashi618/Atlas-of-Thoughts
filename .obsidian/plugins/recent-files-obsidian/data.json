@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Utopia",
+      "path": "Utopia.md"
+    },
+    {
       "basename": "Communism",
       "path": "Unsorted/3) Resource/Communism.md"
+    },
+    {
+      "basename": "Abolition",
+      "path": "Unsorted/3) Resource/Abolition.md"
     },
     {
       "basename": "TU856 - Computer Science",
@@ -181,10 +189,6 @@
       "path": "Unsorted/3) Resource/Agronomist.md"
     },
     {
-      "basename": "Abolition",
-      "path": "Unsorted/3) Resource/Abolition.md"
-    },
-    {
       "basename": "Superfest Glass",
       "path": "Unsorted/3) Resource/Unsorted/Superfest Glass.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Currently Playing Games",
       "path": "Unsorted/1) Project/Currently Playing Games.md"
-    },
-    {
-      "basename": "$ ToDo list $",
-      "path": "Unsorted/1) Project/$ ToDo list $.md"
     }
   ],
   "omittedPaths": [],

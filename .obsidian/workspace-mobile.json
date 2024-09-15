@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unsorted/3) Resource/Communism.md",
+                "file": "Utopia.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +122,7 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 1
   },
   "right": {
     "id": "a85ce35d363b07c7",
@@ -142,7 +142,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Unsorted/3) Resource/Communism.md",
+            "file": "Utopia.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Unsorted/3) Resource/Communism.md",
+            "file": "Utopia.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -171,7 +171,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Unsorted/3) Resource/Communism.md"
+            "file": "Utopia.md"
           }
         }
       },
@@ -199,6 +199,9 @@
   },
   "active": "8d5731166ca137d1",
   "lastOpenFiles": [
+    "Unsorted/3) Resource/Communism.md",
+    "Utopia.md",
+    "Unsorted/3) Resource/Abolition.md",
     "TU856 - Computer Science.md",
     "Notes/CMPU 1025 - Programming 1 (Sem. 1).md",
     "Notes/CMPU 1005  - Communications.md",
@@ -223,9 +226,6 @@
     "PARA/2) Area/$ Area Masterlist $.md",
     "PARA/2) Area/$ Area Sorted $.md",
     "$ Resource Masterlist $.md",
-    "道德经 - 第三章.md",
-    "PARA/1) Project, Short-term Goals/道德经.md",
-    "PARA/3) Resourc/道德经 - 第二章.md",
     "Templates/3) Resource",
     "Templates/1) Project",
     "Templates",
