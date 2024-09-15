@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f1d41d7b07213d1c",
+        "id": "d1f43c895479eee7",
         "type": "tabs",
         "children": [
           {
-            "id": "f33702a992edf307",
+            "id": "3432f1f05f2be060",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,9 +16,9 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 101,
-                  "y": -30,
-                  "zoom": 0
+                  "x": 100,
+                  "y": -50,
+                  "zoom": -1.1670766391332823
                 }
               },
               "pinned": true
@@ -195,7 +195,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f33702a992edf307",
+  "active": "3432f1f05f2be060",
   "lastOpenFiles": [
     "Notes/Windows 11 MISC.md",
     "Notes/Agronomist.md",
