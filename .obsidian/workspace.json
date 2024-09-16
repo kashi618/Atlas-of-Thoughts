@@ -23,19 +23,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "97807d710c0deab1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/CMPU1024 - Sep 16  2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -209,7 +196,10 @@
   },
   "active": "9927cf52f8809fba",
   "lastOpenFiles": [
+    "College/TU856 - Computer Science.md",
     "College/CMPU1024 - Sep 16  2024.md",
+    "Notes/TV Shows & Movies & Anime & Manga.md",
+    "Recordings/CMPU1014 - Sep 16 2024.webm",
     "Home Page/Home.canvas",
     "College/CMPU 1024 - Program Design.md",
     "Other/explosion.gif",
@@ -223,7 +213,6 @@
     "CMPU1024 - Sep 16 2024.md",
     "College/CMPU 1025 - Programming 1 (Sem. 1).md",
     "College/CMPU 1018 - Mathematics 1.md",
-    "College/TU856 - Computer Science.md",
     "College/CMPU 1005  - Communications.md",
     "College/CMPU 1012 - IT Fundamentals.md",
     "Recordings/CMPU 1018 - Sep 16th 2024.webm",
@@ -233,7 +222,6 @@
     "Recording 20240916151828.webm",
     "Recording 20240916151842.webm",
     "Recording 20240916151910.webm",
-    "Recordings",
     "CMPU 1018 - Sep 16th 2024.md",
     "Templates/CMPU Template.md",
     "Templates/Base Template.md",
@@ -244,7 +232,6 @@
     "Notes/Skyrim - The End.md",
     "Notes/Rechargeable Battery Datasheet.md",
     "Notes/Weird Animals.md",
-    "Notes/TV Shows & Movies & Anime & Manga.md",
     "Notes/Utopia.md",
     "Notes/Tattoos.md",
     "obsidian-icon.png",

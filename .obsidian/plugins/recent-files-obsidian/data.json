@@ -5,16 +5,20 @@
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "TU856 - Computer Science",
+      "path": "College/TU856 - Computer Science.md"
+    },
+    {
       "basename": "CMPU1024 - Sep 16  2024",
       "path": "College/CMPU1024 - Sep 16  2024.md"
     },
     {
-      "basename": "CMPU 1024 - Program Design",
-      "path": "College/CMPU 1024 - Program Design.md"
+      "basename": "TV Shows & Movies & Anime & Manga",
+      "path": "Notes/TV Shows & Movies & Anime & Manga.md"
     },
     {
-      "basename": "TU856 - Computer Science",
-      "path": "College/TU856 - Computer Science.md"
+      "basename": "CMPU 1024 - Program Design",
+      "path": "College/CMPU 1024 - Program Design.md"
     },
     {
       "basename": "explosion",
@@ -103,10 +107,6 @@
     {
       "basename": "Weird Animals",
       "path": "Notes/Weird Animals.md"
-    },
-    {
-      "basename": "TV Shows & Movies & Anime & Manga",
-      "path": "Notes/TV Shows & Movies & Anime & Manga.md"
     },
     {
       "basename": "Utopia",
