@@ -68,7 +68,9 @@
     "useful": 56,
     "other": 57,
     "CMPU1018": 58,
-    "CMPU1025": 59
+    "CMPU1025": 59,
+    "CMPU1024": 60,
+    "CMPU1031": 61
   },
   "_version": 3
 }

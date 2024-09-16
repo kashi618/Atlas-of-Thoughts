@@ -1,4 +1,10 @@
+---
+tags:
+  - TU856
+  - CMPU1018
+---
 #### [[TU856 - Computer Science]]
 
-- [[CMPU 1018 - Sep 9th 2024]]
-- 
+---
+
+- [[CMPU1024 - Sep 16th 2024]]

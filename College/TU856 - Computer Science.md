@@ -1,5 +1,6 @@
 - #### [Publish](https://timetables.tudublin.ie/)
 - #### [Brightspace](https://brightspace.tudublin.ie/d2l/home)
+- #### [Library](https://library.tudublin.ie/)
 - #### [Office](https://www.office.com/)
 - #### [Outlook](https://outlook.office.com/)
 ## Year 1
