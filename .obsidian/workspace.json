@@ -16,8 +16,8 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 100,
-                  "y": -50,
+                  "x": -144.66491192803704,
+                  "y": -27.071194568291055,
                   "zoom": -0.1930615002402473
                 }
               },
@@ -37,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/CMPU 1025 - Sep 16th 2024.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -143,7 +142,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "College/CMPU 1025 - Sep 16th 2024.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -165,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/CMPU 1025 - Sep 16th 2024.md",
+                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/CMPU 1025 - Sep 16th 2024.md",
+                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,10 +209,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ae133939dddef8ea",
+  "active": "9927cf52f8809fba",
   "lastOpenFiles": [
-    "Home Page/Home.canvas",
     "College/CMPU 1025 - Sep 16th 2024.md",
+    "Home Page/Home.canvas",
     "College/CMPU 1025 - Programming 1 (Sem. 1).md",
     "CMPU 1018 - Sep 16th 2025.webm",
     "College/CMPU 1018 - Sep 16th 2024.md",

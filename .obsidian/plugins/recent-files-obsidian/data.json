@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "CMPU 1025 - Sep 16th 2024",
       "path": "College/CMPU 1025 - Sep 16th 2024.md"
     },
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
+      "basename": "TU856 - Computer Science",
+      "path": "College/TU856 - Computer Science.md"
     },
     {
       "basename": "obsidian-icon",
@@ -23,10 +27,6 @@
     {
       "basename": "CMPU 1018 - Sep 16th 2024",
       "path": "College/CMPU 1018 - Sep 16th 2024.md"
-    },
-    {
-      "basename": "TU856 - Computer Science",
-      "path": "College/TU856 - Computer Science.md"
     },
     {
       "basename": "CMPU Template",
