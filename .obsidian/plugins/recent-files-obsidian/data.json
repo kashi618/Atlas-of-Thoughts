@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
+      "path": "College/CMPU 1025 - Programming 1 (Sem. 1).md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "TU856 - Computer Science",
+      "path": "College/TU856 - Computer Science.md"
     },
     {
       "basename": "obsidian-icon",
@@ -15,10 +23,6 @@
     {
       "basename": "Base Template",
       "path": "Templates/Base Template.md"
-    },
-    {
-      "basename": "TU856 - Computer Science",
-      "path": "College/TU856 - Computer Science.md"
     },
     {
       "basename": "CMPU 1025 - Sep 16th 2024",
@@ -195,10 +199,6 @@
     {
       "basename": "Leaving Cert Classics",
       "path": "Notes/Leaving Cert Classics.md"
-    },
-    {
-      "basename": "Elden Ring Quest Guide SotET",
-      "path": "Notes/Elden Ring Quest Guide SotET.md"
     }
   ],
   "omittedPaths": [],
