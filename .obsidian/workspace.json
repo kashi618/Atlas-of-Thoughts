@@ -56,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5f252b2efa3321c0",
@@ -194,7 +195,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9927cf52f8809fba",
+  "active": "96146b79b47a45f2",
   "lastOpenFiles": [
     "College/TU856 - Computer Science.md",
     "College/CMPU1024 - Sep 16  2024.md",
