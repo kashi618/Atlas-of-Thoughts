@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "CMPU 1018 - Sep 16th 2024",
+      "path": "CMPU 1018 - Sep 16th 2024.webm"
+    },
+    {
       "basename": "CMPU 1025 - Sep 16th 2024",
       "path": "College/CMPU 1025 - Sep 16th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 16th 2024",
+      "path": "CMPU 1025 - Sep 16th 2024.webm"
     },
     {
       "basename": "Home",
@@ -19,10 +27,6 @@
     {
       "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
       "path": "College/CMPU 1025 - Programming 1 (Sem. 1).md"
-    },
-    {
-      "basename": "CMPU 1018 - Sep 16th 2025",
-      "path": "CMPU 1018 - Sep 16th 2025.webm"
     },
     {
       "basename": "CMPU 1018 - Sep 16th 2024",
@@ -195,10 +199,6 @@
     {
       "basename": "Alcohol",
       "path": "Notes/Alcohol.md"
-    },
-    {
-      "basename": "Abolition",
-      "path": "Notes/Abolition.md"
     }
   ],
   "omittedPaths": [],

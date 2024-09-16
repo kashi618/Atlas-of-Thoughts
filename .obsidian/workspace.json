@@ -36,9 +36,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bce195361a77953c",
+            "type": "leaf",
+            "state": {
+              "type": "video",
+              "state": {
+                "file": "CMPU 1018 - Sep 16th 2024.webm"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5026054382324,
-    "collapsed": true
+    "width": 304.5026054382324
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -107,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/CMPU 1025 - Sep 16th 2024.md"
+                "file": "CMPU 1018 - Sep 16th 2024.webm"
               }
             }
           },
@@ -143,7 +152,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "College/CMPU 1025 - Sep 16th 2024.md"
+                "file": "CMPU 1018 - Sep 16th 2024.webm"
               }
             }
           },
@@ -165,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/CMPU 1025 - Sep 16th 2024.md",
+                "file": "CMPU 1018 - Sep 16th 2024.webm",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/CMPU 1025 - Sep 16th 2024.md",
+                "file": "CMPU 1018 - Sep 16th 2024.webm",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,13 +219,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ae133939dddef8ea",
+  "active": "bce195361a77953c",
   "lastOpenFiles": [
-    "Recording 20240916125442.webm",
-    "Home Page/Home.canvas",
     "College/CMPU 1025 - Sep 16th 2024.md",
+    "CMPU 1018 - Sep 16th 2024.webm",
+    "CMPU 1025 - Sep 16th 2024.webm",
+    "Home Page/Home.canvas",
     "College/CMPU 1025 - Programming 1 (Sem. 1).md",
-    "CMPU 1018 - Sep 16th 2025.webm",
     "College/CMPU 1018 - Sep 16th 2024.md",
     "College/TU856 - Computer Science.md",
     "Recordings",
@@ -256,7 +265,6 @@
     "Notes",
     "New folder",
     "College",
-    "obsidian-icon.ico",
     "Pasted image 20240513145647.png",
     "Pasted image 20240513145645.png",
     "Media, Pictures, Gifs/AKG K371-BT.png",
