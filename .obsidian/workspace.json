@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": 100,
                   "y": -50,
-                  "zoom": -0.12632597443844967
+                  "zoom": -0.1930615002402473
                 }
               },
               "pinned": true
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5026054382324
+    "width": 304.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -211,11 +212,11 @@
   },
   "active": "ae133939dddef8ea",
   "lastOpenFiles": [
-    "College/CMPU 1025 - Programming 1 (Sem. 1).md",
     "Home Page/Home.canvas",
+    "College/CMPU 1025 - Sep 16th 2024.md",
+    "College/CMPU 1025 - Programming 1 (Sem. 1).md",
     "CMPU 1018 - Sep 16th 2025.webm",
     "College/CMPU 1018 - Sep 16th 2024.md",
-    "College/CMPU 1025 - Sep 16th 2024.md",
     "College/TU856 - Computer Science.md",
     "Recordings",
     "CMPU 1018 - Sep 16th 2024.md",
