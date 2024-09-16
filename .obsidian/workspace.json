@@ -18,37 +18,13 @@
                 "viewState": {
                   "x": 100,
                   "y": -50,
-                  "zoom": -0.1930615002402473
+                  "zoom": -0.12632597443844967
                 }
               },
               "pinned": true
             }
-          },
-          {
-            "id": "ae133939dddef8ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/CMPU 1025 - Sep 16th 2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bce195361a77953c",
-            "type": "leaf",
-            "state": {
-              "type": "video",
-              "state": {
-                "file": "CMPU 1018 - Sep 16th 2024.webm"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -60,7 +36,7 @@
       {
         "id": "1b4e08c64f3212e8",
         "type": "tabs",
-        "dimension": 59.242761692650326,
+        "dimension": 59.250585480093676,
         "children": [
           {
             "id": "d828e5b8bc561a69",
@@ -85,7 +61,7 @@
       {
         "id": "5f252b2efa3321c0",
         "type": "tabs",
-        "dimension": 40.75723830734967,
+        "dimension": 40.749414519906324,
         "children": [
           {
             "id": "370a24fabb7b70f5",
@@ -116,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPU 1018 - Sep 16th 2024.webm"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -152,7 +128,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CMPU 1018 - Sep 16th 2024.webm"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -174,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU 1018 - Sep 16th 2024.webm",
+                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPU 1018 - Sep 16th 2024.webm",
+                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,12 +195,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bce195361a77953c",
+  "active": "9927cf52f8809fba",
   "lastOpenFiles": [
-    "College/CMPU 1025 - Sep 16th 2024.md",
-    "CMPU 1018 - Sep 16th 2024.webm",
     "CMPU 1025 - Sep 16th 2024.webm",
+    "Recording 20240916152046.webm",
+    "Recording 20240916151933.webm",
+    "Recording 20240916151955.webm",
+    "Recording 20240916151828.webm",
+    "Recording 20240916151842.webm",
+    "College/CMPU 1025 - Sep 16th 2024.md",
+    "Recording 20240916151910.webm",
     "Home Page/Home.canvas",
+    "CMPU 1018 - Sep 16th 2024.webm",
     "College/CMPU 1025 - Programming 1 (Sem. 1).md",
     "College/CMPU 1018 - Sep 16th 2024.md",
     "College/TU856 - Computer Science.md",
@@ -257,14 +239,9 @@
     "Other/Home.canvas",
     "Other",
     "Home/Home.canvas",
-    "Home",
     "Misc/Home.canvas",
-    "Misc",
     "Notes/obsidian-icon.png",
     "Notes/Home.canvas",
-    "Notes",
-    "New folder",
-    "College",
     "Pasted image 20240513145647.png",
     "Pasted image 20240513145645.png",
     "Media, Pictures, Gifs/AKG K371-BT.png",
