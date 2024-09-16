@@ -18,23 +18,27 @@
                 "viewState": {
                   "x": 100,
                   "y": -50,
-                  "zoom": -0.12632597443844967
+                  "zoom": -0.1930615002402473
                 }
               },
               "pinned": true
             }
           },
           {
-            "id": "c5355b18079b60a8",
+            "id": "df6c0c94235050b4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "explosion.gif"
+                "file": "CMPU1024 - Sep 16  2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "file": "CMPU1024 - Sep 16  2024.md"
               }
             }
           },
@@ -116,8 +120,19 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "85daf6048cc51cf8",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "CMPU1024 - Sep 16  2024.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "f6d5e66d9154efe8",
@@ -130,16 +145,6 @@
             "state": {
               "type": "calendar",
               "state": {}
-            }
-          },
-          {
-            "id": "10af3d52db344972",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Home Page/Home.canvas"
-              }
             }
           },
           {
@@ -160,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "CMPU1024 - Sep 16  2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "CMPU1024 - Sep 16  2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,17 +210,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9927cf52f8809fba",
+  "active": "df6c0c94235050b4",
   "lastOpenFiles": [
-    "explosion.gif",
+    "College/CMPU 1024 - Program Design.md",
+    "CMPU1024 - Sep 16  2024.md",
     "Home Page/Home.canvas",
+    "Other/explosion.gif",
+    "Other.md",
+    "Other",
+    "Other/obamna.gif",
     "College/CMPU 1025 - Sep 16th 2024.md",
     "Recordings/CMPU 1025 - Sep 16th 2024.webm",
     "College/CMPU 1018 - Sep 16th 2024.md",
     "College/CMPU 1031 - Web Development 1.md",
     "CMPU1024 - Sep 16 2024.md",
     "College/CMPU 1025 - Programming 1 (Sem. 1).md",
-    "College/CMPU 1024 - Program Design.md",
     "College/CMPU 1018 - Mathematics 1.md",
     "College/TU856 - Computer Science.md",
     "College/CMPU 1005  - Communications.md",
@@ -242,11 +251,9 @@
     "Notes/Utopia.md",
     "Notes/Tattoos.md",
     "Notes/Superfest Glass.md",
-    "Notes/Statues, Busts, etc.md",
     "obsidian-icon.png",
     "Home.canvas",
     "Home Page/obsidian-icon.png",
-    "Home Page",
     "Other/Home.canvas",
     "Home/Home.canvas",
     "Misc/Home.canvas",
@@ -259,7 +266,6 @@
     "ASDASDASD/icons/lucide-icons/ArrowRightFromLine.svg",
     "ASDASDASD/Untitled.canvas",
     "Media, Pictures, Gifs/Nikolai Vavilov.png",
-    "Media, Pictures, Gifs/Salnotes Dioko.png",
     "Spaces/Home/a/Untitled.canvas",
     "Templates/Unsorted/LifeOS/HOME.canvas"
   ]

@@ -41,23 +41,27 @@
   "fileColors": [
     {
       "path": "College",
-      "color": "FgjpbEdsIRHThBsc-PvA1"
-    },
-    {
-      "path": "Home Page",
-      "color": "tKaQohKU5S1pJjEYgZqYY"
-    },
-    {
-      "path": "Notes",
       "color": "o_xK7W_WZDfsRTBGCy-0M"
     },
     {
-      "path": "Recordings",
+      "path": "Home Page",
       "color": "ryIZEDHgHv-2z5VPkIp6L"
+    },
+    {
+      "path": "Notes",
+      "color": "tKaQohKU5S1pJjEYgZqYY"
+    },
+    {
+      "path": "Recordings",
+      "color": "0jy0IN9iY3Qfpk3uuczKS"
     },
     {
       "path": "Templates",
       "color": "FEutWz1dJGUGrGR--ttWS"
+    },
+    {
+      "path": "Other",
+      "color": "FgjpbEdsIRHThBsc-PvA1"
     }
   ]
 }

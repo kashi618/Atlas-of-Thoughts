@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "CMPU1024 - Sep 16  2024",
+      "path": "CMPU1024 - Sep 16  2024.md"
+    },
+    {
+      "basename": "CMPU 1024 - Program Design",
+      "path": "College/CMPU 1024 - Program Design.md"
+    },
+    {
+      "basename": "TU856 - Computer Science",
+      "path": "College/TU856 - Computer Science.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
     {
       "basename": "explosion",
-      "path": "explosion.gif"
+      "path": "Other/explosion.gif"
+    },
+    {
+      "basename": "obamna",
+      "path": "Other/obamna.gif"
     },
     {
       "basename": "obsidian-icon",
@@ -33,16 +49,8 @@
       "path": "College/CMPU 1025 - Programming 1 (Sem. 1).md"
     },
     {
-      "basename": "CMPU 1024 - Program Design",
-      "path": "College/CMPU 1024 - Program Design.md"
-    },
-    {
       "basename": "CMPU 1018 - Mathematics 1",
       "path": "College/CMPU 1018 - Mathematics 1.md"
-    },
-    {
-      "basename": "TU856 - Computer Science",
-      "path": "College/TU856 - Computer Science.md"
     },
     {
       "basename": "CMPU 1005  - Communications",
@@ -191,14 +199,6 @@
     {
       "basename": "Déjà Rêvé",
       "path": "Notes/Déjà Rêvé.md"
-    },
-    {
-      "basename": "Déjà Entendu",
-      "path": "Notes/Déjà Entendu.md"
-    },
-    {
-      "basename": "Communism",
-      "path": "Notes/Communism.md"
     }
   ],
   "omittedPaths": [],
