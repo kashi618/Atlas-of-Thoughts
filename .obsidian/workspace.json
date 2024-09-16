@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": 100,
                   "y": -50,
-                  "zoom": -0.4360991148066738
+                  "zoom": -0.6476032200003855
                 }
               },
               "pinned": true
@@ -37,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5f252b2efa3321c0",
@@ -107,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/CMPU1024 - Sep 16  2024.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -128,7 +126,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "College/CMPU1024 - Sep 16  2024.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           }
@@ -165,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/CMPU1024 - Sep 16  2024.md",
+                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/CMPU1024 - Sep 16  2024.md",
+                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,10 +207,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "97807d710c0deab1",
+  "active": "9927cf52f8809fba",
   "lastOpenFiles": [
-    "Home Page/Home.canvas",
     "College/CMPU1024 - Sep 16  2024.md",
+    "Home Page/Home.canvas",
     "College/CMPU 1024 - Program Design.md",
     "Other/explosion.gif",
     "Other.md",
