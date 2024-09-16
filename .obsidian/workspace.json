@@ -25,20 +25,16 @@
             }
           },
           {
-            "id": "f30ecae050d9fce5",
+            "id": "c5355b18079b60a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "College/CMPU 1018 - Mathematics 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "explosion.gif"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/CMPU 1018 - Mathematics 1.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -142,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "College/CMPU 1018 - Mathematics 1.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -164,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/CMPU 1018 - Mathematics 1.md",
+                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/CMPU 1018 - Mathematics 1.md",
+                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,26 +205,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f30ecae050d9fce5",
+  "active": "9927cf52f8809fba",
   "lastOpenFiles": [
-    "College/CMPU 1018 - Sep 16th 2024.md",
+    "explosion.gif",
     "Home Page/Home.canvas",
+    "College/CMPU 1025 - Sep 16th 2024.md",
+    "Recordings/CMPU 1025 - Sep 16th 2024.webm",
+    "College/CMPU 1018 - Sep 16th 2024.md",
+    "College/CMPU 1031 - Web Development 1.md",
     "CMPU1024 - Sep 16 2024.md",
+    "College/CMPU 1025 - Programming 1 (Sem. 1).md",
+    "College/CMPU 1024 - Program Design.md",
     "College/CMPU 1018 - Mathematics 1.md",
     "College/TU856 - Computer Science.md",
-    "College/CMPU 1024 - Program Design.md",
-    "College/CMPU 1031 - Web Development 1.md",
-    "College/CMPU 1025 - Programming 1 (Sem. 1).md",
     "College/CMPU 1005  - Communications.md",
     "College/CMPU 1012 - IT Fundamentals.md",
-    "CMPU 1025 - Sep 16th 2024.webm",
-    "CMPU 1018 - Sep 16th 2024.webm",
+    "Recordings/CMPU 1018 - Sep 16th 2024.webm",
     "Recording 20240916152046.webm",
     "Recording 20240916151933.webm",
     "Recording 20240916151955.webm",
     "Recording 20240916151828.webm",
     "Recording 20240916151842.webm",
-    "College/CMPU 1025 - Sep 16th 2024.md",
     "Recording 20240916151910.webm",
     "Recordings",
     "CMPU 1018 - Sep 16th 2024.md",
@@ -263,7 +260,6 @@
     "ASDASDASD/Untitled.canvas",
     "Media, Pictures, Gifs/Nikolai Vavilov.png",
     "Media, Pictures, Gifs/Salnotes Dioko.png",
-    "Media, Pictures, Gifs/MHW Shock Trap.bmp",
     "Spaces/Home/a/Untitled.canvas",
     "Templates/Unsorted/LifeOS/HOME.canvas"
   ]

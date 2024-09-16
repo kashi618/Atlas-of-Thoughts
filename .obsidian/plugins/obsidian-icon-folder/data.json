@@ -6,8 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiArrowRightFromLine",
-      "LiTrainFront"
+      "LiFolders",
+      "LiMic",
+      "LiStickyNote",
+      "LiHome",
+      "LiSchool"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -29,5 +32,10 @@
     "debugMode": false
   },
   "Templates/2) Area": "LiArrowRightFromLine",
-  "Templates/4) Archive": "LiArrowRightFromLine"
+  "Templates/4) Archive": "LiArrowRightFromLine",
+  "College": "LiSchool",
+  "Home Page": "LiHome",
+  "Notes": "LiStickyNote",
+  "Recordings": "LiMic",
+  "Templates": "LiFolders"
 }

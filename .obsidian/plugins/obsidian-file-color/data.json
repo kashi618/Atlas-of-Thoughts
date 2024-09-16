@@ -38,5 +38,26 @@
       "value": "#e59ffe"
     }
   ],
-  "fileColors": []
+  "fileColors": [
+    {
+      "path": "College",
+      "color": "FgjpbEdsIRHThBsc-PvA1"
+    },
+    {
+      "path": "Home Page",
+      "color": "tKaQohKU5S1pJjEYgZqYY"
+    },
+    {
+      "path": "Notes",
+      "color": "o_xK7W_WZDfsRTBGCy-0M"
+    },
+    {
+      "path": "Recordings",
+      "color": "ryIZEDHgHv-2z5VPkIp6L"
+    },
+    {
+      "path": "Templates",
+      "color": "FEutWz1dJGUGrGR--ttWS"
+    }
+  ]
 }
