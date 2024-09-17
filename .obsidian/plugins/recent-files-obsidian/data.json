@@ -5,6 +5,10 @@
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "TU856 - Computer Science",
+      "path": "College/TU856 - Computer Science.md"
+    },
+    {
       "basename": "1031 Template",
       "path": "Templates/1031 Template.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Base Template",
       "path": "Templates/Base Template.md"
-    },
-    {
-      "basename": "TU856 - Computer Science",
-      "path": "College/TU856 - Computer Science.md"
     },
     {
       "basename": "CMPU 1025 - Programming 1 (Sem. 1)",

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8942c536f0820c57",
+        "id": "dddd1a6015be4202",
         "type": "tabs",
         "children": [
           {
-            "id": "d1b151463614cf0f",
+            "id": "775874b45b0ce6d4",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "file": "College/TU856 - Computer Science.md"
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "file": "College/TU856 - Computer Science.md"
               }
             }
           }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "College/TU856 - Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "College/TU856 - Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d1b151463614cf0f",
+  "active": "775874b45b0ce6d4",
   "lastOpenFiles": [
     "Templates/1031 Template.md",
     "Home Page/Home.canvas",
