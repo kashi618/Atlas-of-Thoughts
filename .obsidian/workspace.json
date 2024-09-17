@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "bbe83079fbcb7af1",
+        "id": "8942c536f0820c57",
         "type": "tabs",
         "children": [
           {
-            "id": "9927cf52f8809fba",
+            "id": "d1b151463614cf0f",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 100,
-                  "y": -50,
-                  "zoom": -0.6520766965796935
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "9dd16734be6b1c3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/TU856 - Computer Science.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -50,7 +34,7 @@
       {
         "id": "1b4e08c64f3212e8",
         "type": "tabs",
-        "dimension": 59.250585480093676,
+        "dimension": 61.78266178266178,
         "children": [
           {
             "id": "d828e5b8bc561a69",
@@ -75,7 +59,7 @@
       {
         "id": "5f252b2efa3321c0",
         "type": "tabs",
-        "dimension": 40.749414519906324,
+        "dimension": 38.21733821733822,
         "children": [
           {
             "id": "370a24fabb7b70f5",
@@ -106,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/TU856 - Computer Science.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -127,11 +111,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "College/TU856 - Computer Science.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f6d5e66d9154efe8",
@@ -164,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/TU856 - Computer Science.md",
+                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,13 +166,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/TU856 - Computer Science.md",
+                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,26 +194,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9dd16734be6b1c3f",
+  "active": "d1b151463614cf0f",
   "lastOpenFiles": [
-    "College/CMPU 1024 - Program Design.md",
-    "College/TU856 - Computer Science.md",
+    "Templates/1031 Template.md",
     "Home Page/Home.canvas",
-    "conflict-files-obsidian-git.md",
+    "Templates/1024 Template.md",
+    "Templates/1018 Template.md",
+    "Templates/1025 Template.md",
+    "Templates/1005 Template.md",
+    "Templates/1012 Template.md",
+    "Templates/Base Template.md",
+    "College/TU856 - Computer Science.md",
+    "College/CMPU 1025 - Programming 1 (Sem. 1).md",
+    "College/CMPU 1025 - Sep 17th 2024.md",
+    "Recordings/CMPU 1024 - Sep 16 2024.webm",
+    "College/CMPU 1025 - Sep 16th 2024.md",
+    "College/CMPU 1018 - Sep 16th 2024.md",
+    "College/CMPU 1018 - Mathematics 1.md",
     "College/CMPU1024 - Sep 16  2024.md",
+    "College/CMPU 1024 - Program Design.md",
+    "CMPU 1024 - Sep 17th 2024.md",
+    "conflict-files-obsidian-git.md",
     "Notes/TV Shows & Movies & Anime & Manga.md",
-    "Recordings/CMPU1014 - Sep 16 2024.webm",
     "Other/explosion.gif",
     "Other.md",
     "Other",
     "Other/obamna.gif",
-    "College/CMPU 1025 - Sep 16th 2024.md",
     "Recordings/CMPU 1025 - Sep 16th 2024.webm",
-    "College/CMPU 1018 - Sep 16th 2024.md",
     "College/CMPU 1031 - Web Development 1.md",
     "CMPU1024 - Sep 16 2024.md",
-    "College/CMPU 1025 - Programming 1 (Sem. 1).md",
-    "College/CMPU 1018 - Mathematics 1.md",
     "College/CMPU 1005  - Communications.md",
     "College/CMPU 1012 - IT Fundamentals.md",
     "Recordings/CMPU 1018 - Sep 16th 2024.webm",
@@ -238,16 +233,7 @@
     "Recording 20240916151842.webm",
     "Recording 20240916151910.webm",
     "CMPU 1018 - Sep 16th 2024.md",
-    "Templates/CMPU Template.md",
-    "Templates/Base Template.md",
     "Notes/Books.md",
-    "Notes/Cheeses.md",
-    "Notes/Windows 11 MISC.md",
-    "Notes/Agronomist.md",
-    "Notes/Skyrim - The End.md",
-    "Notes/Rechargeable Battery Datasheet.md",
-    "Notes/Weird Animals.md",
-    "Notes/Utopia.md",
     "obsidian-icon.png",
     "Home.canvas",
     "Home Page/obsidian-icon.png",

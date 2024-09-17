@@ -1,20 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "TU856 - Computer Science",
-      "path": "College/TU856 - Computer Science.md"
-    },
-    {
-      "basename": "CMPU 1024 - Program Design",
-      "path": "College/CMPU 1024 - Program Design.md"
-    },
-    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "1031 Template",
+      "path": "Templates/1031 Template.md"
+    },
+    {
+      "basename": "1024 Template",
+      "path": "Templates/1024 Template.md"
+    },
+    {
+      "basename": "1018 Template",
+      "path": "Templates/1018 Template.md"
+    },
+    {
+      "basename": "1025 Template",
+      "path": "Templates/1025 Template.md"
+    },
+    {
+      "basename": "1005 Template",
+      "path": "Templates/1005 Template.md"
+    },
+    {
+      "basename": "1012 Template",
+      "path": "Templates/1012 Template.md"
+    },
+    {
+      "basename": "Base Template",
+      "path": "Templates/Base Template.md"
+    },
+    {
+      "basename": "TU856 - Computer Science",
+      "path": "College/TU856 - Computer Science.md"
+    },
+    {
+      "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
+      "path": "College/CMPU 1025 - Programming 1 (Sem. 1).md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 17th 2024",
+      "path": "College/CMPU 1025 - Sep 17th 2024.md"
+    },
+    {
+      "basename": "CMPU 1024 - Sep 16 2024",
+      "path": "Recordings/CMPU 1024 - Sep 16 2024.webm"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 16th 2024",
+      "path": "College/CMPU 1025 - Sep 16th 2024.md"
+    },
+    {
+      "basename": "CMPU 1018 - Sep 16th 2024",
+      "path": "College/CMPU 1018 - Sep 16th 2024.md"
+    },
+    {
+      "basename": "CMPU 1018 - Mathematics 1",
+      "path": "College/CMPU 1018 - Mathematics 1.md"
+    },
+    {
       "basename": "CMPU1024 - Sep 16  2024",
       "path": "College/CMPU1024 - Sep 16  2024.md"
+    },
+    {
+      "basename": "CMPU 1024 - Program Design",
+      "path": "College/CMPU 1024 - Program Design.md"
     },
     {
       "basename": "TV Shows & Movies & Anime & Manga",
@@ -34,27 +86,11 @@
     },
     {
       "basename": "CMPU 1025 - Sep 16th 2024",
-      "path": "College/CMPU 1025 - Sep 16th 2024.md"
-    },
-    {
-      "basename": "CMPU 1025 - Sep 16th 2024",
       "path": "Recordings/CMPU 1025 - Sep 16th 2024.webm"
-    },
-    {
-      "basename": "CMPU 1018 - Sep 16th 2024",
-      "path": "College/CMPU 1018 - Sep 16th 2024.md"
     },
     {
       "basename": "CMPU 1031 - Web Development 1",
       "path": "College/CMPU 1031 - Web Development 1.md"
-    },
-    {
-      "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
-      "path": "College/CMPU 1025 - Programming 1 (Sem. 1).md"
-    },
-    {
-      "basename": "CMPU 1018 - Mathematics 1",
-      "path": "College/CMPU 1018 - Mathematics 1.md"
     },
     {
       "basename": "CMPU 1005  - Communications",
@@ -67,14 +103,6 @@
     {
       "basename": "CMPU 1018 - Sep 16th 2024",
       "path": "Recordings/CMPU 1018 - Sep 16th 2024.webm"
-    },
-    {
-      "basename": "CMPU Template",
-      "path": "Templates/CMPU Template.md"
-    },
-    {
-      "basename": "Base Template",
-      "path": "Templates/Base Template.md"
     },
     {
       "basename": "Books",
@@ -171,30 +199,6 @@
     {
       "basename": "How to use Obsidian",
       "path": "Notes/How to use Obsidian.md"
-    },
-    {
-      "basename": "Headphones & IEMs",
-      "path": "Notes/Headphones & IEMs.md"
-    },
-    {
-      "basename": "Guitar Wishlist",
-      "path": "Notes/Guitar Wishlist.md"
-    },
-    {
-      "basename": "GameDev ToDo List",
-      "path": "Notes/GameDev ToDo List.md"
-    },
-    {
-      "basename": "Flight 2024",
-      "path": "Notes/Flight 2024.md"
-    },
-    {
-      "basename": "Eudaimonia",
-      "path": "Notes/Eudaimonia.md"
-    },
-    {
-      "basename": "Elden Ring Checklist",
-      "path": "Notes/Elden Ring Checklist.md"
     }
   ],
   "omittedPaths": [],
