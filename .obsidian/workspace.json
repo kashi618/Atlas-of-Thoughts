@@ -16,7 +16,7 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 100,
+                  "x": -217.0614829368225,
                   "y": -50,
                   "zoom": -0.6520766965796935
                 }
@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "96461711c6b2f207",
+            "id": "1792c16378495cdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,7 +70,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5f252b2efa3321c0",
@@ -132,8 +133,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f6d5e66d9154efe8",
@@ -211,11 +211,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "96461711c6b2f207",
+  "active": "1792c16378495cdb",
   "lastOpenFiles": [
     "Home Page/Home.canvas",
-    "Pasted image 20240917121149.png",
+    "Templates/C CPP main Template.md",
     "College/CMPU 1025 - Sep 17th 2024.md",
+    "Pasted image 20240917121149.png",
     "College/CMPU 1025 - Programming 1 (Sem. 1).md",
     "Templates/1031 Template.md",
     "Templates/1024 Template.md",
@@ -251,7 +252,6 @@
     "Recording 20240916151842.webm",
     "Recording 20240916151910.webm",
     "CMPU 1018 - Sep 16th 2024.md",
-    "Notes/Books.md",
     "obsidian-icon.png",
     "Home.canvas",
     "Home Page/obsidian-icon.png",

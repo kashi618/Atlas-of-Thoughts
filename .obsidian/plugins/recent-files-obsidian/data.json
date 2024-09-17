@@ -5,12 +5,16 @@
       "path": "College/CMPU 1025 - Sep 17th 2024.md"
     },
     {
-      "basename": "TU856 - Computer Science",
-      "path": "College/TU856 - Computer Science.md"
-    },
-    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "C CPP main Template",
+      "path": "Templates/C CPP main Template.md"
+    },
+    {
+      "basename": "TU856 - Computer Science",
+      "path": "College/TU856 - Computer Science.md"
     },
     {
       "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
@@ -195,10 +199,6 @@
     {
       "basename": "Memento Mori",
       "path": "Notes/Memento Mori.md"
-    },
-    {
-      "basename": "How to use Obsidian",
-      "path": "Notes/How to use Obsidian.md"
     }
   ],
   "omittedPaths": [],
