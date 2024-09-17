@@ -4,24 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5f3a73d25ffc2562",
+        "id": "20549d8e64fc2d5f",
         "type": "tabs",
         "children": [
           {
-            "id": "1792c16378495cdb",
+            "id": "836e9f4556c3c2ae",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 100,
-                  "y": -50,
-                  "zoom": -0.6476032200003855
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -195,7 +193,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1792c16378495cdb",
+  "active": "836e9f4556c3c2ae",
   "lastOpenFiles": [
     "Notes/Guitar Wishlist.md",
     "Notes/Bleaching Hair.md",
