@@ -5,6 +5,34 @@
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "CMPU 1024 - Sep 16th 2024",
+      "path": "Recordings/CMPU 1024 - Sep 16th 2024.webm"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 16th 2024",
+      "path": "Recordings/CMPU 1025 - Sep 16th 2024.webm"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 17th 2024",
+      "path": "College/College Notes/CMPU 1025 - Sep 17th 2024.md"
+    },
+    {
+      "basename": "Arch Linux - Adding Drives",
+      "path": "Arch Linux - Adding Drives.md"
+    },
+    {
+      "basename": "CMPU 1005  - Communications",
+      "path": "College/CMPU 1005  - Communications.md"
+    },
+    {
+      "basename": "TU856 - Computer Science",
+      "path": "College/TU856 - Computer Science.md"
+    },
+    {
+      "basename": "Arch Linux - Installation",
+      "path": "Arch Linux - Installation.md"
+    },
+    {
       "basename": "Guitar Wishlist",
       "path": "Notes/Guitar Wishlist.md"
     },
@@ -33,14 +61,6 @@
       "path": "Recordings/CMPU 1018 - Sep 16th 2024.webm"
     },
     {
-      "basename": "CMPU 1024 - Sep 16th 2024",
-      "path": "Recordings/CMPU 1024 - Sep 16th 2024.webm"
-    },
-    {
-      "basename": "CMPU 1025 - Sep 17th 2024",
-      "path": "College/College Notes/CMPU 1025 - Sep 17th 2024.md"
-    },
-    {
       "basename": "CMPU 1025 - Sep 16th 2024",
       "path": "College/College Notes/CMPU 1025 - Sep 16th 2024.md"
     },
@@ -55,10 +75,6 @@
     {
       "basename": "C CPP main Template",
       "path": "Templates/C CPP main Template.md"
-    },
-    {
-      "basename": "TU856 - Computer Science",
-      "path": "College/TU856 - Computer Science.md"
     },
     {
       "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
@@ -117,16 +133,8 @@
       "path": "Home Page/obsidian-icon.png"
     },
     {
-      "basename": "CMPU 1025 - Sep 16th 2024",
-      "path": "Recordings/CMPU 1025 - Sep 16th 2024.webm"
-    },
-    {
       "basename": "CMPU 1031 - Web Development 1",
       "path": "College/CMPU 1031 - Web Development 1.md"
-    },
-    {
-      "basename": "CMPU 1005  - Communications",
-      "path": "College/CMPU 1005  - Communications.md"
     },
     {
       "basename": "CMPU 1012 - IT Fundamentals",
@@ -191,14 +199,6 @@
     {
       "basename": "Recipe Book",
       "path": "Notes/Recipe Book.md"
-    },
-    {
-      "basename": "Philosphy Books To Read",
-      "path": "Notes/Philosphy Books To Read.md"
-    },
-    {
-      "basename": "Presque Vu",
-      "path": "Notes/Presque Vu.md"
     }
   ],
   "omittedPaths": [],

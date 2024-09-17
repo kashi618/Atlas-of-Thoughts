@@ -10,16 +10,18 @@
           {
             "id": "836e9f4556c3c2ae",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 100,
+                  "y": 1078.8672709503269,
+                  "zoom": -0.2682901312852892
                 }
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -54,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5f252b2efa3321c0",
@@ -176,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 282.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,24 +191,26 @@
       "random-note:Open random note": false,
       "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false,
-      "homepage:Open homepage": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "templater-obsidian:Templater": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "836e9f4556c3c2ae",
+  "active": "96146b79b47a45f2",
   "lastOpenFiles": [
+    "Recordings/CMPU 1024 - Sep 16th 2024.webm",
+    "Recordings/CMPU 1025 - Sep 16th 2024.webm",
+    "College/College Notes/CMPU 1025 - Sep 17th 2024.md",
+    "Home Page/Home.canvas",
+    "Arch Linux - Adding Drives.md",
+    "College/CMPU 1005  - Communications.md",
+    "Arch Linux - Installation.md",
+    "College/TU856 - Computer Science.md",
     "Notes/Guitar Wishlist.md",
     "Notes/Bleaching Hair.md",
     "Notes/Déjà Vu.md",
     "Notes/Leaving Cert English.md",
-    "Home Page/Home.canvas",
     "Notes/Jamais Vu.md",
     "Notes/Déjà Entendu.md",
     "Recordings/CMPU 1018 - Sep 16th 2024.webm",
-    "Recordings/CMPU 1024 - Sep 16th 2024.webm",
-    "College/College Notes/CMPU 1025 - Sep 17th 2024.md",
     "Recording 20240917161519.webm",
     "Recording 20240917161425.webm",
     "Pasted image 20240917121149.png",
@@ -221,17 +227,11 @@
     "Templates/1005 Template.md",
     "Templates/1012 Template.md",
     "Templates/Base Template.md",
-    "College/TU856 - Computer Science.md",
     "College/CMPU 1018 - Mathematics 1.md",
     "College/CMPU 1024 - Program Design.md",
-    "CMPU 1024 - Sep 17th 2024.md",
-    "conflict-files-obsidian-git.md",
-    "Notes/TV Shows & Movies & Anime & Manga.md",
     "Other/explosion.gif",
-    "Other.md",
     "Other",
     "Other/obamna.gif",
-    "Recordings/CMPU 1025 - Sep 16th 2024.webm",
     "Recording 20240916152046.webm",
     "Recording 20240916151933.webm",
     "Recording 20240916151955.webm",

@@ -72,7 +72,10 @@
     "CMPU1024": 60,
     "CMPU1031": 61,
     "CMPU1005": 62,
-    "CMPU1012": 63
+    "CMPU1012": 63,
+    "Linux": 64,
+    "NotDone": 65,
+    "Unfinished": 66
   },
   "_version": 3
 }
