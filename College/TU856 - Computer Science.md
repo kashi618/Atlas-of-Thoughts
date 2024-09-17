@@ -5,11 +5,11 @@
 - #### [Outlook](https://outlook.office.com/)
 ## Year 1
 ### Semester 1
-- [[CMPU 1025 - Programming 1 (Sem. 1)]]
 - [[CMPU 1005  - Communications]]
 - [[CMPU 1012 - IT Fundamentals]]
 - [[CMPU 1018 - Mathematics 1]]
 - [[CMPU 1024 - Program Design]]
+- [[CMPU 1025 - Programming 1 (Sem. 1)]]
 - [[CMPU 1031 - Web Development 1]]
 
 ### Semester 2
