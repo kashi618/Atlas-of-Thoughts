@@ -91,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home Page/Home.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -112,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Home Page/Home.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +162,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,13 +188,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9927cf52f8809fba",
+  "active": "370a24fabb7b70f5",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
     "College/TU856 - Computer Science.md",
     "College/CMPU1024 - Sep 16  2024.md",
     "Notes/TV Shows & Movies & Anime & Manga.md",
     "Recordings/CMPU1014 - Sep 16 2024.webm",
-    "Home Page/Home.canvas",
     "College/CMPU 1024 - Program Design.md",
     "Other/explosion.gif",
     "Other.md",
