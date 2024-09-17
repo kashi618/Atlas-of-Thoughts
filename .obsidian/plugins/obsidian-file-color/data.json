@@ -5,63 +5,67 @@
     {
       "id": "FEutWz1dJGUGrGR--ttWS",
       "name": "Red",
-      "value": "#ffa3a3"
+      "value": "#ff7a7a"
     },
     {
       "id": "ofR1FEOWd-Z_iVxmCVW0M",
       "name": "Orange",
-      "value": "#fecc90"
+      "value": "#ffba66"
     },
     {
       "id": "0jy0IN9iY3Qfpk3uuczKS",
       "name": "Yellow",
-      "value": "#fcff99"
+      "value": "#f9fe58"
     },
     {
       "id": "FgjpbEdsIRHThBsc-PvA1",
       "name": "Green",
-      "value": "#caffbf"
+      "value": "#78fe5d"
     },
     {
       "id": "tKaQohKU5S1pJjEYgZqYY",
       "name": "Cyan",
-      "value": "#9bf6ff"
+      "value": "#86f4fe"
     },
     {
       "id": "ryIZEDHgHv-2z5VPkIp6L",
       "name": "Blue",
-      "value": "#8a8eff"
+      "value": "#757eff"
     },
     {
       "id": "o_xK7W_WZDfsRTBGCy-0M",
       "name": "Purple",
-      "value": "#e59ffe"
+      "value": "#f467fe"
     }
   ],
   "fileColors": [
     {
       "path": "College",
-      "color": "o_xK7W_WZDfsRTBGCy-0M"
+      "color": "ofR1FEOWd-Z_iVxmCVW0M"
     },
     {
       "path": "Home Page",
-      "color": "ryIZEDHgHv-2z5VPkIp6L"
-    },
-    {
-      "path": "Notes",
-      "color": "tKaQohKU5S1pJjEYgZqYY"
-    },
-    {
-      "path": "Recordings",
       "color": "0jy0IN9iY3Qfpk3uuczKS"
     },
     {
+      "path": "Notes",
+      "color": "FgjpbEdsIRHThBsc-PvA1"
+    },
+    {
+      "path": "Recordings",
+      "color": "ryIZEDHgHv-2z5VPkIp6L"
+    },
+    {
       "path": "Templates",
-      "color": "FEutWz1dJGUGrGR--ttWS"
+      "color": "o_xK7W_WZDfsRTBGCy-0M"
     },
     {
       "path": "Other",
-      "color": "FgjpbEdsIRHThBsc-PvA1"
+      "color": "tKaQohKU5S1pJjEYgZqYY"
+    },
+    {
+      "path": "Code",
+      "color": "FEutWz1dJGUGrGR--ttWS"
     }
   ]
 }

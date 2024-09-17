@@ -17,11 +17,24 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": 100,
-                  "y": 1078.8672709503269,
-                  "zoom": -0.2682901312852892
+                  "y": -50,
+                  "zoom": -0.047402869230791865
                 }
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "19bee766917a8cdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arch Linux - Adding Drives.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -56,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5f252b2efa3321c0",
@@ -117,8 +129,17 @@
                 "file": "Home Page/Home.canvas"
               }
             }
+          },
+          {
+            "id": "2980873637de1d8d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "f6d5e66d9154efe8",
@@ -191,18 +212,21 @@
       "random-note:Open random note": false,
       "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "96146b79b47a45f2",
+  "active": "836e9f4556c3c2ae",
   "lastOpenFiles": [
+    "Arch Linux - Adding Drives.md",
+    "Arch Linux - Installation.md",
+    "Home Page/Home.canvas",
     "Recordings/CMPU 1024 - Sep 16th 2024.webm",
     "Recordings/CMPU 1025 - Sep 16th 2024.webm",
     "College/College Notes/CMPU 1025 - Sep 17th 2024.md",
-    "Home Page/Home.canvas",
-    "Arch Linux - Adding Drives.md",
     "College/CMPU 1005  - Communications.md",
-    "Arch Linux - Installation.md",
     "College/TU856 - Computer Science.md",
     "Notes/Guitar Wishlist.md",
     "Notes/Bleaching Hair.md",

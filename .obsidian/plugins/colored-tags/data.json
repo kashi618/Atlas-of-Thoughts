@@ -75,7 +75,8 @@
     "CMPU1012": 63,
     "Linux": 64,
     "NotDone": 65,
-    "Unfinished": 66
+    "Unfinished": 66,
+    "ArchLinux": 67
   },
   "_version": 3
 }
