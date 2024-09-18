@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "CMPU 1031 - Web Development 1",
+      "path": "College/CMPU 1031 - Web Development 1.md"
+    },
+    {
+      "basename": "TU856 - Computer Science",
+      "path": "College/TU856 - Computer Science.md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 18th 2024",
+      "path": "Recordings/CMPU 1025 - Sep 18th 2024.webm"
+    },
+    {
       "basename": "CMPU 1025 - Sep 18th 2024",
       "path": "CMPU 1025 - Sep 18th 2024.md"
     },
     {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.canvas"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.canvas"
+      "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
+      "path": "College/CMPU 1025 - Programming 1 (Sem. 1).md"
     },
     {
       "basename": "CMPU 1024 - Sep 16  2024",
       "path": "College/College Notes/CMPU 1024 - Sep 16  2024.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "CMPU 1024 - Program Design",
@@ -31,14 +39,6 @@
     {
       "basename": "CMPU 1025 - Sep 17th 2024",
       "path": "College/College Notes/CMPU 1025 - Sep 17th 2024.md"
-    },
-    {
-      "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
-      "path": "College/CMPU 1025 - Programming 1 (Sem. 1).md"
-    },
-    {
-      "basename": "TU856 - Computer Science",
-      "path": "College/TU856 - Computer Science.md"
     },
     {
       "basename": "CMPU 1024 - Sep 16th 2024",
@@ -145,10 +145,6 @@
       "path": "Home Page/obsidian-icon.png"
     },
     {
-      "basename": "CMPU 1031 - Web Development 1",
-      "path": "College/CMPU 1031 - Web Development 1.md"
-    },
-    {
       "basename": "CMPU 1012 - IT Fundamentals",
       "path": "College/CMPU 1012 - IT Fundamentals.md"
     },
@@ -195,10 +191,6 @@
     {
       "basename": "Superfest Glass",
       "path": "Notes/Superfest Glass.md"
-    },
-    {
-      "basename": "Statues, Busts, etc",
-      "path": "Notes/Statues, Busts, etc.md"
     }
   ],
   "omittedPaths": [],
