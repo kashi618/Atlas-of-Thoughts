@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
-    },
-    {
       "basename": "CMPU 1025 - Sep 18th 2024",
       "path": "CMPU 1025 - Sep 18th 2024.md"
     },
     {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.canvas"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.canvas"
+    },
+    {
       "basename": "CMPU 1024 - Sep 16  2024",
       "path": "College/College Notes/CMPU 1024 - Sep 16  2024.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "CMPU 1024 - Program Design",
@@ -191,10 +199,6 @@
     {
       "basename": "Statues, Busts, etc",
       "path": "Notes/Statues, Busts, etc.md"
-    },
-    {
-      "basename": "Socrates",
-      "path": "Notes/Socrates.md"
     }
   ],
   "omittedPaths": [],
