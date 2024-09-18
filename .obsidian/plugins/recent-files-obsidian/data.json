@@ -1,28 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "CMPU 1025 - Sep 17th 2024",
-      "path": "College/College Notes/CMPU 1025 - Sep 17th 2024.md"
-    },
-    {
-      "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
-      "path": "College/CMPU 1025 - Programming 1 (Sem. 1).md"
-    },
-    {
-      "basename": "CMPU 1024 - Sep 18 2024",
-      "path": "CMPU 1024 - Sep 18 2024.md"
-    },
-    {
-      "basename": "TU856 - Computer Science",
-      "path": "College/TU856 - Computer Science.md"
-    },
-    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
     {
-      "basename": "CMPU 1024 - Sep 16th 2024",
-      "path": "Recordings/CMPU 1024 - Sep 16th 2024.webm"
+      "basename": "CMPU 1025 - Sep 18th 2024",
+      "path": "CMPU 1025 - Sep 18th 2024.md"
+    },
+    {
+      "basename": "CMPU 1024 - Sep 16  2024",
+      "path": "College/College Notes/CMPU 1024 - Sep 16  2024.md"
     },
     {
       "basename": "CMPU 1024 - Program Design",
@@ -31,6 +19,22 @@
     {
       "basename": "Arch Linux - Installation",
       "path": "Notes/Arch Linux - Installation.md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 17th 2024",
+      "path": "College/College Notes/CMPU 1025 - Sep 17th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
+      "path": "College/CMPU 1025 - Programming 1 (Sem. 1).md"
+    },
+    {
+      "basename": "TU856 - Computer Science",
+      "path": "College/TU856 - Computer Science.md"
+    },
+    {
+      "basename": "CMPU 1024 - Sep 16th 2024",
+      "path": "Recordings/CMPU 1024 - Sep 16th 2024.webm"
     },
     {
       "basename": "Arch Linux - Adding Drives",
@@ -75,10 +79,6 @@
     {
       "basename": "CMPU 1025 - Sep 16th 2024",
       "path": "College/College Notes/CMPU 1025 - Sep 16th 2024.md"
-    },
-    {
-      "basename": "CMPU 1024 - Sep 16  2024",
-      "path": "College/College Notes/CMPU 1024 - Sep 16  2024.md"
     },
     {
       "basename": "CMPU 1018 - Sep 16th 2024",
@@ -195,10 +195,6 @@
     {
       "basename": "Socrates",
       "path": "Notes/Socrates.md"
-    },
-    {
-      "basename": "Sauted Potatoes",
-      "path": "Notes/Sauted Potatoes.md"
     }
   ],
   "omittedPaths": [],
