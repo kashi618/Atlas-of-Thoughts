@@ -8,9 +8,8 @@
         "type": "tabs",
         "children": [
           {
-            "id": "836e9f4556c3c2ae",
+            "id": "19bee766917a8cdb",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -20,20 +19,6 @@
                   "y": -50,
                   "zoom": -0.047402869230791865
                 }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "19bee766917a8cdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arch Linux - Adding Drives.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
               }
             }
           }
@@ -218,7 +203,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "836e9f4556c3c2ae",
+  "active": "19bee766917a8cdb",
   "lastOpenFiles": [
     "Arch Linux - Adding Drives.md",
     "Arch Linux - Installation.md",
