@@ -10,19 +10,48 @@
           {
             "id": "19bee766917a8cdb",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 100,
-                  "y": -50,
+                  "x": 160.72727687891438,
+                  "y": -20.492309825156482,
                   "zoom": -0.047402869230791865
                 }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c068fe625e20cc95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPU 1024 - Sep 18 2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20fcf00af420baac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/College Notes/CMPU 1025 - Sep 17th 2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "file": "College/College Notes/CMPU 1025 - Sep 17th 2024.md"
               }
             }
           },
@@ -111,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "file": "College/College Notes/CMPU 1025 - Sep 17th 2024.md"
               }
             }
           },
@@ -157,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "College/College Notes/CMPU 1025 - Sep 17th 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "College/College Notes/CMPU 1025 - Sep 17th 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,14 +232,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "19bee766917a8cdb",
+  "active": "20fcf00af420baac",
   "lastOpenFiles": [
-    "Arch Linux - Adding Drives.md",
-    "Arch Linux - Installation.md",
-    "Home Page/Home.canvas",
-    "Recordings/CMPU 1024 - Sep 16th 2024.webm",
-    "Recordings/CMPU 1025 - Sep 16th 2024.webm",
+    "College/CMPU 1025 - Programming 1 (Sem. 1).md",
+    "CMPU 1024 - Sep 18 2024.md",
     "College/College Notes/CMPU 1025 - Sep 17th 2024.md",
+    "Home Page/Home.canvas",
+    "Code/C CPP/asd",
+    "Code/C CPP/asd.c",
+    "Recordings/CMPU 1024 - Sep 16th 2024.webm",
+    "College/CMPU 1024 - Program Design.md",
+    "Notes/Arch Linux - Installation.md",
+    "Code/C CPP/asd.cpp",
+    "Code/C CPP",
+    "Notes/Arch Linux - Adding Drives.md",
+    "Recordings/CMPU 1025 - Sep 16th 2024.webm",
     "College/CMPU 1005  - Communications.md",
     "College/TU856 - Computer Science.md",
     "Notes/Guitar Wishlist.md",
@@ -228,7 +264,6 @@
     "College/College Notes/CMPU 1018 - Sep 16th 2024.md",
     "College/College Notes",
     "Templates/C CPP main Template.md",
-    "College/CMPU 1025 - Programming 1 (Sem. 1).md",
     "Templates/1031 Template.md",
     "Templates/1024 Template.md",
     "Templates/1018 Template.md",
@@ -236,14 +271,8 @@
     "Templates/1005 Template.md",
     "Templates/1012 Template.md",
     "Templates/Base Template.md",
-    "College/CMPU 1018 - Mathematics 1.md",
-    "College/CMPU 1024 - Program Design.md",
     "Other/explosion.gif",
-    "Other",
     "Other/obamna.gif",
-    "Recording 20240916152046.webm",
-    "Recording 20240916151933.webm",
-    "Recording 20240916151955.webm",
     "obsidian-icon.png",
     "Home.canvas",
     "Home Page/obsidian-icon.png",
