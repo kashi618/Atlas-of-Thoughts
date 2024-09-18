@@ -36,9 +36,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d322de8ded3aa14b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPU 1025 - Lucas Snow.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/College Notes/CMPU 1025 - Sep 18th 2024.md"
+                "file": "CMPU 1025 - Lucas Snow.md"
               }
             }
           },
@@ -127,7 +140,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "College/College Notes/CMPU 1025 - Sep 18th 2024.md"
+                "file": "CMPU 1025 - Lucas Snow.md"
               }
             }
           },
@@ -173,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/College Notes/CMPU 1025 - Sep 18th 2024.md",
+                "file": "CMPU 1025 - Lucas Snow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/College Notes/CMPU 1025 - Sep 18th 2024.md",
+                "file": "CMPU 1025 - Lucas Snow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,13 +232,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "874103da60a4e082",
+  "active": "d322de8ded3aa14b",
   "lastOpenFiles": [
+    "College/College Notes/CMPU 1025 - Sep 18th 2024.md",
+    "CMPU 1025 - Lucas Snow.md",
     "College/CMPU 1031 - Web Development 1.md",
     "Home Page/Home.canvas",
     "College/TU856 - Computer Science.md",
     "Recordings/CMPU 1025 - Sep 18th 2024.webm",
-    "College/College Notes/CMPU 1025 - Sep 18th 2024.md",
     "College/CMPU 1025 - Programming 1 (Sem. 1).md",
     "Untitled.canvas",
     "Untitled 1.canvas",
