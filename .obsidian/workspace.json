@@ -30,14 +30,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/CMPU 1031 - Web Development 1.md",
+                "file": "College/College Notes/CMPU 1025 - Sep 18th 2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "file": "College/College Notes/CMPU 1025 - Sep 18th 2024.md"
               }
             }
           },
@@ -126,7 +127,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "file": "College/College Notes/CMPU 1025 - Sep 18th 2024.md"
               }
             }
           },
@@ -172,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "College/College Notes/CMPU 1025 - Sep 18th 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "College/College Notes/CMPU 1025 - Sep 18th 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,14 +219,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "19bee766917a8cdb",
+  "active": "874103da60a4e082",
   "lastOpenFiles": [
     "College/CMPU 1031 - Web Development 1.md",
+    "Home Page/Home.canvas",
     "College/TU856 - Computer Science.md",
     "Recordings/CMPU 1025 - Sep 18th 2024.webm",
-    "CMPU 1025 - Sep 18th 2024.md",
+    "College/College Notes/CMPU 1025 - Sep 18th 2024.md",
     "College/CMPU 1025 - Programming 1 (Sem. 1).md",
-    "Home Page/Home.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Code/C CPP/MeetingRoom",
@@ -259,7 +260,6 @@
     "Templates/1018 Template.md",
     "Templates/1025 Template.md",
     "Templates/1005 Template.md",
-    "Templates/1012 Template.md",
     "Other/explosion.gif",
     "Other/obamna.gif",
     "obsidian-icon.png",
