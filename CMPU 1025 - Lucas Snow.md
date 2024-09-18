@@ -33,7 +33,7 @@
 - Has plans for travel, stay, and food
 - Has specific information about the destinations
 - User reviews and pictures about the destination
-- Mountain tirp packages, with high in reference to Mounjt everest
+- Mountain tirp packages, with high in reference to Mount everest
 - Checklist for mountains, sorted by difficulty, and danger levels
 - Depht count
 - Dedicated page for Lucas snow, with mountain ratings from him
