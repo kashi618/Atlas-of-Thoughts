@@ -7,6 +7,7 @@ tags:
 ## set console layout and font
 ```
 loadkeys uk
+
 setfont ter-132b
 ```
 
@@ -20,8 +21,11 @@ setfont ter-132b
 iwctl
 
 device list
+
 station {WifiAdapter} scan
+
 station {WifiAdapter} get-networks
+
 station {WifiAdapter} connect {ssid}
 ```
 
@@ -95,53 +99,91 @@ rankmirrors -n 6 /etc/pacman.d/mirrorlist.backup > /etc/pacman.d/mirrorlist
 ```
 pacstrap -K /mnt base linux linux-firmware base-devel networkmanager nano intel-ucode
 ```
+- Remove "intel-ucode" if not using intel cpu
 
 ## generating fstab
+```
+genfstab -U /mnt >> /mnt/etc/fstab
+```
 genfstab -U /mnt >> /mnt/etc/fstab
 
 ## chrooting into system
+```
 arch-chroot /mnt
+```
+
 
 ## setting timezone
+```
 ln -sf /usr/share/zoneinfo/Europe/Dublin /etc/localtime
+
 hwclock --systohc
+```
+- If not un Europe/Dublin, change by looking through "zoneinfo" folder
 
 ## setting locale and keymap
-nano /etc/locale.gen (uncomment en_US and personal one)
-locale-gen
+```
+nano /etc/locale.gen
+```
+- Uncomment en_US, and then the one for your locale
 
+```
+locale-gen
+```
+
+```
 nano /etc/locale.conf
-	LANG=en_IE.UTF-8
+```
+- Add this "LANG=en_IE.UTF-8"
+
+```
 nano /etc/vconsole.conf
-	KEYMAP=uk
+```
+- Add this "KEYMAP=uk"
 
 ## create hostname and password
-nano /etc/hostname (add ur hostname)
+```
+nano /etc/{Hostname}
+
 passwd
+```
 
 ## create user with sudo privileges
+```
 pacman -S sudo
-useradd -m -G wheel kashi
-passwd kashi
-EDITOR=nano visudo (uncomment %wheel)
+
+useradd -m -G wheel {Username}
+
+passwd {Username}
+
+EDITOR=nano visudo
+```
+- In visudo, uncomment the %wheel
 
 ## pacman with 32bit support
+```
 nano /etc/pacman.conf
-	[multilib]
-	Include = /etc/pacman.d/mirrorlist
-
+```
+- Uncomment "Include = /etc/pacman.d/mirrorlist" under the heading "multilib"
 
 ## creating bootloader (systemd-boot)
-ls /sys/firmware/efi/efivars (check if uefi)
+```
 bootctl install
+```
+
+```
 nano /boot/loader/loader.conf
 	timeout0
 	default arch-*
+```
+
+```
 nano /boot/loader/entries/arch.conf
 	title Arch
 	linux /vmlinuz-linux
 	initrd /initramfs-linux.img
 	options root=/dev/DEVICE3 rw
+```
 
 ## exiting chroot, rebooting
 exit
