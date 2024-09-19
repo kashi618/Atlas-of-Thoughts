@@ -36,22 +36,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "db73c646dba87671",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPU1012 - Sep 19th 2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPU1012 - Sep 19th 2024.md"
+                "file": "General Notes.md"
               }
             }
           },
@@ -142,7 +129,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CMPU1012 - Sep 19th 2024.md"
+                "file": "General Notes.md"
               }
             }
           },
@@ -188,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU1012 - Sep 19th 2024.md",
+                "file": "General Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPU1012 - Sep 19th 2024.md",
+                "file": "General Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,11 +221,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db73c646dba87671",
+  "active": "1ac4553b72bfe7e2",
   "lastOpenFiles": [
+    "CMPU1012 - Sep 19th 2024.md",
     "General Notes.md",
     "Home Page/Home.canvas",
-    "CMPU1012 - Sep 19th 2024.md",
     "College/CMPU 1012 - IT Fundamentals.md",
     "College/CMPU 1018 - Mathematics 1.md",
     "Notes/Arch Linux - Installation.md",
