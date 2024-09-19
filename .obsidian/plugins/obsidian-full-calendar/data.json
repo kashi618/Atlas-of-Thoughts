@@ -3,14 +3,14 @@
     {
       "type": "local",
       "color": "hsl(325, 86%, 77%)",
-      "directory": "/"
+      "directory": "Events"
     }
   ],
   "defaultCalendar": 0,
   "firstDay": 0,
   "initialView": {
-    "desktop": "timeGridWeek",
+    "desktop": "dayGridMonth",
     "mobile": "timeGrid3Days"
   },
-  "timeFormat24h": false
+  "timeFormat24h": true
 }

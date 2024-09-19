@@ -16,20 +16,12 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 109,
-                  "y": 175,
+                  "x": 179.62344872274184,
+                  "y": 87.00383560596751,
                   "zoom": 0
                 }
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "eaca24bf9677ec25",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
             }
           },
           {
@@ -38,15 +30,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/2024-10-02 TUD Eye Test.md",
+                "file": "Events/TUD Eye Test.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c41a0c06624e512",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/TUD Eye Test.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1553b71bd3fb997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/TUD Eye Test.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,13 +252,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "eaca24bf9677ec25",
+  "active": "cfe22ee9327c7ecb",
   "lastOpenFiles": [
-    "Events/2024-10-02 TUD Eye Test.md",
-    "CMPU1012 - Sep 19th 2024.md",
-    "General Notes.md",
+    "Events/TUD Eye Test.md",
+    "Events/Untitled.md",
     "Home Page/Home.canvas",
+    "CMPU1012 - Sep 19th 2024.md",
     "College/College Notes/CMPU 1025 - Sep 18th 2024.md",
+    "General Notes.md",
     "College/College Notes/CMPU 1025 - Sep 17th 2024.md",
     "College/College Notes/CMPU 1025 - Sep 16th 2024.md",
     "College/College Notes/CMPU 1024 - Sep 16  2024.md",
@@ -276,7 +294,6 @@
     "Code/C CPP/asd",
     "Code/C CPP/asd.c",
     "Notes/Arch Linux - Adding Drives.md",
-    "Notes/Guitar Wishlist.md",
     "Pasted image 20240917121149.png",
     "Other/obamna.gif",
     "obsidian-icon.png",
