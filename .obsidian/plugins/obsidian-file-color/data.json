@@ -45,15 +45,15 @@
     },
     {
       "path": "Home Page",
-      "color": "0jy0IN9iY3Qfpk3uuczKS"
-    },
-    {
-      "path": "Notes",
       "color": "FgjpbEdsIRHThBsc-PvA1"
     },
     {
-      "path": "Recordings",
-      "color": "ryIZEDHgHv-2z5VPkIp6L"
+      "path": "Notes",
+      "color": "tKaQohKU5S1pJjEYgZqYY"
+    },
+    {
+      "path": "Events",
+      "color": "0jy0IN9iY3Qfpk3uuczKS"
     },
     {
       "path": "Templates",
@@ -61,7 +61,7 @@
     },
     {
       "path": "Other",
-      "color": "tKaQohKU5S1pJjEYgZqYY"
+      "color": "ryIZEDHgHv-2z5VPkIp6L"
     },
     {
       "path": "Code",

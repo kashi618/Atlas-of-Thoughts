@@ -16,15 +16,37 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 100,
-                  "y": 229,
+                  "x": 109,
+                  "y": 175,
                   "zoom": 0
                 }
               },
               "pinned": true
             }
+          },
+          {
+            "id": "eaca24bf9677ec25",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb315a0e0d6782c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/2024-10-02 TUD Eye Test.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -36,7 +58,7 @@
       {
         "id": "1b4e08c64f3212e8",
         "type": "tabs",
-        "dimension": 61.78266178266178,
+        "dimension": 44.69964664310954,
         "children": [
           {
             "id": "d828e5b8bc561a69",
@@ -61,7 +83,7 @@
       {
         "id": "5f252b2efa3321c0",
         "type": "tabs",
-        "dimension": 38.21733821733822,
+        "dimension": 55.30035335689046,
         "children": [
           {
             "id": "370a24fabb7b70f5",
@@ -84,7 +106,7 @@
       {
         "id": "219604f8f4064431",
         "type": "tabs",
-        "dimension": 61.29032258064516,
+        "dimension": 18.552875695732837,
         "children": [
           {
             "id": "045d253cfaae2bfb",
@@ -124,14 +146,22 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "5ba9c91e4be0a0ac",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-sidebar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "f6d5e66d9154efe8",
         "type": "tabs",
-        "dimension": 38.70967741935484,
+        "dimension": 81.44712430426716,
         "children": [
           {
             "id": "7d2abaf18af8b769",
@@ -183,12 +213,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,11 +231,16 @@
       "omnisearch:Omnisearch": false,
       "homepage:Open homepage": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "cfe22ee9327c7ecb",
+  "active": "eaca24bf9677ec25",
   "lastOpenFiles": [
+    "Events/2024-10-02 TUD Eye Test.md",
+    "CMPU1012 - Sep 19th 2024.md",
+    "General Notes.md",
+    "Home Page/Home.canvas",
     "College/College Notes/CMPU 1025 - Sep 18th 2024.md",
     "College/College Notes/CMPU 1025 - Sep 17th 2024.md",
     "College/College Notes/CMPU 1025 - Sep 16th 2024.md",
@@ -215,11 +249,8 @@
     "College/CMPU 1018 - Mathematics 1.md",
     "College/CMPU 1012 - IT Fundamentals.md",
     "College/CMPU 1005  - Communications.md",
-    "Home Page/Home.canvas",
     "conflict-files-obsidian-git.md",
     "College/CMPU 1024 - Program Design.md",
-    "General Notes.md",
-    "CMPU1012 - Sep 19th 2024.md",
     "Notes/Arch Linux - Installation.md",
     "Templates/Unfinished Base Template.md",
     "Notes/Git Clone Repo.md",
@@ -246,8 +277,6 @@
     "Code/C CPP/asd.c",
     "Notes/Arch Linux - Adding Drives.md",
     "Notes/Guitar Wishlist.md",
-    "Notes/Bleaching Hair.md",
-    "Notes/Déjà Vu.md",
     "Pasted image 20240917121149.png",
     "Other/obamna.gif",
     "obsidian-icon.png",

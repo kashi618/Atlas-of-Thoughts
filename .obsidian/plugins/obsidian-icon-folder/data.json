@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPanelBottomInactive",
+      "LiCalendar",
+      "LiCalendarX",
       "LiCircleEllipsis",
-      "LiFolders",
-      "LiMic",
-      "LiStickyNote",
-      "LiHome"
+      "LiFolders"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,7 +36,7 @@
   "College": "LiSchool",
   "Home Page": "LiHome",
   "Notes": "LiStickyNote",
-  "Recordings": "LiMic",
   "Templates": "LiFolders",
-  "Other": "LiCircleEllipsis"
+  "Other": "LiPanelBottomInactive",
+  "Events": "LiCalendar"
 }
