@@ -8,11 +8,11 @@
 		{"id":"f004db60a79cbee1","type":"text","text":"### [Atlas of Thoughts Repo](https://github.com/kashi618/Atlas-of-Thoughts)","x":-100,"y":-400,"width":400,"height":80},
 		{"id":"af36ad340487c526","type":"file","file":"Other/explosion.gif","x":-101,"y":-291,"width":121,"height":121},
 		{"id":"9ea0b782d7b67ae8","type":"file","file":"Other/explosion.gif","x":179,"y":-291,"width":121,"height":121},
-		{"id":"d727aaa821f082a2","type":"file","file":"Other/obamna.gif","x":34,"y":-220,"width":130,"height":130},
-		{"id":"0119d76d110a7e05","type":"text","text":"## Unfinished Notes\n","x":-41,"y":-60,"width":280,"height":60},
-		{"id":"9361372b0209284a","type":"text","text":"```dataview\nLIST FROM #Unfinished\n```\n","x":-117,"y":20,"width":432,"height":120},
-		{"id":"b9f4227b716723a0","x":-116,"y":240,"width":432,"height":160,"type":"text","text":"``` dataview\nTABLE\nFROM \"Events\"\n```"},
-		{"id":"b6cb1449158326cd","type":"text","text":"## Calendar\n","x":-41,"y":160,"width":280,"height":60}
+		{"id":"d727aaa821f082a2","type":"file","file":"Other/obamna.gif","x":34,"y":-291,"width":130,"height":130},
+		{"id":"0119d76d110a7e05","type":"text","text":"## Unfinished Notes\n","x":-41,"y":-140,"width":280,"height":60},
+		{"id":"9361372b0209284a","type":"text","text":"```dataview\nLIST FROM #Unfinished\n```\n","x":-117,"y":-60,"width":432,"height":140},
+		{"id":"b6cb1449158326cd","type":"text","text":"## Calendar\n","x":-42,"y":100,"width":280,"height":60},
+		{"id":"b9f4227b716723a0","type":"text","text":"``` dataview\nTABLE date, startTime\nFROM \"Events\"\n```","x":-117,"y":180,"width":432,"height":220}
 	],
 	"edges":[
 		{"id":"61f8b927f2cbc8f2","fromNode":"3b26a240e372fd76","fromSide":"bottom","toNode":"6ab15ad4c5f03016","toSide":"top"},

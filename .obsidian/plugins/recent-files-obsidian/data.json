@@ -5,6 +5,14 @@
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "TU856 - Computer Science",
+      "path": "College/TU856 - Computer Science.md"
+    },
+    {
+      "basename": "obamna",
+      "path": "Other/obamna.gif"
+    },
+    {
       "basename": "TUD Eye Test",
       "path": "Events/TUD Eye Test.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "General Notes",
       "path": "General Notes.md"
-    },
-    {
-      "basename": "TU856 - Computer Science",
-      "path": "College/TU856 - Computer Science.md"
     },
     {
       "basename": "CMPU 1025 - Sep 17th 2024",
@@ -143,10 +147,6 @@
     {
       "basename": "TV Shows & Movies & Anime & Manga",
       "path": "Notes/TV Shows & Movies & Anime & Manga.md"
-    },
-    {
-      "basename": "obamna",
-      "path": "Other/obamna.gif"
     },
     {
       "basename": "obsidian-icon",
