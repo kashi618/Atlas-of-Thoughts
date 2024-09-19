@@ -23,22 +23,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "1d655497ff816903",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,7 +159,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +175,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +203,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1d655497ff816903",
+  "active": "d828e5b8bc561a69",
   "lastOpenFiles": [
     "Home Page/Home.canvas",
     "College/CMPU 1024 - Program Design.md",
