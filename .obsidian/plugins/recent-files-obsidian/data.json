@@ -5,6 +5,38 @@
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "CMPU 1025 - Sep 18th 2024",
+      "path": "College/College Notes/CMPU 1025 - Sep 18th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 17th 2024",
+      "path": "College/College Notes/CMPU 1025 - Sep 17th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 16th 2024",
+      "path": "College/College Notes/CMPU 1025 - Sep 16th 2024.md"
+    },
+    {
+      "basename": "CMPU 1024 - Sep 16  2024",
+      "path": "College/College Notes/CMPU 1024 - Sep 16  2024.md"
+    },
+    {
+      "basename": "CMPU 1018 - Sep 16th 2024",
+      "path": "College/College Notes/CMPU 1018 - Sep 16th 2024.md"
+    },
+    {
+      "basename": "CMPU 1018 - Mathematics 1",
+      "path": "College/CMPU 1018 - Mathematics 1.md"
+    },
+    {
+      "basename": "CMPU 1012 - IT Fundamentals",
+      "path": "College/CMPU 1012 - IT Fundamentals.md"
+    },
+    {
+      "basename": "CMPU 1005  - Communications",
+      "path": "College/CMPU 1005  - Communications.md"
+    },
+    {
       "basename": "CMPU 1024 - Program Design",
       "path": "College/CMPU 1024 - Program Design.md"
     },
@@ -15,10 +47,6 @@
     {
       "basename": "Arch Linux - Installation",
       "path": "Notes/Arch Linux - Installation.md"
-    },
-    {
-      "basename": "CMPU 1005  - Communications",
-      "path": "College/CMPU 1005  - Communications.md"
     },
     {
       "basename": "TU856 - Computer Science",
@@ -45,22 +73,6 @@
       "path": "Other/explosion.gif"
     },
     {
-      "basename": "CMPU 1024 - Sep 16th 2024",
-      "path": "Recordings/CMPU 1024 - Sep 16th 2024.webm"
-    },
-    {
-      "basename": "CMPU 1025 - Sep 18th 2024",
-      "path": "Recordings/CMPU 1025 - Sep 18th 2024.webm"
-    },
-    {
-      "basename": "CMPU 1018 - Sep 16th 2024",
-      "path": "Recordings/CMPU 1018 - Sep 16th 2024.webm"
-    },
-    {
-      "basename": "CMPU 1025 - Sep 18th 2024",
-      "path": "College/College Notes/CMPU 1025 - Sep 18th 2024.md"
-    },
-    {
       "basename": "CMPU 1031 - Web Development 1",
       "path": "College/CMPU 1031 - Web Development 1.md"
     },
@@ -69,20 +81,8 @@
       "path": "College/CMPU 1025 - Programming 1 (Sem. 1).md"
     },
     {
-      "basename": "CMPU 1024 - Sep 16  2024",
-      "path": "College/College Notes/CMPU 1024 - Sep 16  2024.md"
-    },
-    {
-      "basename": "CMPU 1025 - Sep 17th 2024",
-      "path": "College/College Notes/CMPU 1025 - Sep 17th 2024.md"
-    },
-    {
       "basename": "Arch Linux - Adding Drives",
       "path": "Notes/Arch Linux - Adding Drives.md"
-    },
-    {
-      "basename": "CMPU 1025 - Sep 16th 2024",
-      "path": "Recordings/CMPU 1025 - Sep 16th 2024.webm"
     },
     {
       "basename": "Guitar Wishlist",
@@ -109,14 +109,6 @@
       "path": "Notes/Déjà Entendu.md"
     },
     {
-      "basename": "CMPU 1025 - Sep 16th 2024",
-      "path": "College/College Notes/CMPU 1025 - Sep 16th 2024.md"
-    },
-    {
-      "basename": "CMPU 1018 - Sep 16th 2024",
-      "path": "College/College Notes/CMPU 1018 - Sep 16th 2024.md"
-    },
-    {
       "basename": "1031 Template",
       "path": "Templates/1031 Template.md"
     },
@@ -141,10 +133,6 @@
       "path": "Templates/1012 Template.md"
     },
     {
-      "basename": "CMPU 1018 - Mathematics 1",
-      "path": "College/CMPU 1018 - Mathematics 1.md"
-    },
-    {
       "basename": "TV Shows & Movies & Anime & Manga",
       "path": "Notes/TV Shows & Movies & Anime & Manga.md"
     },
@@ -155,10 +143,6 @@
     {
       "basename": "obsidian-icon",
       "path": "Home Page/obsidian-icon.png"
-    },
-    {
-      "basename": "CMPU 1012 - IT Fundamentals",
-      "path": "College/CMPU 1012 - IT Fundamentals.md"
     },
     {
       "basename": "Books",

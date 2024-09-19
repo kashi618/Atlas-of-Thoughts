@@ -11,7 +11,8 @@
 		{"id":"f004db60a79cbee1","type":"text","text":"### [Atlas of Thoughts Repo](https://github.com/kashi618/Atlas-of-Thoughts)","x":-99,"y":-320,"width":400,"height":80},
 		{"id":"af36ad340487c526","type":"file","file":"Other/explosion.gif","x":-100,"y":-211,"width":121,"height":121},
 		{"id":"9ea0b782d7b67ae8","type":"file","file":"Other/explosion.gif","x":180,"y":-211,"width":121,"height":121},
-		{"id":"d727aaa821f082a2","type":"file","file":"Other/obamna.gif","x":35,"y":-140,"width":130,"height":130}
+		{"id":"d727aaa821f082a2","type":"file","file":"Other/obamna.gif","x":35,"y":-140,"width":130,"height":130},
+		{"id":"de301caaf6b3995a","x":-90,"y":500,"width":250,"height":81,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"61f8b927f2cbc8f2","fromNode":"3b26a240e372fd76","fromSide":"bottom","toNode":"6ab15ad4c5f03016","toSide":"top"},
