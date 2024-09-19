@@ -36,9 +36,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d45dee3a78c3e51",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "General Notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -128,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "General Notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,7 +179,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +195,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,10 +223,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1ac4553b72bfe7e2",
+  "active": "6d45dee3a78c3e51",
   "lastOpenFiles": [
-    "CMPU1012 - Sep 19th 2024.md",
     "General Notes.md",
+    "CMPU1012 - Sep 19th 2024.md",
     "Home Page/Home.canvas",
     "College/CMPU 1012 - IT Fundamentals.md",
     "College/CMPU 1018 - Mathematics 1.md",
