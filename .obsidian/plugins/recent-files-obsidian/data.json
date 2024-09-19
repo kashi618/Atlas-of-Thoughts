@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Arch Linux - Installation",
+      "path": "Notes/Arch Linux - Installation.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "CMPU 1005  - Communications",
+      "path": "College/CMPU 1005  - Communications.md"
+    },
+    {
+      "basename": "TU856 - Computer Science",
+      "path": "College/TU856 - Computer Science.md"
+    },
+    {
+      "basename": "Git Clone Repo",
+      "path": "Notes/Git Clone Repo.md"
+    },
+    {
       "basename": "CMPU 1025 - Lucas Snow",
-      "path": "CMPU 1025 - Lucas Snow.md"
+      "path": "College/Lab Notes/CMPU 1025 - Lucas Snow.md"
+    },
+    {
+      "basename": "Base Template",
+      "path": "Templates/Base Template.md"
+    },
+    {
+      "basename": "C CPP main Template",
+      "path": "Templates/C CPP main Template.md"
+    },
+    {
+      "basename": "explosion",
+      "path": "Other/explosion.gif"
+    },
+    {
+      "basename": "CMPU 1024 - Sep 16th 2024",
+      "path": "Recordings/CMPU 1024 - Sep 16th 2024.webm"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 18th 2024",
+      "path": "Recordings/CMPU 1025 - Sep 18th 2024.webm"
+    },
+    {
+      "basename": "CMPU 1018 - Sep 16th 2024",
+      "path": "Recordings/CMPU 1018 - Sep 16th 2024.webm"
     },
     {
       "basename": "CMPU 1025 - Sep 18th 2024",
@@ -11,18 +55,6 @@
     {
       "basename": "CMPU 1031 - Web Development 1",
       "path": "College/CMPU 1031 - Web Development 1.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
-    },
-    {
-      "basename": "TU856 - Computer Science",
-      "path": "College/TU856 - Computer Science.md"
-    },
-    {
-      "basename": "CMPU 1025 - Sep 18th 2024",
-      "path": "Recordings/CMPU 1025 - Sep 18th 2024.webm"
     },
     {
       "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
@@ -37,16 +69,8 @@
       "path": "College/CMPU 1024 - Program Design.md"
     },
     {
-      "basename": "Arch Linux - Installation",
-      "path": "Notes/Arch Linux - Installation.md"
-    },
-    {
       "basename": "CMPU 1025 - Sep 17th 2024",
       "path": "College/College Notes/CMPU 1025 - Sep 17th 2024.md"
-    },
-    {
-      "basename": "CMPU 1024 - Sep 16th 2024",
-      "path": "Recordings/CMPU 1024 - Sep 16th 2024.webm"
     },
     {
       "basename": "Arch Linux - Adding Drives",
@@ -55,10 +79,6 @@
     {
       "basename": "CMPU 1025 - Sep 16th 2024",
       "path": "Recordings/CMPU 1025 - Sep 16th 2024.webm"
-    },
-    {
-      "basename": "CMPU 1005  - Communications",
-      "path": "College/CMPU 1005  - Communications.md"
     },
     {
       "basename": "Guitar Wishlist",
@@ -85,20 +105,12 @@
       "path": "Notes/Déjà Entendu.md"
     },
     {
-      "basename": "CMPU 1018 - Sep 16th 2024",
-      "path": "Recordings/CMPU 1018 - Sep 16th 2024.webm"
-    },
-    {
       "basename": "CMPU 1025 - Sep 16th 2024",
       "path": "College/College Notes/CMPU 1025 - Sep 16th 2024.md"
     },
     {
       "basename": "CMPU 1018 - Sep 16th 2024",
       "path": "College/College Notes/CMPU 1018 - Sep 16th 2024.md"
-    },
-    {
-      "basename": "C CPP main Template",
-      "path": "Templates/C CPP main Template.md"
     },
     {
       "basename": "1031 Template",
@@ -125,20 +137,12 @@
       "path": "Templates/1012 Template.md"
     },
     {
-      "basename": "Base Template",
-      "path": "Templates/Base Template.md"
-    },
-    {
       "basename": "CMPU 1018 - Mathematics 1",
       "path": "College/CMPU 1018 - Mathematics 1.md"
     },
     {
       "basename": "TV Shows & Movies & Anime & Manga",
       "path": "Notes/TV Shows & Movies & Anime & Manga.md"
-    },
-    {
-      "basename": "explosion",
-      "path": "Other/explosion.gif"
     },
     {
       "basename": "obamna",
@@ -191,10 +195,6 @@
     {
       "basename": "Tattoos",
       "path": "Notes/Tattoos.md"
-    },
-    {
-      "basename": "Superfest Glass",
-      "path": "Notes/Superfest Glass.md"
     }
   ],
   "omittedPaths": [],

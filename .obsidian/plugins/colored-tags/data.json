@@ -76,7 +76,9 @@
     "Linux": 64,
     "NotDone": 65,
     "Unfinished": 66,
-    "ArchLinux": 67
+    "ArchLinux": 67,
+    "git": 68,
+    "TU": 69
   },
   "_version": 3
 }
