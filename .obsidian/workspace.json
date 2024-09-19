@@ -17,7 +17,7 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": 100,
-                  "y": -50,
+                  "y": 16.262499999999992,
                   "zoom": 0
                 }
               },
@@ -25,12 +25,12 @@
             }
           },
           {
-            "id": "308d35f2578e8bb0",
+            "id": "db73c646dba87671",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Arch Linux - Installation.md",
+                "file": "CMPU1012 - Sep 19th 2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5026054382324
+    "width": 304.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Arch Linux - Installation.md"
+                "file": "CMPU1012 - Sep 19th 2024.md"
               }
             }
           },
@@ -128,7 +129,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Arch Linux - Installation.md"
+                "file": "CMPU1012 - Sep 19th 2024.md"
               }
             }
           },
@@ -174,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Arch Linux - Installation.md",
+                "file": "CMPU1012 - Sep 19th 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Arch Linux - Installation.md",
+                "file": "CMPU1012 - Sep 19th 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,12 +215,19 @@
       "random-note:Open random note": false,
       "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "96146b79b47a45f2",
+  "active": "db73c646dba87671",
   "lastOpenFiles": [
     "Home Page/Home.canvas",
+    "CMPU1012 - Sep 19th 2024.md",
+    "College/CMPU 1012 - IT Fundamentals.md",
+    "College/CMPU 1018 - Mathematics 1.md",
+    "Notes/Arch Linux - Installation.md",
     "Templates/Unfinished Base Template.md",
     "College/CMPU 1005  - Communications.md",
     "Notes/Git Clone Repo.md",
@@ -228,7 +236,6 @@
     "Templates/Base Template.md",
     "Templates/C CPP main Template.md",
     "Other/explosion.gif",
-    "Notes/Arch Linux - Installation.md",
     "Other/clideo_editor_28f643efc4bf462f9cad024bddd71dc1.gif",
     "Recordings/CMPU 1024 - Sep 16th 2024.webm",
     "Recordings/CMPU 1025 - Sep 18th 2024.webm",
@@ -257,9 +264,6 @@
     "Notes/Jamais Vu.md",
     "Notes/Déjà Entendu.md",
     "Pasted image 20240917121149.png",
-    "College/College Notes/CMPU 1025 - Sep 16th 2024.md",
-    "College/College Notes/CMPU 1018 - Sep 16th 2024.md",
-    "Templates/1031 Template.md",
     "Other/obamna.gif",
     "obsidian-icon.png",
     "Home.canvas",

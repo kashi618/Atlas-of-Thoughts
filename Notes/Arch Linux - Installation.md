@@ -134,12 +134,12 @@ locale-gen
 ```
 nano /etc/locale.conf
 ```
-- Add this "LANG=en_IE.UTF-8"
+- Append "LANG=en_IE.UTF-8"
 
 ```
 nano /etc/vconsole.conf
 ```
-- Add this "KEYMAP=uk"
+- Append "KEYMAP=uk"
 
 ## create hostname and password
 ```
@@ -158,7 +158,7 @@ passwd {Username}
 
 EDITOR=nano visudo
 ```
-- In visudo, uncomment the %wheel
+- Uncomment the %wheel
 
 ## pacman with 32bit support
 ```
