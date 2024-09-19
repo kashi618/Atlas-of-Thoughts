@@ -5,6 +5,14 @@
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "CMPU 1024 - Program Design",
+      "path": "College/CMPU 1024 - Program Design.md"
+    },
+    {
+      "basename": "General Notes",
+      "path": "General Notes.md"
+    },
+    {
       "basename": "Arch Linux - Installation",
       "path": "Notes/Arch Linux - Installation.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "CMPU 1024 - Sep 16  2024",
       "path": "College/College Notes/CMPU 1024 - Sep 16  2024.md"
-    },
-    {
-      "basename": "CMPU 1024 - Program Design",
-      "path": "College/CMPU 1024 - Program Design.md"
     },
     {
       "basename": "CMPU 1025 - Sep 17th 2024",
@@ -191,10 +195,6 @@
     {
       "basename": "Utopia",
       "path": "Notes/Utopia.md"
-    },
-    {
-      "basename": "Tattoos",
-      "path": "Notes/Tattoos.md"
     }
   ],
   "omittedPaths": [],
