@@ -23,8 +23,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "4fd39e6d1af7cc23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/CMPU 1005  - Communications.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/TU856 - Computer Science.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -121,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/TU856 - Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +171,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/TU856 - Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,11 +198,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "6dc3501e72ecb503",
+  "active": "d828e5b8bc561a69",
   "lastOpenFiles": [
-    "CMPU1012 - Sep 19th 2024.md",
-    "Home Page/Home.canvas",
+    "Untitled.md",
+    "College/CMPU 1005  - Communications.md",
+    "Templates/1005 Template.md",
+    "Templates/1018 Template.md",
     "General Notes.md",
+    "Home Page/Home.canvas",
+    "CMPU1012 - Sep 19th 2024.md",
     "Events/TUD Eye Test.md",
     "Events/Untitled.md",
     "College/College Notes/CMPU 1025 - Sep 18th 2024.md",
@@ -200,7 +216,6 @@
     "College/College Notes/CMPU 1018 - Sep 16th 2024.md",
     "College/CMPU 1018 - Mathematics 1.md",
     "College/CMPU 1012 - IT Fundamentals.md",
-    "College/CMPU 1005  - Communications.md",
     "conflict-files-obsidian-git.md",
     "College/CMPU 1024 - Program Design.md",
     "Notes/Arch Linux - Installation.md",
@@ -224,10 +239,8 @@
     "Code/C CPP/MeetingRoom.cpp",
     "Code/C CPP/HelloWorld.cpp",
     "Code/C CPP/HelloWorld",
-    "CMPU 1024 - Sep 18 2024.md",
     "Code/C CPP/asd",
     "Code/C CPP/asd.c",
-    "Notes/Arch Linux - Adding Drives.md",
     "Pasted image 20240917121149.png",
     "Other/obamna.gif",
     "obsidian-icon.png",
