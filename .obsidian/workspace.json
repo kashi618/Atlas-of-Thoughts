@@ -10,7 +10,6 @@
           {
             "id": "e1553b71bd3fb997",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -18,10 +17,22 @@
                 "viewState": {
                   "x": 100,
                   "y": -50,
-                  "zoom": -0.0519277920438611
+                  "zoom": -0.296493047511092
                 }
-              },
-              "pinned": true
+              }
+            }
+          },
+          {
+            "id": "6dc3501e72ecb503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPU1012 - Sep 19th 2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -36,7 +47,7 @@
       {
         "id": "1b4e08c64f3212e8",
         "type": "tabs",
-        "dimension": 44.69964664310954,
+        "dimension": 60.44399596367306,
         "children": [
           {
             "id": "d828e5b8bc561a69",
@@ -61,7 +72,7 @@
       {
         "id": "5f252b2efa3321c0",
         "type": "tabs",
-        "dimension": 55.30035335689046,
+        "dimension": 39.55600403632694,
         "children": [
           {
             "id": "370a24fabb7b70f5",
@@ -84,18 +95,8 @@
       {
         "id": "219604f8f4064431",
         "type": "tabs",
-        "dimension": 65.08704061895551,
+        "dimension": 63.73307543520309,
         "children": [
-          {
-            "id": "045d253cfaae2bfb",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Home Page/Home.canvas"
-              }
-            }
-          },
           {
             "id": "4feeb7318868250d",
             "type": "leaf",
@@ -108,41 +109,17 @@
             }
           },
           {
-            "id": "85daf6048cc51cf8",
+            "id": "ac02c694b037802c",
             "type": "leaf",
             "state": {
-              "type": "file-properties",
+              "type": "outline",
               "state": {
                 "file": "Home Page/Home.canvas"
               }
             }
           },
           {
-            "id": "2980873637de1d8d",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "5ba9c91e4be0a0ac",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-sidebar-view",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "f6d5e66d9154efe8",
-        "type": "tabs",
-        "dimension": 34.91295938104449,
-        "children": [
-          {
-            "id": "7d2abaf18af8b769",
+            "id": "46aac37d8b822251",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -150,19 +127,7 @@
             }
           },
           {
-            "id": "afb418228d533bfa",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
-            "id": "adf1fdc4d9f0c8e8",
+            "id": "11c3d8ab150be139",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -179,6 +144,26 @@
             }
           },
           {
+            "id": "b8961e88321a2dce",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f6d5e66d9154efe8",
+        "type": "tabs",
+        "dimension": 36.2669245647969,
+        "children": [
+          {
             "id": "38a9cec16627d35f",
             "type": "leaf",
             "state": {
@@ -190,8 +175,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,12 +199,12 @@
   },
   "active": "e1553b71bd3fb997",
   "lastOpenFiles": [
-    "Events/TUD Eye Test.md",
-    "Home Page/Home.canvas",
-    "Events/Untitled.md",
     "CMPU1012 - Sep 19th 2024.md",
-    "College/College Notes/CMPU 1025 - Sep 18th 2024.md",
+    "Home Page/Home.canvas",
     "General Notes.md",
+    "Events/TUD Eye Test.md",
+    "Events/Untitled.md",
+    "College/College Notes/CMPU 1025 - Sep 18th 2024.md",
     "College/College Notes/CMPU 1025 - Sep 17th 2024.md",
     "College/College Notes/CMPU 1025 - Sep 16th 2024.md",
     "College/College Notes/CMPU 1024 - Sep 16  2024.md",

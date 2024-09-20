@@ -5,28 +5,28 @@
       "path": "Home Page/Home.canvas"
     },
     {
-      "basename": "TUD Eye Test",
-      "path": "Events/TUD Eye Test.md"
-    },
-    {
       "basename": "TU856 - Computer Science",
       "path": "College/TU856 - Computer Science.md"
-    },
-    {
-      "basename": "obamna",
-      "path": "Other/obamna.gif"
     },
     {
       "basename": "CMPU1012 - Sep 19th 2024",
       "path": "CMPU1012 - Sep 19th 2024.md"
     },
     {
-      "basename": "CMPU 1025 - Sep 18th 2024",
-      "path": "College/College Notes/CMPU 1025 - Sep 18th 2024.md"
-    },
-    {
       "basename": "General Notes",
       "path": "General Notes.md"
+    },
+    {
+      "basename": "TUD Eye Test",
+      "path": "Events/TUD Eye Test.md"
+    },
+    {
+      "basename": "obamna",
+      "path": "Other/obamna.gif"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 18th 2024",
+      "path": "College/College Notes/CMPU 1025 - Sep 18th 2024.md"
     },
     {
       "basename": "CMPU 1025 - Sep 17th 2024",
