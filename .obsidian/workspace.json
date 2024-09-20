@@ -8,8 +8,9 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e1553b71bd3fb997",
+            "id": "6dc3501e72ecb503",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -19,20 +20,8 @@
                   "y": -50,
                   "zoom": -0.296493047511092
                 }
-              }
-            }
-          },
-          {
-            "id": "6dc3501e72ecb503",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPU1012 - Sep 19th 2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -114,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "file": "College/TU856 - Computer Science.md"
               }
             }
           },
@@ -132,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "College/TU856 - Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "College/TU856 - Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +186,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e1553b71bd3fb997",
+  "active": "6dc3501e72ecb503",
   "lastOpenFiles": [
     "CMPU1012 - Sep 19th 2024.md",
     "Home Page/Home.canvas",
