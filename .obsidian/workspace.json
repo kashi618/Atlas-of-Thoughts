@@ -25,40 +25,6 @@
             }
           },
           {
-            "id": "11968a82a1989b71",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "b009b4b6ef3367b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Events/2024-09-27 Horror Quiz Night (LH231).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ff58a4b65f8dbe7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/CMPU 1031 - Web Development 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6c10a7d81130ed76",
             "type": "leaf",
             "state": {
@@ -72,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,9 +204,9 @@
   },
   "active": "6c10a7d81130ed76",
   "lastOpenFiles": [
-    "College/CMPU 1031 - Web Development 1.md",
-    "CMPU1031 - Sep 20nd 2024.md",
     "Home Page/Home.canvas",
+    "CMPU1031 - Sep 20nd 2024.md",
+    "College/CMPU 1031 - Web Development 1.md",
     "Events/2024-09-27 Horror Quiz Night (LH231).md",
     "O",
     "Calendar/Recurring/(Every W,M) Badminton Training.md",
@@ -271,7 +237,6 @@
     "Untitled.md",
     "Calendar/Other/2024-09-27 Horror Quiz Night (LH231).md",
     "Calendar/Other/TUD Eye Test.md",
-    "Calendar/TUD Societies/(Every M) Horror Soc EQ203.md",
     "Calendar/Other",
     "Calendar/TUD Societies",
     "Calendar/TUD Clubs",
