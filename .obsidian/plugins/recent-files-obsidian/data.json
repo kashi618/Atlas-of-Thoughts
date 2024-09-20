@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "CMPU 1025 - Sep 16th 2024",
       "path": "College/College Notes/CMPU 1025 - Sep 16th 2024.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "CMPU 1005  - Communications",
       "path": "College/CMPU 1005  - Communications.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "General Notes",
