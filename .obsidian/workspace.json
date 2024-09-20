@@ -30,14 +30,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/CMPU 1005  - Communications.md",
-                "mode": "source",
+                "file": "College/College Notes/CMPU 1025 - Sep 16th 2024.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/TU856 - Computer Science.md"
+                "file": "College/College Notes/CMPU 1025 - Sep 16th 2024.md"
               }
             }
           },
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/TU856 - Computer Science.md",
+                "file": "College/College Notes/CMPU 1025 - Sep 16th 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/TU856 - Computer Science.md",
+                "file": "College/College Notes/CMPU 1025 - Sep 16th 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,12 +200,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9fd266e60536fee9",
+  "active": "ddbe7604dc6a6cb2",
   "lastOpenFiles": [
+    "College/CMPU 1025 - Programming 1 (Sem. 1).md",
+    "College/TU856 - Computer Science.md",
+    "College/CMPU 1012 - IT Fundamentals.md",
     "College/CMPU 1005  - Communications.md",
+    "Home Page/Home.canvas",
     "General Notes.md",
     "Templates/Base Template.md",
-    "Home Page/Home.canvas",
     "CMPU1012 - Sep 19th 2024.md",
     "Events/TUD Eye Test.md",
     "Events/2024-09-27 Horror Quiz Night (LH231).md",
@@ -235,8 +239,6 @@
     "Calendar/2024-09-27 Horror Quiz Night (LH231).md",
     "Calendar/(Every W,M) Badminton Training.md",
     "Calendar/(Every M) Horror Soc EQ203.md",
-    "Notes/Quotes.md",
-    "Notes/Abolition.md",
     "Other/explosion.gif",
     "Other/clideo_editor_28f643efc4bf462f9cad024bddd71dc1.gif",
     "Untitled.canvas",
