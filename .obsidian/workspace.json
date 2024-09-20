@@ -10,19 +10,35 @@
           {
             "id": "ddbe7604dc6a6cb2",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 100,
+                  "y": -50,
+                  "zoom": -0.296493047511092
                 }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "4d03cf20e5e357d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/College Notes/CMPU 1025 - Sep 16th 2024.md"
+                "file": "General Notes.md"
               }
             }
           },
@@ -119,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/College Notes/CMPU 1025 - Sep 16th 2024.md",
+                "file": "General Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/College Notes/CMPU 1025 - Sep 16th 2024.md",
+                "file": "General Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,13 +200,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ddbe7604dc6a6cb2",
+  "active": "4d03cf20e5e357d4",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
+    "College/College Notes/CMPU 1025 - Sep 16th 2024.md",
     "College/CMPU 1025 - Programming 1 (Sem. 1).md",
     "College/TU856 - Computer Science.md",
     "College/CMPU 1012 - IT Fundamentals.md",
     "College/CMPU 1005  - Communications.md",
-    "Home Page/Home.canvas",
     "General Notes.md",
     "Templates/Base Template.md",
     "CMPU1012 - Sep 19th 2024.md",
@@ -221,8 +238,6 @@
     "Untitled",
     "Calendar.md",
     "Calendar/2024-09-27 Horror Quiz Night (LH231).md",
-    "Calendar/(Every W,M) Badminton Training.md",
-    "Calendar/(Every M) Horror Soc EQ203.md",
     "Other/explosion.gif",
     "Other/clideo_editor_28f643efc4bf462f9cad024bddd71dc1.gif",
     "Untitled.canvas",
