@@ -37,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/CMPU 1005  - Communications.md"
+                "file": "College/TU856 - Computer Science.md"
               }
             }
           },
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/CMPU 1005  - Communications.md",
+                "file": "College/TU856 - Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/CMPU 1005  - Communications.md",
+                "file": "College/TU856 - Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,11 +199,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d828e5b8bc561a69",
+  "active": "9fd266e60536fee9",
   "lastOpenFiles": [
+    "College/CMPU 1005  - Communications.md",
     "General Notes.md",
     "Templates/Base Template.md",
-    "College/CMPU 1005  - Communications.md",
     "Home Page/Home.canvas",
     "CMPU1012 - Sep 19th 2024.md",
     "Events/TUD Eye Test.md",
