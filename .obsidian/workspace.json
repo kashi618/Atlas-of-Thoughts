@@ -25,12 +25,25 @@
             }
           },
           {
-            "id": "4fd39e6d1af7cc23",
+            "id": "00254c50569ece66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "College/CMPU 1005  - Communications.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f6076ff53db6934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "College/CMPU 1005  - Communications.md"
               }
             }
           },
@@ -135,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "College/CMPU 1005  - Communications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,6 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "College/CMPU 1005  - Communications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,14 +213,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d828e5b8bc561a69",
+  "active": "00254c50569ece66",
   "lastOpenFiles": [
-    "Untitled.md",
-    "College/CMPU 1005  - Communications.md",
-    "Templates/1005 Template.md",
-    "Templates/1018 Template.md",
     "General Notes.md",
     "Home Page/Home.canvas",
+    "College/CMPU 1005  - Communications.md",
+    "Untitled.md",
+    "Templates/1005 Template.md",
+    "Templates/1018 Template.md",
     "CMPU1012 - Sep 19th 2024.md",
     "Events/TUD Eye Test.md",
     "Events/Untitled.md",
@@ -232,7 +247,6 @@
     "Recordings/CMPU 1018 - Sep 16th 2024.webm",
     "College/CMPU 1031 - Web Development 1.md",
     "College/TU856 - Computer Science.md",
-    "College/CMPU 1025 - Programming 1 (Sem. 1).md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Code/C CPP/MeetingRoom",
