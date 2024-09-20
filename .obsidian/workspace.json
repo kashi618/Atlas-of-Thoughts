@@ -25,12 +25,46 @@
             }
           },
           {
-            "id": "4d03cf20e5e357d4",
+            "id": "11968a82a1989b71",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b009b4b6ef3367b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Notes.md",
+                "file": "Events/2024-09-27 Horror Quiz Night (LH231).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ff58a4b65f8dbe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/CMPU 1031 - Web Development 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c10a7d81130ed76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPU1031 - Sep 20nd 2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -38,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -89,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5026054382324
+    "width": 304.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -117,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Notes.md"
+                "file": "CMPU1031 - Sep 20nd 2024.md"
               }
             }
           },
@@ -135,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Notes.md",
+                "file": "CMPU1031 - Sep 20nd 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Notes.md",
+                "file": "CMPU1031 - Sep 20nd 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +217,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 331.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,19 +236,25 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "4d03cf20e5e357d4",
+  "active": "6c10a7d81130ed76",
   "lastOpenFiles": [
+    "College/CMPU 1031 - Web Development 1.md",
+    "CMPU1031 - Sep 20nd 2024.md",
     "Home Page/Home.canvas",
+    "Events/2024-09-27 Horror Quiz Night (LH231).md",
+    "O",
+    "Calendar/Recurring/(Every W,M) Badminton Training.md",
+    "Calendar/Recurring",
+    "Events/TUD Eye Test.md",
+    "Calendar/2024-10-02 Eye Test.md",
+    "General Notes.md",
     "College/College Notes/CMPU 1025 - Sep 16th 2024.md",
     "College/CMPU 1025 - Programming 1 (Sem. 1).md",
     "College/TU856 - Computer Science.md",
     "College/CMPU 1012 - IT Fundamentals.md",
     "College/CMPU 1005  - Communications.md",
-    "General Notes.md",
     "Templates/Base Template.md",
     "CMPU1012 - Sep 19th 2024.md",
-    "Events/TUD Eye Test.md",
-    "Events/2024-09-27 Horror Quiz Night (LH231).md",
     "Events",
     "Reccuring/(Every W,M) Badminton Training.md",
     "Reccuring/(Every M) Horror Soc EQ203.md",
@@ -230,14 +272,9 @@
     "Calendar/Other/2024-09-27 Horror Quiz Night (LH231).md",
     "Calendar/Other/TUD Eye Test.md",
     "Calendar/TUD Societies/(Every M) Horror Soc EQ203.md",
-    "Calendar/TUD Societies/(Every W,M) Badminton Training.md",
     "Calendar/Other",
     "Calendar/TUD Societies",
     "Calendar/TUD Clubs",
-    "Calendar/Untitled",
-    "Untitled",
-    "Calendar.md",
-    "Calendar/2024-09-27 Horror Quiz Night (LH231).md",
     "Other/explosion.gif",
     "Other/clideo_editor_28f643efc4bf462f9cad024bddd71dc1.gif",
     "Untitled.canvas",

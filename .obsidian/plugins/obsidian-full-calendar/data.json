@@ -2,8 +2,8 @@
   "calendarSources": [
     {
       "type": "local",
-      "color": "#ff0000",
-      "directory": "Calendar"
+      "color": "#00ffd5",
+      "directory": "Calendar/Recurring"
     }
   ],
   "defaultCalendar": 0,

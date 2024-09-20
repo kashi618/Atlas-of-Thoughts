@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "General Notes",
-      "path": "General Notes.md"
+      "basename": "CMPU1031 - Sep 20nd 2024",
+      "path": "CMPU1031 - Sep 20nd 2024.md"
+    },
+    {
+      "basename": "CMPU 1031 - Web Development 1",
+      "path": "College/CMPU 1031 - Web Development 1.md"
+    },
+    {
+      "basename": "TU856 - Computer Science",
+      "path": "College/TU856 - Computer Science.md"
     },
     {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "2024-09-27 Horror Quiz Night (LH231)",
+      "path": "Events/2024-09-27 Horror Quiz Night (LH231).md"
+    },
+    {
+      "basename": "TUD Eye Test",
+      "path": "Events/TUD Eye Test.md"
+    },
+    {
+      "basename": "General Notes",
+      "path": "General Notes.md"
     },
     {
       "basename": "CMPU 1025 - Sep 16th 2024",
@@ -15,10 +35,6 @@
     {
       "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
       "path": "College/CMPU 1025 - Programming 1 (Sem. 1).md"
-    },
-    {
-      "basename": "TU856 - Computer Science",
-      "path": "College/TU856 - Computer Science.md"
     },
     {
       "basename": "CMPU 1012 - IT Fundamentals",
@@ -99,10 +115,6 @@
     {
       "basename": "explosion",
       "path": "Other/explosion.gif"
-    },
-    {
-      "basename": "CMPU 1031 - Web Development 1",
-      "path": "College/CMPU 1031 - Web Development 1.md"
     },
     {
       "basename": "Arch Linux - Adding Drives",
@@ -187,10 +199,6 @@
     {
       "basename": "Weird Animals",
       "path": "Notes/Weird Animals.md"
-    },
-    {
-      "basename": "Utopia",
-      "path": "Notes/Utopia.md"
     }
   ],
   "omittedPaths": [],
