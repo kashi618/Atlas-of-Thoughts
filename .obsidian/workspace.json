@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6dc3501e72ecb503",
+            "id": "9fd266e60536fee9",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "9fd266e60536fee9",
+            "id": "ddbe7604dc6a6cb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,43 +36,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "345254729a13c2df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Base Template.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "152daa21f0954a6f",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "3f6076ff53db6934",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Base Template.md"
+                "file": "College/CMPU 1005  - Communications.md"
               }
             }
           },
@@ -169,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Base Template.md",
+                "file": "College/CMPU 1005  - Communications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Base Template.md",
+                "file": "College/CMPU 1005  - Communications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,49 +200,48 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "345254729a13c2df",
+  "active": "d828e5b8bc561a69",
   "lastOpenFiles": [
-    "Untitled.md",
+    "General Notes.md",
     "Templates/Base Template.md",
-    "Calendar.md",
     "College/CMPU 1005  - Communications.md",
+    "Home Page/Home.canvas",
+    "CMPU1012 - Sep 19th 2024.md",
+    "Events/TUD Eye Test.md",
+    "Events/2024-09-27 Horror Quiz Night (LH231).md",
+    "Events",
+    "Reccuring/(Every W,M) Badminton Training.md",
+    "Reccuring/(Every M) Horror Soc EQ203.md",
+    "Reccuring",
+    "Calendar/Events/2024-09-27 Horror Quiz Night (LH231).md",
+    "Calendar/Events/TUD Eye Test.md",
+    "Calendar/Events",
+    "Calendar/Reccuring/(Every W,M) Badminton Training.md",
+    "Calendar/Reccuring/(Every M) Horror Soc EQ203.md",
+    "Calendar/Reccuring",
+    "Calendar/Reoccuring/(Every W,M) Badminton Training.md",
+    "Calendar/Reoccuring/(Every M) Horror Soc EQ203.md",
+    "Calendar/Reoccuring",
+    "Untitled.md",
+    "Calendar/Other/2024-09-27 Horror Quiz Night (LH231).md",
+    "Calendar/Other/TUD Eye Test.md",
+    "Calendar/TUD Societies/(Every M) Horror Soc EQ203.md",
+    "Calendar/TUD Societies/(Every W,M) Badminton Training.md",
+    "Calendar/Other",
+    "Calendar/TUD Societies",
+    "Calendar/TUD Clubs",
+    "Calendar/Untitled",
+    "Untitled",
+    "Calendar.md",
     "Calendar/2024-09-27 Horror Quiz Night (LH231).md",
     "Calendar/(Every W,M) Badminton Training.md",
     "Calendar/(Every M) Horror Soc EQ203.md",
-    "Home Page/Home.canvas",
-    "General Notes.md",
     "Notes/Quotes.md",
     "Notes/Abolition.md",
-    "Templates/1005 Template.md",
-    "Templates/1018 Template.md",
-    "CMPU1012 - Sep 19th 2024.md",
-    "Calendar/TUD Eye Test.md",
-    "Events/Untitled.md",
-    "College/College Notes/CMPU 1025 - Sep 18th 2024.md",
-    "College/College Notes/CMPU 1025 - Sep 17th 2024.md",
-    "College/College Notes/CMPU 1025 - Sep 16th 2024.md",
-    "College/College Notes/CMPU 1024 - Sep 16  2024.md",
-    "College/College Notes/CMPU 1018 - Sep 16th 2024.md",
-    "College/CMPU 1018 - Mathematics 1.md",
-    "College/CMPU 1012 - IT Fundamentals.md",
-    "conflict-files-obsidian-git.md",
-    "College/CMPU 1024 - Program Design.md",
-    "Notes/Arch Linux - Installation.md",
-    "Templates/Unfinished Base Template.md",
-    "College/Lab Notes",
     "Other/explosion.gif",
     "Other/clideo_editor_28f643efc4bf462f9cad024bddd71dc1.gif",
-    "Recordings/CMPU 1024 - Sep 16th 2024.webm",
-    "Recordings/CMPU 1025 - Sep 18th 2024.webm",
-    "Recordings/CMPU 1018 - Sep 16th 2024.webm",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Code/C CPP/MeetingRoom",
-    "Code/C CPP/MeetingRoom.cpp",
-    "Code/C CPP/HelloWorld.cpp",
-    "Code/C CPP/HelloWorld",
-    "Code/C CPP/asd",
-    "Code/C CPP/asd.c",
     "Pasted image 20240917121149.png",
     "Other/obamna.gif",
     "obsidian-icon.png",

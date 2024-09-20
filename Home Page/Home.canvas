@@ -12,8 +12,8 @@
 		{"id":"0119d76d110a7e05","type":"text","text":"## Unfinished Notes\n","x":-41,"y":-140,"width":280,"height":60},
 		{"id":"9361372b0209284a","type":"text","text":"```dataview\nLIST FROM #Unfinished\n```\n","x":-117,"y":-60,"width":432,"height":140},
 		{"id":"b6cb1449158326cd","type":"text","text":"## Calendar\n","x":-42,"y":100,"width":280,"height":60},
-		{"id":"b9f4227b716723a0","type":"text","text":"``` dataview\nTABLE date, startTime\nFROM \"Events\"\n```","x":-117,"y":180,"width":432,"height":220},
-		{"id":"ed73e0ae219a3f1c","x":330,"y":80,"width":460,"height":320,"type":"file","file":"General Notes.md"}
+		{"id":"b9f4227b716723a0","type":"text","text":"``` dataview\nTABLE date, startTime\nFROM \"Calendar\"\n```","x":-117,"y":180,"width":432,"height":220},
+		{"id":"ed73e0ae219a3f1c","type":"file","file":"General Notes.md","x":330,"y":80,"width":460,"height":320}
 	],
 	"edges":[
 		{"id":"61f8b927f2cbc8f2","fromNode":"3b26a240e372fd76","fromSide":"bottom","toNode":"6ab15ad4c5f03016","toSide":"top"},

@@ -2,8 +2,8 @@
   "calendarSources": [
     {
       "type": "local",
-      "color": "hsl(325, 86%, 77%)",
-      "directory": "Events"
+      "color": "#ff0000",
+      "directory": "Calendar"
     }
   ],
   "defaultCalendar": 0,
