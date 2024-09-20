@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "00254c50569ece66",
+            "id": "9fd266e60536fee9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,6 +35,27 @@
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "345254729a13c2df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Base Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "152daa21f0954a6f",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
             }
           },
           {
@@ -51,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/CMPU 1005  - Communications.md"
+                "file": "Templates/Base Template.md"
               }
             }
           },
@@ -148,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/CMPU 1005  - Communications.md",
+                "file": "Templates/Base Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/CMPU 1005  - Communications.md",
+                "file": "Templates/Base Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,16 +234,23 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "00254c50569ece66",
+  "active": "345254729a13c2df",
   "lastOpenFiles": [
-    "General Notes.md",
-    "Home Page/Home.canvas",
-    "College/CMPU 1005  - Communications.md",
     "Untitled.md",
+    "Templates/Base Template.md",
+    "Calendar.md",
+    "College/CMPU 1005  - Communications.md",
+    "Calendar/2024-09-27 Horror Quiz Night (LH231).md",
+    "Calendar/(Every W,M) Badminton Training.md",
+    "Calendar/(Every M) Horror Soc EQ203.md",
+    "Home Page/Home.canvas",
+    "General Notes.md",
+    "Notes/Quotes.md",
+    "Notes/Abolition.md",
     "Templates/1005 Template.md",
     "Templates/1018 Template.md",
     "CMPU1012 - Sep 19th 2024.md",
-    "Events/TUD Eye Test.md",
+    "Calendar/TUD Eye Test.md",
     "Events/Untitled.md",
     "College/College Notes/CMPU 1025 - Sep 18th 2024.md",
     "College/College Notes/CMPU 1025 - Sep 17th 2024.md",
@@ -235,18 +263,12 @@
     "College/CMPU 1024 - Program Design.md",
     "Notes/Arch Linux - Installation.md",
     "Templates/Unfinished Base Template.md",
-    "Notes/Git Clone Repo.md",
-    "College/Lab Notes/CMPU 1025 - Lucas Snow.md",
     "College/Lab Notes",
-    "Templates/Base Template.md",
-    "Templates/C CPP main Template.md",
     "Other/explosion.gif",
     "Other/clideo_editor_28f643efc4bf462f9cad024bddd71dc1.gif",
     "Recordings/CMPU 1024 - Sep 16th 2024.webm",
     "Recordings/CMPU 1025 - Sep 18th 2024.webm",
     "Recordings/CMPU 1018 - Sep 16th 2024.webm",
-    "College/CMPU 1031 - Web Development 1.md",
-    "College/TU856 - Computer Science.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Code/C CPP/MeetingRoom",

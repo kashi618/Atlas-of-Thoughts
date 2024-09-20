@@ -38,5 +38,5 @@
   "Notes": "LiStickyNote",
   "Templates": "LiFolders",
   "Other": "LiPanelBottomInactive",
-  "Events": "LiCalendar"
+  "Calendar": "LiCalendar"
 }

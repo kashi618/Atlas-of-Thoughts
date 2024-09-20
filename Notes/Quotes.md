@@ -8,3 +8,4 @@
 - *This, too, will pass away* - King Solomon
 
 - *Where is lighting that will make me look most attractive? What am I saying? I look good everywhere* - Sophie Kachinsky
+"We often refuse to accept an idea merely because the tone of voice in which it has been expressed is unshmpathetic to us" - Nietzche
