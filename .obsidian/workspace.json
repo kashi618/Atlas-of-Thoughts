@@ -37,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPU1031 - Sep 20nd 2024.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU1031 - Sep 20nd 2024.md",
+                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPU1031 - Sep 20nd 2024.md",
+                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,10 +201,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "6c10a7d81130ed76",
+  "active": "ddbe7604dc6a6cb2",
   "lastOpenFiles": [
-    "Home Page/Home.canvas",
     "CMPU1031 - Sep 20nd 2024.md",
+    "Home Page/Home.canvas",
     "College/CMPU 1031 - Web Development 1.md",
     "Events/2024-09-27 Horror Quiz Night (LH231).md",
     "O",
