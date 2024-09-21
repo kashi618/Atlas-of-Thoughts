@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ddbe7604dc6a6cb2",
+            "id": "6c10a7d81130ed76",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,23 +18,10 @@
                 "viewState": {
                   "x": 100,
                   "y": -50,
-                  "zoom": -0.296493047511092
+                  "zoom": 0
                 }
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "6c10a7d81130ed76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPU1031 - Sep 20nd 2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
             }
           }
         ]
@@ -201,7 +188,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ddbe7604dc6a6cb2",
+  "active": "6c10a7d81130ed76",
   "lastOpenFiles": [
     "CMPU1031 - Sep 20nd 2024.md",
     "Home Page/Home.canvas",
