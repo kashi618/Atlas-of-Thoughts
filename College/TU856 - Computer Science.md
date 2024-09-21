@@ -1,9 +1,7 @@
-- #### [Publish](https://timetables.tudublin.ie/)
-- #### [Brightspace](https://brightspace.tudublin.ie/d2l/home)
-- #### [Societies & Clubs](https://mystudentlife.tudublin.ie/account/index.php?object=VXNlckRhc2hib2FyZA==&method=ZGFzaGJvYXJkU3RhbmRhcmRVc2Vy&action=Nw==)
-- #### [Library](https://library.tudublin.ie/)
-- #### [Office](https://www.office.com/)
-- #### [Outlook](https://outlook.office.com/)
+| [Brightspace](https://brightspace.tudublin.ie/d2l/home)                                                                                              | [Publish](https://timetables.tudublin.ie/) | [Office](https://www.office.com/) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | --------------------------------- |
+| [Societies & Clubs](https://mystudentlife.tudublin.ie/account/index.php?object=VXNlckRhc2hib2FyZA==&method=ZGFzaGJvYXJkU3RhbmRhcmRVc2Vy&action=Nw==) | [Library](https://library.tudublin.ie/)    |                                   |
+
 ## Year 1
 ### Semester 1
 - [[CMPU 1005  - Communications]]

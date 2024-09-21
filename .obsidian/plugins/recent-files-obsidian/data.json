@@ -1,40 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
+      "basename": "CMPU1012 - Sep 19th 2024",
+      "path": "College/College Notes/CMPU1012 - Sep 19th 2024.md"
     },
     {
       "basename": "CMPU1031 - Sep 20nd 2024",
-      "path": "CMPU1031 - Sep 20nd 2024.md"
+      "path": "College/College Notes/CMPU1031 - Sep 20nd 2024.md"
     },
     {
-      "basename": "CMPU 1031 - Web Development 1",
-      "path": "College/CMPU 1031 - Web Development 1.md"
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "TU856 - Computer Science",
       "path": "College/TU856 - Computer Science.md"
     },
     {
-      "basename": "2024-09-27 Horror Quiz Night (LH231)",
-      "path": "Events/2024-09-27 Horror Quiz Night (LH231).md"
-    },
-    {
-      "basename": "TUD Eye Test",
-      "path": "Events/TUD Eye Test.md"
+      "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
+      "path": "College/CMPU 1025 - Programming 1 (Sem. 1).md"
     },
     {
       "basename": "General Notes",
       "path": "General Notes.md"
     },
     {
-      "basename": "CMPU 1025 - Sep 16th 2024",
-      "path": "College/College Notes/CMPU 1025 - Sep 16th 2024.md"
+      "basename": "(Every W,M) Badminton Training",
+      "path": "Calendar/Recurring/(Every W,M) Badminton Training.md"
     },
     {
-      "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
-      "path": "College/CMPU 1025 - Programming 1 (Sem. 1).md"
+      "basename": "CMPU 1031 - Web Development 1",
+      "path": "College/CMPU 1031 - Web Development 1.md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 16th 2024",
+      "path": "College/College Notes/CMPU 1025 - Sep 16th 2024.md"
     },
     {
       "basename": "CMPU 1012 - IT Fundamentals",
@@ -47,10 +47,6 @@
     {
       "basename": "Base Template",
       "path": "Templates/Base Template.md"
-    },
-    {
-      "basename": "CMPU1012 - Sep 19th 2024",
-      "path": "CMPU1012 - Sep 19th 2024.md"
     },
     {
       "basename": "Quotes",
@@ -195,10 +191,6 @@
     {
       "basename": "Dark Souls Remastered Quest Guide",
       "path": "Notes/Dark Souls Remastered Quest Guide.md"
-    },
-    {
-      "basename": "Weird Animals",
-      "path": "Notes/Weird Animals.md"
     }
   ],
   "omittedPaths": [],
