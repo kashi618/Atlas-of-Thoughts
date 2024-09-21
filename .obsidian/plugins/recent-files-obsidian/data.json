@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "General Notes",
+      "path": "General Notes.md"
+    },
+    {
+      "basename": "2024-09-30 Horror - Misery (EQ203)",
+      "path": "Calendar/Recurring/2024-09-30 Horror - Misery (EQ203).md"
+    },
+    {
+      "basename": "2024-09-25 CS++ Taster Event (EQ203)",
+      "path": "Calendar/Events/2024-09-25 CS++ Taster Event (EQ203).md"
+    },
+    {
+      "basename": "TU856 - Computer Science",
+      "path": "College/TU856 - Computer Science.md"
+    },
+    {
+      "basename": "obamna",
+      "path": "Other/obamna.gif"
+    },
+    {
       "basename": "CMPU1012 - Sep 19th 2024",
       "path": "College/College Notes/CMPU1012 - Sep 19th 2024.md"
     },
@@ -9,24 +33,12 @@
       "path": "College/College Notes/CMPU1031 - Sep 20nd 2024.md"
     },
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
-    },
-    {
-      "basename": "TU856 - Computer Science",
-      "path": "College/TU856 - Computer Science.md"
-    },
-    {
       "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
       "path": "College/CMPU 1025 - Programming 1 (Sem. 1).md"
     },
     {
-      "basename": "General Notes",
-      "path": "General Notes.md"
-    },
-    {
-      "basename": "(Every W,M) Badminton Training",
-      "path": "Calendar/Recurring/(Every W,M) Badminton Training.md"
+      "basename": "(Every W,M) Badminton (Larkin College)",
+      "path": "Calendar/Recurring/(Every W,M) Badminton (Larkin College).md"
     },
     {
       "basename": "CMPU 1031 - Web Development 1",
@@ -63,10 +75,6 @@
     {
       "basename": "1018 Template",
       "path": "Templates/1018 Template.md"
-    },
-    {
-      "basename": "obamna",
-      "path": "Other/obamna.gif"
     },
     {
       "basename": "CMPU 1025 - Sep 18th 2024",
