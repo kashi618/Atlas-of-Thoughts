@@ -14,4 +14,5 @@ tags:
 - Religion as a philosophy
 - Learning latin (Nietzsche)
 - Swallowing yans
-- Raspberry pi
+- Raspberry pi/arduino
+- https://www.youtube.com/watch?v=oITEPqY87nw
