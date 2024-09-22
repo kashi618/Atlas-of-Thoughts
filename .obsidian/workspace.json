@@ -8,7 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c10a7d81130ed76",
+            "id": "0c6cc3ece444530f",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "350739761b4bf703",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,14 +30,6 @@
                 }
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "0c6cc3ece444530f",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
             }
           }
         ],
@@ -196,7 +196,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0c6cc3ece444530f",
+  "active": "350739761b4bf703",
   "lastOpenFiles": [
     "General Notes.md",
     "Home Page/Home.canvas",
