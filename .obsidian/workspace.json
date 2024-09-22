@@ -31,9 +31,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "6a636097d519779c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Books.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "file": "Notes/Books.md"
               }
             }
           },
@@ -130,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "Notes/Books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "Notes/Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,10 +209,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "350739761b4bf703",
+  "active": "6a636097d519779c",
   "lastOpenFiles": [
-    "General Notes.md",
     "Home Page/Home.canvas",
+    "Notes/Books.md",
+    "General Notes.md",
     "Calendar/Recurring/2024-09-23 Horror - IT (EQ203).md",
     "Calendar/Recurring/2024-10-07 Horror - Halloween (EQ203).md",
     "Calendar/Recurring/2024-09-30 Horror - Misery (EQ203).md",
@@ -229,7 +243,6 @@
     "Calendar/Events/2024-09-27 Horror Quiz Night (LH231).md",
     "Calendar/Events/TUD Eye Test.md",
     "Calendar/Events",
-    "Calendar/Reccuring/(Every W,M) Badminton Training.md",
     "Calendar/Reccuring",
     "Calendar/Reoccuring",
     "Calendar/Other",
