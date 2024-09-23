@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Descartes",
+      "path": "Descartes.gif"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "TU856 - Computer Science",
+      "path": "College/TU856 - Computer Science.md"
     },
     {
       "basename": "obamna",
@@ -25,16 +33,8 @@
       "path": "General Notes.md"
     },
     {
-      "basename": "Descartes",
-      "path": "Descartes.gif"
-    },
-    {
       "basename": "Currently Reading",
       "path": "Currently Reading.md"
-    },
-    {
-      "basename": "TU856 - Computer Science",
-      "path": "College/TU856 - Computer Science.md"
     },
     {
       "basename": "CMPU 1025 - Lucas Snow",
@@ -63,10 +63,6 @@
     {
       "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
       "path": "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md"
-    },
-    {
-      "basename": "(Every W,M) Badminton (Larkin College)",
-      "path": "Calendar/Recurring/(Every W,M) Badminton (Larkin College).md"
     },
     {
       "basename": "CMPU 1031 - Web Development 1",

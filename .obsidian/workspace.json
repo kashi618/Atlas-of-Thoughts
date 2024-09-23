@@ -25,12 +25,12 @@
             }
           },
           {
-            "id": "012a62884016aaba",
+            "id": "9d9f013a6888fc04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Currently Reading.md",
+                "file": "College/TU856 - Computer Science.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -38,19 +38,17 @@
             }
           },
           {
-            "id": "8a5f111d3ace992c",
+            "id": "20fce6ccb52ce07e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "General Notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Descartes.gif"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "file": "Descartes.gif"
               }
             }
           },
@@ -147,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "Descartes.gif",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "Descartes.gif",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,10 +211,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "aa83b4052934aab2",
+  "active": "d828e5b8bc561a69",
   "lastOpenFiles": [
-    "General Notes.md",
     "Home Page/Home.canvas",
+    "College/TU856 - Computer Science.md",
+    "Calendar/Recurring/(Every W,M) Badminton (Larkin College).md",
+    "General Notes.md",
     "Currently Reading.md",
     "Useful.md",
     "Nietzsche.gif",
@@ -238,14 +238,12 @@
     "Calendar/Recurring/2024-10-07 Horror - Halloween (EQ203).md",
     "Calendar/Recurring/2024-09-30 Horror - Misery (EQ203).md",
     "Calendar/Events/2024-09-25 CS++ Taster Event (EQ203).md",
-    "College/TU856 - Computer Science.md",
     "College/College Notes/CMPU1012 - Sep 19th 2024.md",
     "College/College Notes/CMPU1031 - Sep 20nd 2024.md",
     "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md",
     "Calendar/Events/2024-10-02 TUD Eye Test.md",
     "Calendar/2024-10-02 TUD Eye Test.md",
     "Calendar/Events",
-    "Calendar/Recurring/(Every W,M) Badminton (Larkin College).md",
     "O",
     "Calendar/Recurring",
     "Calendar/Events",
