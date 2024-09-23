@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Descartes - Meditations on First Philosophy",
+      "path": "Descartes - Meditations on First Philosophy.md"
+    },
+    {
+      "basename": "General Notes",
+      "path": "General Notes.md"
+    },
+    {
+      "basename": "Base Template",
+      "path": "Templates/Base Template.md"
+    },
+    {
+      "basename": "Book Review Template",
+      "path": "Templates/Book Review Template.md"
+    },
+    {
+      "basename": "C CPP main Template",
+      "path": "Templates/C CPP main Template.md"
+    },
+    {
+      "basename": "1025 Template",
+      "path": "Templates/1025 Template.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
     {
       "basename": "CMPU 1025 - Sep 23rd 2024",
-      "path": "CMPU 1025 - Sep 23rd 2024.md"
+      "path": "College/College Notes/CMPU 1025 - Sep 23rd 2024.md"
     },
     {
-      "basename": "General Notes",
-      "path": "General Notes.md"
+      "basename": "CMPU 1018 - Sep 23rd 2024",
+      "path": "College/College Notes/CMPU 1018 - Sep 23rd 2024.md"
     },
     {
       "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
@@ -43,10 +67,6 @@
     {
       "basename": "CMPU 1005  - Communications",
       "path": "College/CMPU 1005  - Communications.md"
-    },
-    {
-      "basename": "Base Template",
-      "path": "Templates/Base Template.md"
     },
     {
       "basename": "Quotes",
@@ -97,10 +117,6 @@
       "path": "College/Lab Notes/CMPU 1025 - Lucas Snow.md"
     },
     {
-      "basename": "C CPP main Template",
-      "path": "Templates/C CPP main Template.md"
-    },
-    {
       "basename": "explosion",
       "path": "Other/explosion.gif"
     },
@@ -139,10 +155,6 @@
     {
       "basename": "1024 Template",
       "path": "Templates/1024 Template.md"
-    },
-    {
-      "basename": "1025 Template",
-      "path": "Templates/1025 Template.md"
     },
     {
       "basename": "1012 Template",
