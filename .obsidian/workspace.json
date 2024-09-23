@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ddbe7604dc6a6cb2",
+            "id": "6c10a7d81130ed76",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,28 +16,55 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 100,
+                  "x": -424.94361256544516,
                   "y": -50,
-                  "zoom": -0.296493047511092
+                  "zoom": -0.0519277920438611
                 }
               },
               "pinned": true
             }
           },
           {
-            "id": "6c10a7d81130ed76",
+            "id": "dccc0b2b6ddaa9c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPU1031 - Sep 20nd 2024.md",
+                "file": "College/CMPU 1018 - Mathematics 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b36c6532589eb4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/College Notes/CMPU 1018 - Sep 16th 2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc708ef5045f67be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPU 1018 - Sep 23rd 2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "file": "CMPU 1018 - Sep 23rd 2024.md"
               }
             }
           },
@@ -135,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "CMPU 1018 - Sep 23rd 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "CMPU 1018 - Sep 23rd 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,10 +228,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ddbe7604dc6a6cb2",
+  "active": "fc708ef5045f67be",
   "lastOpenFiles": [
-    "CMPU1031 - Sep 20nd 2024.md",
+    "College/College Notes/CMPU 1018 - Sep 16th 2024.md",
+    "CMPU 1018 - Sep 23rd 2024.md",
+    "College/CMPU 1018 - Mathematics 1.md",
     "Home Page/Home.canvas",
+    "CMPU1031 - Sep 20nd 2024.md",
     "College/CMPU 1031 - Web Development 1.md",
     "Events/2024-09-27 Horror Quiz Night (LH231).md",
     "O",
@@ -234,8 +264,6 @@
     "Calendar/Reoccuring/(Every M) Horror Soc EQ203.md",
     "Calendar/Reoccuring",
     "Untitled.md",
-    "Calendar/Other/2024-09-27 Horror Quiz Night (LH231).md",
-    "Calendar/Other/TUD Eye Test.md",
     "Calendar/Other",
     "Calendar/TUD Societies",
     "Calendar/TUD Clubs",
