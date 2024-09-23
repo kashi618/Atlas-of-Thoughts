@@ -9,18 +9,16 @@
 		{"id":"9ea0b782d7b67ae8","type":"file","file":"Other/explosion.gif","x":179,"y":-291,"width":121,"height":121},
 		{"id":"d727aaa821f082a2","type":"file","file":"Other/obamna.gif","x":34,"y":-291,"width":130,"height":130},
 		{"id":"0119d76d110a7e05","type":"text","text":"## Unfinished Notes\n","x":-41,"y":-140,"width":280,"height":60},
-		{"id":"b6cb1449158326cd","type":"text","text":"## Calendar\n","x":-42,"y":100,"width":280,"height":60},
-		{"id":"b9f4227b716723a0","type":"text","text":"``` dataview\nTABLE date, startTime\nFROM \"Calendar/Events\"\n```","x":-117,"y":180,"width":432,"height":220},
+		{"id":"b9f4227b716723a0","type":"text","text":"``` dataview\nTABLE date, startTime\nFROM \"Calendar\"\n\n```","x":-117,"y":140,"width":432,"height":260},
 		{"id":"ed73e0ae219a3f1c","type":"file","file":"General Notes.md","x":-590,"y":160,"width":460,"height":240},
 		{"id":"2145906c1b6e6508","type":"text","text":"# Useful\n```dataview\nLIST FROM #useful\n```\n","x":330,"y":-320,"width":460,"height":360},
 		{"id":"01c5a2405b9f5a62","type":"text","text":"# Currently Reading\n```dataview\nLIST FROM #Reading \n```\n","x":330,"y":60,"width":460,"height":340},
-		{"id":"9361372b0209284a","type":"text","text":"```dataview\nLIST FROM #Unfinished\n```\n","x":-117,"y":-60,"width":432,"height":140},
-		{"id":"55a2698525166aea","type":"text","text":"```dataview\nLIST FROM #Unfinished\n```\n","x":-116,"y":-60,"width":432,"height":140}
+		{"id":"55a2698525166aea","type":"text","text":"```dataview\nLIST FROM #Unfinished\n```\n","x":-116,"y":-60,"width":432,"height":100},
+		{"id":"b6cb1449158326cd","type":"text","text":"## Calendar\n","x":-42,"y":60,"width":280,"height":60}
 	],
 	"edges":[
 		{"id":"61f8b927f2cbc8f2","fromNode":"3b26a240e372fd76","fromSide":"bottom","toNode":"6ab15ad4c5f03016","toSide":"top"},
 		{"id":"2c43084b3a771eec","fromNode":"c646ba0cc8578c77","fromSide":"bottom","toNode":"2145906c1b6e6508","toSide":"top"},
-		{"id":"2d9fe8c4937bf5d6","fromNode":"0119d76d110a7e05","fromSide":"bottom","toNode":"9361372b0209284a","toSide":"top"},
 		{"id":"bec0426e190c3d5e","fromNode":"b6cb1449158326cd","fromSide":"bottom","toNode":"b9f4227b716723a0","toSide":"top"}
 	]
 }
