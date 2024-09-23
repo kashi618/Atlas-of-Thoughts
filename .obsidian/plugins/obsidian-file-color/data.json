@@ -41,7 +41,7 @@
   "fileColors": [
     {
       "path": "College",
-      "color": "ofR1FEOWd-Z_iVxmCVW0M"
+      "color": "0jy0IN9iY3Qfpk3uuczKS"
     },
     {
       "path": "Home Page",
@@ -53,7 +53,7 @@
     },
     {
       "path": "Calendar",
-      "color": "0jy0IN9iY3Qfpk3uuczKS"
+      "color": "FEutWz1dJGUGrGR--ttWS"
     },
     {
       "path": "Templates",
@@ -61,7 +61,11 @@
     },
     {
       "path": "Code",
-      "color": "FEutWz1dJGUGrGR--ttWS"
+      "color": "ofR1FEOWd-Z_iVxmCVW0M"
+    },
+    {
+      "path": "Other",
+      "color": "ryIZEDHgHv-2z5VPkIp6L"
     }
   ]
 }
