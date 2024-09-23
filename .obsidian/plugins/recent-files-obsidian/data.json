@@ -5,8 +5,48 @@
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "obamna",
+      "path": "Other/obamna.gif"
+    },
+    {
+      "basename": "explosion",
+      "path": "Other/explosion.gif"
+    },
+    {
+      "basename": "Nietzsche",
+      "path": "Nietzsche.gif"
+    },
+    {
+      "basename": "Useful",
+      "path": "Useful.md"
+    },
+    {
       "basename": "General Notes",
       "path": "General Notes.md"
+    },
+    {
+      "basename": "Descartes",
+      "path": "Descartes.gif"
+    },
+    {
+      "basename": "Currently Reading",
+      "path": "Currently Reading.md"
+    },
+    {
+      "basename": "TU856 - Computer Science",
+      "path": "College/TU856 - Computer Science.md"
+    },
+    {
+      "basename": "CMPU 1025 - Lucas Snow",
+      "path": "College/Other Notes/CMPU 1025 - Lucas Snow.md"
+    },
+    {
+      "basename": "CMPU 1024 - Sep 23th 2024",
+      "path": "College/College Notes/CMPU 1024 - Sep 23th 2024.md"
+    },
+    {
+      "basename": "Descartes - Meditations on First Philosophy",
+      "path": "Descartes - Meditations on First Philosophy.md"
     },
     {
       "basename": "Books",
@@ -21,16 +61,8 @@
       "path": "Calendar/Events/2024-09-25 CS++ Taster Event (EQ203).md"
     },
     {
-      "basename": "TU856 - Computer Science",
-      "path": "College/TU856 - Computer Science.md"
-    },
-    {
-      "basename": "obamna",
-      "path": "Other/obamna.gif"
-    },
-    {
       "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
-      "path": "College/CMPU 1025 - Programming 1 (Sem. 1).md"
+      "path": "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md"
     },
     {
       "basename": "(Every W,M) Badminton (Larkin College)",
@@ -38,7 +70,7 @@
     },
     {
       "basename": "CMPU 1031 - Web Development 1",
-      "path": "College/CMPU 1031 - Web Development 1.md"
+      "path": "College/Modules/CMPU 1031 - Web Development 1.md"
     },
     {
       "basename": "CMPU 1025 - Sep 16th 2024",
@@ -46,11 +78,11 @@
     },
     {
       "basename": "CMPU 1012 - IT Fundamentals",
-      "path": "College/CMPU 1012 - IT Fundamentals.md"
+      "path": "College/Modules/CMPU 1012 - IT Fundamentals.md"
     },
     {
       "basename": "CMPU 1005  - Communications",
-      "path": "College/CMPU 1005  - Communications.md"
+      "path": "College/Modules/CMPU 1005  - Communications.md"
     },
     {
       "basename": "Base Template",
@@ -86,11 +118,11 @@
     },
     {
       "basename": "CMPU 1018 - Mathematics 1",
-      "path": "College/CMPU 1018 - Mathematics 1.md"
+      "path": "College/Modules/CMPU 1018 - Mathematics 1.md"
     },
     {
       "basename": "CMPU 1024 - Program Design",
-      "path": "College/CMPU 1024 - Program Design.md"
+      "path": "College/Modules/CMPU 1024 - Program Design.md"
     },
     {
       "basename": "Arch Linux - Installation",
@@ -101,16 +133,8 @@
       "path": "Notes/Git Clone Repo.md"
     },
     {
-      "basename": "CMPU 1025 - Lucas Snow",
-      "path": "College/Lab Notes/CMPU 1025 - Lucas Snow.md"
-    },
-    {
       "basename": "C CPP main Template",
       "path": "Templates/C CPP main Template.md"
-    },
-    {
-      "basename": "explosion",
-      "path": "Other/explosion.gif"
     },
     {
       "basename": "Arch Linux - Adding Drives",
@@ -175,18 +199,6 @@
     {
       "basename": "Agronomist",
       "path": "Notes/Agronomist.md"
-    },
-    {
-      "basename": "Skyrim - The End",
-      "path": "Notes/Skyrim - The End.md"
-    },
-    {
-      "basename": "Rechargeable Battery Datasheet",
-      "path": "Notes/Rechargeable Battery Datasheet.md"
-    },
-    {
-      "basename": "Dark Souls Remastered Quest Guide",
-      "path": "Notes/Dark Souls Remastered Quest Guide.md"
     }
   ],
   "omittedPaths": [],

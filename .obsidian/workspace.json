@@ -16,12 +16,38 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 100,
-                  "y": -50,
+                  "x": 206.873988755354,
+                  "y": -38.580764837680874,
                   "zoom": 0
                 }
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "012a62884016aaba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Currently Reading.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a5f111d3ace992c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -189,18 +215,24 @@
   },
   "active": "aa83b4052934aab2",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "General Notes.md",
     "Home Page/Home.canvas",
-    "Templates/Book Review Template.md",
+    "Currently Reading.md",
+    "Useful.md",
+    "Nietzsche.gif",
+    "Descartes.gif",
+    "College/Other Notes/CMPU 1025 - Lucas Snow.md",
+    "College/College Notes/CMPU 1024 - Sep 23th 2024.md",
+    "College/Modules",
     "Descartes - Meditations on First Philosophy.md",
+    "conflict-files-obsidian-git.md",
+    "Templates/Book Review Template.md",
     "College/College Notes/CMPU 1031 - Sep 20nd 2024.md",
     "College/College Notes/CMPU 1025 - Sep 23rd 2024.md",
     "College/College Notes/CMPU 1024 - Sep 16th 2024.md",
     "College/College Notes/CMPU 1018 - Sep 23rd 2024.md",
     "College/College Notes/CMPU 1012 - Sep 19th 2024.md",
-    "CMPU 1024 - Sep 23th 2024.md",
     "Other/mullvad_account.txt",
-    "General Notes.md",
     "Notes/Books.md",
     "Calendar/Recurring/2024-09-23 Horror - IT (EQ203).md",
     "Calendar/Recurring/2024-10-07 Horror - Halloween (EQ203).md",
@@ -209,14 +241,11 @@
     "College/TU856 - Computer Science.md",
     "College/College Notes/CMPU1012 - Sep 19th 2024.md",
     "College/College Notes/CMPU1031 - Sep 20nd 2024.md",
-    "College/CMPU 1025 - Programming 1 (Sem. 1).md",
+    "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md",
     "Calendar/Events/2024-10-02 TUD Eye Test.md",
     "Calendar/2024-10-02 TUD Eye Test.md",
     "Calendar/Events",
     "Calendar/Recurring/(Every W,M) Badminton (Larkin College).md",
-    "Calendar/2024-10-02 Eye Test.md",
-    "Events/2024-09-27 Horror Quiz Night (LH231).md",
-    "College/CMPU 1031 - Web Development 1.md",
     "O",
     "Calendar/Recurring",
     "Calendar/Events",
@@ -224,7 +253,6 @@
     "Calendar/Events",
     "Calendar/Reccuring",
     "Calendar/Reoccuring",
-    "Calendar/Other",
     "Other/explosion.gif",
     "Other/clideo_editor_28f643efc4bf462f9cad024bddd71dc1.gif",
     "Untitled.canvas",
@@ -240,8 +268,6 @@
     "Notes/obsidian-icon.png",
     "Notes/Home.canvas",
     "Pasted image 20240513145647.png",
-    "Pasted image 20240513145645.png",
-    "Media, Pictures, Gifs/AKG K371-BT.png",
     "ZenZone/Untitled.canvas",
     "ASDASDASD/Untitled.canvas"
   ]
