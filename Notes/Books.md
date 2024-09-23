@@ -1,3 +1,7 @@
+---
+tags:
+  - useful
+---
 **Key:**
 Tr.  |  Translator
 
@@ -53,37 +57,20 @@ Tr.  |  Translator
 - **Euripides** - Medea (*15,000*)
 
 ### Finished
-- **Osamu Dazai** - The Setting Sun
 - **Andy Mulligan** - Trash (*60,000*)
 - **John Steinbeck** - Of Mice and Men (*34,000*)
 - **S. E. Hinton** - The Outsiders (*57,000*)
 - **Yan Lianke** - The Day the Sun Died (*127,000*)
 - **Osamu Dazai** - No Longer Human (*44,000*)
+- **Osamu Dazai** - The Setting Sun
 - **Karl Marx & Friedrich Engels** - The Communist Manifesto (*4,000*)
 - **Franz Kafka** - Metamorphosis (*17,000*)
 - **Franz Kafka** - Contemplation (*8,000*)
-	- [x] Children on the Road
-	- [x] Unmasking a Confidence Trickster
-	- [x] The Sudden Walk
-	- [x] Resolutions
-	- [x] The Excursion into the Mountains
-	- [x] The Pliught of the Bachelor
-	- [x] The Businessman
-	- [x] Looking out Distractedly
-	- [x] The Way Home
-	- [x] The Men Running Past
-	- [x] The Passenger
-	- [x] Dresses
-	- [x] The Rejecti0on
-	- [x] For the Consideration of Amateur Jockeys
-	- [x] The window on the Street
-	- [x] Desire to be a Red Indian
-	- [x] The Trees
-	- [x] Being Unhappy
 - **Franz Kafka** - The Judgement (*4,500*)
 - **Franz Kafka** - The Stoker (*8,500*)
 - **Tara Westover** - Educated
 - **Brian Frield** - Philadelphia Here I come
+- **Aesop** - Aesop's Fables
 
 ### ToBuy/Planning
 ##### Philosophy
@@ -168,7 +155,9 @@ Tr.  |  Translator
 	- 11/22/63
 	- Survivor Type
 - **Vladimir Nabokov** - Lolita
+- **Victor Hugo** - Les Misérables
 - **William Gibson** - Neuromancer
+- **William Golding** - Lord of the Flies
 - **Yevgeny Zamyatin** - We (*55,000*)
 
 ##### Satire/Comedy
@@ -186,7 +175,6 @@ Tr.  |  Translator
 
 ---
 ### **Childhood Books**
-- **Aesop** - Aesop's Fables
 - **Dav Pilkey** - The Adventures of Captain Underpants
 - **David Walliams** - Mr Stink
 - **David Walliams** - Billionare Boy
