@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "20549d8e64fc2d5f",
+        "id": "7aefa7f12d84241e",
         "type": "tabs",
         "children": [
           {
-            "id": "350739761b4bf703",
+            "id": "aa83b4052934aab2",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -17,7 +17,7 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": 100,
-                  "y": -422,
+                  "y": -50,
                   "zoom": 0
                 }
               },
@@ -187,7 +187,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "350739761b4bf703",
+  "active": "aa83b4052934aab2",
   "lastOpenFiles": [
     "Other/mullvad_account.txt",
     "General Notes.md",
