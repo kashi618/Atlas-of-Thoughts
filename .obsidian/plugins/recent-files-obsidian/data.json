@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Descartes",
-      "path": "Descartes.gif"
-    },
-    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Currently Reading",
+      "path": "Home Page/Currently Reading.md"
+    },
+    {
+      "basename": "General Notes",
+      "path": "Home Page/General Notes.md"
+    },
+    {
+      "basename": "Useful",
+      "path": "Home Page/Useful.md"
+    },
+    {
+      "basename": "Nietzsche",
+      "path": "Home Page/Nietzsche.gif"
+    },
+    {
+      "basename": "Descartes",
+      "path": "Home Page/Descartes.gif"
     },
     {
       "basename": "TU856 - Computer Science",
@@ -19,22 +35,6 @@
     {
       "basename": "explosion",
       "path": "Other/explosion.gif"
-    },
-    {
-      "basename": "Nietzsche",
-      "path": "Nietzsche.gif"
-    },
-    {
-      "basename": "Useful",
-      "path": "Useful.md"
-    },
-    {
-      "basename": "General Notes",
-      "path": "General Notes.md"
-    },
-    {
-      "basename": "Currently Reading",
-      "path": "Currently Reading.md"
     },
     {
       "basename": "CMPU 1025 - Lucas Snow",
