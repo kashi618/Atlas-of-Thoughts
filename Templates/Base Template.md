@@ -1,5 +1,4 @@
 ---
-tags:
-  - other
+tags: []
 ---
 

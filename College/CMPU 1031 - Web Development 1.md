@@ -8,4 +8,4 @@ tags:
 
 ---
 
-- [[CMPU1031 - Sep 20nd 2024]]
+- [[CMPU 1031 - Sep 20nd 2024]]

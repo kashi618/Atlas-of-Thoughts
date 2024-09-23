@@ -6,4 +6,4 @@ tags:
 
 ---
 
-- [[CMPU1012 - Sep 19th 2024]]
+- [[CMPU 1012 - Sep 19th 2024]]

@@ -7,6 +7,6 @@ tags:
 
 ---
 
-- [[CMPU 1024 - Sep 16  2024]]
-- [[CMPU 1024 - Sep 18 2024]]
-- 
+- [[CMPU 1024 - Sep 16th 2024]]
+- [[CMPU 1024 - Sep 18th 2024]]
+- [[CMPU 1024 - Sep 23th 2024]]
