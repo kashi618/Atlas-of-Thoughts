@@ -8,23 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c10a7d81130ed76",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Home Page/Home.canvas",
-                "viewState": {
-                  "x": 63.17467816901973,
-                  "y": 15.397492653561175,
-                  "zoom": -0.22861836784318937
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "6e7224c5f3445fa8",
             "type": "leaf",
             "state": {
@@ -33,20 +16,24 @@
             }
           },
           {
-            "id": "118ba9676973a4fb",
+            "id": "753bca8db0759b10",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "College/CMPU 1024 - Program Design.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+                "file": "Home Page/Home.canvas",
+                "viewState": {
+                  "x": 100,
+                  "y": -50,
+                  "zoom": -0.047402869230791865
+                }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "753bca8db0759b10",
+            "id": "49cb1a2f9fd25357",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -59,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,13 +210,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "753bca8db0759b10",
+  "active": "49cb1a2f9fd25357",
   "lastOpenFiles": [
     "College/CMPU 1024 - Program Design.md",
-    "College/College Notes/CMPU 1024 - Sep 16th 2024.md",
-    "CMPU 1024 - Sep 23th 2024.md",
-    "CMPU 1024 - Sep 16th 2024.md",
     "Home Page/Home.canvas",
+    "CMPU 1024 - Sep 23th 2024.md",
+    "College/College Notes/CMPU 1024 - Sep 16th 2024.md",
+    "CMPU 1024 - Sep 16th 2024.md",
     "College/College Notes/CMPU 1031 - Sep 20nd 2024.md",
     "Descartes - Meditations on First Philosophy.md",
     "College/College Notes/CMPU 1012 - Sep 19th 2024.md",
@@ -253,7 +240,6 @@
     "Events/TUD Eye Test.md",
     "Calendar/2024-10-02 Eye Test.md",
     "College/College Notes/CMPU 1025 - Sep 16th 2024.md",
-    "College/TU856 - Computer Science.md",
     "Events",
     "Reccuring",
     "Calendar/Events",
