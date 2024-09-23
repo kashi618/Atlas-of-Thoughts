@@ -23,22 +23,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "55de771ff08a5afe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPU 1025 - Sep 23rd 2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPU 1025 - Sep 23rd 2024.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -136,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU 1025 - Sep 23rd 2024.md",
+                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPU 1025 - Sep 23rd 2024.md",
+                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,10 +188,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "55de771ff08a5afe",
+  "active": "6c10a7d81130ed76",
   "lastOpenFiles": [
-    "Home Page/Home.canvas",
     "CMPU 1025 - Sep 23rd 2024.md",
+    "Home Page/Home.canvas",
     "College/CMPU 1025 - Programming 1 (Sem. 1).md",
     "conflict-files-obsidian-git.md",
     "CMPU 1018 - Sep 23rd 2024.md",
