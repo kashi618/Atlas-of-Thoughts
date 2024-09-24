@@ -11,3 +11,4 @@ tags:
 - [[CMPU 1025 - Sep 17th 2024]]
 - [[CMPU 1025 - Sep 18th 2024]]
 - [[CMPU 1025 - Sep 23rd 2024]]
+- [[CMPU 1025 - Sep 24th 2024]]

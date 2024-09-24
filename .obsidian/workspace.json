@@ -46,12 +46,12 @@
             }
           },
           {
-            "id": "30f46ac4c26a09e8",
+            "id": "5c1177ce6d741ffc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPU 1031 - Sep 24th 2024.md",
+                "file": "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,12 +59,12 @@
             }
           },
           {
-            "id": "95706500eccaa3fe",
+            "id": "f09733fc217514cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Descartes - Meditations on First Philosophy.md",
+                "file": "CMPU 1025 - Sep 24th 2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "file": "CMPU 1025 - Sep 24th 2024.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "CMPU 1025 - Sep 24th 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "CMPU 1025 - Sep 24th 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,11 +235,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "753bca8db0759b10",
+  "active": "f09733fc217514cf",
   "lastOpenFiles": [
+    "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md",
+    "CMPU 1025 - Sep 24th 2024.md",
+    "College/TU856 - Computer Science.md",
     "Descartes - Meditations on First Philosophy.md",
-    "Home Page/Home.canvas",
     "CMPU 1031 - Sep 24th 2024.md",
+    "Home Page/Home.canvas",
     "Code/Programming/Sep 24th 2024/CA_Assignment.c",
     "Code/Programming/Sep 24th 2024",
     "Code/Programming",
@@ -251,7 +254,6 @@
     "Code/Programming/Sep 24th 2024/3_NameAndAddress",
     "Code/Programming/Sep 24th 2024/3_NameAndAddress.c",
     "College/Modules/CMPU 1031 - Web Development 1.md",
-    "College/TU856 - Computer Science.md",
     "Templates/1024 Template.md",
     "Templates/1018 Mathematics 1 Template.md",
     "Templates/1012 IT Fundamentals Template.md",
@@ -263,7 +265,6 @@
     "Home Page/Descartes.gif",
     "Home Page/Currently Reading.md",
     "College/Other Notes/CMPU 1025 - Lucas Snow.md",
-    "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md",
     "College/Modules/CMPU 1024 - Program Design.md",
     "College/Modules/CMPU 1018 - Mathematics 1.md",
     "College/Modules/CMPU 1012 - IT Fundamentals.md",
