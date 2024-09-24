@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Descartes - Meditations on First Philosophy.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,7 +167,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Descartes - Meditations on First Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +203,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Descartes - Meditations on First Philosophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,8 +231,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "95706500eccaa3fe",
+  "active": "370a24fabb7b70f5",
   "lastOpenFiles": [
+    "Descartes - Meditations on First Philosophy.md",
     "Home Page/Home.canvas",
     "CMPU 1031 - Sep 24th 2024.md",
     "Code/Programming/Sep 24th 2024/CA_Assignment.c",
@@ -251,7 +248,6 @@
     "Code/Programming/Sep 24th 2024/3_NameAndAddress.c",
     "College/Modules/CMPU 1031 - Web Development 1.md",
     "College/TU856 - Computer Science.md",
-    "Descartes - Meditations on First Philosophy.md",
     "Templates/1024 Template.md",
     "Templates/1018 Mathematics 1 Template.md",
     "Templates/1012 IT Fundamentals Template.md",

@@ -41,4 +41,4 @@ To understand, you need to be unbiased and open.
 "From the sole fact that I have in qmyself the idea of a thing more perfect than myself, it follows that this thing truly exists"
 
 "I shall only say in general that all taht is said by the atheist against the existence of God, always depends either on the fact that we ascribe to God affection which are human, or that we attrivute so much strength and wisdom to our minds that we even have the presumption to desire to determine and understand that which God can an ought to do."
-5
+
