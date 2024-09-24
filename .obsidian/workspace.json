@@ -31,9 +31,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "08bb86a8349abeb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -131,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,11 +210,27 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "753bca8db0759b10",
+  "active": "08bb86a8349abeb4",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
+    "conflict-files-obsidian-git.md",
+    "Home Page/Useful.md",
+    "Home Page/Nietzsche.gif",
+    "Home Page/General Notes.md",
+    "Home Page/Descartes.gif",
+    "Home Page/Currently Reading.md",
+    "College/Other Notes/CMPU 1025 - Lucas Snow.md",
+    "College/Other Notes",
+    "College/Modules/CMPU 1031 - Web Development 1.md",
+    "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md",
+    "College/Modules/CMPU 1024 - Program Design.md",
+    "College/Modules/CMPU 1018 - Mathematics 1.md",
+    "College/Modules/CMPU 1012 - IT Fundamentals.md",
+    "College/Modules/CMPU 1005  - Communications.md",
+    "College/Modules",
+    "College/College Notes/CMPU 1024 - Sep 23th 2024.md",
     "CMPU 1024 - Sep 23th 2024.md",
     "College/CMPU 1024 - Program Design.md",
-    "Home Page/Home.canvas",
     "College/College Notes/CMPU 1024 - Sep 16th 2024.md",
     "CMPU 1024 - Sep 16th 2024.md",
     "College/College Notes/CMPU 1031 - Sep 20nd 2024.md",
@@ -213,28 +242,14 @@
     "Templates/C CPP main Template.md",
     "Templates/1025 Template.md",
     "College/College Notes/CMPU 1025 - Sep 23rd 2024.md",
-    "College/College Notes/CMPU 1018 - Sep 23rd 2024.md",
-    "College/CMPU 1025 - Programming 1 (Sem. 1).md",
-    "conflict-files-obsidian-git.md",
-    "College/College Notes/CMPU 1018 - Sep 16th 2024.md",
-    "College/CMPU 1018 - Mathematics 1.md",
-    "CMPU1031 - Sep 20nd 2024.md",
-    "College/CMPU 1031 - Web Development 1.md",
-    "Events/2024-09-27 Horror Quiz Night (LH231).md",
     "O",
-    "Calendar/Recurring/(Every W,M) Badminton Training.md",
     "Calendar/Recurring",
-    "Events/TUD Eye Test.md",
-    "Calendar/2024-10-02 Eye Test.md",
-    "College/College Notes/CMPU 1025 - Sep 16th 2024.md",
     "Events",
     "Reccuring",
     "Calendar/Events",
     "Calendar/Reccuring",
     "Calendar/Reoccuring",
     "Calendar/Other",
-    "Calendar/TUD Societies",
-    "Calendar/TUD Clubs",
     "Other/explosion.gif",
     "Other/clideo_editor_28f643efc4bf462f9cad024bddd71dc1.gif",
     "Untitled.canvas",
@@ -250,8 +265,6 @@
     "Notes/obsidian-icon.png",
     "Notes/Home.canvas",
     "Pasted image 20240513145647.png",
-    "Pasted image 20240513145645.png",
-    "Media, Pictures, Gifs/AKG K371-BT.png",
     "ZenZone/Untitled.canvas",
     "ASDASDASD/Untitled.canvas"
   ]
