@@ -11,8 +11,8 @@ int main()
     num2 = 600;
     num3 = num2;
 
-    printf("num1 contains %d", num1);
-    print("num2 contains %f and num3 contains %f", num2, num3);
+    printf("num1 contains %d ", num1);
+    printf("num2 contains %f and num3 contains %f", num2, num3);
 
     return 0;
 }
