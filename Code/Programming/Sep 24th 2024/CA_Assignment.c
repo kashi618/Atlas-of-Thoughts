@@ -4,8 +4,8 @@ int main()
 {
     //Program to illustrate errors in a C program
 
-    int   num1, num2;
-    float num3;
+    int   num1;
+    float num2, num3;
 
     num1 = 400;
     num2 = 600;

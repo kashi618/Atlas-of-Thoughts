@@ -110,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5026054382324,
-    "collapsed": true
+    "width": 304.5026054382324
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -223,9 +222,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "30f46ac4c26a09e8",
+  "active": "d828e5b8bc561a69",
   "lastOpenFiles": [
     "Code/Programming/Sep 24th 2024/CA_Assignment.c",
+    "Code/Programming/Sep 24th 2024",
+    "Code/Programming",
+    "Code",
     "Code/Programming/Sep 24th 2024/NameAddressDate.c",
     "Code/Programming/Sep 24th 2024/DeclaringAndPrintingVariables.c",
     "Code/5_",
@@ -233,9 +235,6 @@
     "Code/Programming/Sep 24th 2024/3_NameAndAddress",
     "Code/Programming/Sep 24th 2024/3_NameAndAddress.c",
     "Code/Programming/Sep 24th 2024/CA_Assignment",
-    "Code/CA_Assignment.c",
-    "Code/CA_Assignment",
-    "Code/LOab",
     "College/Modules/CMPU 1031 - Web Development 1.md",
     "College/TU856 - Computer Science.md",
     "Home Page/Home.canvas",

@@ -38,6 +38,5 @@
   "Notes": "LiStickyNote",
   "Templates": "LiFolders",
   "Other": "LiPanelBottomInactive",
-  "Calendar": "LiCalendarDays",
-  "Code": "LiCode"
+  "Calendar": "LiCalendarDays"
 }
