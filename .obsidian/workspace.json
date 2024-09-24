@@ -24,21 +24,34 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 100,
-                  "y": -50,
-                  "zoom": -0.047402869230791865
+                  "x": -234.8,
+                  "y": -69.99999999999994,
+                  "zoom": 0
                 }
               },
               "pinned": true
             }
           },
           {
-            "id": "08bb86a8349abeb4",
+            "id": "6e6cd31b526a3741",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Descartes - Meditations on First Philosophy.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30f46ac4c26a09e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPU 1031 - Sep 24th 2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "CMPU 1031 - Sep 24th 2024.md"
               }
             }
           },
@@ -144,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "CMPU 1031 - Sep 24th 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "CMPU 1031 - Sep 24th 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,9 +223,28 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "08bb86a8349abeb4",
+  "active": "30f46ac4c26a09e8",
   "lastOpenFiles": [
+    "Code/Programming/Sep 24th 2024/CA_Assignment.c",
+    "Code/CA_Assignment.c",
+    "Code/CA_Assignment",
+    "Code/LOab",
+    "Code/Programming/Sep 24th 2024/MyFirstIO",
+    "Code/Programming/Sep 24th 2024/MyFirstIO.c",
+    "Code/Programming/Sep 24th 2024",
+    "Code/Sep 24th 2024",
+    "Code/Programming/Labs",
+    "Code/Programming",
+    "Code/Code.code-workspace",
+    "College/Modules/CMPU 1031 - Web Development 1.md",
+    "College/TU856 - Computer Science.md",
     "Home Page/Home.canvas",
+    "Descartes - Meditations on First Philosophy.md",
+    "Templates/1024 Template.md",
+    "Templates/1018 Mathematics 1 Template.md",
+    "Templates/1012 IT Fundamentals Template.md",
+    "Templates/1005 Communications Template.md",
+    "CMPU 1031 - Sep 24th 2024.md",
     "conflict-files-obsidian-git.md",
     "Home Page/Useful.md",
     "Home Page/Nietzsche.gif",
@@ -220,36 +252,18 @@
     "Home Page/Descartes.gif",
     "Home Page/Currently Reading.md",
     "College/Other Notes/CMPU 1025 - Lucas Snow.md",
-    "College/Other Notes",
-    "College/Modules/CMPU 1031 - Web Development 1.md",
     "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md",
     "College/Modules/CMPU 1024 - Program Design.md",
     "College/Modules/CMPU 1018 - Mathematics 1.md",
     "College/Modules/CMPU 1012 - IT Fundamentals.md",
     "College/Modules/CMPU 1005  - Communications.md",
-    "College/Modules",
     "College/College Notes/CMPU 1024 - Sep 23th 2024.md",
     "CMPU 1024 - Sep 23th 2024.md",
     "College/CMPU 1024 - Program Design.md",
     "College/College Notes/CMPU 1024 - Sep 16th 2024.md",
     "CMPU 1024 - Sep 16th 2024.md",
     "College/College Notes/CMPU 1031 - Sep 20nd 2024.md",
-    "Descartes - Meditations on First Philosophy.md",
     "College/College Notes/CMPU 1012 - Sep 19th 2024.md",
-    "General Notes.md",
-    "Templates/Base Template.md",
-    "Templates/Book Review Template.md",
-    "Templates/C CPP main Template.md",
-    "Templates/1025 Template.md",
-    "College/College Notes/CMPU 1025 - Sep 23rd 2024.md",
-    "O",
-    "Calendar/Recurring",
-    "Events",
-    "Reccuring",
-    "Calendar/Events",
-    "Calendar/Reccuring",
-    "Calendar/Reoccuring",
-    "Calendar/Other",
     "Other/explosion.gif",
     "Other/clideo_editor_28f643efc4bf462f9cad024bddd71dc1.gif",
     "Untitled.canvas",

@@ -2,7 +2,6 @@
 	"nodes":[
 		{"id":"6ab15ad4c5f03016","type":"file","file":"College/TU856 - Computer Science.md","x":-560,"y":-400,"width":460,"height":160},
 		{"id":"f004db60a79cbee1","type":"text","text":"### [Atlas of Thoughts Repo](https://github.com/kashi618/Atlas-of-Thoughts)","x":-100,"y":-400,"width":400,"height":80},
-		{"id":"ed73e0ae219a3f1c","type":"file","file":"Home Page/General Notes.md","x":-560,"y":-240,"width":460,"height":360},
 		{"id":"0795d1742fb3c561","type":"file","file":"Home Page/Useful.md","x":300,"y":-240,"width":460,"height":360},
 		{"id":"fa529099795b65dd","type":"file","file":"Home Page/Currently Reading.md","x":300,"y":-400,"width":460,"height":160},
 		{"id":"ed260d8b82fa0f03","type":"file","file":"Home Page/Descartes.gif","x":-560,"y":120,"width":240,"height":240},
@@ -12,7 +11,8 @@
 		{"id":"d727aaa821f082a2","type":"file","file":"Other/obamna.gif","x":30,"y":-320,"width":140,"height":140},
 		{"id":"9ea0b782d7b67ae8","type":"file","file":"Other/explosion.gif","x":170,"y":-315,"width":130,"height":130},
 		{"id":"af36ad340487c526","type":"file","file":"Other/explosion.gif","x":-100,"y":-315,"width":130,"height":130},
-		{"id":"48d123dde7208a81","type":"text","text":"# Welcome to The Atlas of Thoughts","x":-360,"y":-500,"width":920,"height":80,"color":"6"}
+		{"id":"48d123dde7208a81","type":"text","text":"# Welcome to The Atlas of Thoughts","x":-360,"y":-500,"width":920,"height":80,"color":"6"},
+		{"id":"ed73e0ae219a3f1c","type":"file","file":"Home Page/General Notes.md","x":-560,"y":-240,"width":460,"height":360}
 	],
 	"edges":[]
 }
