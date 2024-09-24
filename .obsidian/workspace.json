@@ -31,22 +31,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "49cb1a2f9fd25357",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPU 1024 - Sep 23th 2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPU 1024 - Sep 23th 2024.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -144,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU 1024 - Sep 23th 2024.md",
+                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPU 1024 - Sep 23th 2024.md",
+                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,11 +197,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "49cb1a2f9fd25357",
+  "active": "753bca8db0759b10",
   "lastOpenFiles": [
+    "CMPU 1024 - Sep 23th 2024.md",
     "College/CMPU 1024 - Program Design.md",
     "Home Page/Home.canvas",
-    "CMPU 1024 - Sep 23th 2024.md",
     "College/College Notes/CMPU 1024 - Sep 16th 2024.md",
     "CMPU 1024 - Sep 16th 2024.md",
     "College/College Notes/CMPU 1031 - Sep 20nd 2024.md",
