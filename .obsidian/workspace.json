@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home Page/Home.canvas"
+              }
             }
           },
           {
@@ -167,6 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,6 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +235,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "370a24fabb7b70f5",
+  "active": "753bca8db0759b10",
   "lastOpenFiles": [
     "Descartes - Meditations on First Philosophy.md",
     "Home Page/Home.canvas",
