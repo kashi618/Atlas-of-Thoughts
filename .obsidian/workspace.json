@@ -24,42 +24,15 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 100,
+                  "x": -13.331507808528634,
                   "y": -70,
-                  "zoom": 0
+                  "zoom": -0.2310490914185842
                 }
               },
               "pinned": true
             }
-          },
-          {
-            "id": "6e6cd31b526a3741",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/TU856 - Computer Science.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f09733fc217514cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPU 1025 - Sep 24th 2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPU 1025 - Sep 24th 2024.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -157,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU 1025 - Sep 24th 2024.md",
+                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPU 1025 - Sep 24th 2024.md",
+                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,11 +196,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "f09733fc217514cf",
+  "active": "6e7224c5f3445fa8",
   "lastOpenFiles": [
     "College/TU856 - Computer Science.md",
-    "Descartes - Meditations on First Philosophy.md",
     "CMPU 1025 - Sep 24th 2024.md",
+    "Descartes - Meditations on First Philosophy.md",
     "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md",
     "Home Page/Home.canvas",
     "CMPU 1031 - Sep 24th 2024.md",
