@@ -6,6 +6,7 @@ tags:
 - lookup kinestetic learning
 - Sort quotes.md
 
+## FIX MUSIC
 - Failure in the usage of debates to convey the truth
 - Quickspeech, insoc
 	- Word replacement vs Translation

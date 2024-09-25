@@ -17,7 +17,7 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": 100,
-                  "y": -70,
+                  "y": 97.4,
                   "zoom": 0
                 }
               },
@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Modules/CMPU 1012 - IT Fundamentals.md",
+                "file": "College/Modules/CMPU 1018 - Mathematics 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5026054382324
+    "width": 304.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Modules/CMPU 1012 - IT Fundamentals.md"
+                "file": "College/Modules/CMPU 1018 - Mathematics 1.md"
               }
             }
           },
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Modules/CMPU 1012 - IT Fundamentals.md",
+                "file": "College/Modules/CMPU 1018 - Mathematics 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Modules/CMPU 1012 - IT Fundamentals.md",
+                "file": "College/Modules/CMPU 1018 - Mathematics 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,10 +204,11 @@
   },
   "active": "ee89a495ada6002f",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
+    "College/Modules/CMPU 1018 - Mathematics 1.md",
     "College/TU856 - Computer Science.md",
     "College/Modules/CMPU 1012 - IT Fundamentals.md",
     "College/Modules/CMPU 1005  - Communications.md",
-    "Home Page/Home.canvas",
     "College/College Notes/CMPU 1031 - Sep 25th 2024.md",
     "CMPU 1005 - Sep 20th 2024.md",
     "College/College Notes/CMPU 1031 - Sep 20nd 2024.md",
@@ -228,8 +230,6 @@
     "Templates/1031 Template.md",
     "Templates/Base Template.md",
     "Templates/1012 IT Fundamentals Template.md",
-    "Templates/1018 Mathematics 1 Template.md",
-    "Templates/1024 Template.md",
     "Code/Programming/Sep 24th 2024/CA_Assignment.c",
     "Code/Programming/Sep 24th 2024",
     "Code/Programming",

@@ -6,13 +6,13 @@
 		{"id":"fa529099795b65dd","type":"file","file":"Home Page/Currently Reading.md","x":300,"y":-400,"width":460,"height":160},
 		{"id":"ed260d8b82fa0f03","type":"file","file":"Home Page/Descartes.gif","x":-560,"y":120,"width":240,"height":240},
 		{"id":"c3f964cbb7ce30ac","type":"file","file":"Home Page/Nietzsche.gif","x":520,"y":120,"width":240,"height":240},
-		{"id":"55a2698525166aea","type":"text","text":"## ToDo\n```dataview\nLIST FROM #Unfinished\n```\n","x":-320,"y":120,"width":840,"height":240},
+		{"id":"55a2698525166aea","type":"text","text":"## ToDo\n```dataview\nLIST FROM #Unfinished\n```","x":-320,"y":120,"width":840,"height":240},
 		{"id":"b9f4227b716723a0","type":"text","text":"\n``` dataview\nTABLE date, startTime\nFROM \"Calendar\"\n\n```","x":-100,"y":-180,"width":400,"height":300},
 		{"id":"d727aaa821f082a2","type":"file","file":"Other/obamna.gif","x":30,"y":-320,"width":140,"height":140},
 		{"id":"9ea0b782d7b67ae8","type":"file","file":"Other/explosion.gif","x":170,"y":-315,"width":130,"height":130},
 		{"id":"af36ad340487c526","type":"file","file":"Other/explosion.gif","x":-100,"y":-315,"width":130,"height":130},
 		{"id":"48d123dde7208a81","type":"text","text":"# Welcome to The Atlas of Thoughts","x":-360,"y":-500,"width":920,"height":80,"color":"6"},
-		{"id":"ed73e0ae219a3f1c","type":"file","file":"Home Page/General Notes.md","x":-560,"y":-240,"width":460,"height":360}
+		{"id":"ed73e0ae219a3f1c","type":"file","file":"Home Page/General Notes.md","x":-560,"y":-250,"width":460,"height":360}
 	],
 	"edges":[]
 }
