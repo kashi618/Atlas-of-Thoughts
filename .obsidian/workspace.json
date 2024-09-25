@@ -37,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/College Notes/CMPU 1031 - Sep 25th 2024.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/College Notes/CMPU 1031 - Sep 25th 2024.md",
+                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/College Notes/CMPU 1031 - Sep 25th 2024.md",
+                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,15 +200,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a59d4ccf4bd79d86",
+  "active": "01d7635f5b6191b7",
   "lastOpenFiles": [
+    "College/College Notes/CMPU 1031 - Sep 25th 2024.md",
+    "Home Page/Home.canvas",
     "College/TU856 - Computer Science.md",
     "CMPU 1031 - Sep 18th 2024.md",
     "College/Modules/CMPU 1031 - Web Development 1.md",
-    "College/College Notes/CMPU 1031 - Sep 25th 2024.md",
     "College/Other Notes/CMPU 1025 - Lucas Snow.md",
     "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md",
-    "Home Page/Home.canvas",
     "CMPU 1024 - Sep 25th 2024.md",
     "College/Modules/CMPU 1024 - Program Design.md",
     "College/College Notes/CMPU 1025 - Sep 25th 2024.md",
@@ -229,7 +228,6 @@
     "College/College Notes/CMPU 1025 - Sep 24th 2024.md",
     "College/College Notes/CMPU 1025 - Sep 23rd 2024.md",
     "College/College Notes/CMPU 1025 - Sep 18th 2024.md",
-    "College/College Notes/CMPU 1025 - Sep 17th 2024.md",
     "Code/Programming/Sep 24th 2024/CA_Assignment.c",
     "Code/Programming/Sep 24th 2024",
     "Code/Programming",
