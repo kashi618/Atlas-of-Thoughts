@@ -17,8 +17,8 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": 100,
-                  "y": 97.4,
-                  "zoom": 0
+                  "y": -70,
+                  "zoom": -0.22770133272151338
                 }
               },
               "pinned": true
@@ -37,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5026054382324,
-    "collapsed": true
+    "width": 304.5026054382324
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -118,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Modules/CMPU 1024 - Program Design.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -136,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Modules/CMPU 1024 - Program Design.md",
+                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Modules/CMPU 1024 - Program Design.md",
+                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5,
-    "collapsed": true
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,16 +199,16 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ee89a495ada6002f",
+  "active": "d828e5b8bc561a69",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
+    "College/Modules/CMPU 1024 - Program Design.md",
     "College/TU856 - Computer Science.md",
     "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md",
     "College/Modules/CMPU 1031 - Web Development 1.md",
-    "College/Modules/CMPU 1024 - Program Design.md",
     "College/Modules/CMPU 1012 - IT Fundamentals.md",
     "College/Modules/CMPU 1005  - Communications.md",
     "CMPU 1031 - Sep 24th 2024.md",
-    "Home Page/Home.canvas",
     "College/Modules/CMPU 1018 - Mathematics 1.md",
     "CMPU 1018 - Oct 7th 2024.md",
     "CMPU 1012 - Oct 10th 2024.md",
@@ -230,7 +227,6 @@
     "College/College Notes/CMPU 1025 - Sep 16th 2024.md",
     "College/College Notes/CMPU 1024 - Sep 23th 2024.md",
     "College/College Notes/CMPU 1024 - Sep 16th 2024.md",
-    "College/College Notes/CMPU 1018 - Sep 23rd 2024.md",
     "Code/Programming/Sep 24th 2024/CA_Assignment.c",
     "Code/Programming/Sep 24th 2024",
     "Code/Programming",

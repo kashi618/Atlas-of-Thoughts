@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "CMPU 1024 - Program Design",
       "path": "College/Modules/CMPU 1024 - Program Design.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "CMPU 1005  - Communications",
       "path": "College/Modules/CMPU 1005  - Communications.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "CMPU 1018 - Mathematics 1",
