@@ -10,7 +10,7 @@ tags:
 **Week 1**
 - [[CMPU 1005 - Sep 20th 2024]]
 
-**Week 2
+**Week 2**
 - [[CMPU 1005 - Sep 27th 2024]]
 
 **Week 3**
