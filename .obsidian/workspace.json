@@ -116,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CMPU 1031 - Sep 25th 2024.md"
-              }
+              "state": {}
             }
           },
           {
@@ -135,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU 1031 - Sep 25th 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPU 1031 - Sep 25th 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,8 +197,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d0d7c4f1fef6b1ee",
+  "active": "370a24fabb7b70f5",
   "lastOpenFiles": [
+    "CMPU 1031 - Sep 25th 2024.md",
     "College/Modules/CMPU 1031 - Web Development 1.md",
     "College/TU856 - Computer Science.md",
     "Home Page/Home.canvas",
@@ -213,7 +210,6 @@
     "Templates/1024 Template.md",
     "Templates/1025 Template.md",
     "CMPU 1031  - Communications.md",
-    "CMPU 1031 - Sep 25th 2024.md",
     "Maths Study 1.md",
     "Date.md",
     "CMPU 1024 - Sep 25th 2024.md",
