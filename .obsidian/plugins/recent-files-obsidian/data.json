@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "CMPU 1005  - Communications",
-      "path": "College/Modules/CMPU 1005  - Communications.md"
+      "basename": "CMPU 1012 - IT Fundamentals",
+      "path": "College/Modules/CMPU 1012 - IT Fundamentals.md"
     },
     {
       "basename": "TU856 - Computer Science",
       "path": "College/TU856 - Computer Science.md"
+    },
+    {
+      "basename": "CMPU 1005  - Communications",
+      "path": "College/Modules/CMPU 1005  - Communications.md"
     },
     {
       "basename": "Home",
@@ -195,10 +199,6 @@
     {
       "basename": "obsidian-icon",
       "path": "Home Page/obsidian-icon.png"
-    },
-    {
-      "basename": "Books",
-      "path": "Notes/Books.md"
     }
   ],
   "omittedPaths": [],

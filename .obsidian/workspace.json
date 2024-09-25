@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Modules/CMPU 1005  - Communications.md",
+                "file": "College/Modules/CMPU 1012 - IT Fundamentals.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Modules/CMPU 1005  - Communications.md"
+                "file": "College/Modules/CMPU 1012 - IT Fundamentals.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Modules/CMPU 1005  - Communications.md",
+                "file": "College/Modules/CMPU 1012 - IT Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Modules/CMPU 1005  - Communications.md",
+                "file": "College/Modules/CMPU 1012 - IT Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,8 +204,9 @@
   "active": "ee89a495ada6002f",
   "lastOpenFiles": [
     "College/TU856 - Computer Science.md",
-    "Home Page/Home.canvas",
+    "College/Modules/CMPU 1012 - IT Fundamentals.md",
     "College/Modules/CMPU 1005  - Communications.md",
+    "Home Page/Home.canvas",
     "College/College Notes/CMPU 1031 - Sep 25th 2024.md",
     "CMPU 1005 - Sep 20th 2024.md",
     "College/College Notes/CMPU 1031 - Sep 20nd 2024.md",
