@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "TU856 - Computer Science",
+      "path": "College/TU856 - Computer Science.md"
+    },
+    {
+      "basename": "CMPU 1031 - Sep 18th 2024",
+      "path": "CMPU 1031 - Sep 18th 2024.md"
+    },
+    {
+      "basename": "CMPU 1031 - Web Development 1",
+      "path": "College/Modules/CMPU 1031 - Web Development 1.md"
+    },
+    {
+      "basename": "CMPU 1031 - Sep 25th 2024",
+      "path": "College/College Notes/CMPU 1031 - Sep 25th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
+      "path": "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
     {
-      "basename": "TU856 - Computer Science",
-      "path": "College/TU856 - Computer Science.md"
+      "basename": "CMPU 1024 - Sep 25th 2024",
+      "path": "CMPU 1024 - Sep 25th 2024.md"
+    },
+    {
+      "basename": "CMPU 1024 - Program Design",
+      "path": "College/Modules/CMPU 1024 - Program Design.md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 25th 2024",
+      "path": "College/College Notes/CMPU 1025 - Sep 25th 2024.md"
     },
     {
       "basename": "CMPU 1005 - Sep 20th 2024",
@@ -15,18 +43,6 @@
     {
       "basename": "CMPU 1005  - Communications",
       "path": "College/Modules/CMPU 1005  - Communications.md"
-    },
-    {
-      "basename": "CMPU 1024 - Program Design",
-      "path": "College/Modules/CMPU 1024 - Program Design.md"
-    },
-    {
-      "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
-      "path": "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md"
-    },
-    {
-      "basename": "CMPU 1031 - Web Development 1",
-      "path": "College/Modules/CMPU 1031 - Web Development 1.md"
     },
     {
       "basename": "CMPU 1012 - IT Fundamentals",
@@ -41,16 +57,8 @@
       "path": "Home Page/General Notes.md"
     },
     {
-      "basename": "CMPU 1031 - Sep 25th 2024",
-      "path": "College/College Notes/CMPU 1031 - Sep 25th 2024.md"
-    },
-    {
       "basename": "CMPU 1031 - Sep 20nd 2024",
       "path": "College/College Notes/CMPU 1031 - Sep 20nd 2024.md"
-    },
-    {
-      "basename": "CMPU 1025 - Sep 25th 2024",
-      "path": "College/College Notes/CMPU 1025 - Sep 25th 2024.md"
     },
     {
       "basename": "CMPU 1025 - Sep 24th 2024",
@@ -191,10 +199,6 @@
     {
       "basename": "Déjà Entendu",
       "path": "Notes/Déjà Entendu.md"
-    },
-    {
-      "basename": "TV Shows & Movies & Anime & Manga",
-      "path": "Notes/TV Shows & Movies & Anime & Manga.md"
     }
   ],
   "omittedPaths": [],
