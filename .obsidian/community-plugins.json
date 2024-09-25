@@ -1,9 +1,7 @@
 [
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-style-settings",
-  "table-editor-obsidian",
   "dataview",
-  "obsidian-emoji-toolbar",
   "editing-toolbar",
   "colored-tags",
   "obsidian-icon-folder",
@@ -16,9 +14,9 @@
   "obsidian-file-color",
   "calendar",
   "homepage",
-  "obsidian-advanced-slides",
-  "templater-obsidian",
   "mathlive",
   "obsidian-full-calendar",
-  "codeblock-customizer"
+  "codeblock-customizer",
+  "table-editor-obsidian",
+  "templater-obsidian"
 ]
