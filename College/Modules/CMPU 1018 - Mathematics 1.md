@@ -29,4 +29,8 @@ tags:
 - [[CMPU 1018 - Nov 22nd 2024]]
 - [[CMPU 1018 - Nov 25th 2024]]
 - [[CMPU 1018 - Nov 29th 2024]] 
+- [[CMPU 1018 - Dec 2nd 2024]]
+- [[CMPU 1018 - Dec 6th 2024]]
+- [[CMPU 1018 - Dec 9th 2024]]
+- [[CMPU 1018 - Dec 13th 2024]]
 - 
