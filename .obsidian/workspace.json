@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "753bca8db0759b10",
+            "id": "ec4504a4e911d2b1",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,45 +16,12 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -13.331507808528634,
-                  "y": -25.741871668452468,
-                  "zoom": -0.2310490914185842
+                  "x": 100,
+                  "y": -70,
+                  "zoom": 0
                 }
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "ec4504a4e911d2b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/College Notes/CMPU 1018 - Sep 23rd 2024.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a237a99da820bca7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9f07295ee5cdfb0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maths Study 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
             }
           }
         ]
@@ -137,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths Study 1.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -155,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths Study 1.md",
+                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths Study 1.md",
+                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,10 +188,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9f07295ee5cdfb0d",
+  "active": "ec4504a4e911d2b1",
   "lastOpenFiles": [
-    "College/College Notes/CMPU 1018 - Sep 23rd 2024.md",
     "Maths Study 1.md",
+    "College/College Notes/CMPU 1018 - Sep 23rd 2024.md",
     "College/Modules/CMPU 1018 - Mathematics 1.md",
     "College/TU856 - Computer Science.md",
     "Home Page/Home.canvas",

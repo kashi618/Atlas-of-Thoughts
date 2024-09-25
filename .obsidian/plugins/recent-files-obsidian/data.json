@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Maths Study 1",
       "path": "Maths Study 1.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "TU856 - Computer Science",
       "path": "College/TU856 - Computer Science.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "CMPU 1025 - Sep 24th 2024",
