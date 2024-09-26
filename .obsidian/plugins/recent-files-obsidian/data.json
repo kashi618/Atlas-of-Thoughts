@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "CompSci Certificates",
+      "path": "CompSci Certificates.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Leaving Cert English",
       "path": "Notes/Leaving Cert English.md"
-    },
-    {
-      "basename": "Jamais Vu",
-      "path": "Notes/Jamais Vu.md"
     }
   ],
   "omittedPaths": [],
