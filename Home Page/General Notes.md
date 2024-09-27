@@ -2,6 +2,7 @@
 tags:
   - useful
 ---
+- Chatgpt questions, with aniki for flashcards
 - Adult and Child nested tags
 - lookup kinestetic learning
 - Sort quotes.md
