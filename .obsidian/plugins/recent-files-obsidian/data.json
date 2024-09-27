@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Arch Linux - Installation",
+      "path": "Notes/Arch Linux - Installation.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
     {
-      "basename": "CompSci Certificates",
-      "path": "CompSci Certificates.md"
+      "basename": "CMPU 1012 - Sep 26th 2024",
+      "path": "College/College Notes/CMPU 1012 - Sep 26th 2024.md"
     },
     {
-      "basename": "CMPU 1012 - Sep 26th 2024",
-      "path": "CMPU 1012 - Sep 26th 2024.md"
+      "basename": "Useful",
+      "path": "Home Page/Useful.md"
+    },
+    {
+      "basename": "CompSci Certificates",
+      "path": "CompSci Certificates.md"
     },
     {
       "basename": "TU856 - Computer Science",
@@ -169,10 +177,6 @@
       "path": "Other/obamna.gif"
     },
     {
-      "basename": "Arch Linux - Installation",
-      "path": "Notes/Arch Linux - Installation.md"
-    },
-    {
       "basename": "Git Clone Repo",
       "path": "Notes/Git Clone Repo.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Déjà Vu",
       "path": "Notes/Déjà Vu.md"
-    },
-    {
-      "basename": "Leaving Cert English",
-      "path": "Notes/Leaving Cert English.md"
     }
   ],
   "omittedPaths": [],

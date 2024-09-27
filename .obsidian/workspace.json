@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69bdb0bec06a4c2b",
+            "id": "80175254b794584d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,13 +18,40 @@
                 "viewState": {
                   "x": 100,
                   "y": -70,
-                  "zoom": -0.6709357238310092
+                  "zoom": 0
                 }
               },
               "pinned": true
             }
+          },
+          {
+            "id": "bbf490173148c6a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/College Notes/CMPU 1012 - Sep 26th 2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fe2a2470c528c04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Arch Linux - Installation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "file": "Notes/Arch Linux - Installation.md"
               }
             }
           },
@@ -121,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "Notes/Arch Linux - Installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "Notes/Arch Linux - Installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,14 +207,19 @@
       "random-note:Open random note": false,
       "canvas:Create new canvas": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "69bdb0bec06a4c2b",
+  "active": "2fe2a2470c528c04",
   "lastOpenFiles": [
-    "CompSci Certificates.md",
     "Home Page/Home.canvas",
-    "CMPU 1012 - Sep 26th 2024.md",
+    "Notes/Arch Linux - Installation.md",
+    "College/College Notes/CMPU 1012 - Sep 26th 2024.md",
+    "CompSci Certificates.md",
     "College/Modules/CMPU 1012 - IT Fundamentals.md",
     "College/TU856 - Computer Science.md",
     "College/College Notes/CMPU 1031 - Sep 18th 2024.md",
@@ -210,7 +242,6 @@
     "CMPU 1024 - Oct 14th 2024.md",
     "CMPU 1024 - Oct 21th 2024.md",
     "College/College Notes/CMPU 1031 - Sep 20nd 2024.md",
-    "College/College Notes/CMPU 1025 - Sep 24th 2024.md",
     "Code/Programming/Sep 24th 2024/CA_Assignment.c",
     "Code/Programming/Sep 24th 2024",
     "Code/Programming",
