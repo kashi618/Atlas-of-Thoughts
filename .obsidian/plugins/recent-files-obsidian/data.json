@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "CMPU 1005 - Sep 27th 2024",
+      "path": "CMPU 1005 - Sep 27th 2024.md"
+    },
+    {
+      "basename": "CMPU 1005  - Communications",
+      "path": "College/Modules/CMPU 1005  - Communications.md"
+    },
+    {
+      "basename": "TU856 - Computer Science",
+      "path": "College/TU856 - Computer Science.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
     {
-      "basename": "RAM",
-      "path": "RAM.md"
-    },
-    {
       "basename": "Arch Linux Essential Packages",
       "path": "Arch Linux Essential Packages.md"
+    },
+    {
+      "basename": "RAM",
+      "path": "RAM.md"
     },
     {
       "basename": "CMPU 1018 - Sep 23rd 2024",
@@ -27,10 +39,6 @@
     {
       "basename": "CMPU 1012 - IT Fundamentals",
       "path": "College/Modules/CMPU 1012 - IT Fundamentals.md"
-    },
-    {
-      "basename": "TU856 - Computer Science",
-      "path": "College/TU856 - Computer Science.md"
     },
     {
       "basename": "Arch Linux - Installation",
@@ -75,10 +83,6 @@
     {
       "basename": "CMPU 1005 - Sep 20th 2024",
       "path": "College/College Notes/CMPU 1005 - Sep 20th 2024.md"
-    },
-    {
-      "basename": "CMPU 1005  - Communications",
-      "path": "College/Modules/CMPU 1005  - Communications.md"
     },
     {
       "basename": "General Notes",
@@ -195,10 +199,6 @@
     {
       "basename": "Arch Linux - Adding Drives",
       "path": "Notes/Arch Linux - Adding Drives.md"
-    },
-    {
-      "basename": "Guitar Wishlist",
-      "path": "Notes/Guitar Wishlist.md"
     }
   ],
   "omittedPaths": [],
