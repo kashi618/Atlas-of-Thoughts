@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "CMPU 1005 - Sep 27th 2024",
-      "path": "CMPU 1005 - Sep 27th 2024.md"
+      "basename": "CMPU 1031 - Sep 27th 2024",
+      "path": "CMPU 1031 - Sep 27th 2024.md"
     },
     {
-      "basename": "CMPU 1005  - Communications",
-      "path": "College/Modules/CMPU 1005  - Communications.md"
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "TU856 - Computer Science",
       "path": "College/TU856 - Computer Science.md"
     },
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
+      "basename": "CMPU 1005 - Sep 27th 2024",
+      "path": "CMPU 1005 - Sep 27th 2024.md"
+    },
+    {
+      "basename": "CMPU 1031 - Web Development 1",
+      "path": "College/Modules/CMPU 1031 - Web Development 1.md"
+    },
+    {
+      "basename": "CMPU 1005  - Communications",
+      "path": "College/Modules/CMPU 1005  - Communications.md"
     },
     {
       "basename": "Arch Linux Essential Packages",
@@ -67,10 +75,6 @@
     {
       "basename": "CMPU 1031 - Sep 25th 2024",
       "path": "College/College Notes/CMPU 1031 - Sep 25th 2024.md"
-    },
-    {
-      "basename": "CMPU 1031 - Web Development 1",
-      "path": "College/Modules/CMPU 1031 - Web Development 1.md"
     },
     {
       "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
@@ -195,10 +199,6 @@
     {
       "basename": "explosion",
       "path": "Other/explosion.gif"
-    },
-    {
-      "basename": "Arch Linux - Adding Drives",
-      "path": "Notes/Arch Linux - Adding Drives.md"
     }
   ],
   "omittedPaths": [],
