@@ -8,32 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80175254b794584d",
+            "id": "d6f4f1b049592429",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Home Page/Home.canvas",
-                "viewState": {
-                  "x": 100,
-                  "y": -70,
-                  "zoom": 0
-                }
-              },
-              "pinned": true
+                "file": "Arch Linux Essential Packages.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
             "id": "5d4dec230ddf4572",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "College/College Notes/CMPU 1018 - Sep 23rd 2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Home Page/Home.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/College Notes/CMPU 1018 - Sep 23rd 2024.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -135,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/College Notes/CMPU 1018 - Sep 23rd 2024.md",
+                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/College Notes/CMPU 1018 - Sep 23rd 2024.md",
+                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,11 +201,15 @@
   },
   "active": "5d4dec230ddf4572",
   "lastOpenFiles": [
+    "RAM.md",
+    "Neetcode/Algorithms and Data Structures for Beginners",
+    "Arch Linux Essential Packages.md",
+    "Neetcode",
+    "Home Page/Home.canvas",
+    "College/College Notes/CMPU 1018 - Sep 23rd 2024.md",
     "College/Modules/CMPU 1018 - Mathematics 1.md",
     "College/Modules/CMPU 1024 - Program Design.md",
     "College/Modules/CMPU 1012 - IT Fundamentals.md",
-    "Home Page/Home.canvas",
-    "College/College Notes/CMPU 1018 - Sep 23rd 2024.md",
     "Notes/Arch Linux - Installation.md",
     "College/College Notes/CMPU 1012 - Sep 26th 2024.md",
     "CompSci Certificates.md",
@@ -227,8 +229,6 @@
     "CMPU 1012 - Oct 10th 2024.md",
     "CMPU 1005 - Dec 13th 2024.md",
     "CMPU 1024 - Dec 10th 2024.md",
-    "CMPU 1024 - Oct 14th 2024.md",
-    "CMPU 1024 - Oct 21th 2024.md",
     "Code/Programming/Sep 24th 2024/CA_Assignment.c",
     "Code/Programming/Sep 24th 2024",
     "Code/Programming",
@@ -237,8 +237,6 @@
     "Code/Programming/Sep 24th 2024/DeclaringAndPrintingVariables.c",
     "Code/5_",
     "Code/Programming/Sep 24th 2024/2_CA_Assignment.c",
-    "Code/Programming/Sep 24th 2024/3_NameAndAddress",
-    "Code/Programming/Sep 24th 2024/3_NameAndAddress.c",
     "Home Page/Nietzsche.gif",
     "Home Page/Descartes.gif",
     "Other/explosion.gif",

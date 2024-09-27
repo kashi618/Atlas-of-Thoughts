@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "RAM",
+      "path": "RAM.md"
+    },
+    {
+      "basename": "Arch Linux Essential Packages",
+      "path": "Arch Linux Essential Packages.md"
+    },
+    {
       "basename": "CMPU 1018 - Sep 23rd 2024",
       "path": "College/College Notes/CMPU 1018 - Sep 23rd 2024.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "TU856 - Computer Science",
       "path": "College/TU856 - Computer Science.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Arch Linux - Installation",
@@ -191,14 +199,6 @@
     {
       "basename": "Guitar Wishlist",
       "path": "Notes/Guitar Wishlist.md"
-    },
-    {
-      "basename": "Bleaching Hair",
-      "path": "Notes/Bleaching Hair.md"
-    },
-    {
-      "basename": "Déjà Vu",
-      "path": "Notes/Déjà Vu.md"
     }
   ],
   "omittedPaths": [],
