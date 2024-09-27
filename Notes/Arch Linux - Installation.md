@@ -1,6 +1,5 @@
 ---
 tags:
-  - Unfinished
   - Linux
   - other
 ---
