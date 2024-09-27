@@ -116,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CMPU 1005 - Sep 27th 2024.md"
-              }
+              "state": {}
             }
           },
           {
@@ -135,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU 1005 - Sep 27th 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPU 1005 - Sep 27th 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,10 +197,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ed99771136495ecd",
+  "active": "370a24fabb7b70f5",
   "lastOpenFiles": [
-    "College/Modules/CMPU 1005  - Communications.md",
     "CMPU 1005 - Sep 27th 2024.md",
+    "College/Modules/CMPU 1005  - Communications.md",
     "College/TU856 - Computer Science.md",
     "Home Page/Home.canvas",
     "Arch Linux Essential Packages.md",
