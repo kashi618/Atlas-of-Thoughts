@@ -23,22 +23,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "0c0f7e461d6f82fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPU 1018 - Sep 30th 2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPU 1018 - Sep 30th 2024.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -136,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU 1018 - Sep 30th 2024.md",
+                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPU 1018 - Sep 30th 2024.md",
+                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,12 +188,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0c0f7e461d6f82fc",
+  "active": "4328a1287ef48671",
   "lastOpenFiles": [
+    "CMPU 1018 - Sep 30th 2024.md",
     "College/College Notes/CMPU 1018 - Sep 23rd 2024.md",
     "Home Page/Home.canvas",
     "College/TU856 - Computer Science.md",
-    "CMPU 1018 - Sep 30th 2024.md",
     "College/Modules/CMPU 1018 - Mathematics 1.md",
     "CMPU 1031 - Sep 27th 2024.md",
     "Pasted image 20240927161125.png",
