@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "380c527ec39066a2",
+            "id": "6cfb032789f5fd5a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,19 +18,19 @@
                 "viewState": {
                   "x": 100,
                   "y": -70,
-                  "zoom": -0.8085974465000006
+                  "zoom": 0
                 }
               },
               "pinned": true
             }
           },
           {
-            "id": "6cfb032789f5fd5a",
+            "id": "6ba08ee07b5cbf92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPU 1025 - Sep 30th 2024.md",
+                "file": "CMPU 1024 - Sep 30th 2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPU 1025 - Sep 30th 2024.md"
+                "file": "CMPU 1024 - Sep 30th 2024.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU 1025 - Sep 30th 2024.md",
+                "file": "CMPU 1024 - Sep 30th 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPU 1025 - Sep 30th 2024.md",
+                "file": "CMPU 1024 - Sep 30th 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,13 +203,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6cfb032789f5fd5a",
+  "active": "6ba08ee07b5cbf92",
   "lastOpenFiles": [
-    "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md",
-    "College/TU856 - Computer Science.md",
     "Home Page/Home.canvas",
-    "CMPU 1025 - Programming 1 (Sem. 2).md",
+    "CMPU 1024 - Sep 30th 2024.md",
+    "College/Modules/CMPU 1024 - Program Design.md",
+    "College/College Notes/CMPU 1024 - Sep 25th 2024.md",
+    "College/TU856 - Computer Science.md",
     "CMPU 1025 - Sep 30th 2024.md",
+    "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md",
+    "CMPU 1025 - Programming 1 (Sem. 2).md",
     "CMPU 1031 - Sep 27th 2024.md",
     "Pasted image 20240927152029.png",
     "Ram Allocation.png",
@@ -230,15 +233,12 @@
     "RAM.md",
     "Neetcode/Algorithms and Data Structures for Beginners",
     "Neetcode",
-    "College/Modules/CMPU 1024 - Program Design.md",
     "College/Modules/CMPU 1012 - IT Fundamentals.md",
     "Notes/Arch Linux - Installation.md",
     "College/College Notes/CMPU 1012 - Sep 26th 2024.md",
     "CompSci Certificates.md",
     "College/College Notes/CMPU 1031 - Sep 18th 2024.md",
-    "College/College Notes/CMPU 1024 - Sep 25th 2024.md",
     "College/College Notes/CMPU 1031 - Sep 25th 2024.md",
-    "College/Other Notes/CMPU 1025 - Lucas Snow.md",
     "Code/Programming/Sep 24th 2024/CA_Assignment.c",
     "Code/Programming/Sep 24th 2024",
     "Code/Programming",

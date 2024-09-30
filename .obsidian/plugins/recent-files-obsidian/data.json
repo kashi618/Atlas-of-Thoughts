@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "CMPU 1025 - Sep 30th 2024",
-      "path": "CMPU 1025 - Sep 30th 2024.md"
+      "basename": "CMPU 1024 - Sep 30th 2024",
+      "path": "CMPU 1024 - Sep 30th 2024.md"
     },
     {
-      "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
-      "path": "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md"
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "TU856 - Computer Science",
       "path": "College/TU856 - Computer Science.md"
     },
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
+      "basename": "CMPU 1024 - Program Design",
+      "path": "College/Modules/CMPU 1024 - Program Design.md"
+    },
+    {
+      "basename": "CMPU 1024 - Sep 25th 2024",
+      "path": "College/College Notes/CMPU 1024 - Sep 25th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 30th 2024",
+      "path": "CMPU 1025 - Sep 30th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
+      "path": "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md"
     },
     {
       "basename": "CMPU 1025 - Programming 1 (Sem. 2)",
@@ -89,10 +101,6 @@
       "path": "College/Modules/CMPU 1005  - Communications.md"
     },
     {
-      "basename": "CMPU 1024 - Program Design",
-      "path": "College/Modules/CMPU 1024 - Program Design.md"
-    },
-    {
       "basename": "CMPU 1012 - IT Fundamentals",
       "path": "College/Modules/CMPU 1012 - IT Fundamentals.md"
     },
@@ -115,10 +123,6 @@
     {
       "basename": "CMPU 1031 - Sep 18th 2024",
       "path": "College/College Notes/CMPU 1031 - Sep 18th 2024.md"
-    },
-    {
-      "basename": "CMPU 1024 - Sep 25th 2024",
-      "path": "College/College Notes/CMPU 1024 - Sep 25th 2024.md"
     },
     {
       "basename": "CMPU 1031 - Sep 25th 2024",
@@ -195,10 +199,6 @@
     {
       "basename": "Descartes - Meditations on First Philosophy",
       "path": "Descartes - Meditations on First Philosophy.md"
-    },
-    {
-      "basename": "Currently Reading",
-      "path": "Home Page/Currently Reading.md"
     }
   ],
   "omittedPaths": [],
