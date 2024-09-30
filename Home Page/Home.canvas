@@ -12,7 +12,7 @@
 		{"id":"9ea0b782d7b67ae8","type":"file","file":"Other/explosion.gif","x":170,"y":-315,"width":130,"height":130},
 		{"id":"af36ad340487c526","type":"file","file":"Other/explosion.gif","x":-100,"y":-315,"width":130,"height":130},
 		{"id":"48d123dde7208a81","type":"text","text":"# Welcome to The Atlas of Thoughts","x":-360,"y":-500,"width":920,"height":80,"color":"6"},
-		{"id":"ed73e0ae219a3f1c","type":"file","file":"Home Page/General Notes.md","x":-560,"y":-250,"width":460,"height":360}
+		{"id":"ed73e0ae219a3f1c","type":"file","file":"Home Page/General Notes.md","x":-560,"y":-250,"width":460,"height":370}
 	],
 	"edges":[]
 }
