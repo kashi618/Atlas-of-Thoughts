@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/College Notes/CMPU 1025 - Sep 24th 2024.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/College Notes/CMPU 1025 - Sep 24th 2024.md",
+                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/College Notes/CMPU 1025 - Sep 24th 2024.md",
+                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,13 +215,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "91871deb621b5474",
+  "active": "6cfb032789f5fd5a",
   "lastOpenFiles": [
+    "CMPU 1024 - Sep 30th 2024.md",
+    "College/College Notes/CMPU 1025 - Sep 24th 2024.md",
     "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md",
     "College/College Notes/CMPU 1025 - Sep 25th 2024.md",
     "College/TU856 - Computer Science.md",
     "Home Page/Home.canvas",
-    "CMPU 1024 - Sep 30th 2024.md",
     "College/Modules/CMPU 1024 - Program Design.md",
     "College/College Notes/CMPU 1024 - Sep 25th 2024.md",
     "CMPU 1025 - Sep 30th 2024.md",
@@ -234,7 +234,6 @@
     "Pasted image 20240927161114.png",
     "Pasted image 20240927155719.png",
     "Pasted image 20240927155715.png",
-    "College/College Notes/CMPU 1025 - Sep 24th 2024.md",
     "CMPU 1018 - Sep 30th 2024.md",
     "College/College Notes/CMPU 1018 - Sep 23rd 2024.md",
     "College/Modules/CMPU 1018 - Mathematics 1.md",
