@@ -271,7 +271,7 @@
         "enableLineNumbers": true,
         "enableActiveLineHighlight": true,
         "codeBlockBorderStylingPosition": "disable",
-        "showIndentationLines": false,
+        "showIndentationLines": true,
         "enableLinks": false,
         "enableLinkUpdate": false,
         "enableBracketHighlight": true,
@@ -400,7 +400,7 @@
   "alternateHighlightColorName": "",
   "languageBorderColorName": "",
   "foldAllCommand": false,
-  "settingsType": "basic",
+  "settingsType": "codeblock",
   "langSpecificSettingsType": "",
   "languageSpecificLanguageName": ""
 }

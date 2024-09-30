@@ -9,8 +9,16 @@
       "path": "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md"
     },
     {
+      "basename": "TU856 - Computer Science",
+      "path": "College/TU856 - Computer Science.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "CMPU 1025 - Programming 1 (Sem. 2)",
+      "path": "CMPU 1025 - Programming 1 (Sem. 2).md"
     },
     {
       "basename": "CMPU 1031 - Sep 27th 2024",
@@ -39,10 +47,6 @@
     {
       "basename": "Pasted image 20240927155715",
       "path": "Pasted image 20240927155715.png"
-    },
-    {
-      "basename": "TU856 - Computer Science",
-      "path": "College/TU856 - Computer Science.md"
     },
     {
       "basename": "CMPU 1025 - Sep 24th 2024",
@@ -195,10 +199,6 @@
     {
       "basename": "Currently Reading",
       "path": "Home Page/Currently Reading.md"
-    },
-    {
-      "basename": "1005 Communications Template",
-      "path": "Templates/1005 Communications Template.md"
     }
   ],
   "omittedPaths": [],
