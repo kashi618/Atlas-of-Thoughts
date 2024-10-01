@@ -100,7 +100,7 @@ rankmirrors -n 6 /etc/pacman.d/mirrorlist.backup > /etc/pacman.d/mirrorlist
 
 ## install linux
 ``` bash
-pacstrap -K /mnt base linux linux-firmware base-devel networkmanager nano intel-ucode
+pacstrap -K /mnt base linux linux-firmware base-devel networkmanager nano intel-ucode timeshift
 ```
 - Remove "intel-ucode" if not using intel cpu
 
@@ -114,7 +114,6 @@ genfstab -U /mnt >> /mnt/etc/fstab
 ``` bash
 arch-chroot /mnt
 ```
-
 
 ## setting timezone
 ``` bash
