@@ -3,6 +3,10 @@ tags:
   - Linux
   - other
 ---
+nvme0n1p7 boot
+nvme0n1p8 root
+nvme0n1p9 swap
+
 ## set console layout and font
 ``` bash
 loadkeys uk
