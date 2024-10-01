@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3eccfb797e7682e6",
+        "id": "4d0d2ce241feb75f",
         "type": "tabs",
         "children": [
           {
-            "id": "f56b8749b030b8cd",
+            "id": "ebec2da1642f77cc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -187,7 +187,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f56b8749b030b8cd",
+  "active": "ebec2da1642f77cc",
   "lastOpenFiles": [
     "CMPU 1025 - Sep 30th 2024.md",
     "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md",
