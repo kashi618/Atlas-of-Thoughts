@@ -70,8 +70,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5f252b2efa3321c0",
@@ -117,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CMPU 1025 - Sep 30th 2024.md"
-              }
+              "state": {}
             }
           },
           {
@@ -136,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU 1025 - Sep 30th 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPU 1025 - Sep 30th 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,8 +197,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dbded028e56832f5",
+  "active": "d828e5b8bc561a69",
   "lastOpenFiles": [
+    "CMPU 1025 - Sep 30th 2024.md",
     "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md",
     "College/TU856 - Computer Science.md",
     "CMPU 1024 - Sep 30th 2024.md",
@@ -212,7 +208,6 @@
     "College/College Notes/CMPU 1025 - Sep 25th 2024.md",
     "College/Modules/CMPU 1024 - Program Design.md",
     "College/College Notes/CMPU 1024 - Sep 25th 2024.md",
-    "CMPU 1025 - Sep 30th 2024.md",
     "CMPU 1025 - Programming 1 (Sem. 2).md",
     "CMPU 1031 - Sep 27th 2024.md",
     "Pasted image 20240927152029.png",
