@@ -100,7 +100,7 @@ rankmirrors -n 6 /etc/pacman.d/mirrorlist.backup > /etc/pacman.d/mirrorlist
 
 ## install linux
 ``` bash
-pacstrap -K /mnt base linux linux-firmware base-devel networkmanager nano intel-ucode timeshift
+pacstrap -K /mnt base linux linux-firmware base-devel networkmanager nano intel-ucode timeshift sudo
 ```
 - Remove "intel-ucode" if not using intel cpu
 

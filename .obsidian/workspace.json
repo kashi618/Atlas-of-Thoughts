@@ -51,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPU 1025 - Oct 1th 2024.md"
+                "file": "Notes/Arch Linux - Installation.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU 1025 - Oct 1th 2024.md",
+                "file": "Notes/Arch Linux - Installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPU 1025 - Oct 1th 2024.md",
+                "file": "Notes/Arch Linux - Installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,11 +215,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dbaaa15cd1d64f04",
+  "active": "d82a6f43d8e68d8c",
   "lastOpenFiles": [
+    "CMPU 1025 - Oct 1th 2024.md",
     "College/TU856 - Computer Science.md",
     "Home Page/Home.canvas",
-    "CMPU 1025 - Oct 1th 2024.md",
     "Notes/Arch Linux - Installation.md",
     "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md",
     "Arch Linux Essential Packages.md",
