@@ -206,7 +206,9 @@
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
       "random-note:Open random note": false,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "d82a6f43d8e68d8c",
