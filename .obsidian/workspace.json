@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d82a6f43d8e68d8c",
+            "id": "82547bb492ae40a5",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "82547bb492ae40a5",
+            "id": "b5f5e39726032981",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,7 +37,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "file": "CMPU 1024 - Oct 1th 2024.md"
               }
             }
           },
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "CMPU 1024 - Oct 1th 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "CMPU 1024 - Oct 1th 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,13 +202,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d82a6f43d8e68d8c",
+  "active": "b5f5e39726032981",
   "lastOpenFiles": [
-    "CMPU 1024 - Oct 1th 2024.md",
     "College/Modules/CMPU 1024 - Program Design.md",
     "College/TU856 - Computer Science.md",
-    "College/Modules/CMPU 1005  - Communications.md",
     "Home Page/Home.canvas",
+    "CMPU 1024 - Oct 1th 2024.md",
+    "College/Modules/CMPU 1005  - Communications.md",
     "Arch Linux Essential Packages.md",
     "Notes/Arch Linux - Installation.md",
     "CMPU 1025 - Oct 1th 2024.md",
@@ -237,7 +238,6 @@
     "College/Modules/CMPU 1012 - IT Fundamentals.md",
     "College/College Notes/CMPU 1012 - Sep 26th 2024.md",
     "CompSci Certificates.md",
-    "College/College Notes/CMPU 1031 - Sep 18th 2024.md",
     "Code/Programming/Sep 24th 2024/CA_Assignment.c",
     "Code/Programming/Sep 24th 2024",
     "Code/Programming",
