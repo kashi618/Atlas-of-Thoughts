@@ -5,6 +5,14 @@
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "CompSci Certificates",
+      "path": "CompSci Certificates.md"
+    },
+    {
+      "basename": "Ram Allocation",
+      "path": "Other/Ram Allocation.png"
+    },
+    {
       "basename": "CMPU 1024 - Oct 1th 2024",
       "path": "College/Unsorted Notes/CMPU 1024 - Oct 1th 2024.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "CMPU 1005 - Sep 27th 2024",
       "path": "College/Unsorted Notes/CMPU 1005 - Sep 27th 2024.md"
-    },
-    {
-      "basename": "CompSci Certificates",
-      "path": "CompSci Certificates.md"
     },
     {
       "basename": "Descartes - Meditations on First Philosophy",
@@ -87,10 +91,6 @@
     {
       "basename": "Pasted image 20240927152029",
       "path": "Other/Pasted image 20240927152029.png"
-    },
-    {
-      "basename": "Ram Allocation",
-      "path": "Ram Allocation.png"
     },
     {
       "basename": "Pasted image 20240927161125",
