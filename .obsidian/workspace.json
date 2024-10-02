@@ -36,6 +36,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c26f690e459ee627",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Email to John Snow.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -203,8 +216,9 @@
   },
   "active": "b5f5e39726032981",
   "lastOpenFiles": [
-    "Home Page/Home.canvas",
+    "Email to John Snow.md",
     "College/Unsorted Notes/CMPU 1024 - Oct 1th 2024.md",
+    "Home Page/Home.canvas",
     "Casting.md",
     "Sorted No.md",
     "College/Sorted Notes",
