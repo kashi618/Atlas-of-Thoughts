@@ -79,7 +79,9 @@
     "ArchLinux": 67,
     "git": 68,
     "TU": 69,
-    "Reading": 70
+    "Reading": 70,
+    "C": 71,
+    "computerScience": 72
   },
   "_version": 3
 }
