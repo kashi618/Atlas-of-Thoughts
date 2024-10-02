@@ -5,6 +5,22 @@
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "CMPU 1024 - Oct 1th 2024",
+      "path": "CMPU 1024 - Oct 1th 2024.md"
+    },
+    {
+      "basename": "CMPU 1024 - Program Design",
+      "path": "College/Modules/CMPU 1024 - Program Design.md"
+    },
+    {
+      "basename": "TU856 - Computer Science",
+      "path": "College/TU856 - Computer Science.md"
+    },
+    {
+      "basename": "CMPU 1005  - Communications",
+      "path": "College/Modules/CMPU 1005  - Communications.md"
+    },
+    {
       "basename": "Arch Linux Essential Packages",
       "path": "Arch Linux Essential Packages.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "CMPU 1025 - Oct 1th 2024",
       "path": "CMPU 1025 - Oct 1th 2024.md"
-    },
-    {
-      "basename": "TU856 - Computer Science",
-      "path": "College/TU856 - Computer Science.md"
     },
     {
       "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
@@ -39,10 +51,6 @@
     {
       "basename": "CMPU 1025 - Sep 25th 2024",
       "path": "College/College Notes/CMPU 1025 - Sep 25th 2024.md"
-    },
-    {
-      "basename": "CMPU 1024 - Program Design",
-      "path": "College/Modules/CMPU 1024 - Program Design.md"
     },
     {
       "basename": "CMPU 1024 - Sep 25th 2024",
@@ -103,10 +111,6 @@
     {
       "basename": "CMPU 1031 - Web Development 1",
       "path": "College/Modules/CMPU 1031 - Web Development 1.md"
-    },
-    {
-      "basename": "CMPU 1005  - Communications",
-      "path": "College/Modules/CMPU 1005  - Communications.md"
     },
     {
       "basename": "CMPU 1012 - IT Fundamentals",
@@ -195,10 +199,6 @@
     {
       "basename": "1025 Template",
       "path": "Templates/1025 Template.md"
-    },
-    {
-      "basename": "Maths Study 1",
-      "path": "Maths Study 1.md"
     }
   ],
   "omittedPaths": [],
