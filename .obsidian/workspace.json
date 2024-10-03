@@ -4,24 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4d0d2ce241feb75f",
+        "id": "3e225d7eb1159597",
         "type": "tabs",
         "children": [
           {
-            "id": "b5f5e39726032981",
+            "id": "18f582aeb87c4dfa",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": 100,
-                  "y": 302,
-                  "zoom": 0
+                  "y": -70,
+                  "zoom": -1.2558982245521653
                 }
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -102,7 +100,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home Page/Home.canvas"
+              }
             }
           },
           {
@@ -119,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,11 +182,10 @@
       "homepage:Open homepage": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "370a24fabb7b70f5",
+  "active": "18f582aeb87c4dfa",
   "lastOpenFiles": [
     "Home Page/Home.canvas",
     "CompSci Certificates.md",
