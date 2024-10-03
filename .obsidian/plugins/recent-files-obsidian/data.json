@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "CMPU 1012 - Oct 3rd 2024",
+      "path": "CMPU 1012 - Oct 3rd 2024.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "TU856 - Computer Science",
+      "path": "College/TU856 - Computer Science.md"
+    },
+    {
+      "basename": "CMPU 1012 - IT Fundamentals",
+      "path": "College/Modules/CMPU 1012 - IT Fundamentals.md"
     },
     {
       "basename": "CompSci Certificates",
@@ -43,10 +55,6 @@
     {
       "basename": "CMPU 1024 - Program Design",
       "path": "College/Modules/CMPU 1024 - Program Design.md"
-    },
-    {
-      "basename": "TU856 - Computer Science",
-      "path": "College/TU856 - Computer Science.md"
     },
     {
       "basename": "CMPU 1005  - Communications",
@@ -129,10 +137,6 @@
       "path": "College/Modules/CMPU 1031 - Web Development 1.md"
     },
     {
-      "basename": "CMPU 1012 - IT Fundamentals",
-      "path": "College/Modules/CMPU 1012 - IT Fundamentals.md"
-    },
-    {
       "basename": "CMPU 1012 - Sep 26th 2024",
       "path": "College/Unsorted Notes/CMPU 1012 - Sep 26th 2024.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1012 IT Fundamentals Template",
       "path": "Templates/1012 IT Fundamentals Template.md"
-    },
-    {
-      "basename": "1018 Mathematics 1 Template",
-      "path": "Templates/1018 Mathematics 1 Template.md"
     }
   ],
   "omittedPaths": [],
