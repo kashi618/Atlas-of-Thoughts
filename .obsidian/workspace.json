@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Unsorted Notes/CMPU 1018 - Sep 30th 2024.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Unsorted Notes/CMPU 1018 - Sep 30th 2024.md",
+                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Unsorted Notes/CMPU 1018 - Sep 30th 2024.md",
+                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,10 +227,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "32430618e7dbc925",
+  "active": "18f582aeb87c4dfa",
   "lastOpenFiles": [
-    "CMPU 1018 - Problem Sheet 2.md",
     "College/Unsorted Notes/CMPU 1018 - Sep 30th 2024.md",
+    "CMPU 1018 - Problem Sheet 2.md",
     "College/Unsorted Notes/CMPU 1018 - Sep 23rd 2024.md",
     "College/Modules/CMPU 1018 - Mathematics 1.md",
     "Home Page/Home.canvas",
