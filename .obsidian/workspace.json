@@ -25,12 +25,25 @@
             }
           },
           {
-            "id": "40da9cf28ff9b55b",
+            "id": "0eff756cb4fa1570",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPU 1012 - Oct 3rd 2024.md",
+                "file": "CMPU 1018 - Problem Sheet 2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32430618e7dbc925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Unsorted Notes/CMPU 1018 - Sep 30th 2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPU 1012 - Oct 3rd 2024.md"
+                "file": "CMPU 1018 - Problem Sheet 2.md"
               }
             }
           },
@@ -136,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU 1012 - Oct 3rd 2024.md",
+                "file": "CMPU 1018 - Problem Sheet 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPU 1012 - Oct 3rd 2024.md",
+                "file": "CMPU 1018 - Problem Sheet 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,9 +215,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "40da9cf28ff9b55b",
+  "active": "0eff756cb4fa1570",
   "lastOpenFiles": [
+    "College/Unsorted Notes/CMPU 1018 - Sep 30th 2024.md",
+    "CMPU 1018 - Problem Sheet 2.md",
     "Home Page/Home.canvas",
+    "College/Unsorted Notes/CMPU 1018 - Sep 23rd 2024.md",
+    "College/Modules/CMPU 1018 - Mathematics 1.md",
     "CMPU 1012 - Oct 3rd 2024.md",
     "College/Modules/CMPU 1012 - IT Fundamentals.md",
     "College/TU856 - Computer Science.md",
@@ -228,10 +245,6 @@
     "College/Unsorted Notes/CMPU 1025 - Oct 1th 2024.md",
     "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md",
     "College/Unsorted Notes/CMPU 1024 - Sep 30th 2024.md",
-    "College/Unsorted Notes/CMPU 1025 - Sep 24th 2024.md",
-    "College/Unsorted Notes/CMPU 1025 - Sep 25th 2024.md",
-    "College/Unsorted Notes/CMPU 1024 - Sep 25th 2024.md",
-    "College/Unsorted Notes/CMPU 1031 - Sep 27th 2024.md",
     "Other/Pasted image 20240927152029.png",
     "Other/Pasted image 20240927161125.png",
     "Other/Pasted image 20240927161114.png",

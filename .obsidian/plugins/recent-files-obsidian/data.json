@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "CMPU 1012 - Oct 3rd 2024",
-      "path": "CMPU 1012 - Oct 3rd 2024.md"
+      "basename": "CMPU 1018 - Problem Sheet 2",
+      "path": "CMPU 1018 - Problem Sheet 2.md"
+    },
+    {
+      "basename": "CMPU 1018 - Sep 30th 2024",
+      "path": "College/Unsorted Notes/CMPU 1018 - Sep 30th 2024.md"
     },
     {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "CMPU 1018 - Sep 23rd 2024",
+      "path": "College/Unsorted Notes/CMPU 1018 - Sep 23rd 2024.md"
+    },
+    {
+      "basename": "CMPU 1018 - Mathematics 1",
+      "path": "College/Modules/CMPU 1018 - Mathematics 1.md"
+    },
+    {
+      "basename": "CMPU 1012 - Oct 3rd 2024",
+      "path": "CMPU 1012 - Oct 3rd 2024.md"
     },
     {
       "basename": "TU856 - Computer Science",
@@ -117,20 +133,8 @@
       "path": "Other/Pasted image 20240927155715.png"
     },
     {
-      "basename": "CMPU 1018 - Sep 30th 2024",
-      "path": "College/Unsorted Notes/CMPU 1018 - Sep 30th 2024.md"
-    },
-    {
-      "basename": "CMPU 1018 - Sep 23rd 2024",
-      "path": "College/Unsorted Notes/CMPU 1018 - Sep 23rd 2024.md"
-    },
-    {
       "basename": "General Notes",
       "path": "Home Page/General Notes.md"
-    },
-    {
-      "basename": "CMPU 1018 - Mathematics 1",
-      "path": "College/Modules/CMPU 1018 - Mathematics 1.md"
     },
     {
       "basename": "CMPU 1031 - Web Development 1",
@@ -195,10 +199,6 @@
     {
       "basename": "Base Template",
       "path": "Templates/Base Template.md"
-    },
-    {
-      "basename": "1012 IT Fundamentals Template",
-      "path": "Templates/1012 IT Fundamentals Template.md"
     }
   ],
   "omittedPaths": [],

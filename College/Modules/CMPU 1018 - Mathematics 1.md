@@ -6,6 +6,8 @@ tags:
 #### [[TU856 - Computer Science]]
 
 ---
+[[CMPU 1018 - Problem Sheet 2]]
+
 
 **Week 1**
 - [[CMPU 1018 - Sep 16th 2024]]
