@@ -1,32 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
+      "basename": "CMPU 1012 - Oct 3rd 2024",
+      "path": "College/Unsorted Notes/CMPU 1012 - Oct 3rd 2024.md"
     },
     {
       "basename": "CMPU 1018 - Sep 30th 2024",
       "path": "College/Unsorted Notes/CMPU 1018 - Sep 30th 2024.md"
     },
     {
-      "basename": "CMPU 1018 - Problem Sheet 2",
-      "path": "CMPU 1018 - Problem Sheet 2.md"
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
     },
     {
-      "basename": "CMPU 1018 - Sep 23rd 2024",
-      "path": "College/Unsorted Notes/CMPU 1018 - Sep 23rd 2024.md"
+      "basename": "CMPU 1018 - Oct 7th 2024",
+      "path": "CMPU 1018 - Oct 7th 2024.md"
+    },
+    {
+      "basename": "TU856 - Computer Science",
+      "path": "College/TU856 - Computer Science.md"
+    },
+    {
+      "basename": "CMPU 1018 - Problem Sheet 2",
+      "path": "CMPU 1018 - Problem Sheet 2.md"
     },
     {
       "basename": "CMPU 1018 - Mathematics 1",
       "path": "College/Modules/CMPU 1018 - Mathematics 1.md"
     },
     {
-      "basename": "CMPU 1012 - Oct 3rd 2024",
-      "path": "CMPU 1012 - Oct 3rd 2024.md"
-    },
-    {
-      "basename": "TU856 - Computer Science",
-      "path": "College/TU856 - Computer Science.md"
+      "basename": "CMPU 1018 - Sep 23rd 2024",
+      "path": "College/Unsorted Notes/CMPU 1018 - Sep 23rd 2024.md"
     },
     {
       "basename": "CMPU 1012 - IT Fundamentals",
@@ -43,10 +47,6 @@
     {
       "basename": "CMPU 1024 - Oct 1th 2024",
       "path": "College/Unsorted Notes/CMPU 1024 - Oct 1th 2024.md"
-    },
-    {
-      "basename": "Email to John Snow",
-      "path": "Email to John Snow.md"
     },
     {
       "basename": "Maths Study 1",
@@ -195,10 +195,6 @@
     {
       "basename": "1031 Template",
       "path": "Templates/1031 Template.md"
-    },
-    {
-      "basename": "Base Template",
-      "path": "Templates/Base Template.md"
     }
   ],
   "omittedPaths": [],
