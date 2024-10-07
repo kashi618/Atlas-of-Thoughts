@@ -37,7 +37,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "file": "CMPU 1024 - Oct 7th 2024.md"
               }
             }
           },
@@ -136,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "CMPU 1024 - Oct 7th 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "CMPU 1024 - Oct 7th 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,12 +203,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f1ecc2afb8da18b7",
+  "active": "b6ec990cfad00120",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
     "CMPU 1024 - Oct 7th 2024.md",
     "College/Modules/CMPU 1024 - Program Design.md",
     "College/TU856 - Computer Science.md",
-    "Home Page/Home.canvas",
     "CMPU 1025 - Oct 7th 2024.md",
     "CMPU 1025 - Oct 2nd 2024.md",
     "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md",
@@ -233,7 +234,6 @@
     "CMPU 1025 - Programming 1 (Sem. 2).md",
     "College/Unsorted Notes/CMPU 1005 - Sep 20th 2024.md",
     "College/Modules/CMPU 1005  - Communications.md",
-    "Home Page/Arch Linux Essential Packages.md",
     "Other/Pasted image 20240927152029.png",
     "Other/Pasted image 20240927161125.png",
     "Other/Pasted image 20240927161114.png",
