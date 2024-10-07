@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "CMPU 1025 - Oct 7th 2024",
+      "path": "CMPU 1025 - Oct 7th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Oct 2nd 2024",
+      "path": "CMPU 1025 - Oct 2nd 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
+      "path": "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "TU856 - Computer Science",
+      "path": "College/TU856 - Computer Science.md"
     },
     {
       "basename": "CMPU 1012 - Oct 3rd 2024",
@@ -15,10 +31,6 @@
     {
       "basename": "CMPU 1018 - Oct 7th 2024",
       "path": "CMPU 1018 - Oct 7th 2024.md"
-    },
-    {
-      "basename": "TU856 - Computer Science",
-      "path": "College/TU856 - Computer Science.md"
     },
     {
       "basename": "CMPU 1018 - Problem Sheet 2",
@@ -87,10 +99,6 @@
     {
       "basename": "CMPU 1025 - Oct 1th 2024",
       "path": "College/Unsorted Notes/CMPU 1025 - Oct 1th 2024.md"
-    },
-    {
-      "basename": "CMPU 1025 - Programming 1 (Sem. 1)",
-      "path": "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md"
     },
     {
       "basename": "CMPU 1024 - Sep 30th 2024",
@@ -191,10 +199,6 @@
     {
       "basename": "CMPU 1012 - Sep 19th 2024",
       "path": "College/Unsorted Notes/CMPU 1012 - Sep 19th 2024.md"
-    },
-    {
-      "basename": "1031 Template",
-      "path": "Templates/1031 Template.md"
     }
   ],
   "omittedPaths": [],

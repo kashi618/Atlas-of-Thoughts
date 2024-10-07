@@ -10,6 +10,7 @@
           {
             "id": "a16c6b727fa6292f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -17,12 +18,27 @@
                 "viewState": {
                   "x": 100,
                   "y": -70,
-                  "zoom": -1.2558982245521653
+                  "zoom": 0
                 }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d89e31175fcde5f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPU 1025 - Oct 7th 2024.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "file": "CMPU 1025 - Oct 7th 2024.md"
               }
             }
           },
@@ -120,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "CMPU 1025 - Oct 7th 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "CMPU 1025 - Oct 7th 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,17 +202,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a16c6b727fa6292f",
+  "active": "d89e31175fcde5f4",
   "lastOpenFiles": [
-    "College/Unsorted Notes/CMPU 1012 - Oct 3rd 2024.md",
+    "CMPU 1025 - Oct 2nd 2024.md",
+    "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md",
+    "CMPU 1025 - Oct 7th 2024.md",
     "Home Page/Home.canvas",
+    "College/TU856 - Computer Science.md",
+    "College/Unsorted Notes/CMPU 1012 - Oct 3rd 2024.md",
     "College/Unsorted Notes/CMPU 1018 - Sep 30th 2024.md",
     "CMPU 1018 - Oct 7th 2024.md",
     "Email to John Snow.md",
     "College/Sorted Notes",
     "CMPU 1018 - Problem Sheet 2.md",
     "College/Modules/CMPU 1018 - Mathematics 1.md",
-    "College/TU856 - Computer Science.md",
     "College/Unsorted Notes/CMPU 1018 - Sep 23rd 2024.md",
     "College/Modules/CMPU 1012 - IT Fundamentals.md",
     "CompSci Certificates.md",
@@ -215,8 +234,6 @@
     "College/Modules/CMPU 1005  - Communications.md",
     "Home Page/Arch Linux Essential Packages.md",
     "Notes/Arch Linux - Installation.md",
-    "College/Unsorted Notes/CMPU 1025 - Oct 1th 2024.md",
-    "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md",
     "Other/Pasted image 20240927152029.png",
     "Other/Pasted image 20240927161125.png",
     "Other/Pasted image 20240927161114.png",
