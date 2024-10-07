@@ -16,7 +16,7 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 100,
+                  "x": 23.75453125,
                   "y": -70,
                   "zoom": 0
                 }
@@ -37,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5026054382324
+    "width": 304.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPU 1024 - Oct 7th 2024.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU 1024 - Oct 7th 2024.md",
+                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPU 1024 - Oct 7th 2024.md",
+                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,10 +202,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b6ec990cfad00120",
+  "active": "f1ecc2afb8da18b7",
   "lastOpenFiles": [
-    "College/Modules/CMPU 1024 - Program Design.md",
     "CMPU 1024 - Oct 7th 2024.md",
+    "College/Modules/CMPU 1024 - Program Design.md",
     "College/TU856 - Computer Science.md",
     "Home Page/Home.canvas",
     "CMPU 1025 - Oct 7th 2024.md",
