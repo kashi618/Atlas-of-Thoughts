@@ -8,9 +8,8 @@
         "type": "tabs",
         "children": [
           {
-            "id": "081bf33459b6a762",
+            "id": "a16c6b727fa6292f",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -18,27 +17,12 @@
                 "viewState": {
                   "x": 100,
                   "y": -70,
-                  "zoom": 0
+                  "zoom": -1.2558982245521653
                 }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "a16c6b727fa6292f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Unsorted Notes/CMPU 1012 - Oct 3rd 2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Unsorted Notes/CMPU 1012 - Oct 3rd 2024.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -136,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/Unsorted Notes/CMPU 1012 - Oct 3rd 2024.md",
+                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/Unsorted Notes/CMPU 1012 - Oct 3rd 2024.md",
+                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,8 +188,8 @@
   },
   "active": "a16c6b727fa6292f",
   "lastOpenFiles": [
-    "Home Page/Home.canvas",
     "College/Unsorted Notes/CMPU 1012 - Oct 3rd 2024.md",
+    "Home Page/Home.canvas",
     "College/Unsorted Notes/CMPU 1018 - Sep 30th 2024.md",
     "CMPU 1018 - Oct 7th 2024.md",
     "Email to John Snow.md",
