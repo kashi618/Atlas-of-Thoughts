@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "eaca57a5dff5caa6",
+            "id": "a16c6b727fa6292f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,7 +70,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5f252b2efa3321c0",
@@ -201,11 +202,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eaca57a5dff5caa6",
+  "active": "a16c6b727fa6292f",
   "lastOpenFiles": [
-    "College/Unsorted Notes/CMPU 1018 - Sep 30th 2024.md",
-    "College/Unsorted Notes/CMPU 1012 - Oct 3rd 2024.md",
     "Home Page/Home.canvas",
+    "College/Unsorted Notes/CMPU 1012 - Oct 3rd 2024.md",
+    "College/Unsorted Notes/CMPU 1018 - Sep 30th 2024.md",
     "CMPU 1018 - Oct 7th 2024.md",
     "Email to John Snow.md",
     "College/Sorted Notes",
