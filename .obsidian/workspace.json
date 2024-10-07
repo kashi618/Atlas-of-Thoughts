@@ -8,9 +8,8 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d89e31175fcde5f4",
+            "id": "f1ecc2afb8da18b7",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -18,27 +17,12 @@
                 "viewState": {
                   "x": 100,
                   "y": -70,
-                  "zoom": 0
+                  "zoom": -1.2558982245521653
                 }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "f1ecc2afb8da18b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPU 1025 - Oct 7th 2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPU 1025 - Oct 7th 2024.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -136,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU 1025 - Oct 7th 2024.md",
+                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPU 1025 - Oct 7th 2024.md",
+                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,8 +188,8 @@
   },
   "active": "f1ecc2afb8da18b7",
   "lastOpenFiles": [
-    "Home Page/Home.canvas",
     "CMPU 1025 - Oct 7th 2024.md",
+    "Home Page/Home.canvas",
     "CMPU 1025 - Oct 2nd 2024.md",
     "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md",
     "College/TU856 - Computer Science.md",
