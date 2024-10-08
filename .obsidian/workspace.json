@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8e53f735b0cd74e1",
+        "id": "fea6cc8571fd0dd9",
         "type": "tabs",
         "children": [
           {
-            "id": "63060d15f8f7337e",
+            "id": "765e1255a1c716b4",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -189,7 +189,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "63060d15f8f7337e",
+  "active": "765e1255a1c716b4",
   "lastOpenFiles": [
     "CMPU 1024 - Oct 7th 2024.md",
     "Home Page/Home.canvas",
