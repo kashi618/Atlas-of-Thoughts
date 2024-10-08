@@ -40,12 +40,8 @@
   ],
   "fileColors": [
     {
-      "path": "College",
-      "color": "0jy0IN9iY3Qfpk3uuczKS"
-    },
-    {
       "path": "Home Page",
-      "color": "FgjpbEdsIRHThBsc-PvA1"
+      "color": "ofR1FEOWd-Z_iVxmCVW0M"
     },
     {
       "path": "Notes",
@@ -58,6 +54,10 @@
     {
       "path": "Other",
       "color": "ryIZEDHgHv-2z5VPkIp6L"
+    },
+    {
+      "path": "College",
+      "color": "FEutWz1dJGUGrGR--ttWS"
     }
   ]
 }
