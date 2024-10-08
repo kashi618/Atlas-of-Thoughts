@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3e225d7eb1159597",
+        "id": "8e53f735b0cd74e1",
         "type": "tabs",
         "children": [
           {
-            "id": "b6ec990cfad00120",
+            "id": "63060d15f8f7337e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/TU856 - Computer Science.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College/TU856 - Computer Science.md",
+                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College/TU856 - Computer Science.md",
+                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b6ec990cfad00120",
+  "active": "63060d15f8f7337e",
   "lastOpenFiles": [
     "CMPU 1024 - Oct 7th 2024.md",
     "Home Page/Home.canvas",
