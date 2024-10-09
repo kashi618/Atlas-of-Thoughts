@@ -75,8 +75,8 @@ gcd(58,23) = 1
 
 
 ### Find the Multiplicative Inverse of 41 mod 93
-#### ie. Find 41<sup>-1</sup> mod 93
-b = q(a) - r
+#### ie. Find 43<sup>-1</sup> mod 93
+a = q(b) - r
 
 93 = 2(41) - 11
 	93 - 2(41) -> 11

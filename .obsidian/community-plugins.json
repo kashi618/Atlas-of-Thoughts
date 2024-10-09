@@ -10,12 +10,13 @@
   "obsidian-sort-and-permute-lines",
   "obsidian-copy-block-link",
   "obsidian-git",
-  "obsidian-file-color",
   "calendar",
   "homepage",
   "obsidian-full-calendar",
   "codeblock-customizer",
   "table-editor-obsidian",
   "templater-obsidian",
-  "cm-typewriter-scroll-obsidian"
+  "cm-typewriter-scroll-obsidian",
+  "obsidian-custom-frames",
+  "obsidian-file-color"
 ]
