@@ -44,7 +44,7 @@ b = q(a) - r
 
 1() + 1() = 1
 
-### Find the Multiplicative Inverse of 23 mod 58 
+### Find the Multiplicative Inverse of 23^-1 mod 58 
 #### ie. Find 23<sup>-1</sup> mod 58
 b = q(a) - r
 
