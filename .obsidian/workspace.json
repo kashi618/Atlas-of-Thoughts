@@ -23,22 +23,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "6fc99ad8cc19dbe8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPU 1025 - Oct 8th 2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,8 +56,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5f252b2efa3321c0",
@@ -90,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5026054382324,
-    "collapsed": true
+    "width": 304.5026054382324
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -119,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPU 1025 - Oct 8th 2024.md"
+                "file": "Home Page/Home.canvas"
               }
             }
           },
@@ -137,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPU 1025 - Oct 8th 2024.md",
+                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPU 1025 - Oct 8th 2024.md",
+                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,10 +187,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6fc99ad8cc19dbe8",
+  "active": "765e1255a1c716b4",
   "lastOpenFiles": [
-    "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md",
     "CMPU 1025 - Oct 8th 2024.md",
+    "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md",
     "College/TU856 - Computer Science.md",
     "Home Page/Home.canvas",
     "CMPU 1024 - Oct 7th 2024.md",
