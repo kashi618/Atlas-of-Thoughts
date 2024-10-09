@@ -16,10 +16,10 @@ Create Date: 2024-01-30
 
 ### Life 📖
 ##### Quotes:
-*"I am the wisest man alive, for I kn[](Western%20Philosophy.md) is that I know nothing."*
-- [[Unsorted/3) Resource/Unsorted/The Republic - Plato]]
+*"I am the wisest man alive, for I know  that I know nothing."*
+- The Republic - Plato
 *"The unexamined life is not worth living"*
-- [[Apology - Plato]]
+- Apology - Plato
 
 ### Beliefs ✏️
 - [[Justice]] as the highest form of [[Eudaimonia]]
