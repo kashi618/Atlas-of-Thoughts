@@ -65,5 +65,13 @@
       ],
       "key": "M"
     }
+  ],
+  "app:toggle-ribbon": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "/"
+    }
   ]
 }

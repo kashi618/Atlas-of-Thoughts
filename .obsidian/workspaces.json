@@ -39,7 +39,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -90,7 +91,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 304.5026054382324
+        "width": 350.5
       },
       "right": {
         "id": "a004b30a86264a3d",
@@ -99,8 +100,17 @@
           {
             "id": "219604f8f4064431",
             "type": "tabs",
-            "dimension": 63.73307543520309,
             "children": [
+              {
+                "id": "9bc98d8a64f45ad2",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "College/Modules/CMPU 1024 - Program Design.md"
+                  }
+                }
+              },
               {
                 "id": "4feeb7318868250d",
                 "type": "leaf",
@@ -111,82 +121,30 @@
                     "useHierarchy": true
                   }
                 }
-              },
-              {
-                "id": "ac02c694b037802c",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "Home Page/Home.canvas"
-                  }
-                }
-              },
-              {
-                "id": "46aac37d8b822251",
-                "type": "leaf",
-                "state": {
-                  "type": "calendar",
-                  "state": {}
-                }
-              },
-              {
-                "id": "11c3d8ab150be139",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Home Page/Home.canvas",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
-                "id": "b8961e88321a2dce",
-                "type": "leaf",
-                "state": {
-                  "type": "all-properties",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "showSearch": false,
-                    "searchQuery": ""
-                  }
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
-            "id": "f6d5e66d9154efe8",
+            "id": "e1c058a6e134bfa4",
             "type": "tabs",
-            "dimension": 36.2669245647969,
             "children": [
               {
-                "id": "38a9cec16627d35f",
+                "id": "5c876c5f946a0a01",
                 "type": "leaf",
                 "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "Home Page/Home.canvas",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
+                  "type": "custom-frames-google-calendar",
+                  "state": {}
                 }
               }
             ]
           }
         ],
         "direction": "horizontal",
-        "width": 331.5
+        "width": 470.5
       },
       "left-ribbon": {
         "hiddenItems": {
+          "obsidian-git:Open Git source control": false,
           "graph:Open graph view": false,
           "command-palette:Open command palette": false,
           "audio-recorder:Start/stop recording": false,
@@ -196,13 +154,11 @@
           "table-editor-obsidian:Advanced Tables Toolbar": false,
           "omnisearch:Omnisearch": false,
           "homepage:Open homepage": false,
-          "obsidian-advanced-slides:Show Slide Preview": false,
-          "templater-obsidian:Templater": false,
-          "obsidian-full-calendar:Open Full Calendar": false
+          "templater-obsidian:Templater": false
         }
       },
-      "active": "ac02c694b037802c",
-      "mtime": "2024-09-25T13:37:51+01:00"
+      "active": "ee89a495ada6002f",
+      "mtime": "2024-10-08T21:17:33+01:00"
     }
   },
   "active": "Workhorse"

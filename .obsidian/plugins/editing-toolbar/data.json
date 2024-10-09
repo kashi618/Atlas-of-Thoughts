@@ -214,7 +214,7 @@
   "cMenuWidth": 502,
   "cMenuFontColor": "#00b050",
   "cMenuBackgroundColor": "rgba(163, 67, 31, 0.2)",
-  "autohide": false,
+  "autohide": true,
   "custom_bg1": "#FFB78B8C",
   "custom_bg2": "#CDF4698C",
   "custom_bg3": "#A0CCF68C",
