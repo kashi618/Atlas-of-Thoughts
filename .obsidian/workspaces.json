@@ -25,22 +25,8 @@
                   },
                   "pinned": true
                 }
-              },
-              {
-                "id": "ee89a495ada6002f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "College/Modules/CMPU 1024 - Program Design.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical"
@@ -107,7 +93,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "College/Modules/CMPU 1024 - Program Design.md"
+                    "file": "Home Page/Home.canvas"
                   }
                 }
               },
@@ -144,6 +130,7 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "sheet-plus:Create excel file": false,
           "obsidian-git:Open Git source control": false,
           "graph:Open graph view": false,
           "command-palette:Open command palette": false,
@@ -157,8 +144,8 @@
           "templater-obsidian:Templater": false
         }
       },
-      "active": "ee89a495ada6002f",
-      "mtime": "2024-10-08T21:17:33+01:00"
+      "active": "1bf5abc3167f553f",
+      "mtime": "2024-10-10T14:17:06+01:00"
     }
   },
   "active": "Workhorse"
