@@ -1,5 +1,4 @@
 [
-  "cm-editor-syntax-highlight-obsidian",
   "obsidian-style-settings",
   "dataview",
   "editing-toolbar",
@@ -13,9 +12,10 @@
   "calendar",
   "homepage",
   "obsidian-full-calendar",
-  "codeblock-customizer",
   "templater-obsidian",
   "obsidian-custom-frames",
   "obsidian-file-color",
-  "various-complements"
+  "cm-editor-syntax-highlight-obsidian",
+  "various-complements",
+  "shiki-highlighter"
 ]
