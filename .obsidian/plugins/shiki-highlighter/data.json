@@ -2,7 +2,7 @@
   "disabledLanguages": [],
   "customThemeFolder": "",
   "customLanguageFolder": "",
-  "theme": "one-dark-pro",
-  "preferThemeColors": true,
+  "theme": "tokyo-night",
+  "preferThemeColors": false,
   "inlineHighlighting": true
 }
