@@ -13,7 +13,7 @@ tags:
 - [[CMPU 1012 - Sep 26th 2024]]
 
 **Week 3**
-- [[CMPU 1012 - Oct 3rd 2024]]
+- [[CMPU 1012 - Nov 7th 2024]] 
 
 **Week 4**
 - [[CMPU 1012 - Oct 10th 2024]]
