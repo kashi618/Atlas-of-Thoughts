@@ -16,74 +16,57 @@ tags:
 - (**TV**) - Wednesday
 ### Finished
 #### TV Show
-- (**TV**) - Better Call Saul
-- (**TV**) - 2 Broke Girls
-- (**TV**) - Breaking Bad
-- (**TV**) - Captain Laserhawk: A Blood Dragon Remix
-- (**TV**) - Rick and Morty Season 1-3
-- (**TV**) - Gravity Falls
+- Better Call Saul
+- 2 Broke Girls
+- Breaking Bad
+- Captain Laserhawk: A Blood Dragon Remix
+- Rick and Morty Season 1-3
+- Gravity Falls
 
 #### Movies
-- (**Movie**) - Der Untergang (Downfall)
-- (**Movie**) - Pirates of the Caribbean
+- 九品芝麻官 (Hail the Judge)
+- 回魂夜 (Out of the Dark)
+- 流浪地球 (Wandering Earth)
+- 少林足球 (Shaolin Soccer)
+- 功夫 (Kungfu Husttle)
+- 抓娃娃 (Successor)
+- Der Untergang (Downfall)
+- Pirates of the Caribbean
 	- The Curse of the Black Pearl
 	- Dead Man's Chest
 	- At World's End
 	- On Stranger Tides
 	- Dead Men Tell No Tales
-- (**Movie**) - The Lord of The Rings Extended
+- The Lord of The Rings Extended
 	- The Fellowship of the Ring
-- (**Movie**) - 九品芝麻官之白面包青天 (Hail the Judge)
-- (**Movie**) - 回魂夜 (Out of the Dark)
-- (**Movie**) - 流浪地球 (Wandering Earth)
-- (**Movie**) - 少林足球 (Shaolin Soccer)
-- (**Movie**) - 功夫 (Kungfu Husttle)
-- (**Movie**) - Shawshank Redemption
-- (**Movie**) - Sing Street
-- (**Movie**) - Kungfu Panda
+- Shawshank Redemption
+- Sing Street
+- Kungfu Panda
 	- Kungfu Panda 
 	- Kungfu Panda 2
 	- Kungfu Panda 3
-- (**Movie**) - Rush Hour
+- Rush Hour
 	- Rush Hour
-- (**Movie**) - The Goonies
-- (**Movie**) - Matilda
-- (**Movie**) - The BFG
-- (**Movie**) - Wonka
-- (**Movie**) - Toy Story
-	- Toy Story
-	- Toy Story 2
-	- Toy Story 3
-- (**Movie**) - Home Alone
+- Wonka
+- Home Alone
 	- Home Alone
 	- Home Alone 2: Lost in New York
-- (**Movie**) - Happy Never After
-- (**Movie**) - Brave
-- (**Movie**) - Talk to Me
-- (**Movie**) - Frozen
-	- Frozen
-	- Frozen 2
-- (**Movie**) - Aladdin
-- (**Movie**) - Rio 
-- (**Movie**) - Snow White and the Seven Dwarfs (1937)
-- (**Movie**) - Bambi
-- (**Movie**) - Scream
+- Talk to Me
+- Scream
 	- Scream VI
-- (**Movie**) - Wreck-It Ralph
-- successor 
-- walle
-- ratatouille 
-- elemental
-- i.s.s
-- tarot
-- dead silence 2007
+- WALL-E
+- Ratatouille
+- Elemental
+- I.S.S
+- Tarot
+- Dead Silence
+- Saw
 
 ---
 
 ### Planning
 - (**TV**) - Tom and Jerry (1940-1967)
 - (**TV**) - Rick and Morty Season 4-7
-- 
 
 #### Disney Movies
 - (**Movie**) - Beauty and the Beast
