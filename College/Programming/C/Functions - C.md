@@ -15,7 +15,7 @@ void meow(void) {
 ```
 - Creates a function that prints out "meow" to the user
 
-## Declaring Functions
+## Calling Functions
 ``` c
 #include <stdio.h>
 

@@ -2,6 +2,7 @@
 tags:
   - Variables
   - C
+  - ComputerScience
 ---
 ## Delimeters
 In order to print out variables, a demiliter is needed.
