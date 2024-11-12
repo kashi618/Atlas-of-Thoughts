@@ -11,4 +11,4 @@ In order to print out or store data inside of variables, a demiliter is needed t
 | %d        | Integer      |
 | %f        | Float        |
 | %c        | Character    |
-| %p        | [[Pointers]] |
+| %p        | [[Pointers - C]] |

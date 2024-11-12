@@ -10,7 +10,7 @@ printf("variableDelimeter",variableName);
 ```
 [[Delimeters - C]]
 
-**Example**
+## Example
 ``` c
 #include <stdio.h>
 
@@ -22,3 +22,5 @@ int main() {
 }
 ```
 
+# See Also
+[[Variables - C]]

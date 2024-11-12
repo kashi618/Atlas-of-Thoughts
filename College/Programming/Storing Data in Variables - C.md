@@ -10,7 +10,7 @@ scanf("Delimeter",variableName)
 ```
 [[Delimeters - C]]
 
-**Example**
+## Example
 ``` c
 #include <stdio.h>
 
@@ -20,3 +20,6 @@ int main () {
 	scanf("%d",var1);
 }
 ```
+
+# See Also
+[[Variables - C]]

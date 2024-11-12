@@ -22,3 +22,6 @@ int main() {
 }
 
 ```
+
+# See Also
+[[Variables - C]]

@@ -5,7 +5,7 @@ tags:
 ---
 It signals the end of a line of code, like a period in english.
 
-**Example**
+## Example
 ``` c
 int var1; char var2; float var3;
 
