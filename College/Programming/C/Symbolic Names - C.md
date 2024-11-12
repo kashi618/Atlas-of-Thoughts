@@ -1,18 +1,17 @@
 ---
 tags:
-  - TU856
-  - CMPU1025
+  - C
+  - ComputerScience
+  - Variables
 ---
-#### [[TU856 - Computer Science]]
-#### [[CMPU 1025 - Programming 1 (Sem. 1)]]
-#### [[CMPU 1025 - Programming 1 (Sem. 2)]]
-
----
-
-## Symbolic Names
 - It is used to avoid hard coding values in a program 
 - Usually all uppercase letters are used, to differentiate them from regular variables
 - The value of a fsymbolic name cannot be changed
+
+``` c
+#define VariableName Value
+```
+
 ``` c
 #define AGE 18
 #define PI 3.141592

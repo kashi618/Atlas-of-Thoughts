@@ -8,6 +8,7 @@ tags:
 - Variables are stored in RAM
 
 # Also See
-[[Initializing Variables - C]]
+[[Symbolic Names - C]]
+[[Declaring and Initializing Variables - C]]
 [[Storing Data Inside Variables Using "scanf()"]]
 [[Printing Data From Variables Using "printf()"]]
