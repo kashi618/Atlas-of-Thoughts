@@ -1,8 +1,8 @@
 {
   "statusBar": [
     {
-      "prefix": "Total: ",
-      "suffix": "",
+      "prefix": "",
+      "suffix": " words",
       "metric": {
         "type": 2,
         "counter": 0
@@ -12,10 +12,10 @@
   "altBar": [
     {
       "prefix": "",
-      "suffix": " files",
+      "suffix": " words",
       "metric": {
         "type": 2,
-        "counter": 6
+        "counter": 0
       }
     }
   ],
