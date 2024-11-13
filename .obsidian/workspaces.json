@@ -18,12 +18,14 @@
                   "state": {
                     "file": "Home Page/Home.canvas",
                     "viewState": {
-                      "x": 100,
-                      "y": -80,
-                      "zoom": -0.5753509059368649
+                      "x": 97.5,
+                      "y": -34.5,
+                      "zoom": -0.5258328443598073
                     }
                   },
-                  "pinned": true
+                  "pinned": true,
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Home"
                 }
               }
             ]
@@ -47,7 +49,9 @@
                   "type": "file-explorer",
                   "state": {
                     "sortOrder": "alphabetical"
-                  }
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
                 }
               },
               {
@@ -55,7 +59,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "recent-files",
-                  "state": {}
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
                 }
               }
             ]
@@ -70,14 +76,16 @@
                 "type": "leaf",
                 "state": {
                   "type": "graph",
-                  "state": {}
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
                 }
               }
             ]
           }
         ],
         "direction": "horizontal",
-        "width": 350.5
+        "width": 418.5
       },
       "right": {
         "id": "a004b30a86264a3d",
@@ -94,18 +102,9 @@
                   "type": "outline",
                   "state": {
                     "file": "Home Page/Home.canvas"
-                  }
-                }
-              },
-              {
-                "id": "4feeb7318868250d",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
-                  }
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Home"
                 }
               },
               {
@@ -122,7 +121,9 @@
                     "searchQuery": "",
                     "backlinkCollapsed": false,
                     "unlinkedCollapsed": true
-                  }
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Home"
                 }
               },
               {
@@ -134,7 +135,9 @@
                     "file": "Home Page/Home.canvas",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
-                  }
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Home"
                 }
               },
               {
@@ -146,32 +149,19 @@
                     "sortOrder": "frequency",
                     "showSearch": false,
                     "searchQuery": ""
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "e1c058a6e134bfa4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5c876c5f946a0a01",
-                "type": "leaf",
-                "state": {
-                  "type": "custom-frames-google-calendar",
-                  "state": {}
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
                 }
               }
             ]
           }
         ],
         "direction": "horizontal",
-        "width": 565.5
+        "width": 353.5
       },
       "left-ribbon": {
         "hiddenItems": {
-          "sheet-plus:Create excel file": false,
           "obsidian-git:Open Git source control": false,
           "graph:Open graph view": false,
           "command-palette:Open command palette": false,
@@ -185,7 +175,7 @@
         }
       },
       "active": "e7a7b303c61786dc",
-      "mtime": "2024-10-10T23:43:31+01:00"
+      "mtime": "2024-11-13T10:39:44+00:00"
     }
   },
   "active": "Workhorse"

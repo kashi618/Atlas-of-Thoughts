@@ -6,5 +6,5 @@
   "spellcheck": false,
   "defaultViewMode": "source",
   "vimMode": false,
-  "showRibbon": false
+  "showRibbon": true
 }

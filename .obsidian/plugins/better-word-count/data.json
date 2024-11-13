@@ -1,24 +1,8 @@
 {
   "statusBar": [
     {
-      "prefix": "",
-      "suffix": " words",
-      "metric": {
-        "type": 0,
-        "counter": 0
-      }
-    },
-    {
-      "prefix": " ",
-      "suffix": " characters",
-      "metric": {
-        "type": 0,
-        "counter": 1
-      }
-    },
-    {
-      "prefix": "totall",
-      "suffix": "totall",
+      "prefix": "Total: ",
+      "suffix": "",
       "metric": {
         "type": 2,
         "counter": 0
