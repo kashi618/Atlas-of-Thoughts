@@ -11,3 +11,5 @@ localStorage.setItem("valueName","value");
 ``` js
 localStorage.setItem("darkMode","enabled");
 ```
+
+https://codepen.io/mracorrea/pen/RwXEqPX?editors=1011
