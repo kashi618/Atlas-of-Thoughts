@@ -1,21 +1,35 @@
 ---
 tags:
-  - C
   - ComputerScience
   - Variables
+  - DataStructures
 ---
-## Initializing Variables
-``` c
-#include <stdio.h>
+- Piece of memory in a program used to store data
+- Variables are stored in RAM
 
-int main() {
-	// Initializing and assigning values to variables
-	int int1;
-	int int2 = 10;
-	
-	float float1;
-	float float2 = 12.321;
-}
+## Declaring Variables
+```c
+variableType variableName;
 ```
-## Rules for Naming Variables
-- Must **start** with a letter or an underscore
+
+### Example
+``` c
+int var1;
+```
+
+## Initializing Variables
+```c
+variableType variableName = value;
+```
+
+### Example
+``` c
+int var1 = 100;
+```
+
+# See Also
+# Also See
+[[Symbolic Names - C]]
+[[Declaring and Initializing Variables - C]]
+[[Storing Data in Variables - C]]
+[[Returning Variables - C]]

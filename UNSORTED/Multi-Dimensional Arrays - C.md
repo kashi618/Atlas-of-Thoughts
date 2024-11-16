@@ -1,0 +1,7 @@
+---
+tags:
+  - C
+  - ComputerScience
+  - Arrays
+---
+

@@ -6,6 +6,14 @@ tags:
 ---
 ## Creating Functions
 ``` c
+returnType functionName(parameter1, parameter2, parameter3) {
+	// code to be executed
+}
+
+```
+
+
+``` c
 #include <stdio.h>
 
 // Creates a function called meow
@@ -15,12 +23,17 @@ void meow(void) {
 ```
 - Creates a function that prints out "meow" to the user
 
-## Declaring Functions
+## Initializing Functions Before Main()
+``` c
+returnType functionName(parameters);
+```
+
+
 ``` c
 #include <stdio.h>
-
+w
 // This declares the meow function
-void meow(void);
+void meow();
 
 // This calls the meow function in main
 int main() {
@@ -28,30 +41,9 @@ int main() {
 }
 
 // This is the meow function
-void meow(void) {
+void meow() {
 	printf("meow\n");
 }
 ```
 - Declares the meow function, so that it can be called in the main function, regardless of positioning.
 - The "void meow(void)" is called the functions prototype.
-
-## Taking in Arguments for Functions
-``` c
-#include <stdio.h>
-
-void meow(int n);
-
-// Calls the function meow, 3 times
-int main() {
-	meow(3);
-}
-
-void meow(int n) {
-	// Will loop and add 1 to i, until 1 is equal to n
-	for (int i = 0; i < n; i++) {
-		printf("meow\n");
-	}
-}
-```
-
-
