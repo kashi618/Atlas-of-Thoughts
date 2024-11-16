@@ -14,6 +14,13 @@ tags:
 ### Watching
 - (**TV**) - Game of Thrones
 - (**TV**) - Wednesday
+
+
+- The Menu
+- Mad God 
+- Love, Death, and Robots
+- Queens gambit
+- 
 ### Finished
 #### TV Show
 - Better Call Saul
