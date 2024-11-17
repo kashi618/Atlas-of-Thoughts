@@ -6,7 +6,7 @@ tags:
 ---
 - It is used to avoid hard coding values in a program 
 - Usually all uppercase letters are used, to differentiate them from regular variables
-- The value of a fsymbolic name cannot be changed
+- The value of a symbolic name cannot be changed
 
 ``` c
 #define VariableName Value
@@ -18,7 +18,7 @@ tags:
 #define LETTER 'A'
 
 int main() {
-	printf("%d%d%char",AGE,PI,LETTer)
+	printf("%d%d%char",AGE,PI,LETTER)
 }
 
 ```
