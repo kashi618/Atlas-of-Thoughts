@@ -34,7 +34,7 @@ hii
 hii
 hii
 hii
-hiiw
+hii
 ```
 
 ## Do While Loop
