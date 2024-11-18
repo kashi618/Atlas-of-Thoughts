@@ -1,5 +1,4 @@
 [
-  "obsidian-style-settings",
   "dataview",
   "editing-toolbar",
   "colored-tags",
@@ -15,5 +14,7 @@
   "cm-editor-syntax-highlight-obsidian",
   "various-complements",
   "cm-typewriter-scroll-obsidian",
-  "better-word-count"
+  "better-word-count",
+  "file-tree-alternative",
+  "gemmy"
 ]

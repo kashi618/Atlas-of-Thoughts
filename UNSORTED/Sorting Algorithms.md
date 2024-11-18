@@ -4,6 +4,7 @@ A < B , A = B , A > B is true
 ## Law of Transitivity
 A < B and B < C, then A < C
 
+## Greatest Common Factor
 ``` python
 num1 = 321
 num2 = 123
@@ -23,5 +24,26 @@ for foundGCD != true
 	a = b
 	b = r
 	
-END FOR
+# END FOR
 ```
+
+
+## Bubble Sort
+``` python
+while i<N-1:
+
+	j = 0
+	while k<N-1-i:
+		if(A[j]>A[j+1]):
+			t=A[j]
+			A[j]=A[j+1]
+			A[j+1]=t
+		j=j+1
+	i=i+1
+```
+```
+OUTPUT:
+
+```
+
+
