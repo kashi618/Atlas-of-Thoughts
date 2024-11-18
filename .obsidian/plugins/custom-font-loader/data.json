@@ -1,7 +1,0 @@
-{
-  "font_folder": ".obsidian/fonts/",
-  "font": "none",
-  "force_mode": false,
-  "custom_css_mode": false,
-  "custom_css": ":root * {\n\t\t--font-default: None;\n\t\t--default-font: None;\n\t\t--font-family-editor: None;\n\t\t--font-monospace-default: None,\n\t\t--font-interface-override: None,\n\t\t--font-text-override: None,\n\t\t--font-monospace-override: None,\t\n\t}\n"
-}

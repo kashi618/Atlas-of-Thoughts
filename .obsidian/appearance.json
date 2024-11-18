@@ -9,5 +9,7 @@
   ],
   "baseFontSizeAction": false,
   "cssTheme": "Tokyo Night",
-  "translucency": false
+  "translucency": false,
+  "interfaceFontFamily": "Open Sauce One",
+  "monospaceFontFamily": "JetBrains Mono"
 }

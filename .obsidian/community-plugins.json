@@ -14,8 +14,6 @@
   "obsidian-file-color",
   "cm-editor-syntax-highlight-obsidian",
   "various-complements",
-  "shiki-highlighter",
   "cm-typewriter-scroll-obsidian",
-  "better-word-count",
-  "custom-font-loader"
+  "better-word-count"
 ]
