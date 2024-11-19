@@ -1,5 +1,0 @@
-node_modules
-.github
-package-lock.json
-main.js
-src/quotes/quotes.ts
