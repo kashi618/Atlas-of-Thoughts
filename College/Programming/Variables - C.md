@@ -28,6 +28,7 @@ int var1 = 100;
 ```
 
 # See Also
+# Also See
 [[Symbolic Names - C]]
 [[Declaring and Initializing Variables - C]]
 [[Storing Data in Variables - C]]

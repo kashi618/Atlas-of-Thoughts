@@ -33,4 +33,3 @@ int main () {
 # See Also
 [[Variables - C]]
 [[Dereference Operators - C]]
-[[Pointers and Arrays - C]]

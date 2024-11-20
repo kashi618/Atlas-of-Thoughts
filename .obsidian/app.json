@@ -6,9 +6,5 @@
   "spellcheck": false,
   "defaultViewMode": "source",
   "vimMode": false,
-  "showRibbon": false,
-  "newFileLocation": "folder",
-  "newFileFolderPath": "UNSORTED",
-  "showUnsupportedFiles": true,
-  "attachmentFolderPath": "Other"
+  "showRibbon": false
 }

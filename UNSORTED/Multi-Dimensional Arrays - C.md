@@ -1,5 +1,7 @@
 ---
 tags:
+  - C
   - ComputerScience
-  - JavaScript
+  - Arrays
 ---
+

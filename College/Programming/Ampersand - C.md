@@ -14,6 +14,6 @@ int *ptr1;
 printf("%p",ptr1);
 ```
 
-# See Also
+# Also See
 [[Pointers - C]]
 [[Storing Data in Variables - C]]

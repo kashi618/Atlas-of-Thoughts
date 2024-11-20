@@ -1,8 +1,8 @@
 {
   "statusBar": [
     {
-      "prefix": "| There's ",
-      "suffix": " Words Total! |",
+      "prefix": "",
+      "suffix": " words",
       "metric": {
         "type": 2,
         "counter": 0
@@ -11,8 +11,8 @@
   ],
   "altBar": [
     {
-      "prefix": "| There's ",
-      "suffix": " Words Total! |",
+      "prefix": "",
+      "suffix": " words",
       "metric": {
         "type": 2,
         "counter": 0
