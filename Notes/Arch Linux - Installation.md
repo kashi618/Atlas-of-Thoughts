@@ -3,10 +3,6 @@ tags:
   - Linux
   - other
 ---
-nvme0n1p5 boot
-nvme0n1p8 swap
-nvme0n1p9 root
-
 
 ## set console layout and font
 ``` bash
