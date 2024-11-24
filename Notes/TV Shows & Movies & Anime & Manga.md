@@ -20,7 +20,6 @@ tags:
 - Mad God 
 - Love, Death, and Robots
 - Queens gambit
-- 
 ### Finished
 #### TV Show
 - Better Call Saul
@@ -68,7 +67,8 @@ tags:
 - Tarot
 - Dead Silence
 - Saw
-- saw 2
+- Saw 2
+- Pan's Labyrinth
 
 ---
 
@@ -98,7 +98,6 @@ tags:
 	- Insidious: Chapter 3
 	- Insidious: The Last Key
 	- Insidious: The Red Door
-- (**Movie**) - Pan's Labyrinth
 - (**Movie**) - Blair Witch
 - (**Movie**) - IT
 - (**Movie**) - The Exorcist
