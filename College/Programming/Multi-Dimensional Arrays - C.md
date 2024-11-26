@@ -4,7 +4,7 @@ tags:
   - ComputerScience
   - Arrays
 ---
-## Initializing Mult-Dimensional Arrays
+## 2D Arrays
 ```c
 dataType arrayName[ROW][COLUMN];
 ```
