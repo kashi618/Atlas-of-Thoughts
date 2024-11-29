@@ -10,14 +10,69 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "canvas",
+              "state": {
+                "file": "Home Page/Home.canvas",
+                "viewState": {
+                  "x": 97.5,
+                  "y": 460.0767657992565,
+                  "zoom": -1.5628949385813522
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "4bbcc1383e0c4829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Programming/Subscript and Pointer Notation - C.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Subscript and Pointer Notation - C"
+            }
+          },
+          {
+            "id": "869fae1b9135cf94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNSORTED/Dynamic Memory Allocation - C.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dynamic Memory Allocation - C"
+            }
+          },
+          {
+            "id": "2ee8edff6474cada",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNSORTED/free() - c.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "free() - c"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.5
+    "width": 418.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -100,10 +156,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNSORTED/Leading Numbers - C.md"
+                "file": "UNSORTED/Dynamic Memory Allocation - C.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Leading Numbers - C"
+              "title": "Outline of Dynamic Memory Allocation - C"
             }
           },
           {
@@ -174,38 +230,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "869fae1b9135cf94",
   "lastOpenFiles": [
-    "UNSORTED/Leading Numbers - C.md",
-    "UNSORTED/Rounding Variables - C.md",
-    "College/Programming/Escape Characters - C.md",
-    "College/Programming/Pointers - C.md",
+    "UNSORTED/free() - c.md",
+    "UNSORTED/Dynamic Memory Allocation - C.md",
     "Home Page/Home.canvas",
+    "College/Programming/Subscript and Pointer Notation - C.md",
+    "College/Programming/sizeof() - c.md",
+    "College/Programming/Data Types.md",
+    "College/Programming/Random Data - C.md",
+    "College/Programming/Arrays - C.md",
+    "College/Programming/Declaring and Initializing - C.md",
+    "College/Programming/Ampersand - C.md",
     "College/Programming/Multi-Dimensional Arrays - C.md",
+    "College/Programming/Pointers - C.md",
+    "College/Programming/Variables - C.md",
+    "UNSORTED/Rounding Variables - C.md",
+    "UNSORTED/Leading Numbers - C.md",
+    "College/Programming/Escape Characters - C.md",
     "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Nov 5th 2024.md",
     "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md",
     "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Nov 11th 2024.md",
     "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Nov 12th 2024.md",
     "College/TU856 - Computer Science.md",
     "College/Programming/Pointers and Arrays - C.md",
-    "College/Programming/Subscript and Pointer Notation - C.md",
     "College/Programming/Symbolic Names - C.md",
-    "College/Programming/Variables - C.md",
-    "College/Programming/Ampersand - C.md",
     "College/Program Design/Sorting Algorithms.md",
-    "UNSORTED/Dynamic Memory Allocation - C.md",
-    "College/Programming/sizeof() - c.md",
     "UNSORTED/DY.md",
     "UNSORTED/Discourse on Methods.md",
     "conflict-files-obsidian-git.md",
-    "Notes/Arch Linux - Installation.md",
-    "UNSORTED/Multi-Dimensional Arrays - C.md",
     "PDF's/C Programming Language - 2nd Edition (OCR).pdf",
     "PDF's",
-    "Notes/Edison Effect.md",
-    "College/Programming/Delimeters - C.md",
     "College/Program Design",
-    "College/IT Fundamentals/Types of Software.md",
     "College/IT Fundamentals",
     "C Programming Language - 2nd Edition (OCR).pdf",
     "UNSORTED/C Programming Language - 2nd Edition (OCR).pdf",

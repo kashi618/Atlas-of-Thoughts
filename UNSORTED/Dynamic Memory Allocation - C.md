@@ -15,7 +15,11 @@ pointerName = malloc(size);
 ```
 - **size** is the toal number of **bytes** required for the memory block
 - You can use [[sizeof() - c|sizeof()]] to find the amount of bytes in a particular data type.
+  OR
+  Check here [[Data Types]]
 - Note: once the memotry block is allocated, it contains [[Random Data - C|random data]]
+- If FAILED, then it returns **NULL**
+- Don't for get to free the memory block using [[free() - c]]
 
 ### Example
 ``` c
@@ -53,11 +57,28 @@ int main () {
 		}		
 	}
 	
+	// Returns what the user inputted
+	prinff("You have entered: )");
 	for (i=0; i<numbers; i++) {
-	printf()}
+		printf("%d", *(ptr+1));
+	}
+	
+	// Frees up the allocated memory block
+	free(ptr);
+	
+	return 0;
 }
 ```
 
+## calloc()
+``` c
+#include <stdio.h>
+pointerName = calloc(number_of_data_items, size_of_each_data_item);
+```
+- Allocates a contiguous block of memory just like malloc()
+- Takes two prompts, the amount of data you want to store, and the size of each individual item.
+- When calloc() initializes a memory block, it overwrites the block with 0.
+- Basically just better than malloc(), due to needing to write less code, so just use calloc()
 
 # See Also
 [[Pointers - C]]

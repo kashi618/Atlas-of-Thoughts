@@ -4,6 +4,13 @@ tags:
   - Arrays
   - ComputerScience
 ---
+## Declaring Arrays
+``` c
+dataType arr[size];
+```
+
+## Declaring Array's without Size
+[[Dynamic Memory Allocation - C]]
 
 ## Contiguous
 The values in an array is a contiguous block of data
