@@ -14,12 +14,10 @@ Allocated a contiguous block of memory, and returns a pointer to the start of th
 pointerName = malloc(size);
 ```
 - **size** is the toal number of **bytes** required for the memory block
-- You can use [[sizeof() - c|sizeof()]] to find the amount of bytes in a particular data type.
-  OR
-  Check here [[Data Types]]
-- Note: once the memotry block is allocated, it contains [[Random Data - C|random data]]
-- If FAILED, then it returns **NULL**
-- Don't for get to free the memory block using [[free() - c]]
+	- You can use [[sizeof() - c|sizeof()]] to find the amount of bytes in a particular data type.
+	- Or you can calculate it yourself, [[Data Types]]
+- malloc() initializes the block of memory with [[Random Data - C|random data]].
+- Don't forget to free the memory block using [[free() - c]]
 
 ### Example
 ``` c
@@ -37,7 +35,7 @@ int main () {
 	printf("How many numbers will you enter? ");
 	scanf("%d",&numbers);	
 	
-	// Calcualtes the amount of bytes neede
+	// Calcualtes the amount of bytes needed
 	num_bytes = numbesr * sizeof(int);
 	
 	// Allocates a block of memory
@@ -71,13 +69,13 @@ int main () {
 ```
 
 ## calloc()
+Allocates a contiguous block of memory just like malloc()
 ``` c
 #include <stdio.h>
 pointerName = calloc(number_of_data_items, size_of_each_data_item);
 ```
-- Allocates a contiguous block of memory just like malloc()
 - Takes two prompts, the amount of data you want to store, and the size of each individual item.
-- When calloc() initializes a memory block, it overwrites the block with 0.
+- When calloc() initializes a memory block, it overwrites the **block** with 0.
 - Basically just better than malloc(), due to needing to write less code, so just use calloc()
 
 # See Also
