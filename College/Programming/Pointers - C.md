@@ -30,6 +30,9 @@ int main () {
 }
 ```
 
+## Uses
+Used for [[Dynamic Memory Allocation - C|dynamic memory allocation]], for storing values.
+
 # See Also
 [[Variables - C]]
 [[Dereference Operators - C]]

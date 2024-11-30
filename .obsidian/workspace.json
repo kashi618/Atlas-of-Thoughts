@@ -72,8 +72,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5f252b2efa3321c0",
@@ -110,10 +109,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "file": "conflict-files-obsidian-git.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -182,15 +181,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d828e5b8bc561a69",
   "lastOpenFiles": [
-    "Notes/MHW Large Monster Checklist.md",
     "Home Page/Home.canvas",
+    "conflict-files-obsidian-git.md",
+    "UNSORTED/free() - c.md",
+    "UNSORTED/Leading Numbers - C.md",
+    "UNSORTED/Dynamic Memory Allocation - C.md",
+    "College/Programming/sizeof() - c.md",
+    "College/Programming/Escape Characters - C.md",
+    "College/Programming/Data Types.md",
+    "Notes/MHW Large Monster Checklist.md",
     "Notes/TV Shows & Movies & Anime & Manga.md",
     "UNSORTED/Discourse on Methods.md",
     "UNSORTED/Rounding Variables - C.md",
     "UNSORTED/Escape Characters - C.md",
-    "conflict-files-obsidian-git.md",
     "PDF's/C Programming Language - 2nd Edition (OCR).pdf",
     "PDF's",
     "Notes/Edison Effect.md",
@@ -208,14 +213,7 @@
     "College/Web Development/Loops - JavaScript.md",
     "College/Web Development/Dates - JavaScript.md",
     "College/Web Development/Clock - JavaScript.md",
-    "College/Web Development/Calculator With JS and Buttons.md",
     "C Programming Language - 2nd Edition (OCR).pdf",
-    "College/Programming/Arrays - C.md",
-    "College/Programming/Declaring and Initializing - C.md",
-    "College/Programming/Data Structures.md",
-    "College/Programming/Functions - C.md",
-    "College/Programming/Dereference Operators - C.md",
-    "College/Programming/Random Data - C.md",
     "smart-chats",
     "College/Web Development",
     "College/Unsorted Notes/CMPU 1031 - Web Development 1",

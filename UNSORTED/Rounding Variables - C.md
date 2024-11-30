@@ -4,22 +4,11 @@ tags:
   - ComputerScience
 ---
 ## Rounding Float Variables
-``` c
-printf(".f")
-```
-
+Rounding a float to 2 decimal places
 
 ``` c
-#include <stdio.h>
-
-int main () {
-	
-	
-	
-}
+printf(".2f")
 ```
-
-
 
 # See Also
 [[Variables - C]]

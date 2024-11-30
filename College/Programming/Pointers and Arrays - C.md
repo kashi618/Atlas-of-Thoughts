@@ -28,7 +28,7 @@ a+3    =    &a[3];
 ```
 
 ## Arrays and Dereferencing
-The value of an array, can also be found by dereferncing the memory address, which can be found above.
+The value of an array, can also be found by dereferencing the memory address, which can be found above.
 
 ```
 *a       =    a[0];
