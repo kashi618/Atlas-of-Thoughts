@@ -3,12 +3,13 @@
   "readableLineLength": true,
   "strictLineBreaks": false,
   "showLineNumber": true,
-  "spellcheck": false,
+  "spellcheck": true,
   "defaultViewMode": "source",
-  "vimMode": true,
+  "vimMode": false,
   "showRibbon": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "UNSORTED",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "Other"
+  "attachmentFolderPath": "Other",
+  "rightToLeft": false
 }

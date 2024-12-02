@@ -17,7 +17,7 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": 97.5,
-                  "y": -34.5,
+                  "y": -389.7500667556743,
                   "zoom": -0.08553539267922523
                 }
               },
@@ -27,18 +27,33 @@
             }
           },
           {
-            "id": "39a2a46c774df001",
+            "id": "9c510d9eafc97476",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNSORTED/Dynamic Memory Allocation - C.md",
+                "file": "UNSORTED/Forms - HTML.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dynamic Memory Allocation - C"
+              "title": "Forms - HTML"
+            }
+          },
+          {
+            "id": "426666bf2eaa568d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNSORTED/Tables - HTML.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tables - HTML"
             }
           }
         ],
@@ -110,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.5
+    "width": 418.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -126,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNSORTED/Dynamic Memory Allocation - C.md"
+                "file": "UNSORTED/Forms - HTML.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Dynamic Memory Allocation - C"
+              "title": "Outline of Forms - HTML"
             }
           },
           {
@@ -200,35 +216,40 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "39a2a46c774df001",
+  "active": "9c510d9eafc97476",
   "lastOpenFiles": [
-    "UNSORTED/Untitled.md",
-    "UNSORTED/malloc() - c.md",
-    "UNSORTED/Dynamic Memory Allocation - C.md",
-    "Home Page/Home.canvas",
-    "UNSORTED/free() - c.md",
-    "College/Programming/Subscript and Pointer Notation - C.md",
-    "College/Programming/sizeof() - c.md",
-    "College/Programming/Data Types.md",
-    "College/Programming/Random Data - C.md",
-    "College/Programming/Arrays - C.md",
-    "College/Programming/Declaring and Initializing - C.md",
-    "College/Programming/Ampersand - C.md",
-    "College/Programming/Multi-Dimensional Arrays - C.md",
-    "College/Programming/Pointers - C.md",
+    "UNSORTED/Tables - HTML.md",
+    "UNSORTED/Forms - HTML.md",
     "College/Programming/Variables - C.md",
-    "UNSORTED/Rounding Variables - C.md",
-    "UNSORTED/Leading Numbers - C.md",
-    "College/Programming/Escape Characters - C.md",
-    "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Nov 5th 2024.md",
-    "College/Modules/CMPU 1025 - Programming 1 (Sem. 1).md",
-    "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Nov 11th 2024.md",
-    "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Nov 12th 2024.md",
-    "College/TU856 - Computer Science.md",
-    "College/Programming/Pointers and Arrays - C.md",
-    "College/Programming/Symbolic Names - C.md",
-    "College/Program Design/Sorting Algorithms.md",
-    "UNSORTED/DY.md",
+    "UNSORTED/Declaring and Initializing Variables - C.md",
+    "College/Programming/Leading Numbers - C.md",
+    "College/Programming/free() - c.md",
+    "UNSORTED/Descartes - Meditations on First Philosophy.md",
+    "College/Web Development/Text Boxes - JavaScript.md",
+    "College/Web Development/Printing Variables - JavaScript.md",
+    "College/Web Development/Objects - JavaScript.md",
+    "College/Web Development/Loops - JavaScript.md",
+    "College/Web Development/Literals - JavaScript.md",
+    "College/Web Development/Functions - JavaScript.md",
+    "College/Web Development/Declaring Variables - JavaScript.md",
+    "College/Web Development/Dates - JavaScript.md",
+    "College/Web Development/Clock - JavaScript.md",
+    "College/Web Development/Calculator With JS and Buttons.md",
+    "College/Web Development/Browser Storage - JavaScript.md",
+    "College/Web Development/Arrays - JavaScript.md",
+    "College/Programming/Ampersand - C.md",
+    "College/Programming/Arrays - C.md",
+    "College/Programming/Compiler.md",
+    "College/Programming/Data Types.md",
+    "College/Programming/Declaring and Initializing - C.md",
+    "College/Programming/Delimeters - C.md",
+    "College/Programming/Dereference Operators - C.md",
+    "Home Page/Home.canvas",
+    "Other/Pasted image 20241129152905.png",
+    "Other/Pasted image 20241129152825.png",
+    "Other/Pasted image 20241129152735.png",
+    "Other/Pasted image 20241129152619.png",
+    "Other/Pasted image 20241129152441.png",
     "PDF's/C Programming Language - 2nd Edition (OCR).pdf",
     "PDF's",
     "College/Program Design",
