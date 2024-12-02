@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -20,11 +21,43 @@
                   "zoom": -0.03351518675067513
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "e1abec014c603aa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/MHW Large Monster Checklist.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MHW Large Monster Checklist"
+            }
+          },
+          {
+            "id": "3b9f9f7ade283872",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNSORTED/MHW Long Sword.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MHW Long Sword"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,10 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "file": "UNSORTED/MHW Long Sword.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of MHW Long Sword"
             }
           },
           {
@@ -180,8 +213,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3b9f9f7ade283872",
   "lastOpenFiles": [
+    "UNSORTED/MHW Long Sword.md",
     "Notes/MHW Large Monster Checklist.md",
     "Home Page/Home.canvas",
     "conflict-files-obsidian-git.md",
