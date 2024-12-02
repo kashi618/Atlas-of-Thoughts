@@ -17,7 +17,7 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": 97.5,
-                  "y": -389.7500667556743,
+                  "y": -34.5,
                   "zoom": -0.08553539267922523
                 }
               },
@@ -25,39 +25,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "9c510d9eafc97476",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNSORTED/Forms - HTML.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Forms - HTML"
-            }
-          },
-          {
-            "id": "426666bf2eaa568d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNSORTED/Tables - HTML.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tables - HTML"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.5,
-    "collapsed": true
+    "width": 418.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -142,10 +110,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNSORTED/Forms - HTML.md"
+                "file": "Home Page/Home.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of Forms - HTML"
+              "title": "Outline of Home"
             }
           },
           {
@@ -216,10 +184,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9c510d9eafc97476",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "UNSORTED/Tables - HTML.md",
     "UNSORTED/Forms - HTML.md",
+    "UNSORTED/Tables - HTML.md",
     "College/Programming/Variables - C.md",
     "UNSORTED/Declaring and Initializing Variables - C.md",
     "College/Programming/Leading Numbers - C.md",
