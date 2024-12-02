@@ -18,15 +18,31 @@
                 "viewState": {
                   "x": 97.5,
                   "y": -34.5,
-                  "zoom": -0.08553539267922523
+                  "zoom": -0.03351518675067513
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "0c5e9fa66d458516",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/MHW Large Monster Checklist.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MHW Large Monster Checklist"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +54,7 @@
       {
         "id": "1b4e08c64f3212e8",
         "type": "tabs",
-        "dimension": 72.03471552555449,
+        "dimension": 60.44399596367306,
         "children": [
           {
             "id": "d828e5b8bc561a69",
@@ -53,6 +69,16 @@
             }
           },
           {
+            "id": "daf3397cc26a1875",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          },
+          {
             "id": "96146b79b47a45f2",
             "type": "leaf",
             "state": {
@@ -61,16 +87,6 @@
               "icon": "clock",
               "title": "Recent Files"
             }
-          },
-          {
-            "id": "88a91c121b7298f2",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
-            }
           }
         ],
         "currentTab": 2
@@ -78,7 +94,7 @@
       {
         "id": "5f252b2efa3321c0",
         "type": "tabs",
-        "dimension": 27.965284474445514,
+        "dimension": 39.55600403632694,
         "children": [
           {
             "id": "370a24fabb7b70f5",
@@ -94,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.5
+    "width": 367.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -110,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "file": "Notes/MHW Large Monster Checklist.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of MHW Large Monster Checklist"
             }
           },
           {
@@ -122,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks"
             }
           },
           {
@@ -141,12 +156,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links"
             }
           },
           {
@@ -167,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
+    "width": 394.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -184,49 +198,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0c5e9fa66d458516",
   "lastOpenFiles": [
-    "UNSORTED/Forms - HTML.md",
-    "UNSORTED/Tables - HTML.md",
-    "College/Programming/Variables - C.md",
-    "UNSORTED/Declaring and Initializing Variables - C.md",
-    "College/Programming/Leading Numbers - C.md",
-    "College/Programming/free() - c.md",
-    "UNSORTED/Descartes - Meditations on First Philosophy.md",
-    "College/Web Development/Text Boxes - JavaScript.md",
-    "College/Web Development/Printing Variables - JavaScript.md",
-    "College/Web Development/Objects - JavaScript.md",
-    "College/Web Development/Loops - JavaScript.md",
-    "College/Web Development/Literals - JavaScript.md",
-    "College/Web Development/Functions - JavaScript.md",
-    "College/Web Development/Declaring Variables - JavaScript.md",
-    "College/Web Development/Dates - JavaScript.md",
-    "College/Web Development/Clock - JavaScript.md",
-    "College/Web Development/Calculator With JS and Buttons.md",
-    "College/Web Development/Browser Storage - JavaScript.md",
-    "College/Web Development/Arrays - JavaScript.md",
-    "College/Programming/Ampersand - C.md",
-    "College/Programming/Arrays - C.md",
-    "College/Programming/Compiler.md",
-    "College/Programming/Data Types.md",
-    "College/Programming/Declaring and Initializing - C.md",
-    "College/Programming/Delimeters - C.md",
-    "College/Programming/Dereference Operators - C.md",
     "Home Page/Home.canvas",
-    "Other/Pasted image 20241129152905.png",
-    "Other/Pasted image 20241129152825.png",
-    "Other/Pasted image 20241129152735.png",
-    "Other/Pasted image 20241129152619.png",
-    "Other/Pasted image 20241129152441.png",
+    "conflict-files-obsidian-git.md",
+    "UNSORTED/free() - c.md",
+    "UNSORTED/Leading Numbers - C.md",
+    "UNSORTED/Dynamic Memory Allocation - C.md",
+    "College/Programming/sizeof() - c.md",
+    "College/Programming/Escape Characters - C.md",
+    "College/Programming/Data Types.md",
+    "Notes/MHW Large Monster Checklist.md",
+    "Notes/TV Shows & Movies & Anime & Manga.md",
+    "UNSORTED/Discourse on Methods.md",
+    "UNSORTED/Rounding Variables - C.md",
+    "UNSORTED/Escape Characters - C.md",
     "PDF's/C Programming Language - 2nd Edition (OCR).pdf",
     "PDF's",
+    "Notes/Edison Effect.md",
+    "College/Programming/Subscript and Pointer Notation - C.md",
+    "College/Programming/Pointers and Arrays - C.md",
+    "College/Programming/Multi-Dimensional Arrays - C.md",
+    "College/Programming/Delimeters - C.md",
+    "College/Program Design/Sorting Algorithms.md",
     "College/Program Design",
+    "College/IT Fundamentals/Types of Software.md",
+    "College/IT Fundamentals/Software Acquisition.md",
+    "College/IT Fundamentals/Moore's Law.md",
+    "College/IT Fundamentals/IT Complexity.md",
     "College/IT Fundamentals",
+    "College/Web Development/Loops - JavaScript.md",
+    "College/Web Development/Dates - JavaScript.md",
+    "College/Web Development/Clock - JavaScript.md",
     "C Programming Language - 2nd Edition (OCR).pdf",
-    "UNSORTED/C Programming Language - 2nd Edition (OCR).pdf",
-    "UNSORTED/New Tab.html",
-    "New Tab.html",
-    "New Tab_files",
-    "Home Page/Memento Mori - Polyphia.gif"
+    "smart-chats",
+    "College/Web Development",
+    "College/Unsorted Notes/CMPU 1031 - Web Development 1",
+    "College/Unsorted Notes/CMPU 1005 - Communications",
+    "UNSORTED",
+    "Other/Pasted image 20241115153653.png",
+    "Other/Pasted image 20241115153526.png",
+    "Other/Pasted image 20241115153412.png",
+    "Other/Pasted image 20241011161735.png",
+    "Pasted image 20241011161735.png"
   ]
 }
