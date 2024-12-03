@@ -6,7 +6,7 @@ tags:
 
 ## set console layout and font
 ``` bash
-loadkeys uk
+loadkeys us
 
 setfont ter-132b
 ```
@@ -54,7 +54,7 @@ cgdisk /dev/{DiskName}
 ``` bash
 {EnterKey},  1GiB,        ef00,  boot
 {EnterKey},  8GiB,        8200,  swap
-{EnterKey},  30GiB,       8300,  root
+{EnterKey},  40GiB,       8300,  root
 {EnterKey},  {EnterKey},  8300,  home
 ```
 - Boot = Partition 1
@@ -91,7 +91,7 @@ cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.backup
 
 sudo pacman -Sy pacman-contrib
 
-rankmirrors -n 6 /etc/pacman.d/mirrorlist.backup > /etc/pacman.d/mirrorlist
+rankmirrors -n 10 /etc/pacman.d/mirrorlist
 ```
 
 
@@ -99,7 +99,7 @@ rankmirrors -n 6 /etc/pacman.d/mirrorlist.backup > /etc/pacman.d/mirrorlist
 ``` bash
 pacstrap -K /mnt base linux linux-firmware base-devel networkmanager nano intel-ucode timeshift sudo
 ```
-- Remove "intel-ucode" if not using intel cpu
+- **NOTE**: Remove "intel-ucode" if not using intel cpu
 
 ## generating fstab
 ``` bash
@@ -142,8 +142,10 @@ nano /etc/vconsole.conf
 
 ## create hostname and password
 ``` bash
-nano /etc/{Hostname}
-
+nano /etc/hostname
+```
+- Write your hostname inside of this file
+```bash
 passwd
 ```
 
@@ -162,6 +164,7 @@ EDITOR=nano visudo
 ## pacman with 32bit support
 ``` bash
 nano /etc/pacman.conf
+pacman -Syu
 ```
 - Uncomment "Include = /etc/pacman.d/mirrorlist" under the heading "multilib"
 
@@ -181,16 +184,66 @@ nano /boot/loader/entries/arch.conf
 	title Arch
 	linux /vmlinuz-linux
 	initrd /initramfs-linux.img
-	options root=/dev/DEVICE3 rw
+	options root=UUID={uuid of root drive} rw
+```
+- You can find the uuid of the root drive using
+  `lsblk -f`
+
+## for nvidia cards
+```bash
+sudo pacman -S nvidia-dkms libglvnd nvidia-utils opencl-nvidia lib32-libglvnd lib32-nvidia-utils lib32-opencl-nvidia nvidia-settings
+```
+
+- Also install `linux-headers` if getting error message with headers
+
+### add vital modules
+```bash
+sudo nano /etc/mkinitcpio.conf
+```
+- Inside "MODULES=()" add 
+  `MODULES=(nvidia nvidia_modeset nvidia_uvm nvidia_drm)`
+
+### make modules load at bootloader
+```bash
+nano /boot/loader/entries/arch.conf
+```
+- Add this after the rw
+```
+options root=/dev/{Part.3} rw nvidia-drm/modeset=1
+```
+
+### add hooks for updating drivers
+```bash
+sudo mkdir /etc/pacman.d/hooks
+sudo nano /etc/pacman.d/hooks/nvidia.hook
+```
+- Add this
+```txt
+[Trigger]
+Operation=Install
+Operation=Upgrade
+Operation=Remove
+Type=Package
+Target=nvidia
+
+[Action]
+Depends=mkinitcpio
+When=PostTransaction
+Exec=/usr/bin/mkinitcpio -P
 ```
 
 ## exiting chroot, rebooting
 ``` bash
 exit
+umount -R /mnt
 reboot
 ```
 
 
 ## don't forget to enable network manager
+```bash
 systemctl enable NetworkManager.service
+systemctl start NetworkManager.service
+nmtui
+```
 
