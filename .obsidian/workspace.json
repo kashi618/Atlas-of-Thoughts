@@ -40,24 +40,9 @@
               "icon": "lucide-file",
               "title": "Arch Linux - Installation"
             }
-          },
-          {
-            "id": "5cc4e3ecff5fb5ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,10 +125,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Notes/Arch Linux - Installation.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Arch Linux - Installation"
             }
           },
           {
@@ -212,7 +197,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5cc4e3ecff5fb5ad",
+  "active": "05edcf1d5bb29692",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Notes/Arch Linux - Installation.md",
