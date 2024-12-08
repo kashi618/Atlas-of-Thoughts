@@ -5,11 +5,12 @@
   "showLineNumber": true,
   "spellcheck": true,
   "defaultViewMode": "source",
-  "vimMode": false,
+  "vimMode": true,
   "showRibbon": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "UNSORTED",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "Other",
-  "rightToLeft": false
+  "rightToLeft": false,
+  "promptDelete": false
 }

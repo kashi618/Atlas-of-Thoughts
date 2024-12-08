@@ -31,7 +31,8 @@
     "iconsInLinksEnabled": true,
     "debugMode": false,
     "iconInTitlePosition": "above",
-    "lucideIconPackType": "native"
+    "lucideIconPackType": "native",
+    "useInternalPlugins": false
   },
   "Templates/2) Area": "LiArrowRightFromLine",
   "Templates/4) Archive": "LiArrowRightFromLine",

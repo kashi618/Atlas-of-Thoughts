@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Exam - IT Fundamentals - 2024",
+      "path": "UNSORTED/Exam - IT Fundamentals - 2024.md"
+    },
+    {
+      "basename": "Decimal Places and Leading Zeros - C",
+      "path": "UNSORTED/Decimal Places and Leading Zeros - C.md"
+    },
+    {
+      "basename": "obamna",
+      "path": "Other/obamna.gif"
+    },
+    {
+      "basename": "Win11 - Software",
+      "path": "UNSORTED/Win11 - Software.md"
+    },
+    {
       "basename": "Forms - HTML",
       "path": "UNSORTED/Forms - HTML.md"
     },
@@ -15,10 +35,6 @@
     {
       "basename": "Leading Numbers - C",
       "path": "College/Programming/Leading Numbers - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "CompSci Certificates",

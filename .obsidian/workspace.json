@@ -18,31 +18,15 @@
                 "viewState": {
                   "x": 97.5,
                   "y": -34.5,
-                  "zoom": -1.4224690065919725
+                  "zoom": -0.49352753036497554
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "05edcf1d5bb29692",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Arch Linux - Installation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arch Linux - Installation"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -54,7 +38,7 @@
       {
         "id": "1b4e08c64f3212e8",
         "type": "tabs",
-        "dimension": 60.44399596367306,
+        "dimension": 38.52459016393443,
         "children": [
           {
             "id": "d828e5b8bc561a69",
@@ -69,7 +53,7 @@
             }
           },
           {
-            "id": "daf3397cc26a1875",
+            "id": "2cebbfd02ff01c1f",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -78,6 +62,24 @@
               "title": "File Tree"
             }
           },
+          {
+            "id": "daf3397cc26a1875",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "6c11478956cecf76",
+        "type": "tabs",
+        "dimension": 37.90983606557377,
+        "children": [
           {
             "id": "96146b79b47a45f2",
             "type": "leaf",
@@ -93,7 +95,7 @@
       {
         "id": "5f252b2efa3321c0",
         "type": "tabs",
-        "dimension": 39.55600403632694,
+        "dimension": 23.565573770491806,
         "children": [
           {
             "id": "370a24fabb7b70f5",
@@ -125,10 +127,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Arch Linux - Installation.md"
+                "file": "UNSORTED/Exam - IT Fundamentals - 2024.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Arch Linux - Installation"
+              "title": "Outline of Exam - IT Fundamentals - 2024"
             }
           },
           {
@@ -185,25 +187,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "file-tree-alternative:File Tree Alternative Plugin": false,
-      "obsidian-git:Open Git source control": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
       "canvas:Create new canvas": false,
       "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "05edcf1d5bb29692",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Notes/Arch Linux - Installation.md",
+    "UNSORTED/Exam - IT Fundamentals - 2024.md",
+    "UNSORTED/Decimal Places and Leading Zeros - C.md",
+    "Other/obamna.gif",
     "Home Page/Home.canvas",
+    "UNSORTED/Win11 - Software.md",
+    "UNSORTED/Untitled 1.md",
+    "Notes/Arch Linux - Installation.md",
+    "conflict-files-obsidian-git.md",
     "UNSORTED/MHW Long Sword.md",
-    "UNSORTED/Untitled.md",
     "UNSORTED/Tables - HTML.md",
     "UNSORTED/Forms - HTML.md",
     "Other/Pasted image 20241129152905.png",
@@ -222,7 +228,6 @@
     "College/Programming/Data Types.md",
     "Notes/TV Shows & Movies & Anime & Manga.md",
     "UNSORTED/Discourse on Methods.md",
-    "UNSORTED/Rounding Variables - C.md",
     "UNSORTED/Escape Characters - C.md",
     "PDF's/C Programming Language - 2nd Edition (OCR).pdf",
     "PDF's",
@@ -231,7 +236,6 @@
     "College/Programming/Pointers and Arrays - C.md",
     "College/Programming/Multi-Dimensional Arrays - C.md",
     "College/Programming/Delimeters - C.md",
-    "College/Program Design/Sorting Algorithms.md",
     "College/Program Design",
     "College/IT Fundamentals",
     "C Programming Language - 2nd Edition (OCR).pdf",
@@ -243,7 +247,6 @@
     "Other/Pasted image 20241115153653.png",
     "Other/Pasted image 20241115153526.png",
     "Other/Pasted image 20241115153412.png",
-    "Other/Pasted image 20241011161735.png",
-    "Pasted image 20241011161735.png"
+    "Other/Pasted image 20241011161735.png"
   ]
 }
