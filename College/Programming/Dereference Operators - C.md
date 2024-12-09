@@ -6,7 +6,7 @@ tags:
 ---
 
 Used to access the actual value/contents of an address location, stored in a pointer variable. Finds the value of an address location.
-**NOT TO BE CONFUSED WITH CREATING RIABLES (int \*ptr1)**
+**NOT TO BE CONFUSED WITH CREATING VARIABLES (int \*ptr1)**
 Also known as the Indirection Operator
 ``` c
 *pointerName
@@ -25,3 +25,4 @@ printf("%d",*ptr1);
 
 # See Also
 [[Pointers - C]]
+[[Subscript and Pointer Notation - C]]
