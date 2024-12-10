@@ -34,7 +34,7 @@ tags:
 - 回魂夜 (Out of the Dark)
 - 流浪地球 (Wandering Earth)
 - 少林足球 (Shaolin Soccer)
-- 功夫 (Kungfu Husttle)
+- 功夫 (Kungfu Hustle)
 - 抓娃娃 (Successor)
 - Der Untergang (Downfall)
 - Pirates of the Caribbean
@@ -69,7 +69,10 @@ tags:
 - Saw
 - Saw 2
 - Pan's Labyrinth
-
+- The Platform
+- The Platform 2
+- The Imitation Game
+  
 ---
 
 ### Planning
@@ -148,7 +151,6 @@ tags:
 	- Mamma Mia! Here We Go Again
 
 #### Misc/Unsorted
-- (**Movie**) - The Imitation Game
 - (**Movie**) - Draculov
 - Xavier renegade angels
 - (**Movie**) - Sausage Party
