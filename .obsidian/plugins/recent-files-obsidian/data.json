@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Casting - C",
       "path": "UNSORTED/Casting - C.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Arrays - C",
       "path": "College/Programming/Arrays - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Subscript and Pointer Notation - C",
