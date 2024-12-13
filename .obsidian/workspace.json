@@ -15,9 +15,9 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 97.5,
+                  "y": -34.5,
+                  "zoom": -1.4224690065919725
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -189,6 +189,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "UNSORTED/TO DOLIST.md",
     "Home Page/Home.canvas",
     "UNSORTED/MHW Long Sword.md",
     "UNSORTED/Date Ideas.md",
@@ -221,7 +222,6 @@
     "UNSORTED/free() - c.md",
     "UNSORTED/Leading Numbers - C.md",
     "UNSORTED/Dynamic Memory Allocation - C.md",
-    "College/Programming/sizeof() - c.md",
     "PDF's",
     "College/Program Design",
     "College/IT Fundamentals",
