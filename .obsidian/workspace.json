@@ -60,7 +60,8 @@
               "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6c11478956cecf76",
@@ -188,8 +189,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "UNSORTED/MHW Long Sword.md",
     "Home Page/Home.canvas",
+    "UNSORTED/MHW Long Sword.md",
     "UNSORTED/Date Ideas.md",
     "Notes/TV Shows & Movies & Anime & Manga.md",
     "UNSORTED/Casting - C.md",
