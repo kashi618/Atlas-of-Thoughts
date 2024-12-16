@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -21,7 +20,6 @@
                   "zoom": -1.4224690065919725
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
@@ -62,7 +60,8 @@
               "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6c11478956cecf76",
@@ -188,10 +187,10 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "d828e5b8bc561a69",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "UNSORTED/TO DOLIST.md",
     "Home Page/Home.canvas",
+    "UNSORTED/TO DOLIST.md",
     "UNSORTED/MHW Long Sword.md",
     "UNSORTED/Date Ideas.md",
     "Notes/TV Shows & Movies & Anime & Manga.md",
