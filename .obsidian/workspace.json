@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -20,11 +21,28 @@
                   "zoom": -1.4224690065919725
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "e0c0006fa5ea225e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Wishlist.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wishlist"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -36,7 +54,7 @@
       {
         "id": "1b4e08c64f3212e8",
         "type": "tabs",
-        "dimension": 38.52459016393443,
+        "dimension": 56.991321118611374,
         "children": [
           {
             "id": "d828e5b8bc561a69",
@@ -60,13 +78,12 @@
               "title": "File Tree"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6c11478956cecf76",
         "type": "tabs",
-        "dimension": 37.90983606557377,
+        "dimension": 43.008678881388626,
         "children": [
           {
             "id": "96146b79b47a45f2",
@@ -76,23 +93,6 @@
               "state": {},
               "icon": "clock",
               "title": "Recent Files"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5f252b2efa3321c0",
-        "type": "tabs",
-        "dimension": 23.565573770491806,
-        "children": [
-          {
-            "id": "370a24fabb7b70f5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -115,10 +115,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNSORTED/Exam - IT Fundamentals - 2024.md"
+                "file": "Home Page/Home.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of Exam - IT Fundamentals - 2024"
+              "title": "Outline of Home"
             }
           },
           {
@@ -167,10 +167,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "d5a90a81fbcb90f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "370a24fabb7b70f5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 394.5,
+    "width": 312.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -187,10 +203,13 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e0c0006fa5ea225e",
   "lastOpenFiles": [
     "Home Page/Home.canvas",
-    "UNSORTED/TO DOLIST.md",
+    "Notes/Git.md",
+    "Notes/Bleaching Hair.md",
+    "Notes/Cheeses.md",
+    "Notes/Wishlist.md",
     "UNSORTED/MHW Long Sword.md",
     "UNSORTED/Date Ideas.md",
     "Notes/TV Shows & Movies & Anime & Manga.md",
@@ -219,9 +238,6 @@
     "College/Programming/free() - c.md",
     "College/Programming/Leading Numbers - C.md",
     "Notes/MHW Large Monster Checklist.md",
-    "UNSORTED/free() - c.md",
-    "UNSORTED/Leading Numbers - C.md",
-    "UNSORTED/Dynamic Memory Allocation - C.md",
     "PDF's",
     "College/Program Design",
     "College/IT Fundamentals",
