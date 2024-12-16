@@ -14,7 +14,7 @@ int main () {
 	int arrayOfRandomData[10];
 	
 	for (i=0; i<10; i++) {
-		printf("%d",arrayOfRandomData[i])
+		printf("%d",arrayOfRandomData[i]);
 	}
 	
 }
