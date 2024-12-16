@@ -19,3 +19,6 @@ TUDUBLIN_FDL_AMBASSADOR_DE24
 - When rules are nuanced, complex, and difficult to discern.
 
 ## Loss Curve
+
+## Overfitting
+When a neural network learns, basing itself on the database
