@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.5
+    "width": 202.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -218,7 +219,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "cc5484bee1459ea6",
+  "active": "b23ee97011ee3d38",
   "lastOpenFiles": [
     "UNSORTED/TU856-1 Semester 1 Results.md",
     "Home Page/Home.canvas",
