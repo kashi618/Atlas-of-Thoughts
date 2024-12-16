@@ -40,9 +40,24 @@
               "icon": "lucide-file",
               "title": "Nvidia Deep Learning"
             }
+          },
+          {
+            "id": "cc5484bee1459ea6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNSORTED/TU856-1 Semester 1 Results.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TU856-1 Semester 1 Results"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,8 +93,7 @@
               "title": "File Tree"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6c11478956cecf76",
@@ -100,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5,
-    "collapsed": true
+    "width": 202.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -205,10 +218,11 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "b23ee97011ee3d38",
+  "active": "cc5484bee1459ea6",
   "lastOpenFiles": [
-    "UNSORTED/Nvidia Deep Learning.md",
+    "UNSORTED/TU856-1 Semester 1 Results.md",
     "Home Page/Home.canvas",
+    "UNSORTED/Nvidia Deep Learning.md",
     "Notes/Wishlist.md",
     "Notes/Git.md",
     "Notes/Bleaching Hair.md",
@@ -240,7 +254,6 @@
     "Other/Pasted image 20241129152441.png",
     "College/Programming/free() - c.md",
     "College/Programming/Leading Numbers - C.md",
-    "Notes/MHW Large Monster Checklist.md",
     "PDF's",
     "College/Program Design",
     "College/IT Fundamentals",
