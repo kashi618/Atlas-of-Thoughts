@@ -7,3 +7,5 @@
 - Laptop Charger
 - Mini Display Port to HDMI cable
 
+## URGENT
+https://apply-ugoty.gradireland.com/Application/Status/2706

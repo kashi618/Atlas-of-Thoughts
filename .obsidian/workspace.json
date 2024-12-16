@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -17,14 +18,31 @@
                 "viewState": {
                   "x": 97.5,
                   "y": -34.5,
-                  "zoom": -2.1226046473705966
+                  "zoom": -0.5363252181774496
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "b23ee97011ee3d38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNSORTED/Nvidia Deep Learning.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nvidia Deep Learning"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 367.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -186,10 +205,11 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b23ee97011ee3d38",
   "lastOpenFiles": [
-    "Notes/Wishlist.md",
+    "UNSORTED/Nvidia Deep Learning.md",
     "Home Page/Home.canvas",
+    "Notes/Wishlist.md",
     "Notes/Git.md",
     "Notes/Bleaching Hair.md",
     "Notes/Cheeses.md",
