@@ -20,58 +20,60 @@ The Imitation Game
 - Love, Death, and Robots
 - Queens gambit
 ### Finished
-#### TV Show
-- Better Call Saul
-- 2 Broke Girls
-- Breaking Bad
-- Captain Laserhawk: A Blood Dragon Remix
-- Rick and Morty Season 1-3
-- Gravity Falls
-- Wednesday
+- MUST WATCH
+- Amazing
+- Good
+- Meh
+- Trash
+- N/A (haven't watched in a long time)
 
-#### Movies
-- 九品芝麻官 (Hail the Judge)
-- 回魂夜 (Out of the Dark)
-- 流浪地球 (Wandering Earth)
-- 少林足球 (Shaolin Soccer)
-- 功夫 (Kungfu Hustle)
-- 抓娃娃 (Successor)
-- Der Untergang (Downfall)
-- Pirates of the Caribbean
-	- The Curse of the Black Pearl
-	- Dead Man's Chest
-	- At World's End
-	- On Stranger Tides
-	- Dead Men Tell No Tales
-- The Lord of The Rings Extended
-	- The Fellowship of the Ring
-- Shawshank Redemption
-- Sing Street
-- Kungfu Panda
-	- Kungfu Panda 
-	- Kungfu Panda 2
-	- Kungfu Panda 3
-- Rush Hour
-	- Rush Hour
-- Wonka
-- Home Alone
-	- Home Alone
-	- Home Alone 2: Lost in New York
-- Talk to Me
-- Scream
-	- Scream VI
-- WALL-E
-- Ratatouille
-- Elemental
-- I.S.S
-- Tarot
-- Dead Silence
-- Saw
-- Saw 2
-- Pan's Labyrinth
-- The Platform
-- The Platform 2
-  
+| **TV Shows**                             | **MUST WATCH?** |
+| ---------------------------------------- | --------------- |
+| 2 Broke Girls                            | **MUST WATCH**  |
+| Better Call Saul                         | **MUST WATCH**  |
+| Breaking Bad                             | **MUST WATCH**  |
+| Captain Laswerhawk: A Blood Dragon Remix | **MUST WATCH**  |
+| Gravity Falls                            | Good            |
+| Rick and Morty Season 1                  | N/A             |
+| Rick and Morty Season 2                  | N/A             |
+| Rick and Morty Season 3                  | N/A             |
+| Wednesday Season 1                       | Amazing         |
+
+| **Movies**                                                 | **MUST WATCH?** |
+| ---------------------------------------------------------- | --------------- |
+| Dead Silence                                               | Good            |
+| Der Untergang (Downfall)                                   | **MUST WATCH**  |
+| Elemental                                                  | Good            |
+| Home Alone                                                 | N/A             |
+| Home Alone 2: Lost in New York                             | N/A             |
+| I.S.S                                                      | Good            |
+| Pan's Labyrinth                                            | Amazing         |
+| Pirates of the Caribbean: At World's End                   | **MUST WATCH**  |
+| Pirates of the Caribbean: Curse of the Black Pearl         | **MUST WATCH**  |
+| Pirates of the Caribbean: Dead Man's Chest                 | **MUST WATCH**  |
+| Pirates of the Caribbean: Dead Men Tell No Tales           | Trash           |
+| Pirates of the Caribbean: On Stranger Tides                | **MUST WATCH**  |
+| Ratatouille                                                | Amazing         |
+| Rush Hour                                                  | Amazing         |
+| Saw                                                        | **MUST WATCH**  |
+| Saw II                                                     | Amazing         |
+| Scream VI                                                  | Good            |
+| Shawshank Redemption                                       | **MUST WATCH**  |
+| Sing Street                                                | Amazing         |
+| Talk To Me                                                 | Amazing         |
+| Tarot                                                      | Meh             |
+| The Lord of The Rings Extended: The Fellowship of the Ring | Amazing         |
+| The Platform                                               | **MUST WATCH**  |
+| The Platform 2                                             | **MUST WATCH**  |
+| WALL-E                                                     | **MUST WATCH**  |
+| Wonka                                                      | Good            |
+| 九品芝麻官  (Hail the Judge)                                    | Amazing         |
+| 功夫 (Kungfu Hustle)                                         | **MUST WATCH**  |
+| 回魂夜 (Out of the Dark)                                      | **MUST WATCH**  |
+| 少林足球 (Shaolin Soccer)                                      | Amazing         |
+| 抓娃娃 (Successor)                                            | Good            |
+| 流浪地球 (Wandering Earth)                                     | Amazing         |
+
 ---
 
 ### Planning
