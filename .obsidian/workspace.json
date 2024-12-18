@@ -16,9 +16,9 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 97.5,
-                  "y": -34.5,
-                  "zoom": -0.7274667055294579
+                  "x": 393.46158854166674,
+                  "y": 129.33957519531242,
+                  "zoom": 0.27253329447054203
                 }
               },
               "pinned": true,
@@ -187,7 +187,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "d828e5b8bc561a69",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "UNSORTED/Nvidia Deep Learning.md",
     "UNSORTED/TU856-1 Semester 1 Results.md",

@@ -6,6 +6,8 @@
 - ~~L Shaped Desk~~
 - Laptop Charger
 - Mini Display Port to HDMI cable
-
+- Microphone
+  
+  
 ## URGENT
 https://apply-ugoty.gradireland.com/Application/Status/2706
