@@ -16,9 +16,9 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 393.46158854166674,
-                  "y": 129.33957519531242,
-                  "zoom": 0.27253329447054203
+                  "x": 97.5,
+                  "y": -34.5,
+                  "zoom": -1.0683032629668845
                 }
               },
               "pinned": true,
@@ -62,7 +62,8 @@
               "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6c11478956cecf76",
@@ -189,9 +190,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
     "UNSORTED/Nvidia Deep Learning.md",
     "UNSORTED/TU856-1 Semester 1 Results.md",
-    "Home Page/Home.canvas",
     "Notes/Wishlist.md",
     "Notes/Git.md",
     "Notes/Bleaching Hair.md",
@@ -222,7 +223,6 @@
     "Other/Pasted image 20241129152619.png",
     "Other/Pasted image 20241129152441.png",
     "College/Programming/free() - c.md",
-    "College/Programming/Leading Numbers - C.md",
     "PDF's",
     "College/Program Design",
     "College/IT Fundamentals",
