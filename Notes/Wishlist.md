@@ -5,7 +5,7 @@
 	  Ethernet Splitter (might req. 2, research needed)
 - ~~L Shaped Desk~~
 - Laptop Charger
-- VR
+- VR Headset
 - Mini Display Port to HDMI cable
 - Microphone
   
