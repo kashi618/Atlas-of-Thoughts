@@ -12,9 +12,8 @@ tags:
 ---
 
 ### Watching
-- (**TV**) - Game of Thrones
-- (**TV**) - Wednesday
-
+Game of Thrones
+The Imitation Game
 
 - The Menu
 - Mad God 
@@ -28,6 +27,7 @@ tags:
 - Captain Laserhawk: A Blood Dragon Remix
 - Rick and Morty Season 1-3
 - Gravity Falls
+- Wednesday
 
 #### Movies
 - 九品芝麻官 (Hail the Judge)
@@ -71,7 +71,6 @@ tags:
 - Pan's Labyrinth
 - The Platform
 - The Platform 2
-- The Imitation Game
   
 ---
 

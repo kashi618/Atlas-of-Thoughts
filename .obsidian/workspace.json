@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": 97.5,
                   "y": -34.5,
-                  "zoom": -1.0683032629668845
+                  "zoom": -0.0012991401516238873
                 }
               },
               "pinned": true,
@@ -27,18 +27,18 @@
             }
           },
           {
-            "id": "fec6630222f7b2b8",
+            "id": "12cea9586ff04d3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/蛋花湯 - Egg Drop Soup.md",
-                "mode": "preview",
+                "file": "Notes/TV Shows & Movies & Anime & Manga.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "蛋花湯 - Egg Drop Soup"
+              "title": "TV Shows & Movies & Anime & Manga"
             }
           }
         ],
@@ -204,11 +204,12 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "fec6630222f7b2b8",
+  "active": "12cea9586ff04d3c",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
+    "Notes/蛋花湯 - Egg Drop Soup.md",
     "Notes/Recipe Book.md",
     "Notes/辣子鸡 - Sichuan Spicy Chicken.md",
-    "Home Page/Home.canvas",
     "UNSORTED/Nvidia Deep Learning.md",
     "UNSORTED/TU856-1 Semester 1 Results.md",
     "Notes/Wishlist.md",
@@ -233,8 +234,6 @@
     "UNSORTED/Untitled 1.md",
     "Notes/Arch Linux - Installation.md",
     "conflict-files-obsidian-git.md",
-    "UNSORTED/Tables - HTML.md",
-    "UNSORTED/Forms - HTML.md",
     "Other/Pasted image 20241129152905.png",
     "Other/Pasted image 20241129152825.png",
     "Other/Pasted image 20241129152735.png",
