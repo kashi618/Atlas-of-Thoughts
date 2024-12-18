@@ -51,14 +51,14 @@ The Imitation Game
 | Pirates of the Caribbean: At World's End                   | **MUST WATCH**  |
 | Pirates of the Caribbean: Curse of the Black Pearl         | **MUST WATCH**  |
 | Pirates of the Caribbean: Dead Man's Chest                 | **MUST WATCH**  |
-| Pirates of the Caribbean: Dead Men Tell No Tales           | Trash           |
+| Pirates of the Caribbean: Dead Men Tell No Tales           | Amazing         |
 | Pirates of the Caribbean: On Stranger Tides                | **MUST WATCH**  |
 | Ratatouille                                                | Amazing         |
 | Rush Hour                                                  | Amazing         |
 | Saw                                                        | **MUST WATCH**  |
 | Saw II                                                     | Amazing         |
 | Scream VI                                                  | Good            |
-| Shawshank Redemption                                       | **MUST WATCH**  |
+| Shawshank Redemption                                       | Amazing         |
 | Sing Street                                                | Amazing         |
 | Talk To Me                                                 | Amazing         |
 | Tarot                                                      | Meh             |
