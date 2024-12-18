@@ -41,8 +41,7 @@
               "title": "TV Shows & Movies & Anime & Manga"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,8 +203,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d828e5b8bc561a69",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/TV Shows & Movies & Anime & Manga.md",
     "Home Page/Home.canvas",
     "Notes/蛋花湯 - Egg Drop Soup.md",
     "Notes/Recipe Book.md",
@@ -218,7 +218,6 @@
     "Notes/Cheeses.md",
     "UNSORTED/MHW Long Sword.md",
     "UNSORTED/Date Ideas.md",
-    "Notes/TV Shows & Movies & Anime & Manga.md",
     "UNSORTED/Casting - C.md",
     "College/Unsorted Notes/CMPU 1024 - Program Design/CMPU 1024 - Oct 1th 2024.md",
     "College/Programming/Dereference Operators - C.md",
