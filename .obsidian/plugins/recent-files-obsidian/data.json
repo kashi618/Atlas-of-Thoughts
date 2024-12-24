@@ -5,6 +5,22 @@
       "path": "Library.md"
     },
     {
+      "basename": "Virgil - The Aeneid",
+      "path": "Library/Virgil - The Aeneid.md"
+    },
+    {
+      "basename": "Wu Cheng'en - Journey to the West",
+      "path": "Library/Wu Cheng'en - Journey to the West.md"
+    },
+    {
+      "basename": "Guanzhong Luo - Outlaws of the Marsh",
+      "path": "Library/Guanzhong Luo - Outlaws of the Marsh.md"
+    },
+    {
+      "basename": "Guanzhong Luo - Three Kingdoms",
+      "path": "Library/Guanzhong Luo - Three Kingdoms.md"
+    },
+    {
       "basename": "Plutarch - The Age of Alexander",
       "path": "Library/Plutarch - The Age of Alexander.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "辣子鸡 - Sichuan Spicy Chicken",
       "path": "Notes/辣子鸡 - Sichuan Spicy Chicken.md"
-    },
-    {
-      "basename": "Nvidia Deep Learning",
-      "path": "UNSORTED/Nvidia Deep Learning.md"
-    },
-    {
-      "basename": "TU856-1 Semester 1 Results",
-      "path": "UNSORTED/TU856-1 Semester 1 Results.md"
-    },
-    {
-      "basename": "Git",
-      "path": "Notes/Git.md"
-    },
-    {
-      "basename": "Bleaching Hair",
-      "path": "Notes/Bleaching Hair.md"
     }
   ],
   "omittedPaths": [],
