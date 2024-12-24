@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Books",
-      "path": "Notes/Books.md"
+      "basename": "Library Template",
+      "path": "Templates/Library Template.md"
     },
     {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "JS code",
+      "path": "Templates/JS code.md"
+    },
+    {
+      "basename": "Books",
+      "path": "Notes/Books.md"
     },
     {
       "basename": "TV Shows & Movies & Anime & Manga",

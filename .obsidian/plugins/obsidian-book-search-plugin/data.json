@@ -1,0 +1,20 @@
+{
+  "folder": "Library",
+  "fileNameFormat": "{{author}} - {{title}}",
+  "frontmatter": "",
+  "content": "",
+  "useDefaultFrontmatter": true,
+  "defaultFrontmatterKeyType": "Camel Case",
+  "templateFile": "Templates/Library Template.md",
+  "serviceProvider": "google",
+  "naverClientId": "",
+  "naverClientSecret": "",
+  "localePreference": "default",
+  "apiKey": "",
+  "openPageOnCompletion": false,
+  "showCoverImageInSearch": true,
+  "enableCoverImageSave": true,
+  "enableCoverImageEdgeCurl": false,
+  "coverImagePath": "Library/Covers",
+  "askForLocale": false
+}
