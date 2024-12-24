@@ -1,36 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Books",
-      "path": "Notes/Books.md"
-    },
-    {
-      "basename": "René Descartes - Discourse on Method and Related Writings",
-      "path": "Library/René Descartes - Discourse on Method and Related Writings.md"
+      "basename": "Barbara Heller - Pride and Prejudice",
+      "path": "Library/Barbara Heller - Pride and Prejudice.md"
     },
     {
       "basename": "Library",
       "path": "Library.md"
     },
     {
-      "basename": "JS code",
-      "path": "Templates/JS code.md"
+      "basename": "Books",
+      "path": "Notes/Books.md"
+    },
+    {
+      "basename": "Bodhi - In the Buddha's Words",
+      "path": "Library/Bodhi - In the Buddha's Words.md"
+    },
+    {
+      "basename": "How to use Obsidian",
+      "path": "Notes/How to use Obsidian.md"
+    },
+    {
+      "basename": "René Descartes - Discourse on Method and Related Writings",
+      "path": "Library/René Descartes - Discourse on Method and Related Writings.md"
+    },
+    {
+      "basename": "Benjamin Hoff - The Tao of Pooh & The Te of Piglet",
+      "path": "Library/Benjamin Hoff - The Tao of Pooh & The Te of Piglet.md"
+    },
+    {
+      "basename": "Patrick Reilly - Nineteen Eighty-four",
+      "path": "Library/Patrick Reilly - Nineteen Eighty-four.md"
+    },
+    {
+      "basename": "Lao Zi - Dao de Jing in Clear English",
+      "path": "Library/Lao Zi - Dao de Jing in Clear English.md"
+    },
+    {
+      "basename": "Library Template",
+      "path": "Templates/Library Template.md"
     },
     {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "JS code",
+      "path": "Templates/JS code.md"
+    },
+    {
       "basename": "Currently Reading",
       "path": "Home Page/Currently Reading.md"
-    },
-    {
-      "basename": "- Dao de Jing in Clear English",
-      "path": "Library/- Dao de Jing in Clear English.md"
-    },
-    {
-      "basename": "Library Template",
-      "path": "Templates/Library Template.md"
     },
     {
       "basename": "Decimal Places and Leading Zeros - C",
