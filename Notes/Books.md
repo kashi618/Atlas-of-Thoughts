@@ -2,27 +2,22 @@
 tags:
   - useful
 ---
-### Currently Reading
-- **Laozi | Tr. Jeff Pepper** - DaoDeJing in Clear English
+**Key:**
+Tr.  |  Translator
 
-| Author             | Title                | Progress |
-| ------------------ | -------------------- | -------- |
-| **Rene Descartes** | Discourse on Methods |          |
-| George Cowell      | Nineteen Eighty-Four |          |
-| Benjamin Hoff      | The Tao of Pooh      |          |
-| Benjamin Hoff      | The Te of Piglet     |          |
-
-
-### OnHold/GoingToRead
+### InProgress
+- **Laozi | Tr. Jeff Pepper** - DaoDeJing in Clear English (*7,800*)
 - **Rene Descartes** - Discourse on Methods
-- **George Cowell** - Nineteen Eighty-Four
+- **George Cowell** - Nineteen Eighty-Four (*89,000*)
 - **Benjamin Hoff** - The Tao of Pooh
 - **Benjamin Hoff** - The Te of Piglet
+
+### OnHold/GoingToRead
 - In budhas words
 - Pride and Prejudice
-- **Plato** - The Republic
-- **Plutarch** - The Age Of Alexander
-- **Arrian** - The Campaigns of Alexander (*108,00
+- **Plato** - The Republic (*135,250*) 
+- **Plutarch** - The Age Of Alexander (*156,000*)
+- **Arrian** - The Campaigns of Alexander (*108,000*)
 - **Antoine De Saint-Exupéry** - The Little Prince (*24,500*)
 - **Wu Cheng'en** - Journey to the West (*480,000*)
 - **Luo Guanzhong** - Romance of the Three Kingdoms (*585,000*)
