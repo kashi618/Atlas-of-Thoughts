@@ -13,7 +13,7 @@ Tr.  |  Translator
 - **Benjamin Hoff** - The Te of Piglet
 
 ### OnHold/GoingToRead
-- In budhas wor
+- In budhas words
 - Pride and Prejudice
 - **Plato** - The Republic (*135,250*) 
 - **Plutarch** - The Age Of Alexander (*156,000*)
