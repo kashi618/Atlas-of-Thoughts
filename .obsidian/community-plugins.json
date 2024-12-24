@@ -1,6 +1,5 @@
 [
   "dataview",
-  "editing-toolbar",
   "colored-tags",
   "obsidian-icon-folder",
   "recent-files-obsidian",
@@ -18,5 +17,7 @@
   "file-tree-alternative",
   "gemmy",
   "shiki-highlighter",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "editing-toolbar",
+  "obsidian-book-search-plugin"
 ]
