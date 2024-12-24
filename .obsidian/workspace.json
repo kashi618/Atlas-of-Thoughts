@@ -17,7 +17,7 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": 83.65495495495497,
-                  "y": 94.93723723723724,
+                  "y": -14.530930930930936,
                   "zoom": -0.2352087936780073
                 }
               },
@@ -61,18 +61,18 @@
             }
           },
           {
-            "id": "56ebb0e47092b076",
+            "id": "309d73af526c0b5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Library/Barbara Heller - Pride and Prejudice.md",
+                "file": "Library/Khaled Hosseini - The Kite Runner.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Barbara Heller - Pride and Prejudice"
+              "title": "Khaled Hosseini - The Kite Runner"
             }
           }
         ],
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Library/Barbara Heller - Pride and Prejudice.md"
+                "file": "Library/Khaled Hosseini - The Kite Runner.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Barbara Heller - Pride and Prejudice"
+              "title": "Outline of Khaled Hosseini - The Kite Runner"
             }
           },
           {
@@ -161,10 +161,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Library/Barbara Heller - Pride and Prejudice.md"
+                "file": "Library/Khaled Hosseini - The Kite Runner.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Barbara Heller - Pride and Prejudice"
+              "title": "File properties for Khaled Hosseini - The Kite Runner"
             }
           }
         ],
@@ -207,39 +207,39 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "56ebb0e47092b076",
+  "active": "309d73af526c0b5f",
   "lastOpenFiles": [
     "Library.md",
-    "Notes/Books.md",
-    "Library/Barbara Heller - Pride and Prejudice.md",
-    "Library/Bodhi - In the Buddha's Words.md",
-    "Notes/How to use Obsidian.md",
-    "Library/René Descartes - Discourse on Method and Related Writings.md",
-    "Library/Benjamin Hoff - The Tao of Pooh & The Te of Piglet.md",
-    "Library/Patrick Reilly - Nineteen Eighty-four.md",
-    "Library/Lao Zi - Dao de Jing in Clear English.md",
-    "Templates/Library Template.md",
-    "Home Page/Home.canvas",
-    "Library/George Orwell - Nineteen Eighty-Four The Graphic Novel.md",
-    "Library/George Orwell - Penguin Readers Level 7 Nineteen Eighty-Four (ELT Graded Reader).md",
-    "Templates/JS code.md",
-    "UNSORTED/Discourse on Methods.md",
-    "Library/Yan Lianke - The Day the Sun Died.md",
-    "Library/太宰治 - No Longer Human.md",
-    "Library/太宰治 - The Setting Sun.md",
-    "Library/Covers/太宰治 - The Setting Sun.jpg",
-    "UNSORTED/Decimal Places and Leading Zeros - C.md",
+    "Library/Khaled Hosseini - The Kite Runner.md",
     "Library/Andy Mulligan - Trash.md",
+    "Library/S E Hinton - The Outsiders.md",
+    "Library/John Steinbeck - Of Mice and Men.md",
+    "Library/Brian Friel - Philadelphia Here I Come.md",
+    "Library/Plato - The Republic.md",
+    "Library/George Orwell - Nineteen Eighty-four.md",
+    "Library/Jan Breman Arvind N Das - Down and Out.md",
+    "Library/Mary Shelley - Frankenstein.md",
+    "Library/Tara Westover - Educated.md",
+    "Library/Jordan B. Peterson - 12 Rules for Life.md",
+    "Library/Jenny Downham - Before I Die.md",
+    "Library/Harper Lee - To Kill a Mockingbird.md",
+    "Library/Harper Lee - To Kill a Mockingbird.md",
+    "Home Page/Home.canvas",
+    "Library/Stacy Schiff - The Witches Salem, 1692.md",
+    "Library/Richard Heygate, Philip Carr-Gomm - The Book of English Magic.md",
+    "Notes/Books.md",
+    "Library/Antoine de Saint-Exupéry - The Little Prince (zh,en,fr).md",
+    "Library/Friedrich Nietzsche - Twilight of the Idols with the Antichrist and Ecce Homo.md",
+    "Library/Antoine de Saint-Exupéry - The Little Prince.md",
+    "Library/Yan Lianke - The Day the Sun Died.md",
+    "Library/Osamu Dazai- The Setting Sun.md",
+    "Library/Osamu Dazai - No Longer Human.md",
+    "Library/Jane Austen - Pride and Prejudice.md",
+    "Library/Bodhi - In the Buddha's Words.md",
+    "Library/Covers/太宰治 - The Setting Sun.jpg",
     "Library/Covers/- Dao de Jing in Clear English.jpg",
     "Library/Covers",
     "Library",
-    "Notes/TV Shows & Movies & Anime & Manga.md",
-    "Notes/蛋花湯 - Egg Drop Soup.md",
-    "Notes/Recipe Book.md",
-    "Notes/辣子鸡 - Sichuan Spicy Chicken.md",
-    "UNSORTED/Nvidia Deep Learning.md",
-    "UNSORTED/TU856-1 Semester 1 Results.md",
-    "Notes/Wishlist.md",
     "PDF's/C Programming Language - 2nd Edition (OCR).pdf",
     "Other/obamna.gif",
     "Other/Pasted image 20241129152905.png",

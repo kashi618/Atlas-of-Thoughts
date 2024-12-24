@@ -1,16 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "Barbara Heller - Pride and Prejudice",
-      "path": "Library/Barbara Heller - Pride and Prejudice.md"
+      "basename": "Khaled Hosseini - The Kite Runner",
+      "path": "Library/Khaled Hosseini - The Kite Runner.md"
     },
     {
       "basename": "Library",
       "path": "Library.md"
     },
     {
+      "basename": "Andy Mulligan - Trash",
+      "path": "Library/Andy Mulligan - Trash.md"
+    },
+    {
+      "basename": "S E Hinton - The Outsiders",
+      "path": "Library/S E Hinton - The Outsiders.md"
+    },
+    {
+      "basename": "John Steinbeck - Of Mice and Men",
+      "path": "Library/John Steinbeck - Of Mice and Men.md"
+    },
+    {
+      "basename": "Brian Friel - Philadelphia Here I Come",
+      "path": "Library/Brian Friel - Philadelphia Here I Come.md"
+    },
+    {
+      "basename": "Plato - The Republic",
+      "path": "Library/Plato - The Republic.md"
+    },
+    {
+      "basename": "George Orwell - Nineteen Eighty-four",
+      "path": "Library/George Orwell - Nineteen Eighty-four.md"
+    },
+    {
+      "basename": "Jan Breman Arvind N Das - Down and Out",
+      "path": "Library/Jan Breman Arvind N Das - Down and Out.md"
+    },
+    {
+      "basename": "Mary Shelley - Frankenstein",
+      "path": "Library/Mary Shelley - Frankenstein.md"
+    },
+    {
+      "basename": "Tara Westover - Educated",
+      "path": "Library/Tara Westover - Educated.md"
+    },
+    {
+      "basename": "Jordan B. Peterson - 12 Rules for Life",
+      "path": "Library/Jordan B. Peterson - 12 Rules for Life.md"
+    },
+    {
+      "basename": "Jenny Downham - Before I Die",
+      "path": "Library/Jenny Downham - Before I Die.md"
+    },
+    {
+      "basename": "Harper Lee - To Kill a Mockingbird",
+      "path": "Library/Harper Lee - To Kill a Mockingbird.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Stacy Schiff - The Witches Salem, 1692",
+      "path": "Library/Stacy Schiff - The Witches Salem, 1692.md"
+    },
+    {
+      "basename": "Richard Heygate, Philip Carr-Gomm - The Book of English Magic",
+      "path": "Library/Richard Heygate, Philip Carr-Gomm - The Book of English Magic.md"
+    },
+    {
       "basename": "Books",
       "path": "Notes/Books.md"
+    },
+    {
+      "basename": "Antoine de Saint-Exupéry - The Little Prince (zh,en,fr)",
+      "path": "Library/Antoine de Saint-Exupéry - The Little Prince (zh,en,fr).md"
+    },
+    {
+      "basename": "Friedrich Nietzsche - Twilight of the Idols with the Antichrist and Ecce Homo",
+      "path": "Library/Friedrich Nietzsche - Twilight of the Idols with the Antichrist and Ecce Homo.md"
+    },
+    {
+      "basename": "Antoine de Saint-Exupéry - The Little Prince",
+      "path": "Library/Antoine de Saint-Exupéry - The Little Prince.md"
+    },
+    {
+      "basename": "Yan Lianke - The Day the Sun Died",
+      "path": "Library/Yan Lianke - The Day the Sun Died.md"
+    },
+    {
+      "basename": "Osamu Dazai- The Setting Sun",
+      "path": "Library/Osamu Dazai- The Setting Sun.md"
+    },
+    {
+      "basename": "Osamu Dazai - No Longer Human",
+      "path": "Library/Osamu Dazai - No Longer Human.md"
+    },
+    {
+      "basename": "Jane Austen - Pride and Prejudice",
+      "path": "Library/Jane Austen - Pride and Prejudice.md"
     },
     {
       "basename": "Bodhi - In the Buddha's Words",
@@ -29,20 +117,12 @@
       "path": "Library/Benjamin Hoff - The Tao of Pooh & The Te of Piglet.md"
     },
     {
-      "basename": "Patrick Reilly - Nineteen Eighty-four",
-      "path": "Library/Patrick Reilly - Nineteen Eighty-four.md"
-    },
-    {
       "basename": "Lao Zi - Dao de Jing in Clear English",
       "path": "Library/Lao Zi - Dao de Jing in Clear English.md"
     },
     {
       "basename": "Library Template",
       "path": "Templates/Library Template.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "JS code",
@@ -119,66 +199,6 @@
     {
       "basename": "Dereference Operators - C",
       "path": "College/Programming/Dereference Operators - C.md"
-    },
-    {
-      "basename": "Pointers and Arrays - C",
-      "path": "College/Programming/Pointers and Arrays - C.md"
-    },
-    {
-      "basename": "Arrays - C",
-      "path": "College/Programming/Arrays - C.md"
-    },
-    {
-      "basename": "Subscript and Pointer Notation - C",
-      "path": "College/Programming/Subscript and Pointer Notation - C.md"
-    },
-    {
-      "basename": "Leaving Cert Classics",
-      "path": "Notes/Leaving Cert Classics.md"
-    },
-    {
-      "basename": "C Programming Language - 2nd Edition (OCR)",
-      "path": "PDF's/C Programming Language - 2nd Edition (OCR).pdf"
-    },
-    {
-      "basename": "Exam - IT Fundamentals - 2024",
-      "path": "UNSORTED/Exam - IT Fundamentals - 2024.md"
-    },
-    {
-      "basename": "obamna",
-      "path": "Other/obamna.gif"
-    },
-    {
-      "basename": "Win11 - Software",
-      "path": "UNSORTED/Win11 - Software.md"
-    },
-    {
-      "basename": "Forms - HTML",
-      "path": "UNSORTED/Forms - HTML.md"
-    },
-    {
-      "basename": "Tables - HTML",
-      "path": "UNSORTED/Tables - HTML.md"
-    },
-    {
-      "basename": "Variables - C",
-      "path": "College/Programming/Variables - C.md"
-    },
-    {
-      "basename": "Leading Numbers - C",
-      "path": "College/Programming/Leading Numbers - C.md"
-    },
-    {
-      "basename": "CompSci Certificates",
-      "path": "CompSci Certificates.md"
-    },
-    {
-      "basename": "Descartes - Meditations on First Philosophy",
-      "path": "Descartes - Meditations on First Philosophy.md"
-    },
-    {
-      "basename": "CMPU 1024 - Program Design",
-      "path": "College/Modules/CMPU 1024 - Program Design.md"
     }
   ],
   "omittedPaths": [],
