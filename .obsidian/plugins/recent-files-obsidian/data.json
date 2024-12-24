@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Library",
+      "path": "Library.md"
+    },
+    {
+      "basename": "Plutarch - The Age of Alexander",
+      "path": "Library/Plutarch - The Age of Alexander.md"
+    },
+    {
+      "basename": "Homer - The Odyssey",
+      "path": "Library/Homer - The Odyssey.md"
+    },
+    {
+      "basename": "Plutarch - The Campaigns of Alexander",
+      "path": "Library/Plutarch - The Campaigns of Alexander.md"
+    },
+    {
+      "basename": "Franz Kafka - Metamorphosis and Other Stories",
+      "path": "Library/Franz Kafka - Metamorphosis and Other Stories.md"
+    },
+    {
+      "basename": "Euripides - Medea and Other Plays",
+      "path": "Library/Euripides - Medea and Other Plays.md"
+    },
+    {
       "basename": "Khaled Hosseini - The Kite Runner",
       "path": "Library/Khaled Hosseini - The Kite Runner.md"
     },
     {
-      "basename": "Library",
-      "path": "Library.md"
+      "basename": "Sun Tzu - The Art of War",
+      "path": "Library/Sun Tzu - The Art of War.md"
+    },
+    {
+      "basename": "Karl Marx, Friedrich Engels - The Communist Manifesto",
+      "path": "Library/Karl Marx, Friedrich Engels - The Communist Manifesto.md"
+    },
+    {
+      "basename": "Books",
+      "path": "Notes/Books.md"
     },
     {
       "basename": "Andy Mulligan - Trash",
@@ -67,10 +99,6 @@
     {
       "basename": "Richard Heygate, Philip Carr-Gomm - The Book of English Magic",
       "path": "Library/Richard Heygate, Philip Carr-Gomm - The Book of English Magic.md"
-    },
-    {
-      "basename": "Books",
-      "path": "Notes/Books.md"
     },
     {
       "basename": "Antoine de Saint-Exupéry - The Little Prince (zh,en,fr)",
@@ -171,34 +199,6 @@
     {
       "basename": "Bleaching Hair",
       "path": "Notes/Bleaching Hair.md"
-    },
-    {
-      "basename": "Cheeses",
-      "path": "Notes/Cheeses.md"
-    },
-    {
-      "basename": "Useful",
-      "path": "Home Page/Useful.md"
-    },
-    {
-      "basename": "General Notes",
-      "path": "Home Page/General Notes.md"
-    },
-    {
-      "basename": "MHW Long Sword",
-      "path": "UNSORTED/MHW Long Sword.md"
-    },
-    {
-      "basename": "Casting - C",
-      "path": "UNSORTED/Casting - C.md"
-    },
-    {
-      "basename": "CMPU 1024 - Oct 1th 2024",
-      "path": "College/Unsorted Notes/CMPU 1024 - Program Design/CMPU 1024 - Oct 1th 2024.md"
-    },
-    {
-      "basename": "Dereference Operators - C",
-      "path": "College/Programming/Dereference Operators - C.md"
     }
   ],
   "omittedPaths": [],
