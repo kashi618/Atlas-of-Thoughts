@@ -1,3 +1,3 @@
 ```dataview
-LIST FROM #Reading 
+LIST FROM "library"
 ```

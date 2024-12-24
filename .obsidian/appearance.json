@@ -5,7 +5,8 @@
   "textFontFamily": "Open Sauce One",
   "enabledCssSnippets": [
     "canvas",
-    "style"
+    "style",
+    "cards"
   ],
   "baseFontSizeAction": false,
   "cssTheme": "Tokyo Night",

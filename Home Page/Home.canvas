@@ -14,7 +14,7 @@
 		{"id":"e3165d98c0cf694e","type":"file","file":"Other/explosion.gif","x":750,"y":-479,"width":70,"height":70},
 		{"id":"11df28296ae48641","type":"file","file":"Other/explosion.gif","x":660,"y":-479,"width":70,"height":70},
 		{"id":"0de3c7bc805753ac","type":"file","file":"Other/explosion.gif","x":-533,"y":-479,"width":70,"height":70},
-		{"id":"58d2d28bdd32c1c1","x":100,"y":-180,"width":720,"height":600,"type":"file","file":"Notes/Wishlist.md"}
+		{"id":"58d2d28bdd32c1c1","type":"file","file":"Notes/Wishlist.md","x":100,"y":-180,"width":720,"height":600}
 	],
 	"edges":[]
 }

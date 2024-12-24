@@ -6,14 +6,13 @@ tags:
 Tr.  |  Translator
 
 ### InProgress
-
-
-### OnHold/GoingToRead
 - **Laozi | Tr. Jeff Pepper** - DaoDeJing in Clear English (*7,800*)
 - **Rene Descartes** - Discourse on Methods
 - **George Cowell** - Nineteen Eighty-Four (*89,000*)
 - **Benjamin Hoff** - The Tao of Pooh
 - **Benjamin Hoff** - The Te of Piglet
+
+### OnHold/GoingToRead
 - In budhas words
 - Pride and Prejudice
 - **Plato** - The Republic (*135,250*) 
@@ -33,8 +32,30 @@ Tr.  |  Translator
 - **Shi Nai'an** - The Water Margin Outlaws of the Marsh (*681,000*)
 - **Franz Kafka** - In the Penal Colony (*12,000*)
 - **Franz Kafka** - A Country Doctor: Short Prose for my Father (*12,000*)
+	- [ ] The New Advocate
+	- [ ] A Country Doctor
+	- [ ] In the Gallery
+	- [ ] An Old Journal
+	- [ ] Before the Law
+	- [ ] Jackals and Arabs
+	- [ ] A Visit to the Mine
+	- [ ] The neighbouring Village
+	- [ ] A Message from the Emperor
+	- [ ] The Worries of a Head of Household
+	- [ ] Eleven Sons
+	- [ ] A Fratricide
+	- [ ] A Dream
+	- [ ] A Report to an Academy
 - **Franz Kafka** - A Hunger-Artist: Four Stories (*6,000*)
+	- [ ] First Sorrow
+	- [ ] A Little Woman
+	- [ ] A Hunger-Artist
+	- [ ] Josefine, the Singer, or The Mouse People
+
 ### Reread
+- **Homer** - The Odyssey (*180,000*)
+- **Virgil** - The Aeneid (*140,000*)
+- **Euripides** - Medea (*15,000*)
 
 ### Finished
 - **Andy Mulligan** - Trash (*60,000*)
@@ -51,9 +72,6 @@ Tr.  |  Translator
 - **Tara Westover** - Educated
 - **Brian Frield** - Philadelphia Here I come
 - **Aesop** - Aesop's Fables
-- **Homer** - The Odyssey (*180,000*)
-- **Virgil** - The Aeneid (*140,000*)
-- **Euripides** - Medea (*15,000*)
 
 ### ToBuy/Planning
 ##### Philosophy

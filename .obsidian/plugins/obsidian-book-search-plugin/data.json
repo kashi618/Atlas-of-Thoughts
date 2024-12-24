@@ -11,7 +11,7 @@
   "naverClientSecret": "",
   "localePreference": "default",
   "apiKey": "",
-  "openPageOnCompletion": false,
+  "openPageOnCompletion": true,
   "showCoverImageInSearch": true,
   "enableCoverImageSave": true,
   "enableCoverImageEdgeCurl": false,

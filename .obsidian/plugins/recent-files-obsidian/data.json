@@ -1,32 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Books",
+      "path": "Notes/Books.md"
+    },
+    {
+      "basename": "René Descartes - Discourse on Method and Related Writings",
+      "path": "Library/René Descartes - Discourse on Method and Related Writings.md"
+    },
+    {
       "basename": "Library",
       "path": "Library.md"
-    },
-    {
-      "basename": "Library Template",
-      "path": "Templates/Library Template.md"
-    },
-    {
-      "basename": "太宰治 - The Setting Sun",
-      "path": "Library/太宰治 - The Setting Sun.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
-    },
-    {
-      "basename": "Decimal Places and Leading Zeros - C",
-      "path": "UNSORTED/Decimal Places and Leading Zeros - C.md"
     },
     {
       "basename": "JS code",
       "path": "Templates/JS code.md"
     },
     {
-      "basename": "Books",
-      "path": "Notes/Books.md"
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Currently Reading",
+      "path": "Home Page/Currently Reading.md"
+    },
+    {
+      "basename": "- Dao de Jing in Clear English",
+      "path": "Library/- Dao de Jing in Clear English.md"
+    },
+    {
+      "basename": "Library Template",
+      "path": "Templates/Library Template.md"
+    },
+    {
+      "basename": "Decimal Places and Leading Zeros - C",
+      "path": "UNSORTED/Decimal Places and Leading Zeros - C.md"
     },
     {
       "basename": "TV Shows & Movies & Anime & Manga",
@@ -35,10 +43,6 @@
     {
       "basename": "Wishlist",
       "path": "Notes/Wishlist.md"
-    },
-    {
-      "basename": "Currently Reading",
-      "path": "Home Page/Currently Reading.md"
     },
     {
       "basename": "蛋花湯 - Egg Drop Soup",
