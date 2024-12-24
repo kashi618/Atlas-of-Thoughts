@@ -7,6 +7,7 @@ Tr.  |  Translator
 
 ### InProgress
 - **Laozi | Tr. Jeff Pepper** - DaoDeJing in Clear English (*7,800*)
+- **Rene Descartes** - Discourse on Methods
 - **George Cowell** - Nineteen Eighty-Four (*89,000*)
 - **Benjamin Hoff** - The Tao of Pooh
 - **Benjamin Hoff** - The Te of Piglet
@@ -89,7 +90,6 @@ Tr.  |  Translator
 
 ###### Modern Philosoophy
 - **René Descartes** - Meditations
-- **René Descartes** - Discourse
 ###### Confucianism and Daoism
 - **Wang Yang-Ming** - The Philosophy of Wang Yang-Ming
 - **Wang Yang-Ming** - Instructions For Practical Living And Other Neo-Confucian Writing
