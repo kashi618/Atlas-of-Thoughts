@@ -1,6 +1,9 @@
 ---
-Title: "{{title}}"
-Author: "{{author}}"
-ISBN: "{{isbn10}} {{isbn13}}"
-Status:
+title: "{{title}}"
+author: "{{author}}"
+isbn: "{{isbn10}} {{isbn13}}"
+status: 
+cover_url: "{{coverUrl}}"
+cssclasses:
+  - cards
 ---
