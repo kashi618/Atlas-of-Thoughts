@@ -40,24 +40,9 @@
               "icon": "lucide-file",
               "title": "Books"
             }
-          },
-          {
-            "id": "af536706338986ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pride and Prejudice - Barbara Heller.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pride and Prejudice - Barbara Heller"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,20 +201,14 @@
       "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af536706338986ca",
+  "active": "2b1ca8c8297779af",
   "lastOpenFiles": [
-    "Pride and Prejudice - Barbara Heller.md",
-    "Pride and Prejudice - Barbara Heller.jpg",
-    "/Pride and Prejudice - Barbara Heller.jpg",
-    "Notes/Books.md",
-    "UNSORTED/DaoDeJing in Clear English.md",
-    "Dao de Jing in Clear English.md",
     "Home Page/Home.canvas",
     "Notes/TV Shows & Movies & Anime & Manga.md",
+    "Notes/Books.md",
     "Notes/蛋花湯 - Egg Drop Soup.md",
     "Notes/Recipe Book.md",
     "Notes/辣子鸡 - Sichuan Spicy Chicken.md",
@@ -253,6 +232,8 @@
     "UNSORTED/Decimal Places and Leading Zeros - C.md",
     "Other/obamna.gif",
     "UNSORTED/Win11 - Software.md",
+    "UNSORTED/Untitled 1.md",
+    "Notes/Arch Linux - Installation.md",
     "Other/Pasted image 20241129152905.png",
     "Other/Pasted image 20241129152825.png",
     "Other/Pasted image 20241129152735.png",
@@ -268,6 +249,8 @@
     "College/Unsorted Notes/CMPU 1005 - Communications",
     "UNSORTED",
     "Other/Pasted image 20241115153653.png",
-    "Other/Pasted image 20241115153526.png"
+    "Other/Pasted image 20241115153526.png",
+    "Other/Pasted image 20241115153412.png",
+    "Other/Pasted image 20241011161735.png"
   ]
 }

@@ -2,39 +2,65 @@
 tags:
   - useful
 ---
+### Currently Reading
+- **Laozi | Tr. Jeff Pepper** - DaoDeJing in Clear English
 
-| Author                   | Title                                       | Progress  |
-| ------------------------ | ------------------------------------------- | --------- |
-|                          | In Buddha's Words                           | ToBuy     |
-| Andy Mulligan            | Trash                                       | Finished  |
-| Antoine De Saint-Exupéry | The Little Prince                           | InLibrary |
-| Arrian                   | The Campaigns of Alexander                  | InLibrary |
-| Benjamin Hoff            | The Tao of Pooh                             | InLibrary |
-| Benjamin Hoff            | The Te of Piglet                            | InLibrary |
-| Euripides                | Medea                                       | Finished  |
-| Franz Kafka              | In the Penal Colony                         | InLibrary |
-| Franz Kafka              | A Country Doctor: Short Prose for my Father | InLibrary |
-| Franz Kafka              | A Hunger-Artist: Four Stories               | InLibrary |
-| Friedrich Nietzsche      | Twilight of the Idols                       | InLibrary |
-| Friedrich Nietzsche      | Ecce Homo                                   | InLibrary |
-| Friedrich Nietzsche      | The Anti Christ                             | InLibrary |
-| George Cowell            | Nineteen Eighty-Four                        | InLibrary |
-| Harper Lee               | To Kill a Mockingbird                       | InLibrary |
-| Homer                    | The Odyssey                                 | Finished  |
-| Jane Austen              | Pride and Prejudice                         | InLibrary |
-| Jeff Pepper              | DaoDeJing in Clear English                  | !Reading  |
-| Jenny Downham            | Before I Die                                | InLibrary |
-| John Steinbeck           | Of Mice and Men                             | Finished  |
-| Jordan Peterson          | 12 Rules for Life: An Antidote to Chaos     | InLibrary |
-| Khaled Hosseini          | The Kite Runner                             | InLibrary |
-| Luo Guanzhong            | Romance of the Three Kingdoms               | InLibrary |
-| Plato                    | The Republic                                | InLibrary |
-| Plutarch                 | The Age Of Alexander                        | InLibrary |
-| Rene Descartes           | Discourse on Methods                        | InLibrary |
-| Shi Nai'an               | The Water Margin Outlaws of the Marsh       | InLibrary |
-| Sun Tzu                  | Art of War                                  | InLibrary |
-| Virgil                   | The Aeneid                                  | Finished  |
-| Wu Cheng'en              | Journey to the West                         | InLibrary |
+| Author             | Title                | Progress |
+| ------------------ | -------------------- | -------- |
+| **Rene Descartes** | Discourse on Methods |          |
+| George Cowell      | Nineteen Eighty-Four |          |
+| Benjamin Hoff      | The Tao of Pooh      |          |
+| Benjamin Hoff      | The Te of Piglet     |          |
+
+
+### OnHold/GoingToRead
+- **Rene Descartes** - Discourse on Methods
+- **George Cowell** - Nineteen Eighty-Four
+- **Benjamin Hoff** - The Tao of Pooh
+- **Benjamin Hoff** - The Te of Piglet
+- In budhas words
+- Pride and Prejudice
+- **Plato** - The Republic
+- **Plutarch** - The Age Of Alexander
+- **Arrian** - The Campaigns of Alexander (*108,00
+- **Antoine De Saint-Exupéry** - The Little Prince (*24,500*)
+- **Wu Cheng'en** - Journey to the West (*480,000*)
+- **Luo Guanzhong** - Romance of the Three Kingdoms (*585,000*)
+- **Friedrich Nietzsche** - Twilight of the Idols (*26,000*)
+- **Friedrich Nietzsche** - Ecce Homo (*40,000*)
+- **Friedrich Nietzsche** - The Anti Christ (*24,000*)
+- **Jordan Peterson** - 12 Rules for Life: An Antidote to Chaos (*97,000*)
+- **Khaled Hosseini** - The Kite Runner (*88,000*)
+- **Harper Lee** - To Kill a Mockingbird (*84,000*)
+- **Jenny Downham** - Before I Die (*69,500*)
+- **Sun Tzu** - Art of War (*17,000*)
+- **Shi Nai'an** - The Water Margin Outlaws of the Marsh (*681,000*)
+- **Franz Kafka** - In the Penal Colony (*12,000*)
+- **Franz Kafka** - A Country Doctor: Short Prose for my Father (*12,000*)
+	- [ ] The New Advocate
+	- [ ] A Country Doctor
+	- [ ] In the Gallery
+	- [ ] An Old Journal
+	- [ ] Before the Law
+	- [ ] Jackals and Arabs
+	- [ ] A Visit to the Mine
+	- [ ] The neighbouring Village
+	- [ ] A Message from the Emperor
+	- [ ] The Worries of a Head of Household
+	- [ ] Eleven Sons
+	- [ ] A Fratricide
+	- [ ] A Dream
+	- [ ] A Report to an Academy
+- **Franz Kafka** - A Hunger-Artist: Four Stories (*6,000*)
+	- [ ] First Sorrow
+	- [ ] A Little Woman
+	- [ ] A Hunger-Artist
+	- [ ] Josefine, the Singer, or The Mouse People
+
+### Reread
+- **Homer** - The Odyssey (*180,000*)
+- **Virgil** - The Aeneid (*140,000*)
+- **Euripides** - Medea (*15,000*)
 
 ### Finished
 - **Andy Mulligan** - Trash (*60,000*)
