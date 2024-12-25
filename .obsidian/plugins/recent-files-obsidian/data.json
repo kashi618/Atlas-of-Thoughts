@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Books",
+      "path": "Notes/Books.md"
+    },
+    {
+      "basename": "J. K. Rowling - Harry Potter and the Half-Blood Prince",
+      "path": "Library/J. K. Rowling - Harry Potter and the Half-Blood Prince.md"
+    },
+    {
+      "basename": "J. K. Rowling - Harry Potter and the Goblet of Fire",
+      "path": "Library/J. K. Rowling - Harry Potter and the Goblet of Fire.md"
+    },
+    {
+      "basename": "J. K. Rowling - Harry Potter and the Deathly Hallows",
+      "path": "Library/J. K. Rowling - Harry Potter and the Deathly Hallows.md"
+    },
+    {
+      "basename": "J. K. Rowling - Harry Potter and the Chamber of Secrets",
+      "path": "Library/J. K. Rowling - Harry Potter and the Chamber of Secrets.md"
+    },
+    {
       "basename": "Library",
       "path": "Library.md"
+    },
+    {
+      "basename": "J. K. Rowling - Harry Potter and the Philosopher's Stone",
+      "path": "Library/J. K. Rowling - Harry Potter and the Philosopher's Stone.md"
+    },
+    {
+      "basename": "J. K. Rowling - Harry Potter and the Order of the Pheonix",
+      "path": "Library/J. K. Rowling - Harry Potter and the Order of the Pheonix.md"
+    },
+    {
+      "basename": "J. K. Rowling - Harry Potter and the Prisoner of Azkaban",
+      "path": "Library/J. K. Rowling - Harry Potter and the Prisoner of Azkaban.md"
     },
     {
       "basename": "Virgil - The Aeneid",
@@ -51,10 +83,6 @@
     {
       "basename": "Karl Marx, Friedrich Engels - The Communist Manifesto",
       "path": "Library/Karl Marx, Friedrich Engels - The Communist Manifesto.md"
-    },
-    {
-      "basename": "Books",
-      "path": "Notes/Books.md"
     },
     {
       "basename": "Andy Mulligan - Trash",
@@ -171,34 +199,6 @@
     {
       "basename": "JS code",
       "path": "Templates/JS code.md"
-    },
-    {
-      "basename": "Currently Reading",
-      "path": "Home Page/Currently Reading.md"
-    },
-    {
-      "basename": "Decimal Places and Leading Zeros - C",
-      "path": "UNSORTED/Decimal Places and Leading Zeros - C.md"
-    },
-    {
-      "basename": "TV Shows & Movies & Anime & Manga",
-      "path": "Notes/TV Shows & Movies & Anime & Manga.md"
-    },
-    {
-      "basename": "Wishlist",
-      "path": "Notes/Wishlist.md"
-    },
-    {
-      "basename": "蛋花湯 - Egg Drop Soup",
-      "path": "Notes/蛋花湯 - Egg Drop Soup.md"
-    },
-    {
-      "basename": "Recipe Book",
-      "path": "Notes/Recipe Book.md"
-    },
-    {
-      "basename": "辣子鸡 - Sichuan Spicy Chicken",
-      "path": "Notes/辣子鸡 - Sichuan Spicy Chicken.md"
     }
   ],
   "omittedPaths": [],
