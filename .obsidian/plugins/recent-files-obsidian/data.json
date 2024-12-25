@@ -5,6 +5,14 @@
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "obamna",
+      "path": "Other/obamna.gif"
+    },
+    {
+      "basename": "Memento Mori - Polyphia",
+      "path": "Other/Memento Mori - Polyphia.gif"
+    },
+    {
       "basename": "Wishlist",
       "path": "Notes/Wishlist.md"
     },
@@ -17,16 +25,8 @@
       "path": "Other/Descartes.gif"
     },
     {
-      "basename": "obamna",
-      "path": "Other/obamna.gif"
-    },
-    {
       "basename": "obsidian-icon",
       "path": "Other/obsidian-icon.png"
-    },
-    {
-      "basename": "Memento Mori - Polyphia",
-      "path": "Other/Memento Mori - Polyphia.gif"
     },
     {
       "basename": "explosion",

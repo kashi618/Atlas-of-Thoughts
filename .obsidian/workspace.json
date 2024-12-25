@@ -16,9 +16,9 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 17.196102547858217,
-                  "y": 189.93353809582044,
-                  "zoom": 0.6666666666666667
+                  "x": -242,
+                  "y": -10,
+                  "zoom": 0
                 }
               },
               "pinned": true,
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.5
+    "width": 460.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -159,13 +160,13 @@
   },
   "active": "5fb72ee059bfaf5a",
   "lastOpenFiles": [
-    "Other/obsidian-icon.png",
+    "Other/Memento Mori - Polyphia.gif",
     "Home Page/Home.canvas",
+    "Other/obsidian-icon.png",
     "Notes/Library.md",
     "Other/obamna.gif",
     "Notes/Wishlist.md",
     "Home Page/Useful.md",
-    "Other/Memento Mori - Polyphia.gif",
     "Other/Descartes.gif",
     "Home Page/Home.md",
     "Home Page/General Notes.md",

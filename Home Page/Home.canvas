@@ -16,7 +16,9 @@
 		{"id":"e60c64ba73f3028b","type":"file","file":"Other/explosion.gif","x":409,"y":-299,"width":70,"height":70},
 		{"id":"17344afeff5c45f3","x":-603,"y":-370,"width":140,"height":140,"type":"file","file":"Other/Descartes.gif"},
 		{"id":"e83f1a8fe65ca2b8","x":-23,"y":-370,"width":140,"height":140,"type":"file","file":"Other/Nietzsche.gif"},
-		{"id":"58d2d28bdd32c1c1","type":"file","file":"Notes/Wishlist.md","x":-243,"y":-230,"width":720,"height":650}
+		{"id":"58d2d28bdd32c1c1","type":"file","file":"Notes/Wishlist.md","x":-243,"y":-230,"width":720,"height":650},
+		{"id":"4c753f6f25aec1ad","x":-893,"y":-370,"width":140,"height":140,"type":"file","file":"Other/obamna.gif"},
+		{"id":"e762bf6f37e05057","x":269,"y":-370,"width":140,"height":140,"type":"file","file":"Other/obamna.gif"}
 	],
 	"edges":[]
 }
