@@ -1,7 +1,7 @@
 ---
-LibraryTitle: "Harry Potter and the Cursed Child"
-LibraryAuthor: "J. K. Rowling, Jack Thorne, John Tiffany"
-LibraryISBN: "0751565369 9780751565362"
-LibraryCover: "http://books.google.com/books/content?id=kLAoswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-LibraryStatus:
+LibraryTitle: Harry Potter and the Order of the Pheonix
+LibraryAuthor: J. K. Rowling
+LibraryISBN: 1408855690 9781408855690
+LibraryCover: https://pictures.abebooks.com/isbn/9781408855690-us-300.jpg
+LibraryStatus: Finished
 ---

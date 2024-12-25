@@ -1,7 +1,7 @@
 ---
-LibraryTitle: "Very Good Lives"
-LibraryAuthor: "J.K. Rowling"
-LibraryISBN: "0751562238 9780751562231"
-LibraryCover: "http://books.google.com/books/content?id=mF2GBwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-LibraryStatus:
+LibraryTitle: Harry Potter and the Half-Blood Prince
+LibraryAuthor: J.K. Rowling
+LibraryISBN: 1408855704 9781408855706
+LibraryCover: https://pictures.abebooks.com/isbn/9781408855706-us-300.jpg
+LibraryStatus: Finished
 ---

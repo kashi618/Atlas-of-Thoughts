@@ -6,6 +6,7 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
+        "dimension": 48.516949152542374,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -42,13 +43,44 @@
               "icon": "lucide-file",
               "title": "Books"
             }
+          },
+          {
+            "id": "9a17c3de7cd9199d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Library/Friedrich Nietzsche - The Gay Science.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Friedrich Nietzsche - The Gay Science"
+            }
+          },
+          {
+            "id": "5d2c6b0d68acfdb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Library/Friedrich Nietzsche - Beyond Good and Evil.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Friedrich Nietzsche - Beyond Good and Evil"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "65d6343cd5de2be9",
         "type": "tabs",
+        "dimension": 51.483050847457626,
         "children": [
           {
             "id": "8e2d05cd2df89de1",
@@ -66,24 +98,8 @@
               "icon": "lucide-file",
               "title": "Library"
             }
-          },
-          {
-            "id": "237d87a66ac4bbae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Library/J. K. Rowling - Harry Potter and the Half-Blood Prince.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "J. K. Rowling - Harry Potter and the Half-Blood Prince"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,10 +172,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Books.md"
+                "file": "Library/Friedrich Nietzsche - Beyond Good and Evil.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Books"
+              "title": "Outline of Friedrich Nietzsche - Beyond Good and Evil"
             }
           },
           {
@@ -168,10 +184,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Books.md"
+                "file": "Library/Friedrich Nietzsche - Beyond Good and Evil.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Books"
+              "title": "File properties for Friedrich Nietzsche - Beyond Good and Evil"
             }
           }
         ],
@@ -214,34 +230,34 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "227aa5cd385b8de0",
+  "active": "5d2c6b0d68acfdb1",
   "lastOpenFiles": [
-    "Library/J. K. Rowling - Harry Potter and the Half-Blood Prince.md",
-    "Library/J. K. Rowling - Harry Potter and the Goblet of Fire.md",
-    "Library/J. K. Rowling - Harry Potter and the Deathly Hallows.md",
-    "Library/J. K. Rowling - Harry Potter and the Chamber of Secrets.md",
-    "Library.md",
-    "Library/J. K. Rowling - Harry Potter and the Philosopher's Stone.md",
-    "Library/J. K. Rowling - Harry Potter and the Order of the Pheonix.md",
-    "Library/J. K. Rowling - Harry Potter and the Prisoner of Azkaban.md",
     "Notes/Books.md",
-    "Library/Virgil - The Aeneid.md",
+    "Library/Friedrich Nietzsche - Beyond Good and Evil.md",
+    "Library/Friedrich Nietzsche - The Gay Science.md",
+    "Library.md",
+    "Library/Yan Lianke - The Day the Sun Died.md",
     "Library/Wu Cheng'en - Journey to the West.md",
-    "Library/Guanzhong Luo - Outlaws of the Marsh.md",
-    "Library/Guanzhong Luo - Three Kingdoms.md",
-    "Library/Plutarch - The Age of Alexander.md",
-    "Library/Homer - The Odyssey.md",
-    "Library/Plutarch - The Campaigns of Alexander.md",
-    "Library/Franz Kafka - Metamorphosis and Other Stories.md",
-    "Library/Euripides - Medea and Other Plays.md",
-    "Library/Khaled Hosseini - The Kite Runner.md",
+    "Library/Virgil - The Aeneid.md",
+    "Library/Tara Westover - Educated.md",
     "Library/Sun Tzu - The Art of War.md",
-    "Library/Karl Marx, Friedrich Engels - The Communist Manifesto.md",
-    "Library/Andy Mulligan - Trash.md",
-    "Library/S E Hinton - The Outsiders.md",
-    "Library/John Steinbeck - Of Mice and Men.md",
-    "Library/Brian Friel - Philadelphia Here I Come.md",
+    "Library/Stacy Schiff - The Witches Salem, 1692.md",
+    "Library/S. E. Hinton - The Outsiders.md",
+    "Library/Richard Heygate, Philip Carr-Gomm - The Book of English Magic.md",
+    "Library/René Descartes - Discourse on Method and Related Writings.md",
+    "Library/Arrian - The Campaigns of Alexander.md",
     "Library/Plato - The Republic.md",
+    "Library/Plutarch - The Age of Alexander.md",
+    "Library/Osamu Dazai - No Longer Human.md",
+    "Library/Osamu Dazai- The Setting Sun.md",
+    "Library/Mary Shelley - Frankenstein.md",
+    "Library/Lao Zi - Dao de Jing in Clear English.md",
+    "Library/Khaled Hosseini - The Kite Runner.md",
+    "Library/Karl Marx, Friedrich Engels - The Communist Manifesto.md",
+    "Library/Jordan B. Peterson - 12 Rules for Life.md",
+    "Library/John Steinbeck - Of Mice and Men.md",
+    "Library/Jenny Downham - Before I Die.md",
+    "Library/Jane Austen - Pride and Prejudice.md",
     "Home Page/Home.canvas",
     "Library/Covers/太宰治 - The Setting Sun.jpg",
     "Library/Covers/- Dao de Jing in Clear English.jpg",
