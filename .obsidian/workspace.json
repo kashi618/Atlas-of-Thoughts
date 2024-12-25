@@ -6,7 +6,6 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 48.516949152542374,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -28,46 +27,6 @@
             }
           },
           {
-            "id": "227aa5cd385b8de0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Books.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Books"
-            }
-          },
-          {
-            "id": "57c39371aceef091",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Library/George RR Martin - The Winds of Winter.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "George RR Martin - The Winds of Winter"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "65d6343cd5de2be9",
-        "type": "tabs",
-        "dimension": 51.483050847457626,
-        "children": [
-          {
             "id": "8e2d05cd2df89de1",
             "type": "leaf",
             "pinned": true,
@@ -75,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "Library.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
@@ -84,7 +43,8 @@
               "title": "Library"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,10 +117,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Library/George RR Martin - The Winds of Winter.md"
+                "file": "Library.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of George RR Martin - The Winds of Winter"
+              "title": "Outline of Library"
             }
           },
           {
@@ -169,10 +129,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Library/George RR Martin - The Winds of Winter.md"
+                "file": "Library.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for George RR Martin - The Winds of Winter"
+              "title": "File properties for Library"
             }
           }
         ],
@@ -215,38 +175,37 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "57c39371aceef091",
+  "active": "8e2d05cd2df89de1",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
     "Notes/Books.md",
-    "Library/George RR Martin - The Winds of Winter.md",
-    "Library/George RR Martin - A Dance With Dragons Part 2 After The Feast (A Song of Ice and Fire Book 5).md",
-    "Library/George R R Martin - A Feast for Crows.md",
-    "Library/George R R Martin - A Storm of Swords.md",
-    "Library/George R R Martin - A Clash of Kings (HBO Tie-in Edition).md",
-    "Library/George RR Martin - A Game of Thrones (A Song of Ice and Fire).md",
-    "Library/George Orwell - Animal Farm.md",
-    "Library/Fyodor Dostoyevsky - The Brothers Karamazov.md",
-    "Library/Fyodor Dostoevsky - Crime and Punishment (Premium Edition).md",
-    "Library/Fyodor Dostoevsky - Crime and Punishment.md",
-    "Library/Frank Herbert - Dune.md",
-    "Library/F Scott Fitzgerald - The Great Gatsby.md",
-    "Library/C.M. Kösemen - All Tomorrows.md",
+    "Library/Jim Halligan - Diabolic Downloads.md",
+    "Library/David Walliams - Mr Stink.md",
+    "Library/David Walliams - Billionaire Boy.md",
+    "Library/David Walliams - Gangsta Granny.md",
+    "Library/David Walliams - Ratburger.md",
+    "Library/David Walliams - Demon Dentist.md",
+    "Library/David Walliams - Awful Auntie.md",
+    "Library/David Walliams - Grandpa’s Great Escape.md",
+    "Library/David Walliams - The Midnight Gang.md",
+    "Library/Maeve Friel - The Lantern Moon.md",
+    "Library/Roald Dahl - Matilda.md",
+    "Library/Roald Dahl - The BFG.md",
+    "Library/Roald Dahl - The Twits.md",
+    "Library/Roald Dahl - Danny the Champion of the World.md",
+    "Library/Roald Dahl - Fantastic Mr Fox.md",
+    "Library/Roald Dahl - James and the Giant Peach.md",
+    "Library/Roald Dahl - Charlie and the Great Glass Elevator.md",
+    "Library/Roald Dahl - Charlie and the Chocolate Factory.md",
+    "Library/Yukio Mishima - Spring Snow.md",
+    "Library/Yukio Mishima - Confessions of a Mask.md",
+    "Library/Stephen Hawking - A Briefer History of Time.md",
+    "Library/Stephen Hawking - A Brief History of Time.md",
+    "Library/Carlo Rovelli - Seven Brief Lessons on Physics.md",
+    "Library/Wilfrid Voynich - The Voynich Manuscript.md",
     "PDF's/All Tomorrows.pdf",
     "PDF's/book all tomorrows.pdf",
     "PDF's/book all tomorrows-compressed.pdf",
-    "Library/John Conway C M Kosemen Darren Naish - All Yesterdays.md",
-    "Library/René Descartes - Meditations on First Philosophy.md",
-    "Library/Cormac McCarthy - Blood Meridian.md",
-    "Library/Bret Easton Ellis - American Psycho.md",
-    "Library/Bram Stoker - Dracula.md",
-    "Library/Alexandre Dumas - The Count of Monte Cristo.md",
-    "Library/Anne Frank - Anne Frank's Tales from the Secret Annex.md",
-    "Library/Anne Frank - Anne Frank.md",
-    "Library/Agustina Bazterrica - Tender Is the Flesh.md",
-    "Library/Marco Pierre White - White Heat.md",
-    "Library/Marco Pierre White James Steen - The Devil in the Kitchen.md",
-    "Library/Shen Fu - Six Records of a Floating Life.md",
-    "Home Page/Home.canvas",
     "Library/Covers/太宰治 - The Setting Sun.jpg",
     "Library/Covers/- Dao de Jing in Clear English.jpg",
     "Library/Covers",
