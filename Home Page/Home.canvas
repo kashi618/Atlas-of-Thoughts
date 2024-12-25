@@ -1,21 +1,22 @@
 {
 	"nodes":[
-		{"id":"43074f08a0c72bdb","type":"file","file":"Other/explosion.gif","x":-960,"y":-470,"width":70,"height":70},
-		{"id":"0de3c7bc805753ac","type":"file","file":"Other/explosion.gif","x":-890,"y":-470,"width":70,"height":70},
-		{"id":"af36ad340487c526","type":"file","file":"Other/explosion.gif","x":-827,"y":-470,"width":70,"height":70},
-		{"id":"9188e7424254e7cd","type":"file","file":"Notes/Library.md","x":-960,"y":-230,"width":720,"height":650},
-		{"id":"58d2d28bdd32c1c1","type":"file","file":"Notes/Wishlist.md","x":-240,"y":-230,"width":720,"height":650},
-		{"id":"48d123dde7208a81","type":"text","text":"<h1><center>Welcome to The Atlas of Thoughts</center></h1>","x":-757,"y":-470,"width":1027,"height":70,"color":"6"},
-		{"id":"11df28296ae48641","type":"file","file":"Other/explosion.gif","x":340,"y":-470,"width":70,"height":70},
-		{"id":"e3165d98c0cf694e","type":"file","file":"Other/explosion.gif","x":410,"y":-470,"width":70,"height":70},
-		{"id":"5b4e31c94a1876e8","type":"file","file":"Other/explosion.gif","x":270,"y":-470,"width":70,"height":70},
-		{"id":"f05d4153590402ee","type":"text","text":"# TU856 - Computer Science\n\n| [Brightspace](https://brightspace.tudublin.ie/d2l/home)                                                                                              | [Publish](https://timetables.tudublin.ie/) | [Office](https://www.office.com/)     |\n| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------------------------- |\n| [Societies & Clubs](https://mystudentlife.tudublin.ie/account/index.php?object=VXNlckRhc2hib2FyZA==&method=ZGFzaGJvYXJkU3RhbmRhcmRVc2Vy&action=Nw==) | [Library](https://library.tudublin.ie/)    | [[TU856 - Computer Science\\|Modules]] |\n","x":-463,"y":-400,"width":440,"height":170},
-		{"id":"c3f964cbb7ce30ac","type":"file","file":"Other/Nietzsche.gif","x":-960,"y":-400,"width":170,"height":170},
-		{"id":"ed260d8b82fa0f03","type":"file","file":"Other/Descartes.gif","x":310,"y":-400,"width":170,"height":170},
-		{"id":"bfc0f9e94a4a9d7a","type":"file","file":"Other/Memento Mori - Polyphia.gif","x":-790,"y":-400,"width":170,"height":170},
-		{"id":"d727aaa821f082a2","type":"file","file":"Other/obamna.gif","x":-620,"y":-393,"width":157,"height":157},
-		{"id":"015ef998e5e0b157","type":"file","file":"Other/Memento Mori - Polyphia.gif","x":140,"y":-400,"width":170,"height":170},
-		{"id":"32e43220c78761c2","type":"file","file":"Other/obamna.gif","x":-23,"y":-393,"width":157,"height":157}
+		{"id":"8303074471a5a23d","type":"file","file":"Other/Nietzsche.gif","x":-186,"y":-180,"width":170,"height":170},
+		{"id":"f05d4153590402ee","type":"text","text":"**TU856 - Computer Science**\n\n| [Brightspace](https://brightspace.tudublin.ie/d2l/home)                                                                                              | [Publish](https://timetables.tudublin.ie/) | [Office](https://www.office.com/)     |\n| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------------------------- |\n| [Societies & Clubs](https://mystudentlife.tudublin.ie/account/index.php?object=VXNlckRhc2hib2FyZA==&method=ZGFzaGJvYXJkU3RhbmRhcmRVc2Vy&action=Nw==) | [Library](https://library.tudublin.ie/)    | [[TU856 - Computer Science\\|Modules]] |\n","x":-463,"y":-370,"width":440,"height":140},
+		{"id":"9188e7424254e7cd","type":"file","file":"Notes/Library.md","x":-963,"y":-230,"width":720,"height":650},
+		{"id":"10d55274b91fa57a","type":"file","file":"Other/explosion.gif","x":-963,"y":-300,"width":70,"height":70},
+		{"id":"2dc042af1606fc86","type":"file","file":"Other/explosion.gif","x":-963,"y":-370,"width":70,"height":70},
+		{"id":"c8462c3a2f6c3bd2","type":"file","file":"Other/explosion.gif","x":-963,"y":-440,"width":70,"height":70},
+		{"id":"d883ced986b3fad0","type":"file","file":"Other/explosion.gif","x":-893,"y":-440,"width":70,"height":70},
+		{"id":"681642f7675e47c5","type":"file","file":"Other/explosion.gif","x":-823,"y":-440,"width":70,"height":70},
+		{"id":"48d123dde7208a81","type":"text","text":"<h1><center>Welcome to The Atlas of Thoughts</center></h1>","x":-754,"y":-440,"width":1023,"height":70,"color":"6"},
+		{"id":"53f250eaf3adbf3a","type":"file","file":"Other/explosion.gif","x":269,"y":-440,"width":70,"height":70},
+		{"id":"572c334bede5985b","type":"file","file":"Other/explosion.gif","x":339,"y":-440,"width":70,"height":70},
+		{"id":"bf1d2ad0d188ae8c","type":"file","file":"Other/explosion.gif","x":409,"y":-440,"width":70,"height":70},
+		{"id":"38a86ef9527bb4ae","type":"file","file":"Other/explosion.gif","x":409,"y":-370,"width":70,"height":70},
+		{"id":"e60c64ba73f3028b","type":"file","file":"Other/explosion.gif","x":409,"y":-299,"width":70,"height":70},
+		{"id":"17344afeff5c45f3","x":-603,"y":-370,"width":140,"height":140,"type":"file","file":"Other/Descartes.gif"},
+		{"id":"e83f1a8fe65ca2b8","x":-23,"y":-370,"width":140,"height":140,"type":"file","file":"Other/Nietzsche.gif"},
+		{"id":"58d2d28bdd32c1c1","type":"file","file":"Notes/Wishlist.md","x":-243,"y":-230,"width":720,"height":650}
 	],
 	"edges":[]
 }

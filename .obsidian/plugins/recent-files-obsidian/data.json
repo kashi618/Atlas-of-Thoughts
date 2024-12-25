@@ -9,16 +9,20 @@
       "path": "Notes/Wishlist.md"
     },
     {
-      "basename": "Library",
-      "path": "Notes/Library.md"
+      "basename": "Nietzsche",
+      "path": "Other/Nietzsche.gif"
     },
     {
-      "basename": "obsidian-icon",
-      "path": "Other/obsidian-icon.png"
+      "basename": "Descartes",
+      "path": "Other/Descartes.gif"
     },
     {
       "basename": "obamna",
       "path": "Other/obamna.gif"
+    },
+    {
+      "basename": "obsidian-icon",
+      "path": "Other/obsidian-icon.png"
     },
     {
       "basename": "Memento Mori - Polyphia",
@@ -29,12 +33,8 @@
       "path": "Other/explosion.gif"
     },
     {
-      "basename": "Descartes",
-      "path": "Other/Descartes.gif"
-    },
-    {
-      "basename": "Nietzsche",
-      "path": "Other/Nietzsche.gif"
+      "basename": "Library",
+      "path": "Notes/Library.md"
     },
     {
       "basename": "Neil Gaiman Edward E Kramer - The Sandman",
