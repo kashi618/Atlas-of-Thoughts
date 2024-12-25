@@ -45,37 +45,22 @@
             }
           },
           {
-            "id": "9a17c3de7cd9199d",
+            "id": "57c39371aceef091",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Library/Friedrich Nietzsche - The Gay Science.md",
+                "file": "Library/George RR Martin - The Winds of Winter.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Friedrich Nietzsche - The Gay Science"
-            }
-          },
-          {
-            "id": "5d2c6b0d68acfdb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Library/Friedrich Nietzsche - Beyond Good and Evil.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Friedrich Nietzsche - Beyond Good and Evil"
+              "title": "George RR Martin - The Winds of Winter"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "65d6343cd5de2be9",
@@ -172,10 +157,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Library/Friedrich Nietzsche - Beyond Good and Evil.md"
+                "file": "Library/George RR Martin - The Winds of Winter.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Friedrich Nietzsche - Beyond Good and Evil"
+              "title": "Outline of George RR Martin - The Winds of Winter"
             }
           },
           {
@@ -184,10 +169,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Library/Friedrich Nietzsche - Beyond Good and Evil.md"
+                "file": "Library/George RR Martin - The Winds of Winter.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Friedrich Nietzsche - Beyond Good and Evil"
+              "title": "File properties for George RR Martin - The Winds of Winter"
             }
           }
         ],
@@ -230,34 +215,37 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "5d2c6b0d68acfdb1",
+  "active": "57c39371aceef091",
   "lastOpenFiles": [
     "Notes/Books.md",
-    "Library/Friedrich Nietzsche - Beyond Good and Evil.md",
-    "Library/Friedrich Nietzsche - The Gay Science.md",
-    "Library.md",
-    "Library/Yan Lianke - The Day the Sun Died.md",
-    "Library/Wu Cheng'en - Journey to the West.md",
-    "Library/Virgil - The Aeneid.md",
-    "Library/Tara Westover - Educated.md",
-    "Library/Sun Tzu - The Art of War.md",
-    "Library/Stacy Schiff - The Witches Salem, 1692.md",
-    "Library/S. E. Hinton - The Outsiders.md",
-    "Library/Richard Heygate, Philip Carr-Gomm - The Book of English Magic.md",
-    "Library/René Descartes - Discourse on Method and Related Writings.md",
-    "Library/Arrian - The Campaigns of Alexander.md",
-    "Library/Plato - The Republic.md",
-    "Library/Plutarch - The Age of Alexander.md",
-    "Library/Osamu Dazai - No Longer Human.md",
-    "Library/Osamu Dazai- The Setting Sun.md",
-    "Library/Mary Shelley - Frankenstein.md",
-    "Library/Lao Zi - Dao de Jing in Clear English.md",
-    "Library/Khaled Hosseini - The Kite Runner.md",
-    "Library/Karl Marx, Friedrich Engels - The Communist Manifesto.md",
-    "Library/Jordan B. Peterson - 12 Rules for Life.md",
-    "Library/John Steinbeck - Of Mice and Men.md",
-    "Library/Jenny Downham - Before I Die.md",
-    "Library/Jane Austen - Pride and Prejudice.md",
+    "Library/George RR Martin - The Winds of Winter.md",
+    "Library/George RR Martin - A Dance With Dragons Part 2 After The Feast (A Song of Ice and Fire Book 5).md",
+    "Library/George R R Martin - A Feast for Crows.md",
+    "Library/George R R Martin - A Storm of Swords.md",
+    "Library/George R R Martin - A Clash of Kings (HBO Tie-in Edition).md",
+    "Library/George RR Martin - A Game of Thrones (A Song of Ice and Fire).md",
+    "Library/George Orwell - Animal Farm.md",
+    "Library/Fyodor Dostoyevsky - The Brothers Karamazov.md",
+    "Library/Fyodor Dostoevsky - Crime and Punishment (Premium Edition).md",
+    "Library/Fyodor Dostoevsky - Crime and Punishment.md",
+    "Library/Frank Herbert - Dune.md",
+    "Library/F Scott Fitzgerald - The Great Gatsby.md",
+    "Library/C.M. Kösemen - All Tomorrows.md",
+    "PDF's/All Tomorrows.pdf",
+    "PDF's/book all tomorrows.pdf",
+    "PDF's/book all tomorrows-compressed.pdf",
+    "Library/John Conway C M Kosemen Darren Naish - All Yesterdays.md",
+    "Library/René Descartes - Meditations on First Philosophy.md",
+    "Library/Cormac McCarthy - Blood Meridian.md",
+    "Library/Bret Easton Ellis - American Psycho.md",
+    "Library/Bram Stoker - Dracula.md",
+    "Library/Alexandre Dumas - The Count of Monte Cristo.md",
+    "Library/Anne Frank - Anne Frank's Tales from the Secret Annex.md",
+    "Library/Anne Frank - Anne Frank.md",
+    "Library/Agustina Bazterrica - Tender Is the Flesh.md",
+    "Library/Marco Pierre White - White Heat.md",
+    "Library/Marco Pierre White James Steen - The Devil in the Kitchen.md",
+    "Library/Shen Fu - Six Records of a Floating Life.md",
     "Home Page/Home.canvas",
     "Library/Covers/太宰治 - The Setting Sun.jpg",
     "Library/Covers/- Dao de Jing in Clear English.jpg",
@@ -274,9 +262,6 @@
     "College/Program Design",
     "College/IT Fundamentals",
     "C Programming Language - 2nd Edition (OCR).pdf",
-    "smart-chats",
-    "College/Web Development",
-    "College/Unsorted Notes/CMPU 1031 - Web Development 1",
     "Other/Pasted image 20241115153653.png",
     "Other/Pasted image 20241115153526.png"
   ]
