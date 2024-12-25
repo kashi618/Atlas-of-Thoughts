@@ -5,6 +5,14 @@
       "path": "Library.md"
     },
     {
+      "basename": "Neil Gaiman Edward E Kramer - The Sandman",
+      "path": "Library/Neil Gaiman Edward E Kramer - The Sandman.md"
+    },
+    {
+      "basename": "Tara Westover - Educated",
+      "path": "Library/Tara Westover - Educated.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Olaf Stapledon - Star Maker",
       "path": "Library/Olaf Stapledon - Star Maker.md"
-    },
-    {
-      "basename": "Olaf Stapledon - Last and First Men (Sci-Fi Novel)",
-      "path": "Library/Olaf Stapledon - Last and First Men (Sci-Fi Novel).md"
-    },
-    {
-      "basename": "Neil Gaiman Edward E Kramer - The Sandman",
-      "path": "Library/Neil Gaiman Edward E Kramer - The Sandman.md"
     }
   ],
   "omittedPaths": [],
