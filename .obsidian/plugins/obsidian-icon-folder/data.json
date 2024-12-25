@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNewspaper",
+      "LiLibraryBig",
       "LiCalendarDays",
       "LiCode",
-      "LiPanelBottomInactive",
-      "LiCalendar",
-      "LiCalendarX"
+      "LiPanelBottomInactive"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,7 @@
   "Home Page": "LiHome",
   "Notes": "LiStickyNote",
   "Templates": "LiFolders",
-  "Other": "LiPanelBottomInactive"
+  "Other": "LiPanelBottomInactive",
+  "Library": "LiLibraryBig",
+  "PDF's": "LiNewspaper"
 }

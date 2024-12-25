@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Wishlist",
+      "path": "Notes/Wishlist.md"
+    },
+    {
       "basename": "Library",
-      "path": "Library.md"
+      "path": "Notes/Library.md"
+    },
+    {
+      "basename": "obsidian-icon",
+      "path": "Other/obsidian-icon.png"
+    },
+    {
+      "basename": "obamna",
+      "path": "Other/obamna.gif"
+    },
+    {
+      "basename": "Memento Mori - Polyphia",
+      "path": "Other/Memento Mori - Polyphia.gif"
+    },
+    {
+      "basename": "explosion",
+      "path": "Other/explosion.gif"
+    },
+    {
+      "basename": "Descartes",
+      "path": "Other/Descartes.gif"
+    },
+    {
+      "basename": "Nietzsche",
+      "path": "Other/Nietzsche.gif"
     },
     {
       "basename": "Neil Gaiman Edward E Kramer - The Sandman",
@@ -11,10 +43,6 @@
     {
       "basename": "Tara Westover - Educated",
       "path": "Library/Tara Westover - Educated.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Books",
@@ -171,34 +199,6 @@
     {
       "basename": "Stephen King - It",
       "path": "Library/Stephen King - It.md"
-    },
-    {
-      "basename": "Stephen King - The Shining",
-      "path": "Library/Stephen King - The Shining.md"
-    },
-    {
-      "basename": "Shelley Parker-Chan - She Who Became the Sun",
-      "path": "Library/Shelley Parker-Chan - She Who Became the Sun.md"
-    },
-    {
-      "basename": "Shelley Parker-Chan - He Who Drowned the World",
-      "path": "Library/Shelley Parker-Chan - He Who Drowned the World.md"
-    },
-    {
-      "basename": "Richard Preston - The Hot Zone",
-      "path": "Library/Richard Preston - The Hot Zone.md"
-    },
-    {
-      "basename": "Ray Bradbury - Fahrenheit 451",
-      "path": "Library/Ray Bradbury - Fahrenheit 451.md"
-    },
-    {
-      "basename": "Rebecca Skloot - The Immortal Life of Henrietta Lacks",
-      "path": "Library/Rebecca Skloot - The Immortal Life of Henrietta Lacks.md"
-    },
-    {
-      "basename": "Olaf Stapledon - Star Maker",
-      "path": "Library/Olaf Stapledon - Star Maker.md"
     }
   ],
   "omittedPaths": [],

@@ -8,9 +8,8 @@
 - VR Headset
 - Mini Display Port to HDMI cable
 - Microphone
-
+## To Buy in China
+- Crucial 5600Mhz 16GB DDR5 Laptop Ram
+- Safety Razor
 ## Other
 - Swiss Army Knife
-
-## URGENT
-https://apply-ugoty.gradireland.com/Application/Status/2706

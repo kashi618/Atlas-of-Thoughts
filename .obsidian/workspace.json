@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "244d07bd397ea5f9",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "5fb72ee059bfaf5a",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,35 +16,17 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 83.65495495495497,
-                  "y": -14.530930930930936,
-                  "zoom": -0.2352087936780073
+                  "x": -165.33050847457642,
+                  "y": 53.8119703389831,
+                  "zoom": -0.16175106999661237
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "8e2d05cd2df89de1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Library.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Library"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.5
+    "width": 460.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -117,10 +100,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Library.md"
+                "file": "Home Page/Home.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of Library"
+              "title": "Outline of Home"
             }
           },
           {
@@ -129,10 +112,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Library.md"
+                "file": "Home Page/Home.canvas"
               },
               "icon": "lucide-info",
-              "title": "File properties for Library"
+              "title": "File properties for Home"
             }
           }
         ],
@@ -175,12 +158,22 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "8e2d05cd2df89de1",
+  "active": "5fb72ee059bfaf5a",
   "lastOpenFiles": [
-    "Library/Neil Gaiman Edward E Kramer - The Sandman.md",
-    "Library.md",
-    "Library/Tara Westover - Educated.md",
+    "Other/obsidian-icon.png",
     "Home Page/Home.canvas",
+    "Notes/Library.md",
+    "Other/obamna.gif",
+    "Notes/Wishlist.md",
+    "Home Page/Useful.md",
+    "Other/Memento Mori - Polyphia.gif",
+    "Other/Descartes.gif",
+    "Home Page/Home.md",
+    "Home Page/General Notes.md",
+    "Home Page/Currently Reading.md",
+    "Home Page/Arch Linux Essential Packages.md",
+    "Library/Neil Gaiman Edward E Kramer - The Sandman.md",
+    "Library/Tara Westover - Educated.md",
     "Notes/Books.md",
     "Library/Jim Halligan - Diabolic Downloads.md",
     "Library/David Walliams - Mr Stink.md",
@@ -197,13 +190,6 @@
     "Library/Roald Dahl - The Twits.md",
     "Library/Roald Dahl - Danny the Champion of the World.md",
     "Library/Roald Dahl - Fantastic Mr Fox.md",
-    "Library/Roald Dahl - James and the Giant Peach.md",
-    "Library/Roald Dahl - Charlie and the Great Glass Elevator.md",
-    "Library/Roald Dahl - Charlie and the Chocolate Factory.md",
-    "Library/Yukio Mishima - Spring Snow.md",
-    "Library/Yukio Mishima - Confessions of a Mask.md",
-    "Library/Stephen Hawking - A Briefer History of Time.md",
-    "Library/Stephen Hawking - A Brief History of Time.md",
     "PDF's/All Tomorrows.pdf",
     "PDF's/book all tomorrows.pdf",
     "PDF's/book all tomorrows-compressed.pdf",
@@ -212,17 +198,13 @@
     "Library/Covers",
     "Library",
     "PDF's/C Programming Language - 2nd Edition (OCR).pdf",
-    "Other/obamna.gif",
     "Other/Pasted image 20241129152905.png",
     "Other/Pasted image 20241129152825.png",
     "Other/Pasted image 20241129152735.png",
     "Other/Pasted image 20241129152619.png",
-    "Other/Pasted image 20241129152441.png",
     "PDF's",
     "College/Program Design",
     "College/IT Fundamentals",
-    "C Programming Language - 2nd Edition (OCR).pdf",
-    "Other/Pasted image 20241115153653.png",
-    "Other/Pasted image 20241115153526.png"
+    "C Programming Language - 2nd Edition (OCR).pdf"
   ]
 }
