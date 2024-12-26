@@ -5,6 +5,14 @@
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "C.M. Kösemen - All Tomorrows",
+      "path": "Library/C.M. Kösemen - All Tomorrows.md"
+    },
+    {
+      "basename": "Library",
+      "path": "Notes/Library.md"
+    },
+    {
       "basename": "obamna",
       "path": "Other/obamna.gif"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "explosion",
       "path": "Other/explosion.gif"
-    },
-    {
-      "basename": "Library",
-      "path": "Notes/Library.md"
     },
     {
       "basename": "Neil Gaiman Edward E Kramer - The Sandman",
@@ -195,10 +199,6 @@
     {
       "basename": "Stephen King - Eleven Twenty-two Sixty-three",
       "path": "Library/Stephen King - Eleven Twenty-two Sixty-three.md"
-    },
-    {
-      "basename": "Stephen King - It",
-      "path": "Library/Stephen King - It.md"
     }
   ],
   "omittedPaths": [],

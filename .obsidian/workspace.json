@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -20,6 +21,7 @@
                   "zoom": -0.11960631922337778
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
@@ -205,10 +207,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Library/C.M. Kösemen - All Tomorrows.md",
+    "Notes/Library.md",
     "Home Page/Home.canvas",
     "Other/Memento Mori - Polyphia.gif",
     "Other/obsidian-icon.png",
-    "Notes/Library.md",
     "Other/obamna.gif",
     "Notes/Wishlist.md",
     "Home Page/Useful.md",
