@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "244d07bd397ea5f9",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "5fb72ee059bfaf5a",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -18,10 +17,9 @@
                 "viewState": {
                   "x": -242,
                   "y": -10,
-                  "zoom": 0
+                  "zoom": -0.11960631922337778
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
@@ -62,7 +60,8 @@
               "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6c11478956cecf76",
@@ -83,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.5,
-    "collapsed": true
+    "width": 460.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -116,6 +114,53 @@
               },
               "icon": "lucide-info",
               "title": "File properties for Home"
+            }
+          },
+          {
+            "id": "064de5cb61127fc3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home Page/Home.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Home"
+            }
+          },
+          {
+            "id": "9bb1df5fa77f8d00",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home Page/Home.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Home"
+            }
+          },
+          {
+            "id": "35168585309536d3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -158,10 +203,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "5fb72ee059bfaf5a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Other/Memento Mori - Polyphia.gif",
     "Home Page/Home.canvas",
+    "Other/Memento Mori - Polyphia.gif",
     "Other/obsidian-icon.png",
     "Notes/Library.md",
     "Other/obamna.gif",
