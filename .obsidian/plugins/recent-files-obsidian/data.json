@@ -5,6 +5,10 @@
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "Wishlist",
+      "path": "Notes/Wishlist.md"
+    },
+    {
       "basename": "C.M. Kösemen - All Tomorrows",
       "path": "Library/C.M. Kösemen - All Tomorrows.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Memento Mori - Polyphia",
       "path": "Other/Memento Mori - Polyphia.gif"
-    },
-    {
-      "basename": "Wishlist",
-      "path": "Notes/Wishlist.md"
     },
     {
       "basename": "Nietzsche",
