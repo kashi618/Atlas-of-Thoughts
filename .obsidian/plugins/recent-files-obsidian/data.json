@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "TV Shows & Movies & Anime & Manga",
+      "path": "Notes/TV Shows & Movies & Anime & Manga.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Vladimir Nabokov - Lolita",
       "path": "Library/Vladimir Nabokov - Lolita.md"
-    },
-    {
-      "basename": "Stephen King - Eleven Twenty-two Sixty-three",
-      "path": "Library/Stephen King - Eleven Twenty-two Sixty-three.md"
     }
   ],
   "omittedPaths": [],
