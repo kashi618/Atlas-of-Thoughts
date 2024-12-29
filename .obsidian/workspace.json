@@ -10,18 +10,16 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": -242,
-                  "y": -10,
+                  "y": -9.5,
                   "zoom": -0.11960631922337778
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
@@ -207,9 +205,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
     "Library/C.M. Kösemen - All Tomorrows.md",
     "Notes/Library.md",
-    "Home Page/Home.canvas",
     "Other/Memento Mori - Polyphia.gif",
     "Other/obsidian-icon.png",
     "Other/obamna.gif",
@@ -237,7 +235,6 @@
     "Library/Roald Dahl - The BFG.md",
     "Library/Roald Dahl - The Twits.md",
     "Library/Roald Dahl - Danny the Champion of the World.md",
-    "Library/Roald Dahl - Fantastic Mr Fox.md",
     "PDF's/All Tomorrows.pdf",
     "PDF's/book all tomorrows.pdf",
     "PDF's/book all tomorrows-compressed.pdf",
