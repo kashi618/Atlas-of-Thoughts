@@ -12,6 +12,10 @@
 ## To Buy in China
 - Crucial 5600Mhz 16GB DDR5 Laptop Ram
 - Safety Razor
+
+## EDC
+- Bluetooth IEM Adapter
+- USB-C IEM wire
 ## Other
 - Swiss Army Knife
 - Skateboard
