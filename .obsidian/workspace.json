@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "b00a4c79d873ae4a",
+            "id": "feb84ec6c2ad647b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -99,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460.5
+    "width": 451.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -220,23 +220,27 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "d828e5b8bc561a69",
+  "active": "feb84ec6c2ad647b",
   "lastOpenFiles": [
-    "Other/Pasted image 20250101205551.png",
-    "Other/Pasted image 20250101205542.png",
-    "Other/Pasted image 20250101205502.png",
-    "Other/Pasted image 20250101205326.png",
+    "Other/RTX4070 (mobile) Voltage Frequency Curve.png",
     "Notes/Overclocking & Undervolting 4070 (mobile).md",
+    "Other/RTX4070 (mobile) Stock HWINFO.png",
+    "Other/RTX4070 (mobile) Overclocked Undervolted HWINFO.png",
+    "Other/RTX4070 (mobile) Overclocked Undervolted Kombustor.png",
+    "Other/Pasted image 20241129152905.png",
+    "Other/RTX4070 (mobile) Stock Kombustor.png",
+    "Notes/Agronomist.md",
+    "Notes/Arch Linux - Adding Drives.md",
     "Home Page/Home.canvas",
+    "Other/Screenshot 2025-01-01 204632.png",
+    "Other/Screenshot 2025-01-01 204056 - Copy.png",
+    "Other/Pasted image 20250101205854.png",
+    "Other/Pasted image 20250101205848.png",
     "Notes/TV Shows & Movies & Anime & Manga.md",
     "Library/C.M. Kösemen - All Tomorrows.md",
     "Notes/Library.md",
-    "Other/Memento Mori - Polyphia.gif",
-    "Other/obsidian-icon.png",
-    "Other/obamna.gif",
     "Notes/Wishlist.md",
     "Home Page/Useful.md",
-    "Other/Descartes.gif",
     "Home Page/Home.md",
     "Home Page/General Notes.md",
     "Home Page/Currently Reading.md",
@@ -254,17 +258,12 @@
     "Library/David Walliams - Grandpa’s Great Escape.md",
     "Library/David Walliams - The Midnight Gang.md",
     "Library/Maeve Friel - The Lantern Moon.md",
-    "Library/Roald Dahl - Matilda.md",
-    "Library/Roald Dahl - The BFG.md",
     "PDF's/All Tomorrows.pdf",
     "PDF's/book all tomorrows.pdf",
     "PDF's/book all tomorrows-compressed.pdf",
-    "Library/Covers/太宰治 - The Setting Sun.jpg",
-    "Library/Covers/- Dao de Jing in Clear English.jpg",
     "Library/Covers",
     "Library",
     "PDF's/C Programming Language - 2nd Edition (OCR).pdf",
-    "Other/Pasted image 20241129152905.png",
     "PDF's",
     "College/Program Design",
     "College/IT Fundamentals",

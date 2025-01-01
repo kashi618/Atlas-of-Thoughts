@@ -5,8 +5,36 @@
       "path": "Notes/Overclocking & Undervolting 4070 (mobile).md"
     },
     {
-      "basename": "Pasted image 20250101205326",
-      "path": "Other/Pasted image 20250101205326.png"
+      "basename": "RTX4070 (mobile) Voltage Frequency Curve",
+      "path": "Other/RTX4070 (mobile) Voltage Frequency Curve.png"
+    },
+    {
+      "basename": "RTX4070 (mobile) Stock HWINFO",
+      "path": "Other/RTX4070 (mobile) Stock HWINFO.png"
+    },
+    {
+      "basename": "RTX4070 (mobile) Overclocked Undervolted HWINFO",
+      "path": "Other/RTX4070 (mobile) Overclocked Undervolted HWINFO.png"
+    },
+    {
+      "basename": "RTX4070 (mobile) Overclocked Undervolted Kombustor",
+      "path": "Other/RTX4070 (mobile) Overclocked Undervolted Kombustor.png"
+    },
+    {
+      "basename": "Pasted image 20241129152905",
+      "path": "Other/Pasted image 20241129152905.png"
+    },
+    {
+      "basename": "RTX4070 (mobile) Stock Kombustor",
+      "path": "Other/RTX4070 (mobile) Stock Kombustor.png"
+    },
+    {
+      "basename": "Agronomist",
+      "path": "Notes/Agronomist.md"
+    },
+    {
+      "basename": "Arch Linux - Adding Drives",
+      "path": "Notes/Arch Linux - Adding Drives.md"
     },
     {
       "basename": "Home",
@@ -171,34 +199,6 @@
     {
       "basename": "Yevgeny Zamyatin - We",
       "path": "Library/Yevgeny Zamyatin - We.md"
-    },
-    {
-      "basename": "William Golding - Lord of the Flies",
-      "path": "Library/William Golding - Lord of the Flies.md"
-    },
-    {
-      "basename": "William Gibson - Zero History",
-      "path": "Library/William Gibson - Zero History.md"
-    },
-    {
-      "basename": "William Gibson - Neuromancer",
-      "path": "Library/William Gibson - Neuromancer.md"
-    },
-    {
-      "basename": "William Gibson - Pattern Recognition",
-      "path": "Library/William Gibson - Pattern Recognition.md"
-    },
-    {
-      "basename": "William Gibson - Mona Lisa Overdrive",
-      "path": "Library/William Gibson - Mona Lisa Overdrive.md"
-    },
-    {
-      "basename": "William Gibson - Count Zero",
-      "path": "Library/William Gibson - Count Zero.md"
-    },
-    {
-      "basename": "George Effinger - When Gravity Fails",
-      "path": "Library/George Effinger - When Gravity Fails.md"
     }
   ],
   "omittedPaths": [],
