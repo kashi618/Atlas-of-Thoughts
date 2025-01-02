@@ -41,7 +41,8 @@
               "title": "TU856-1 Semester 1 Results"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,10 +128,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "file": "College/TU856-1 Semester 1 Results.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for TU856-1 Semester 1 Results"
             }
           },
           {
@@ -220,10 +221,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "88726212069e3c5a",
   "lastOpenFiles": [
-    "College/TU856-1 Semester 1 Results.md",
     "Home Page/Home.canvas",
+    "College/TU856-1 Semester 1 Results.md",
     "UNSORTED/Exam - IT Fundamentals - 2024.md",
     "College/Web Development/Forms - HTML.md",
     "College/Programming/Decimal Places and Leading Zeros - C.md",
