@@ -17,7 +17,7 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": -242,
-                  "y": 90.41974132062631,
+                  "y": -10.000000000000028,
                   "zoom": -0.11074029243447762
                 }
               },
@@ -141,10 +141,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "file": "Notes/Projects.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for Projects"
             }
           },
           {

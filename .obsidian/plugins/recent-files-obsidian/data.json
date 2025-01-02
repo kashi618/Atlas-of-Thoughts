@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Projects",
+      "path": "Notes/Projects.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Ampersand - C",
       "path": "College/Programming/Ampersand - C.md"
-    },
-    {
-      "basename": "Projects",
-      "path": "Notes/Projects.md"
     },
     {
       "basename": "Exam - IT Fundamentals - 2024",
