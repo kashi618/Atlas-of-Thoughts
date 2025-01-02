@@ -56,8 +56,7 @@
               "title": "Pointers and Arrays - C"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,10 +141,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "College/TU856-1 Semester 1 Results.md"
+                "file": "Notes/Wishlist.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for TU856-1 Semester 1 Results"
+              "title": "File properties for Wishlist"
             }
           },
           {
@@ -235,13 +234,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "88726212069e3c5a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "College/TU856-1 Semester 1 Results.md",
     "College/Programming/Pointers and Arrays - C.md",
     "College/Programming/Dynamic Memory Allocation - C.md",
     "College/Programming/Ampersand - C.md",
     "Home Page/Home.canvas",
-    "College/TU856-1 Semester 1 Results.md",
     "UNSORTED/Exam - IT Fundamentals - 2024.md",
     "College/Web Development/Forms - HTML.md",
     "College/Programming/Decimal Places and Leading Zeros - C.md",
