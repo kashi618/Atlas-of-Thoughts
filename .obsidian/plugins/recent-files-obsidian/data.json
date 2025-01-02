@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "TU856-1 Semester 1 Results",
-      "path": "College/TU856-1 Semester 1 Results.md"
+      "basename": "Pointers and Arrays - C",
+      "path": "College/Programming/Pointers and Arrays - C.md"
+    },
+    {
+      "basename": "Dynamic Memory Allocation - C",
+      "path": "College/Programming/Dynamic Memory Allocation - C.md"
+    },
+    {
+      "basename": "Ampersand - C",
+      "path": "College/Programming/Ampersand - C.md"
     },
     {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "TU856-1 Semester 1 Results",
+      "path": "College/TU856-1 Semester 1 Results.md"
     },
     {
       "basename": "Projects",
@@ -187,18 +199,6 @@
     {
       "basename": "Yukio Mishima - Spring Snow",
       "path": "Library/Yukio Mishima - Spring Snow.md"
-    },
-    {
-      "basename": "Yukio Mishima - Confessions of a Mask",
-      "path": "Library/Yukio Mishima - Confessions of a Mask.md"
-    },
-    {
-      "basename": "Stephen Hawking - A Briefer History of Time",
-      "path": "Library/Stephen Hawking - A Briefer History of Time.md"
-    },
-    {
-      "basename": "Stephen Hawking - A Brief History of Time",
-      "path": "Library/Stephen Hawking - A Brief History of Time.md"
     }
   ],
   "omittedPaths": [],

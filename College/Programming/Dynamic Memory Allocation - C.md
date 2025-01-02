@@ -13,7 +13,7 @@ Allocated a contiguous block of memory, and returns a pointer to the start of th
 #include <stdlib.h>>
 pointerName = malloc(size);
 ```
-- **size** is the toal number of **bytes** required for the memory block
+- **size** is the total number of **bytes** required for the memory block
 	- You can use [[sizeof() - c|sizeof()]] to find the amount of bytes in a particular data type.
 	- Or you can calculate it yourself, [[Data Types]]
 - malloc() initializes the block of memory with [[Random Data - C|random data]].
@@ -36,7 +36,7 @@ int main () {
 	scanf("%d",&numbers);	
 	
 	// Calcualtes the amount of bytes needed
-	num_bytes = numbesr * sizeof(int);
+	num_bytes = numbers * sizeof(int);
 	
 	// Allocates a block of memory
 	ptr = malloc(no_bytes);
