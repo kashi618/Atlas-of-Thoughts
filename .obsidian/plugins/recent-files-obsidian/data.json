@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Wishlist",
+      "path": "Notes/Wishlist.md"
+    },
+    {
       "basename": "TU856-1 Semester 1 Results",
       "path": "College/TU856-1 Semester 1 Results.md"
     },
@@ -13,20 +21,12 @@
       "path": "Notes/Projects.md"
     },
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
-    },
-    {
       "basename": "Forms - HTML",
       "path": "College/Web Development/Forms - HTML.md"
     },
     {
       "basename": "Decimal Places and Leading Zeros - C",
       "path": "College/Programming/Decimal Places and Leading Zeros - C.md"
-    },
-    {
-      "basename": "Wishlist",
-      "path": "Notes/Wishlist.md"
     },
     {
       "basename": "Library",

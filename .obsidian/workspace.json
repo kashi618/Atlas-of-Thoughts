@@ -17,7 +17,7 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": -242,
-                  "y": -10,
+                  "y": 90.41974132062631,
                   "zoom": -0.11074029243447762
                 }
               },
@@ -41,8 +41,7 @@
               "title": "TU856-1 Semester 1 Results"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,11 +219,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "d828e5b8bc561a69",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "College/TU856-1 Semester 1 Results.md",
     "UNSORTED/Exam - IT Fundamentals - 2024.md",
     "Home Page/Home.canvas",
-    "College/TU856-1 Semester 1 Results.md",
     "College/Web Development/Forms - HTML.md",
     "College/Programming/Decimal Places and Leading Zeros - C.md",
     "Notes/Wishlist.md",
