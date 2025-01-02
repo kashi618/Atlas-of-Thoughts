@@ -141,10 +141,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Wishlist.md"
+                "file": "Home Page/Home.canvas"
               },
               "icon": "lucide-info",
-              "title": "File properties for Wishlist"
+              "title": "File properties for Home"
             }
           },
           {

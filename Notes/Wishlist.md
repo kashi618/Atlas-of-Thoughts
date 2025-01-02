@@ -8,7 +8,7 @@
 - Microphone
 - 2.1 Speakers
   Edifier R1280Ts
-- Steam Deck 1TB
+- Steam Deck 1TB Oled
 ## To Buy in China
 - Crucial 5600Mhz 16GB DDR5 Laptop Ram
 - Safety Razor
