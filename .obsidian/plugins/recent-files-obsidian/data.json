@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Overclocking & Undervolting 4070 (mobile)",
       "path": "Notes/Overclocking & Undervolting 4070 (mobile).md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Arch Linux - Adding Drives",
       "path": "Notes/Arch Linux - Adding Drives.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Wishlist",
