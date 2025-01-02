@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5
+    "width": 451.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -222,8 +223,8 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "College/TU856-1 Semester 1 Results.md",
-    "UNSORTED/Exam - IT Fundamentals - 2024.md",
     "Home Page/Home.canvas",
+    "UNSORTED/Exam - IT Fundamentals - 2024.md",
     "College/Web Development/Forms - HTML.md",
     "College/Programming/Decimal Places and Leading Zeros - C.md",
     "Notes/Wishlist.md",
