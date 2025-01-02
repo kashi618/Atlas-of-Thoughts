@@ -18,7 +18,7 @@
 		{"id":"58d2d28bdd32c1c1","type":"file","file":"Notes/Wishlist.md","x":-243,"y":-230,"width":720,"height":650},
 		{"id":"4c753f6f25aec1ad","type":"file","file":"Other/obamna.gif","x":-893,"y":-370,"width":140,"height":140},
 		{"id":"e762bf6f37e05057","type":"file","file":"Other/obamna.gif","x":269,"y":-370,"width":140,"height":140},
-		{"id":"9188e7424254e7cd","type":"file","file":"Notes/Library.md","x":-962,"y":-229,"width":720,"height":650}
+		{"id":"2da433d333b75504","x":-963,"y":-230,"width":720,"height":650,"type":"file","file":"Notes/Projects.md"}
 	],
 	"edges":[]
 }

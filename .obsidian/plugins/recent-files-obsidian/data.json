@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "TU856-1 Semester 1 Results",
+      "path": "UNSORTED/TU856-1 Semester 1 Results.md"
+    },
+    {
+      "basename": "Forms - HTML",
+      "path": "College/Web Development/Forms - HTML.md"
+    },
+    {
+      "basename": "Exam - IT Fundamentals - 2024",
+      "path": "UNSORTED/Exam - IT Fundamentals - 2024.md"
+    },
+    {
+      "basename": "Decimal Places and Leading Zeros - C",
+      "path": "College/Programming/Decimal Places and Leading Zeros - C.md"
+    },
+    {
+      "basename": "Projects",
+      "path": "Notes/Projects.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Wishlist",
+      "path": "Notes/Wishlist.md"
+    },
+    {
+      "basename": "Library",
+      "path": "Notes/Library.md"
     },
     {
       "basename": "Overclocking & Undervolting 4070 (mobile)",
@@ -41,20 +69,12 @@
       "path": "Notes/Arch Linux - Adding Drives.md"
     },
     {
-      "basename": "Wishlist",
-      "path": "Notes/Wishlist.md"
-    },
-    {
       "basename": "TV Shows & Movies & Anime & Manga",
       "path": "Notes/TV Shows & Movies & Anime & Manga.md"
     },
     {
       "basename": "C.M. Kösemen - All Tomorrows",
       "path": "Library/C.M. Kösemen - All Tomorrows.md"
-    },
-    {
-      "basename": "Library",
-      "path": "Notes/Library.md"
     },
     {
       "basename": "obamna",
@@ -179,26 +199,6 @@
     {
       "basename": "Stephen Hawking - A Brief History of Time",
       "path": "Library/Stephen Hawking - A Brief History of Time.md"
-    },
-    {
-      "basename": "Carlo Rovelli - Seven Brief Lessons on Physics",
-      "path": "Library/Carlo Rovelli - Seven Brief Lessons on Physics.md"
-    },
-    {
-      "basename": "Wilfrid Voynich - The Voynich Manuscript",
-      "path": "Library/Wilfrid Voynich - The Voynich Manuscript.md"
-    },
-    {
-      "basename": "N I Vavilov Vladimir Filimonovich Dorofeev - Origin and Geography of Cultivated Plants",
-      "path": "Library/N I Vavilov Vladimir Filimonovich Dorofeev - Origin and Geography of Cultivated Plants.md"
-    },
-    {
-      "basename": "Douglas Adams, Thomas Tidholm, Eoin Colfer - The Hitchhiker's Guide to the Galaxy",
-      "path": "Library/Douglas Adams, Thomas Tidholm, Eoin Colfer - The Hitchhiker's Guide to the Galaxy.md"
-    },
-    {
-      "basename": "Yevgeny Zamyatin - We",
-      "path": "Library/Yevgeny Zamyatin - We.md"
     }
   ],
   "omittedPaths": [],
