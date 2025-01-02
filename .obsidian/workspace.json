@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,10 +142,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "College/Programming/Pointers and Arrays - C.md"
+                "file": "College/TU856-1 Semester 1 Results.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Pointers and Arrays - C"
+              "title": "File properties for TU856-1 Semester 1 Results"
             }
           },
           {
@@ -235,8 +235,9 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "ff13f2e1a47c3c21",
+  "active": "88726212069e3c5a",
   "lastOpenFiles": [
+    "College/Programming/Pointers and Arrays - C.md",
     "College/Programming/Dynamic Memory Allocation - C.md",
     "College/Programming/Ampersand - C.md",
     "Home Page/Home.canvas",
@@ -273,7 +274,6 @@
     "Library/Jim Halligan - Diabolic Downloads.md",
     "Library/David Walliams - Mr Stink.md",
     "Library/David Walliams - Billionaire Boy.md",
-    "Library/David Walliams - Gangsta Granny.md",
     "PDF's/All Tomorrows.pdf",
     "PDF's/book all tomorrows.pdf",
     "PDF's/book all tomorrows-compressed.pdf",
