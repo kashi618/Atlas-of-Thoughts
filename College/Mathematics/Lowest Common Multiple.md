@@ -2,6 +2,7 @@
 tags:
   - LCM
   - PrimeFactorization
+  - Mathematics
 ---
 The smallest number that 2 numbers **BOTH** divide into
 

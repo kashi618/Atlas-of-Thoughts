@@ -2,6 +2,7 @@
 tags:
   - Mathematics
   - Modulus
+  - ma
 ---
 **Add the mod to the negative number, until you get a positive number**
 -4 (=mod 5 = 1  

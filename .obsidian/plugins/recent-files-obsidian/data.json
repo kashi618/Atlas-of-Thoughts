@@ -1,40 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Euclidean Algorithm 2",
-      "path": "College/Mathematics/Euclidean Algorithm 2.md"
+      "basename": "CMPU 1018 - Sep 23rd 2024",
+      "path": "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 23rd 2024.md"
     },
     {
-      "basename": "Euclidean Algorithm 1",
-      "path": "College/Mathematics/Euclidean Algorithm 1.md"
+      "basename": "CMPU 1018 - Sep 30th 2024",
+      "path": "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 30th 2024.md"
     },
     {
-      "basename": "Highest Common Factor , Greatest Common Divisor",
-      "path": "College/Mathematics/Highest Common Factor , Greatest Common Divisor.md"
+      "basename": "Caesar's Cipher",
+      "path": "UNSORTED/Caesar's Cipher.md"
     },
     {
-      "basename": "Lowest Common Multiple",
-      "path": "College/Mathematics/Lowest Common Multiple.md"
-    },
-    {
-      "basename": "A",
-      "path": "Templates/A.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "UNSORTED/Untitled 1.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
-    },
-    {
-      "basename": "Fundamental Theorem of Arithmetic",
-      "path": "College/Mathematics/Fundamental Theorem of Arithmetic.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "UNSORTED/Untitled.md"
+      "basename": "Fermat's Little Theorum",
+      "path": "College/Mathematics/Fermat's Little Theorum.md"
     },
     {
       "basename": "Exam - IT Fundamentals - 2024",
@@ -49,16 +29,80 @@
       "path": "UNSORTED/CompSci Certificates.md"
     },
     {
-      "basename": "Tables - HTML",
-      "path": "College/Web Development/Tables - HTML.md"
+      "basename": "Inverse Numbers",
+      "path": "College/Mathematics/Inverse Numbers.md"
     },
     {
       "basename": "Prime Factorization",
       "path": "College/Mathematics/Prime Factorization.md"
     },
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Euclidean Algorithm 1",
+      "path": "College/Mathematics/Euclidean Algorithm 1.md"
+    },
+    {
       "basename": "Negative Modulus Numbers",
       "path": "College/Mathematics/Negative Modulus Numbers.md"
+    },
+    {
+      "basename": "Lowest Common Multiple",
+      "path": "College/Mathematics/Lowest Common Multiple.md"
+    },
+    {
+      "basename": "Highest Common Factor , Greatest Common Divisor",
+      "path": "College/Mathematics/Highest Common Factor , Greatest Common Divisor.md"
+    },
+    {
+      "basename": "Fundamental Theorem of Arithmetic",
+      "path": "College/Mathematics/Fundamental Theorem of Arithmetic.md"
+    },
+    {
+      "basename": "Euclidean Algorithm 2",
+      "path": "College/Mathematics/Euclidean Algorithm 2.md"
+    },
+    {
+      "basename": "Untitled 2",
+      "path": "UNSORTED/Untitled 2.md"
+    },
+    {
+      "basename": "CMPU 1018 - Oct 3rd 2024",
+      "path": "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Oct 3rd 2024.md"
+    },
+    {
+      "basename": "CMPU 1005 - Sep 27th 2024",
+      "path": "College/Unsorted Notes/CMPU 1005 - Communications/CMPU 1005 - Sep 27th 2024.md"
+    },
+    {
+      "basename": "CMPU 1005 - Sep 20th 2024",
+      "path": "College/Unsorted Notes/CMPU 1005 - Communications/CMPU 1005 - Sep 20th 2024.md"
+    },
+    {
+      "basename": "Ampersand - C",
+      "path": "College/Programming/Ampersand - C.md"
+    },
+    {
+      "basename": "Sorting Algorithms",
+      "path": "College/Program Design/Sorting Algorithms.md"
+    },
+    {
+      "basename": "A",
+      "path": "Templates/A.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "UNSORTED/Untitled 1.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "UNSORTED/Untitled.md"
+    },
+    {
+      "basename": "Tables - HTML",
+      "path": "College/Web Development/Tables - HTML.md"
     },
     {
       "basename": "Projects",
@@ -79,10 +123,6 @@
     {
       "basename": "Dynamic Memory Allocation - C",
       "path": "College/Programming/Dynamic Memory Allocation - C.md"
-    },
-    {
-      "basename": "Ampersand - C",
-      "path": "College/Programming/Ampersand - C.md"
     },
     {
       "basename": "Forms - HTML",
@@ -159,46 +199,6 @@
     {
       "basename": "obsidian-icon",
       "path": "Other/obsidian-icon.png"
-    },
-    {
-      "basename": "explosion",
-      "path": "Other/explosion.gif"
-    },
-    {
-      "basename": "Neil Gaiman Edward E Kramer - The Sandman",
-      "path": "Library/Neil Gaiman Edward E Kramer - The Sandman.md"
-    },
-    {
-      "basename": "Tara Westover - Educated",
-      "path": "Library/Tara Westover - Educated.md"
-    },
-    {
-      "basename": "Books",
-      "path": "Notes/Books.md"
-    },
-    {
-      "basename": "Jim Halligan - Diabolic Downloads",
-      "path": "Library/Jim Halligan - Diabolic Downloads.md"
-    },
-    {
-      "basename": "David Walliams - Mr Stink",
-      "path": "Library/David Walliams - Mr Stink.md"
-    },
-    {
-      "basename": "David Walliams - Billionaire Boy",
-      "path": "Library/David Walliams - Billionaire Boy.md"
-    },
-    {
-      "basename": "David Walliams - Gangsta Granny",
-      "path": "Library/David Walliams - Gangsta Granny.md"
-    },
-    {
-      "basename": "David Walliams - Ratburger",
-      "path": "Library/David Walliams - Ratburger.md"
-    },
-    {
-      "basename": "David Walliams - Demon Dentist",
-      "path": "Library/David Walliams - Demon Dentist.md"
     }
   ],
   "omittedPaths": [],

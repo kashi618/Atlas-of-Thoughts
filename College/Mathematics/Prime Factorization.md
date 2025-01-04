@@ -1,6 +1,7 @@
 ---
 tags:
   - PrimeFactorization
+  - Mathematics
 ---
 Set of prime numbers that are multiplied together to get a number
 

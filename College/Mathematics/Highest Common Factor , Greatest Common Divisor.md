@@ -3,6 +3,7 @@ tags:
   - HCF
   - GCD
   - PrimeFactorization
+  - Mathematics
 ---
 The biggest number that divides between 2 numbers
 
