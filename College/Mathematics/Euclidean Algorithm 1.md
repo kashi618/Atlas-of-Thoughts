@@ -8,7 +8,7 @@ Used to find the **GCD** between **any two integers**, provided the integer is s
 	- a = **Integer**, where a is bigger than b
 	- b = **Integer**, where a is bigger than b
 	- q = **Quotient**, how many times a divides into b
-	- r = **Remainder**, whats left over when a divides into b
+	- r = **Remainder**, whats0 left over when a divides into b
 The last **non zero** remainder is the answer
   
 ### Example

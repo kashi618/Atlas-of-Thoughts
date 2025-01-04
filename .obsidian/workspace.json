@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -157,10 +157,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "College/Mathematics/Euclidean Algorithm 1.md"
+                "file": "College/Mathematics/Euclidean Algorithm 2.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Euclidean Algorithm 1"
+              "title": "File properties for Euclidean Algorithm 2"
             }
           },
           {
@@ -250,10 +250,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "00f1014cba9dce52",
+  "active": "84c427b0b848ea70",
   "lastOpenFiles": [
-    "College/Mathematics/Euclidean Algorithm 2.md",
     "College/Mathematics/Euclidean Algorithm 1.md",
+    "College/Mathematics/Euclidean Algorithm 2.md",
     "College/Mathematics/Highest Common Factor , Greatest Common Divisor.md",
     "College/Mathematics/Lowest Common Multiple.md",
     "Templates/A.md",
