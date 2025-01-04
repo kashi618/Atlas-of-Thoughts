@@ -1,16 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "Euclidean Algorithm 1",
+      "path": "College/Mathematics/Euclidean Algorithm 1.md"
+    },
+    {
+      "basename": "Euclidean Algorithm 2",
+      "path": "College/Mathematics/Euclidean Algorithm 2.md"
+    },
+    {
+      "basename": "Highest Common Factor , Greatest Common Divisor",
+      "path": "College/Mathematics/Highest Common Factor , Greatest Common Divisor.md"
+    },
+    {
+      "basename": "Lowest Common Multiple",
+      "path": "College/Mathematics/Lowest Common Multiple.md"
+    },
+    {
+      "basename": "A",
+      "path": "Templates/A.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "UNSORTED/Untitled 1.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
     {
-      "basename": "Wishlist",
-      "path": "Notes/Wishlist.md"
+      "basename": "Fundamental Theorem of Arithmetic",
+      "path": "College/Mathematics/Fundamental Theorem of Arithmetic.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "UNSORTED/Untitled.md"
+    },
+    {
+      "basename": "Exam - IT Fundamentals - 2024",
+      "path": "UNSORTED/Exam - IT Fundamentals - 2024.md"
+    },
+    {
+      "basename": "Descartes - Meditations on First Philosophy",
+      "path": "UNSORTED/Descartes - Meditations on First Philosophy.md"
+    },
+    {
+      "basename": "CompSci Certificates",
+      "path": "UNSORTED/CompSci Certificates.md"
+    },
+    {
+      "basename": "Tables - HTML",
+      "path": "College/Web Development/Tables - HTML.md"
+    },
+    {
+      "basename": "Prime Factorization",
+      "path": "College/Mathematics/Prime Factorization.md"
+    },
+    {
+      "basename": "Negative Modulus Numbers",
+      "path": "College/Mathematics/Negative Modulus Numbers.md"
     },
     {
       "basename": "Projects",
       "path": "Notes/Projects.md"
+    },
+    {
+      "basename": "Wishlist",
+      "path": "Notes/Wishlist.md"
     },
     {
       "basename": "TU856-1 Semester 1 Results",
@@ -27,10 +83,6 @@
     {
       "basename": "Ampersand - C",
       "path": "College/Programming/Ampersand - C.md"
-    },
-    {
-      "basename": "Exam - IT Fundamentals - 2024",
-      "path": "UNSORTED/Exam - IT Fundamentals - 2024.md"
     },
     {
       "basename": "Forms - HTML",
@@ -147,58 +199,6 @@
     {
       "basename": "David Walliams - Demon Dentist",
       "path": "Library/David Walliams - Demon Dentist.md"
-    },
-    {
-      "basename": "David Walliams - Awful Auntie",
-      "path": "Library/David Walliams - Awful Auntie.md"
-    },
-    {
-      "basename": "David Walliams - Grandpa’s Great Escape",
-      "path": "Library/David Walliams - Grandpa’s Great Escape.md"
-    },
-    {
-      "basename": "David Walliams - The Midnight Gang",
-      "path": "Library/David Walliams - The Midnight Gang.md"
-    },
-    {
-      "basename": "Maeve Friel - The Lantern Moon",
-      "path": "Library/Maeve Friel - The Lantern Moon.md"
-    },
-    {
-      "basename": "Roald Dahl - Matilda",
-      "path": "Library/Roald Dahl - Matilda.md"
-    },
-    {
-      "basename": "Roald Dahl - The BFG",
-      "path": "Library/Roald Dahl - The BFG.md"
-    },
-    {
-      "basename": "Roald Dahl - The Twits",
-      "path": "Library/Roald Dahl - The Twits.md"
-    },
-    {
-      "basename": "Roald Dahl - Danny the Champion of the World",
-      "path": "Library/Roald Dahl - Danny the Champion of the World.md"
-    },
-    {
-      "basename": "Roald Dahl - Fantastic Mr Fox",
-      "path": "Library/Roald Dahl - Fantastic Mr Fox.md"
-    },
-    {
-      "basename": "Roald Dahl - James and the Giant Peach",
-      "path": "Library/Roald Dahl - James and the Giant Peach.md"
-    },
-    {
-      "basename": "Roald Dahl - Charlie and the Great Glass Elevator",
-      "path": "Library/Roald Dahl - Charlie and the Great Glass Elevator.md"
-    },
-    {
-      "basename": "Roald Dahl - Charlie and the Chocolate Factory",
-      "path": "Library/Roald Dahl - Charlie and the Chocolate Factory.md"
-    },
-    {
-      "basename": "Yukio Mishima - Spring Snow",
-      "path": "Library/Yukio Mishima - Spring Snow.md"
     }
   ],
   "omittedPaths": [],
