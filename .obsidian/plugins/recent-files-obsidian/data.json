@@ -5,12 +5,12 @@
       "path": "Home Page/Home.canvas"
     },
     {
-      "basename": "Projects",
-      "path": "Notes/Projects.md"
-    },
-    {
       "basename": "Wishlist",
       "path": "Notes/Wishlist.md"
+    },
+    {
+      "basename": "Projects",
+      "path": "Notes/Projects.md"
     },
     {
       "basename": "TU856-1 Semester 1 Results",
