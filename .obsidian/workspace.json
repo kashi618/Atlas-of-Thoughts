@@ -18,76 +18,15 @@
                 "viewState": {
                   "x": -242,
                   "y": -10,
-                  "zoom": -0.11074029243447762
+                  "zoom": -0.04733603273321577
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "84c427b0b848ea70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 30th 2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CMPU 1018 - Sep 30th 2024"
-            }
-          },
-          {
-            "id": "07318595ef03ad8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Mathematics/Fermat's Little Theorum.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fermat's Little Theorum"
-            }
-          },
-          {
-            "id": "deb755b690d84f67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 23rd 2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CMPU 1018 - Sep 23rd 2024"
-            }
-          },
-          {
-            "id": "b8969ac194c4b3b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNSORTED/Caesar's Cipher.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Caesar's Cipher"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +62,8 @@
               "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6c11478956cecf76",
@@ -265,11 +205,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "deb755b690d84f67",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 23rd 2024.md",
     "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 30th 2024.md",
     "UNSORTED/Caesar's Cipher.md",
-    "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 23rd 2024.md",
     "College/Mathematics/Fermat's Little Theorum.md",
     "UNSORTED/Exam - IT Fundamentals - 2024.md",
     "UNSORTED/Descartes - Meditations on First Philosophy.md",
