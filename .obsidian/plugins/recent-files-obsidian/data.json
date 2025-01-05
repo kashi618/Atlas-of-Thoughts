@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Zero Divisors",
+      "path": "UNSORTED/Zero Divisors.md"
+    },
+    {
       "basename": "Modular Numbers",
       "path": "UNSORTED/Modular Numbers.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "RTX4070 (mobile) Stock Kombustor",
       "path": "Other/RTX4070 (mobile) Stock Kombustor.png"
-    },
-    {
-      "basename": "RTX4070 (mobile) Voltage Frequency Curve",
-      "path": "Other/RTX4070 (mobile) Voltage Frequency Curve.png"
     }
   ],
   "omittedPaths": [],
