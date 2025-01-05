@@ -6,7 +6,7 @@
 | VR Headset (Index)                                 | USB-C to 3.5mm              |
 | 2.1 Speakers (Edifier R1280Ts)                     |                             |
 | Steam Deck 1TB Oled                                |                             |
-| Crucial ddr5 5600MHz 16gb Laptop<br>(CT16G56C46S5) |                             |
+| Crucial DDR5 5600MHz 16gb Laptop<br>(CT16G56C46S5) |                             |
 
 | **DIY**                              | **Other**        |
 | ------------------------------------ | ---------------- |
