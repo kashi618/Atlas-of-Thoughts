@@ -27,66 +27,22 @@
             }
           },
           {
-            "id": "e2110b48f5d6bf07",
+            "id": "a4ec782b940a9591",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Mathematics/Multiplying Matrices.md",
+                "file": "College/Mathematics/Inverse Matrices.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multiplying Matrices"
-            }
-          },
-          {
-            "id": "77e6320ec3b3a445",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNSORTED/Adding and Subtracting Matrices.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Adding and Subtracting Matrices"
-            }
-          },
-          {
-            "id": "2c027c3bc50352c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/How to use Obsidian.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How to use Obsidian"
-            }
-          },
-          {
-            "id": "017b3ca6d37c9feb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Mathematics/Euclidean Algorithm 2.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Euclidean Algorithm 2"
+              "title": "Inverse Matrices"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +78,8 @@
               "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6c11478956cecf76",
@@ -264,17 +221,19 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a4ec782b940a9591",
   "lastOpenFiles": [
-    "College/Mathematics/Euclidean Algorithm 2.md",
-    "College/Mathematics/Euclidean Algorithm 1.md",
+    "College/Mathematics/Inverse Numbers.md",
+    "College/Mathematics/Inverse Matrices.md",
     "Home Page/Home.canvas",
-    "UNSORTED/Adding and Subtracting Matrices.md",
     "College/Mathematics/Multiplying Matrices.md",
+    "UNSORTED/Adding and Subtracting Matrices.md",
+    "College/Mathematics/Euclidean Algorithm 2.md",
+    "Notes/How to use Obsidian.md",
+    "College/Mathematics/Euclidean Algorithm 1.md",
     "Other/Pasted image 20250105134746.png",
     "Other/Pasted image 20250105134414.png",
     "CODE_OF_CONDUCT.md",
-    "Notes/How to use Obsidian.md",
     "College/Mathematics/Matrices.md",
     "Notes/Philosphy Books To Read.md",
     "College/Programming/Dynamic Memory Allocation - C.md",
@@ -286,7 +245,6 @@
     "UNSORTED/Exam - IT Fundamentals - 2024.md",
     "UNSORTED/Descartes - Meditations on First Philosophy.md",
     "UNSORTED/CompSci Certificates.md",
-    "College/Mathematics/Inverse Numbers.md",
     "UNSORTED/a.md",
     "College/Mathematics/Prime Factorization.md",
     "College/Mathematics/Negative Modulus Numbers.md",
@@ -294,7 +252,6 @@
     "College/Mathematics/Highest Common Factor , Greatest Common Divisor.md",
     "College/Mathematics/Fundamental Theorem of Arithmetic.md",
     "UNSORTED/Untitled 2.md",
-    "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Oct 3rd 2024.md",
     "Other/RTX4070 (mobile) Stock Kombustor.png",
     "Other/RTX4070 (mobile) Voltage Frequency Curve.png",
     "Other/RTX4070 (mobile) Stock HWINFO.png",

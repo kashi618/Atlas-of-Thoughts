@@ -1,36 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Inverse Matrices",
+      "path": "College/Mathematics/Inverse Matrices.md"
+    },
+    {
+      "basename": "Inverse Numbers",
+      "path": "College/Mathematics/Inverse Numbers.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
-    },
-    {
-      "basename": "Wishlist",
-      "path": "Notes/Wishlist.md"
-    },
-    {
-      "basename": "Euclidean Algorithm 2",
-      "path": "College/Mathematics/Euclidean Algorithm 2.md"
-    },
-    {
-      "basename": "Euclidean Algorithm 1",
-      "path": "College/Mathematics/Euclidean Algorithm 1.md"
-    },
-    {
-      "basename": "Adding and Subtracting Matrices",
-      "path": "UNSORTED/Adding and Subtracting Matrices.md"
     },
     {
       "basename": "Multiplying Matrices",
       "path": "College/Mathematics/Multiplying Matrices.md"
     },
     {
-      "basename": "CODE_OF_CONDUCT",
-      "path": "CODE_OF_CONDUCT.md"
+      "basename": "Adding and Subtracting Matrices",
+      "path": "UNSORTED/Adding and Subtracting Matrices.md"
+    },
+    {
+      "basename": "Euclidean Algorithm 2",
+      "path": "College/Mathematics/Euclidean Algorithm 2.md"
     },
     {
       "basename": "How to use Obsidian",
       "path": "Notes/How to use Obsidian.md"
+    },
+    {
+      "basename": "Wishlist",
+      "path": "Notes/Wishlist.md"
+    },
+    {
+      "basename": "Euclidean Algorithm 1",
+      "path": "College/Mathematics/Euclidean Algorithm 1.md"
+    },
+    {
+      "basename": "CODE_OF_CONDUCT",
+      "path": "CODE_OF_CONDUCT.md"
     },
     {
       "basename": "Projects",
@@ -83,10 +91,6 @@
     {
       "basename": "CompSci Certificates",
       "path": "UNSORTED/CompSci Certificates.md"
-    },
-    {
-      "basename": "Inverse Numbers",
-      "path": "College/Mathematics/Inverse Numbers.md"
     },
     {
       "basename": "Prime Factorization",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20241129152905",
       "path": "Other/Pasted image 20241129152905.png"
-    },
-    {
-      "basename": "Agronomist",
-      "path": "Notes/Agronomist.md"
     }
   ],
   "omittedPaths": [],
