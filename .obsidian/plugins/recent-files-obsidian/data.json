@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Multiplying Matrices",
-      "path": "College/Mathematics/Multiplying Matrices.md"
+      "basename": "Euclidean Algorithm 2",
+      "path": "College/Mathematics/Euclidean Algorithm 2.md"
+    },
+    {
+      "basename": "Euclidean Algorithm 1",
+      "path": "College/Mathematics/Euclidean Algorithm 1.md"
     },
     {
       "basename": "Home",
@@ -11,6 +15,18 @@
     {
       "basename": "Adding and Subtracting Matrices",
       "path": "UNSORTED/Adding and Subtracting Matrices.md"
+    },
+    {
+      "basename": "Multiplying Matrices",
+      "path": "College/Mathematics/Multiplying Matrices.md"
+    },
+    {
+      "basename": "CODE_OF_CONDUCT",
+      "path": "CODE_OF_CONDUCT.md"
+    },
+    {
+      "basename": "How to use Obsidian",
+      "path": "Notes/How to use Obsidian.md"
     },
     {
       "basename": "Projects",
@@ -31,10 +47,6 @@
     {
       "basename": "Matrices",
       "path": "College/Mathematics/Matrices.md"
-    },
-    {
-      "basename": "How to use Obsidian",
-      "path": "Notes/How to use Obsidian.md"
     },
     {
       "basename": "Philosphy Books To Read",
@@ -81,10 +93,6 @@
       "path": "College/Mathematics/Prime Factorization.md"
     },
     {
-      "basename": "Euclidean Algorithm 1",
-      "path": "College/Mathematics/Euclidean Algorithm 1.md"
-    },
-    {
       "basename": "Negative Modulus Numbers",
       "path": "College/Mathematics/Negative Modulus Numbers.md"
     },
@@ -99,10 +107,6 @@
     {
       "basename": "Fundamental Theorem of Arithmetic",
       "path": "College/Mathematics/Fundamental Theorem of Arithmetic.md"
-    },
-    {
-      "basename": "Euclidean Algorithm 2",
-      "path": "College/Mathematics/Euclidean Algorithm 2.md"
     },
     {
       "basename": "Untitled 2",
@@ -195,10 +199,6 @@
     {
       "basename": "Agronomist",
       "path": "Notes/Agronomist.md"
-    },
-    {
-      "basename": "Arch Linux - Adding Drives",
-      "path": "Notes/Arch Linux - Adding Drives.md"
     }
   ],
   "omittedPaths": [],
