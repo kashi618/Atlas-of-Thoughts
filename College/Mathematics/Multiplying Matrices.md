@@ -3,8 +3,14 @@ tags:
   - Matrices
   - Mathematics
 ---
+## Scalar Multiplication
+When a matrix is multiplied by an integer.
 
-## How to Multiply Matrices
+$A=\begin{bmatrix}2&4&5\\2&4&2\end{bmatrix}$
+
+> $5A=5\begin{bmatrix}2&4&5\\2&4&2\end{bmatrix}=\begin{bmatrix}2(5)&4(5)&5(5)\\2(5)&4(5)&2(5)\end{bmatrix}=\begin{bmatrix}10&20&25\\10&20&10\end{bmatrix}$
+
+## Multiplying by Another Matrix
 ### Example 1
 $A=\begin{bmatrix}2 & 5 & 7\end{bmatrix}$ (1x3 matrix)
 
