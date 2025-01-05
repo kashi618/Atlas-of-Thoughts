@@ -1,13 +1,7 @@
 {
 	"nodes":[
-		{"id":"8303074471a5a23d","type":"file","file":"Other/Nietzsche.gif","x":-186,"y":-180,"width":170,"height":170},
 		{"id":"f05d4153590402ee","type":"text","text":"**TU856 - Computer Science**\n\n| [Brightspace](https://brightspace.tudublin.ie/d2l/home)                                                                                              | [Publish](https://timetables.tudublin.ie/) | [Office](https://www.office.com/)     |\n| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------------------------- |\n| [Societies & Clubs](https://mystudentlife.tudublin.ie/account/index.php?object=VXNlckRhc2hib2FyZA==&method=ZGFzaGJvYXJkU3RhbmRhcmRVc2Vy&action=Nw==) | [Library](https://library.tudublin.ie/)    | [[TU856 - Computer Science\\|Modules]] |\n","x":-463,"y":-370,"width":440,"height":140},
-		{"id":"10d55274b91fa57a","type":"file","file":"Other/explosion.gif","x":-963,"y":-300,"width":70,"height":70},
-		{"id":"2dc042af1606fc86","type":"file","file":"Other/explosion.gif","x":-963,"y":-370,"width":70,"height":70},
-		{"id":"c8462c3a2f6c3bd2","type":"file","file":"Other/explosion.gif","x":-963,"y":-440,"width":70,"height":70},
-		{"id":"d883ced986b3fad0","type":"file","file":"Other/explosion.gif","x":-893,"y":-440,"width":70,"height":70},
-		{"id":"681642f7675e47c5","type":"file","file":"Other/explosion.gif","x":-823,"y":-440,"width":70,"height":70},
-		{"id":"48d123dde7208a81","type":"text","text":"<h1><center>Welcome to The Atlas of Thoughts</center></h1>","x":-754,"y":-440,"width":1023,"height":70,"color":"6"},
+		{"id":"48d123dde7208a81","type":"text","text":"<h1><center>Welcome to The Atlas of Thoughts</center></h1>","x":-750,"y":-440,"width":1019,"height":70,"color":"6"},
 		{"id":"53f250eaf3adbf3a","type":"file","file":"Other/explosion.gif","x":269,"y":-440,"width":70,"height":70},
 		{"id":"572c334bede5985b","type":"file","file":"Other/explosion.gif","x":339,"y":-440,"width":70,"height":70},
 		{"id":"bf1d2ad0d188ae8c","type":"file","file":"Other/explosion.gif","x":409,"y":-440,"width":70,"height":70},
@@ -15,11 +9,16 @@
 		{"id":"e60c64ba73f3028b","type":"file","file":"Other/explosion.gif","x":409,"y":-299,"width":70,"height":70},
 		{"id":"17344afeff5c45f3","type":"file","file":"Other/Descartes.gif","x":-603,"y":-370,"width":140,"height":140},
 		{"id":"e83f1a8fe65ca2b8","type":"file","file":"Other/Nietzsche.gif","x":-23,"y":-370,"width":140,"height":140},
-		{"id":"58d2d28bdd32c1c1","type":"file","file":"Notes/Wishlist.md","x":-243,"y":-230,"width":723,"height":650},
-		{"id":"4c753f6f25aec1ad","type":"file","file":"Other/obamna.gif","x":-893,"y":-370,"width":140,"height":140},
 		{"id":"e762bf6f37e05057","type":"file","file":"Other/obamna.gif","x":269,"y":-370,"width":140,"height":140},
+		{"id":"d5f07a116120c1ac","type":"text","text":"# Misc.\nFeb 13-25 \n\n\n# TODO\n- [ ] Copy publish timetable to notion calendar\n- [ ] Rice up arch linux\n- [ ] Get reply from TopBun for February 13-25","x":-960,"y":20,"width":718,"height":400},
+		{"id":"58d2d28bdd32c1c1","type":"file","file":"Notes/Wishlist.md","x":-244,"y":-230,"width":723,"height":650},
 		{"id":"2da433d333b75504","type":"file","file":"Notes/Projects.md","x":-960,"y":-230,"width":718,"height":250},
-		{"id":"d5f07a116120c1ac","type":"text","text":"# Misc.\nFeb 13-25 \n\n\n# TODO\n- [ ] Copy publish timetable to notion calendar\n- [ ] Rice up arch linux\n- [ ] Get reply from TopBun for February 13-25","x":-960,"y":20,"width":718,"height":400}
+		{"id":"c8462c3a2f6c3bd2","type":"file","file":"Other/explosion.gif","x":-960,"y":-440,"width":70,"height":70},
+		{"id":"2dc042af1606fc86","type":"file","file":"Other/explosion.gif","x":-960,"y":-370,"width":70,"height":70},
+		{"id":"10d55274b91fa57a","type":"file","file":"Other/explosion.gif","x":-960,"y":-300,"width":70,"height":70},
+		{"id":"d883ced986b3fad0","type":"file","file":"Other/explosion.gif","x":-890,"y":-440,"width":70,"height":70},
+		{"id":"4c753f6f25aec1ad","type":"file","file":"Other/obamna.gif","x":-890,"y":-370,"width":140,"height":140},
+		{"id":"681642f7675e47c5","type":"file","file":"Other/explosion.gif","x":-820,"y":-440,"width":70,"height":70}
 	],
 	"edges":[]
 }
