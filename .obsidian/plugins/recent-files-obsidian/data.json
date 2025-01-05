@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Wishlist",
+      "path": "Notes/Wishlist.md"
+    },
+    {
       "basename": "Multiplying Matrices",
       "path": "College/Mathematics/Multiplying Matrices.md"
     },
@@ -17,20 +25,12 @@
       "path": "UNSORTED/Adding and Subtracting Matrices.md"
     },
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
-    },
-    {
       "basename": "Philosphy Books To Read",
       "path": "Notes/Philosphy Books To Read.md"
     },
     {
       "basename": "Dynamic Memory Allocation - C",
       "path": "College/Programming/Dynamic Memory Allocation - C.md"
-    },
-    {
-      "basename": "Wishlist",
-      "path": "Notes/Wishlist.md"
     },
     {
       "basename": "Projects",

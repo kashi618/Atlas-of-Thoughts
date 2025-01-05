@@ -1,17 +1,18 @@
 
-| Setup                                  | EDC                         | Other            |
-| -------------------------------------- | --------------------------- | ---------------- |
-| NAS (Ethernet cable/Ethernet Splitter) | IEM Cable                   | Swiss Army Knife |
-| Laptop Charger                         | IEM Ear Tips (spinfit/foam) | Skateboard       |
-| VR Headset (Index)                     | USB-C to 3.5mm              | Safety Razor     |
-| 2.1 Speakers (Edifier R1280Ts)         |                             |                  |
-| Steam Deck 1TB Oled                    |                             |                  |
-| Crucial 5600MHz                        |                             |                  |
+| **Setup**                                          | **EDC**                     |
+| -------------------------------------------------- | --------------------------- |
+| NAS (Ethernet cable/Ethernet Splitter)             | IEM Cable                   |
+| Laptop Charger                                     | IEM Ear Tips (spinfit/foam) |
+| VR Headset (Index)                                 | USB-C to 3.5mm              |
+| 2.1 Speakers (Edifier R1280Ts)                     |                             |
+| Steam Deck 1TB Oled                                |                             |
+| Crucial ddr5 5600MHz 16gb Laptop<br>(CT16G56C46S5) |                             |
 
-| DIY                                  |     |
-| ------------------------------------ | --- |
-| Electrical Tape                      |     |
-| Place to store steel wool and sponge |     |
-| Wire Stripper                        |     |
-| Helping Hands                        |     |
-| Ventilation for smoke                |     |
+| **DIY**                              | **Other**        |
+| ------------------------------------ | ---------------- |
+| Electrical Tape                      | Swiss Army Knife |
+| Place to store steel wool and sponge | Skateboard       |
+| Wire Stripper                        | Safety Razor     |
+| Helping Hands                        |                  |
+| Ventilation for smoke                |                  |
+
