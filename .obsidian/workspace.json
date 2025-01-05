@@ -16,17 +16,33 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -241.5,
-                  "y": -10,
-                  "zoom": -0.048336167983591465
+                  "x": -337.27547434091775,
+                  "y": -116.77056410804332,
+                  "zoom": 0.2849971653497418
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "9899c240d7073d57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Programming/Dynamic Memory Allocation - C.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dynamic Memory Allocation - C"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,8 +78,7 @@
               "title": "File Tree"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6c11478956cecf76",
@@ -205,7 +220,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9899c240d7073d57",
   "lastOpenFiles": [
     "Home Page/Home.canvas",
     "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 23rd 2024.md",

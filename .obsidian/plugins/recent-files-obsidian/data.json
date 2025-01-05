@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dynamic Memory Allocation - C",
+      "path": "College/Programming/Dynamic Memory Allocation - C.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -119,10 +123,6 @@
     {
       "basename": "Pointers and Arrays - C",
       "path": "College/Programming/Pointers and Arrays - C.md"
-    },
-    {
-      "basename": "Dynamic Memory Allocation - C",
-      "path": "College/Programming/Dynamic Memory Allocation - C.md"
     },
     {
       "basename": "Forms - HTML",
