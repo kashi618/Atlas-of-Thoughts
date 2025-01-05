@@ -85,9 +85,24 @@
               "icon": "lucide-file",
               "title": "Zero Divisors"
             }
+          },
+          {
+            "id": "e7d3d64846e3bbd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Mathematics/Highest Common Factor , Greatest Common Divisor.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Highest Common Factor , Greatest Common Divisor"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -266,10 +281,14 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "3d21603117de51f5",
+  "active": "e7d3d64846e3bbd1",
   "lastOpenFiles": [
-    "UNSORTED/Zero Divisors.md",
+    "PDF's/CMPU1018 Mathematics Winter 2020-2021 Exam Paper.pdf",
+    "PDF's/CMPU1018_Winter_2020_2021.pdf",
+    "College/Mathematics/Fermat's Little Theorum.md",
+    "College/Mathematics/Fundamental Theorem of Arithmetic.md",
     "UNSORTED/Modular Numbers.md",
+    "UNSORTED/Zero Divisors.md",
     "College/Mathematics/Inverse of Modular Number.md",
     "College/Mathematics/Negative Modulus Numbers.md",
     "College/Mathematics/Solving Linear Equations with Matrices.md",
@@ -284,8 +303,6 @@
     "College/Mathematics/Inverse Numbers.md",
     "College/Mathematics/Inverse Matrices.md",
     "College/Mathematics/Highest Common Factor , Greatest Common Divisor.md",
-    "College/Mathematics/Fundamental Theorem of Arithmetic.md",
-    "College/Mathematics/Fermat's Little Theorum.md",
     "Home Page/Home.canvas",
     "College/Mathematics/Euclidean Algorithm 2.md",
     "UNSORTED/Adding and Subtracting Matrices.md",
@@ -297,7 +314,6 @@
     "Notes/Philosphy Books To Read.md",
     "College/Programming/Dynamic Memory Allocation - C.md",
     "LICENSE",
-    "UNSORTED/Caesar's Cipher.md",
     "Other/RTX4070 (mobile) Stock Kombustor.png",
     "Other/RTX4070 (mobile) Voltage Frequency Curve.png",
     "Other/RTX4070 (mobile) Stock HWINFO.png",
@@ -313,7 +329,6 @@
     "Library",
     "PDF's/C Programming Language - 2nd Edition (OCR).pdf",
     "PDF's",
-    "College/Program Design",
-    "College/IT Fundamentals"
+    "College/Program Design"
   ]
 }
