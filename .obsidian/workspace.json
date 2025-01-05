@@ -32,13 +32,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Mathematics/Multiplying Matrices.md",
-                "mode": "preview",
+                "file": "College/Mathematics/Inverse Matrices.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multiplying Matrices"
+              "title": "Inverse Matrices"
             }
           }
         ],
@@ -223,8 +223,8 @@
   },
   "active": "5801cd6c5bd6299d",
   "lastOpenFiles": [
-    "Home Page/Home.canvas",
     "College/Mathematics/Multiplying Matrices.md",
+    "Home Page/Home.canvas",
     "College/Mathematics/Inverse Matrices.md",
     "College/Mathematics/Inverse Numbers.md",
     "UNSORTED/Adding and Subtracting Matrices.md",
