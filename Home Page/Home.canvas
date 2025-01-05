@@ -18,7 +18,7 @@
 		{"id":"d883ced986b3fad0","type":"file","file":"Other/explosion.gif","x":-890,"y":-440,"width":70,"height":70},
 		{"id":"4c753f6f25aec1ad","type":"file","file":"Other/obamna.gif","x":-890,"y":-370,"width":140,"height":140},
 		{"id":"681642f7675e47c5","type":"file","file":"Other/explosion.gif","x":-820,"y":-440,"width":70,"height":70},
-		{"id":"d5f07a116120c1ac","type":"text","text":"# Misc.\nFeb 13-25 \n\n\n# TODO\n- [ ] Copy publish timetable to notion calendar\n- [ ] Rice up arch linux\n- [ ] Get reply from TopBun for February 13-25\n- [ ] Write down room number for study","x":-958,"y":60,"width":714,"height":360}
+		{"id":"d5f07a116120c1ac","type":"text","text":"# Misc.\nFeb 13-25 \n\n\n# TODO\n- [ ] Copy publish timetable to notion calendar\n- [ ] Rice up arch linux\n- [ ] Get reply from TopBun for February 13-25\n- [ ] Steam Key Region Issue (check email)\n- [ ] Write down room number for study","x":-958,"y":60,"width":714,"height":360}
 	],
 	"edges":[]
 }
