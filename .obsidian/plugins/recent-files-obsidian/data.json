@@ -5,12 +5,24 @@
       "path": "College/Mathematics/Matrices.md"
     },
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Adding and Subtracting Matrices",
+      "path": "UNSORTED/Adding and Subtracting Matrices.md"
+    },
+    {
+      "basename": "How to use Obsidian",
+      "path": "Notes/How to use Obsidian.md"
+    },
+    {
       "basename": "Multiplying Matrices",
       "path": "College/Mathematics/Multiplying Matrices.md"
     },
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
+      "basename": "Philosphy Books To Read",
+      "path": "Notes/Philosphy Books To Read.md"
     },
     {
       "basename": "Dynamic Memory Allocation - C",
@@ -187,18 +199,6 @@
     {
       "basename": "C.M. Kösemen - All Tomorrows",
       "path": "Library/C.M. Kösemen - All Tomorrows.md"
-    },
-    {
-      "basename": "obamna",
-      "path": "Other/obamna.gif"
-    },
-    {
-      "basename": "Memento Mori - Polyphia",
-      "path": "Other/Memento Mori - Polyphia.gif"
-    },
-    {
-      "basename": "Nietzsche",
-      "path": "Other/Nietzsche.gif"
     }
   ],
   "omittedPaths": [],
