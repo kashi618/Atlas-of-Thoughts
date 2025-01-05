@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Highest Common Factor , Greatest Common Divisor",
       "path": "College/Mathematics/Highest Common Factor , Greatest Common Divisor.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "Inverse Matrices",
       "path": "College/Mathematics/Inverse Matrices.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Euclidean Algorithm 2",
