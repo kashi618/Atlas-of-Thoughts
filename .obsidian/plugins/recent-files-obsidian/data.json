@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Dynamic Memory Allocation - C",
-      "path": "College/Programming/Dynamic Memory Allocation - C.md"
+      "basename": "Matrices",
+      "path": "College/Mathematics/Matrices.md"
+    },
+    {
+      "basename": "Multiplying Matrices",
+      "path": "College/Mathematics/Multiplying Matrices.md"
     },
     {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Dynamic Memory Allocation - C",
+      "path": "College/Programming/Dynamic Memory Allocation - C.md"
     },
     {
       "basename": "Wishlist",
@@ -191,14 +199,6 @@
     {
       "basename": "Nietzsche",
       "path": "Other/Nietzsche.gif"
-    },
-    {
-      "basename": "Descartes",
-      "path": "Other/Descartes.gif"
-    },
-    {
-      "basename": "obsidian-icon",
-      "path": "Other/obsidian-icon.png"
     }
   ],
   "omittedPaths": [],
