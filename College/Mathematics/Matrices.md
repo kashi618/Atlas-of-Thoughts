@@ -24,3 +24,4 @@ Matrices with the same amount of rows and columns
 
 # See Also
 [[Adding and Subtracting Matrices]]
+[[Multiplying Matrices]]

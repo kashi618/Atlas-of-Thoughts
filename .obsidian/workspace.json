@@ -32,13 +32,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Mathematics/Matrices.md",
+                "file": "College/Mathematics/Multiplying Matrices.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Matrices"
+              "title": "Multiplying Matrices"
             }
           },
           {
@@ -50,7 +50,7 @@
                 "file": "UNSORTED/Adding and Subtracting Matrices.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Adding and Subtracting Matrices"
@@ -252,10 +252,10 @@
   },
   "active": "6c6873d79744c89b",
   "lastOpenFiles": [
-    "Home Page/Home.canvas",
     "College/Mathematics/Matrices.md",
-    "UNSORTED/Adding and Subtracting Matrices.md",
     "Notes/How to use Obsidian.md",
+    "UNSORTED/Adding and Subtracting Matrices.md",
+    "Home Page/Home.canvas",
     "College/Mathematics/Multiplying Matrices.md",
     "Notes/Philosphy Books To Read.md",
     "College/Programming/Dynamic Memory Allocation - C.md",
