@@ -16,8 +16,8 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -72.39412431566292,
-                  "y": 114.34125979613529,
+                  "x": -158.14377641467718,
+                  "y": 114.34125979613526,
                   "zoom": -0.37766479356602445
                 }
               },
@@ -86,8 +86,7 @@
               "title": "Euclidean Algorithm 2"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,8 +264,9 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "017b3ca6d37c9feb",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "College/Mathematics/Euclidean Algorithm 2.md",
     "College/Mathematics/Euclidean Algorithm 1.md",
     "Home Page/Home.canvas",
     "UNSORTED/Adding and Subtracting Matrices.md",
@@ -293,7 +293,6 @@
     "College/Mathematics/Lowest Common Multiple.md",
     "College/Mathematics/Highest Common Factor , Greatest Common Divisor.md",
     "College/Mathematics/Fundamental Theorem of Arithmetic.md",
-    "College/Mathematics/Euclidean Algorithm 2.md",
     "UNSORTED/Untitled 2.md",
     "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Oct 3rd 2024.md",
     "Other/RTX4070 (mobile) Stock Kombustor.png",

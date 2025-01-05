@@ -13,6 +13,6 @@
 | Electrical Tape                      | Swiss Army Knife |
 | Place to store steel wool and sponge | Skateboard       |
 | Wire Stripper                        | Safety Razor     |
-| Helping Hands                        |                  |
+| Helping Hands                        | Small hoover     |
 | Ventilation for smoke                |                  |
 

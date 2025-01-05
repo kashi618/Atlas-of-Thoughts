@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Wishlist",
+      "path": "Notes/Wishlist.md"
+    },
+    {
       "basename": "Euclidean Algorithm 2",
       "path": "College/Mathematics/Euclidean Algorithm 2.md"
     },
     {
       "basename": "Euclidean Algorithm 1",
       "path": "College/Mathematics/Euclidean Algorithm 1.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Adding and Subtracting Matrices",
@@ -35,10 +39,6 @@
     {
       "basename": "explosion",
       "path": "Other/explosion.gif"
-    },
-    {
-      "basename": "Wishlist",
-      "path": "Notes/Wishlist.md"
     },
     {
       "basename": "Nietzsche",
