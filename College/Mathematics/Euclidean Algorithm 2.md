@@ -7,8 +7,6 @@ tags:
 Allows you to write **GCD(a, b) = ax + by**, basically the inverse of a modular number.
 
 ## Example
-
-## Example
 **Find X and Y such that 58x + 23b = d = gcd(58,23)**
 and
 **Find 23<sup>-1</sup> mod 58**

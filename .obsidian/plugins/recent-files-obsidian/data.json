@@ -1,28 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "Inverse Matrices",
-      "path": "College/Mathematics/Inverse Matrices.md"
+      "basename": "Modular Numbers",
+      "path": "UNSORTED/Modular Numbers.md"
+    },
+    {
+      "basename": "Inverse of Modular Number",
+      "path": "College/Mathematics/Inverse of Modular Number.md"
+    },
+    {
+      "basename": "Negative Modulus Numbers",
+      "path": "College/Mathematics/Negative Modulus Numbers.md"
+    },
+    {
+      "basename": "Solving Linear Equations with Matrices",
+      "path": "College/Mathematics/Solving Linear Equations with Matrices.md"
+    },
+    {
+      "basename": "CMPU 1018 - Sep 30th 2024",
+      "path": "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 30th 2024.md"
+    },
+    {
+      "basename": "CMPU 1018 - Sep 23rd 2024",
+      "path": "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 23rd 2024.md"
+    },
+    {
+      "basename": "CMPU 1018 - Sep 16th 2024",
+      "path": "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 16th 2024.md"
+    },
+    {
+      "basename": "CMPU 1018 - Oct 3rd 2024",
+      "path": "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Oct 3rd 2024.md"
+    },
+    {
+      "basename": "Prime Factorization",
+      "path": "College/Mathematics/Prime Factorization.md"
     },
     {
       "basename": "Multiplying Matrices",
       "path": "College/Mathematics/Multiplying Matrices.md"
     },
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
+      "basename": "Matrices",
+      "path": "College/Mathematics/Matrices.md"
+    },
+    {
+      "basename": "Lowest Common Multiple",
+      "path": "College/Mathematics/Lowest Common Multiple.md"
     },
     {
       "basename": "Inverse Numbers",
       "path": "College/Mathematics/Inverse Numbers.md"
     },
     {
-      "basename": "Adding and Subtracting Matrices",
-      "path": "UNSORTED/Adding and Subtracting Matrices.md"
+      "basename": "Inverse Matrices",
+      "path": "College/Mathematics/Inverse Matrices.md"
+    },
+    {
+      "basename": "Highest Common Factor , Greatest Common Divisor",
+      "path": "College/Mathematics/Highest Common Factor , Greatest Common Divisor.md"
+    },
+    {
+      "basename": "Fundamental Theorem of Arithmetic",
+      "path": "College/Mathematics/Fundamental Theorem of Arithmetic.md"
+    },
+    {
+      "basename": "Fermat's Little Theorum",
+      "path": "College/Mathematics/Fermat's Little Theorum.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Euclidean Algorithm 2",
       "path": "College/Mathematics/Euclidean Algorithm 2.md"
+    },
+    {
+      "basename": "Adding and Subtracting Matrices",
+      "path": "UNSORTED/Adding and Subtracting Matrices.md"
     },
     {
       "basename": "How to use Obsidian",
@@ -53,10 +109,6 @@
       "path": "Other/Nietzsche.gif"
     },
     {
-      "basename": "Matrices",
-      "path": "College/Mathematics/Matrices.md"
-    },
-    {
       "basename": "Philosphy Books To Read",
       "path": "Notes/Philosphy Books To Read.md"
     },
@@ -65,20 +117,8 @@
       "path": "College/Programming/Dynamic Memory Allocation - C.md"
     },
     {
-      "basename": "CMPU 1018 - Sep 23rd 2024",
-      "path": "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 23rd 2024.md"
-    },
-    {
-      "basename": "CMPU 1018 - Sep 30th 2024",
-      "path": "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 30th 2024.md"
-    },
-    {
       "basename": "Caesar's Cipher",
       "path": "UNSORTED/Caesar's Cipher.md"
-    },
-    {
-      "basename": "Fermat's Little Theorum",
-      "path": "College/Mathematics/Fermat's Little Theorum.md"
     },
     {
       "basename": "Exam - IT Fundamentals - 2024",
@@ -93,32 +133,8 @@
       "path": "UNSORTED/CompSci Certificates.md"
     },
     {
-      "basename": "Prime Factorization",
-      "path": "College/Mathematics/Prime Factorization.md"
-    },
-    {
-      "basename": "Negative Modulus Numbers",
-      "path": "College/Mathematics/Negative Modulus Numbers.md"
-    },
-    {
-      "basename": "Lowest Common Multiple",
-      "path": "College/Mathematics/Lowest Common Multiple.md"
-    },
-    {
-      "basename": "Highest Common Factor , Greatest Common Divisor",
-      "path": "College/Mathematics/Highest Common Factor , Greatest Common Divisor.md"
-    },
-    {
-      "basename": "Fundamental Theorem of Arithmetic",
-      "path": "College/Mathematics/Fundamental Theorem of Arithmetic.md"
-    },
-    {
       "basename": "Untitled 2",
       "path": "UNSORTED/Untitled 2.md"
-    },
-    {
-      "basename": "CMPU 1018 - Oct 3rd 2024",
-      "path": "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Oct 3rd 2024.md"
     },
     {
       "basename": "CMPU 1005 - Sep 27th 2024",
@@ -183,22 +199,6 @@
     {
       "basename": "RTX4070 (mobile) Voltage Frequency Curve",
       "path": "Other/RTX4070 (mobile) Voltage Frequency Curve.png"
-    },
-    {
-      "basename": "RTX4070 (mobile) Stock HWINFO",
-      "path": "Other/RTX4070 (mobile) Stock HWINFO.png"
-    },
-    {
-      "basename": "RTX4070 (mobile) Overclocked Undervolted HWINFO",
-      "path": "Other/RTX4070 (mobile) Overclocked Undervolted HWINFO.png"
-    },
-    {
-      "basename": "RTX4070 (mobile) Overclocked Undervolted Kombustor",
-      "path": "Other/RTX4070 (mobile) Overclocked Undervolted Kombustor.png"
-    },
-    {
-      "basename": "Pasted image 20241129152905",
-      "path": "Other/Pasted image 20241129152905.png"
     }
   ],
   "omittedPaths": [],
