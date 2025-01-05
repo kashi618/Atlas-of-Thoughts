@@ -16,9 +16,9 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -448.7847706950863,
-                  "y": 146.44996744518735,
-                  "zoom": -0.6666666666666665
+                  "x": -241.5,
+                  "y": -10,
+                  "zoom": -0.048336167983591465
                 }
               },
               "pinned": true,
@@ -207,6 +207,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
     "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 23rd 2024.md",
     "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 30th 2024.md",
     "UNSORTED/Caesar's Cipher.md",
@@ -217,7 +218,6 @@
     "College/Mathematics/Inverse Numbers.md",
     "UNSORTED/a.md",
     "College/Mathematics/Prime Factorization.md",
-    "Home Page/Home.canvas",
     "College/Mathematics/Euclidean Algorithm 1.md",
     "College/Mathematics/Negative Modulus Numbers.md",
     "College/Mathematics/Lowest Common Multiple.md",
@@ -233,7 +233,6 @@
     "College/Program Design/Sorting Algorithms.md",
     "College/Modules/CMPU 1005  - Communications.md",
     "Templates/A.md",
-    "UNSORTED/Untitled 1.md",
     "Other/RTX4070 (mobile) Stock Kombustor.png",
     "Other/RTX4070 (mobile) Voltage Frequency Curve.png",
     "Other/RTX4070 (mobile) Stock HWINFO.png",
