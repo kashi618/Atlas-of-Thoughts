@@ -5,6 +5,14 @@
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "Wishlist",
+      "path": "Notes/Wishlist.md"
+    },
+    {
+      "basename": "Projects",
+      "path": "Notes/Projects.md"
+    },
+    {
       "basename": "CMPU 1018 - Sep 23rd 2024",
       "path": "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 23rd 2024.md"
     },
@@ -103,14 +111,6 @@
     {
       "basename": "Tables - HTML",
       "path": "College/Web Development/Tables - HTML.md"
-    },
-    {
-      "basename": "Projects",
-      "path": "Notes/Projects.md"
-    },
-    {
-      "basename": "Wishlist",
-      "path": "Notes/Wishlist.md"
     },
     {
       "basename": "TU856-1 Semester 1 Results",
