@@ -32,13 +32,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Mathematics/Multiplying Matrices.md",
+                "file": "College/Mathematics/Fundamental Theorem of Arithmetic.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multiplying Matrices"
+              "title": "Fundamental Theorem of Arithmetic"
             }
           }
         ],
@@ -223,6 +223,7 @@
   },
   "active": "8bf934a15812aa38",
   "lastOpenFiles": [
+    "College/Mathematics/Multiplying Matrices.md",
     "College/Mathematics/Matrices.md",
     "College/Mathematics/Lowest Common Multiple.md",
     "College/Mathematics/Inverse of Modular Number.md",
@@ -243,7 +244,6 @@
     "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 16th 2024.md",
     "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Oct 3rd 2024.md",
     "College/Mathematics/Prime Factorization.md",
-    "College/Mathematics/Multiplying Matrices.md",
     "College/Mathematics/Inverse Numbers.md",
     "College/Mathematics/Euclidean Algorithm 2.md",
     "UNSORTED/Adding and Subtracting Matrices.md",
