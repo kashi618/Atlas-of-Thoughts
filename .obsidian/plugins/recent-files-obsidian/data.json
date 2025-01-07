@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Fundamental Theorem of Arithmetic",
       "path": "College/Mathematics/Fundamental Theorem of Arithmetic.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Euclidean Algorithm 1",
       "path": "College/Mathematics/Euclidean Algorithm 1.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Wishlist",
