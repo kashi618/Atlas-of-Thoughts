@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Cheeses",
+      "path": "Notes/Cheeses.md"
+    },
+    {
+      "basename": "Projects",
+      "path": "Notes/Projects.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -101,10 +109,6 @@
       "path": "CODE_OF_CONDUCT.md"
     },
     {
-      "basename": "Projects",
-      "path": "Notes/Projects.md"
-    },
-    {
       "basename": "explosion",
       "path": "Other/explosion.gif"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Overclocking & Undervolting 4070 (mobile)",
       "path": "Notes/Overclocking & Undervolting 4070 (mobile).md"
-    },
-    {
-      "basename": "RTX4070 (mobile) Stock Kombustor",
-      "path": "Other/RTX4070 (mobile) Stock Kombustor.png"
     }
   ],
   "omittedPaths": [],

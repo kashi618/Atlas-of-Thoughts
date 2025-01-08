@@ -11,6 +11,8 @@
 #### French
 - **Bleu d'Auvergne**
 	9/10
+- **St Agur**
+	9/10
 - **Comte Le Fort**
 	8/10
 - Roquefort
