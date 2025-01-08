@@ -27,22 +27,23 @@
             }
           },
           {
-            "id": "177214bc909b2b72",
+            "id": "3b68fc2969cbc3ce",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Cheeses.md",
+                "file": "Notes/Library.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Cheeses"
+              "title": "Library"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +79,7 @@
               "title": "File Tree"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6c11478956cecf76",
@@ -221,9 +221,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "177214bc909b2b72",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Library.md",
     "Home Page/Home.canvas",
+    "Library/DK - The Philosophy Book.md",
+    "Notes/Cheeses.md",
     "College/Mathematics/Fundamental Theorem of Arithmetic.md",
     "College/Mathematics/Multiplying Matrices.md",
     "College/Mathematics/Matrices.md",
@@ -250,9 +253,6 @@
     "Notes/How to use Obsidian.md",
     "Other/Pasted image 20250105134746.png",
     "Other/Pasted image 20250105134414.png",
-    "CODE_OF_CONDUCT.md",
-    "Notes/Philosphy Books To Read.md",
-    "College/Programming/Dynamic Memory Allocation - C.md",
     "LICENSE",
     "Other/RTX4070 (mobile) Stock Kombustor.png",
     "Other/RTX4070 (mobile) Voltage Frequency Curve.png",

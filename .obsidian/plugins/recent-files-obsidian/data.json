@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Library",
+      "path": "Notes/Library.md"
+    },
+    {
+      "basename": "DK - The Philosophy Book",
+      "path": "Library/DK - The Philosophy Book.md"
+    },
+    {
       "basename": "Cheeses",
       "path": "Notes/Cheeses.md"
     },
     {
       "basename": "Projects",
       "path": "Notes/Projects.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Fundamental Theorem of Arithmetic",
@@ -191,14 +199,6 @@
     {
       "basename": "Decimal Places and Leading Zeros - C",
       "path": "College/Programming/Decimal Places and Leading Zeros - C.md"
-    },
-    {
-      "basename": "Library",
-      "path": "Notes/Library.md"
-    },
-    {
-      "basename": "Overclocking & Undervolting 4070 (mobile)",
-      "path": "Notes/Overclocking & Undervolting 4070 (mobile).md"
     }
   ],
   "omittedPaths": [],
