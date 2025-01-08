@@ -62,8 +62,7 @@
               "title": "File Tree"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6c11478956cecf76",
@@ -205,7 +204,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d828e5b8bc561a69",
   "lastOpenFiles": [
     "Home Page/Home.canvas",
     "College/Mathematics/Fundamental Theorem of Arithmetic.md",
