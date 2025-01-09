@@ -41,12 +41,16 @@ The Imitation Game
 
 | **Movies**                                                 | **MUST WATCH?** |
 | ---------------------------------------------------------- | --------------- |
+| Beetlejuice Beetlejuice                                    | Good            |
 | Dead Silence                                               | Good            |
 | Der Untergang (Downfall)                                   | **MUST WATCH**  |
 | Elemental                                                  | Good            |
 | Home Alone                                                 | N/A             |
 | Home Alone 2: Lost in New York                             | N/A             |
 | I.S.S                                                      | Good            |
+| In Time                                                    | Good (bad)      |
+| Oppenheimer                                                | **MUST WATCH**  |
+| Paddington in Peru                                         | Good            |
 | Pan's Labyrinth                                            | Amazing         |
 | Pirates of the Caribbean: At World's End                   | **MUST WATCH**  |
 | Pirates of the Caribbean: Curse of the Black Pearl         | **MUST WATCH**  |
@@ -73,7 +77,6 @@ The Imitation Game
 | 少林足球 (Shaolin Soccer)                                      | Amazing         |
 | 抓娃娃 (Successor)                                            | Good            |
 | 流浪地球 (Wandering Earth)                                     | Amazing         |
-| In Time                                                    | Good (bad)      |
 
 ---
 

@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -240.5,
                   "y": -10,
-                  "zoom": -0.04433146023269112
+                  "zoom": -0.08628985820679055
                 }
               },
               "pinned": true,
@@ -27,23 +27,22 @@
             }
           },
           {
-            "id": "3b68fc2969cbc3ce",
+            "id": "8ee026349e08de8a",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Library.md",
-                "mode": "preview",
+                "file": "Notes/TV Shows & Movies & Anime & Manga.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Library"
+              "title": "TV Shows & Movies & Anime & Manga"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +78,8 @@
               "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6c11478956cecf76",
@@ -221,10 +221,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "8ee026349e08de8a",
   "lastOpenFiles": [
-    "Notes/Library.md",
     "Home Page/Home.canvas",
+    "Notes/Library.md",
     "Library/DK - The Philosophy Book.md",
     "Notes/Cheeses.md",
     "College/Mathematics/Fundamental Theorem of Arithmetic.md",
