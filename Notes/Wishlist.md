@@ -15,4 +15,5 @@
 | Wire Stripper                        | Safety Razor     |
 | Helping Hands                        | Small hoover     |
 | Ventilation for smoke                |                  |
+| IFIXIT or LTT percision screwdriver  |                  |
 

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Wishlist",
+      "path": "Notes/Wishlist.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "Euclidean Algorithm 1",
       "path": "College/Mathematics/Euclidean Algorithm 1.md"
-    },
-    {
-      "basename": "Wishlist",
-      "path": "Notes/Wishlist.md"
     },
     {
       "basename": "Highest Common Factor , Greatest Common Divisor",
