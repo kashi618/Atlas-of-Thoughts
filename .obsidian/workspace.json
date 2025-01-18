@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -240.5,
                   "y": -10,
-                  "zoom": -0.9719295372124526
+                  "zoom": -0.30868227954323846
                 }
               },
               "pinned": true,
@@ -62,8 +62,7 @@
               "title": "File Tree"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6c11478956cecf76",
@@ -207,34 +206,37 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "CODE_OF_CONDUCT.md",
     "Home Page/Home.canvas",
+    "College/TU856-1 Sem 1/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Oct 17th 2024.md",
+    "College/TU856-1 Sem 2",
+    "College/TU856-1 Sem 1/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Nov 7th 2024.md",
+    "College/TU856-1 Sem 1/CMPU 1005 - Communications/CMPU 1005 - Sep 20th 2024.md",
+    "College/TU856-1 Sem 1/CMPU 1005 - Communications/CMPU 1005 - Sep 27th 2024.md",
+    "College/TU856-1 Sem 1",
     "Notes/TV Shows & Movies & Anime & Manga.md",
     "UNSORTED/HACCAP.md",
     "Notes/Library.md",
     "Library/DK - The Philosophy Book.md",
     "Notes/Cheeses.md",
-    "College/Mathematics/Fundamental Theorem of Arithmetic.md",
-    "College/Mathematics/Multiplying Matrices.md",
-    "College/Mathematics/Matrices.md",
-    "College/Mathematics/Lowest Common Multiple.md",
-    "College/Mathematics/Inverse of Modular Number.md",
-    "College/Mathematics/Inverse Matrices.md",
-    "College/Mathematics/Euclidean Algorithm 1.md",
-    "College/Mathematics/Highest Common Factor , Greatest Common Divisor.md",
+    "College/TU856-1 Sem 1/Mathematics/Fundamental Theorem of Arithmetic.md",
+    "College/TU856-1 Sem 1/Mathematics/Multiplying Matrices.md",
+    "College/TU856-1 Sem 1/Mathematics/Matrices.md",
+    "College/TU856-1 Sem 1/Mathematics/Lowest Common Multiple.md",
+    "College/TU856-1 Sem 1/Mathematics/Inverse of Modular Number.md",
+    "College/TU856-1 Sem 1/Mathematics/Inverse Matrices.md",
+    "College/TU856-1 Sem 1/Mathematics/Euclidean Algorithm 1.md",
+    "College/TU856-1 Sem 1/Mathematics/Highest Common Factor , Greatest Common Divisor.md",
     "PDF's/CMPU1018 Mathematics Winter 2020-2021 Exam Paper.pdf",
     "PDF's/CMPU1018_Winter_2020_2021.pdf",
-    "College/Mathematics/Fermat's Little Theorum.md",
+    "College/TU856-1 Sem 1/Mathematics/Fermat's Little Theorum.md",
     "UNSORTED/Modular Numbers.md",
     "UNSORTED/Zero Divisors.md",
-    "College/Mathematics/Negative Modulus Numbers.md",
-    "College/Mathematics/Solving Linear Equations with Matrices.md",
-    "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 30th 2024.md",
-    "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 23rd 2024.md",
-    "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 16th 2024.md",
-    "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Oct 3rd 2024.md",
-    "College/Mathematics/Prime Factorization.md",
-    "College/Mathematics/Inverse Numbers.md",
-    "College/Mathematics/Euclidean Algorithm 2.md",
+    "College/TU856-1 Sem 1/Mathematics/Negative Modulus Numbers.md",
+    "College/TU856-1 Sem 1/Mathematics/Solving Linear Equations with Matrices.md",
+    "College/TU856-1 Sem 1/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 30th 2024.md",
+    "College/TU856-1 Sem 1/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 23rd 2024.md",
+    "College/TU856-1 Sem 1/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 16th 2024.md",
     "Other/Pasted image 20250105134746.png",
     "Other/Pasted image 20250105134414.png",
     "LICENSE",
@@ -250,8 +252,6 @@
     "PDF's/book all tomorrows.pdf",
     "PDF's/book all tomorrows-compressed.pdf",
     "Library/Covers",
-    "Library",
-    "PDF's/C Programming Language - 2nd Edition (OCR).pdf",
-    "PDF's"
+    "Library"
   ]
 }

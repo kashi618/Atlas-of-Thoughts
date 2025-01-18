@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Wishlist",
+      "path": "Notes/Wishlist.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
     {
-      "basename": "Wishlist",
-      "path": "Notes/Wishlist.md"
+      "basename": "CODE_OF_CONDUCT",
+      "path": "CODE_OF_CONDUCT.md"
+    },
+    {
+      "basename": "CMPU 1012 - Oct 17th 2024",
+      "path": "College/TU856-1 Sem 1/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Oct 17th 2024.md"
+    },
+    {
+      "basename": "CMPU 1012 - Nov 7th 2024",
+      "path": "College/TU856-1 Sem 1/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Nov 7th 2024.md"
+    },
+    {
+      "basename": "CMPU 1005 - Sep 20th 2024",
+      "path": "College/TU856-1 Sem 1/CMPU 1005 - Communications/CMPU 1005 - Sep 20th 2024.md"
+    },
+    {
+      "basename": "CMPU 1005 - Sep 27th 2024",
+      "path": "College/TU856-1 Sem 1/CMPU 1005 - Communications/CMPU 1005 - Sep 27th 2024.md"
     },
     {
       "basename": "TV Shows & Movies & Anime & Manga",
@@ -34,39 +54,39 @@
     },
     {
       "basename": "Fundamental Theorem of Arithmetic",
-      "path": "College/Mathematics/Fundamental Theorem of Arithmetic.md"
+      "path": "College/TU856-1 Sem 1/Mathematics/Fundamental Theorem of Arithmetic.md"
     },
     {
       "basename": "Multiplying Matrices",
-      "path": "College/Mathematics/Multiplying Matrices.md"
+      "path": "College/TU856-1 Sem 1/Mathematics/Multiplying Matrices.md"
     },
     {
       "basename": "Matrices",
-      "path": "College/Mathematics/Matrices.md"
+      "path": "College/TU856-1 Sem 1/Mathematics/Matrices.md"
     },
     {
       "basename": "Lowest Common Multiple",
-      "path": "College/Mathematics/Lowest Common Multiple.md"
+      "path": "College/TU856-1 Sem 1/Mathematics/Lowest Common Multiple.md"
     },
     {
       "basename": "Inverse of Modular Number",
-      "path": "College/Mathematics/Inverse of Modular Number.md"
+      "path": "College/TU856-1 Sem 1/Mathematics/Inverse of Modular Number.md"
     },
     {
       "basename": "Inverse Matrices",
-      "path": "College/Mathematics/Inverse Matrices.md"
+      "path": "College/TU856-1 Sem 1/Mathematics/Inverse Matrices.md"
     },
     {
       "basename": "Euclidean Algorithm 1",
-      "path": "College/Mathematics/Euclidean Algorithm 1.md"
+      "path": "College/TU856-1 Sem 1/Mathematics/Euclidean Algorithm 1.md"
     },
     {
       "basename": "Highest Common Factor , Greatest Common Divisor",
-      "path": "College/Mathematics/Highest Common Factor , Greatest Common Divisor.md"
+      "path": "College/TU856-1 Sem 1/Mathematics/Highest Common Factor , Greatest Common Divisor.md"
     },
     {
       "basename": "Fermat's Little Theorum",
-      "path": "College/Mathematics/Fermat's Little Theorum.md"
+      "path": "College/TU856-1 Sem 1/Mathematics/Fermat's Little Theorum.md"
     },
     {
       "basename": "Modular Numbers",
@@ -78,39 +98,39 @@
     },
     {
       "basename": "Negative Modulus Numbers",
-      "path": "College/Mathematics/Negative Modulus Numbers.md"
+      "path": "College/TU856-1 Sem 1/Mathematics/Negative Modulus Numbers.md"
     },
     {
       "basename": "Solving Linear Equations with Matrices",
-      "path": "College/Mathematics/Solving Linear Equations with Matrices.md"
+      "path": "College/TU856-1 Sem 1/Mathematics/Solving Linear Equations with Matrices.md"
     },
     {
       "basename": "CMPU 1018 - Sep 30th 2024",
-      "path": "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 30th 2024.md"
+      "path": "College/TU856-1 Sem 1/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 30th 2024.md"
     },
     {
       "basename": "CMPU 1018 - Sep 23rd 2024",
-      "path": "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 23rd 2024.md"
+      "path": "College/TU856-1 Sem 1/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 23rd 2024.md"
     },
     {
       "basename": "CMPU 1018 - Sep 16th 2024",
-      "path": "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 16th 2024.md"
+      "path": "College/TU856-1 Sem 1/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 16th 2024.md"
     },
     {
       "basename": "CMPU 1018 - Oct 3rd 2024",
-      "path": "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Oct 3rd 2024.md"
+      "path": "College/TU856-1 Sem 1/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Oct 3rd 2024.md"
     },
     {
       "basename": "Prime Factorization",
-      "path": "College/Mathematics/Prime Factorization.md"
+      "path": "College/TU856-1 Sem 1/Mathematics/Prime Factorization.md"
     },
     {
       "basename": "Inverse Numbers",
-      "path": "College/Mathematics/Inverse Numbers.md"
+      "path": "College/TU856-1 Sem 1/Mathematics/Inverse Numbers.md"
     },
     {
       "basename": "Euclidean Algorithm 2",
-      "path": "College/Mathematics/Euclidean Algorithm 2.md"
+      "path": "College/TU856-1 Sem 1/Mathematics/Euclidean Algorithm 2.md"
     },
     {
       "basename": "Adding and Subtracting Matrices",
@@ -119,10 +139,6 @@
     {
       "basename": "How to use Obsidian",
       "path": "Notes/How to use Obsidian.md"
-    },
-    {
-      "basename": "CODE_OF_CONDUCT",
-      "path": "CODE_OF_CONDUCT.md"
     },
     {
       "basename": "explosion",
@@ -138,7 +154,7 @@
     },
     {
       "basename": "Dynamic Memory Allocation - C",
-      "path": "College/Programming/Dynamic Memory Allocation - C.md"
+      "path": "College/TU856-1 Sem 1/Programming/Dynamic Memory Allocation - C.md"
     },
     {
       "basename": "Caesar's Cipher",
@@ -161,20 +177,12 @@
       "path": "UNSORTED/Untitled 2.md"
     },
     {
-      "basename": "CMPU 1005 - Sep 27th 2024",
-      "path": "College/Unsorted Notes/CMPU 1005 - Communications/CMPU 1005 - Sep 27th 2024.md"
-    },
-    {
-      "basename": "CMPU 1005 - Sep 20th 2024",
-      "path": "College/Unsorted Notes/CMPU 1005 - Communications/CMPU 1005 - Sep 20th 2024.md"
-    },
-    {
       "basename": "Ampersand - C",
-      "path": "College/Programming/Ampersand - C.md"
+      "path": "College/TU856-1 Sem 1/Programming/Ampersand - C.md"
     },
     {
       "basename": "Sorting Algorithms",
-      "path": "College/Program Design/Sorting Algorithms.md"
+      "path": "College/TU856-1 Sem 1/Program Design/Sorting Algorithms.md"
     },
     {
       "basename": "A",
@@ -190,15 +198,7 @@
     },
     {
       "basename": "Tables - HTML",
-      "path": "College/Web Development/Tables - HTML.md"
-    },
-    {
-      "basename": "TU856-1 Semester 1 Results",
-      "path": "College/TU856-1 Semester 1 Results.md"
-    },
-    {
-      "basename": "Pointers and Arrays - C",
-      "path": "College/Programming/Pointers and Arrays - C.md"
+      "path": "College/TU856-1 Sem 1/Web Development/Tables - HTML.md"
     }
   ],
   "omittedPaths": [],
