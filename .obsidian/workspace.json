@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -240.5,
                   "y": -10,
-                  "zoom": -0.30868227954323846
+                  "zoom": -0.08628985820679055
                 }
               },
               "pinned": true,
@@ -62,7 +62,8 @@
               "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6c11478956cecf76",
@@ -206,8 +207,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "CODE_OF_CONDUCT.md",
     "Home Page/Home.canvas",
+    "CODE_OF_CONDUCT.md",
     "College/TU856-1 Sem 1/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Oct 17th 2024.md",
     "College/TU856-1 Sem 2",
     "College/TU856-1 Sem 1/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Nov 7th 2024.md",
@@ -236,7 +237,6 @@
     "College/TU856-1 Sem 1/Mathematics/Solving Linear Equations with Matrices.md",
     "College/TU856-1 Sem 1/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 30th 2024.md",
     "College/TU856-1 Sem 1/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 23rd 2024.md",
-    "College/TU856-1 Sem 1/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 16th 2024.md",
     "Other/Pasted image 20250105134746.png",
     "Other/Pasted image 20250105134414.png",
     "LICENSE",
