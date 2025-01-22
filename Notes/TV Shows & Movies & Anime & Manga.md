@@ -77,6 +77,7 @@ The Imitation Game
 | 少林足球 (Shaolin Soccer)                                      | Amazing         |
 | 抓娃娃 (Successor)                                            | Good            |
 | 流浪地球 (Wandering Earth)                                     | Amazing         |
+| The Legend of 1900                                         | **MUST WATCH    |
 
 ---
 
@@ -224,7 +225,6 @@ The Imitation Game
 	- The Return of the King
 	- The Two Towers
 - (**Movie**) - 武状元苏乞儿 (King of Beggars)
-- (**Movie**) - The Legend of 1900
 - (**Movie**) - The Snowman
 - (**Movie**) - The Snowman and the Snowdog
 - (**Movie**) - 流浪地球2 (Wandering Earth 2)
