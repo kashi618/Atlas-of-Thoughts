@@ -1,3 +1,13 @@
+---
+tags:
+  - C
+  - Variables
+---
+#### [[TU856 - Computer Science]]
+#### [[CMPU 1005  - Communications]]
+
+---
+
 
 ``` c
 #include <stdio.h>

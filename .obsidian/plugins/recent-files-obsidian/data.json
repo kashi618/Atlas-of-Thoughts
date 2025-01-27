@@ -1,16 +1,92 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 1",
+      "path": "UNSORTED/Untitled 1.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "Descartes - Meditations on First Philosophy",
+      "path": "UNSORTED/Descartes - Meditations on First Philosophy.md"
+    },
+    {
+      "basename": "Alcohol",
+      "path": "Notes/Alcohol.md"
+    },
+    {
+      "basename": "道德经 - 第一章",
+      "path": "Notes/道德经 - 第一章.md"
+    },
+    {
+      "basename": "道德经 Study",
+      "path": "Notes/道德经 Study.md"
+    },
+    {
+      "basename": "Sauted Potatoes",
+      "path": "Notes/Sauted Potatoes.md"
+    },
+    {
+      "basename": "Flight 2024",
+      "path": "Notes/Flight 2024.md"
+    },
+    {
+      "basename": "Eudaimonia",
+      "path": "Notes/Eudaimonia.md"
+    },
+    {
+      "basename": "GameDev ToDo List",
+      "path": "Notes/GameDev ToDo List.md"
+    },
+    {
+      "basename": "Elden Ring Quest Guide SotET",
+      "path": "Notes/Elden Ring Quest Guide SotET.md"
+    },
+    {
+      "basename": "Elden Ring Quest Guide",
+      "path": "Notes/Elden Ring Quest Guide.md"
+    },
+    {
       "basename": "Microcontrollers",
-      "path": "UNSORTED/Microcontrollers.md"
+      "path": "College/TU856-1 Sem 2/Microcontrollers.md"
+    },
+    {
+      "basename": "Elden Ring Checklist",
+      "path": "Notes/Elden Ring Checklist.md"
+    },
+    {
+      "basename": "CompSci Certificates",
+      "path": "Notes/CompSci Certificates.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "UNSORTED/Untitled.md"
+    },
+    {
+      "basename": "HACCAP",
+      "path": "Notes/HACCAP.md"
     },
     {
       "basename": "C Variable Size Uncertainty",
-      "path": "UNSORTED/C Variable Size Uncertainty.md"
+      "path": "College/TU856-1 Sem 2/C Variable Size Uncertainty.md"
+    },
+    {
+      "basename": "Adding and Subtracting Matrices",
+      "path": "College/TU856-1 Sem 1/Mathematics/Adding and Subtracting Matrices.md"
+    },
+    {
+      "basename": "Caesar's Cipher",
+      "path": "College/TU856-1 Sem 1/Mathematics/Caesar's Cipher.md"
+    },
+    {
+      "basename": "Zero Divisors",
+      "path": "College/TU856-1 Sem 1/Mathematics/Zero Divisors.md"
+    },
+    {
+      "basename": "Modular Numbers",
+      "path": "College/TU856-1 Sem 1/Mathematics/Modular Numbers.md"
     },
     {
       "basename": "Fundamental Theorem of Arithmetic",
@@ -47,10 +123,6 @@
     {
       "basename": "CMPU 1005 - Sep 27th 2024",
       "path": "College/TU856-1 Sem 1/CMPU 1005 - Communications/CMPU 1005 - Sep 27th 2024.md"
-    },
-    {
-      "basename": "HACCAP",
-      "path": "UNSORTED/HACCAP.md"
     },
     {
       "basename": "Library",
@@ -101,14 +173,6 @@
       "path": "College/TU856-1 Sem 1/Mathematics/Fermat's Little Theorum.md"
     },
     {
-      "basename": "Modular Numbers",
-      "path": "UNSORTED/Modular Numbers.md"
-    },
-    {
-      "basename": "Zero Divisors",
-      "path": "UNSORTED/Zero Divisors.md"
-    },
-    {
       "basename": "Negative Modulus Numbers",
       "path": "College/TU856-1 Sem 1/Mathematics/Negative Modulus Numbers.md"
     },
@@ -135,70 +199,6 @@
     {
       "basename": "Prime Factorization",
       "path": "College/TU856-1 Sem 1/Mathematics/Prime Factorization.md"
-    },
-    {
-      "basename": "Inverse Numbers",
-      "path": "College/TU856-1 Sem 1/Mathematics/Inverse Numbers.md"
-    },
-    {
-      "basename": "Euclidean Algorithm 2",
-      "path": "College/TU856-1 Sem 1/Mathematics/Euclidean Algorithm 2.md"
-    },
-    {
-      "basename": "Adding and Subtracting Matrices",
-      "path": "UNSORTED/Adding and Subtracting Matrices.md"
-    },
-    {
-      "basename": "How to use Obsidian",
-      "path": "Notes/How to use Obsidian.md"
-    },
-    {
-      "basename": "explosion",
-      "path": "Other/explosion.gif"
-    },
-    {
-      "basename": "Nietzsche",
-      "path": "Other/Nietzsche.gif"
-    },
-    {
-      "basename": "Philosphy Books To Read",
-      "path": "Notes/Philosphy Books To Read.md"
-    },
-    {
-      "basename": "Dynamic Memory Allocation - C",
-      "path": "College/TU856-1 Sem 1/Programming/Dynamic Memory Allocation - C.md"
-    },
-    {
-      "basename": "Caesar's Cipher",
-      "path": "UNSORTED/Caesar's Cipher.md"
-    },
-    {
-      "basename": "Exam - IT Fundamentals - 2024",
-      "path": "UNSORTED/Exam - IT Fundamentals - 2024.md"
-    },
-    {
-      "basename": "Descartes - Meditations on First Philosophy",
-      "path": "UNSORTED/Descartes - Meditations on First Philosophy.md"
-    },
-    {
-      "basename": "CompSci Certificates",
-      "path": "UNSORTED/CompSci Certificates.md"
-    },
-    {
-      "basename": "Untitled 2",
-      "path": "UNSORTED/Untitled 2.md"
-    },
-    {
-      "basename": "Ampersand - C",
-      "path": "College/TU856-1 Sem 1/Programming/Ampersand - C.md"
-    },
-    {
-      "basename": "Sorting Algorithms",
-      "path": "College/TU856-1 Sem 1/Program Design/Sorting Algorithms.md"
-    },
-    {
-      "basename": "A",
-      "path": "Templates/A.md"
     }
   ],
   "omittedPaths": [],
