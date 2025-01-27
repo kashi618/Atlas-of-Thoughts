@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Microcontrollers",
+      "path": "UNSORTED/Microcontrollers.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Fundamental Theorem of Arithmetic",
+      "path": "College/TU856-1 Sem 1/Mathematics/Fundamental Theorem of Arithmetic.md"
     },
     {
       "basename": "CODE_OF_CONDUCT",
@@ -55,10 +63,6 @@
     {
       "basename": "Projects",
       "path": "Notes/Projects.md"
-    },
-    {
-      "basename": "Fundamental Theorem of Arithmetic",
-      "path": "College/TU856-1 Sem 1/Mathematics/Fundamental Theorem of Arithmetic.md"
     },
     {
       "basename": "Multiplying Matrices",
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled 1",
       "path": "UNSORTED/Untitled 1.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "UNSORTED/Untitled.md"
     }
   ],
   "omittedPaths": [],

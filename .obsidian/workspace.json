@@ -25,8 +25,24 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "d2fbedab766abb22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNSORTED/Microcontrollers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Microcontrollers"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 385.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -205,9 +222,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d2fbedab766abb22",
   "lastOpenFiles": [
+    "Other/Pasted image 20250127120941.png",
+    "UNSORTED/Microcontrollers.md",
     "Home Page/Home.canvas",
+    "College/TU856-1 Sem 1/Mathematics/Fundamental Theorem of Arithmetic.md",
     "CODE_OF_CONDUCT.md",
     "Notes/Abolition.md",
     "Notes/TV Shows & Movies & Anime & Manga.md",
@@ -221,7 +241,6 @@
     "Notes/Library.md",
     "Library/DK - The Philosophy Book.md",
     "Notes/Cheeses.md",
-    "College/TU856-1 Sem 1/Mathematics/Fundamental Theorem of Arithmetic.md",
     "College/TU856-1 Sem 1/Mathematics/Multiplying Matrices.md",
     "College/TU856-1 Sem 1/Mathematics/Matrices.md",
     "College/TU856-1 Sem 1/Mathematics/Lowest Common Multiple.md",
@@ -236,7 +255,6 @@
     "UNSORTED/Zero Divisors.md",
     "College/TU856-1 Sem 1/Mathematics/Negative Modulus Numbers.md",
     "College/TU856-1 Sem 1/Mathematics/Solving Linear Equations with Matrices.md",
-    "College/TU856-1 Sem 1/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 30th 2024.md",
     "Other/Pasted image 20250105134746.png",
     "Other/Pasted image 20250105134414.png",
     "LICENSE",
