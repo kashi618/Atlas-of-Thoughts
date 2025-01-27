@@ -5,16 +5,20 @@
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "CODE_OF_CONDUCT",
+      "path": "CODE_OF_CONDUCT.md"
+    },
+    {
+      "basename": "Abolition",
+      "path": "Notes/Abolition.md"
+    },
+    {
       "basename": "TV Shows & Movies & Anime & Manga",
       "path": "Notes/TV Shows & Movies & Anime & Manga.md"
     },
     {
       "basename": "Wishlist",
       "path": "Notes/Wishlist.md"
-    },
-    {
-      "basename": "CODE_OF_CONDUCT",
-      "path": "CODE_OF_CONDUCT.md"
     },
     {
       "basename": "CMPU 1012 - Oct 17th 2024",
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled",
       "path": "UNSORTED/Untitled.md"
-    },
-    {
-      "basename": "Tables - HTML",
-      "path": "College/TU856-1 Sem 1/Web Development/Tables - HTML.md"
     }
   ],
   "omittedPaths": [],
