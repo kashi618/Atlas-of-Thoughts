@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Microcontrollers",
       "path": "UNSORTED/Microcontrollers.md"
     },
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
+      "basename": "C Variable Size Uncertainty",
+      "path": "UNSORTED/C Variable Size Uncertainty.md"
     },
     {
       "basename": "Fundamental Theorem of Arithmetic",
@@ -195,10 +199,6 @@
     {
       "basename": "A",
       "path": "Templates/A.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "UNSORTED/Untitled 1.md"
     }
   ],
   "omittedPaths": [],
