@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Function Signatures - C",
+      "path": "College/Programming/Function Signatures - C.md"
+    },
+    {
+      "basename": "Functions - C",
+      "path": "College/Programming/Functions - C.md"
+    },
+    {
+      "basename": "Functional Programming",
+      "path": "UNSORTED/Functional Programming.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Casting - C",
+      "path": "College/Programming/Casting - C.md"
+    },
+    {
+      "basename": "Compiler",
+      "path": "College/Programming/Compiler.md"
+    },
+    {
+      "basename": "Arrays - C",
+      "path": "College/Programming/Arrays - C.md"
+    },
+    {
+      "basename": "Ampersand - C",
+      "path": "College/Programming/Ampersand - C.md"
+    },
+    {
+      "basename": "free() - C",
+      "path": "College/Programming/free() - C.md"
+    },
+    {
+      "basename": "Creating Functions - C",
+      "path": "College/Programming/Creating Functions - C.md"
+    },
+    {
+      "basename": "Data Types",
+      "path": "College/Programming/Data Types.md"
     },
     {
       "basename": "Projects",
@@ -17,20 +57,12 @@
       "path": "College/TU856-1 Sem 1/TU856-1 Semester 1 Results.md"
     },
     {
-      "basename": "Arrays - C",
-      "path": "College/Programming/Arrays - C.md"
-    },
-    {
       "basename": "Initializing a 2D Array",
       "path": "UNSORTED/Initializing a 2D Array.md"
     },
     {
       "basename": "Printing a 2D Array - C",
       "path": "UNSORTED/Printing a 2D Array - C.md"
-    },
-    {
-      "basename": "Function Signatures",
-      "path": "College/Programming/Function Signatures.md"
     },
     {
       "basename": "CMPU 1025 - Nov 5th 2024",
@@ -77,20 +109,8 @@
       "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 30th 2024.md"
     },
     {
-      "basename": "Data Types",
-      "path": "College/Programming/Data Types.md"
-    },
-    {
       "basename": "CODE_OF_CONDUCT",
       "path": "CODE_OF_CONDUCT.md"
-    },
-    {
-      "basename": "Creating Functions",
-      "path": "College/Programming/Creating Functions.md"
-    },
-    {
-      "basename": "Functions - C",
-      "path": "College/Programming/Functions - C.md"
     },
     {
       "basename": "Declaring and Initializing - C",
@@ -103,10 +123,6 @@
     {
       "basename": "Incrementing and Decrementing - C",
       "path": "College/Programming/Incrementing and Decrementing - C.md"
-    },
-    {
-      "basename": "Ampersand - C",
-      "path": "College/Programming/Ampersand - C.md"
     },
     {
       "basename": "Sorting Algorithms",
@@ -183,14 +199,6 @@
     {
       "basename": "HACCAP",
       "path": "Notes/HACCAP.md"
-    },
-    {
-      "basename": "Caesar's Cipher",
-      "path": "College/Mathematics/Caesar's Cipher.md"
-    },
-    {
-      "basename": "Modular Numbers",
-      "path": "College/Mathematics/Modular Numbers.md"
     }
   ],
   "omittedPaths": [],

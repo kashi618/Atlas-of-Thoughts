@@ -5,9 +5,13 @@ tags:
   - Functions
 ---
 This is how to initialize functions before main()
+*Also known as a function prototype*
 ``` c
 returnType functionName(parameters);
 ```
+
+- returnType = The type of data the function will return
+- parameter = Pieces of data passed to a functions to use
 
 ## Example
 ``` c
