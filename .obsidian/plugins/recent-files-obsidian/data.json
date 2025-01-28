@@ -1,16 +1,132 @@
 {
   "recentFiles": [
     {
+      "basename": "C Variable Size Uncertainty",
+      "path": "College/Microprocessor Controllers/C Variable Size Uncertainty.md"
+    },
+    {
+      "basename": "TU856-1 Semester 1 Results",
+      "path": "College/TU856-1 Sem 1/TU856-1 Semester 1 Results.md"
+    },
+    {
+      "basename": "Arrays - C",
+      "path": "College/Programming/Arrays - C.md"
+    },
+    {
+      "basename": "Initializing a 2D Array",
+      "path": "UNSORTED/Initializing a 2D Array.md"
+    },
+    {
+      "basename": "Printing a 2D Array - C",
+      "path": "UNSORTED/Printing a 2D Array - C.md"
+    },
+    {
+      "basename": "Function Signatures",
+      "path": "College/Programming/Function Signatures.md"
+    },
+    {
+      "basename": "CMPU 1025 - Nov 5th 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Nov 5th 2024.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
     {
-      "basename": "Untitled 1",
-      "path": "UNSORTED/Untitled 1.md"
-    },
-    {
       "basename": "Descartes - Meditations on First Philosophy",
       "path": "UNSORTED/Descartes - Meditations on First Philosophy.md"
+    },
+    {
+      "basename": "CMPU 1025 - Nov 4th 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Nov 4th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Oct 8th 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 8th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 16th 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 16th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 17th 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 17th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 18th 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 18th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 24th 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 24th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 23rd 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 23rd 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 25th 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 25th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 30th 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 30th 2024.md"
+    },
+    {
+      "basename": "Data Types",
+      "path": "College/Programming/Data Types.md"
+    },
+    {
+      "basename": "CODE_OF_CONDUCT",
+      "path": "CODE_OF_CONDUCT.md"
+    },
+    {
+      "basename": "Creating Functions",
+      "path": "College/Programming/Creating Functions.md"
+    },
+    {
+      "basename": "Functions - C",
+      "path": "College/Programming/Functions - C.md"
+    },
+    {
+      "basename": "Declaring and Initializing - C",
+      "path": "College/Programming/Declaring and Initializing - C.md"
+    },
+    {
+      "basename": "Base C",
+      "path": "Templates/Base C.md"
+    },
+    {
+      "basename": "Incrementing and Decrementing - C",
+      "path": "College/Programming/Incrementing and Decrementing - C.md"
+    },
+    {
+      "basename": "Ampersand - C",
+      "path": "College/Programming/Ampersand - C.md"
+    },
+    {
+      "basename": "Sorting Algorithms",
+      "path": "College/Program Design/Sorting Algorithms.md"
+    },
+    {
+      "basename": "Zero Divisors",
+      "path": "College/Mathematics/Zero Divisors.md"
+    },
+    {
+      "basename": "Adding and Subtracting Matrices",
+      "path": "College/Mathematics/Adding and Subtracting Matrices.md"
+    },
+    {
+      "basename": "Moore's Law",
+      "path": "College/IT Fundamentals/Moore's Law.md"
+    },
+    {
+      "basename": "Software Acquisition",
+      "path": "College/IT Fundamentals/Software Acquisition.md"
+    },
+    {
+      "basename": "Types of Software",
+      "path": "College/IT Fundamentals/Types of Software.md"
     },
     {
       "basename": "Alcohol",
@@ -50,7 +166,7 @@
     },
     {
       "basename": "Microcontrollers",
-      "path": "College/TU856-1 Sem 2/Microcontrollers.md"
+      "path": "College/Microprocessor Controllers/Microcontrollers.md"
     },
     {
       "basename": "Elden Ring Checklist",
@@ -61,144 +177,16 @@
       "path": "Notes/CompSci Certificates.md"
     },
     {
-      "basename": "Untitled",
-      "path": "UNSORTED/Untitled.md"
-    },
-    {
       "basename": "HACCAP",
       "path": "Notes/HACCAP.md"
     },
     {
-      "basename": "C Variable Size Uncertainty",
-      "path": "College/TU856-1 Sem 2/C Variable Size Uncertainty.md"
-    },
-    {
-      "basename": "Adding and Subtracting Matrices",
-      "path": "College/TU856-1 Sem 1/Mathematics/Adding and Subtracting Matrices.md"
-    },
-    {
       "basename": "Caesar's Cipher",
-      "path": "College/TU856-1 Sem 1/Mathematics/Caesar's Cipher.md"
-    },
-    {
-      "basename": "Zero Divisors",
-      "path": "College/TU856-1 Sem 1/Mathematics/Zero Divisors.md"
+      "path": "College/Mathematics/Caesar's Cipher.md"
     },
     {
       "basename": "Modular Numbers",
-      "path": "College/TU856-1 Sem 1/Mathematics/Modular Numbers.md"
-    },
-    {
-      "basename": "Fundamental Theorem of Arithmetic",
-      "path": "College/TU856-1 Sem 1/Mathematics/Fundamental Theorem of Arithmetic.md"
-    },
-    {
-      "basename": "CODE_OF_CONDUCT",
-      "path": "CODE_OF_CONDUCT.md"
-    },
-    {
-      "basename": "Abolition",
-      "path": "Notes/Abolition.md"
-    },
-    {
-      "basename": "TV Shows & Movies & Anime & Manga",
-      "path": "Notes/TV Shows & Movies & Anime & Manga.md"
-    },
-    {
-      "basename": "Wishlist",
-      "path": "Notes/Wishlist.md"
-    },
-    {
-      "basename": "CMPU 1012 - Oct 17th 2024",
-      "path": "College/TU856-1 Sem 1/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Oct 17th 2024.md"
-    },
-    {
-      "basename": "CMPU 1012 - Nov 7th 2024",
-      "path": "College/TU856-1 Sem 1/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Nov 7th 2024.md"
-    },
-    {
-      "basename": "CMPU 1005 - Sep 20th 2024",
-      "path": "College/TU856-1 Sem 1/CMPU 1005 - Communications/CMPU 1005 - Sep 20th 2024.md"
-    },
-    {
-      "basename": "CMPU 1005 - Sep 27th 2024",
-      "path": "College/TU856-1 Sem 1/CMPU 1005 - Communications/CMPU 1005 - Sep 27th 2024.md"
-    },
-    {
-      "basename": "Library",
-      "path": "Notes/Library.md"
-    },
-    {
-      "basename": "DK - The Philosophy Book",
-      "path": "Library/DK - The Philosophy Book.md"
-    },
-    {
-      "basename": "Cheeses",
-      "path": "Notes/Cheeses.md"
-    },
-    {
-      "basename": "Projects",
-      "path": "Notes/Projects.md"
-    },
-    {
-      "basename": "Multiplying Matrices",
-      "path": "College/TU856-1 Sem 1/Mathematics/Multiplying Matrices.md"
-    },
-    {
-      "basename": "Matrices",
-      "path": "College/TU856-1 Sem 1/Mathematics/Matrices.md"
-    },
-    {
-      "basename": "Lowest Common Multiple",
-      "path": "College/TU856-1 Sem 1/Mathematics/Lowest Common Multiple.md"
-    },
-    {
-      "basename": "Inverse of Modular Number",
-      "path": "College/TU856-1 Sem 1/Mathematics/Inverse of Modular Number.md"
-    },
-    {
-      "basename": "Inverse Matrices",
-      "path": "College/TU856-1 Sem 1/Mathematics/Inverse Matrices.md"
-    },
-    {
-      "basename": "Euclidean Algorithm 1",
-      "path": "College/TU856-1 Sem 1/Mathematics/Euclidean Algorithm 1.md"
-    },
-    {
-      "basename": "Highest Common Factor , Greatest Common Divisor",
-      "path": "College/TU856-1 Sem 1/Mathematics/Highest Common Factor , Greatest Common Divisor.md"
-    },
-    {
-      "basename": "Fermat's Little Theorum",
-      "path": "College/TU856-1 Sem 1/Mathematics/Fermat's Little Theorum.md"
-    },
-    {
-      "basename": "Negative Modulus Numbers",
-      "path": "College/TU856-1 Sem 1/Mathematics/Negative Modulus Numbers.md"
-    },
-    {
-      "basename": "Solving Linear Equations with Matrices",
-      "path": "College/TU856-1 Sem 1/Mathematics/Solving Linear Equations with Matrices.md"
-    },
-    {
-      "basename": "CMPU 1018 - Sep 30th 2024",
-      "path": "College/TU856-1 Sem 1/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 30th 2024.md"
-    },
-    {
-      "basename": "CMPU 1018 - Sep 23rd 2024",
-      "path": "College/TU856-1 Sem 1/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 23rd 2024.md"
-    },
-    {
-      "basename": "CMPU 1018 - Sep 16th 2024",
-      "path": "College/TU856-1 Sem 1/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 16th 2024.md"
-    },
-    {
-      "basename": "CMPU 1018 - Oct 3rd 2024",
-      "path": "College/TU856-1 Sem 1/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Oct 3rd 2024.md"
-    },
-    {
-      "basename": "Prime Factorization",
-      "path": "College/TU856-1 Sem 1/Mathematics/Prime Factorization.md"
+      "path": "College/Mathematics/Modular Numbers.md"
     }
   ],
   "omittedPaths": [],

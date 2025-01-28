@@ -2,10 +2,7 @@
 tags:
   - C
   - Variables
----
-#### [[TU856 - Computer Science]]
-#### [[CMPU 1005  - Communications]]
-
+  - ComputerScience
 ---
 
 
@@ -21,4 +18,4 @@ int main(){
 ```
 - Some compilers or architectures may have different bytes/sizes for variables
 - In microprocessors, int's have a size of 2. Whereas in computers, they are 4.
-By using <stdint.h>, we can create an unsigned int of size 8. (uint8_t)
+By using `<stdint.h>`, we can create an unsigned int of size 8. (uint8_t)
