@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Projects",
+      "path": "Notes/Projects.md"
+    },
+    {
       "basename": "C Variable Size Uncertainty",
-      "path": "College/Microprocessor Controllers/C Variable Size Uncertainty.md"
+      "path": "College/Microprocessors Systems/C Variable Size Uncertainty.md"
     },
     {
       "basename": "TU856-1 Semester 1 Results",
@@ -27,10 +35,6 @@
     {
       "basename": "CMPU 1025 - Nov 5th 2024",
       "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Nov 5th 2024.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Descartes - Meditations on First Philosophy",
@@ -166,7 +170,7 @@
     },
     {
       "basename": "Microcontrollers",
-      "path": "College/Microprocessor Controllers/Microcontrollers.md"
+      "path": "College/Microprocessors Systems/Microcontrollers.md"
     },
     {
       "basename": "Elden Ring Checklist",
