@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "UNSORTED/Untitled.md"
+    },
+    {
+      "basename": "TU856-1 Semester 2 Results",
+      "path": "College/TU856-1 Sem 1/TU856-1 Semester 2 Results.md"
+    },
+    {
+      "basename": "TU856-1 Semester 1 Results",
+      "path": "College/TU856-1 Sem 1/TU856-1 Semester 1 Results.md"
+    },
+    {
+      "basename": "CMPU 1018 - Sep 23rd 2024",
+      "path": "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 23rd 2024.md"
+    },
+    {
+      "basename": "CMPU 1018 - Sep 30th 2024",
+      "path": "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 30th 2024.md"
+    },
+    {
+      "basename": "CMPU 1012 - Oct 24th 2024",
+      "path": "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Oct 24th 2024.md"
+    },
+    {
+      "basename": "CMPU 1012 - Oct 17th 2024",
+      "path": "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Oct 17th 2024.md"
+    },
+    {
+      "basename": "CMPU 1012 - Nov 7th 2024",
+      "path": "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Nov 7th 2024.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Function Signatures - C",
       "path": "College/Programming/Function Signatures - C.md"
     },
@@ -11,10 +47,6 @@
     {
       "basename": "Functional Programming",
       "path": "UNSORTED/Functional Programming.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Casting - C",
@@ -51,10 +83,6 @@
     {
       "basename": "C Variable Size Uncertainty",
       "path": "College/Microprocessors Systems/C Variable Size Uncertainty.md"
-    },
-    {
-      "basename": "TU856-1 Semester 1 Results",
-      "path": "College/TU856-1 Sem 1/TU856-1 Semester 1 Results.md"
     },
     {
       "basename": "Initializing a 2D Array",
@@ -171,34 +199,6 @@
     {
       "basename": "Eudaimonia",
       "path": "Notes/Eudaimonia.md"
-    },
-    {
-      "basename": "GameDev ToDo List",
-      "path": "Notes/GameDev ToDo List.md"
-    },
-    {
-      "basename": "Elden Ring Quest Guide SotET",
-      "path": "Notes/Elden Ring Quest Guide SotET.md"
-    },
-    {
-      "basename": "Elden Ring Quest Guide",
-      "path": "Notes/Elden Ring Quest Guide.md"
-    },
-    {
-      "basename": "Microcontrollers",
-      "path": "College/Microprocessors Systems/Microcontrollers.md"
-    },
-    {
-      "basename": "Elden Ring Checklist",
-      "path": "Notes/Elden Ring Checklist.md"
-    },
-    {
-      "basename": "CompSci Certificates",
-      "path": "Notes/CompSci Certificates.md"
-    },
-    {
-      "basename": "HACCAP",
-      "path": "Notes/HACCAP.md"
     }
   ],
   "omittedPaths": [],
