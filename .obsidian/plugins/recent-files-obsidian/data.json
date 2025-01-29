@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "UNSORTED/Untitled.md"
+    },
+    {
+      "basename": "Function Signatures - C",
+      "path": "College/Programming/Function Signatures - C.md"
+    },
+    {
+      "basename": "CMPU 1025 - Oct 1th 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 1th 2024.md"
+    },
+    {
       "basename": "Generations of the Computer",
       "path": "UNSORTED/Generations of the Computer.md"
     },
@@ -35,10 +47,6 @@
     {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
-    },
-    {
-      "basename": "Function Signatures - C",
-      "path": "College/Programming/Function Signatures - C.md"
     },
     {
       "basename": "Functions - C",
@@ -191,14 +199,6 @@
     {
       "basename": "Sauted Potatoes",
       "path": "Notes/Sauted Potatoes.md"
-    },
-    {
-      "basename": "Flight 2024",
-      "path": "Notes/Flight 2024.md"
-    },
-    {
-      "basename": "Eudaimonia",
-      "path": "Notes/Eudaimonia.md"
     }
   ],
   "omittedPaths": [],
