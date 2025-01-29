@@ -32,13 +32,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNSORTED/Pythagoreanism.md",
+                "file": "UNSORTED/Generations of the Computer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pythagoreanism"
+              "title": "Generations of the Computer"
             }
           }
         ],
@@ -107,11 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "UNSORTED/Pythagoreanism.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Pythagoreanism"
+              "title": "Outline"
             }
           },
           {
@@ -119,11 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "UNSORTED/Pythagoreanism.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Pythagoreanism"
+              "title": "File properties"
             }
           },
           {
@@ -193,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 421.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,10 +207,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "39fdea9bee392f1e",
+  "active": "370a24fabb7b70f5",
   "lastOpenFiles": [
+    "UNSORTED/Generations of the Computer.md",
     "College/TU856-1 Sem 1/TU856-1 Semester 2 Results.md",
-    "UNSORTED/Pythagoreanism.md",
     "College/TU856-1 Sem 1/TU856-1 Semester 1 Results.md",
     "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 23rd 2024.md",
     "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 30th 2024.md",
