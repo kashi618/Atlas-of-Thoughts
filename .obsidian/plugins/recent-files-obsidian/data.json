@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Alt Codes",
       "path": "UNSORTED/Alt Codes.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "CMPU 1012 - Nov 7th 2024",
       "path": "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Nov 7th 2024.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Functions - C",
