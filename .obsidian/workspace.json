@@ -25,8 +25,21 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "6c0a3aa7439a9ec9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +68,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -91,10 +105,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline"
             }
           },
           {
@@ -194,11 +210,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6c0a3aa7439a9ec9",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
     "UNSORTED/Unsigned Variables - C.md",
     "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 23rd 2024.md",
-    "Home Page/Home.canvas",
     "UNSORTED/Alt Codes.md",
     "College/Programming/Function Signatures - C.md",
     "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 1th 2024.md",
@@ -224,7 +240,6 @@
     "UNSORTED/Microprocessors Systems.md",
     "College/Microprocessors Systems/C Variable Size Uncertainty.md",
     "UNSORTED/Initializing a 2D Array.md",
-    "UNSORTED/Printing a 2D Array - C.md",
     "Other/Pasted image 20250127120941.png",
     "College/Microprocessor Controllers",
     "College/TU856-1 Sem 1",

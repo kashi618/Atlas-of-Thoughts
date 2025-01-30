@@ -12,5 +12,6 @@
   "cssTheme": "Tokyo Night",
   "translucency": false,
   "interfaceFontFamily": "",
-  "monospaceFontFamily": "JetBrains Mono"
+  "monospaceFontFamily": "JetBrains Mono",
+  "showRibbon": false
 }
