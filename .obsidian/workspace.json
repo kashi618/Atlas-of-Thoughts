@@ -17,7 +17,7 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": -240.5,
-                  "y": -10,
+                  "y": 219.64901276939028,
                   "zoom": -0.5963086735594245
                 }
               },
@@ -25,8 +25,105 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "f414e85bbea4702f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Algorithm Design and Problem Solving/Recursive Factorial Algorithm.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Recursive Factorial Algorithm"
+            }
+          },
+          {
+            "id": "2a3f38db431ccb65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Algorithm Design and Problem Solving/Recursive Exponents Algorithm.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Recursive Exponents Algorithm"
+            }
+          },
+          {
+            "id": "bdd25ed2fb55c2b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Algorithm Design and Problem Solving/Recursion.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Recursion"
+            }
+          },
+          {
+            "id": "7d7fae7b1a2e2cb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNSORTED/Base Case.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Base Case"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNSORTED/Untitled.md",
+                "file": "College/Algorithm Design and Problem Solving/Recursive Factorial Algorithm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Recursive Factorial Algorithm"
             }
           },
           {
@@ -199,36 +296,36 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f414e85bbea4702f",
   "lastOpenFiles": [
-    "UNSORTED/Exponents Algorithm.md",
-    "College/Algorithm Design and Problem Solving/Factorial Algorithm.md",
-    "College/Algorithm Design and Problem Solving/Algorithms.md",
-    "College/Algorithm Design and Problem Solving/Functional Programming Language.md",
-    "Notes/ISO ANSI Layout Keyboards.md",
-    "UNSORTED/Untitled 1.md",
-    "College/TU856-1/TU856-1 Semester 2 Results.md",
+    "College/Algorithm Design and Problem Solving/Recursive Exponents Algorithm.md",
+    "UNSORTED/Base Case.md",
+    "College/Algorithm Design and Problem Solving/Recursion.md",
+    "College/Algorithm Design and Problem Solving/Recursive Factorial Algorithm.md",
     "Home Page/Home.canvas",
+    "College/Algorithm Design and Problem Solving/Factorial Algorithm.md",
+    "College/Algorithm Design and Problem Solving/Exponents Algorithm.md",
+    "College/Algorithm Design and Problem Solving/Functional Programming Language.md",
+    "College/Algorithm Design and Problem Solving/Untitled.md",
+    "Templates/Pseudocode 1.md",
+    "UNSORTED/Untitled 1.md",
+    "Templates/Pseudocode.md",
+    "Notes/Alt Codes.md",
+    "College/Algorithm Design and Problem Solving/Algorithms.md",
+    "Notes/ISO ANSI Layout Keyboards.md",
+    "College/TU856-1/TU856-1 Semester 2 Results.md",
     "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 16th 2024.md",
     "College/TU856-1/TU856-1 Semester 1 Results.md",
     "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 30th 2024.md",
     "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Nov 4th 2024.md",
     "College/Mathematics/Functional Programming.md",
     "Home Page/ASDASD.md",
-    "Notes/Alt Codes.md",
     "College/Algorithm Design and Problem Solving",
     "College/Operating Systems/Generations of the Computer.md",
     "College/Programming/Printing a 2D Array - C.md",
     "College/Programming/Initializing a 2D Array.md",
     "College/Programming/Unsigned Variables - C.md",
     "Templates/BBase Computer Science.md",
-    "Templates/BBase.md",
-    "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 23rd 2024.md",
-    "College/Programming/Function Signatures - C.md",
-    "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 1th 2024.md",
-    "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 23rd 2024.md",
-    "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 30th 2024.md",
-    "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Oct 24th 2024.md",
     "College/Operating Systems",
     "College/Microprocessors Systems",
     "Other/Pasted image 20250127120941.png",

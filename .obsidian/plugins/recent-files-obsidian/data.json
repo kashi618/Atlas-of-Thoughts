@@ -1,32 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
+      "basename": "Recursive Factorial Algorithm",
+      "path": "College/Algorithm Design and Problem Solving/Recursive Factorial Algorithm.md"
     },
     {
-      "basename": "Exponents Algorithm",
-      "path": "UNSORTED/Exponents Algorithm.md"
+      "basename": "Recursive Exponents Algorithm",
+      "path": "College/Algorithm Design and Problem Solving/Recursive Exponents Algorithm.md"
+    },
+    {
+      "basename": "Base Case",
+      "path": "UNSORTED/Base Case.md"
+    },
+    {
+      "basename": "Recursion",
+      "path": "College/Algorithm Design and Problem Solving/Recursion.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Factorial Algorithm",
       "path": "College/Algorithm Design and Problem Solving/Factorial Algorithm.md"
     },
     {
-      "basename": "Algorithms",
-      "path": "College/Algorithm Design and Problem Solving/Algorithms.md"
+      "basename": "Exponents Algorithm",
+      "path": "College/Algorithm Design and Problem Solving/Exponents Algorithm.md"
     },
     {
       "basename": "Functional Programming Language",
       "path": "College/Algorithm Design and Problem Solving/Functional Programming Language.md"
     },
     {
-      "basename": "ISO ANSI Layout Keyboards",
-      "path": "Notes/ISO ANSI Layout Keyboards.md"
+      "basename": "Pseudocode 1",
+      "path": "Templates/Pseudocode 1.md"
     },
     {
-      "basename": "Untitled 1",
-      "path": "UNSORTED/Untitled 1.md"
+      "basename": "Pseudocode",
+      "path": "Templates/Pseudocode.md"
+    },
+    {
+      "basename": "Alt Codes",
+      "path": "Notes/Alt Codes.md"
+    },
+    {
+      "basename": "Projects",
+      "path": "Notes/Projects.md"
+    },
+    {
+      "basename": "Algorithms",
+      "path": "College/Algorithm Design and Problem Solving/Algorithms.md"
+    },
+    {
+      "basename": "ISO ANSI Layout Keyboards",
+      "path": "Notes/ISO ANSI Layout Keyboards.md"
     },
     {
       "basename": "TU856-1 Semester 2 Results",
@@ -51,10 +79,6 @@
     {
       "basename": "Functional Programming",
       "path": "College/Mathematics/Functional Programming.md"
-    },
-    {
-      "basename": "Alt Codes",
-      "path": "Notes/Alt Codes.md"
     },
     {
       "basename": "Generations of the Computer",
@@ -141,10 +165,6 @@
       "path": "College/Programming/Data Types.md"
     },
     {
-      "basename": "Projects",
-      "path": "Notes/Projects.md"
-    },
-    {
       "basename": "C Variable Size Uncertainty",
       "path": "College/Microprocessors Systems/C Variable Size Uncertainty.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "CODE_OF_CONDUCT",
       "path": "CODE_OF_CONDUCT.md"
-    },
-    {
-      "basename": "Declaring and Initializing - C",
-      "path": "College/Programming/Declaring and Initializing - C.md"
-    },
-    {
-      "basename": "Base C",
-      "path": "Templates/Base C.md"
-    },
-    {
-      "basename": "Incrementing and Decrementing - C",
-      "path": "College/Programming/Incrementing and Decrementing - C.md"
-    },
-    {
-      "basename": "Sorting Algorithms",
-      "path": "College/Program Design/Sorting Algorithms.md"
-    },
-    {
-      "basename": "Zero Divisors",
-      "path": "College/Mathematics/Zero Divisors.md"
     }
   ],
   "omittedPaths": [],

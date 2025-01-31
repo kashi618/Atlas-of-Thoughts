@@ -24,9 +24,4 @@ power(x,n)
 	
 	return ans
 ```
-
-```
-
-
-```
 # See Also

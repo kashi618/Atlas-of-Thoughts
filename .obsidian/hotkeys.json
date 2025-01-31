@@ -90,5 +90,14 @@
       ],
       "key": "E"
     }
-  ]
+  ],
+  "file-tree-alternative: create-new-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "file-explorer:new-file": []
 }
