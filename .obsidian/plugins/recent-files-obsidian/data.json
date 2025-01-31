@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "ISO ANSI Layout Keyboards",
+      "path": "UNSORTED/ISO ANSI Layout Keyboards.md"
+    },
+    {
       "basename": "Untitled 2",
       "path": "UNSORTED/Untitled 2.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Untitled 1",
       "path": "UNSORTED/Untitled 1.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Untitled",
@@ -195,10 +199,6 @@
     {
       "basename": "Adding and Subtracting Matrices",
       "path": "College/Mathematics/Adding and Subtracting Matrices.md"
-    },
-    {
-      "basename": "Moore's Law",
-      "path": "College/IT Fundamentals/Moore's Law.md"
     }
   ],
   "omittedPaths": [],
