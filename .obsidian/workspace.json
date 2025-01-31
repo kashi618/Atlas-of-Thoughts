@@ -18,28 +18,15 @@
                 "viewState": {
                   "x": -240.5,
                   "y": -10,
-                  "zoom": -2.7518374539252335
+                  "zoom": -1.2708023958721493
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "6c0a3aa7439a9ec9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.3"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,12 +92,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "UNSORTED/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -192,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 421.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,15 +199,23 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "6c0a3aa7439a9ec9",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "UNSORTED/Untitled.md",
     "Home Page/Home.canvas",
-    "UNSORTED/Unsigned Variables - C.md",
+    "Home Page/ASDASD.md",
+    "Notes/Alt Codes.md",
+    "College/Algorithm Design and Problem Solving",
+    "College/Mathematics/Functional Programming.md",
+    "College/Operating Systems/Generations of the Computer.md",
+    "College/Programming/Printing a 2D Array - C.md",
+    "College/Programming/Initializing a 2D Array.md",
+    "College/Programming/Unsigned Variables - C.md",
+    "Templates/BBase Computer Science.md",
+    "Templates/BBase.md",
     "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 23rd 2024.md",
-    "UNSORTED/Alt Codes.md",
     "College/Programming/Function Signatures - C.md",
     "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 1th 2024.md",
-    "UNSORTED/Generations of the Computer.md",
     "College/TU856-1 Sem 1/TU856-1 Semester 2 Results.md",
     "College/TU856-1 Sem 1/TU856-1 Semester 1 Results.md",
     "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 23rd 2024.md",
@@ -228,18 +225,11 @@
     "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Nov 7th 2024.md",
     "College/Operating Systems",
     "College/Programming/Functions - C.md",
-    "UNSORTED/Functional Programming.md",
     "College/Programming/Casting - C.md",
     "College/Programming/Compiler.md",
     "College/Programming/Arrays - C.md",
     "College/Programming/Ampersand - C.md",
-    "College/Programming/free() - C.md",
-    "College/Programming/Creating Functions - C.md",
-    "College/Programming/Data Types.md",
     "College/Microprocessors Systems",
-    "UNSORTED/Microprocessors Systems.md",
-    "College/Microprocessors Systems/C Variable Size Uncertainty.md",
-    "UNSORTED/Initializing a 2D Array.md",
     "Other/Pasted image 20250127120941.png",
     "College/Microprocessor Controllers",
     "College/TU856-1 Sem 1",
@@ -256,7 +246,6 @@
     "Other/Pasted image 20241129152905.png",
     "Other/Screenshot 2025-01-01 204632.png",
     "PDF's/All Tomorrows.pdf",
-    "PDF's/book all tomorrows.pdf",
-    "PDF's/book all tomorrows-compressed.pdf"
+    "PDF's/book all tomorrows.pdf"
   ]
 }

@@ -5,20 +5,40 @@
       "path": "Home Page/Home.canvas"
     },
     {
-      "basename": "Unsigned Variables - C",
-      "path": "UNSORTED/Unsigned Variables - C.md"
-    },
-    {
       "basename": "Untitled",
       "path": "UNSORTED/Untitled.md"
     },
     {
-      "basename": "CMPU 1025 - Sep 23rd 2024",
-      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 23rd 2024.md"
+      "basename": "Alt Codes",
+      "path": "Notes/Alt Codes.md"
     },
     {
-      "basename": "Alt Codes",
-      "path": "UNSORTED/Alt Codes.md"
+      "basename": "Functional Programming",
+      "path": "College/Mathematics/Functional Programming.md"
+    },
+    {
+      "basename": "Generations of the Computer",
+      "path": "College/Operating Systems/Generations of the Computer.md"
+    },
+    {
+      "basename": "Printing a 2D Array - C",
+      "path": "College/Programming/Printing a 2D Array - C.md"
+    },
+    {
+      "basename": "Initializing a 2D Array",
+      "path": "College/Programming/Initializing a 2D Array.md"
+    },
+    {
+      "basename": "Unsigned Variables - C",
+      "path": "College/Programming/Unsigned Variables - C.md"
+    },
+    {
+      "basename": "BBase Computer Science",
+      "path": "Templates/BBase Computer Science.md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 23rd 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 23rd 2024.md"
     },
     {
       "basename": "Function Signatures - C",
@@ -27,10 +47,6 @@
     {
       "basename": "CMPU 1025 - Oct 1th 2024",
       "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 1th 2024.md"
-    },
-    {
-      "basename": "Generations of the Computer",
-      "path": "UNSORTED/Generations of the Computer.md"
     },
     {
       "basename": "TU856-1 Semester 2 Results",
@@ -63,10 +79,6 @@
     {
       "basename": "Functions - C",
       "path": "College/Programming/Functions - C.md"
-    },
-    {
-      "basename": "Functional Programming",
-      "path": "UNSORTED/Functional Programming.md"
     },
     {
       "basename": "Casting - C",
@@ -105,20 +117,12 @@
       "path": "College/Microprocessors Systems/C Variable Size Uncertainty.md"
     },
     {
-      "basename": "Initializing a 2D Array",
-      "path": "UNSORTED/Initializing a 2D Array.md"
-    },
-    {
-      "basename": "Printing a 2D Array - C",
-      "path": "UNSORTED/Printing a 2D Array - C.md"
-    },
-    {
       "basename": "CMPU 1025 - Nov 5th 2024",
       "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Nov 5th 2024.md"
     },
     {
       "basename": "Descartes - Meditations on First Philosophy",
-      "path": "UNSORTED/Descartes - Meditations on First Philosophy.md"
+      "path": "Notes/Descartes - Meditations on First Philosophy.md"
     },
     {
       "basename": "CMPU 1025 - Nov 4th 2024",
@@ -191,14 +195,6 @@
     {
       "basename": "Types of Software",
       "path": "College/IT Fundamentals/Types of Software.md"
-    },
-    {
-      "basename": "Alcohol",
-      "path": "Notes/Alcohol.md"
-    },
-    {
-      "basename": "道德经 - 第一章",
-      "path": "Notes/道德经 - 第一章.md"
     }
   ],
   "omittedPaths": [],
