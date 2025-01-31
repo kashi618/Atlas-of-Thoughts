@@ -85,8 +85,8 @@
   "editor:toggle-source": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "E"
     }

@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled 2",
-      "path": "UNSORTED/Untitled 2.md"
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Exponents Algorithm",
+      "path": "UNSORTED/Exponents Algorithm.md"
+    },
+    {
+      "basename": "Factorial Algorithm",
+      "path": "College/Algorithm Design and Problem Solving/Factorial Algorithm.md"
+    },
+    {
+      "basename": "Algorithms",
+      "path": "College/Algorithm Design and Problem Solving/Algorithms.md"
+    },
+    {
+      "basename": "Functional Programming Language",
+      "path": "College/Algorithm Design and Problem Solving/Functional Programming Language.md"
+    },
+    {
+      "basename": "ISO ANSI Layout Keyboards",
+      "path": "Notes/ISO ANSI Layout Keyboards.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "UNSORTED/Untitled 1.md"
     },
     {
       "basename": "TU856-1 Semester 2 Results",
       "path": "College/TU856-1/TU856-1 Semester 2 Results.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "CMPU 1025 - Sep 16th 2024",
@@ -29,24 +49,8 @@
       "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Nov 4th 2024.md"
     },
     {
-      "basename": "ISO ANSI Layout Keyboards",
-      "path": "UNSORTED/ISO ANSI Layout Keyboards.md"
-    },
-    {
       "basename": "Functional Programming",
       "path": "College/Mathematics/Functional Programming.md"
-    },
-    {
-      "basename": "Functional Programming Language",
-      "path": "UNSORTED/Functional Programming Language.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "UNSORTED/Untitled 1.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "UNSORTED/Untitled.md"
     },
     {
       "basename": "Alt Codes",
@@ -195,10 +199,6 @@
     {
       "basename": "Zero Divisors",
       "path": "College/Mathematics/Zero Divisors.md"
-    },
-    {
-      "basename": "Adding and Subtracting Matrices",
-      "path": "College/Mathematics/Adding and Subtracting Matrices.md"
     }
   ],
   "omittedPaths": [],
