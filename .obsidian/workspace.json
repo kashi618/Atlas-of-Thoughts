@@ -25,8 +25,57 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "5d929d267cca8af3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/TU856-1/TU856-1 Semester 2 Results.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TU856-1 Semester 2 Results"
+            }
+          },
+          {
+            "id": "c3ce6e28f9d56a49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNSORTED/Algorithms.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Algorithms"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,13 +248,19 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c3ce6e28f9d56a49",
   "lastOpenFiles": [
+    "UNSORTED/Algorithms.md",
+    "College/TU856-1/TU856-1 Semester 2 Results.md",
+    "Home Page/Home.canvas",
+    "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 16th 2024.md",
+    "College/TU856-1/TU856-1 Semester 1 Results.md",
+    "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 30th 2024.md",
+    "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Nov 4th 2024.md",
     "UNSORTED/ISO ANSI Layout Keyboards.md",
     "College/Mathematics/Functional Programming.md",
     "UNSORTED/Functional Programming Language.md",
     "UNSORTED/Untitled 1.md",
-    "Home Page/Home.canvas",
     "UNSORTED/Untitled.md",
     "Home Page/ASDASD.md",
     "Notes/Alt Codes.md",
@@ -219,21 +274,15 @@
     "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 23rd 2024.md",
     "College/Programming/Function Signatures - C.md",
     "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 1th 2024.md",
-    "College/TU856-1 Sem 1/TU856-1 Semester 2 Results.md",
-    "College/TU856-1 Sem 1/TU856-1 Semester 1 Results.md",
     "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 23rd 2024.md",
     "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 30th 2024.md",
     "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Oct 24th 2024.md",
     "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Oct 17th 2024.md",
-    "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Nov 7th 2024.md",
     "College/Operating Systems",
-    "College/Programming/Functions - C.md",
-    "College/Programming/Casting - C.md",
-    "College/Programming/Compiler.md",
     "College/Microprocessors Systems",
     "Other/Pasted image 20250127120941.png",
     "College/Microprocessor Controllers",
-    "College/TU856-1 Sem 1",
+    "College/TU856-1",
     "PDF's/CMPU1018 Mathematics Winter 2020-2021 Exam Paper.pdf",
     "PDF's/CMPU1018_Winter_2020_2021.pdf",
     "Other/Pasted image 20250105134746.png",
