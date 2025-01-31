@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 2",
+      "path": "UNSORTED/Untitled 2.md"
+    },
+    {
+      "basename": "Functional Programming",
+      "path": "College/Mathematics/Functional Programming.md"
+    },
+    {
+      "basename": "Functional Programming Language",
+      "path": "UNSORTED/Functional Programming Language.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "UNSORTED/Untitled 1.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "Alt Codes",
       "path": "Notes/Alt Codes.md"
-    },
-    {
-      "basename": "Functional Programming",
-      "path": "College/Mathematics/Functional Programming.md"
     },
     {
       "basename": "Generations of the Computer",
@@ -187,14 +199,6 @@
     {
       "basename": "Moore's Law",
       "path": "College/IT Fundamentals/Moore's Law.md"
-    },
-    {
-      "basename": "Software Acquisition",
-      "path": "College/IT Fundamentals/Software Acquisition.md"
-    },
-    {
-      "basename": "Types of Software",
-      "path": "College/IT Fundamentals/Types of Software.md"
     }
   ],
   "omittedPaths": [],

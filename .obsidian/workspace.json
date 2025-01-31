@@ -18,15 +18,88 @@
                 "viewState": {
                   "x": -240.5,
                   "y": -10,
-                  "zoom": -1.2708023958721493
+                  "zoom": -0.5963086735594245
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "3e48543815c0d46e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Mathematics/Functional Programming.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Functional Programming"
+            }
+          },
+          {
+            "id": "6e7da95b1f21286f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNSORTED/Functional Programming Language.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Functional Programming Language"
+            }
+          },
+          {
+            "id": "9fb79d44f2a0b383",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNSORTED/ISO ANSI Layout Keyboards.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ISO ANSI Layout Keyboards"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -199,14 +272,17 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9fb79d44f2a0b383",
   "lastOpenFiles": [
-    "UNSORTED/Untitled.md",
+    "UNSORTED/ISO ANSI Layout Keyboards.md",
+    "College/Mathematics/Functional Programming.md",
+    "UNSORTED/Functional Programming Language.md",
+    "UNSORTED/Untitled 1.md",
     "Home Page/Home.canvas",
+    "UNSORTED/Untitled.md",
     "Home Page/ASDASD.md",
     "Notes/Alt Codes.md",
     "College/Algorithm Design and Problem Solving",
-    "College/Mathematics/Functional Programming.md",
     "College/Operating Systems/Generations of the Computer.md",
     "College/Programming/Printing a 2D Array - C.md",
     "College/Programming/Initializing a 2D Array.md",
@@ -227,8 +303,6 @@
     "College/Programming/Functions - C.md",
     "College/Programming/Casting - C.md",
     "College/Programming/Compiler.md",
-    "College/Programming/Arrays - C.md",
-    "College/Programming/Ampersand - C.md",
     "College/Microprocessors Systems",
     "Other/Pasted image 20250127120941.png",
     "College/Microprocessor Controllers",
