@@ -5,6 +5,10 @@
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "Wishlist",
+      "path": "Notes/Wishlist.md"
+    },
+    {
       "basename": "Recursive Euclidean Algorithm",
       "path": "College/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "CMPU 1025 - Sep 24th 2024",
       "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 24th 2024.md"
-    },
-    {
-      "basename": "CMPU 1025 - Sep 25th 2024",
-      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 25th 2024.md"
     }
   ],
   "omittedPaths": [],
