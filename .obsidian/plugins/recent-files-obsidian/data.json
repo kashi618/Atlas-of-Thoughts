@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Recursive Factorial Algorithm",
-      "path": "College/Algorithm Design and Problem Solving/Recursive Factorial Algorithm.md"
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Recursive Euclidean Algorithm",
+      "path": "College/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md"
     },
     {
       "basename": "Recursive Exponents Algorithm",
       "path": "College/Algorithm Design and Problem Solving/Recursive Exponents Algorithm.md"
+    },
+    {
+      "basename": "Recursive Factorial Algorithm",
+      "path": "College/Algorithm Design and Problem Solving/Recursive Factorial Algorithm.md"
     },
     {
       "basename": "Base Case",
@@ -15,10 +23,6 @@
     {
       "basename": "Recursion",
       "path": "College/Algorithm Design and Problem Solving/Recursion.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Factorial Algorithm",
@@ -195,10 +199,6 @@
     {
       "basename": "CMPU 1025 - Sep 25th 2024",
       "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 25th 2024.md"
-    },
-    {
-      "basename": "CODE_OF_CONDUCT",
-      "path": "CODE_OF_CONDUCT.md"
     }
   ],
   "omittedPaths": [],
