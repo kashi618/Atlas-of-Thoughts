@@ -9,6 +9,10 @@
       "path": "Notes/Wishlist.md"
     },
     {
+      "basename": "Projects",
+      "path": "Notes/Projects.md"
+    },
+    {
       "basename": "Recursive Euclidean Algorithm",
       "path": "College/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "Alt Codes",
       "path": "Notes/Alt Codes.md"
-    },
-    {
-      "basename": "Projects",
-      "path": "Notes/Projects.md"
     },
     {
       "basename": "Algorithms",
