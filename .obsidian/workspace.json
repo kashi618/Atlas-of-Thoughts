@@ -25,8 +25,21 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "c83649a7815a2610",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,11 +212,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c83649a7815a2610",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
     "College/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md",
     "College/Algorithm Design and Problem Solving/Recursive Exponents Algorithm.md",
-    "Home Page/Home.canvas",
     "College/Algorithm Design and Problem Solving/Recursive Factorial Algorithm.md",
     "UNSORTED/Base Case.md",
     "College/Algorithm Design and Problem Solving/Recursion.md",
@@ -228,7 +241,6 @@
     "College/Operating Systems/Generations of the Computer.md",
     "College/Programming/Printing a 2D Array - C.md",
     "College/Programming/Initializing a 2D Array.md",
-    "College/Programming/Unsigned Variables - C.md",
     "College/Operating Systems",
     "College/Microprocessors Systems",
     "Other/Pasted image 20250127120941.png",
