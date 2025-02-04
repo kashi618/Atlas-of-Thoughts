@@ -5,6 +5,10 @@
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "TU856-1 Semester 2 Results",
+      "path": "College/TU856-1/TU856-1 Semester 2 Results.md"
+    },
+    {
       "basename": "Wishlist",
       "path": "Notes/Wishlist.md"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "ISO ANSI Layout Keyboards",
       "path": "Notes/ISO ANSI Layout Keyboards.md"
-    },
-    {
-      "basename": "TU856-1 Semester 2 Results",
-      "path": "College/TU856-1/TU856-1 Semester 2 Results.md"
     },
     {
       "basename": "CMPU 1025 - Sep 16th 2024",
