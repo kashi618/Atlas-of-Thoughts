@@ -81,7 +81,7 @@
               "type": "markdown",
               "state": {
                 "file": "College/Programming/Order of Code - C.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Programming/Order of Code - C.md",
+                "file": "College/Programming/Functions - C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Order of Code - C"
+              "title": "Outline of Functions - C"
             }
           },
           {
@@ -272,7 +272,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "146985f32c19b4db",
+  "active": "6208770d3d2e123d",
   "lastOpenFiles": [
     "College/Programming/Order of Code - C.md",
     "College/Programming/Functions - C.md",

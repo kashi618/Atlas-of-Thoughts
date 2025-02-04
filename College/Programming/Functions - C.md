@@ -10,10 +10,12 @@ Functions are a way to reuse certain code segments and blocks throughout a progr
 ``` c
 returnType functionName(parameter1, parameter2, parameter3) {
 	// code to be executed
+	return data;
 }
 ```
 - returnType = The type of data the function will return
 - parameter = Pieces of data passed to a functions to use
+- return = Ends function, and goes back to where it was called
 
 ### Example
 ```c
@@ -58,4 +60,5 @@ int sum(num1, num2) {
 ```
 
 # See Also
-[[Function Signatures - C]]
+[[Function Signatures - C
+[[Order of Code - C]]
