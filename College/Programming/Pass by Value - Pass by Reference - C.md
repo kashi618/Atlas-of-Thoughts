@@ -76,7 +76,7 @@ int* findMin(int n1, int n2) {
 	}
 }
 ```
-You cannot return the address of a [[Global and Local Variables - C | asd]], because n1 and n2 only exists in the function
+You cannot return the address of a [[Global and Local Variables - C |local variable]], because n1 and n2 only exists in the function
 
 # See Also
 [[Functions - C]]
