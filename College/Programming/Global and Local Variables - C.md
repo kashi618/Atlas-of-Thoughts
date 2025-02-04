@@ -30,3 +30,6 @@ void main(void) {
 	printf("%d",coolLocalVariable);
 }
 ```
+
+# See Also
+[[Variables - C]]

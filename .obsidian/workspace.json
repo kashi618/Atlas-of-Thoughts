@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Programming/Global and Local Variables - C.md",
+                "file": "CODE_OF_CONDUCT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -95,7 +95,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Global and Local Variables - C"
+              "title": "CODE_OF_CONDUCT"
             }
           }
         ],
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Programming/Global and Local Variables - C.md",
+                "file": "CODE_OF_CONDUCT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Global and Local Variables - C"
+              "title": "Outline of CODE_OF_CONDUCT"
             }
           },
           {
@@ -275,6 +275,8 @@
   },
   "active": "305e84ef318d35d8",
   "lastOpenFiles": [
+    "UNSORTED/Base Case.md",
+    "UNSORTED/Untitled.md",
     "College/Programming/Global and Local Variables - C.md",
     "College/Programming/Pass by Value - Pass by Reference - C.md",
     "College/Programming/Pointers - C.md",
@@ -300,8 +302,6 @@
     "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 23rd 2024.md",
     "College/Programming/Refactoring Code.md",
     "College/Programming/Creating Functions - C.md",
-    "College/Web Development/Functions - JavaScript.md",
-    "UNSORTED/Untitled.md",
     "College/Algorithm Design and Problem Solving",
     "College/Operating Systems",
     "College/Microprocessors Systems",

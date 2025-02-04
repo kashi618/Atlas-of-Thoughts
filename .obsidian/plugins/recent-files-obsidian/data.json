@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "CODE_OF_CONDUCT",
+      "path": "CODE_OF_CONDUCT.md"
+    },
+    {
+      "basename": "Base Case",
+      "path": "UNSORTED/Base Case.md"
+    },
+    {
       "basename": "Global and Local Variables - C",
       "path": "College/Programming/Global and Local Variables - C.md"
     },
@@ -105,10 +113,6 @@
       "path": "Other/Descartes.gif"
     },
     {
-      "basename": "Untitled",
-      "path": "UNSORTED/Untitled.md"
-    },
-    {
       "basename": "TU856-1 Semester 2 Results",
       "path": "College/TU856-1/TU856-1 Semester 2 Results.md"
     },
@@ -119,10 +123,6 @@
     {
       "basename": "Projects",
       "path": "Notes/Projects.md"
-    },
-    {
-      "basename": "Base Case",
-      "path": "UNSORTED/Base Case.md"
     },
     {
       "basename": "Recursion",
