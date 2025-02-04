@@ -18,160 +18,15 @@
                 "viewState": {
                   "x": -240.5,
                   "y": -10,
-                  "zoom": -0.5963086735594245
+                  "zoom": -0.22391827556740823
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "7f3ecf6b1fb3aed8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Programming/Function Signatures - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Function Signatures - C"
-            }
-          },
-          {
-            "id": "6208770d3d2e123d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Programming/Functions - C.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Functions - C"
-            }
-          },
-          {
-            "id": "146985f32c19b4db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Programming/Order of Code - C.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Order of Code - C"
-            }
-          },
-          {
-            "id": "d45b31379df41a8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 23rd 2024.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CMPU 1025 - Sep 23rd 2024"
-            }
-          },
-          {
-            "id": "4a970709fb9a2cb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Programming/Refactoring Code.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Refactoring Code"
-            }
-          },
-          {
-            "id": "4ea3656553bf2b88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Programming/K.I.S.S (KISS).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "K.I.S.S (KISS)"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,13 +93,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Programming/K.I.S.S (KISS).md",
+                "file": "Home Page/Home.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of K.I.S.S (KISS)"
+              "title": "Outline of Home"
             }
           },
           {
@@ -326,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 421.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -344,35 +200,35 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "4ea3656553bf2b88",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Git.md",
+    "Home Page/Home.canvas",
+    "College/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md",
+    "College/Algorithm Design and Problem Solving/Recursive Exponents Algorithm.md",
+    "College/Algorithm Design and Problem Solving/Recursive Factorial Algorithm.md",
+    "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 30th 2024.md",
     "College/Programming/K.I.S.S (KISS).md",
-    "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 23rd 2024.md",
-    "College/Programming/Refactoring Code.md",
+    "College/Programming/Leading Numbers - C.md",
+    "College/Programming/Initializing a 2D Array.md",
+    "College/Programming/Ampersand - C.md",
+    "College/Programming/Dereference Operators - C.md",
+    "College/Programming/Decimal Places and Leading Zeros - C.md",
+    "College/Programming/Variables - C.md",
+    "College/Programming/Function Signatures - C.md",
     "College/Programming/Functions - C.md",
     "College/Programming/Order of Code - C.md",
-    "College/Programming/Function Signatures - C.md",
+    "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 23rd 2024.md",
+    "College/Programming/Refactoring Code.md",
     "College/Programming/Creating Functions - C.md",
-    "Home Page/Home.canvas",
     "College/Web Development/Functions - JavaScript.md",
     "UNSORTED/Untitled.md",
-    "College/Algorithm Design and Problem Solving/Recursive Factorial Algorithm.md",
-    "College/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md",
     "College/TU856-1/TU856-1 Semester 2 Results.md",
-    "College/Algorithm Design and Problem Solving/Recursive Exponents Algorithm.md",
     "UNSORTED/Base Case.md",
     "College/Algorithm Design and Problem Solving/Recursion.md",
     "College/Algorithm Design and Problem Solving/Factorial Algorithm.md",
     "College/Algorithm Design and Problem Solving/Exponents Algorithm.md",
     "College/Algorithm Design and Problem Solving/Functional Programming Language.md",
-    "College/Algorithm Design and Problem Solving/Untitled.md",
-    "Templates/Pseudocode 1.md",
-    "UNSORTED/Untitled 1.md",
-    "Templates/Pseudocode.md",
-    "Notes/Alt Codes.md",
-    "College/Algorithm Design and Problem Solving/Algorithms.md",
-    "Notes/ISO ANSI Layout Keyboards.md",
-    "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 16th 2024.md",
     "College/Algorithm Design and Problem Solving",
     "College/Operating Systems",
     "College/Microprocessors Systems",

@@ -1,16 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Git",
+      "path": "Notes/Git.md"
+    },
+    {
+      "basename": "Recursive Euclidean Algorithm",
+      "path": "College/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md"
+    },
+    {
+      "basename": "Recursive Exponents Algorithm",
+      "path": "College/Algorithm Design and Problem Solving/Recursive Exponents Algorithm.md"
+    },
+    {
+      "basename": "Recursive Factorial Algorithm",
+      "path": "College/Algorithm Design and Problem Solving/Recursive Factorial Algorithm.md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 30th 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 30th 2024.md"
+    },
+    {
       "basename": "K.I.S.S (KISS)",
       "path": "College/Programming/K.I.S.S (KISS).md"
     },
     {
-      "basename": "CMPU 1025 - Sep 23rd 2024",
-      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 23rd 2024.md"
+      "basename": "Leading Numbers - C",
+      "path": "College/Programming/Leading Numbers - C.md"
     },
     {
-      "basename": "Refactoring Code",
-      "path": "College/Programming/Refactoring Code.md"
+      "basename": "Initializing a 2D Array",
+      "path": "College/Programming/Initializing a 2D Array.md"
+    },
+    {
+      "basename": "Ampersand - C",
+      "path": "College/Programming/Ampersand - C.md"
+    },
+    {
+      "basename": "Dereference Operators - C",
+      "path": "College/Programming/Dereference Operators - C.md"
+    },
+    {
+      "basename": "Decimal Places and Leading Zeros - C",
+      "path": "College/Programming/Decimal Places and Leading Zeros - C.md"
+    },
+    {
+      "basename": "Variables - C",
+      "path": "College/Programming/Variables - C.md"
+    },
+    {
+      "basename": "Function Signatures - C",
+      "path": "College/Programming/Function Signatures - C.md"
     },
     {
       "basename": "Functions - C",
@@ -21,12 +65,12 @@
       "path": "College/Programming/Order of Code - C.md"
     },
     {
-      "basename": "Function Signatures - C",
-      "path": "College/Programming/Function Signatures - C.md"
+      "basename": "CMPU 1025 - Sep 23rd 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 23rd 2024.md"
     },
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
+      "basename": "Refactoring Code",
+      "path": "College/Programming/Refactoring Code.md"
     },
     {
       "basename": "Functions - JavaScript",
@@ -41,14 +85,6 @@
       "path": "UNSORTED/Untitled.md"
     },
     {
-      "basename": "Recursive Factorial Algorithm",
-      "path": "College/Algorithm Design and Problem Solving/Recursive Factorial Algorithm.md"
-    },
-    {
-      "basename": "Recursive Euclidean Algorithm",
-      "path": "College/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md"
-    },
-    {
       "basename": "TU856-1 Semester 2 Results",
       "path": "College/TU856-1/TU856-1 Semester 2 Results.md"
     },
@@ -59,10 +95,6 @@
     {
       "basename": "Projects",
       "path": "Notes/Projects.md"
-    },
-    {
-      "basename": "Recursive Exponents Algorithm",
-      "path": "College/Algorithm Design and Problem Solving/Recursive Exponents Algorithm.md"
     },
     {
       "basename": "Base Case",
@@ -113,10 +145,6 @@
       "path": "College/TU856-1/TU856-1 Semester 1 Results.md"
     },
     {
-      "basename": "CMPU 1025 - Sep 30th 2024",
-      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 30th 2024.md"
-    },
-    {
       "basename": "CMPU 1025 - Nov 4th 2024",
       "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Nov 4th 2024.md"
     },
@@ -131,10 +159,6 @@
     {
       "basename": "Printing a 2D Array - C",
       "path": "College/Programming/Printing a 2D Array - C.md"
-    },
-    {
-      "basename": "Initializing a 2D Array",
-      "path": "College/Programming/Initializing a 2D Array.md"
     },
     {
       "basename": "Unsigned Variables - C",
@@ -175,30 +199,6 @@
     {
       "basename": "Compiler",
       "path": "College/Programming/Compiler.md"
-    },
-    {
-      "basename": "Arrays - C",
-      "path": "College/Programming/Arrays - C.md"
-    },
-    {
-      "basename": "Ampersand - C",
-      "path": "College/Programming/Ampersand - C.md"
-    },
-    {
-      "basename": "free() - C",
-      "path": "College/Programming/free() - C.md"
-    },
-    {
-      "basename": "Data Types",
-      "path": "College/Programming/Data Types.md"
-    },
-    {
-      "basename": "C Variable Size Uncertainty",
-      "path": "College/Microprocessors Systems/C Variable Size Uncertainty.md"
-    },
-    {
-      "basename": "CMPU 1025 - Nov 5th 2024",
-      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Nov 5th 2024.md"
     }
   ],
   "omittedPaths": [],

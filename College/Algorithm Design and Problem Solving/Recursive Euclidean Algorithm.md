@@ -2,7 +2,6 @@
 tags:
   - ComputerScience
 ---
-x`
 ```
 gcd(a,b)
 	if (b=0)
@@ -12,3 +11,4 @@ gcd(a,b)
 ```
 
 # See Also
+[[Recursion]]

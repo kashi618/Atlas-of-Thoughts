@@ -9,3 +9,6 @@ This is how to initialize functions before main()
 ``` c
 returnType functionName(parameters);
 ```
+
+# See Also
+[[Functions - C]]
