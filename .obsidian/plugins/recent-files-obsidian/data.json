@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "K.I.S.S (KISS)",
+      "path": "College/Programming/K.I.S.S (KISS).md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 23rd 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 23rd 2024.md"
+    },
+    {
+      "basename": "Refactoring Code",
+      "path": "College/Programming/Refactoring Code.md"
+    },
+    {
       "basename": "Functions - C",
       "path": "College/Programming/Functions - C.md"
     },
@@ -133,10 +145,6 @@
       "path": "Templates/BBase Computer Science.md"
     },
     {
-      "basename": "CMPU 1025 - Sep 23rd 2024",
-      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 23rd 2024.md"
-    },
-    {
       "basename": "CMPU 1025 - Oct 1th 2024",
       "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 1th 2024.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "CMPU 1025 - Nov 5th 2024",
       "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Nov 5th 2024.md"
-    },
-    {
-      "basename": "Descartes - Meditations on First Philosophy",
-      "path": "Notes/Descartes - Meditations on First Philosophy.md"
-    },
-    {
-      "basename": "CMPU 1025 - Oct 8th 2024",
-      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 8th 2024.md"
     }
   ],
   "omittedPaths": [],

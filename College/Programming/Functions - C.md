@@ -15,7 +15,7 @@ returnType functionName(parameter1, parameter2, parameter3) {
 ```
 - returnType = The type of data the function will return
 - parameter = Pieces of data passed to a functions to use
-- return = Ends function, and goes back to where it was called
+- return = Ends function, and goes back to where it was called--
 
 ### Example
 ```c

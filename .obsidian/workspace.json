@@ -97,9 +97,81 @@
               "icon": "lucide-file",
               "title": "Order of Code - C"
             }
+          },
+          {
+            "id": "d45b31379df41a8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 23rd 2024.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CMPU 1025 - Sep 23rd 2024"
+            }
+          },
+          {
+            "id": "4a970709fb9a2cb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Programming/Refactoring Code.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Refactoring Code"
+            }
+          },
+          {
+            "id": "4ea3656553bf2b88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Programming/K.I.S.S (KISS).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "K.I.S.S (KISS)"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -166,13 +238,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Programming/Functions - C.md",
+                "file": "College/Programming/K.I.S.S (KISS).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Functions - C"
+              "title": "Outline of K.I.S.S (KISS)"
             }
           },
           {
@@ -272,10 +344,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "6208770d3d2e123d",
+  "active": "4ea3656553bf2b88",
   "lastOpenFiles": [
-    "College/Programming/Order of Code - C.md",
+    "College/Programming/K.I.S.S (KISS).md",
+    "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 23rd 2024.md",
+    "College/Programming/Refactoring Code.md",
     "College/Programming/Functions - C.md",
+    "College/Programming/Order of Code - C.md",
     "College/Programming/Function Signatures - C.md",
     "College/Programming/Creating Functions - C.md",
     "Home Page/Home.canvas",
@@ -298,9 +373,6 @@
     "College/Algorithm Design and Problem Solving/Algorithms.md",
     "Notes/ISO ANSI Layout Keyboards.md",
     "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 16th 2024.md",
-    "College/TU856-1/TU856-1 Semester 1 Results.md",
-    "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 30th 2024.md",
-    "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Nov 4th 2024.md",
     "College/Algorithm Design and Problem Solving",
     "College/Operating Systems",
     "College/Microprocessors Systems",
