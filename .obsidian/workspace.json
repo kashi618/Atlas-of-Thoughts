@@ -16,8 +16,8 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -204.38379317231704,
-                  "y": 13.517565971891855,
+                  "x": -240.5,
+                  "y": -10,
                   "zoom": -0.5963086735594245
                 }
               },
@@ -201,9 +201,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
     "College/Algorithm Design and Problem Solving/Recursive Factorial Algorithm.md",
     "College/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md",
-    "Home Page/Home.canvas",
     "College/Programming/Creating Functions - C.md",
     "College/Programming/Functions - C.md",
     "College/Programming/Function Signatures - C.md",
