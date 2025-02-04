@@ -57,7 +57,7 @@
               "type": "markdown",
               "state": {
                 "file": "College/Programming/Pass by Value - Pass by Reference - C.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/How to use Obsidian.md",
+                "file": "College/Programming/Pass by Value - Pass by Reference - C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How to use Obsidian"
+              "title": "Outline of Pass by Value - Pass by Reference - C"
             }
           },
           {
@@ -273,8 +273,9 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "87d05af406bc6c58",
+  "active": "76a9dfb2f43b1bbf",
   "lastOpenFiles": [
+    "Notes/How to use Obsidian.md",
     "College/Programming/Pass by Value - Pass by Reference - C.md",
     "College/Programming/Functions - C.md",
     "CODE_OF_CONDUCT.md",
@@ -301,7 +302,6 @@
     "College/Programming/Decimal Places and Leading Zeros - C.md",
     "College/Programming/Variables - C.md",
     "College/Programming/Function Signatures - C.md",
-    "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 23rd 2024.md",
     "College/Algorithm Design and Problem Solving",
     "College/Operating Systems",
     "College/Microprocessors Systems",
