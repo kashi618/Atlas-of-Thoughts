@@ -2,6 +2,8 @@
 tags:
   - C
   - ComputerScience
+  - Functions
+  - Symbolic-Names
 ---
 ```c
 // Start with include

@@ -3,6 +3,7 @@ tags:
   - C
   - ComputerScience
   - Variables
+  - Symbolic-Names
 ---
 - It is used to avoid hard coding values in a program 
 - Usually all uppercase letters are used, to differentiate them from regular variables

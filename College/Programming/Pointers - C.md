@@ -8,10 +8,12 @@ tags:
 - The datatype used to declare a pointer variable is used to store the hex value of that datatype.
 - Regular variable, as in it can used in printf normally
 
+### Initializing Pointer
 ``` c
 dataType *pointerName;
 ```
 
+### Using Pointer
 ```c
 pointerName = &variableName
 ```
@@ -37,3 +39,4 @@ Used for [[Dynamic Memory Allocation - C|dynamic memory allocation]], for storin
 [[Variables - C]]
 [[Dereference Operators - C]]
 [[Pointers and Arrays - C]]
+[[Pass by Value - Pass by Reference - C]]

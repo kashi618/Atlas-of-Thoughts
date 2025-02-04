@@ -14,7 +14,7 @@ Allocated a contiguous block of memory, and returns a pointer to the start of th
 pointerName = malloc(size);
 ```
 - **size** is the total number of **bytes** required for the memory block
-	- You can use [[sizeof() - c|sizeof()]] to find the amount of bytes in a particular data type.
+	- You can use [[sizeof() - C|sizeof()]] to find the amount of bytes in a particular data type.
 	- Or you can calculate it yourself, [[Data Types]]
 - malloc() initializes the block of memory with [[Random Data - C|random data]].
 - Don't forget to free the memory block using [[free() - C]]

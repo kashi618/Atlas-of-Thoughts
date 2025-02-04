@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Global and Local Variables - C",
+      "path": "College/Programming/Global and Local Variables - C.md"
+    },
+    {
+      "basename": "Pass by Value - Pass by Reference - C",
+      "path": "College/Programming/Pass by Value - Pass by Reference - C.md"
+    },
+    {
+      "basename": "Pointers - C",
+      "path": "College/Programming/Pointers - C.md"
+    },
+    {
+      "basename": "Functions - C",
+      "path": "College/Programming/Functions - C.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Dynamic Memory Allocation - C",
+      "path": "College/Programming/Dynamic Memory Allocation - C.md"
+    },
+    {
+      "basename": "sizeof() - C",
+      "path": "College/Programming/sizeof() - C.md"
+    },
+    {
+      "basename": "Order of Code - C",
+      "path": "College/Programming/Order of Code - C.md"
+    },
+    {
+      "basename": "Symbolic Names - C",
+      "path": "College/Programming/Symbolic Names - C.md"
     },
     {
       "basename": "Git",
@@ -55,14 +87,6 @@
     {
       "basename": "Function Signatures - C",
       "path": "College/Programming/Function Signatures - C.md"
-    },
-    {
-      "basename": "Functions - C",
-      "path": "College/Programming/Functions - C.md"
-    },
-    {
-      "basename": "Order of Code - C",
-      "path": "College/Programming/Order of Code - C.md"
     },
     {
       "basename": "CMPU 1025 - Sep 23rd 2024",
@@ -175,30 +199,6 @@
     {
       "basename": "CMPU 1018 - Sep 23rd 2024",
       "path": "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 23rd 2024.md"
-    },
-    {
-      "basename": "CMPU 1018 - Sep 30th 2024",
-      "path": "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 30th 2024.md"
-    },
-    {
-      "basename": "CMPU 1012 - Oct 24th 2024",
-      "path": "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Oct 24th 2024.md"
-    },
-    {
-      "basename": "CMPU 1012 - Oct 17th 2024",
-      "path": "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Oct 17th 2024.md"
-    },
-    {
-      "basename": "CMPU 1012 - Nov 7th 2024",
-      "path": "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Nov 7th 2024.md"
-    },
-    {
-      "basename": "Casting - C",
-      "path": "College/Programming/Casting - C.md"
-    },
-    {
-      "basename": "Compiler",
-      "path": "College/Programming/Compiler.md"
     }
   ],
   "omittedPaths": [],
