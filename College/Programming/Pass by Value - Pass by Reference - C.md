@@ -65,6 +65,20 @@ void fxn1(int *n1)
 }
 ```
 
+### Pitfalls
+```c showlinenumbers {3,6}
+int* findMin(int n1, int n2) {
+	if (n1 > n2) {
+		return &n2;
+	}
+	else {
+		return &n1;
+	}
+}
+```
+You cannot return the address of a [[Global and Local Variables - C ┃ asd]], because n1 and n2 only exists in the function
+
 # See Also
 [[Functions - C]]
 [[Pointers - C]]
+[[Global and Local Variables - C]]

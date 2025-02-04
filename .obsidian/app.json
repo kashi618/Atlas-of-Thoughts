@@ -11,5 +11,6 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "Other",
   "rightToLeft": false,
-  "promptDelete": false
+  "promptDelete": true,
+  "trashOption": "system"
 }

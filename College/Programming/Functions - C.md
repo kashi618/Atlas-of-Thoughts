@@ -21,12 +21,15 @@ returnType functionName(parameter1, parameter2, parameter3) {
 ```c
 #include <stdio.h>
 
+// Function Signature
 int coolPP(int);
 
+// Main Function
 void main(void) {
 	coolPP(5);
 }
 
+// User Created Function
 int coolPP(number) {
 	for (int i=0; i< number; i++) {
 		printf("pp");
@@ -37,7 +40,7 @@ int coolPP(number) {
 - Older programming standards have parameters with a named variable. Nowadays, it is redundant. meow(int var1)  -> meow(int)
 
 ## Multiple Parameter Functions
-```c
+```c showLineNumbers {}
 #include <stdio.h>
 
 int sum2(int, int);

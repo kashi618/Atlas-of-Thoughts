@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "How to use Obsidian",
+      "path": "Notes/How to use Obsidian.md"
+    },
+    {
+      "basename": "Pass by Value - Pass by Reference - C",
+      "path": "College/Programming/Pass by Value - Pass by Reference - C.md"
+    },
+    {
+      "basename": "Functions - C",
+      "path": "College/Programming/Functions - C.md"
+    },
+    {
       "basename": "CODE_OF_CONDUCT",
       "path": "CODE_OF_CONDUCT.md"
     },
@@ -13,16 +25,8 @@
       "path": "College/Programming/Global and Local Variables - C.md"
     },
     {
-      "basename": "Pass by Value - Pass by Reference - C",
-      "path": "College/Programming/Pass by Value - Pass by Reference - C.md"
-    },
-    {
       "basename": "Pointers - C",
       "path": "College/Programming/Pointers - C.md"
-    },
-    {
-      "basename": "Functions - C",
-      "path": "College/Programming/Functions - C.md"
     },
     {
       "basename": "Home",
@@ -195,10 +199,6 @@
     {
       "basename": "CMPU 1025 - Oct 1th 2024",
       "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 1th 2024.md"
-    },
-    {
-      "basename": "CMPU 1018 - Sep 23rd 2024",
-      "path": "College/Unsorted Notes/CMPU 1018 - Mathematics 1/CMPU 1018 - Sep 23rd 2024.md"
     }
   ],
   "omittedPaths": [],
