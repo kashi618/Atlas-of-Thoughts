@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Functions - C",
+      "path": "College/Programming/Functions - C.md"
+    },
+    {
+      "basename": "Indentation - C",
+      "path": "College/Programming/Indentation - C.md"
+    },
+    {
+      "basename": "K.I.S.S (KISS)",
+      "path": "College/Programming/K.I.S.S (KISS).md"
+    },
+    {
+      "basename": "Compiler",
+      "path": "College/Programming/Compiler.md"
+    },
+    {
       "basename": "Pass by Value - Pass by Reference - C",
       "path": "College/Programming/Pass by Value - Pass by Reference - C.md"
     },
     {
       "basename": "How to use Obsidian",
       "path": "Notes/How to use Obsidian.md"
-    },
-    {
-      "basename": "Functions - C",
-      "path": "College/Programming/Functions - C.md"
     },
     {
       "basename": "CODE_OF_CONDUCT",
@@ -67,10 +79,6 @@
     {
       "basename": "CMPU 1025 - Sep 30th 2024",
       "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 30th 2024.md"
-    },
-    {
-      "basename": "K.I.S.S (KISS)",
-      "path": "College/Programming/K.I.S.S (KISS).md"
     },
     {
       "basename": "Leading Numbers - C",
@@ -191,14 +199,6 @@
     {
       "basename": "Unsigned Variables - C",
       "path": "College/Programming/Unsigned Variables - C.md"
-    },
-    {
-      "basename": "BBase Computer Science",
-      "path": "Templates/BBase Computer Science.md"
-    },
-    {
-      "basename": "CMPU 1025 - Oct 1th 2024",
-      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 1th 2024.md"
     }
   ],
   "omittedPaths": [],
