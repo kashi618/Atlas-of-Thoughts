@@ -5,12 +5,16 @@
       "path": "College/Data Exploration/Excel Errors.md"
     },
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
-    },
-    {
       "basename": "$$ Shell Commands",
       "path": "College/Operating Systems/$$ Shell Commands.md"
+    },
+    {
+      "basename": "Wishlist",
+      "path": "Notes/Wishlist.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "OperatingSystems1-Lab2-C24510496",
@@ -195,10 +199,6 @@
     {
       "basename": "Hidden Files",
       "path": "College/Operating Systems/Hidden Files.md"
-    },
-    {
-      "basename": "Wishlist",
-      "path": "Notes/Wishlist.md"
     }
   ],
   "omittedPaths": [],
