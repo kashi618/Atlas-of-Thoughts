@@ -16,9 +16,9 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -243.07304196490924,
-                  "y": -540.0458627338561,
-                  "zoom": -0.07995250118777668
+                  "x": -240.5,
+                  "y": -10,
+                  "zoom": -0.3627393540057756
                 }
               },
               "pinned": true,
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Operating Systems/Exercises/OperatingSystems1-Lab2-C24510496.md",
+                "file": "College/Operating Systems/$$ Shell Commands.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,11 +47,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "OperatingSystems1-Lab2-C24510496"
+              "title": "$$ Shell Commands"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,13 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Operating Systems/Exercises/OperatingSystems1-Lab2-C24510496.md",
+                "file": "Home Page/Home.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OperatingSystems1-Lab2-C24510496"
+              "title": "Outline of Home"
             }
           },
           {
@@ -224,10 +223,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "8833ff9259615f09",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Home Page/Home.canvas",
+    "College/Operating Systems/$$ Shell Commands.md",
     "College/Operating Systems/Exercises/OperatingSystems1-Lab2-C24510496.md",
+    "Home Page/Home.canvas",
     "College/Programming/Ampersand - C.md",
     "College/Operating Systems/Exercises",
     "College/Programming/Variables - C.md",
