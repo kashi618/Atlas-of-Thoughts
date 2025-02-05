@@ -226,6 +226,7 @@
   },
   "active": "e4fe2ed8b10fc71a",
   "lastOpenFiles": [
+    "README.md",
     "College/Programming/Indentation - C.md",
     "College/Programming/K.I.S.S (KISS).md",
     "College/Programming/Compiler.md",
@@ -252,7 +253,6 @@
     "College/Programming/Initializing a 2D Array.md",
     "College/Programming/Ampersand - C.md",
     "College/Programming/Dereference Operators - C.md",
-    "College/Programming/Decimal Places and Leading Zeros - C.md",
     "College/Algorithm Design and Problem Solving",
     "College/Operating Systems",
     "College/Microprocessors Systems",
