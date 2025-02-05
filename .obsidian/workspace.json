@@ -10,72 +10,21 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -240.5,
-                  "y": -10,
-                  "zoom": -0.3627393540057756
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "8833ff9259615f09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Operating Systems/$$ Shell Commands.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$$ Shell Commands"
-            }
-          },
-          {
-            "id": "332d5549a1d6d3ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Data Exploration/Excel Errors.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Excel Errors"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,11 +197,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "332d5549a1d6d3ea",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "College/Data Exploration/Excel Errors.md",
     "College/Operating Systems/$$ Shell Commands.md",
     "Home Page/Home.canvas",
-    "College/Data Exploration/Excel Errors.md",
     "College/Data Exploration",
     "College/Operating Systems/Exercises/OperatingSystems1-Lab2-C24510496.md",
     "College/Programming/Ampersand - C.md",
