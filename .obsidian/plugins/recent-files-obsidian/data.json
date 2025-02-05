@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "OperatingSystems1-Lab2-C24510496",
+      "path": "College/Operating Systems/Exercises/OperatingSystems1-Lab2-C24510496.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Ampersand - C",
       "path": "College/Programming/Ampersand - C.md"
     },
@@ -169,10 +177,6 @@
       "path": "Templates/Base C.md"
     },
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
-    },
-    {
       "basename": "Operating System Types",
       "path": "College/Operating Systems/Operating System Types.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Efficiency",
       "path": "College/Operating Systems/Efficiency.md"
-    },
-    {
-      "basename": "Hardware",
-      "path": "College/Operating Systems/Hardware.md"
     }
   ],
   "omittedPaths": [],

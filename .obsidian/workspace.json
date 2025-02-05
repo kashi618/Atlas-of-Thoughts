@@ -17,7 +17,7 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": -243.07304196490924,
-                  "y": -1.6376297423293522,
+                  "y": -540.0458627338561,
                   "zoom": -0.07995250118777668
                 }
               },
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Programming/Ampersand - C.md",
+                "file": "College/Operating Systems/Exercises/OperatingSystems1-Lab2-C24510496.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ampersand - C"
+              "title": "OperatingSystems1-Lab2-C24510496"
             }
           }
         ],
@@ -117,13 +117,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Programming/Ampersand - C.md",
+                "file": "College/Operating Systems/Exercises/OperatingSystems1-Lab2-C24510496.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ampersand - C"
+              "title": "Outline of OperatingSystems1-Lab2-C24510496"
             }
           },
           {
@@ -226,6 +226,10 @@
   },
   "active": "8833ff9259615f09",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
+    "College/Operating Systems/Exercises/OperatingSystems1-Lab2-C24510496.md",
+    "College/Programming/Ampersand - C.md",
+    "College/Operating Systems/Exercises",
     "College/Programming/Variables - C.md",
     "College/Programming/Unsigned Variables - C.md",
     "College/Programming/Symbolic Names - C.md",
@@ -249,10 +253,6 @@
     "College/Programming/Indentation - C.md",
     "College/Programming/Incrementing and Decrementing - C.md",
     "College/Programming/Global and Local Variables - C.md",
-    "College/Programming/Functions - C.md",
-    "College/Programming/Function Signatures - C.md",
-    "College/Programming/free() - C.md",
-    "Home Page/Home.canvas",
     "College/Algorithm Design and Problem Solving",
     "College/Operating Systems",
     "College/Microprocessors Systems",
@@ -271,7 +271,6 @@
     "Other/RTX4070 (mobile) Overclocked Undervolted Kombustor.png",
     "Other/Pasted image 20241129152905.png",
     "Other/Screenshot 2025-01-01 204632.png",
-    "PDF's/All Tomorrows.pdf",
-    "PDF's/book all tomorrows.pdf"
+    "PDF's/All Tomorrows.pdf"
   ]
 }
