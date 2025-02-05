@@ -1,7 +1,6 @@
 {
 	"nodes":[
-		{"id":"f05d4153590402ee","type":"text","text":"**TU856 - Computer Science**\n\n| [Brightspace](https://brightspace.tudublin.ie/d2l/home)                                                                                              | [Publish](https://timetables.tudublin.ie/) | [Office](https://www.office.com/)     |\n| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------------------------- |\n| [Societies & Clubs](https://mystudentlife.tudublin.ie/account/index.php?object=VXNlckRhc2hib2FyZA==&method=ZGFzaGJvYXJkU3RhbmRhcmRVc2Vy&action=Nw==) | [Library](https://library.tudublin.ie/)    | [[TU856 - Computer Science\\|Modules]] |\n","x":-463,"y":-370,"width":440,"height":140},
-		{"id":"48d123dde7208a81","type":"text","text":"<h1><center>Welcome to The Atlas of Thoughts</center></h1>","x":-750,"y":-440,"width":1019,"height":70,"color":"6"},
+		{"id":"48d123dde7208a81","type":"text","text":"<h1><center>Welcome to the Atlas of Thoughts</center></h1>","x":-750,"y":-440,"width":1019,"height":70,"color":"6"},
 		{"id":"53f250eaf3adbf3a","type":"file","file":"Other/explosion.gif","x":269,"y":-440,"width":70,"height":70},
 		{"id":"572c334bede5985b","type":"file","file":"Other/explosion.gif","x":339,"y":-440,"width":70,"height":70},
 		{"id":"bf1d2ad0d188ae8c","type":"file","file":"Other/explosion.gif","x":409,"y":-440,"width":70,"height":70},

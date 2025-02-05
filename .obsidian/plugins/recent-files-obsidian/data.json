@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Shell",
+      "path": "UNSORTED/Shell.md"
+    },
+    {
+      "basename": "CLI",
+      "path": "College/Operating Systems/CLI.md"
+    },
+    {
+      "basename": "Hidden Files",
+      "path": "College/Operating Systems/Hidden Files.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Wishlist",
+      "path": "Notes/Wishlist.md"
+    },
+    {
       "basename": "Virtual Machines",
       "path": "College/Operating Systems/Virtual Machines.md"
     },
     {
       "basename": "Hardware Emulation",
       "path": "UNSORTED/Hardware Emulation.md"
-    },
-    {
-      "basename": "CLI",
-      "path": "College/Operating Systems/CLI.md"
     },
     {
       "basename": "Efficiency",
@@ -55,10 +71,6 @@
     {
       "basename": "Drivers",
       "path": "College/Operating Systems/Drivers.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Charles Babbage (1791-1871)",
@@ -187,18 +199,6 @@
     {
       "basename": "TU856-1 Semester 2 Results",
       "path": "College/TU856-1/TU856-1 Semester 2 Results.md"
-    },
-    {
-      "basename": "Wishlist",
-      "path": "Notes/Wishlist.md"
-    },
-    {
-      "basename": "Projects",
-      "path": "Notes/Projects.md"
-    },
-    {
-      "basename": "Recursion",
-      "path": "College/Algorithm Design and Problem Solving/Recursion.md"
     }
   ],
   "omittedPaths": [],
