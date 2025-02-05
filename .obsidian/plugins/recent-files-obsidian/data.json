@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Shell",
-      "path": "UNSORTED/Shell.md"
+      "basename": "Operating System Types",
+      "path": "College/Operating Systems/Operating System Types.md"
     },
     {
       "basename": "CLI",
       "path": "College/Operating Systems/CLI.md"
+    },
+    {
+      "basename": "Shell",
+      "path": "UNSORTED/Shell.md"
     },
     {
       "basename": "Hidden Files",
@@ -195,10 +199,6 @@
     {
       "basename": "Descartes",
       "path": "Other/Descartes.gif"
-    },
-    {
-      "basename": "TU856-1 Semester 2 Results",
-      "path": "College/TU856-1/TU856-1 Semester 2 Results.md"
     }
   ],
   "omittedPaths": [],

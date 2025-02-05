@@ -97,9 +97,33 @@
               "icon": "lucide-file",
               "title": "Shell"
             }
+          },
+          {
+            "id": "81584b8296356c1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Operating Systems/Operating System Types.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Operating System Types"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -165,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNSORTED/Shell.md",
+                "file": "College/Operating Systems/Operating System Types.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Shell"
+              "title": "Outline of Operating System Types"
             }
           },
           {
@@ -272,8 +296,9 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "1c9a7f78bb03dccd",
+  "active": "81584b8296356c1e",
   "lastOpenFiles": [
+    "College/Operating Systems/Operating System Types.md",
     "College/Operating Systems/CLI.md",
     "UNSORTED/Shell.md",
     "College/Operating Systems/Hidden Files.md",
@@ -300,7 +325,6 @@
     "College/Programming/Compiler.md",
     "College/Programming/Pass by Value - Pass by Reference - C.md",
     "Notes/How to use Obsidian.md",
-    "CODE_OF_CONDUCT.md",
     "College/Algorithm Design and Problem Solving",
     "College/Operating Systems",
     "College/Microprocessors Systems",
