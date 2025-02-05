@@ -18,3 +18,4 @@ Stands for **Graphical User Interface**
 [[Software]]
 [[Hardware]]
 [[Operating System]]
+[[CLI]]

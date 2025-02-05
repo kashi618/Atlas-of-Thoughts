@@ -1,28 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Virtual Machines",
+      "path": "College/Operating Systems/Virtual Machines.md"
+    },
+    {
+      "basename": "Hardware Emulation",
+      "path": "UNSORTED/Hardware Emulation.md"
+    },
+    {
       "basename": "CLI",
-      "path": "UNSORTED/CLI.md"
+      "path": "College/Operating Systems/CLI.md"
     },
     {
-      "basename": "User Interface",
-      "path": "UNSORTED/User Interface.md"
+      "basename": "Efficiency",
+      "path": "College/Operating Systems/Efficiency.md"
     },
     {
-      "basename": "Kernel",
-      "path": "UNSORTED/Kernel.md"
+      "basename": "Effective",
+      "path": "UNSORTED/Effective.md"
     },
     {
-      "basename": "Software",
-      "path": "UNSORTED/Software.md"
+      "basename": "Functional",
+      "path": "UNSORTED/Functional.md"
     },
     {
       "basename": "Hardware",
       "path": "College/Operating Systems/Hardware.md"
     },
     {
+      "basename": "Software",
+      "path": "College/Operating Systems/Software.md"
+    },
+    {
+      "basename": "Linux Shell Commands",
+      "path": "College/Operating Systems/Linux Shell Commands.md"
+    },
+    {
+      "basename": "Base Case",
+      "path": "College/Algorithm Design and Problem Solving/Base Case.md"
+    },
+    {
+      "basename": "UI",
+      "path": "College/Operating Systems/UI.md"
+    },
+    {
       "basename": "Operating System",
       "path": "College/Operating Systems/Operating System.md"
+    },
+    {
+      "basename": "Kernel",
+      "path": "College/Operating Systems/Kernel.md"
     },
     {
       "basename": "Drivers",
@@ -67,10 +95,6 @@
     {
       "basename": "CODE_OF_CONDUCT",
       "path": "CODE_OF_CONDUCT.md"
-    },
-    {
-      "basename": "Base Case",
-      "path": "UNSORTED/Base Case.md"
     },
     {
       "basename": "Global and Local Variables - C",
@@ -175,30 +199,6 @@
     {
       "basename": "Recursion",
       "path": "College/Algorithm Design and Problem Solving/Recursion.md"
-    },
-    {
-      "basename": "Factorial Algorithm",
-      "path": "College/Algorithm Design and Problem Solving/Factorial Algorithm.md"
-    },
-    {
-      "basename": "Exponents Algorithm",
-      "path": "College/Algorithm Design and Problem Solving/Exponents Algorithm.md"
-    },
-    {
-      "basename": "Functional Programming Language",
-      "path": "College/Algorithm Design and Problem Solving/Functional Programming Language.md"
-    },
-    {
-      "basename": "Pseudocode 1",
-      "path": "Templates/Pseudocode 1.md"
-    },
-    {
-      "basename": "Pseudocode",
-      "path": "Templates/Pseudocode.md"
-    },
-    {
-      "basename": "Alt Codes",
-      "path": "Notes/Alt Codes.md"
     }
   ],
   "omittedPaths": [],

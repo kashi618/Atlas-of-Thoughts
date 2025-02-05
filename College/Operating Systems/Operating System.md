@@ -14,7 +14,7 @@ Contains a [[Kernel]] and a collection of utilities, to provide an operating sys
 5. Secondary storage management
 6. Networking
 7. Protection and security
-8. User interface [[User Interface]]
+8. User interface [[UI]]
 
 ## Resource Allocator
 The OS is a resource allocator, managing all resources and deciding requests for efficient and fair resource use
@@ -25,4 +25,5 @@ The OS is a control program, controlling the execution of programs to prevent er
 [[Kernel]]
 [[Drivers]]
 [[Hardware]]
-[[User Interface]]
+[[UI]]
+[[CLI]]
