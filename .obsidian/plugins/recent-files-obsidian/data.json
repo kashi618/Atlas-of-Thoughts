@@ -1,6 +1,78 @@
 {
   "recentFiles": [
     {
+      "basename": "Adding and Subtracting Matrices",
+      "path": "College/Mathematics/Adding and Subtracting Matrices.md"
+    },
+    {
+      "basename": "Caesar's Cipher",
+      "path": "College/Mathematics/Caesar's Cipher.md"
+    },
+    {
+      "basename": "Euclidean Algorithm 2",
+      "path": "College/Mathematics/Euclidean Algorithm 2.md"
+    },
+    {
+      "basename": "Functional Programming",
+      "path": "College/Operating Systems/Functional Programming.md"
+    },
+    {
+      "basename": "Multiplying Matrices",
+      "path": "College/Mathematics/Multiplying Matrices.md"
+    },
+    {
+      "basename": "Modular Numbers",
+      "path": "College/Mathematics/Modular Numbers.md"
+    },
+    {
+      "basename": "Inverse Matrices",
+      "path": "College/Mathematics/Inverse Matrices.md"
+    },
+    {
+      "basename": "Euclidean Algorithm 1",
+      "path": "College/Mathematics/Euclidean Algorithm 1.md"
+    },
+    {
+      "basename": "Fermat's Little Theorum",
+      "path": "College/Mathematics/Fermat's Little Theorum.md"
+    },
+    {
+      "basename": "Operating System",
+      "path": "College/Operating Systems/Operating System.md"
+    },
+    {
+      "basename": "Linux Shell Commands",
+      "path": "College/Operating Systems/Linux Shell Commands.md"
+    },
+    {
+      "basename": "Drivers",
+      "path": "College/Operating Systems/Drivers.md"
+    },
+    {
+      "basename": "Dynamic Memory Allocation - C",
+      "path": "College/Programming/Dynamic Memory Allocation - C.md"
+    },
+    {
+      "basename": "free() - C",
+      "path": "College/Programming/free() - C.md"
+    },
+    {
+      "basename": "sizeof() - C",
+      "path": "College/Programming/sizeof() - C.md"
+    },
+    {
+      "basename": "Arrays - C",
+      "path": "College/Programming/Arrays - C.md"
+    },
+    {
+      "basename": "Pointers and Arrays - C",
+      "path": "College/Programming/Pointers and Arrays - C.md"
+    },
+    {
+      "basename": "Pointers - C",
+      "path": "College/Programming/Pointers - C.md"
+    },
+    {
       "basename": "LED's",
       "path": "College/Microprocessors Systems/LED's.md"
     },
@@ -49,10 +121,6 @@
       "path": "College/Programming/Storing Data in Variables - C.md"
     },
     {
-      "basename": "sizeof() - C",
-      "path": "College/Programming/sizeof() - C.md"
-    },
-    {
       "basename": "Semicolons - C",
       "path": "College/Programming/Semicolons - C.md"
     },
@@ -75,14 +143,6 @@
     {
       "basename": "Printing a 2D Array - C",
       "path": "College/Programming/Printing a 2D Array - C.md"
-    },
-    {
-      "basename": "Pointers and Arrays - C",
-      "path": "College/Programming/Pointers and Arrays - C.md"
-    },
-    {
-      "basename": "Pointers - C",
-      "path": "College/Programming/Pointers - C.md"
     },
     {
       "basename": "Pass by Value - Pass by Reference - C",
@@ -129,16 +189,8 @@
       "path": "College/Programming/Function Signatures - C.md"
     },
     {
-      "basename": "free() - C",
-      "path": "College/Programming/free() - C.md"
-    },
-    {
       "basename": "Escape Characters - C",
       "path": "College/Programming/Escape Characters - C.md"
-    },
-    {
-      "basename": "Dynamic Memory Allocation - C",
-      "path": "College/Programming/Dynamic Memory Allocation - C.md"
     },
     {
       "basename": "Dereference Operators - C",
@@ -147,58 +199,6 @@
     {
       "basename": "Delimeters - C",
       "path": "College/Programming/Delimeters - C.md"
-    },
-    {
-      "basename": "Declaring and Initializing - C",
-      "path": "College/Programming/Declaring and Initializing - C.md"
-    },
-    {
-      "basename": "Decimal Places and Leading Zeros - C",
-      "path": "College/Programming/Decimal Places and Leading Zeros - C.md"
-    },
-    {
-      "basename": "Data Types",
-      "path": "College/Programming/Data Types.md"
-    },
-    {
-      "basename": "Compiler",
-      "path": "College/Programming/Compiler.md"
-    },
-    {
-      "basename": "Casting - C",
-      "path": "College/Programming/Casting - C.md"
-    },
-    {
-      "basename": "Arrays - C",
-      "path": "College/Programming/Arrays - C.md"
-    },
-    {
-      "basename": "Functional",
-      "path": "College/Operating Systems/Functional.md"
-    },
-    {
-      "basename": "Effective",
-      "path": "College/Operating Systems/Effective.md"
-    },
-    {
-      "basename": "Hardware Emulation",
-      "path": "College/Operating Systems/Hardware Emulation.md"
-    },
-    {
-      "basename": "Ccode",
-      "path": "Templates/Ccode.md"
-    },
-    {
-      "basename": "Base C",
-      "path": "Templates/Base C.md"
-    },
-    {
-      "basename": "Operating System Types",
-      "path": "College/Operating Systems/Operating System Types.md"
-    },
-    {
-      "basename": "CLI",
-      "path": "College/Operating Systems/CLI.md"
     }
   ],
   "omittedPaths": [],
