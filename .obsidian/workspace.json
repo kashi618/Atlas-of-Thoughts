@@ -16,7 +16,7 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -240.5,
+                  "x": -263.93357273157045,
                   "y": -10,
                   "zoom": -0.5963086735594245
                 }
@@ -25,8 +25,177 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "ec5915b2884d49bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Operating Systems/Charles Babbage (1791-1871).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Charles Babbage (1791-1871)"
+            }
+          },
+          {
+            "id": "aad5c3148587ec00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Operating Systems/Ada Lovelace (1815-1852).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ada Lovelace (1815-1852)"
+            }
+          },
+          {
+            "id": "17a67402a3b75327",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Operating Systems/Hardware.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Hardware"
+            }
+          },
+          {
+            "id": "1117aa91a324f8fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNSORTED/Software.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Software"
+            }
+          },
+          {
+            "id": "6c8993f483f9c378",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Operating Systems/Operating System.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Operating System"
+            }
+          },
+          {
+            "id": "75db87b93e130482",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNSORTED/User Interface.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "User Interface"
+            }
+          },
+          {
+            "id": "3383815fbadaf46f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNSORTED/CLI.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CLI"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -199,8 +368,18 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3383815fbadaf46f",
   "lastOpenFiles": [
+    "UNSORTED/CLI.md",
+    "UNSORTED/User Interface.md",
+    "UNSORTED/Kernel.md",
+    "UNSORTED/Software.md",
+    "College/Operating Systems/Hardware.md",
+    "College/Operating Systems/Operating System.md",
+    "College/Operating Systems/Drivers.md",
+    "Home Page/Home.canvas",
+    "College/Operating Systems/Charles Babbage (1791-1871).md",
+    "College/Operating Systems/Ada Lovelace (1815-1852).md",
     "College/Programming/Functions - C.md",
     "README.md",
     "College/Programming/Indentation - C.md",
@@ -214,20 +393,10 @@
     "UNSORTED/Base Case.md",
     "College/Programming/Global and Local Variables - C.md",
     "College/Programming/Pointers - C.md",
-    "Home Page/Home.canvas",
     "College/Programming/Dynamic Memory Allocation - C.md",
     "College/Programming/sizeof() - C.md",
     "College/Programming/Order of Code - C.md",
     "College/Programming/Symbolic Names - C.md",
-    "Notes/Git.md",
-    "College/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md",
-    "College/Algorithm Design and Problem Solving/Recursive Exponents Algorithm.md",
-    "College/Algorithm Design and Problem Solving/Recursive Factorial Algorithm.md",
-    "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 30th 2024.md",
-    "College/Programming/Leading Numbers - C.md",
-    "College/Programming/Initializing a 2D Array.md",
-    "College/Programming/Ampersand - C.md",
-    "College/Programming/Dereference Operators - C.md",
     "College/Algorithm Design and Problem Solving",
     "College/Operating Systems",
     "College/Microprocessors Systems",

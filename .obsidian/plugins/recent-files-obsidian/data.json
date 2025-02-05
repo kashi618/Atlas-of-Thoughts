@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "CLI",
+      "path": "UNSORTED/CLI.md"
+    },
+    {
+      "basename": "User Interface",
+      "path": "UNSORTED/User Interface.md"
+    },
+    {
+      "basename": "Kernel",
+      "path": "UNSORTED/Kernel.md"
+    },
+    {
+      "basename": "Software",
+      "path": "UNSORTED/Software.md"
+    },
+    {
+      "basename": "Hardware",
+      "path": "College/Operating Systems/Hardware.md"
+    },
+    {
+      "basename": "Operating System",
+      "path": "College/Operating Systems/Operating System.md"
+    },
+    {
+      "basename": "Drivers",
+      "path": "College/Operating Systems/Drivers.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Charles Babbage (1791-1871)",
+      "path": "College/Operating Systems/Charles Babbage (1791-1871).md"
+    },
+    {
+      "basename": "Ada Lovelace (1815-1852)",
+      "path": "College/Operating Systems/Ada Lovelace (1815-1852).md"
     },
     {
       "basename": "Functions - C",
@@ -163,42 +199,6 @@
     {
       "basename": "Alt Codes",
       "path": "Notes/Alt Codes.md"
-    },
-    {
-      "basename": "Algorithms",
-      "path": "College/Algorithm Design and Problem Solving/Algorithms.md"
-    },
-    {
-      "basename": "ISO ANSI Layout Keyboards",
-      "path": "Notes/ISO ANSI Layout Keyboards.md"
-    },
-    {
-      "basename": "CMPU 1025 - Sep 16th 2024",
-      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 16th 2024.md"
-    },
-    {
-      "basename": "TU856-1 Semester 1 Results",
-      "path": "College/TU856-1/TU856-1 Semester 1 Results.md"
-    },
-    {
-      "basename": "CMPU 1025 - Nov 4th 2024",
-      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Nov 4th 2024.md"
-    },
-    {
-      "basename": "Functional Programming",
-      "path": "College/Mathematics/Functional Programming.md"
-    },
-    {
-      "basename": "Generations of the Computer",
-      "path": "College/Operating Systems/Generations of the Computer.md"
-    },
-    {
-      "basename": "Printing a 2D Array - C",
-      "path": "College/Programming/Printing a 2D Array - C.md"
-    },
-    {
-      "basename": "Unsigned Variables - C",
-      "path": "College/Programming/Unsigned Variables - C.md"
     }
   ],
   "omittedPaths": [],
