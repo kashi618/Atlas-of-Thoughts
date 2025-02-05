@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Scope - C",
+      "path": "College/Programming/Scope - C.md"
+    },
+    {
+      "basename": "Memory Leak",
+      "path": "UNSORTED/Memory Leak.md"
+    },
+    {
+      "basename": "Functions - C",
+      "path": "College/Programming/Functions - C.md"
+    },
+    {
+      "basename": "Pass by Value - Pass by Reference - C",
+      "path": "College/Programming/Pass by Value - Pass by Reference - C.md"
+    },
+    {
+      "basename": "Function Signatures - C",
+      "path": "College/Programming/Function Signatures - C.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Operating System Types",
       "path": "College/Operating Systems/Operating System Types.md"
     },
@@ -15,10 +39,6 @@
     {
       "basename": "Hidden Files",
       "path": "College/Operating Systems/Hidden Files.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Wishlist",
@@ -85,10 +105,6 @@
       "path": "College/Operating Systems/Ada Lovelace (1815-1852).md"
     },
     {
-      "basename": "Functions - C",
-      "path": "College/Programming/Functions - C.md"
-    },
-    {
       "basename": "Indentation - C",
       "path": "College/Programming/Indentation - C.md"
     },
@@ -99,10 +115,6 @@
     {
       "basename": "Compiler",
       "path": "College/Programming/Compiler.md"
-    },
-    {
-      "basename": "Pass by Value - Pass by Reference - C",
-      "path": "College/Programming/Pass by Value - Pass by Reference - C.md"
     },
     {
       "basename": "How to use Obsidian",
@@ -181,24 +193,12 @@
       "path": "College/Programming/Variables - C.md"
     },
     {
-      "basename": "Function Signatures - C",
-      "path": "College/Programming/Function Signatures - C.md"
-    },
-    {
       "basename": "CMPU 1025 - Sep 23rd 2024",
       "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 23rd 2024.md"
     },
     {
       "basename": "Refactoring Code",
       "path": "College/Programming/Refactoring Code.md"
-    },
-    {
-      "basename": "Functions - JavaScript",
-      "path": "College/Web Development/Functions - JavaScript.md"
-    },
-    {
-      "basename": "Descartes",
-      "path": "Other/Descartes.gif"
     }
   ],
   "omittedPaths": [],

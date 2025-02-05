@@ -6,6 +6,8 @@ tags:
 ---
 Functions are a way to reuse certain code segments and blocks throughout a program. All programming languages have built in functions, and also allows a developer to make their own functions
 
+**NOTE:** When a function ends, any variable declared in the function disappears, and is considered [[Memory Leak]]
+
 ## Creating Functions
 ``` c
 returnType functionName(parameter1, parameter2, parameter3) {
@@ -61,7 +63,6 @@ int sum(num1, num2) {
 	return sum;
 }
 ```
-
 
 # See Also
 [[Function Signatures - C]]

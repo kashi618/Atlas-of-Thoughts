@@ -28,6 +28,7 @@ void meow(num) {
 
 ## Pass by Reference / Functions with Pointers
 This is when you pass the **ADDRESS** of the parameter to the function
+- This allows you to change the value of the original value of the parameter
 
 ```c
 #include <stdio.h>
