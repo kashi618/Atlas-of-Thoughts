@@ -8,22 +8,22 @@ tags:
 - Variables are stored in RAM
 
 ## Declaring Variables
-```c
+```c showlinenumbers
 variableType variableName;
 ```
 
 ### Example
-``` c
+```c showlinenumbers
 int var1;
 ```
 
 ## Initializing Variables
-```c
+```c showlinenumbers
 variableType variableName = value;
 ```
 
 ### Example
-``` c
+```c showlinenumbers
 int var1 = 100;
 ```
 

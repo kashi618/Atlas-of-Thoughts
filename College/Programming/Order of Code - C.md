@@ -5,7 +5,7 @@ tags:
   - Functions
   - Symbolic-Names
 ---
-```c
+```c showlinenumbers
 // Start with include
 #include <stdio.h>
 

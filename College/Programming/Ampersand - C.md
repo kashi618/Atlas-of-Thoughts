@@ -7,7 +7,7 @@ tags:
 ---
 Gives the address location of a variable
 
-``` c
+```c showlinenumbers
 int var1 = 10;
 int *ptr1;
 

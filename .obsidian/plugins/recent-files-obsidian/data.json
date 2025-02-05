@@ -1,24 +1,172 @@
 {
   "recentFiles": [
     {
+      "basename": "Ampersand - C",
+      "path": "College/Programming/Ampersand - C.md"
+    },
+    {
+      "basename": "Variables - C",
+      "path": "College/Programming/Variables - C.md"
+    },
+    {
+      "basename": "Unsigned Variables - C",
+      "path": "College/Programming/Unsigned Variables - C.md"
+    },
+    {
+      "basename": "Symbolic Names - C",
+      "path": "College/Programming/Symbolic Names - C.md"
+    },
+    {
+      "basename": "Subscript and Pointer Notation - C",
+      "path": "College/Programming/Subscript and Pointer Notation - C.md"
+    },
+    {
+      "basename": "Storing Data in Variables - C",
+      "path": "College/Programming/Storing Data in Variables - C.md"
+    },
+    {
+      "basename": "sizeof() - C",
+      "path": "College/Programming/sizeof() - C.md"
+    },
+    {
+      "basename": "Semicolons - C",
+      "path": "College/Programming/Semicolons - C.md"
+    },
+    {
       "basename": "Scope - C",
       "path": "College/Programming/Scope - C.md"
     },
     {
-      "basename": "Memory Leak",
-      "path": "UNSORTED/Memory Leak.md"
+      "basename": "Returning Variables - C",
+      "path": "College/Programming/Returning Variables - C.md"
     },
     {
-      "basename": "Functions - C",
-      "path": "College/Programming/Functions - C.md"
+      "basename": "Refactoring Code",
+      "path": "College/Programming/Refactoring Code.md"
+    },
+    {
+      "basename": "Random Data - C",
+      "path": "College/Programming/Random Data - C.md"
+    },
+    {
+      "basename": "Printing a 2D Array - C",
+      "path": "College/Programming/Printing a 2D Array - C.md"
+    },
+    {
+      "basename": "Pointers and Arrays - C",
+      "path": "College/Programming/Pointers and Arrays - C.md"
+    },
+    {
+      "basename": "Pointers - C",
+      "path": "College/Programming/Pointers - C.md"
     },
     {
       "basename": "Pass by Value - Pass by Reference - C",
       "path": "College/Programming/Pass by Value - Pass by Reference - C.md"
     },
     {
+      "basename": "Order of Code - C",
+      "path": "College/Programming/Order of Code - C.md"
+    },
+    {
+      "basename": "Memory Leak",
+      "path": "College/Programming/Memory Leak.md"
+    },
+    {
+      "basename": "Leading Numbers - C",
+      "path": "College/Programming/Leading Numbers - C.md"
+    },
+    {
+      "basename": "K.I.S.S (KISS)",
+      "path": "College/Programming/K.I.S.S (KISS).md"
+    },
+    {
+      "basename": "Initializing a 2D Array",
+      "path": "College/Programming/Initializing a 2D Array.md"
+    },
+    {
+      "basename": "Indentation - C",
+      "path": "College/Programming/Indentation - C.md"
+    },
+    {
+      "basename": "Incrementing and Decrementing - C",
+      "path": "College/Programming/Incrementing and Decrementing - C.md"
+    },
+    {
+      "basename": "Global and Local Variables - C",
+      "path": "College/Programming/Global and Local Variables - C.md"
+    },
+    {
+      "basename": "Functions - C",
+      "path": "College/Programming/Functions - C.md"
+    },
+    {
       "basename": "Function Signatures - C",
       "path": "College/Programming/Function Signatures - C.md"
+    },
+    {
+      "basename": "free() - C",
+      "path": "College/Programming/free() - C.md"
+    },
+    {
+      "basename": "Escape Characters - C",
+      "path": "College/Programming/Escape Characters - C.md"
+    },
+    {
+      "basename": "Dynamic Memory Allocation - C",
+      "path": "College/Programming/Dynamic Memory Allocation - C.md"
+    },
+    {
+      "basename": "Dereference Operators - C",
+      "path": "College/Programming/Dereference Operators - C.md"
+    },
+    {
+      "basename": "Delimeters - C",
+      "path": "College/Programming/Delimeters - C.md"
+    },
+    {
+      "basename": "Declaring and Initializing - C",
+      "path": "College/Programming/Declaring and Initializing - C.md"
+    },
+    {
+      "basename": "Decimal Places and Leading Zeros - C",
+      "path": "College/Programming/Decimal Places and Leading Zeros - C.md"
+    },
+    {
+      "basename": "Data Types",
+      "path": "College/Programming/Data Types.md"
+    },
+    {
+      "basename": "Compiler",
+      "path": "College/Programming/Compiler.md"
+    },
+    {
+      "basename": "Casting - C",
+      "path": "College/Programming/Casting - C.md"
+    },
+    {
+      "basename": "Arrays - C",
+      "path": "College/Programming/Arrays - C.md"
+    },
+    {
+      "basename": "Functional",
+      "path": "College/Operating Systems/Functional.md"
+    },
+    {
+      "basename": "Effective",
+      "path": "College/Operating Systems/Effective.md"
+    },
+    {
+      "basename": "Hardware Emulation",
+      "path": "College/Operating Systems/Hardware Emulation.md"
+    },
+    {
+      "basename": "Ccode",
+      "path": "Templates/Ccode.md"
+    },
+    {
+      "basename": "Base C",
+      "path": "Templates/Base C.md"
     },
     {
       "basename": "Home",
@@ -33,10 +181,6 @@
       "path": "College/Operating Systems/CLI.md"
     },
     {
-      "basename": "Shell",
-      "path": "UNSORTED/Shell.md"
-    },
-    {
       "basename": "Hidden Files",
       "path": "College/Operating Systems/Hidden Files.md"
     },
@@ -49,156 +193,12 @@
       "path": "College/Operating Systems/Virtual Machines.md"
     },
     {
-      "basename": "Hardware Emulation",
-      "path": "UNSORTED/Hardware Emulation.md"
-    },
-    {
       "basename": "Efficiency",
       "path": "College/Operating Systems/Efficiency.md"
     },
     {
-      "basename": "Effective",
-      "path": "UNSORTED/Effective.md"
-    },
-    {
-      "basename": "Functional",
-      "path": "UNSORTED/Functional.md"
-    },
-    {
       "basename": "Hardware",
       "path": "College/Operating Systems/Hardware.md"
-    },
-    {
-      "basename": "Software",
-      "path": "College/Operating Systems/Software.md"
-    },
-    {
-      "basename": "Linux Shell Commands",
-      "path": "College/Operating Systems/Linux Shell Commands.md"
-    },
-    {
-      "basename": "Base Case",
-      "path": "College/Algorithm Design and Problem Solving/Base Case.md"
-    },
-    {
-      "basename": "UI",
-      "path": "College/Operating Systems/UI.md"
-    },
-    {
-      "basename": "Operating System",
-      "path": "College/Operating Systems/Operating System.md"
-    },
-    {
-      "basename": "Kernel",
-      "path": "College/Operating Systems/Kernel.md"
-    },
-    {
-      "basename": "Drivers",
-      "path": "College/Operating Systems/Drivers.md"
-    },
-    {
-      "basename": "Charles Babbage (1791-1871)",
-      "path": "College/Operating Systems/Charles Babbage (1791-1871).md"
-    },
-    {
-      "basename": "Ada Lovelace (1815-1852)",
-      "path": "College/Operating Systems/Ada Lovelace (1815-1852).md"
-    },
-    {
-      "basename": "Indentation - C",
-      "path": "College/Programming/Indentation - C.md"
-    },
-    {
-      "basename": "K.I.S.S (KISS)",
-      "path": "College/Programming/K.I.S.S (KISS).md"
-    },
-    {
-      "basename": "Compiler",
-      "path": "College/Programming/Compiler.md"
-    },
-    {
-      "basename": "How to use Obsidian",
-      "path": "Notes/How to use Obsidian.md"
-    },
-    {
-      "basename": "CODE_OF_CONDUCT",
-      "path": "CODE_OF_CONDUCT.md"
-    },
-    {
-      "basename": "Global and Local Variables - C",
-      "path": "College/Programming/Global and Local Variables - C.md"
-    },
-    {
-      "basename": "Pointers - C",
-      "path": "College/Programming/Pointers - C.md"
-    },
-    {
-      "basename": "Dynamic Memory Allocation - C",
-      "path": "College/Programming/Dynamic Memory Allocation - C.md"
-    },
-    {
-      "basename": "sizeof() - C",
-      "path": "College/Programming/sizeof() - C.md"
-    },
-    {
-      "basename": "Order of Code - C",
-      "path": "College/Programming/Order of Code - C.md"
-    },
-    {
-      "basename": "Symbolic Names - C",
-      "path": "College/Programming/Symbolic Names - C.md"
-    },
-    {
-      "basename": "Git",
-      "path": "Notes/Git.md"
-    },
-    {
-      "basename": "Recursive Euclidean Algorithm",
-      "path": "College/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md"
-    },
-    {
-      "basename": "Recursive Exponents Algorithm",
-      "path": "College/Algorithm Design and Problem Solving/Recursive Exponents Algorithm.md"
-    },
-    {
-      "basename": "Recursive Factorial Algorithm",
-      "path": "College/Algorithm Design and Problem Solving/Recursive Factorial Algorithm.md"
-    },
-    {
-      "basename": "CMPU 1025 - Sep 30th 2024",
-      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 30th 2024.md"
-    },
-    {
-      "basename": "Leading Numbers - C",
-      "path": "College/Programming/Leading Numbers - C.md"
-    },
-    {
-      "basename": "Initializing a 2D Array",
-      "path": "College/Programming/Initializing a 2D Array.md"
-    },
-    {
-      "basename": "Ampersand - C",
-      "path": "College/Programming/Ampersand - C.md"
-    },
-    {
-      "basename": "Dereference Operators - C",
-      "path": "College/Programming/Dereference Operators - C.md"
-    },
-    {
-      "basename": "Decimal Places and Leading Zeros - C",
-      "path": "College/Programming/Decimal Places and Leading Zeros - C.md"
-    },
-    {
-      "basename": "Variables - C",
-      "path": "College/Programming/Variables - C.md"
-    },
-    {
-      "basename": "CMPU 1025 - Sep 23rd 2024",
-      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 23rd 2024.md"
-    },
-    {
-      "basename": "Refactoring Code",
-      "path": "College/Programming/Refactoring Code.md"
     }
   ],
   "omittedPaths": [],

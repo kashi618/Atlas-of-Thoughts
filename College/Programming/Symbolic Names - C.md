@@ -9,11 +9,11 @@ tags:
 - Usually all uppercase letters are used, to differentiate them from regular variables
 - The value of a symbolic name cannot be changed
 
-``` c
+```c showlinenumbers
 #define VariableName Value
 ```
 
-``` c
+```c showlinenumbers
 #define AGE 18
 #define PI 3.141592
 #define LETTER 'A'

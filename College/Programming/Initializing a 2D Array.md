@@ -6,12 +6,12 @@ tags:
   - 2D-Arrays
 ---
 
-```c
+```c showlinenumbers
 dataType arrayName[ROW][COLUMN];
 ```
 
 ## Example
-``` c
+```c showlinenumbers
 #include <stdio.h>
 
 int main () {

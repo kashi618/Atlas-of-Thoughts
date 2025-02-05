@@ -6,7 +6,7 @@ tags:
 ---
 This is how to initialize functions before main()
 *Also known as a function prototype*
-``` c
+```c showlinenumbers
 returnType functionName(parameters);
 ```
 

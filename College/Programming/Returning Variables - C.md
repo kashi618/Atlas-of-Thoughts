@@ -5,13 +5,13 @@ tags:
   - Variables
 ---
 To store a value inside a variable, a variable must first be [[Declaring and Initializing Variables - C|declared]].
-``` c
+```c showlinenumbers
 printf("variableDelimeter",variableName);
 ```
 [[Delimeters - C]]
 
 ## Example
-``` c
+```c showlinenumbers
 #include <stdio.h>
 
 int main() {

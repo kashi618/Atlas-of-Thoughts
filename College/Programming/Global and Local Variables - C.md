@@ -6,7 +6,7 @@ tags:
 ## Global Variables
 Variables which can be accessed anywhere within a program
 
-```c
+```c showlinenumbers
 #include <stdio.h>
 
 // Initialize global variable
@@ -20,7 +20,7 @@ void main(void) {
 ## Local Variables
 Variables that can only be used and accessed in its respective function
 
-```c
+```c showlinenumbers
 #include <stdio.h>
 
 void main(void) {

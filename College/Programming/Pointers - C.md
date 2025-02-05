@@ -9,16 +9,16 @@ tags:
 - Regular variable, as in it can used in printf normally
 
 ### Initializing Pointer
-``` c
+```c showlinenumbers
 dataType *pointerName;
 ```
 
 ### Using Pointer
-```c
+```c showlinenumbers
 pointerName = &variableName
 ```
 ## Example
-``` c 
+```c showlinenumbers 
 #include <stdio.h>
 
 int main () {

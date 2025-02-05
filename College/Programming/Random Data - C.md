@@ -6,7 +6,7 @@ tags:
 When an program closes, the data in the variables stored in RAM stays. This means, in C, if you create another variable but DO NOT assign it a value, and subsequently print the value of that variable out, it will show a previous programs data. This is called random data 
 
 ## Printing Random Data
-``` c
+```c showlinenumbers
 #include <stdio.h>
 
 int main () {

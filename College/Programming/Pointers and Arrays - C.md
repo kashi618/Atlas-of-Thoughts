@@ -7,7 +7,7 @@ tags:
 ## Arrays and Memory Addresses
 
 The name of an array, is the same as the memory address location of the first element of that array.
-``` c
+```c showlinenumbers
 #include <stdio.h>
 
 int main () {

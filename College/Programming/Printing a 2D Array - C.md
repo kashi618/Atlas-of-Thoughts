@@ -5,7 +5,7 @@ tags:
   - Arrays
   - 2D-Arrays
 ---
-``` c
+```c showlinenumbers
 // Print the 2D array 
 for (i=0; i<ROWS; i++) { 
 	for (j=0; j<COLS; j++) { 

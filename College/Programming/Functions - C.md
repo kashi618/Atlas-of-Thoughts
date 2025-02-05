@@ -9,7 +9,7 @@ Functions are a way to reuse certain code segments and blocks throughout a progr
 **NOTE:** When a function ends, any variable declared in the function disappears, and is considered [[Memory Leak]]
 
 ## Creating Functions
-``` c
+```c showlinenumbers
 returnType functionName(parameter1, parameter2, parameter3) {
 	// code to be executed
 	return data;
@@ -20,7 +20,7 @@ returnType functionName(parameter1, parameter2, parameter3) {
 - return = Ends function, and goes back to where it was called--
 
 ### Example
-```c
+```c showlinenumbers
 #include <stdio.h>
 
 // Function Signature

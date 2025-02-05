@@ -6,7 +6,7 @@ tags:
 ## Pass by Value
 This is when a **COPY** of a parameter is passed into a function
 
-```c
+```c showlinenumbers
 #include <stdio.h>
 
 void meow(int);
@@ -30,7 +30,7 @@ void meow(num) {
 This is when you pass the **ADDRESS** of the parameter to the function
 - This allows you to change the value of the original value of the parameter
 
-```c
+```c showlinenumbers
 #include <stdio.h>
 
 void fxn1(int *);

@@ -10,7 +10,7 @@ tags:
 
 ## Explicit Casting
 
-``` c
+```c showlinenumbers
 // The test variable is now a float
 float test = 10.75;
 // This now turns test into an integer
@@ -26,7 +26,7 @@ float message = (float)age;
 
 ## Implicit Casting
 
-``` c
+```c showlinenumbers
 int var1 = 1
 float var2 = 1.5
 
@@ -53,7 +53,7 @@ This is the order of precedence, from highest to lowest
 - Long Double
 
 ## Dangers with Casting
-``` c
+```c showlinenumbers
 // The pi variable is a float
 float pi = 3.14159
 

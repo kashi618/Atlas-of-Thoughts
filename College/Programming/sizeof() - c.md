@@ -4,12 +4,12 @@ tags:
   - ComputerScience
   - Variables
 ---
-```c
+```c showlinenumbers
 sizeof(dataType)
 ```
 returns the amount of bytes in a particular data type
 
-``` c
+```c showlinenumbers
 printf("An integer has %d bytes",sizeof(int))
 ```
 ```

@@ -9,7 +9,7 @@ Sometimes there are situations where we have an array. However, we do not know h
 
 ## malloc()
 Allocated a contiguous block of memory, and returns a pointer to the start of the allocated block
-``` c
+```c showlinenumbers
 #include <stdlib.h>>
 pointerName = malloc(size);
 ```
@@ -20,7 +20,7 @@ pointerName = malloc(size);
 - Don't forget to free the memory block using [[free() - C]]
 
 ### Example
-``` c
+```c showlinenumbers
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -70,7 +70,7 @@ int main () {
 
 ## calloc()
 Allocates a contiguous block of memory just like malloc()
-``` c
+```c showlinenumbers
 #include <stdio.h>
 pointerName = calloc(number_of_data_items, size_of_each_data_item);
 ```

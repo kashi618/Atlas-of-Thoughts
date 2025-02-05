@@ -5,7 +5,7 @@ tags:
   - ComputerScience
 ---
 ## Declaring Arrays
-``` c
+```c showlinenumbers
 dataType arr[size];
 ```
 
@@ -16,7 +16,7 @@ dataType arr[size];
 - Set the value of the array by using curly brackets {0}
 - The array now contains 100 zero's
 
-``` cpp
+```c showlinenumbers
 #include <stdio.h>
 
 int main () {
@@ -25,7 +25,7 @@ int main () {
 ```
 
 ## Initializing Array With Set Values
-```c
+```c showlinenumbers
 char chars[] = {'a','b','c','d','e'};
 ```
 An array can also be initialized without a **size**, if you set values.

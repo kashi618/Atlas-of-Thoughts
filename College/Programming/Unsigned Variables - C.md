@@ -4,9 +4,10 @@ tags:
   - ComputerScience
   - Variables
 ---
- - Removes the negative range of a variable, and adding the extra memory to the positive side.
-  Range of unsigned integer, range = 0 > 4 billion
-``` cpp
+Removes the negative range of a variable, and adding the extra memory to the positive side
+A regular int has a range of (-2 billion <-> 2 billion)
+A unsigned int has a range of (0 <-> 4 billion)
+```c showlinenumbers
 unsigned int num1;
 unsigned char char1;
 unsigned bool bool1;
