@@ -5,6 +5,10 @@
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "Wishlist",
+      "path": "Notes/Wishlist.md"
+    },
+    {
       "basename": "Adding and Subtracting Matrices",
       "path": "College/Mathematics/Adding and Subtracting Matrices.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "$$ Shell Commands",
       "path": "College/Operating Systems/$$ Shell Commands.md"
-    },
-    {
-      "basename": "Wishlist",
-      "path": "Notes/Wishlist.md"
     },
     {
       "basename": "OperatingSystems1-Lab2-C24510496",
