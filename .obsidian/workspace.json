@@ -18,40 +18,15 @@
                 "viewState": {
                   "x": -240.5,
                   "y": -10,
-                  "zoom": -0.22391827556740823
+                  "zoom": -0.5963086735594245
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "e4fe2ed8b10fc71a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Programming/Functions - C.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Functions - C"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,15 +199,15 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e4fe2ed8b10fc71a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "College/Programming/Functions - C.md",
     "README.md",
     "College/Programming/Indentation - C.md",
     "College/Programming/K.I.S.S (KISS).md",
     "College/Programming/Compiler.md",
     "College/Programming/Pass by Value - Pass by Reference - C.md",
     "Notes/How to use Obsidian.md",
-    "College/Programming/Functions - C.md",
     "CODE_OF_CONDUCT.md",
     "UNSORTED/j.md",
     "UNSORTED/k.md",

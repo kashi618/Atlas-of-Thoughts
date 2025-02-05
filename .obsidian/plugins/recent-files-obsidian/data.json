@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Functions - C",
       "path": "College/Programming/Functions - C.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "Pointers - C",
       "path": "College/Programming/Pointers - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Dynamic Memory Allocation - C",
