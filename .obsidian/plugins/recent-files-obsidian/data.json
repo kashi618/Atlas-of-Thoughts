@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Excel Errors",
+      "path": "College/Data Exploration/Excel Errors.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Wishlist",
       "path": "Notes/Wishlist.md"
-    },
-    {
-      "basename": "Virtual Machines",
-      "path": "College/Operating Systems/Virtual Machines.md"
     }
   ],
   "omittedPaths": [],

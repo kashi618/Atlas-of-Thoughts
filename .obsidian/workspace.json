@@ -49,8 +49,33 @@
               "icon": "lucide-file",
               "title": "$$ Shell Commands"
             }
+          },
+          {
+            "id": "332d5549a1d6d3ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Data Exploration/Excel Errors.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Excel Errors"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "College/Data Exploration/Excel Errors.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Excel Errors"
             }
           },
           {
@@ -223,11 +248,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "332d5549a1d6d3ea",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
+    "College/Data Exploration/Excel Errors.md",
+    "College/Data Exploration",
     "College/Operating Systems/$$ Shell Commands.md",
     "College/Operating Systems/Exercises/OperatingSystems1-Lab2-C24510496.md",
-    "Home Page/Home.canvas",
     "College/Programming/Ampersand - C.md",
     "College/Operating Systems/Exercises",
     "College/Programming/Variables - C.md",
@@ -251,8 +278,6 @@
     "College/Programming/K.I.S.S (KISS).md",
     "College/Programming/Initializing a 2D Array.md",
     "College/Programming/Indentation - C.md",
-    "College/Programming/Incrementing and Decrementing - C.md",
-    "College/Programming/Global and Local Variables - C.md",
     "College/Algorithm Design and Problem Solving",
     "College/Operating Systems",
     "College/Microprocessors Systems",
@@ -270,7 +295,6 @@
     "Other/RTX4070 (mobile) Overclocked Undervolted HWINFO.png",
     "Other/RTX4070 (mobile) Overclocked Undervolted Kombustor.png",
     "Other/Pasted image 20241129152905.png",
-    "Other/Screenshot 2025-01-01 204632.png",
-    "PDF's/All Tomorrows.pdf"
+    "Other/Screenshot 2025-01-01 204632.png"
   ]
 }
