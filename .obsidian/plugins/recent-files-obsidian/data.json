@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "LED's",
+      "path": "College/Microprocessors Systems/LED's.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "CLI",
       "path": "College/Operating Systems/CLI.md"
-    },
-    {
-      "basename": "Hidden Files",
-      "path": "College/Operating Systems/Hidden Files.md"
     }
   ],
   "omittedPaths": [],
