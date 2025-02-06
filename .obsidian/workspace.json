@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -240.5,
                   "y": -10,
-                  "zoom": -0.31433769658887506
+                  "zoom": -0.5316392460016971
                 }
               },
               "pinned": true,
@@ -201,6 +201,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
     "College/Mathematics/Adding and Subtracting Matrices.md",
     "College/Mathematics/Caesar's Cipher.md",
     "College/Mathematics/Euclidean Algorithm 2.md",
@@ -220,7 +221,6 @@
     "College/Programming/Pointers and Arrays - C.md",
     "College/Programming/Pointers - C.md",
     "College/Microprocessors Systems/LED's.md",
-    "Home Page/Home.canvas",
     "College/Data Exploration/Excel Errors.md",
     "College/Operating Systems/$$ Shell Commands.md",
     "College/Data Exploration",
@@ -229,7 +229,6 @@
     "College/Operating Systems/Exercises",
     "College/Programming/Variables - C.md",
     "College/Programming/Unsigned Variables - C.md",
-    "College/Programming/Symbolic Names - C.md",
     "College/Algorithm Design and Problem Solving",
     "College/Operating Systems",
     "College/Microprocessors Systems",
