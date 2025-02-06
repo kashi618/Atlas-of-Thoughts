@@ -50,8 +50,7 @@
               "title": "Alt Codes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,8 +223,9 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "d4d336a352a84e2a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Alt Codes.md",
     "College/Programming/Functions - C.md",
     "College/Microprocessors Systems/Turn On Output Port.md",
     "College/Microprocessors Systems/GPIOA - GPIOB.md",
@@ -253,7 +253,6 @@
     "College/Data Exploration/Excel Errors.md",
     "College/Operating Systems/$$ Shell Commands.md",
     "College/Data Exploration",
-    "College/Operating Systems/Exercises/OperatingSystems1-Lab2-C24510496.md",
     "College/Operating Systems/Exercises",
     "College/Algorithm Design and Problem Solving",
     "College/Operating Systems",

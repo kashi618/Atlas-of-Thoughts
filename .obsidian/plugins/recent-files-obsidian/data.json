@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Alt Codes",
       "path": "Notes/Alt Codes.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Traffic Lights",
       "path": "College/Microprocessors Systems/Traffic Lights.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Wishlist",
