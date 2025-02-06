@@ -25,8 +25,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "d4d336a352a84e2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Alt Codes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Alt Codes"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,8 +224,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d4d336a352a84e2a",
   "lastOpenFiles": [
+    "College/Programming/Functions - C.md",
+    "College/Microprocessors Systems/Turn On Output Port.md",
+    "College/Microprocessors Systems/GPIOA - GPIOB.md",
+    "College/Microprocessors Systems/Traffic Lights.md",
     "Home Page/Home.canvas",
     "College/Mathematics/Adding and Subtracting Matrices.md",
     "College/Mathematics/Caesar's Cipher.md",
@@ -225,10 +254,7 @@
     "College/Operating Systems/$$ Shell Commands.md",
     "College/Data Exploration",
     "College/Operating Systems/Exercises/OperatingSystems1-Lab2-C24510496.md",
-    "College/Programming/Ampersand - C.md",
     "College/Operating Systems/Exercises",
-    "College/Programming/Variables - C.md",
-    "College/Programming/Unsigned Variables - C.md",
     "College/Algorithm Design and Problem Solving",
     "College/Operating Systems",
     "College/Microprocessors Systems",

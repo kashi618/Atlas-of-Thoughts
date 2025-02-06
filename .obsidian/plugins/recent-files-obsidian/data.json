@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Alt Codes",
+      "path": "Notes/Alt Codes.md"
+    },
+    {
+      "basename": "Functions - C",
+      "path": "College/Programming/Functions - C.md"
+    },
+    {
+      "basename": "Turn On Output Port",
+      "path": "College/Microprocessors Systems/Turn On Output Port.md"
+    },
+    {
+      "basename": "GPIOA - GPIOB",
+      "path": "College/Microprocessors Systems/GPIOA - GPIOB.md"
+    },
+    {
+      "basename": "Traffic Lights",
+      "path": "College/Microprocessors Systems/Traffic Lights.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Global and Local Variables - C",
       "path": "College/Programming/Global and Local Variables - C.md"
-    },
-    {
-      "basename": "Functions - C",
-      "path": "College/Programming/Functions - C.md"
-    },
-    {
-      "basename": "Function Signatures - C",
-      "path": "College/Programming/Function Signatures - C.md"
-    },
-    {
-      "basename": "Escape Characters - C",
-      "path": "College/Programming/Escape Characters - C.md"
-    },
-    {
-      "basename": "Dereference Operators - C",
-      "path": "College/Programming/Dereference Operators - C.md"
-    },
-    {
-      "basename": "Delimeters - C",
-      "path": "College/Programming/Delimeters - C.md"
     }
   ],
   "omittedPaths": [],
