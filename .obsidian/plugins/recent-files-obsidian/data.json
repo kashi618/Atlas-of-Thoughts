@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "City Rent-A-Car",
+      "path": "College/CA Notes/City Rent-A-Car.md"
+    },
+    {
+      "basename": "Structured English",
+      "path": "College/Algorithm Design and Problem Solving/Structured English.md"
+    },
+    {
+      "basename": "Pseudocode",
+      "path": "Templates/Pseudocode.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Pseudocode 1",
+      "path": "Templates/Pseudocode 1.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "UNSORTED/Untitled.md"
+    },
+    {
+      "basename": "explosion",
+      "path": "Other/explosion.gif"
+    },
+    {
+      "basename": "Nietzsche",
+      "path": "Other/Nietzsche.gif"
+    },
+    {
+      "basename": "Descartes",
+      "path": "Other/Descartes.gif"
     },
     {
       "basename": "Recursive Fibonacci Algorithm",
@@ -55,14 +87,6 @@
     {
       "basename": "Recursive Factorial Algorithm",
       "path": "College/Algorithm Design and Problem Solving/Recursive Factorial Algorithm.md"
-    },
-    {
-      "basename": "Descartes",
-      "path": "Other/Descartes.gif"
-    },
-    {
-      "basename": "Nietzsche",
-      "path": "Other/Nietzsche.gif"
     },
     {
       "basename": "Functions - C",
@@ -175,30 +199,6 @@
     {
       "basename": "Ampersand - C",
       "path": "College/Programming/Ampersand - C.md"
-    },
-    {
-      "basename": "Variables - C",
-      "path": "College/Programming/Variables - C.md"
-    },
-    {
-      "basename": "Unsigned Variables - C",
-      "path": "College/Programming/Unsigned Variables - C.md"
-    },
-    {
-      "basename": "Symbolic Names - C",
-      "path": "College/Programming/Symbolic Names - C.md"
-    },
-    {
-      "basename": "Subscript and Pointer Notation - C",
-      "path": "College/Programming/Subscript and Pointer Notation - C.md"
-    },
-    {
-      "basename": "Storing Data in Variables - C",
-      "path": "College/Programming/Storing Data in Variables - C.md"
-    },
-    {
-      "basename": "Semicolons - C",
-      "path": "College/Programming/Semicolons - C.md"
     }
   ],
   "omittedPaths": [],

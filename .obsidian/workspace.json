@@ -10,21 +10,72 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -130.20692087075346,
+                  "y": -229.6957089168437,
+                  "zoom": -0.6666667108182565
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "373d9caa9e628fb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Pseudocode.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Pseudocode"
+            }
+          },
+          {
+            "id": "cac8f15775329580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/CA Notes/City Rent-A-Car.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "City Rent-A-Car"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,8 +249,15 @@
       "widgets:Add widget": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "cac8f15775329580",
   "lastOpenFiles": [
+    "College/Algorithm Design and Problem Solving/Structured English.md",
+    "College/CA Notes/City Rent-A-Car.md",
+    "College/CA Notes",
+    "Templates/Pseudocode.md",
+    "Home Page/Home.canvas",
+    "Templates/Pseudocode 1.md",
+    "UNSORTED/Untitled.md",
     "UNSORTED/Recursive Fibonacci Algorithm.md",
     "Notes/Alt Codes.md",
     "Other/Pasted image 20250207115824.png",
@@ -207,7 +265,6 @@
     "College/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md",
     "College/Algorithm Design and Problem Solving/Iterative  Factorial Algorithm.md",
     "College/Algorithm Design and Problem Solving/Iterative Euclidean Algorithm.md",
-    "Home Page/Home.canvas",
     "Notes/Leaving Cert Classics.md",
     "College/Algorithm Design and Problem Solving/Recursive Exponents Algorithm.md",
     "College/Algorithm Design and Problem Solving/Iterative Exponents Algorithm.md",
@@ -223,10 +280,6 @@
     "College/Mathematics/Caesar's Cipher.md",
     "College/Mathematics/Euclidean Algorithm 2.md",
     "College/Operating Systems/Functional Programming.md",
-    "College/Mathematics/Multiplying Matrices.md",
-    "College/Mathematics/Modular Numbers.md",
-    "College/Mathematics/Inverse Matrices.md",
-    "College/Mathematics/Euclidean Algorithm 1.md",
     "College/Data Exploration",
     "College/Operating Systems/Exercises",
     "College/Algorithm Design and Problem Solving",
@@ -239,7 +292,6 @@
     "PDF's/CMPU1018_Winter_2020_2021.pdf",
     "Other/Pasted image 20250105134746.png",
     "Other/Pasted image 20250105134414.png",
-    "LICENSE",
     "Other/RTX4070 (mobile) Stock Kombustor.png",
     "Other/RTX4070 (mobile) Voltage Frequency Curve.png",
     "Other/RTX4070 (mobile) Stock HWINFO.png",
