@@ -5,20 +5,24 @@
       "path": "UNSORTED/Call Stack.md"
     },
     {
+      "basename": "Recursive Euclidean Algorithm",
+      "path": "College/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md"
+    },
+    {
       "basename": "Recursion",
       "path": "College/Algorithm Design and Problem Solving/Recursion.md"
+    },
+    {
+      "basename": "Recursive Factorial Algorithm",
+      "path": "College/Algorithm Design and Problem Solving/Recursive Factorial Algorithm.md"
     },
     {
       "basename": "Recursive Exponents Algorithm",
       "path": "College/Algorithm Design and Problem Solving/Recursive Exponents Algorithm.md"
     },
     {
-      "basename": "Recursive Euclidean Algorithm",
-      "path": "College/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md"
-    },
-    {
-      "basename": "Recursive Factorial Algorithm",
-      "path": "College/Algorithm Design and Problem Solving/Recursive Factorial Algorithm.md"
+      "basename": "Exponents Algorithm",
+      "path": "College/Algorithm Design and Problem Solving/Exponents Algorithm.md"
     },
     {
       "basename": "Home",
@@ -195,10 +199,6 @@
     {
       "basename": "Pass by Value - Pass by Reference - C",
       "path": "College/Programming/Pass by Value - Pass by Reference - C.md"
-    },
-    {
-      "basename": "Order of Code - C",
-      "path": "College/Programming/Order of Code - C.md"
     }
   ],
   "omittedPaths": [],

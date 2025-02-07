@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Algorithm Design and Problem Solving/Recursion.md",
+                "file": "College/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,7 +71,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Recursion"
+              "title": "Recursive Euclidean Algorithm"
             }
           },
           {
@@ -149,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -275,11 +276,12 @@
   },
   "active": "ab875c32e152bb6e",
   "lastOpenFiles": [
-    "UNSORTED/Call Stack.md",
-    "College/Algorithm Design and Problem Solving/Recursion.md",
-    "College/Algorithm Design and Problem Solving/Recursive Exponents Algorithm.md",
     "College/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md",
+    "College/Algorithm Design and Problem Solving/Recursion.md",
     "College/Algorithm Design and Problem Solving/Recursive Factorial Algorithm.md",
+    "College/Algorithm Design and Problem Solving/Recursive Exponents Algorithm.md",
+    "UNSORTED/Call Stack.md",
+    "College/Algorithm Design and Problem Solving/Exponents Algorithm.md",
     "Home Page/Home.canvas",
     "Notes/Alt Codes.md",
     "College/Programming/Functions - C.md",
@@ -301,7 +303,6 @@
     "College/Programming/Dynamic Memory Allocation - C.md",
     "College/Programming/free() - C.md",
     "College/Programming/sizeof() - C.md",
-    "College/Programming/Arrays - C.md",
     "College/Data Exploration",
     "College/Operating Systems/Exercises",
     "College/Algorithm Design and Problem Solving",
