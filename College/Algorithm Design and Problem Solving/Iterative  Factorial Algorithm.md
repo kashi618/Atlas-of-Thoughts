@@ -2,6 +2,7 @@
 tags:
   - ComputerScience
   - Pseudocode
+  - Algorithm
 ---
 ```
 int n

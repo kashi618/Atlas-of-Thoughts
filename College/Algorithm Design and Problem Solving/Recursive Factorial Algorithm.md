@@ -15,4 +15,4 @@ factorial(n)
 
 # See Also
 [[Recursion]]
-[[Factorial Algorithm]]
+[[Iterative  Factorial Algorithm]]

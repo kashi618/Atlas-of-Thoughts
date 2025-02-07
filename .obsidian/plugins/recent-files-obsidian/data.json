@@ -1,32 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "Call Stack",
-      "path": "UNSORTED/Call Stack.md"
+      "basename": "Recursive Fibonacci Algorithm",
+      "path": "UNSORTED/Recursive Fibonacci Algorithm.md"
+    },
+    {
+      "basename": "Alt Codes",
+      "path": "Notes/Alt Codes.md"
+    },
+    {
+      "basename": "Fibonacci Numbers",
+      "path": "College/Algorithm Design and Problem Solving/Fibonacci Numbers.md"
     },
     {
       "basename": "Recursive Euclidean Algorithm",
       "path": "College/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md"
     },
     {
-      "basename": "Recursion",
-      "path": "College/Algorithm Design and Problem Solving/Recursion.md"
+      "basename": "Iterative  Factorial Algorithm",
+      "path": "College/Algorithm Design and Problem Solving/Iterative  Factorial Algorithm.md"
     },
     {
-      "basename": "Recursive Factorial Algorithm",
-      "path": "College/Algorithm Design and Problem Solving/Recursive Factorial Algorithm.md"
+      "basename": "Iterative Euclidean Algorithm",
+      "path": "College/Algorithm Design and Problem Solving/Iterative Euclidean Algorithm.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Leaving Cert Classics",
+      "path": "Notes/Leaving Cert Classics.md"
     },
     {
       "basename": "Recursive Exponents Algorithm",
       "path": "College/Algorithm Design and Problem Solving/Recursive Exponents Algorithm.md"
     },
     {
-      "basename": "Exponents Algorithm",
-      "path": "College/Algorithm Design and Problem Solving/Exponents Algorithm.md"
+      "basename": "Iterative Exponents Algorithm",
+      "path": "College/Algorithm Design and Problem Solving/Iterative Exponents Algorithm.md"
     },
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
+      "basename": "Functional Programming Language",
+      "path": "College/Algorithm Design and Problem Solving/Functional Programming Language.md"
+    },
+    {
+      "basename": "Recursion",
+      "path": "College/Algorithm Design and Problem Solving/Recursion.md"
+    },
+    {
+      "basename": "Call Stack",
+      "path": "UNSORTED/Call Stack.md"
+    },
+    {
+      "basename": "Recursive Factorial Algorithm",
+      "path": "College/Algorithm Design and Problem Solving/Recursive Factorial Algorithm.md"
     },
     {
       "basename": "Descartes",
@@ -35,10 +63,6 @@
     {
       "basename": "Nietzsche",
       "path": "Other/Nietzsche.gif"
-    },
-    {
-      "basename": "Alt Codes",
-      "path": "Notes/Alt Codes.md"
     },
     {
       "basename": "Functions - C",
@@ -175,30 +199,6 @@
     {
       "basename": "Semicolons - C",
       "path": "College/Programming/Semicolons - C.md"
-    },
-    {
-      "basename": "Scope - C",
-      "path": "College/Programming/Scope - C.md"
-    },
-    {
-      "basename": "Returning Variables - C",
-      "path": "College/Programming/Returning Variables - C.md"
-    },
-    {
-      "basename": "Refactoring Code",
-      "path": "College/Programming/Refactoring Code.md"
-    },
-    {
-      "basename": "Random Data - C",
-      "path": "College/Programming/Random Data - C.md"
-    },
-    {
-      "basename": "Printing a 2D Array - C",
-      "path": "College/Programming/Printing a 2D Array - C.md"
-    },
-    {
-      "basename": "Pass by Value - Pass by Reference - C",
-      "path": "College/Programming/Pass by Value - Pass by Reference - C.md"
     }
   ],
   "omittedPaths": [],

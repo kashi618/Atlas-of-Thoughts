@@ -16,6 +16,7 @@ power(x,n)
 ```
 
 ## Call stack
+2 * power(2,5)
 
 | Stack           | Return Value | Steps    |
 | --------------- | ------------ | -------- |
@@ -29,4 +30,4 @@ Answer = 32
 
 # See Also
 [[Recursion]]
-[[Exponents Algorithm]]
+[[Iterative Exponents Algorithm]]

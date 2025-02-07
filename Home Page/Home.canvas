@@ -15,9 +15,10 @@
 		{"id":"681642f7675e47c5","type":"file","file":"Other/explosion.gif","x":-820,"y":-440,"width":70,"height":70},
 		{"id":"d5f07a116120c1ac","type":"text","text":"# Currently Playing\n- Black Myth Wukong\n- Sekiro Shadows Die Twice\n- S.T.A.L.K.E.R Shadow of Chernobyl\n- Kingdom Come Deliverance\n- Cuphead\n- Cyberpunk 2077\n- Nordic Souls\n# TO FINISH\n[[$$ Shell Commands]]","x":-958,"y":-230,"width":714,"height":650},
 		{"id":"48d123dde7208a81","type":"text","text":"<h1><center>Welcome to the Atlas of Thoughts</center></h1>","x":-749,"y":-489,"width":1019,"height":70,"color":"6"},
-		{"id":"58a23dcd0af29ebf","x":-459,"y":-419,"width":440,"height":190,"type":"text","text":"```widgets\ntype: clock\nformat: \"12hr\" | \"24hr\"\n```\n"},
+		{"id":"58a23dcd0af29ebf","type":"text","text":"```widgets\ntype: clock\nformat: \"12hr\" | \"24hr\"\n```\n","x":-459,"y":-419,"width":440,"height":190},
 		{"id":"e83f1a8fe65ca2b8","type":"file","file":"Other/Nietzsche.gif","x":-19,"y":-370,"width":140,"height":140},
-		{"id":"17344afeff5c45f3","type":"file","file":"Other/Descartes.gif","x":-599,"y":-370,"width":140,"height":140}
+		{"id":"17344afeff5c45f3","type":"file","file":"Other/Descartes.gif","x":-599,"y":-370,"width":140,"height":140},
+		{"id":"2a6de8214f0ecee6","x":-960,"y":-551,"width":211,"height":111,"type":"text","text":"```widgets\ntype: counter\ntext: Days since i last peed myself\n```\n"}
 	],
 	"edges":[]
 }

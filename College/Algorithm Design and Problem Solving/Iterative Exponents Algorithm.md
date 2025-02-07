@@ -1,6 +1,7 @@
 ---
 tags:
   - ComputerScience
+  - Pseudocode
 ---
 ```
 int x     (number)
