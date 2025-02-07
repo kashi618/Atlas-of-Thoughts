@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Recursive Fibonacci Algorithm",
       "path": "UNSORTED/Recursive Fibonacci Algorithm.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Iterative Euclidean Algorithm",
       "path": "College/Algorithm Design and Problem Solving/Iterative Euclidean Algorithm.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Leaving Cert Classics",
