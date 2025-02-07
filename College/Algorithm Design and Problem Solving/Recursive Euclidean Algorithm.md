@@ -10,5 +10,12 @@ gcd(a,b)
 		return gcd(b, a mod b)
 ```
 
+## Call Stack
+
+|     |     |
+| --- | --- |
+|     |     |
+
+
 # See Also
 [[Recursion]]

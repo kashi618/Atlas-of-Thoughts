@@ -20,5 +20,6 @@
   "table-editor-obsidian",
   "obsidian-book-search-plugin",
   "obsidian-latex-suite",
-  "shiki-highlighter"
+  "shiki-highlighter",
+  "widgets"
 ]

@@ -10,21 +10,96 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": -240.5,
-                  "y": -10,
+                  "y": -234.0634762552898,
                   "zoom": -0.5316392460016971
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "eda26dc4d82e69cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Algorithm Design and Problem Solving/Recursive Exponents Algorithm.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Recursive Exponents Algorithm"
+            }
+          },
+          {
+            "id": "aac17822c387c025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Algorithm Design and Problem Solving/Recursion.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Recursion"
+            }
+          },
+          {
+            "id": "ab875c32e152bb6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNSORTED/Call Stack.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Call Stack"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -194,11 +269,17 @@
       "templater-obsidian:Templater": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "widgets:Add widget": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ab875c32e152bb6e",
   "lastOpenFiles": [
+    "UNSORTED/Call Stack.md",
+    "College/Algorithm Design and Problem Solving/Recursion.md",
+    "College/Algorithm Design and Problem Solving/Recursive Exponents Algorithm.md",
+    "College/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md",
+    "College/Algorithm Design and Problem Solving/Recursive Factorial Algorithm.md",
     "Home Page/Home.canvas",
     "Notes/Alt Codes.md",
     "College/Programming/Functions - C.md",
@@ -221,10 +302,6 @@
     "College/Programming/free() - C.md",
     "College/Programming/sizeof() - C.md",
     "College/Programming/Arrays - C.md",
-    "College/Programming/Pointers and Arrays - C.md",
-    "College/Programming/Pointers - C.md",
-    "College/Microprocessors Systems/LED's.md",
-    "College/Data Exploration/Excel Errors.md",
     "College/Data Exploration",
     "College/Operating Systems/Exercises",
     "College/Algorithm Design and Problem Solving",

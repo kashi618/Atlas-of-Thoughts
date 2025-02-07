@@ -1,13 +1,10 @@
 {
 	"nodes":[
-		{"id":"48d123dde7208a81","type":"text","text":"<h1><center>Welcome to the Atlas of Thoughts</center></h1>","x":-750,"y":-440,"width":1019,"height":70,"color":"6"},
 		{"id":"53f250eaf3adbf3a","type":"file","file":"Other/explosion.gif","x":269,"y":-440,"width":70,"height":70},
 		{"id":"572c334bede5985b","type":"file","file":"Other/explosion.gif","x":339,"y":-440,"width":70,"height":70},
 		{"id":"bf1d2ad0d188ae8c","type":"file","file":"Other/explosion.gif","x":409,"y":-440,"width":70,"height":70},
 		{"id":"38a86ef9527bb4ae","type":"file","file":"Other/explosion.gif","x":409,"y":-370,"width":70,"height":70},
 		{"id":"e60c64ba73f3028b","type":"file","file":"Other/explosion.gif","x":409,"y":-299,"width":70,"height":70},
-		{"id":"17344afeff5c45f3","type":"file","file":"Other/Descartes.gif","x":-603,"y":-370,"width":140,"height":140},
-		{"id":"e83f1a8fe65ca2b8","type":"file","file":"Other/Nietzsche.gif","x":-23,"y":-370,"width":140,"height":140},
 		{"id":"e762bf6f37e05057","type":"file","file":"Other/obamna.gif","x":269,"y":-370,"width":140,"height":140},
 		{"id":"58d2d28bdd32c1c1","type":"file","file":"Notes/Wishlist.md","x":-244,"y":-230,"width":723,"height":650},
 		{"id":"c8462c3a2f6c3bd2","type":"file","file":"Other/explosion.gif","x":-960,"y":-440,"width":70,"height":70},
@@ -16,7 +13,11 @@
 		{"id":"d883ced986b3fad0","type":"file","file":"Other/explosion.gif","x":-890,"y":-440,"width":70,"height":70},
 		{"id":"4c753f6f25aec1ad","type":"file","file":"Other/obamna.gif","x":-890,"y":-370,"width":140,"height":140},
 		{"id":"681642f7675e47c5","type":"file","file":"Other/explosion.gif","x":-820,"y":-440,"width":70,"height":70},
-		{"id":"d5f07a116120c1ac","type":"text","text":"# Currently Playing\n- Black Myth Wukong\n- Sekiro Shadows Die Twice\n- S.T.A.L.K.E.R Shadow of Chernobyl\n- Kingdom Come Deliverance\n- Cuphead\n- Cyberpunk 2077\n- Nordic Souls\n# TO FINISH\n[[$$ Shell Commands]]","x":-958,"y":-230,"width":714,"height":650}
+		{"id":"d5f07a116120c1ac","type":"text","text":"# Currently Playing\n- Black Myth Wukong\n- Sekiro Shadows Die Twice\n- S.T.A.L.K.E.R Shadow of Chernobyl\n- Kingdom Come Deliverance\n- Cuphead\n- Cyberpunk 2077\n- Nordic Souls\n# TO FINISH\n[[$$ Shell Commands]]","x":-958,"y":-230,"width":714,"height":650},
+		{"id":"48d123dde7208a81","type":"text","text":"<h1><center>Welcome to the Atlas of Thoughts</center></h1>","x":-749,"y":-489,"width":1019,"height":70,"color":"6"},
+		{"id":"58a23dcd0af29ebf","x":-459,"y":-419,"width":440,"height":190,"type":"text","text":"```widgets\ntype: clock\nformat: \"12hr\" | \"24hr\"\n```\n"},
+		{"id":"e83f1a8fe65ca2b8","type":"file","file":"Other/Nietzsche.gif","x":-19,"y":-370,"width":140,"height":140},
+		{"id":"17344afeff5c45f3","type":"file","file":"Other/Descartes.gif","x":-599,"y":-370,"width":140,"height":140}
 	],
 	"edges":[]
 }

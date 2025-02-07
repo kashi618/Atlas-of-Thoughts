@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Call Stack",
+      "path": "UNSORTED/Call Stack.md"
+    },
+    {
+      "basename": "Recursion",
+      "path": "College/Algorithm Design and Problem Solving/Recursion.md"
+    },
+    {
+      "basename": "Recursive Exponents Algorithm",
+      "path": "College/Algorithm Design and Problem Solving/Recursive Exponents Algorithm.md"
+    },
+    {
+      "basename": "Recursive Euclidean Algorithm",
+      "path": "College/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md"
+    },
+    {
+      "basename": "Recursive Factorial Algorithm",
+      "path": "College/Algorithm Design and Problem Solving/Recursive Factorial Algorithm.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Descartes",
+      "path": "Other/Descartes.gif"
+    },
+    {
+      "basename": "Nietzsche",
+      "path": "Other/Nietzsche.gif"
     },
     {
       "basename": "Alt Codes",
@@ -171,34 +199,6 @@
     {
       "basename": "Order of Code - C",
       "path": "College/Programming/Order of Code - C.md"
-    },
-    {
-      "basename": "Memory Leak",
-      "path": "College/Programming/Memory Leak.md"
-    },
-    {
-      "basename": "Leading Numbers - C",
-      "path": "College/Programming/Leading Numbers - C.md"
-    },
-    {
-      "basename": "K.I.S.S (KISS)",
-      "path": "College/Programming/K.I.S.S (KISS).md"
-    },
-    {
-      "basename": "Initializing a 2D Array",
-      "path": "College/Programming/Initializing a 2D Array.md"
-    },
-    {
-      "basename": "Indentation - C",
-      "path": "College/Programming/Indentation - C.md"
-    },
-    {
-      "basename": "Incrementing and Decrementing - C",
-      "path": "College/Programming/Incrementing and Decrementing - C.md"
-    },
-    {
-      "basename": "Global and Local Variables - C",
-      "path": "College/Programming/Global and Local Variables - C.md"
     }
   ],
   "omittedPaths": [],
