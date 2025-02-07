@@ -2,15 +2,23 @@
   "recentFiles": [
     {
       "basename": "City Rent-A-Car",
-      "path": "College/CA Notes/City Rent-A-Car.md"
+      "path": "College/Algorithm Design and Problem Solving/CA Notes/City Rent-A-Car.md"
     },
     {
-      "basename": "Structured English",
-      "path": "College/Algorithm Design and Problem Solving/Structured English.md"
+      "basename": "Ascii Tree Art",
+      "path": "College/Algorithm Design and Problem Solving/CA Notes/Ascii Tree Art.md"
+    },
+    {
+      "basename": "OperatingSystems1-Lab2-C24510496",
+      "path": "College/Operating Systems/Exercises/OperatingSystems1-Lab2-C24510496.md"
     },
     {
       "basename": "Pseudocode",
       "path": "Templates/Pseudocode.md"
+    },
+    {
+      "basename": "Structured English",
+      "path": "College/Algorithm Design and Problem Solving/Structured English.md"
     },
     {
       "basename": "Home",
@@ -191,14 +199,6 @@
     {
       "basename": "$$ Shell Commands",
       "path": "College/Operating Systems/$$ Shell Commands.md"
-    },
-    {
-      "basename": "OperatingSystems1-Lab2-C24510496",
-      "path": "College/Operating Systems/Exercises/OperatingSystems1-Lab2-C24510496.md"
-    },
-    {
-      "basename": "Ampersand - C",
-      "path": "College/Programming/Ampersand - C.md"
     }
   ],
   "omittedPaths": [],
