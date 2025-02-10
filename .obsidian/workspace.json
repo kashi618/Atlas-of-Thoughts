@@ -16,66 +16,17 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -130.20692087075346,
-                  "y": -229.6957089168437,
-                  "zoom": -0.6666667108182565
+                  "x": -240,
+                  "y": -45,
+                  "zoom": -0.5326414655910741
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "373d9caa9e628fb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Operating Systems/Exercises/OperatingSystems1-Lab2-C24510496.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "OperatingSystems1-Lab2-C24510496"
-            }
-          },
-          {
-            "id": "cac8f15775329580",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Algorithm Design and Problem Solving/CA Notes/City Rent-A-Car.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "City Rent-A-Car"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,13 +200,13 @@
       "widgets:Add widget": false
     }
   },
-  "active": "cac8f15775329580",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "College/Algorithm Design and Problem Solving/CA Notes/City Rent-A-Car.md",
     "College/Algorithm Design and Problem Solving/CA Notes/Ascii Tree Art.md",
     "College/Operating Systems/Exercises/OperatingSystems1-Lab2-C24510496.md",
     "Templates/Pseudocode.md",
     "College/CA Notes/Algoritm Design and Problem Solving.md",
-    "College/Algorithm Design and Problem Solving/CA Notes/City Rent-A-Car.md",
     "College/Algorithm Design and Problem Solving/Structured English.md",
     "College/Algorithm Design and Problem Solving/CA Notes",
     "Home Page/Home.canvas",

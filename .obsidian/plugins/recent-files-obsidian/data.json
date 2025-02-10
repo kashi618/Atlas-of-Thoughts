@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "City Rent-A-Car",
       "path": "College/Algorithm Design and Problem Solving/CA Notes/City Rent-A-Car.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Structured English",
       "path": "College/Algorithm Design and Problem Solving/Structured English.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Pseudocode 1",
