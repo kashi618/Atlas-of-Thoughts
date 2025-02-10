@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Bit Shifting",
-      "path": "College/Microprocessors Systems/Bit Shifting.md"
-    },
-    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "TV Shows & Movies & Anime & Manga",
+      "path": "Notes/TV Shows & Movies & Anime & Manga.md"
+    },
+    {
+      "basename": "Bit Shifting",
+      "path": "College/Microprocessors Systems/Bit Shifting.md"
     },
     {
       "basename": "CPU",
@@ -195,10 +199,6 @@
     {
       "basename": "Drivers",
       "path": "College/Operating Systems/Drivers.md"
-    },
-    {
-      "basename": "Dynamic Memory Allocation - C",
-      "path": "College/Programming/Dynamic Memory Allocation - C.md"
     }
   ],
   "omittedPaths": [],
