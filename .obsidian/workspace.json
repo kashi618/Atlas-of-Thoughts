@@ -17,7 +17,7 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": -240,
-                  "y": -45,
+                  "y": 121.11637787825376,
                   "zoom": -1.0999260659334589
                 }
               },
@@ -25,8 +25,21 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "b24bf971f00126e4",
+            "type": "leaf",
+            "state": {
+              "type": "chat-view",
+              "state": {
+                "file": "Chats/New Chat.md"
+              },
+              "icon": "message-square",
+              "title": "New Chat"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -85,6 +99,7 @@
       {
         "id": "219604f8f4064431",
         "type": "tabs",
+        "dimension": 68.6858316221766,
         "children": [
           {
             "id": "9bc98d8a64f45ad2",
@@ -92,82 +107,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/TV Shows & Movies & Anime & Manga.md",
+                "file": "Chats/New Chat.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TV Shows & Movies & Anime & Manga"
-            }
-          },
-          {
-            "id": "27c7d495c6792cc9",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "UNSORTED/Alt Codes.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for Alt Codes"
-            }
-          },
-          {
-            "id": "064de5cb61127fc3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Home Page/Home.canvas",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Home"
-            }
-          },
-          {
-            "id": "9bb1df5fa77f8d00",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Home Page/Home.canvas",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Home"
-            }
-          },
-          {
-            "id": "35168585309536d3",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Outline of New Chat"
             }
           }
         ]
       },
       {
-        "id": "d5a90a81fbcb90f7",
+        "id": "b56fa9676414f482",
         "type": "tabs",
+        "dimension": 31.31416837782341,
         "children": [
           {
-            "id": "370a24fabb7b70f5",
+            "id": "3100f129bc2b62b5",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -180,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5,
-    "collapsed": true
+    "width": 421.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,13 +153,19 @@
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "widgets:Add widget": false
+      "widgets:Add widget": false,
+      "smart-second-brain:Open S2B Chat": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b24bf971f00126e4",
   "lastOpenFiles": [
-    "Notes/TV Shows & Movies & Anime & Manga.md",
     "Home Page/Home.canvas",
+    "Chats/New Chat.md",
+    "College/Programming/Variables - C.md",
+    "College/Programming/Pointers - C.md",
+    "College/Programming/Ampersand - C.md",
+    "Chats",
+    "Notes/TV Shows & Movies & Anime & Manga.md",
     "College/Microprocessors Systems/Bit Shifting.md",
     "UNSORTED/CPU.md",
     "College/Computer Architecture and Technology/Computer Architecture.md",
@@ -231,11 +193,6 @@
     "UNSORTED/Untitled.md",
     "Other/Pasted image 20250207115824.png",
     "College/Algorithm Design and Problem Solving/Fibonacci Numbers.md",
-    "College/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md",
-    "College/Algorithm Design and Problem Solving/Iterative  Factorial Algorithm.md",
-    "College/Algorithm Design and Problem Solving/Iterative Euclidean Algorithm.md",
-    "Notes/Leaving Cert Classics.md",
-    "College/Algorithm Design and Problem Solving/Recursive Exponents Algorithm.md",
     "College/Data Exploration",
     "College/Operating Systems/Exercises",
     "College/Algorithm Design and Problem Solving",
@@ -244,7 +201,6 @@
     "Other/Pasted image 20250127120941.png",
     "College/Microprocessor Controllers",
     "College/TU856-1",
-    "PDF's/CMPU1018 Mathematics Winter 2020-2021 Exam Paper.pdf",
     "Other/Pasted image 20250105134746.png",
     "Other/Pasted image 20250105134414.png",
     "Other/RTX4070 (mobile) Stock Kombustor.png",

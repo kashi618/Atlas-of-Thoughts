@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "New Chat",
+      "path": "Chats/New Chat.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Variables - C",
+      "path": "College/Programming/Variables - C.md"
+    },
+    {
+      "basename": "Pointers - C",
+      "path": "College/Programming/Pointers - C.md"
+    },
+    {
+      "basename": "Ampersand - C",
+      "path": "College/Programming/Ampersand - C.md"
     },
     {
       "basename": "TV Shows & Movies & Anime & Manga",
@@ -183,22 +199,6 @@
     {
       "basename": "Euclidean Algorithm 1",
       "path": "College/Mathematics/Euclidean Algorithm 1.md"
-    },
-    {
-      "basename": "Fermat's Little Theorum",
-      "path": "College/Mathematics/Fermat's Little Theorum.md"
-    },
-    {
-      "basename": "Operating System",
-      "path": "College/Operating Systems/Operating System.md"
-    },
-    {
-      "basename": "Linux Shell Commands",
-      "path": "College/Operating Systems/Linux Shell Commands.md"
-    },
-    {
-      "basename": "Drivers",
-      "path": "College/Operating Systems/Drivers.md"
     }
   ],
   "omittedPaths": [],
