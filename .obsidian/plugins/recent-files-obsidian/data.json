@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "CSV",
+      "path": "College/Data Exploration/CSV.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Excel Errors",
       "path": "College/Data Exploration/Excel Errors.md"
-    },
-    {
-      "basename": "$$ Shell Commands",
-      "path": "College/Operating Systems/$$ Shell Commands.md"
     }
   ],
   "omittedPaths": [],

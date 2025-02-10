@@ -25,8 +25,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "72e62850aae829cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Data Exploration/CSV.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CSV"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,8 +225,10 @@
       "widgets:Add widget": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "72e62850aae829cb",
   "lastOpenFiles": [
+    "College/Data Exploration/CSV.md",
+    "Home Page/Home.canvas",
     "College/Algorithm Design and Problem Solving/CA Notes/City Rent-A-Car.md",
     "College/Algorithm Design and Problem Solving/CA Notes/Ascii Tree Art.md",
     "College/Operating Systems/Exercises/OperatingSystems1-Lab2-C24510496.md",
@@ -209,7 +236,6 @@
     "College/CA Notes/Algoritm Design and Problem Solving.md",
     "College/Algorithm Design and Problem Solving/Structured English.md",
     "College/Algorithm Design and Problem Solving/CA Notes",
-    "Home Page/Home.canvas",
     "Templates/Pseudocode 1.md",
     "UNSORTED/Untitled.md",
     "UNSORTED/Recursive Fibonacci Algorithm.md",
@@ -229,8 +255,6 @@
     "College/Programming/Functions - C.md",
     "College/Microprocessors Systems/Turn On Output Port.md",
     "College/Microprocessors Systems/GPIOA - GPIOB.md",
-    "College/Microprocessors Systems/Traffic Lights.md",
-    "College/Mathematics/Adding and Subtracting Matrices.md",
     "College/Data Exploration",
     "College/Operating Systems/Exercises",
     "College/Algorithm Design and Problem Solving",
