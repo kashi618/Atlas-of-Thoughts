@@ -5,10 +5,10 @@
   "initialAssistantMessageContent": "Hello, I am your assistant. How can I help you?",
   "isIncognitoMode": true,
   "ollamaGenModel": {
-    "model": "deepseek-r1:8b",
+    "model": "deepseek-r1:14b",
     "baseUrl": "http://localhost:11434",
     "temperature": 1,
-    "contextWindow": 1748,
+    "contextWindow": 2048,
     "lcModel": {
       "lc": 1,
       "type": "constructor",
@@ -19,10 +19,10 @@
         "ChatOllama"
       ],
       "kwargs": {
-        "model": "deepseek-r1:8b",
+        "model": "deepseek-r1:32b",
         "base_url": "http://localhost:11434",
         "temperature": 1,
-        "context_window": 1748,
+        "context_window": 1948,
         "lc_model": {
           "lc": 1,
           "type": "constructor",
@@ -36,7 +36,7 @@
             "model": "deepseek-r1:8b",
             "base_url": "http://localhost:11434",
             "temperature": 1,
-            "context_window": 1848,
+            "context_window": 1648,
             "lc_model": {
               "lc": 1,
               "type": "constructor",
@@ -49,8 +49,40 @@
               "kwargs": {
                 "model": "deepseek-r1:8b",
                 "base_url": "http://localhost:11434",
-                "temperature": 0.5,
-                "context_window": 1948
+                "temperature": 1,
+                "context_window": 1748,
+                "lc_model": {
+                  "lc": 1,
+                  "type": "constructor",
+                  "id": [
+                    "langchain",
+                    "chat_models",
+                    "ollama",
+                    "ChatOllama"
+                  ],
+                  "kwargs": {
+                    "model": "deepseek-r1:8b",
+                    "base_url": "http://localhost:11434",
+                    "temperature": 1,
+                    "context_window": 1848,
+                    "lc_model": {
+                      "lc": 1,
+                      "type": "constructor",
+                      "id": [
+                        "langchain",
+                        "chat_models",
+                        "ollama",
+                        "ChatOllama"
+                      ],
+                      "kwargs": {
+                        "model": "deepseek-r1:8b",
+                        "base_url": "http://localhost:11434",
+                        "temperature": 0.5,
+                        "context_window": 1948
+                      }
+                    }
+                  }
+                }
               }
             }
           }
@@ -59,7 +91,7 @@
     }
   },
   "ollamaEmbedModel": {
-    "model": "deepseek-r1:8b",
+    "model": "deepseek-r1:14b",
     "baseUrl": "http://localhost:11434",
     "similarityThreshold": 0.53,
     "k": 9999999
@@ -67,7 +99,8 @@
   "openAIGenModel": {
     "model": "gpt-3.5-turbo",
     "openAIApiKey": "",
-    "temperature": 0.5
+    "temperature": 0.5,
+    "contextWindow": 1848
   },
   "openAIEmbedModel": {
     "model": "text-embedding-ada-002",
@@ -77,13 +110,10 @@
   },
   "targetFolder": "Chats",
   "defaultChatName": "New Chat",
-  "excludeFF": [
-    "Chats",
-    "*.excalidraw.md"
-  ],
+  "excludeFF": [],
   "isQuickSettingsOpen": true,
   "isVerbose": false,
   "isOnboarded": true,
   "hideIncognitoWarning": false,
-  "isAutostart": false
+  "isAutostart": true
 }

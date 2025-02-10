@@ -154,10 +154,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "widgets:Add widget": false,
-      "smart-second-brain:Open S2B Chat": false
+      "smart-second-brain:Open S2B Chat": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "b24bf971f00126e4",
+  "active": "9bc98d8a64f45ad2",
   "lastOpenFiles": [
     "Home Page/Home.canvas",
     "Chats/New Chat.md",
