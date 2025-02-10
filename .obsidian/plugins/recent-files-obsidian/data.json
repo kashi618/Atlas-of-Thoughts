@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Timing",
+      "path": "College/Microprocessors Systems/Timing.md"
+    },
+    {
+      "basename": "Alt Codes",
+      "path": "Notes/Alt Codes.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "Recursive Fibonacci Algorithm",
       "path": "UNSORTED/Recursive Fibonacci Algorithm.md"
-    },
-    {
-      "basename": "Alt Codes",
-      "path": "Notes/Alt Codes.md"
     },
     {
       "basename": "Fibonacci Numbers",
@@ -195,10 +199,6 @@
     {
       "basename": "LED's",
       "path": "College/Microprocessors Systems/LED's.md"
-    },
-    {
-      "basename": "Excel Errors",
-      "path": "College/Data Exploration/Excel Errors.md"
     }
   ],
   "omittedPaths": [],
