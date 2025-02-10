@@ -18,6 +18,12 @@ As the 0 gets pass through the not gate, it turns into a 1. The 1 then gets pass
 A counter consists of an array of flip flops/latches
 ![[Pasted image 20250210122007.png|450]]
 
+## Calculating Timing
+If there was a 16MHz frequency, and a 16 million digit counter, it would take 1 second for it to count down.
+
+## How to Generate Random Numbers
+Analogue to Digital Converter
+	When an analogue signal is converted to digital, there will be a slight bit of noise caused by disturbances
 
 
 # See Also
