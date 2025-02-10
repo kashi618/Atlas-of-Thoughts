@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Von Neumann Architecture",
-      "path": "UNSORTED/Von Neumann Architecture.md"
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "CPU",
@@ -13,16 +13,20 @@
       "path": "College/Computer Architecture and Technology/Computer Architecture.md"
     },
     {
+      "basename": "Recursive Fibonacci Algorithm",
+      "path": "UNSORTED/Recursive Fibonacci Algorithm.md"
+    },
+    {
+      "basename": "Von Neumann Architecture",
+      "path": "UNSORTED/Von Neumann Architecture.md"
+    },
+    {
       "basename": "CMPU 1012 - Sep 26th 2024",
       "path": "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Sep 26th 2024.md"
     },
     {
       "basename": "CPU",
       "path": "College/Computer Architecture and Technology/CPU.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Timing",
@@ -75,10 +79,6 @@
     {
       "basename": "Descartes",
       "path": "Other/Descartes.gif"
-    },
-    {
-      "basename": "Recursive Fibonacci Algorithm",
-      "path": "UNSORTED/Recursive Fibonacci Algorithm.md"
     },
     {
       "basename": "Fibonacci Numbers",

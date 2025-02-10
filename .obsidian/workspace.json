@@ -25,81 +25,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "5e8e89187610543f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNSORTED/CPU.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CPU"
-            }
-          },
-          {
-            "id": "e8b8e2ffdd31d892",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Computer Architecture and Technology/Computer Architecture.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Computer Architecture"
-            }
-          },
-          {
-            "id": "14b328595d290f30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNSORTED/Von Neumann Architecture.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Von Neumann Architecture"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,13 +93,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNSORTED/Von Neumann Architecture.md",
+                "file": "Home Page/Home.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Von Neumann Architecture"
+              "title": "Outline of Home"
             }
           },
           {
@@ -273,14 +200,15 @@
       "widgets:Add widget": false
     }
   },
-  "active": "14b328595d290f30",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "UNSORTED/John Von Neumann.md",
     "UNSORTED/CPU.md",
-    "Other/Pasted image 20250210142701.png",
     "College/Computer Architecture and Technology/Computer Architecture.md",
-    "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Sep 26th 2024.md",
+    "UNSORTED/Recursive Fibonacci Algorithm.md",
     "UNSORTED/Von Neumann Architecture.md",
+    "UNSORTED/John Von Neumann.md",
+    "Other/Pasted image 20250210142701.png",
+    "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Sep 26th 2024.md",
     "College/Computer Architecture and Technology/CPU.md",
     "Home Page/Home.canvas",
     "College/Computer Architecture and Technology",
@@ -299,7 +227,6 @@
     "College/Algorithm Design and Problem Solving/CA Notes",
     "Templates/Pseudocode 1.md",
     "UNSORTED/Untitled.md",
-    "UNSORTED/Recursive Fibonacci Algorithm.md",
     "Other/Pasted image 20250207115824.png",
     "College/Algorithm Design and Problem Solving/Fibonacci Numbers.md",
     "College/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md",
