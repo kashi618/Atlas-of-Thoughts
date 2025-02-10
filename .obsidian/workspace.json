@@ -97,33 +97,9 @@
               "icon": "lucide-file",
               "title": "Von Neumann Architecture"
             }
-          },
-          {
-            "id": "7d3c408d0b960bd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNSORTED/John Von Neumann.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John Von Neumann"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNSORTED/CPU.md",
+                "file": "UNSORTED/Von Neumann Architecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CPU"
+              "title": "Outline of Von Neumann Architecture"
             }
           },
           {
@@ -297,11 +273,11 @@
       "widgets:Add widget": false
     }
   },
-  "active": "5e8e89187610543f",
+  "active": "14b328595d290f30",
   "lastOpenFiles": [
-    "Other/Pasted image 20250210142701.png",
-    "UNSORTED/CPU.md",
     "UNSORTED/John Von Neumann.md",
+    "UNSORTED/CPU.md",
+    "Other/Pasted image 20250210142701.png",
     "College/Computer Architecture and Technology/Computer Architecture.md",
     "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Sep 26th 2024.md",
     "UNSORTED/Von Neumann Architecture.md",
@@ -344,7 +320,6 @@
     "Other/Pasted image 20250105134746.png",
     "Other/Pasted image 20250105134414.png",
     "Other/RTX4070 (mobile) Stock Kombustor.png",
-    "Other/RTX4070 (mobile) Voltage Frequency Curve.png",
-    "Other/RTX4070 (mobile) Stock HWINFO.png"
+    "Other/RTX4070 (mobile) Voltage Frequency Curve.png"
   ]
 }
