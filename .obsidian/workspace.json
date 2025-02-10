@@ -25,33 +25,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "72e62850aae829cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Data Exploration/CSV.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CSV"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,10 +200,10 @@
       "widgets:Add widget": false
     }
   },
-  "active": "72e62850aae829cb",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "College/Data Exploration/CSV.md",
     "Home Page/Home.canvas",
+    "College/Data Exploration/CSV.md",
     "College/Algorithm Design and Problem Solving/CA Notes/City Rent-A-Car.md",
     "College/Algorithm Design and Problem Solving/CA Notes/Ascii Tree Art.md",
     "College/Operating Systems/Exercises/OperatingSystems1-Lab2-C24510496.md",
