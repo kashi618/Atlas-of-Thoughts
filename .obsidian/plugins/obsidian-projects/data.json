@@ -1,0 +1,107 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Library",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "coverField": "LibraryCover",
+            "fitStyle": "contain",
+            "includeFields": [
+              "LibraryStatus"
+            ],
+            "cardWidth": 250
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#ff0000",
+                "condition": {
+                  "field": "LibraryStatus",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "OnHold"
+                }
+              },
+              {
+                "color": "#00ff19",
+                "condition": {
+                  "field": "LibraryStatus",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Reading"
+                }
+              },
+              {
+                "color": "#ff9f1a",
+                "condition": {
+                  "field": "LibraryStatus",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Planning"
+                }
+              },
+              {
+                "color": "#c800ff",
+                "condition": {
+                  "field": "LibraryStatus",
+                  "operator": "is",
+                  "enabled": true,
+                  "value": "Finished"
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "LibraryStatus",
+                "order": "desc",
+                "enabled": true
+              },
+              {
+                "field": "name",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "c6615f50-1645-4607-87bb-4e79ae1bf450",
+          "name": "Gallery",
+          "type": "gallery"
+        }
+      ],
+      "id": "dc787274-6d9a-4092-ab5a-5175c5558ca9",
+      "name": "Library"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

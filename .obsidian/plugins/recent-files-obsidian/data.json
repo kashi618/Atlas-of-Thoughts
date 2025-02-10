@@ -9,6 +9,14 @@
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "David Walliams - Billionaire Boy",
+      "path": "Library/David Walliams - Billionaire Boy.md"
+    },
+    {
+      "basename": "Library",
+      "path": "Notes/Library.md"
+    },
+    {
       "basename": "Variables - C",
       "path": "College/Programming/Variables - C.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Modular Numbers",
       "path": "College/Mathematics/Modular Numbers.md"
-    },
-    {
-      "basename": "Inverse Matrices",
-      "path": "College/Mathematics/Inverse Matrices.md"
-    },
-    {
-      "basename": "Euclidean Algorithm 1",
-      "path": "College/Mathematics/Euclidean Algorithm 1.md"
     }
   ],
   "omittedPaths": [],

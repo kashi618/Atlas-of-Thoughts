@@ -17,7 +17,7 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": -240,
-                  "y": 121.11637787825376,
+                  "y": 121.11637787825379,
                   "zoom": -1.0999260659334589
                 }
               },
@@ -27,15 +27,15 @@
             }
           },
           {
-            "id": "b24bf971f00126e4",
+            "id": "a47fa4af177eaf2e",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "chat-view",
-              "state": {
-                "file": "Chats/New Chat.md"
-              },
-              "icon": "message-square",
-              "title": "New Chat"
+              "type": "obsidian-projects",
+              "state": {},
+              "pinned": true,
+              "icon": "projects-icon",
+              "title": "Projects"
             }
           }
         ],
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -99,7 +98,7 @@
       {
         "id": "219604f8f4064431",
         "type": "tabs",
-        "dimension": 68.6858316221766,
+        "dimension": 52.30648944487881,
         "children": [
           {
             "id": "9bc98d8a64f45ad2",
@@ -107,21 +106,33 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chats/New Chat.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of New Chat"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "ba0450c62976b5f7",
+            "type": "leaf",
+            "state": {
+              "type": "chat-view",
+              "state": {
+                "file": "Chats/New Chat.md"
+              },
+              "icon": "message-square",
+              "title": "New Chat"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b56fa9676414f482",
         "type": "tabs",
-        "dimension": 31.31416837782341,
+        "dimension": 47.693510555121186,
         "children": [
           {
             "id": "3100f129bc2b62b5",
@@ -156,13 +167,16 @@
       "widgets:Add widget": false,
       "smart-second-brain:Open S2B Chat": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "9bc98d8a64f45ad2",
+  "active": "a47fa4af177eaf2e",
   "lastOpenFiles": [
-    "Home Page/Home.canvas",
     "Chats/New Chat.md",
+    "Home Page/Home.canvas",
+    "Library/David Walliams - Billionaire Boy.md",
+    "Notes/Library.md",
     "College/Programming/Variables - C.md",
     "College/Programming/Pointers - C.md",
     "College/Programming/Ampersand - C.md",
@@ -192,9 +206,7 @@
     "College/Algorithm Design and Problem Solving/Structured English.md",
     "College/Algorithm Design and Problem Solving/CA Notes",
     "Templates/Pseudocode 1.md",
-    "UNSORTED/Untitled.md",
     "Other/Pasted image 20250207115824.png",
-    "College/Algorithm Design and Problem Solving/Fibonacci Numbers.md",
     "College/Data Exploration",
     "College/Operating Systems/Exercises",
     "College/Algorithm Design and Problem Solving",
