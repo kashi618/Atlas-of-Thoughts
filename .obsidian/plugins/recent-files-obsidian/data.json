@@ -5,16 +5,20 @@
       "path": "College/Programming/Passing Arrays - C.md"
     },
     {
-      "basename": "Arrays - C",
-      "path": "College/Programming/Arrays - C.md"
-    },
-    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Functions - C",
       "path": "College/Programming/Functions - C.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "UNSORTED/Untitled.md"
+    },
+    {
+      "basename": "Arrays - C",
+      "path": "College/Programming/Arrays - C.md"
     },
     {
       "basename": "Symbolic Names - C",
@@ -43,10 +47,6 @@
     {
       "basename": "Leaving Cert Classics",
       "path": "Notes/Leaving Cert Classics.md"
-    },
-    {
-      "basename": "New Chat",
-      "path": "Chats/New Chat.md"
     },
     {
       "basename": "Dereference Operators - C",
@@ -195,10 +195,6 @@
     {
       "basename": "Wishlist",
       "path": "Notes/Wishlist.md"
-    },
-    {
-      "basename": "Adding and Subtracting Matrices",
-      "path": "College/Mathematics/Adding and Subtracting Matrices.md"
     }
   ],
   "omittedPaths": [],

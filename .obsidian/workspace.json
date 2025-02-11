@@ -27,30 +27,6 @@
             }
           },
           {
-            "id": "298e3b22082963ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Programming/Functions - C.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Functions - C"
-            }
-          },
-          {
             "id": "4ad79ce874172416",
             "type": "leaf",
             "state": {
@@ -73,33 +49,9 @@
               "icon": "lucide-file",
               "title": "Passing Arrays - C"
             }
-          },
-          {
-            "id": "5b1334da05346060",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Programming/Arrays - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Arrays - C"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,8 +97,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,7 +110,6 @@
       {
         "id": "219604f8f4064431",
         "type": "tabs",
-        "dimension": 52.30648944487881,
         "children": [
           {
             "id": "9bc98d8a64f45ad2",
@@ -220,42 +170,13 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "8d25e326d40e78dc",
-            "type": "leaf",
-            "state": {
-              "type": "chat-view",
-              "state": {
-                "file": "Chats/New Chat.md"
-              },
-              "icon": "message-square",
-              "title": "New Chat"
-            }
           }
-        ]
-      },
-      {
-        "id": "b56fa9676414f482",
-        "type": "tabs",
-        "dimension": 47.693510555121186,
-        "children": [
-          {
-            "id": "3100f129bc2b62b5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 421.5,
-    "collapsed": true
+    "width": 421.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,25 +194,25 @@
       "obsidian-book-search-plugin:Create new book note": false,
       "widgets:Add widget": false,
       "smart-second-brain:Open S2B Chat": false,
-      "obsidian-projects:Open projects": false,
-      "quiz-generator:Open generator": false
+      "quiz-generator:Open generator": false,
+      "obsidian-projects:Open projects": false
     }
   },
   "active": "4ad79ce874172416",
   "lastOpenFiles": [
-    "College/Programming/Arrays - C.md",
-    "College/Programming/Passing Arrays - C.md",
     "Home Page/Home.canvas",
+    "Chats/New Chat.md",
     "College/Programming/Functions - C.md",
+    "College/Programming/Passing Arrays - C.md",
+    "UNSORTED/Untitled.md",
+    "College/Programming/Arrays - C.md",
     "College/Programming/Symbolic Names - C.md",
     "UNSORTED/Call Stack.md",
     "College/Computer Architecture and Technology/Von Neumann Architecture.md",
     "College/Computer Architecture and Technology/CPU.md",
-    "UNSORTED/Untitled.md",
     "College/Computer Architecture and Technology/Computer Architecture.md",
     "Notes/How to use Obsidian.md",
     "Notes/Leaving Cert Classics.md",
-    "Chats/New Chat.md",
     "College/Programming/Dereference Operators - C.md",
     "College/Programming/Pass by Value - Pass by Reference - C.md",
     "College/Programming/Function Signatures - C.md",

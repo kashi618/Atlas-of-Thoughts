@@ -99,5 +99,21 @@
       ],
       "key": "T"
     }
+  ],
+  "gemmy:hide": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad7"
+    }
+  ],
+  "gemmy:show": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad9"
+    }
   ]
 }

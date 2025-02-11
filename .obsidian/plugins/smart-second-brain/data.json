@@ -8,7 +8,7 @@
     "model": "deepseek-r1:8b",
     "baseUrl": "http://localhost:11434",
     "temperature": 1,
-    "contextWindow": 1848,
+    "contextWindow": 1748,
     "lcModel": {
       "lc": 1,
       "type": "constructor",
@@ -22,7 +22,7 @@
         "model": "deepseek-r1:8b",
         "base_url": "http://localhost:11434",
         "temperature": 1,
-        "context_window": 1848,
+        "context_window": 1748,
         "lc_model": {
           "lc": 1,
           "type": "constructor",
@@ -36,7 +36,7 @@
             "model": "deepseek-r1:8b",
             "base_url": "http://localhost:11434",
             "temperature": 1,
-            "context_window": 1948,
+            "context_window": 1848,
             "lc_model": {
               "lc": 1,
               "type": "constructor",
@@ -47,10 +47,10 @@
                 "ChatOllama"
               ],
               "kwargs": {
-                "model": "deepseek-r1:14b",
+                "model": "deepseek-r1:8b",
                 "base_url": "http://localhost:11434",
                 "temperature": 1,
-                "context_window": 1648,
+                "context_window": 1948,
                 "lc_model": {
                   "lc": 1,
                   "type": "constructor",
@@ -64,7 +64,7 @@
                     "model": "deepseek-r1:14b",
                     "base_url": "http://localhost:11434",
                     "temperature": 1,
-                    "context_window": 1748,
+                    "context_window": 1648,
                     "lc_model": {
                       "lc": 1,
                       "type": "constructor",
@@ -78,7 +78,7 @@
                         "model": "deepseek-r1:14b",
                         "base_url": "http://localhost:11434",
                         "temperature": 1,
-                        "context_window": 1848,
+                        "context_window": 1748,
                         "lc_model": {
                           "lc": 1,
                           "type": "constructor",
@@ -92,7 +92,7 @@
                             "model": "deepseek-r1:14b",
                             "base_url": "http://localhost:11434",
                             "temperature": 1,
-                            "context_window": 1948,
+                            "context_window": 1848,
                             "lc_model": {
                               "lc": 1,
                               "type": "constructor",
@@ -103,7 +103,7 @@
                                 "ChatOllama"
                               ],
                               "kwargs": {
-                                "model": "deepseek-r1:32b",
+                                "model": "deepseek-r1:14b",
                                 "base_url": "http://localhost:11434",
                                 "temperature": 1,
                                 "context_window": 1948,
@@ -117,10 +117,10 @@
                                     "ChatOllama"
                                   ],
                                   "kwargs": {
-                                    "model": "deepseek-r1:8b",
+                                    "model": "deepseek-r1:32b",
                                     "base_url": "http://localhost:11434",
                                     "temperature": 1,
-                                    "context_window": 1648,
+                                    "context_window": 1948,
                                     "lc_model": {
                                       "lc": 1,
                                       "type": "constructor",
@@ -134,7 +134,7 @@
                                         "model": "deepseek-r1:8b",
                                         "base_url": "http://localhost:11434",
                                         "temperature": 1,
-                                        "context_window": 1748,
+                                        "context_window": 1648,
                                         "lc_model": {
                                           "lc": 1,
                                           "type": "constructor",
@@ -148,7 +148,7 @@
                                             "model": "deepseek-r1:8b",
                                             "base_url": "http://localhost:11434",
                                             "temperature": 1,
-                                            "context_window": 1848,
+                                            "context_window": 1748,
                                             "lc_model": {
                                               "lc": 1,
                                               "type": "constructor",
@@ -161,8 +161,24 @@
                                               "kwargs": {
                                                 "model": "deepseek-r1:8b",
                                                 "base_url": "http://localhost:11434",
-                                                "temperature": 0.5,
-                                                "context_window": 1948
+                                                "temperature": 1,
+                                                "context_window": 1848,
+                                                "lc_model": {
+                                                  "lc": 1,
+                                                  "type": "constructor",
+                                                  "id": [
+                                                    "langchain",
+                                                    "chat_models",
+                                                    "ollama",
+                                                    "ChatOllama"
+                                                  ],
+                                                  "kwargs": {
+                                                    "model": "deepseek-r1:8b",
+                                                    "base_url": "http://localhost:11434",
+                                                    "temperature": 0.5,
+                                                    "context_window": 1948
+                                                  }
+                                                }
                                               }
                                             }
                                           }
@@ -187,9 +203,9 @@
     }
   },
   "ollamaEmbedModel": {
-    "model": "deepseek-r1:14b",
+    "model": "deepseek-r1:8b",
     "baseUrl": "http://localhost:11434",
-    "similarityThreshold": 0,
+    "similarityThreshold": 0.62,
     "k": 9999999
   },
   "openAIGenModel": {
