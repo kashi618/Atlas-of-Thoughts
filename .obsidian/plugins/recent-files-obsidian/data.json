@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Call Stack",
+      "path": "UNSORTED/Call Stack.md"
+    },
+    {
+      "basename": "Von Neumann Architecture",
+      "path": "College/Computer Architecture and Technology/Von Neumann Architecture.md"
+    },
+    {
+      "basename": "CPU",
+      "path": "College/Computer Architecture and Technology/CPU.md"
+    },
+    {
+      "basename": "Computer Architecture",
+      "path": "College/Computer Architecture and Technology/Computer Architecture.md"
+    },
+    {
+      "basename": "How to use Obsidian",
+      "path": "Notes/How to use Obsidian.md"
+    },
+    {
+      "basename": "Leaving Cert Classics",
+      "path": "Notes/Leaving Cert Classics.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -53,28 +77,12 @@
       "path": "College/Microprocessors Systems/Bit Shifting.md"
     },
     {
-      "basename": "CPU",
-      "path": "UNSORTED/CPU.md"
-    },
-    {
-      "basename": "Computer Architecture",
-      "path": "College/Computer Architecture and Technology/Computer Architecture.md"
-    },
-    {
       "basename": "Recursive Fibonacci Algorithm",
       "path": "UNSORTED/Recursive Fibonacci Algorithm.md"
     },
     {
-      "basename": "Von Neumann Architecture",
-      "path": "UNSORTED/Von Neumann Architecture.md"
-    },
-    {
       "basename": "CMPU 1012 - Sep 26th 2024",
       "path": "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Sep 26th 2024.md"
-    },
-    {
-      "basename": "CPU",
-      "path": "College/Computer Architecture and Technology/CPU.md"
     },
     {
       "basename": "Timing",
@@ -113,10 +121,6 @@
       "path": "Templates/Pseudocode 1.md"
     },
     {
-      "basename": "Untitled",
-      "path": "UNSORTED/Untitled.md"
-    },
-    {
       "basename": "explosion",
       "path": "Other/explosion.gif"
     },
@@ -145,10 +149,6 @@
       "path": "College/Algorithm Design and Problem Solving/Iterative Euclidean Algorithm.md"
     },
     {
-      "basename": "Leaving Cert Classics",
-      "path": "Notes/Leaving Cert Classics.md"
-    },
-    {
       "basename": "Recursive Exponents Algorithm",
       "path": "College/Algorithm Design and Problem Solving/Recursive Exponents Algorithm.md"
     },
@@ -163,10 +163,6 @@
     {
       "basename": "Recursion",
       "path": "College/Algorithm Design and Problem Solving/Recursion.md"
-    },
-    {
-      "basename": "Call Stack",
-      "path": "UNSORTED/Call Stack.md"
     },
     {
       "basename": "Recursive Factorial Algorithm",
@@ -195,10 +191,6 @@
     {
       "basename": "Caesar's Cipher",
       "path": "College/Mathematics/Caesar's Cipher.md"
-    },
-    {
-      "basename": "Euclidean Algorithm 2",
-      "path": "College/Mathematics/Euclidean Algorithm 2.md"
     }
   ],
   "omittedPaths": [],

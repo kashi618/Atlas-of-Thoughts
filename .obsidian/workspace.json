@@ -18,15 +18,40 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -1.0481560381546529
+                  "zoom": -1.1057946640225969
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "26838a4aeab24eef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNSORTED/Call Stack.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Call Stack"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,13 +118,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "UNSORTED/Call Stack.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Call Stack"
             }
           },
           {
@@ -180,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 421.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,12 +228,18 @@
       "quiz-generator:Open generator": false
     }
   },
-  "active": "9bc98d8a64f45ad2",
+  "active": "3bd19bba09e6f6f0",
   "lastOpenFiles": [
+    "College/Computer Architecture and Technology/Von Neumann Architecture.md",
+    "College/Computer Architecture and Technology/CPU.md",
+    "UNSORTED/Untitled.md",
+    "College/Computer Architecture and Technology/Computer Architecture.md",
+    "Notes/How to use Obsidian.md",
+    "Notes/Leaving Cert Classics.md",
+    "Home Page/Home.canvas",
     "Chats/New Chat.md",
     "College/Programming/Dereference Operators - C.md",
     "College/Programming/Pass by Value - Pass by Reference - C.md",
-    "Home Page/Home.canvas",
     "College/Programming/Functions - C.md",
     "College/Programming/Function Signatures - C.md",
     "Library/David Walliams - Billionaire Boy.md",
@@ -218,14 +250,10 @@
     "Chats",
     "Notes/TV Shows & Movies & Anime & Manga.md",
     "College/Microprocessors Systems/Bit Shifting.md",
-    "UNSORTED/CPU.md",
-    "College/Computer Architecture and Technology/Computer Architecture.md",
     "UNSORTED/Recursive Fibonacci Algorithm.md",
-    "UNSORTED/Von Neumann Architecture.md",
     "UNSORTED/John Von Neumann.md",
     "Other/Pasted image 20250210142701.png",
     "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Sep 26th 2024.md",
-    "College/Computer Architecture and Technology/CPU.md",
     "College/Computer Architecture and Technology",
     "College/Microprocessors Systems/Timing.md",
     "Other/Pasted image 20250210122007.png",
@@ -234,9 +262,6 @@
     "Other/Pasted image 20250210120939.png",
     "College/Data Exploration/CSV.md",
     "College/Algorithm Design and Problem Solving/CA Notes/City Rent-A-Car.md",
-    "College/Algorithm Design and Problem Solving/CA Notes/Ascii Tree Art.md",
-    "College/Operating Systems/Exercises/OperatingSystems1-Lab2-C24510496.md",
-    "Templates/Pseudocode.md",
     "College/Algorithm Design and Problem Solving/CA Notes",
     "Other/Pasted image 20250207115824.png",
     "College/Data Exploration",
