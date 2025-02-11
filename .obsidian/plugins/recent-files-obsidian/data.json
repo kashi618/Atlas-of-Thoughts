@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "New Chat",
+      "path": "Chats/New Chat.md"
+    },
+    {
       "basename": "Dereference Operators - C",
       "path": "College/Programming/Dereference Operators - C.md"
     },
@@ -9,20 +17,12 @@
       "path": "College/Programming/Pass by Value - Pass by Reference - C.md"
     },
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
-    },
-    {
       "basename": "Functions - C",
       "path": "College/Programming/Functions - C.md"
     },
     {
       "basename": "Function Signatures - C",
       "path": "College/Programming/Function Signatures - C.md"
-    },
-    {
-      "basename": "New Chat",
-      "path": "Chats/New Chat.md"
     },
     {
       "basename": "David Walliams - Billionaire Boy",

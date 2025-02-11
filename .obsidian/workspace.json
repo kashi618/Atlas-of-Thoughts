@@ -25,33 +25,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "915439978a997b47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Programming/Dereference Operators - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Dereference Operators - C"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,9 +146,20 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "8d25e326d40e78dc",
+            "type": "leaf",
+            "state": {
+              "type": "chat-view",
+              "state": {
+                "file": "Chats/New Chat.md"
+              },
+              "icon": "message-square",
+              "title": "New Chat"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "b56fa9676414f482",
@@ -216,13 +202,14 @@
       "quiz-generator:Open generator": false
     }
   },
-  "active": "915439978a997b47",
+  "active": "9bc98d8a64f45ad2",
   "lastOpenFiles": [
+    "Chats/New Chat.md",
+    "College/Programming/Dereference Operators - C.md",
     "College/Programming/Pass by Value - Pass by Reference - C.md",
     "Home Page/Home.canvas",
     "College/Programming/Functions - C.md",
     "College/Programming/Function Signatures - C.md",
-    "Chats/New Chat.md",
     "Library/David Walliams - Billionaire Boy.md",
     "Notes/Library.md",
     "College/Programming/Variables - C.md",
