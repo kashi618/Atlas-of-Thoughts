@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -0.7224660244710913
+                  "zoom": -1.0481560381546529
                 }
               },
               "pinned": true,
@@ -27,29 +27,31 @@
             }
           },
           {
-            "id": "7def5e4e162579e6",
+            "id": "915439978a997b47",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "aac8e2ff7c2a21db",
-            "type": "leaf",
-            "state": {
-              "type": "chat-view",
+              "type": "markdown",
               "state": {
-                "file": "Chats/New Chat.md"
+                "file": "College/Programming/Dereference Operators - C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "message-square",
-              "title": "New Chat"
+              "icon": "lucide-file",
+              "title": "Dereference Operators - C"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,9 +216,12 @@
       "quiz-generator:Open generator": false
     }
   },
-  "active": "aac8e2ff7c2a21db",
+  "active": "915439978a997b47",
   "lastOpenFiles": [
+    "College/Programming/Pass by Value - Pass by Reference - C.md",
     "Home Page/Home.canvas",
+    "College/Programming/Functions - C.md",
+    "College/Programming/Function Signatures - C.md",
     "Chats/New Chat.md",
     "Library/David Walliams - Billionaire Boy.md",
     "Notes/Library.md",
@@ -245,10 +250,7 @@
     "College/Algorithm Design and Problem Solving/CA Notes/Ascii Tree Art.md",
     "College/Operating Systems/Exercises/OperatingSystems1-Lab2-C24510496.md",
     "Templates/Pseudocode.md",
-    "College/CA Notes/Algoritm Design and Problem Solving.md",
-    "College/Algorithm Design and Problem Solving/Structured English.md",
     "College/Algorithm Design and Problem Solving/CA Notes",
-    "Templates/Pseudocode 1.md",
     "Other/Pasted image 20250207115824.png",
     "College/Data Exploration",
     "College/Operating Systems/Exercises",

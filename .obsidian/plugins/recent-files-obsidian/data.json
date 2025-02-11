@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "New Chat",
-      "path": "Chats/New Chat.md"
+      "basename": "Dereference Operators - C",
+      "path": "College/Programming/Dereference Operators - C.md"
+    },
+    {
+      "basename": "Pass by Value - Pass by Reference - C",
+      "path": "College/Programming/Pass by Value - Pass by Reference - C.md"
     },
     {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Functions - C",
+      "path": "College/Programming/Functions - C.md"
+    },
+    {
+      "basename": "Function Signatures - C",
+      "path": "College/Programming/Function Signatures - C.md"
+    },
+    {
+      "basename": "New Chat",
+      "path": "Chats/New Chat.md"
     },
     {
       "basename": "David Walliams - Billionaire Boy",
@@ -157,10 +173,6 @@
       "path": "College/Algorithm Design and Problem Solving/Recursive Factorial Algorithm.md"
     },
     {
-      "basename": "Functions - C",
-      "path": "College/Programming/Functions - C.md"
-    },
-    {
       "basename": "Turn On Output Port",
       "path": "College/Microprocessors Systems/Turn On Output Port.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Euclidean Algorithm 2",
       "path": "College/Mathematics/Euclidean Algorithm 2.md"
-    },
-    {
-      "basename": "Functional Programming",
-      "path": "College/Operating Systems/Functional Programming.md"
-    },
-    {
-      "basename": "Multiplying Matrices",
-      "path": "College/Mathematics/Multiplying Matrices.md"
-    },
-    {
-      "basename": "Modular Numbers",
-      "path": "College/Mathematics/Modular Numbers.md"
     }
   ],
   "omittedPaths": [],
