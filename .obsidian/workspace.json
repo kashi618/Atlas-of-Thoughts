@@ -32,9 +32,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Programming/Passing Arrays - C.md",
+                "file": "College/Programming/Storage Classes - C.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Passing Arrays - C"
+              "title": "Storage Classes - C"
             }
           }
         ],
@@ -117,13 +117,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Programming/Passing Arrays - C.md",
+                "file": "College/Programming/Storage Classes - C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Passing Arrays - C"
+              "title": "Outline of Storage Classes - C"
             }
           },
           {
@@ -200,10 +200,11 @@
   },
   "active": "4ad79ce874172416",
   "lastOpenFiles": [
+    "College/Programming/Passing Arrays - C.md",
+    "College/Programming/Storage Classes - C.md",
     "Home Page/Home.canvas",
     "Chats/New Chat.md",
     "College/Programming/Functions - C.md",
-    "College/Programming/Passing Arrays - C.md",
     "UNSORTED/Untitled.md",
     "College/Programming/Arrays - C.md",
     "College/Programming/Symbolic Names - C.md",
