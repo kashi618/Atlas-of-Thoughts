@@ -17,8 +17,8 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": -240,
-                  "y": 121.11637787825379,
-                  "zoom": -1.0999260659334589
+                  "y": -45,
+                  "zoom": -0.7224660244710913
                 }
               },
               "pinned": true,
@@ -27,19 +27,29 @@
             }
           },
           {
-            "id": "a47fa4af177eaf2e",
+            "id": "7def5e4e162579e6",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "obsidian-projects",
+              "type": "empty",
               "state": {},
-              "pinned": true,
-              "icon": "projects-icon",
-              "title": "Projects"
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "aac8e2ff7c2a21db",
+            "type": "leaf",
+            "state": {
+              "type": "chat-view",
+              "state": {
+                "file": "Chats/New Chat.md"
+              },
+              "icon": "message-square",
+              "title": "New Chat"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,28 +116,62 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Home Page/Home.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Home"
             }
           },
           {
-            "id": "ba0450c62976b5f7",
+            "id": "7b118b1cd81c00f1",
             "type": "leaf",
             "state": {
-              "type": "chat-view",
+              "type": "backlink",
               "state": {
-                "file": "Chats/New Chat.md"
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               },
-              "icon": "message-square",
-              "title": "New Chat"
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "493b97401f83d075",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6ed36402c6f5947d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "b56fa9676414f482",
@@ -166,15 +210,14 @@
       "obsidian-book-search-plugin:Create new book note": false,
       "widgets:Add widget": false,
       "smart-second-brain:Open S2B Chat": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "quiz-generator:Open generator": false
     }
   },
-  "active": "a47fa4af177eaf2e",
+  "active": "aac8e2ff7c2a21db",
   "lastOpenFiles": [
-    "Chats/New Chat.md",
     "Home Page/Home.canvas",
+    "Chats/New Chat.md",
     "Library/David Walliams - Billionaire Boy.md",
     "Notes/Library.md",
     "College/Programming/Variables - C.md",
