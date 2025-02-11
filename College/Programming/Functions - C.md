@@ -20,7 +20,7 @@ returnType functionName(parameter1, parameter2, parameter3) {
 - return = Ends function, and goes back to where it was called--
 
 ### Example
-```c showlinenumbers
+```c showlinenumbers {4}
 #include <stdio.h>
 
 // Function Signature
@@ -40,6 +40,8 @@ int coolPP(number) {
 ```
 - In c, you can only return a SINGLE piece of data.
 - Older programming standards have parameters with a named variable. Nowadays, it is redundant. meow(int var1)  -> meow(int)
+
+- You dont need to add the variable name on line 4
 
 ## Multiple Parameter Functions
 ```c showLineNumbers {}

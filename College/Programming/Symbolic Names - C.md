@@ -5,6 +5,7 @@ tags:
   - Variables
   - Symbolic-Names
 ---
+**NOTE: ** Also known as a Maco
 - It is used to avoid hard coding values in a program 
 - Usually all uppercase letters are used, to differentiate them from regular variables
 - The value of a symbolic name cannot be changed

@@ -4,6 +4,9 @@ tags:
   - Arrays
   - ComputerScience
 ---
+
+The name of an array is equivalent to the address location of the 1st element in the array
+
 ## Declaring Arrays
 ```c showlinenumbers
 dataType arr[size];

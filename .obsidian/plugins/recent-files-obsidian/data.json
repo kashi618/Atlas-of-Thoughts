@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Passing Arrays - C",
+      "path": "College/Programming/Passing Arrays - C.md"
+    },
+    {
+      "basename": "Arrays - C",
+      "path": "College/Programming/Arrays - C.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Functions - C",
+      "path": "College/Programming/Functions - C.md"
+    },
+    {
+      "basename": "Symbolic Names - C",
+      "path": "College/Programming/Symbolic Names - C.md"
+    },
+    {
       "basename": "Call Stack",
       "path": "UNSORTED/Call Stack.md"
     },
@@ -25,10 +45,6 @@
       "path": "Notes/Leaving Cert Classics.md"
     },
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
-    },
-    {
       "basename": "New Chat",
       "path": "Chats/New Chat.md"
     },
@@ -39,10 +55,6 @@
     {
       "basename": "Pass by Value - Pass by Reference - C",
       "path": "College/Programming/Pass by Value - Pass by Reference - C.md"
-    },
-    {
-      "basename": "Functions - C",
-      "path": "College/Programming/Functions - C.md"
     },
     {
       "basename": "Function Signatures - C",
@@ -187,10 +199,6 @@
     {
       "basename": "Adding and Subtracting Matrices",
       "path": "College/Mathematics/Adding and Subtracting Matrices.md"
-    },
-    {
-      "basename": "Caesar's Cipher",
-      "path": "College/Mathematics/Caesar's Cipher.md"
     }
   ],
   "omittedPaths": [],
