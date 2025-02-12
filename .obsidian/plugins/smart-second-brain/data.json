@@ -227,5 +227,5 @@
   "isVerbose": false,
   "isOnboarded": true,
   "hideIncognitoWarning": false,
-  "isAutostart": true
+  "isAutostart": false
 }

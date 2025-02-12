@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Boot Process",
+      "path": "College/Operating Systems/Boot Process.md"
+    },
+    {
+      "basename": "CMPU 1012 - Sep 26th 2024",
+      "path": "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Sep 26th 2024.md"
+    },
+    {
+      "basename": "BIOS",
+      "path": "College/Operating Systems/BIOS.md"
+    },
+    {
+      "basename": "ROM",
+      "path": "College/Operating Systems/ROM.md"
+    },
+    {
+      "basename": "POST",
+      "path": "College/Operating Systems/POST.md"
+    },
+    {
+      "basename": "POST",
+      "path": "UNSORTED/POST.md"
+    },
+    {
+      "basename": "BIOS (NOT FINISHESD)",
+      "path": "College/Operating Systems/BIOS (NOT FINISHESD).md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "OperatingSystems1-Lab2-C24510496",
+      "path": "College/Operating Systems/Exercises/OperatingSystems1-Lab2-C24510496.md"
     },
     {
       "basename": "Storage Classes - C",
@@ -101,10 +133,6 @@
       "path": "UNSORTED/Recursive Fibonacci Algorithm.md"
     },
     {
-      "basename": "CMPU 1012 - Sep 26th 2024",
-      "path": "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Sep 26th 2024.md"
-    },
-    {
       "basename": "Timing",
       "path": "College/Microprocessors Systems/Timing.md"
     },
@@ -123,10 +151,6 @@
     {
       "basename": "Ascii Tree Art",
       "path": "College/Algorithm Design and Problem Solving/CA Notes/Ascii Tree Art.md"
-    },
-    {
-      "basename": "OperatingSystems1-Lab2-C24510496",
-      "path": "College/Operating Systems/Exercises/OperatingSystems1-Lab2-C24510496.md"
     },
     {
       "basename": "Pseudocode",
@@ -175,30 +199,6 @@
     {
       "basename": "Iterative Exponents Algorithm",
       "path": "College/Algorithm Design and Problem Solving/Iterative Exponents Algorithm.md"
-    },
-    {
-      "basename": "Functional Programming Language",
-      "path": "College/Algorithm Design and Problem Solving/Functional Programming Language.md"
-    },
-    {
-      "basename": "Recursion",
-      "path": "College/Algorithm Design and Problem Solving/Recursion.md"
-    },
-    {
-      "basename": "Recursive Factorial Algorithm",
-      "path": "College/Algorithm Design and Problem Solving/Recursive Factorial Algorithm.md"
-    },
-    {
-      "basename": "Turn On Output Port",
-      "path": "College/Microprocessors Systems/Turn On Output Port.md"
-    },
-    {
-      "basename": "GPIOA - GPIOB",
-      "path": "College/Microprocessors Systems/GPIOA - GPIOB.md"
-    },
-    {
-      "basename": "Traffic Lights",
-      "path": "College/Microprocessors Systems/Traffic Lights.md"
     }
   ],
   "omittedPaths": [],

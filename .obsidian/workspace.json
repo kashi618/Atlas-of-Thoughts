@@ -25,8 +25,81 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "549601ec98216128",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Operating Systems/Boot Process.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Boot Process"
+            }
+          },
+          {
+            "id": "9e77ebe920faea59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Operating Systems/BIOS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BIOS"
+            }
+          },
+          {
+            "id": "aeb19db1ac640130",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Operating Systems/ROM.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ROM"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -151,7 +225,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 421.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,12 +248,21 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "549601ec98216128",
   "lastOpenFiles": [
+    "Other/Pasted image 20250212093913.png",
+    "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Sep 26th 2024.md",
+    "College/Operating Systems/BIOS.md",
+    "College/Operating Systems/ROM.md",
+    "College/Operating Systems/POST.md",
+    "College/Operating Systems/Boot Process.md",
+    "UNSORTED/POST.md",
+    "College/Operating Systems/BIOS (NOT FINISHESD).md",
+    "Home Page/Home.canvas",
+    "College/Operating Systems/Exercises/OperatingSystems1-Lab2-C24510496.md",
     "College/Programming/Storage Classes - C.md",
     "UNSORTED/Scope.md",
     "College/Programming/Passing Arrays - C.md",
-    "Home Page/Home.canvas",
     "Chats/New Chat.md",
     "College/Programming/Functions - C.md",
     "UNSORTED/Untitled.md",
@@ -193,16 +277,7 @@
     "College/Programming/Dereference Operators - C.md",
     "College/Programming/Pass by Value - Pass by Reference - C.md",
     "College/Programming/Function Signatures - C.md",
-    "Library/David Walliams - Billionaire Boy.md",
-    "Notes/Library.md",
-    "College/Programming/Variables - C.md",
-    "College/Programming/Pointers - C.md",
-    "College/Programming/Ampersand - C.md",
     "Chats",
-    "Notes/TV Shows & Movies & Anime & Manga.md",
-    "College/Microprocessors Systems/Bit Shifting.md",
-    "UNSORTED/Recursive Fibonacci Algorithm.md",
-    "UNSORTED/John Von Neumann.md",
     "Other/Pasted image 20250210142701.png",
     "College/Computer Architecture and Technology",
     "Other/Pasted image 20250210122007.png",
