@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "EFI - UEFI",
+      "path": "UNSORTED/EFI - UEFI.md"
+    },
+    {
+      "basename": "CMPU1018 Mathematics Winter 2020-2021 Exam Paper",
+      "path": "PDF's/CMPU1018 Mathematics Winter 2020-2021 Exam Paper.pdf"
+    },
+    {
+      "basename": "All Tomorrows",
+      "path": "PDF's/All Tomorrows.pdf"
+    },
+    {
+      "basename": "C Programming Language - 2nd Edition (OCR)",
+      "path": "PDF's/C Programming Language - 2nd Edition (OCR).pdf"
+    },
+    {
+      "basename": "Bit Shifting",
+      "path": "College/Microprocessors Systems/Bit Shifting.md"
+    },
+    {
+      "basename": "GPIOA - GPIOB",
+      "path": "College/Microprocessors Systems/GPIOA - GPIOB.md"
+    },
+    {
+      "basename": "C Variable Size Uncertainty",
+      "path": "College/Microprocessors Systems/C Variable Size Uncertainty.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "UNSORTED/Untitled 1.md"
+    },
+    {
       "basename": "OperatingSystems1-Lab3-C24510496",
       "path": "College/Operating Systems/Exercises/OperatingSystems1-Lab3-C24510496.md"
     },
@@ -71,10 +103,6 @@
     {
       "basename": "Drivers",
       "path": "College/Operating Systems/Drivers.md"
-    },
-    {
-      "basename": "EFI - UEFI",
-      "path": "UNSORTED/EFI - UEFI.md"
     },
     {
       "basename": "Boot Process",
@@ -171,30 +199,6 @@
     {
       "basename": "TV Shows & Movies & Anime & Manga",
       "path": "Notes/TV Shows & Movies & Anime & Manga.md"
-    },
-    {
-      "basename": "Bit Shifting",
-      "path": "College/Microprocessors Systems/Bit Shifting.md"
-    },
-    {
-      "basename": "Recursive Fibonacci Algorithm",
-      "path": "UNSORTED/Recursive Fibonacci Algorithm.md"
-    },
-    {
-      "basename": "Timing",
-      "path": "College/Microprocessors Systems/Timing.md"
-    },
-    {
-      "basename": "Alt Codes",
-      "path": "Notes/Alt Codes.md"
-    },
-    {
-      "basename": "CSV",
-      "path": "College/Data Exploration/CSV.md"
-    },
-    {
-      "basename": "City Rent-A-Car",
-      "path": "College/Algorithm Design and Problem Solving/CA Notes/City Rent-A-Car.md"
     }
   ],
   "omittedPaths": [],

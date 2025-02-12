@@ -97,9 +97,33 @@
               "icon": "lucide-file",
               "title": "OperatingSystems1-Lab3-C24510496"
             }
+          },
+          {
+            "id": "a1a8ea992831b7e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNSORTED/EFI - UEFI.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "EFI - UEFI"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -247,12 +271,20 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "a595f1bf92a9489d",
+  "active": "a1a8ea992831b7e0",
   "lastOpenFiles": [
+    "PDF's/CMPU1018 Mathematics Winter 2020-2021 Exam Paper.pdf",
+    "PDF's/All Tomorrows.pdf",
+    "PDF's/C Programming Language - 2nd Edition (OCR).pdf",
+    "College/Microprocessors Systems/Bit Shifting.md",
+    "College/Microprocessors Systems/GPIOA - GPIOB.md",
+    "College/Microprocessors Systems/C Variable Size Uncertainty.md",
+    "UNSORTED/Untitled 1.md",
+    "Other/Pasted image 20250212145157.png",
+    "College/Operating Systems/Exercises/OperatingSystems1-Lab3-C24510496.md",
     "College/Operating Systems/Exercises/asd.md",
     "Other/Pasted image 20250212141259.png",
     "Other/Pasted image 20250212141227.png",
-    "College/Operating Systems/Exercises/OperatingSystems1-Lab3-C24510496.md",
     "College/Programming/Storage Classes - C.md",
     "Chats/New Chat.md",
     "Chats",
@@ -274,11 +306,7 @@
     "College/Operating Systems/Drivers.md",
     "College/Operating Systems/EFI.md",
     "UNSORTED/EFI - UEFI.md",
-    "College/Operating Systems/Boot Process.md",
     "Other/Pasted image 20250212093913.png",
-    "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Sep 26th 2024.md",
-    "College/Operating Systems/ROM.md",
-    "College/Operating Systems/POST.md",
     "Other/Pasted image 20250210142701.png",
     "College/Computer Architecture and Technology",
     "Other/Pasted image 20250210122007.png",
@@ -291,9 +319,6 @@
     "College/Algorithm Design and Problem Solving",
     "College/Operating Systems",
     "College/Microprocessors Systems",
-    "Other/Pasted image 20250127120941.png",
-    "College/Microprocessor Controllers",
-    "College/TU856-1",
-    "Other/Pasted image 20250105134746.png"
+    "Other/Pasted image 20250127120941.png"
   ]
 }
