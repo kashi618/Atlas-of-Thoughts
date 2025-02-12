@@ -5,6 +5,10 @@
       "path": "College/Programming/Storage Classes - C.md"
     },
     {
+      "basename": "New Chat",
+      "path": "Chats/New Chat.md"
+    },
+    {
       "basename": "Global and Local Variables - C",
       "path": "College/Programming/Global and Local Variables - C.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "CMPU 1025 - Sep 18th 2024",
       "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 18th 2024.md"
-    },
-    {
-      "basename": "New Chat",
-      "path": "Chats/New Chat.md"
     },
     {
       "basename": "Pass by Value - Pass by Reference - C",

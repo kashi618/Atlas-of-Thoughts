@@ -56,10 +56,32 @@ void main() {
 	}
 }
 ```
+
 ## Extern Variables
 They are known as **global variables**
-	- They are BAD, unless your program specifically needs
+- They are BAD, unless your program specifically needs one
+	- If a bug happens, then you wouldn't know which function caused the code. Whearas, if you pass the variable, you can trace back to which function caused the bug
+- They are declared outside of any function, and can be used in every function
+```c showlinenumbers {3,6,14}
+void fxn(void);
 
+int pp = 69;
+
+void main(void) {
+	extern int pp;
+	
+	printf("%d", pp);
+	
+	fxn();
+}
+
+void fnx(void) {
+	extern int pp;
+	
+	printf("d",pp);
+}
+```
+The extern on lines 6 and 14 tells the compiler to NOT create a variable, and to instead find and use the int variable on line 3
 
 # See Also
 [[Variables - C]]

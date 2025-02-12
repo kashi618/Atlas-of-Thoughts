@@ -4,7 +4,7 @@
   "includeSubfolderNotes": true,
   "randomizeQuestions": true,
   "language": "English",
-  "provider": "GOOGLE",
+  "provider": "OLLAMA",
   "openAIApiKey": "",
   "openAIBaseURL": "https://api.openai.com/v1",
   "openAITextGenModel": "gpt-3.5-turbo",
