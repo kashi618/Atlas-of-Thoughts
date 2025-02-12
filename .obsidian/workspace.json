@@ -18,40 +18,15 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -1.1057946640225969
+                  "zoom": -0.9675785223076229
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "4ad79ce874172416",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Programming/Storage Classes - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Storage Classes - C"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,10 +173,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "4ad79ce874172416",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "College/Programming/Passing Arrays - C.md",
     "College/Programming/Storage Classes - C.md",
+    "UNSORTED/Scope.md",
+    "College/Programming/Passing Arrays - C.md",
     "Home Page/Home.canvas",
     "Chats/New Chat.md",
     "College/Programming/Functions - C.md",
@@ -228,7 +204,6 @@
     "UNSORTED/Recursive Fibonacci Algorithm.md",
     "UNSORTED/John Von Neumann.md",
     "Other/Pasted image 20250210142701.png",
-    "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Sep 26th 2024.md",
     "College/Computer Architecture and Technology",
     "Other/Pasted image 20250210122007.png",
     "Other/Pasted image 20250210121514.png",

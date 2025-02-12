@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Storage Classes - C",
       "path": "College/Programming/Storage Classes - C.md"
     },
     {
-      "basename": "Passing Arrays - C",
-      "path": "College/Programming/Passing Arrays - C.md"
+      "basename": "Scope",
+      "path": "UNSORTED/Scope.md"
     },
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
+      "basename": "Passing Arrays - C",
+      "path": "College/Programming/Passing Arrays - C.md"
     },
     {
       "basename": "Functions - C",
@@ -195,10 +199,6 @@
     {
       "basename": "Traffic Lights",
       "path": "College/Microprocessors Systems/Traffic Lights.md"
-    },
-    {
-      "basename": "Wishlist",
-      "path": "Notes/Wishlist.md"
     }
   ],
   "omittedPaths": [],
