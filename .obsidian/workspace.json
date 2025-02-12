@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -0.9675785223076229
+                  "zoom": -0.3637415735951525
                 }
               },
               "pinned": true,
@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "549601ec98216128",
+            "id": "856c2b2c0578f2f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNSORTED/EFI - UEFI.md",
+                "file": "College/Operating Systems/STDIN-STDOUT-STDERR.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,55 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "EFI - UEFI"
-            }
-          },
-          {
-            "id": "9e77ebe920faea59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Operating Systems/BIOS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "BIOS"
-            }
-          },
-          {
-            "id": "aeb19db1ac640130",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Operating Systems/ROM.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ROM"
+              "title": "STDIN-STDOUT-STDERR"
             }
           }
         ],
@@ -149,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -248,19 +199,24 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "549601ec98216128",
+  "active": "856c2b2c0578f2f1",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
+    "College/Operating Systems/STDIN-STDOUT-STDERR.md",
     "College/Operating Systems/BIOS.md",
-    "UNSORTED/EFI - UEFI.md",
+    "College/Operating Systems/BIOS (NOT FINISHESD).md",
+    "College/Operating Systems/Ada Lovelace (1815-1852).md",
+    "Notes/Arch Linux - Installation.md",
+    "College/Operating Systems/CLI.md",
+    "College/Operating Systems/Drivers.md",
     "College/Operating Systems/EFI.md",
+    "UNSORTED/EFI - UEFI.md",
     "College/Operating Systems/Boot Process.md",
     "Other/Pasted image 20250212093913.png",
     "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Sep 26th 2024.md",
     "College/Operating Systems/ROM.md",
     "College/Operating Systems/POST.md",
     "UNSORTED/POST.md",
-    "College/Operating Systems/BIOS (NOT FINISHESD).md",
-    "Home Page/Home.canvas",
     "College/Operating Systems/Exercises/OperatingSystems1-Lab2-C24510496.md",
     "College/Programming/Storage Classes - C.md",
     "UNSORTED/Scope.md",
@@ -272,12 +228,6 @@
     "College/Programming/Symbolic Names - C.md",
     "UNSORTED/Call Stack.md",
     "College/Computer Architecture and Technology/Von Neumann Architecture.md",
-    "College/Computer Architecture and Technology/CPU.md",
-    "College/Computer Architecture and Technology/Computer Architecture.md",
-    "Notes/How to use Obsidian.md",
-    "Notes/Leaving Cert Classics.md",
-    "College/Programming/Dereference Operators - C.md",
-    "College/Programming/Pass by Value - Pass by Reference - C.md",
     "Chats",
     "Other/Pasted image 20250210142701.png",
     "College/Computer Architecture and Technology",

@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "EFI - UEFI",
-      "path": "UNSORTED/EFI - UEFI.md"
+      "basename": "STDIN-STDOUT-STDERR",
+      "path": "College/Operating Systems/STDIN-STDOUT-STDERR.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "BIOS",
       "path": "College/Operating Systems/BIOS.md"
     },
     {
-      "basename": "EFI",
-      "path": "College/Operating Systems/EFI.md"
+      "basename": "BIOS (NOT FINISHESD)",
+      "path": "College/Operating Systems/BIOS (NOT FINISHESD).md"
+    },
+    {
+      "basename": "Ada Lovelace (1815-1852)",
+      "path": "College/Operating Systems/Ada Lovelace (1815-1852).md"
+    },
+    {
+      "basename": "Arch Linux - Installation",
+      "path": "Notes/Arch Linux - Installation.md"
+    },
+    {
+      "basename": "CLI",
+      "path": "College/Operating Systems/CLI.md"
+    },
+    {
+      "basename": "Drivers",
+      "path": "College/Operating Systems/Drivers.md"
+    },
+    {
+      "basename": "EFI - UEFI",
+      "path": "UNSORTED/EFI - UEFI.md"
     },
     {
       "basename": "Boot Process",
@@ -31,14 +55,6 @@
     {
       "basename": "POST",
       "path": "UNSORTED/POST.md"
-    },
-    {
-      "basename": "BIOS (NOT FINISHESD)",
-      "path": "College/Operating Systems/BIOS (NOT FINISHESD).md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "OperatingSystems1-Lab2-C24510496",
@@ -183,22 +199,6 @@
     {
       "basename": "Descartes",
       "path": "Other/Descartes.gif"
-    },
-    {
-      "basename": "Fibonacci Numbers",
-      "path": "College/Algorithm Design and Problem Solving/Fibonacci Numbers.md"
-    },
-    {
-      "basename": "Recursive Euclidean Algorithm",
-      "path": "College/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md"
-    },
-    {
-      "basename": "Iterative  Factorial Algorithm",
-      "path": "College/Algorithm Design and Problem Solving/Iterative  Factorial Algorithm.md"
-    },
-    {
-      "basename": "Iterative Euclidean Algorithm",
-      "path": "College/Algorithm Design and Problem Solving/Iterative Euclidean Algorithm.md"
     }
   ],
   "omittedPaths": [],
