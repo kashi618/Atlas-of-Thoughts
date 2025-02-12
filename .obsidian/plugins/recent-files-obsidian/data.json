@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Timing",
+      "path": "College/Microprocessors Systems/Timing.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Drivers",
+      "path": "College/Operating Systems/Drivers.md"
+    },
+    {
+      "basename": "Hidden Files",
+      "path": "College/Operating Systems/Hidden Files.md"
+    },
+    {
       "basename": "Arch Linux - Installation",
       "path": "Notes/Arch Linux - Installation.md"
     },
     {
       "basename": "Operating System",
       "path": "College/Operating Systems/Operating System.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Passing Arrays - C",
@@ -105,10 +117,6 @@
       "path": "College/Operating Systems/CLI.md"
     },
     {
-      "basename": "Drivers",
-      "path": "College/Operating Systems/Drivers.md"
-    },
-    {
       "basename": "Boot Process",
       "path": "College/Operating Systems/Boot Process.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "Variables - C",
       "path": "College/Programming/Variables - C.md"
-    },
-    {
-      "basename": "Pointers - C",
-      "path": "College/Programming/Pointers - C.md"
     }
   ],
   "omittedPaths": [],
