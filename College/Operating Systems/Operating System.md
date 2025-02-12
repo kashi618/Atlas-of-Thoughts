@@ -21,6 +21,23 @@ The OS is a resource allocator, managing all resources and deciding requests for
 
 ## Control Program
 The OS is a control program, controlling the execution of programs to prevent errors and improper use of the computer
+
+## Types
+### Number of users that can access a machine at once
+- Single-user
+- Multi-user
+### Operational Configuration Modes
+- Standalone
+- Networked
+- Embedded
+### Resource Sharing Policy
+- Pre-emptive OS
+- Cooperative
+### Types of Computer Systems
+- Single Processor OS
+- Multiprocessor OS
+- Cluster OS
+
 # See Also
 [[Kernel]]
 [[Drivers]]

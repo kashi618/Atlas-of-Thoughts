@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Arch Linux - Installation",
+      "path": "Notes/Arch Linux - Installation.md"
+    },
+    {
+      "basename": "Operating System",
+      "path": "College/Operating Systems/Operating System.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Passing Arrays - C",
+      "path": "College/Programming/Passing Arrays - C.md"
+    },
+    {
+      "basename": "Global and Local Variables - C",
+      "path": "College/Programming/Global and Local Variables - C.md"
+    },
+    {
+      "basename": "OperatingSystems1-Lab3-C24510496",
+      "path": "College/Operating Systems/Exercises/OperatingSystems1-Lab3-C24510496.md"
+    },
+    {
       "basename": "EFI - UEFI",
       "path": "UNSORTED/EFI - UEFI.md"
     },
@@ -33,10 +57,6 @@
       "path": "UNSORTED/Untitled 1.md"
     },
     {
-      "basename": "OperatingSystems1-Lab3-C24510496",
-      "path": "College/Operating Systems/Exercises/OperatingSystems1-Lab3-C24510496.md"
-    },
-    {
       "basename": "Storage Classes - C",
       "path": "College/Programming/Storage Classes - C.md"
     },
@@ -45,16 +65,8 @@
       "path": "Chats/New Chat.md"
     },
     {
-      "basename": "Global and Local Variables - C",
-      "path": "College/Programming/Global and Local Variables - C.md"
-    },
-    {
       "basename": "Scope - C",
       "path": "College/Programming/Scope - C.md"
-    },
-    {
-      "basename": "Passing Arrays - C",
-      "path": "College/Programming/Passing Arrays - C.md"
     },
     {
       "basename": "Variable Naming Schemes",
@@ -67,10 +79,6 @@
     {
       "basename": "Pass by Value - Pass by Reference - C",
       "path": "College/Programming/Pass by Value - Pass by Reference - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "CAT - Linux",
@@ -91,10 +99,6 @@
     {
       "basename": "Ada Lovelace (1815-1852)",
       "path": "College/Operating Systems/Ada Lovelace (1815-1852).md"
-    },
-    {
-      "basename": "Arch Linux - Installation",
-      "path": "Notes/Arch Linux - Installation.md"
     },
     {
       "basename": "CLI",
@@ -191,14 +195,6 @@
     {
       "basename": "Pointers - C",
       "path": "College/Programming/Pointers - C.md"
-    },
-    {
-      "basename": "Ampersand - C",
-      "path": "College/Programming/Ampersand - C.md"
-    },
-    {
-      "basename": "TV Shows & Movies & Anime & Manga",
-      "path": "Notes/TV Shows & Movies & Anime & Manga.md"
     }
   ],
   "omittedPaths": [],
