@@ -5,6 +5,10 @@
       "path": "College/Operating Systems/STDIN-STDOUT-STDERR.md"
     },
     {
+      "basename": "CAT - Linux",
+      "path": "College/Operating Systems/CAT - Linux.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Nietzsche",
       "path": "Other/Nietzsche.gif"
-    },
-    {
-      "basename": "Descartes",
-      "path": "Other/Descartes.gif"
     }
   ],
   "omittedPaths": [],
