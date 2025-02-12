@@ -1,8 +1,9 @@
 ---
 tags:
   - ComputerScience
+  - Variables
 ---
- How accessible something is
+How visible a variable is
 
 The scope of a global variable is whole program, wheareas the scope of a variable in the main function, is the main function.
 
@@ -14,6 +15,22 @@ void main(void) {
 	int num = 0;
 }
 ```
-This program would not work, because the scope of the num variable is line 4 of the main function onwards, meaning the printf has no access of the num variable
+This program would not work, because the scope of the num variable is line 4 of the main function onwards, meaning the printf has no access of the num variable.
+
+## Example 2
+```c showlinenumbers
+void main() {
+	int ans = 10;
+	
+	epicFunction();
+}
+
+void epicFunction() {
+	printf("%d", ans);
+}
+```
+This program would not work, because the scope of the ans variable is only in the main function. This is because ans is a local variable.
 
 # See Also
+[[Variables - C]]
+[[Functions - C]]

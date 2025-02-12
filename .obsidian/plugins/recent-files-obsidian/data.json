@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Storage Classes - C",
+      "path": "College/Programming/Storage Classes - C.md"
+    },
+    {
+      "basename": "Global and Local Variables - C",
+      "path": "College/Programming/Global and Local Variables - C.md"
+    },
+    {
+      "basename": "Scope - C",
+      "path": "College/Programming/Scope - C.md"
+    },
+    {
+      "basename": "Passing Arrays - C",
+      "path": "College/Programming/Passing Arrays - C.md"
+    },
+    {
+      "basename": "Variable Naming Schemes",
+      "path": "College/Programming/Variable Naming Schemes.md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 18th 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 18th 2024.md"
+    },
+    {
+      "basename": "New Chat",
+      "path": "Chats/New Chat.md"
+    },
+    {
+      "basename": "Pass by Value - Pass by Reference - C",
+      "path": "College/Programming/Pass by Value - Pass by Reference - C.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -65,18 +97,6 @@
       "path": "College/Operating Systems/Exercises/OperatingSystems1-Lab2-C24510496.md"
     },
     {
-      "basename": "Storage Classes - C",
-      "path": "College/Programming/Storage Classes - C.md"
-    },
-    {
-      "basename": "Scope",
-      "path": "UNSORTED/Scope.md"
-    },
-    {
-      "basename": "Passing Arrays - C",
-      "path": "College/Programming/Passing Arrays - C.md"
-    },
-    {
       "basename": "Functions - C",
       "path": "College/Programming/Functions - C.md"
     },
@@ -119,10 +139,6 @@
     {
       "basename": "Dereference Operators - C",
       "path": "College/Programming/Dereference Operators - C.md"
-    },
-    {
-      "basename": "Pass by Value - Pass by Reference - C",
-      "path": "College/Programming/Pass by Value - Pass by Reference - C.md"
     },
     {
       "basename": "Function Signatures - C",
@@ -183,22 +199,6 @@
     {
       "basename": "Pseudocode",
       "path": "Templates/Pseudocode.md"
-    },
-    {
-      "basename": "Structured English",
-      "path": "College/Algorithm Design and Problem Solving/Structured English.md"
-    },
-    {
-      "basename": "Pseudocode 1",
-      "path": "Templates/Pseudocode 1.md"
-    },
-    {
-      "basename": "explosion",
-      "path": "Other/explosion.gif"
-    },
-    {
-      "basename": "Nietzsche",
-      "path": "Other/Nietzsche.gif"
     }
   ],
   "omittedPaths": [],

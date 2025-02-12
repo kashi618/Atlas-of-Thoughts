@@ -41,11 +41,24 @@ void increment(void) {
 }
 ```
 
-##
-
-
-##
-
+## Register Variables
+They are also **local variables**
+- However, it is stored inside the CPU cache, hence, the name register
+- This can be accessed extremely fast
+- It is usually used for loops, as it would help speed it up (int i, int j, etc)
+```c showlinenumbers
+void main() {
+	// Creates a register integer called i
+	register int i;
+	// Prints out "Fast!" 5 times
+	for (i=0; i<5; i++) {
+		printf("Fast! ");
+	}
+}
+```
+## Extern Variables
+They are known as **global variables**
+	- They are BAD, unless your program specifically needs
 
 
 # See Also
