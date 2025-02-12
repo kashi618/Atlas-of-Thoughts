@@ -25,57 +25,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "856c2b2c0578f2f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Operating Systems/STDIN-STDOUT-STDERR.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "STDIN-STDOUT-STDERR"
-            }
-          },
-          {
-            "id": "48ca9973ed6a9920",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Operating Systems/CAT - Linux.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CAT - Linux"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,8 +72,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,11 +174,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "856c2b2c0578f2f1",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
     "College/Operating Systems/CAT - Linux.md",
     "College/Operating Systems/STDIN-STDOUT-STDERR.md",
-    "Home Page/Home.canvas",
     "College/Operating Systems/BIOS.md",
     "College/Operating Systems/BIOS (NOT FINISHESD).md",
     "College/Operating Systems/Ada Lovelace (1815-1852).md",
@@ -253,7 +203,6 @@
     "College/Programming/Arrays - C.md",
     "College/Programming/Symbolic Names - C.md",
     "UNSORTED/Call Stack.md",
-    "College/Computer Architecture and Technology/Von Neumann Architecture.md",
     "Chats",
     "Other/Pasted image 20250210142701.png",
     "College/Computer Architecture and Technology",
