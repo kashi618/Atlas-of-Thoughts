@@ -92,14 +92,6 @@
     }
   ],
   "file-explorer:new-file": [],
-  "cm-typewriter-scroll-obsidian:toggle-typewriter-sroll-zen": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "T"
-    }
-  ],
   "gemmy:hide": [
     {
       "modifiers": [
@@ -114,6 +106,14 @@
         "Mod"
       ],
       "key": "Numpad9"
+    }
+  ],
+  "cm-typewriter-scroll-obsidian:toggle-typewriter-sroll": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
     }
   ]
 }
