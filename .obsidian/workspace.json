@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Operating Systems/Boot Process.md",
+                "file": "UNSORTED/EFI - UEFI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Boot Process"
+              "title": "EFI - UEFI"
             }
           },
           {
@@ -250,12 +250,14 @@
   },
   "active": "549601ec98216128",
   "lastOpenFiles": [
+    "College/Operating Systems/BIOS.md",
+    "UNSORTED/EFI - UEFI.md",
+    "College/Operating Systems/EFI.md",
+    "College/Operating Systems/Boot Process.md",
     "Other/Pasted image 20250212093913.png",
     "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Sep 26th 2024.md",
-    "College/Operating Systems/BIOS.md",
     "College/Operating Systems/ROM.md",
     "College/Operating Systems/POST.md",
-    "College/Operating Systems/Boot Process.md",
     "UNSORTED/POST.md",
     "College/Operating Systems/BIOS (NOT FINISHESD).md",
     "Home Page/Home.canvas",
@@ -276,7 +278,6 @@
     "Notes/Leaving Cert Classics.md",
     "College/Programming/Dereference Operators - C.md",
     "College/Programming/Pass by Value - Pass by Reference - C.md",
-    "College/Programming/Function Signatures - C.md",
     "Chats",
     "Other/Pasted image 20250210142701.png",
     "College/Computer Architecture and Technology",
@@ -295,7 +296,6 @@
     "College/TU856-1",
     "Other/Pasted image 20250105134746.png",
     "Other/Pasted image 20250105134414.png",
-    "Other/RTX4070 (mobile) Stock Kombustor.png",
-    "Other/RTX4070 (mobile) Voltage Frequency Curve.png"
+    "Other/RTX4070 (mobile) Stock Kombustor.png"
   ]
 }

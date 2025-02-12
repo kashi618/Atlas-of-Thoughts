@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "EFI - UEFI",
+      "path": "UNSORTED/EFI - UEFI.md"
+    },
+    {
+      "basename": "BIOS",
+      "path": "College/Operating Systems/BIOS.md"
+    },
+    {
+      "basename": "EFI",
+      "path": "College/Operating Systems/EFI.md"
+    },
+    {
       "basename": "Boot Process",
       "path": "College/Operating Systems/Boot Process.md"
     },
     {
       "basename": "CMPU 1012 - Sep 26th 2024",
       "path": "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Sep 26th 2024.md"
-    },
-    {
-      "basename": "BIOS",
-      "path": "College/Operating Systems/BIOS.md"
     },
     {
       "basename": "ROM",
@@ -191,14 +199,6 @@
     {
       "basename": "Iterative Euclidean Algorithm",
       "path": "College/Algorithm Design and Problem Solving/Iterative Euclidean Algorithm.md"
-    },
-    {
-      "basename": "Recursive Exponents Algorithm",
-      "path": "College/Algorithm Design and Problem Solving/Recursive Exponents Algorithm.md"
-    },
-    {
-      "basename": "Iterative Exponents Algorithm",
-      "path": "College/Algorithm Design and Problem Solving/Iterative Exponents Algorithm.md"
     }
   ],
   "omittedPaths": [],

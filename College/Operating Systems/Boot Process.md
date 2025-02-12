@@ -22,7 +22,15 @@ When the PC is restarted
 ### Standby
 - Non-essential devices turned off
 - Data in RAM maintained
-- 
+- For laptops, this means a small amount of battery power is used at all time
+- The computer boots up quickly, as all the data is readily accessible in RAM
+### Hibernate 
+- Lowest power usage state
+- All user data present in RAM is written to the hard disk by the OS
+- The computer is then fully "turned off", which saves battery/main power
+- When it is powered back on, all the data is moved back from hard disk back to RAM
+- Programs resume execution without knowing that the computer was powered off, (as program data is restored from the harddisk back into RAM)
+
 
 ## Boot Steps
 ![[Pasted image 20250212093913.png|600]]
