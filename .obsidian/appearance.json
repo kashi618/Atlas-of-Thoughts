@@ -13,5 +13,5 @@
   "translucency": false,
   "interfaceFontFamily": "",
   "monospaceFontFamily": "JetBrains Mono",
-  "showRibbon": true
+  "showRibbon": false
 }
