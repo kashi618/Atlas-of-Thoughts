@@ -1,4 +1,4 @@
-## Exercise 1
+## Question 1
 ### A) whoami
 This command returns back the name of the user
 ### B) who
@@ -7,7 +7,7 @@ This command returns back who is on the system
 ### C) w
 does nothing
 
-## Exercise 2
+## Question 2
 ### A) pwd
 Returns the absolute path of the current working directory name (print working directory)
 
@@ -29,7 +29,7 @@ Changes the current working directory to two directories before it
 ### G) cd
 Changes current working directory to the user's home directory
 
-## Exercise 3
+## Question 3
 ### A) echo hello world
 ```
 echo hello world
@@ -90,8 +90,60 @@ Clears/cleans the terminal
 du -hs ~
 21M     /home/nialj618
 ```
+Estimates file space usage for the home folder
 
 ### M) du -h ~
-Estimates the file space usage for the  home folder
-cp copy
-mv move
+Estimates the file space usage for the home folder, but shows the space usage of each file
+
+### N) df -h
+Estimates how much disk space is free and can be used
+
+## Question 4
+```
+touch text.txt
+
+mkdir Lab03
+
+cp -i ~/test.txt ~/Lab03/
+
+cd Lab03
+mkdir myDir1 myDir2
+
+cd myDir2
+
+mv ~/Lab03/test.txt ~/Lab03/myDir2
+
+ls -l
+
+mv test.txt happy.txt
+
+cd
+touch Listing.txt 
+
+who 1>> Listing.txt
+
+cat Listing.txt
+
+ls 1>> Listing.txt
+
+cat Listing.txt
+```
+
+## Question 5
+### A)
+`cat >> q5.txt`
+<ctrl + d>
+
+### B)
+`rm -i q5.txt`
+
+### C)
+`cat >> courses.txt`
+`hiiiiiiiiiii!`
+<ctrl + d>
+
+### D)
+`cat courses.txt`
+
+### E)
+`grep courses.txt`
