@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "OperatingSystems1-Lab3-C24510496",
+      "path": "College/Operating Systems/Exercises/OperatingSystems1-Lab3-C24510496.md"
+    },
+    {
       "basename": "Storage Classes - C",
       "path": "College/Programming/Storage Classes - C.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Ascii Tree Art",
       "path": "College/Algorithm Design and Problem Solving/CA Notes/Ascii Tree Art.md"
-    },
-    {
-      "basename": "Pseudocode",
-      "path": "Templates/Pseudocode.md"
     }
   ],
   "omittedPaths": [],
