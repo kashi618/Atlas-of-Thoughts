@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Timing",
-      "path": "College/Microprocessors Systems/Timing.md"
-    },
-    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Serial Communications",
+      "path": "College/Microprocessors Systems/Serial Communications.md"
+    },
+    {
+      "basename": "Timing",
+      "path": "College/Microprocessors Systems/Timing.md"
     },
     {
       "basename": "Unix Time - Year 2038 Problem",
@@ -195,10 +199,6 @@
     {
       "basename": "Computer Architecture",
       "path": "College/Computer Architecture and Technology/Computer Architecture.md"
-    },
-    {
-      "basename": "How to use Obsidian",
-      "path": "Notes/How to use Obsidian.md"
     }
   ],
   "omittedPaths": [],

@@ -20,10 +20,11 @@ As the 0 gets pass through the not gate, it turns into a 1. The 1 then gets pass
 - Hitting it with a hammer also produces piezo electricity
 - Can be cut to size, to get a specific frequency
 ![[Pasted image 20250210121514.png|250]]
-This type of clock is more stable, because the crystal creates a signal with a very percise frequency, at 32768 times per second. Then, we can use this crystal in conjunction with the oscillator 
+This type of clock is more stable, because the crystal creates a signal with a very precise frequency, at 32768 times per second. Then, we can use this crystal in conjunction with the oscillator from above, creating a timer.
 
 ## Calculating Timing
-If there was a 16MHz frequency, and a 16 million digit counter, it would take 1 second for it to count down.
+If the cpu is at 16MHz frequency, and it has a 16 million digit counter, it would take 1 second for it to count down.
+
 
 
 # See Also
