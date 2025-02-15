@@ -5,3 +5,4 @@ LibraryISBN: 1982150920 9781982150921
 LibraryCover: http://books.google.com/books/content?id=FMLvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 LibraryStatus: Finished
 ---
+Finished 2025,2,13
