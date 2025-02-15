@@ -5,3 +5,4 @@ LibraryISBN:
 LibraryCover: http://books.google.com/books/content?id=ARpoAwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 LibraryStatus: Finished
 ---
+Finished 2025,2,15
