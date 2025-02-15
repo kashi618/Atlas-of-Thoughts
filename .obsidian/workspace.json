@@ -17,7 +17,7 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": -240,
-                  "y": -45,
+                  "y": 50.8605122222079,
                   "zoom": -0.17522318969909376
                 }
               },
@@ -25,8 +25,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "df618b3958e2bdcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Library/Franz Kafka - Metamorphosis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Franz Kafka - Metamorphosis"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +97,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,13 +196,17 @@
       "obsidian-book-search-plugin:Create new book note": false,
       "widgets:Add widget": false,
       "quiz-generator:Open generator": false,
-      "obsidian-projects:Open projects": false,
-      "smart-random-note:Open Random Note from Search": false
+      "smart-random-note:Open Random Note from Search": false,
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "df618b3958e2bdcc",
   "lastOpenFiles": [
+    "Library/Franz Kafka - Metamorphosis and Other Stories.md",
+    "Library/Franz Kafka - Metamorphosis.md",
+    "Library/Sun Tzu - The Art of War.md",
     "Home Page/Home.canvas",
+    "Chats/New Chat.md",
     "College/Microprocessors Systems/Serial Communications.md",
     "College/Microprocessors Systems/Timing.md",
     "College/Microprocessors Systems/Unix Time - Year 2038 Problem.md",
@@ -205,10 +235,7 @@
     "College/Operating Systems/Exercises/asd.md",
     "Other/Pasted image 20250212141259.png",
     "Other/Pasted image 20250212141227.png",
-    "College/Programming/Storage Classes - C.md",
-    "Chats/New Chat.md",
     "Chats",
-    "College/Programming/Scope - C.md",
     "Other/Pasted image 20250212093913.png",
     "Other/Pasted image 20250210142701.png",
     "College/Computer Architecture and Technology",

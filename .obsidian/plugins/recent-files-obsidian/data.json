@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Franz Kafka - Metamorphosis and Other Stories - Copy",
+      "path": "Library/Franz Kafka - Metamorphosis and Other Stories - Copy.md"
+    },
+    {
+      "basename": "Franz Kafka - Metamorphosis and Other Stories",
+      "path": "Library/Franz Kafka - Metamorphosis and Other Stories.md"
+    },
+    {
+      "basename": "Sun Tzu - The Art of War",
+      "path": "Library/Sun Tzu - The Art of War.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -101,10 +113,6 @@
       "path": "College/Programming/Storage Classes - C.md"
     },
     {
-      "basename": "New Chat",
-      "path": "Chats/New Chat.md"
-    },
-    {
       "basename": "Scope - C",
       "path": "College/Programming/Scope - C.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Von Neumann Architecture",
       "path": "College/Computer Architecture and Technology/Von Neumann Architecture.md"
-    },
-    {
-      "basename": "CPU",
-      "path": "College/Computer Architecture and Technology/CPU.md"
-    },
-    {
-      "basename": "Computer Architecture",
-      "path": "College/Computer Architecture and Technology/Computer Architecture.md"
     }
   ],
   "omittedPaths": [],
