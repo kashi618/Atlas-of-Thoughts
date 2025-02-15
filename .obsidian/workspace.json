@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -17,9 +18,10 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -0.30630185973796326
+                  "zoom": -0.17522318969909376
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
@@ -174,9 +176,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
     "College/Microprocessors Systems/Serial Communications.md",
     "College/Microprocessors Systems/Timing.md",
-    "Home Page/Home.canvas",
     "College/Microprocessors Systems/Unix Time - Year 2038 Problem.md",
     "College/Microprocessors Systems/Volatile Variable.md",
     "College/Microprocessors Systems/Generating Random Numbers.md",
@@ -207,7 +209,6 @@
     "Chats/New Chat.md",
     "Chats",
     "College/Programming/Scope - C.md",
-    "UNSORTED/Scope.md",
     "Other/Pasted image 20250212093913.png",
     "Other/Pasted image 20250210142701.png",
     "College/Computer Architecture and Technology",
