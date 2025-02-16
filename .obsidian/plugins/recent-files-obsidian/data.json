@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Franz Kafka - Metamorphosis",
+      "path": "Library/Franz Kafka - Metamorphosis.md"
+    },
+    {
       "basename": "Franz Kafka - Metamorphosis and Other Stories - Copy",
       "path": "Library/Franz Kafka - Metamorphosis and Other Stories - Copy.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Sun Tzu - The Art of War",
       "path": "Library/Sun Tzu - The Art of War.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Serial Communications",
@@ -195,10 +199,6 @@
     {
       "basename": "Call Stack",
       "path": "UNSORTED/Call Stack.md"
-    },
-    {
-      "basename": "Von Neumann Architecture",
-      "path": "College/Computer Architecture and Technology/Von Neumann Architecture.md"
     }
   ],
   "omittedPaths": [],
