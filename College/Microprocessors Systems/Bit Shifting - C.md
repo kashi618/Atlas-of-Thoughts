@@ -1,12 +1,16 @@
 ---
 tags:
   - ComputerScience
+  - Bit-Shifting
 ---
 Bitshifting is when you move bits of a binary number to the left or the right
 
 ## Left Shifting
 ```
 (numberToBeShifted << howManyToShiftby)
+```
+```
+(3 << 2) = 12 v
 ```
 
 - This is when you shift a bit to the left, by a specific amount
@@ -24,5 +28,8 @@ x = (x << 2)
 // In decimal form, x is now 12
 ```
 
+## Bitwise AND - &
+The bitwise AND 
 
 # See Also
+[[Bitwise AND - & - C]]

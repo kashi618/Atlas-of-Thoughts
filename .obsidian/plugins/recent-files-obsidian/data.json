@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Bit Shifting",
-      "path": "College/Microprocessors Systems/Bit Shifting.md"
+      "basename": "Bit Shifting - C",
+      "path": "College/Microprocessors Systems/Bit Shifting - C.md"
+    },
+    {
+      "basename": "Bitwise AND - & - C",
+      "path": "College/Microprocessors Systems/Bitwise AND - & - C.md"
+    },
+    {
+      "basename": "Call Stack",
+      "path": "UNSORTED/Call Stack.md"
+    },
+    {
+      "basename": "EFI - UEFI",
+      "path": "UNSORTED/EFI - UEFI.md"
+    },
+    {
+      "basename": "Recursive Fibonacci Algorithm",
+      "path": "UNSORTED/Recursive Fibonacci Algorithm.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "UNSORTED/Untitled.md"
     },
     {
       "basename": "Home",
@@ -15,10 +35,6 @@
     {
       "basename": "Number to Ascii - C",
       "path": "College/Microprocessors Systems/Number to Ascii - C.md"
-    },
-    {
-      "basename": "& Operator - C UNFINISHED",
-      "path": "College/Microprocessors Systems/& Operator - C UNFINISHED.md"
     },
     {
       "basename": "Franz Kafka - Metamorphosis",
@@ -95,10 +111,6 @@
     {
       "basename": "OperatingSystems1-Lab3-C24510496",
       "path": "College/Operating Systems/Exercises/OperatingSystems1-Lab3-C24510496.md"
-    },
-    {
-      "basename": "EFI - UEFI",
-      "path": "UNSORTED/EFI - UEFI.md"
     },
     {
       "basename": "CMPU1018 Mathematics Winter 2020-2021 Exam Paper",
@@ -187,18 +199,6 @@
     {
       "basename": "POST",
       "path": "UNSORTED/POST.md"
-    },
-    {
-      "basename": "OperatingSystems1-Lab2-C24510496",
-      "path": "College/Operating Systems/Exercises/OperatingSystems1-Lab2-C24510496.md"
-    },
-    {
-      "basename": "Functions - C",
-      "path": "College/Programming/Functions - C.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "UNSORTED/Untitled.md"
     }
   ],
   "omittedPaths": [],
