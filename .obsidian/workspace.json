@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -1.3649140198530076
+                  "zoom": -0.3567268351032401
                 }
               },
               "pinned": true,
@@ -27,13 +27,27 @@
             }
           },
           {
-            "id": "941161704d4891f5",
+            "id": "666ab94515a30193",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
+              "type": "markdown",
+              "state": {
+                "file": "College/Microprocessors Systems/Microprocessor to Computer Connection.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Microprocessor to Computer Connection"
             }
           }
         ],
@@ -87,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.501522064209
+    "width": 277.501522064209,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -185,8 +200,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "941161704d4891f5",
+  "active": "666ab94515a30193",
   "lastOpenFiles": [
+    "College/Microprocessors Systems/Number to Ascii - C.md",
+    "College/Microprocessors Systems/Microprocessor to Computer Connection.md",
+    "College/Microprocessors Systems/& Operator - C UNFINISHED.md",
     "Home Page/Home.canvas",
     "Library/Franz Kafka - Metamorphosis.md",
     "Library/Franz Kafka - Metamorphosis and Other Stories.md",
@@ -214,8 +232,6 @@
     "PDF's/C Programming Language - 2nd Edition (OCR).pdf",
     "College/Microprocessors Systems/Bit Shifting.md",
     "College/Microprocessors Systems/GPIOA - GPIOB.md",
-    "College/Microprocessors Systems/C Variable Size Uncertainty.md",
-    "UNSORTED/Untitled 1.md",
     "Other/Pasted image 20250212145157.png",
     "Other/Pasted image 20250212141259.png",
     "Other/Pasted image 20250212141227.png",

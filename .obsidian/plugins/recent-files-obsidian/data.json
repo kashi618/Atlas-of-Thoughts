@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Microprocessor to Computer Connection",
+      "path": "College/Microprocessors Systems/Microprocessor to Computer Connection.md"
+    },
+    {
+      "basename": "Number to Ascii - C",
+      "path": "College/Microprocessors Systems/Number to Ascii - C.md"
+    },
+    {
+      "basename": "& Operator - C UNFINISHED",
+      "path": "College/Microprocessors Systems/& Operator - C UNFINISHED.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Untitled",
       "path": "UNSORTED/Untitled.md"
-    },
-    {
-      "basename": "Arrays - C",
-      "path": "College/Programming/Arrays - C.md"
-    },
-    {
-      "basename": "Symbolic Names - C",
-      "path": "College/Programming/Symbolic Names - C.md"
-    },
-    {
-      "basename": "Call Stack",
-      "path": "UNSORTED/Call Stack.md"
     }
   ],
   "omittedPaths": [],
