@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Microprocessor to Computer Connection",
       "path": "College/Microprocessors Systems/Microprocessor to Computer Connection.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "& Operator - C UNFINISHED",
       "path": "College/Microprocessors Systems/& Operator - C UNFINISHED.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Franz Kafka - Metamorphosis",
