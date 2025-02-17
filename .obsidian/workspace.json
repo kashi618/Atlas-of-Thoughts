@@ -25,8 +25,19 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "941161704d4891f5",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,12 +185,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "941161704d4891f5",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
     "Library/Franz Kafka - Metamorphosis.md",
     "Library/Franz Kafka - Metamorphosis and Other Stories.md",
     "Library/Sun Tzu - The Art of War.md",
-    "Home Page/Home.canvas",
     "Chats/New Chat.md",
     "College/Microprocessors Systems/Serial Communications.md",
     "College/Microprocessors Systems/Timing.md",
@@ -206,7 +217,6 @@
     "College/Microprocessors Systems/C Variable Size Uncertainty.md",
     "UNSORTED/Untitled 1.md",
     "Other/Pasted image 20250212145157.png",
-    "College/Operating Systems/Exercises/asd.md",
     "Other/Pasted image 20250212141259.png",
     "Other/Pasted image 20250212141227.png",
     "Chats",
