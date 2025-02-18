@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Decimal Places and Leading Zeros - C",
-      "path": "College/Programming/Decimal Places and Leading Zeros - C.md"
-    },
-    {
       "basename": "Functions - C",
       "path": "College/Programming/Functions - C.md"
+    },
+    {
+      "basename": "Passing Arrays - C",
+      "path": "College/Programming/Passing Arrays - C.md"
+    },
+    {
+      "basename": "Decimal Places and Leading Zeros - C",
+      "path": "College/Programming/Decimal Places and Leading Zeros - C.md"
     },
     {
       "basename": "Function Signatures - C",
@@ -111,10 +115,6 @@
     {
       "basename": "Operating System",
       "path": "College/Operating Systems/Operating System.md"
-    },
-    {
-      "basename": "Passing Arrays - C",
-      "path": "College/Programming/Passing Arrays - C.md"
     },
     {
       "basename": "Global and Local Variables - C",

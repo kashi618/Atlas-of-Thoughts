@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Programming/Decimal Places and Leading Zeros - C.md",
+                "file": "College/Programming/Functions - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Decimal Places and Leading Zeros - C"
+              "title": "Functions - C"
             }
           }
         ],
@@ -201,7 +201,9 @@
   },
   "active": "914c9b7f3f15530c",
   "lastOpenFiles": [
+    "College/Programming/Passing Arrays - C.md",
     "College/Programming/Functions - C.md",
+    "College/Programming/Decimal Places and Leading Zeros - C.md",
     "College/Programming/Function Signatures - C.md",
     "Home Page/Home.canvas",
     "College/Microprocessors Systems/Bit Shifting - C.md",
@@ -226,8 +228,6 @@
     "UNSORTED/Untitled 2.md",
     "College/Microprocessors Systems/Reset Handler.md",
     "College/Operating Systems/Drivers.md",
-    "College/Operating Systems/Hidden Files.md",
-    "Notes/Arch Linux - Installation.md",
     "PDF's/CMPU1018 Mathematics Winter 2020-2021 Exam Paper.pdf",
     "PDF's/All Tomorrows.pdf",
     "PDF's/C Programming Language - 2nd Edition (OCR).pdf",

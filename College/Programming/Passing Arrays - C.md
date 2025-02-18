@@ -14,7 +14,7 @@ tags:
 // Function Signature
 dataType arrayName(datatype []);
 ```
-- Doesn't need square brackets, as the OS knows that it is an array
+- Don't need to add size of the array
 
 ### Example
 ```c showlinenumbers {6,15,19}
