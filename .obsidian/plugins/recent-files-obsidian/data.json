@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "String Literal - C",
-      "path": "College/Programming/String Literal - C.md"
+      "basename": "Non-Null Terminated String - C",
+      "path": "College/Programming/Non-Null Terminated String - C.md"
+    },
+    {
+      "basename": "Strings and Arrays - C",
+      "path": "UNSORTED/Strings and Arrays - C.md"
+    },
+    {
+      "basename": "Escape Character - C",
+      "path": "College/Programming/Escape Character - C.md"
+    },
+    {
+      "basename": "Strings - C",
+      "path": "College/Programming/Strings - C.md"
     },
     {
       "basename": "Home",
