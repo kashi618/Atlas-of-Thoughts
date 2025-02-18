@@ -16,7 +16,7 @@ char greeting[6] = "Hello";
 printf("%s", greeting);
 ```
 
-## Left and Right Justifying Strings
+## String Delimeter Additions
 ### Left Justify
 This prints out the string, with 20 spaces on its left
 ```c showlinenumbers
@@ -31,7 +31,7 @@ char greeting[6] = "Hello";
 printf("%-20s", greeting);
 ```
 
-## Displaying Partial Strings
+### Displaying Partial Strings
 This would display the first three characters of the string
 ```c showlinenumbers
 char greeting[6] = "Hello";
