@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Decimal Places and Leading Zeros - C",
+      "path": "College/Programming/Decimal Places and Leading Zeros - C.md"
+    },
+    {
+      "basename": "Functions - C",
+      "path": "College/Programming/Functions - C.md"
+    },
+    {
+      "basename": "Function Signatures - C",
+      "path": "College/Programming/Function Signatures - C.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "CMPU 1012 - Sep 26th 2024",
       "path": "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Sep 26th 2024.md"
-    },
-    {
-      "basename": "ROM",
-      "path": "College/Operating Systems/ROM.md"
-    },
-    {
-      "basename": "POST",
-      "path": "College/Operating Systems/POST.md"
-    },
-    {
-      "basename": "POST",
-      "path": "UNSORTED/POST.md"
     }
   ],
   "omittedPaths": [],
