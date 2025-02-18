@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Bit Shifting - C",
       "path": "College/Microprocessors Systems/Bit Shifting - C.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Untitled",
       "path": "UNSORTED/Untitled.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Microprocessor to Computer Connection",
