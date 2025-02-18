@@ -6,6 +6,12 @@ tags:
 ---
 ## Strings and Arrays
 
+## scanf()
+For strings, you do not need an ampersand &
+```c showlinenumbers
+scanf("%s", stringArr);
+```
+- This is because `stringArr` is the same as writing the first element of the array `&stringArr[0]`
 
 ## Displaying Strings
 You do not need a loop to display strings, instead, you can use the `%s` delimeter
@@ -16,7 +22,7 @@ char greeting[6] = "Hello";
 printf("%s", greeting);
 ```
 
-## String Delimeter Additions
+## String Delimeter Information
 ### Left Justify
 This prints out the string, with 20 spaces on its left
 ```c showlinenumbers
@@ -37,7 +43,6 @@ This would display the first three characters of the string
 char greeting[6] = "Hello";
 printf("%.3s", greeting);
 ```
-
 
 ## String Literal
 Any sequence of characters, enclosed in **double quotes**.

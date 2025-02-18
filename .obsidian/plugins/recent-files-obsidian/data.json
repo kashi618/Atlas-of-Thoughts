@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
+      "basename": "puts() - gets() - C",
+      "path": "College/Programming/puts() - gets() - C.md"
     },
     {
-      "basename": "Strings - C",
-      "path": "College/Programming/Strings - C.md"
+      "basename": "Strings - C (SEPARATE SOME STUFF)",
+      "path": "College/Programming/Strings - C (SEPARATE SOME STUFF).md"
+    },
+    {
+      "basename": "Arrays - C",
+      "path": "College/Programming/Arrays - C.md"
+    },
+    {
+      "basename": "Delimeters - C",
+      "path": "College/Programming/Delimeters - C.md"
+    },
+    {
+      "basename": "TU856-1 Semester 2 Results",
+      "path": "College/TU856-1/TU856-1 Semester 2 Results.md"
+    },
+    {
+      "basename": "Storing Data in Variables - C",
+      "path": "College/Programming/Storing Data in Variables - C.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Strings and Arrays - C",
@@ -179,26 +199,6 @@
     {
       "basename": "CAT - Linux",
       "path": "College/Operating Systems/CAT - Linux.md"
-    },
-    {
-      "basename": "STDIN-STDOUT-STDERR",
-      "path": "College/Operating Systems/STDIN-STDOUT-STDERR.md"
-    },
-    {
-      "basename": "BIOS",
-      "path": "College/Operating Systems/BIOS.md"
-    },
-    {
-      "basename": "BIOS (NOT FINISHESD)",
-      "path": "College/Operating Systems/BIOS (NOT FINISHESD).md"
-    },
-    {
-      "basename": "Ada Lovelace (1815-1852)",
-      "path": "College/Operating Systems/Ada Lovelace (1815-1852).md"
-    },
-    {
-      "basename": "CLI",
-      "path": "College/Operating Systems/CLI.md"
     }
   ],
   "omittedPaths": [],
