@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "String Literal - C",
+      "path": "College/Programming/String Literal - C.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "POST",
+      "path": "College/Operating Systems/POST.md"
+    },
+    {
+      "basename": "Call Stack",
+      "path": "College/Algorithm Design and Problem Solving/Call Stack.md"
+    },
+    {
+      "basename": "EFI - UEFI",
+      "path": "College/Operating Systems/EFI - UEFI.md"
+    },
+    {
+      "basename": "Recursive Fibonacci Algorithm",
+      "path": "College/Algorithm Design and Problem Solving/Recursive Fibonacci Algorithm.md"
+    },
+    {
       "basename": "Functions - C",
       "path": "College/Programming/Functions - C.md"
     },
@@ -17,32 +41,12 @@
       "path": "College/Programming/Function Signatures - C.md"
     },
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
-    },
-    {
       "basename": "Bit Shifting - C",
       "path": "College/Microprocessors Systems/Bit Shifting - C.md"
     },
     {
       "basename": "Bitwise AND - & - C",
       "path": "College/Microprocessors Systems/Bitwise AND - & - C.md"
-    },
-    {
-      "basename": "Call Stack",
-      "path": "UNSORTED/Call Stack.md"
-    },
-    {
-      "basename": "EFI - UEFI",
-      "path": "UNSORTED/EFI - UEFI.md"
-    },
-    {
-      "basename": "Recursive Fibonacci Algorithm",
-      "path": "UNSORTED/Recursive Fibonacci Algorithm.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "UNSORTED/Untitled.md"
     },
     {
       "basename": "Microprocessor to Computer Connection",
@@ -93,10 +97,6 @@
       "path": "College/Microprocessors Systems/Counter.md"
     },
     {
-      "basename": "Untitled 2",
-      "path": "UNSORTED/Untitled 2.md"
-    },
-    {
       "basename": "Reset Handler",
       "path": "College/Microprocessors Systems/Reset Handler.md"
     },
@@ -145,10 +145,6 @@
       "path": "College/Microprocessors Systems/C Variable Size Uncertainty.md"
     },
     {
-      "basename": "Untitled 1",
-      "path": "UNSORTED/Untitled 1.md"
-    },
-    {
       "basename": "Storage Classes - C",
       "path": "College/Programming/Storage Classes - C.md"
     },
@@ -191,14 +187,6 @@
     {
       "basename": "CLI",
       "path": "College/Operating Systems/CLI.md"
-    },
-    {
-      "basename": "Boot Process",
-      "path": "College/Operating Systems/Boot Process.md"
-    },
-    {
-      "basename": "CMPU 1012 - Sep 26th 2024",
-      "path": "College/Unsorted Notes/CMPU 1012 - IT Fundamentals/CMPU 1012 - Sep 26th 2024.md"
     }
   ],
   "omittedPaths": [],

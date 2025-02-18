@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "914c9b7f3f15530c",
+            "id": "ace84f2afe92af66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Programming/Functions - C.md",
+                "file": "College/Programming/String Literal - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Functions - C"
+              "title": "String Literal - C"
             }
           }
         ],
@@ -199,19 +199,24 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "914c9b7f3f15530c",
+  "active": "ace84f2afe92af66",
   "lastOpenFiles": [
-    "College/Programming/Passing Arrays - C.md",
+    "Home Page/Home.canvas",
+    "College/Programming/String Literal - C.md",
+    "UNSORTED/Untitled 2.md",
+    "UNSORTED/Untitled 1.md",
+    "UNSORTED/Untitled.md",
+    "College/Operating Systems/POST.md",
+    "UNSORTED/POST.md",
+    "College/Algorithm Design and Problem Solving/Call Stack.md",
+    "College/Operating Systems/EFI - UEFI.md",
+    "College/Algorithm Design and Problem Solving/Recursive Fibonacci Algorithm.md",
     "College/Programming/Functions - C.md",
+    "College/Programming/Passing Arrays - C.md",
     "College/Programming/Decimal Places and Leading Zeros - C.md",
     "College/Programming/Function Signatures - C.md",
-    "Home Page/Home.canvas",
     "College/Microprocessors Systems/Bit Shifting - C.md",
     "College/Microprocessors Systems/Bitwise AND - & - C.md",
-    "UNSORTED/Call Stack.md",
-    "UNSORTED/EFI - UEFI.md",
-    "UNSORTED/Recursive Fibonacci Algorithm.md",
-    "UNSORTED/Untitled.md",
     "College/Microprocessors Systems/& Operator - C UNFINISHED.md",
     "College/Microprocessors Systems/Microprocessor to Computer Connection.md",
     "College/Microprocessors Systems/Number to Ascii - C.md",
@@ -222,12 +227,6 @@
     "College/Microprocessors Systems/Serial Communications.md",
     "College/Microprocessors Systems/Timing.md",
     "College/Microprocessors Systems/Unix Time - Year 2038 Problem.md",
-    "College/Microprocessors Systems/Volatile Variable.md",
-    "College/Microprocessors Systems/Generating Random Numbers.md",
-    "College/Microprocessors Systems/Counter.md",
-    "UNSORTED/Untitled 2.md",
-    "College/Microprocessors Systems/Reset Handler.md",
-    "College/Operating Systems/Drivers.md",
     "PDF's/CMPU1018 Mathematics Winter 2020-2021 Exam Paper.pdf",
     "PDF's/All Tomorrows.pdf",
     "PDF's/C Programming Language - 2nd Edition (OCR).pdf",
