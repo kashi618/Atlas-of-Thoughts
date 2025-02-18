@@ -19,5 +19,19 @@ char greeting[6] = {'h', 'e', 'l', 'l', 'o', '\0'};
 char greeting[6] = "Hello";
 ```
 
+## Size of Array is Bigger than String
+If you declare more elements in the array then you need to use, then the compiler will fill the extra spaces with the NULL character
+```
+char greeting[10] = "Hello"
+```
+This is what it looks like in memory
+
+| 'h' | 'e' | 'l' | 'l' | '0' | '\0' | '\0' | '\0' | '\0' | '\0' |
+| --- | --- | --- | --- | --- | ---- | ---- | ---- | ---- | ---- |
+
+## BUGS
+What happens when the size of the array isn't big enough to store the NULL character
+[[Non-Null Terminated String - C]]
+
 # See Also
 [[Strings - C]]

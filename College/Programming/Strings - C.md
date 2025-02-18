@@ -4,6 +4,41 @@ tags:
   - Strings
   - Escape-Characters
 ---
+## Strings and Arrays
+
+
+## Displaying Strings
+You do not need a loop to display strings, instead, you can use the `%s` delimeter
+
+### Example
+```c showlinenumbers
+char greeting[6] = "Hello";
+printf("%s", greeting);
+```
+
+## Left and Right Justifying Strings
+### Left Justify
+This prints out the string, with 20 spaces on its left
+```c showlinenumbers
+char greeting[6] = "Hello";
+printf("%20s", greeting);
+```
+
+### Right Justify
+This prints out the string, with 20 spaces on the right
+```c showlinenumbers
+char greeting[6] = "Hello";
+printf("%-20s", greeting);
+```
+
+## Displaying Partial Strings
+This would display the first three characters of the string
+```c showlinenumbers
+char greeting[6] = "Hello";
+printf("%.3s", greeting);
+```
+
+
 ## String Literal
 Any sequence of characters, enclosed in **double quotes**.
 A string literal ends with a "NULL character/NULL terminator"

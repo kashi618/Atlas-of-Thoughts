@@ -56,7 +56,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Programming/Non-Null Terminated String - C.md",
+                "file": "UNSORTED/Strings and Arrays - C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Strings and Arrays - C"
+            }
+          },
+          {
+            "id": "34031288f889a24c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Programming/Strings - C.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -71,11 +95,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Non-Null Terminated String - C"
+              "title": "Strings - C"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -224,12 +248,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "66c264f7e5b74e69",
+  "active": "34031288f889a24c",
   "lastOpenFiles": [
     "UNSORTED/Strings and Arrays - C.md",
+    "College/Programming/Strings - C.md",
     "College/Programming/Non-Null Terminated String - C.md",
     "College/Programming/Escape Character - C.md",
-    "College/Programming/Strings - C.md",
     "Home Page/Home.canvas",
     "UNSORTED/Untitled 2.md",
     "UNSORTED/Untitled 1.md",
