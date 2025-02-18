@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -20,6 +21,7 @@
                   "zoom": -0.3567268351032401
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
@@ -174,11 +176,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
     "College/Programming/Strings - C.md",
     "UNSORTED/Strings and Arrays - C.md",
     "College/Programming/Non-Null Terminated String - C.md",
     "College/Programming/Escape Character - C.md",
-    "Home Page/Home.canvas",
     "UNSORTED/Untitled 2.md",
     "UNSORTED/Untitled 1.md",
     "UNSORTED/Untitled.md",
@@ -200,7 +202,6 @@
     "Library/Franz Kafka - Metamorphosis and Other Stories.md",
     "Library/Sun Tzu - The Art of War.md",
     "Chats/New Chat.md",
-    "College/Microprocessors Systems/Serial Communications.md",
     "PDF's/CMPU1018 Mathematics Winter 2020-2021 Exam Paper.pdf",
     "PDF's/All Tomorrows.pdf",
     "PDF's/C Programming Language - 2nd Edition (OCR).pdf",
