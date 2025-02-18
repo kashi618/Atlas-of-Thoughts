@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Programming/Printing Out Strings - puts() - gets() - C.md",
+                "file": "UNSORTED/Reading Strings - gets() - C.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Printing Out Strings - puts() - gets() - C"
+              "title": "Reading Strings - gets() - C"
             }
           },
           {
@@ -56,9 +56,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Programming/Strings - C (SEPARATE SOME STUFF).md",
+                "file": "College/Programming/Printing Out Strings - puts() - C.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -71,7 +71,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Strings - C (SEPARATE SOME STUFF)"
+              "title": "Printing Out Strings - puts() - C"
             }
           },
           {
@@ -250,8 +250,9 @@
   },
   "active": "d82e93c546b11e86",
   "lastOpenFiles": [
+    "College/Programming/Printing Out Strings - puts() - C.md",
     "College/Programming/Strings - C (SEPARATE SOME STUFF).md",
-    "College/Programming/Printing Out Strings - puts() - gets() - C.md",
+    "UNSORTED/Reading Strings - gets() - C.md",
     "College/Programming/Arrays - C.md",
     "College/Programming/Delimeters - C.md",
     "College/TU856-1/TU856-1 Semester 2 Results.md",
@@ -276,7 +277,6 @@
     "College/Microprocessors Systems/Bitwise AND - & - C.md",
     "College/Microprocessors Systems/& Operator - C UNFINISHED.md",
     "College/Microprocessors Systems/Microprocessor to Computer Connection.md",
-    "College/Microprocessors Systems/Number to Ascii - C.md",
     "PDF's/CMPU1018 Mathematics Winter 2020-2021 Exam Paper.pdf",
     "PDF's/All Tomorrows.pdf",
     "PDF's/C Programming Language - 2nd Edition (OCR).pdf",

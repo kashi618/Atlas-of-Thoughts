@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "puts() - gets() - C",
-      "path": "College/Programming/puts() - gets() - C.md"
+      "basename": "Reading Strings - gets() - C",
+      "path": "UNSORTED/Reading Strings - gets() - C.md"
+    },
+    {
+      "basename": "Printing Out Strings - puts() - C",
+      "path": "College/Programming/Printing Out Strings - puts() - C.md"
     },
     {
       "basename": "Strings - C (SEPARATE SOME STUFF)",
@@ -195,10 +199,6 @@
     {
       "basename": "Pass by Value - Pass by Reference - C",
       "path": "College/Programming/Pass by Value - Pass by Reference - C.md"
-    },
-    {
-      "basename": "CAT - Linux",
-      "path": "College/Operating Systems/CAT - Linux.md"
     }
   ],
   "omittedPaths": [],
