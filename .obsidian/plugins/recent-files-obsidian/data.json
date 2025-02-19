@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "MAN Install Script",
+      "path": "College/Operating Systems/MAN Install Script.md"
+    },
+    {
       "basename": "vim",
       "path": "College/Operating Systems/vim.md"
     },
     {
       "basename": "chmod - Linux NONE",
       "path": "College/Operating Systems/chmod - Linux NONE.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Reading Strings - gets() - C",
@@ -195,10 +199,6 @@
     {
       "basename": "Scope - C",
       "path": "College/Programming/Scope - C.md"
-    },
-    {
-      "basename": "Variable Naming Schemes",
-      "path": "College/Programming/Variable Naming Schemes.md"
     }
   ],
   "omittedPaths": [],
