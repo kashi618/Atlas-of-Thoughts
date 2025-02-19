@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -20,11 +21,61 @@
                   "zoom": -1.7901528319826658
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "acc4e95666ce0dcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Microprocessors Systems/Micro.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Micro"
+            }
+          },
+          {
+            "id": "e4dfaa7ac889372e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Microprocessors Systems/Converting Binary and Hexadecimal.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Converting Binary and Hexadecimal"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,10 +223,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e4dfaa7ac889372e",
   "lastOpenFiles": [
-    "College/Operating Systems/vim.md",
+    "College/Microprocessors Systems/Converting Binary and Hexadecimal.md",
+    "College/Microprocessors Systems/Micro.md",
     "Home Page/Home.canvas",
+    "College/Operating Systems/vim.md",
     "College/Data Exploration/Structured and Unstructured Data.md",
     "College/Operating Systems/MAN Install Script.md",
     "College/Operating Systems/chmod - Linux NONE.md",
@@ -199,7 +252,6 @@
     "College/Algorithm Design and Problem Solving/Recursive Fibonacci Algorithm.md",
     "College/Programming/Functions - C.md",
     "College/Programming/Passing Arrays - C.md",
-    "College/Programming/Decimal Places and Leading Zeros - C.md",
     "PDF's/CMPU1018 Mathematics Winter 2020-2021 Exam Paper.pdf",
     "PDF's/All Tomorrows.pdf",
     "PDF's/C Programming Language - 2nd Edition (OCR).pdf",

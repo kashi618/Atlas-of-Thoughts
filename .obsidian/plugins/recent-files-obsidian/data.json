@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Converting Binary and Hexadecimal",
+      "path": "College/Microprocessors Systems/Converting Binary and Hexadecimal.md"
+    },
+    {
+      "basename": "Micro",
+      "path": "College/Microprocessors Systems/Micro.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "GPIOA - GPIOB",
       "path": "College/Microprocessors Systems/GPIOA - GPIOB.md"
-    },
-    {
-      "basename": "C Variable Size Uncertainty",
-      "path": "College/Microprocessors Systems/C Variable Size Uncertainty.md"
-    },
-    {
-      "basename": "Storage Classes - C",
-      "path": "College/Programming/Storage Classes - C.md"
     }
   ],
   "omittedPaths": [],
