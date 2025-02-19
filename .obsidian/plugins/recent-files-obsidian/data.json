@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Reading Strings - gets() - C",
       "path": "UNSORTED/Reading Strings - gets() - C.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Storing Data in Variables - C",
       "path": "College/Programming/Storing Data in Variables - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Strings and Arrays - C",
