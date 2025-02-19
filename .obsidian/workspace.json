@@ -56,7 +56,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Microprocessors Systems/Converting Binary and Hexadecimal.md",
+                "file": "College/Microprocessors Systems/Bit-shifting and Masks(UNFINISHED) - c.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bit-shifting and Masks(UNFINISHED) - c"
+            }
+          },
+          {
+            "id": "3a51d473fd868e76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Microprocessors Systems/Little Endian - Big Endian.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,11 +95,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Converting Binary and Hexadecimal"
+              "title": "Little Endian - Big Endian"
+            }
+          },
+          {
+            "id": "668293aeb3a67655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Microprocessors Systems/Pull-up Resistor.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Pull-up Resistor"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -223,8 +271,15 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e4dfaa7ac889372e",
+  "active": "668293aeb3a67655",
   "lastOpenFiles": [
+    "Other/Pasted image 20250219165205.png",
+    "Other/Pasted image 20250219165204.png",
+    "College/Microprocessors Systems/Pull-up Resistor.md",
+    "College/Microprocessors Systems/Bit-shifting and Masks(UNFINISHED) - c.md",
+    "College/Microprocessors Systems/Synchronous and Asynchronous Serial  Communications.md",
+    "College/Microprocessors Systems/Little Endian - Big Endian.md",
+    "College/Microprocessors Systems/Microcontrollers.md",
     "College/Microprocessors Systems/Converting Binary and Hexadecimal.md",
     "College/Microprocessors Systems/Micro.md",
     "Home Page/Home.canvas",
@@ -246,12 +301,6 @@
     "UNSORTED/Untitled 1.md",
     "UNSORTED/Untitled.md",
     "College/Operating Systems/POST.md",
-    "UNSORTED/POST.md",
-    "College/Algorithm Design and Problem Solving/Call Stack.md",
-    "College/Operating Systems/EFI - UEFI.md",
-    "College/Algorithm Design and Problem Solving/Recursive Fibonacci Algorithm.md",
-    "College/Programming/Functions - C.md",
-    "College/Programming/Passing Arrays - C.md",
     "PDF's/CMPU1018 Mathematics Winter 2020-2021 Exam Paper.pdf",
     "PDF's/All Tomorrows.pdf",
     "PDF's/C Programming Language - 2nd Edition (OCR).pdf",
@@ -270,7 +319,6 @@
     "College/Data Exploration",
     "College/Operating Systems/Exercises",
     "College/Algorithm Design and Problem Solving",
-    "College/Operating Systems",
-    "Other/Pasted image 20250127120941.png"
+    "College/Operating Systems"
   ]
 }

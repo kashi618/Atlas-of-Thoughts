@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Pull-up Resistor",
+      "path": "College/Microprocessors Systems/Pull-up Resistor.md"
+    },
+    {
+      "basename": "Bit-shifting and Masks(UNFINISHED) - c",
+      "path": "College/Microprocessors Systems/Bit-shifting and Masks(UNFINISHED) - c.md"
+    },
+    {
+      "basename": "Synchronous and Asynchronous Serial  Communications",
+      "path": "College/Microprocessors Systems/Synchronous and Asynchronous Serial  Communications.md"
+    },
+    {
+      "basename": "Little Endian - Big Endian",
+      "path": "College/Microprocessors Systems/Little Endian - Big Endian.md"
+    },
+    {
+      "basename": "Microcontrollers",
+      "path": "College/Microprocessors Systems/Microcontrollers.md"
+    },
+    {
       "basename": "Converting Binary and Hexadecimal",
       "path": "College/Microprocessors Systems/Converting Binary and Hexadecimal.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Global and Local Variables - C",
       "path": "College/Programming/Global and Local Variables - C.md"
-    },
-    {
-      "basename": "OperatingSystems1-Lab3-C24510496",
-      "path": "College/Operating Systems/Exercises/OperatingSystems1-Lab3-C24510496.md"
-    },
-    {
-      "basename": "CMPU1018 Mathematics Winter 2020-2021 Exam Paper",
-      "path": "PDF's/CMPU1018 Mathematics Winter 2020-2021 Exam Paper.pdf"
-    },
-    {
-      "basename": "All Tomorrows",
-      "path": "PDF's/All Tomorrows.pdf"
-    },
-    {
-      "basename": "C Programming Language - 2nd Edition (OCR)",
-      "path": "PDF's/C Programming Language - 2nd Edition (OCR).pdf"
-    },
-    {
-      "basename": "GPIOA - GPIOB",
-      "path": "College/Microprocessors Systems/GPIOA - GPIOB.md"
     }
   ],
   "omittedPaths": [],
