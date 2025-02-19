@@ -25,105 +25,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "acc4e95666ce0dcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Microprocessors Systems/Micro.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Micro"
-            }
-          },
-          {
-            "id": "e4dfaa7ac889372e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Microprocessors Systems/Bit-shifting and Masks(UNFINISHED) - c.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Bit-shifting and Masks(UNFINISHED) - c"
-            }
-          },
-          {
-            "id": "3a51d473fd868e76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Microprocessors Systems/Little Endian - Big Endian.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Little Endian - Big Endian"
-            }
-          },
-          {
-            "id": "668293aeb3a67655",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Microprocessors Systems/Pull-up Resistor.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pull-up Resistor"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,11 +174,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "668293aeb3a67655",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "College/Microprocessors Systems/Pull-up Resistor.md",
     "Other/Pasted image 20250219165205.png",
     "Other/Pasted image 20250219165204.png",
-    "College/Microprocessors Systems/Pull-up Resistor.md",
     "College/Microprocessors Systems/Bit-shifting and Masks(UNFINISHED) - c.md",
     "College/Microprocessors Systems/Synchronous and Asynchronous Serial  Communications.md",
     "College/Microprocessors Systems/Little Endian - Big Endian.md",
@@ -315,7 +218,6 @@
     "Other/Pasted image 20250210121514.png",
     "Other/Pasted image 20250210120939.png",
     "College/Algorithm Design and Problem Solving/CA Notes",
-    "Other/Pasted image 20250207115824.png",
     "College/Data Exploration",
     "College/Operating Systems/Exercises",
     "College/Algorithm Design and Problem Solving",

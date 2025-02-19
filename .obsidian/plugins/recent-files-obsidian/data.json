@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Pull-up Resistor",
       "path": "College/Microprocessors Systems/Pull-up Resistor.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Micro",
       "path": "College/Microprocessors Systems/Micro.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "vim",
