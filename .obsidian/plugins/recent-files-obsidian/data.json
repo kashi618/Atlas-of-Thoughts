@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "vim",
+      "path": "College/Operating Systems/vim.md"
+    },
+    {
+      "basename": "chmod - Linux NONE",
+      "path": "College/Operating Systems/chmod - Linux NONE.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Variable Naming Schemes",
       "path": "College/Programming/Variable Naming Schemes.md"
-    },
-    {
-      "basename": "CMPU 1025 - Sep 18th 2024",
-      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 18th 2024.md"
-    },
-    {
-      "basename": "Pass by Value - Pass by Reference - C",
-      "path": "College/Programming/Pass by Value - Pass by Reference - C.md"
     }
   ],
   "omittedPaths": [],

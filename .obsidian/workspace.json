@@ -27,15 +27,27 @@
             }
           },
           {
-            "id": "0d22159a460db644",
+            "id": "a83635648dd3e99f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "College/Operating Systems/vim.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "vim"
             }
           }
         ],
@@ -187,8 +199,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "0d22159a460db644",
+  "active": "a83635648dd3e99f",
   "lastOpenFiles": [
+    "College/Operating Systems/chmod - Linux NONE.md",
+    "College/Operating Systems/vim.md",
     "Home Page/Home.canvas",
     "UNSORTED/Reading Strings - gets() - C.md",
     "College/Programming/Printing Out Strings - puts() - C.md",
@@ -214,7 +228,6 @@
     "College/Programming/Function Signatures - C.md",
     "College/Microprocessors Systems/Bit Shifting - C.md",
     "College/Microprocessors Systems/Bitwise AND - & - C.md",
-    "College/Microprocessors Systems/& Operator - C UNFINISHED.md",
     "PDF's/CMPU1018 Mathematics Winter 2020-2021 Exam Paper.pdf",
     "PDF's/All Tomorrows.pdf",
     "PDF's/C Programming Language - 2nd Edition (OCR).pdf",
