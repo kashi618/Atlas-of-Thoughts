@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Structured and Unstructured Data",
+      "path": "College/Data Exploration/Structured and Unstructured Data.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Storage Classes - C",
       "path": "College/Programming/Storage Classes - C.md"
-    },
-    {
-      "basename": "Scope - C",
-      "path": "College/Programming/Scope - C.md"
     }
   ],
   "omittedPaths": [],
