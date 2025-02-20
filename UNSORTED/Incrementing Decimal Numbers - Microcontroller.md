@@ -19,10 +19,12 @@ void printDecimal(uint32_t Value)
 	// Count down from the index, going right to left
 	while (index >= 0)
 	{
-		DecimalString[index] = (Value % 10) + '0';
+		// You offset the value by 48, which is the same as '0'
+		DecimalString[index] = (Value % 10) + '0'; 
 		Value = Value / 10;
 		index--;
 	}
+	
 	eputs(DecimalString);
 }
 ```
@@ -50,36 +52,40 @@ void printDecimal(uint32_t Value)
 {
 	// Creates a 11 bit long string
 	char DecimalString[11];
-	
+
 	// Sets the last index, as the ending point
 	// (0 in ascii is the NULL character)
 	DecimalString[10] = 0;
-	
+
 	// Start at the 9th index
 	int index = 9;
-	
+
 	// Count down from the index, going right to left
 	while (index >= 0)
 	{
+
 		DecimalString[index] = (Value % 10) + '0';
 		Value = Value / 10;
 		index--;
 	}
-	
+
 	// Find out where the first non-zero character  is
 	int leadingZeroIndex = 0;
-	int leaveFlag=0;
-	while (leaveFlag == 0) {
-		if (DecimalString[leadingZeroIndex] == 40 ) {
+	int leaveFlag = 0;
+	while (leaveFlag == 0)
+	{
+		if (DecimalString[leadingZeroIndex] == 48)
+		{
 			// Do nothing
 		}
-		else {
+		else
+		{
 			// Leave while loop by updating flag
-			leaveFlag =1;
+			leaveFlag = 1;
 		}
-		leadingZeroIndex++
+		leadingZeroIndex++;
 	}
-	eputs(DecimalString[leadingZeroIndex - 1]);
+	eputs(&DecimalString[leadingZeroIndex - 1]);
 }
 ```
 

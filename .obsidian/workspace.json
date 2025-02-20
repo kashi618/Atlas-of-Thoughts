@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -18,64 +17,14 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -1.7901528319826658
+                  "zoom": -0.3567268351032401
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "d8349c89977908ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNSORTED/Incrementing Decimal Numbers - Microcontroller.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Incrementing Decimal Numbers - Microcontroller"
-            }
-          },
-          {
-            "id": "4102bb1fe23208e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNSORTED/Incrementing Hexadecimal Numbers - Microcontroller.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Incrementing Hexadecimal Numbers - Microcontroller"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,8 +172,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "4102bb1fe23208e7",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "UNSORTED/Keyboard Input - Microprocessors.md",
     "UNSORTED/Incrementing Decimal Numbers - Microcontroller.md",
     "UNSORTED/Incrementing Hexadecimal Numbers - Microcontroller.md",
     "College/Microprocessors Systems/Serial Communications.md",
@@ -253,7 +203,6 @@
     "College/Programming/Storing Data in Variables - C.md",
     "UNSORTED/Strings and Arrays - C.md",
     "College/Programming/Non-Null Terminated String - C.md",
-    "College/Programming/Escape Character - C.md",
     "PDF's/CMPU1018 Mathematics Winter 2020-2021 Exam Paper.pdf",
     "PDF's/All Tomorrows.pdf",
     "PDF's/C Programming Language - 2nd Edition (OCR).pdf",

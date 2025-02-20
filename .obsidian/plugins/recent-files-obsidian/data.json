@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Incrementing Hexadecimal Numbers - Microcontroller",
-      "path": "UNSORTED/Incrementing Hexadecimal Numbers - Microcontroller.md"
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Keyboard Input - Microprocessors",
+      "path": "UNSORTED/Keyboard Input - Microprocessors.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "UNSORTED/Untitled.md"
     },
     {
       "basename": "Incrementing Decimal Numbers - Microcontroller",
       "path": "UNSORTED/Incrementing Decimal Numbers - Microcontroller.md"
     },
     {
-      "basename": "Serial Communications",
-      "path": "College/Microprocessors Systems/Serial Communications.md"
+      "basename": "Incrementing Hexadecimal Numbers - Microcontroller",
+      "path": "UNSORTED/Incrementing Hexadecimal Numbers - Microcontroller.md"
     },
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
+      "basename": "Serial Communications",
+      "path": "College/Microprocessors Systems/Serial Communications.md"
     },
     {
       "basename": "Serial Communications",
@@ -191,14 +199,6 @@
     {
       "basename": "Reset Handler",
       "path": "College/Microprocessors Systems/Reset Handler.md"
-    },
-    {
-      "basename": "Drivers",
-      "path": "College/Operating Systems/Drivers.md"
-    },
-    {
-      "basename": "Hidden Files",
-      "path": "College/Operating Systems/Hidden Files.md"
     }
   ],
   "omittedPaths": [],
