@@ -27,36 +27,36 @@
             }
           },
           {
-            "id": "324b0d1b52f325f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Microprocessors Systems/UART.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "UART"
-            }
-          },
-          {
             "id": "d8349c89977908ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Microprocessors Systems/Serial Communications.md",
+                "file": "UNSORTED/Incrementing Decimal Numbers - Microcontroller.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Incrementing Decimal Numbers - Microcontroller"
+            }
+          },
+          {
+            "id": "4102bb1fe23208e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNSORTED/Incrementing Hexadecimal Numbers - Microcontroller.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,7 +71,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Serial Communications"
+              "title": "Incrementing Hexadecimal Numbers - Microcontroller"
             }
           }
         ],
@@ -223,11 +223,14 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "d8349c89977908ce",
+  "active": "4102bb1fe23208e7",
   "lastOpenFiles": [
-    "UNSORTED/Serial Communications.md",
-    "College/Microprocessors Systems/UART.md",
+    "UNSORTED/Incrementing Decimal Numbers - Microcontroller.md",
+    "UNSORTED/Incrementing Hexadecimal Numbers - Microcontroller.md",
+    "College/Microprocessors Systems/Serial Communications.md",
     "Home Page/Home.canvas",
+    "College/Microprocessors Systems/UART.md",
+    "UNSORTED/Serial Communications.md",
     "College/Microprocessors Systems/Pull-up Resistor.md",
     "Other/Pasted image 20250219165205.png",
     "Other/Pasted image 20250219165204.png",
@@ -251,8 +254,6 @@
     "UNSORTED/Strings and Arrays - C.md",
     "College/Programming/Non-Null Terminated String - C.md",
     "College/Programming/Escape Character - C.md",
-    "UNSORTED/Untitled 2.md",
-    "UNSORTED/Untitled 1.md",
     "PDF's/CMPU1018 Mathematics Winter 2020-2021 Exam Paper.pdf",
     "PDF's/All Tomorrows.pdf",
     "PDF's/C Programming Language - 2nd Edition (OCR).pdf",

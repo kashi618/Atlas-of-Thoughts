@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Incrementing Hexadecimal Numbers - Microcontroller",
+      "path": "UNSORTED/Incrementing Hexadecimal Numbers - Microcontroller.md"
+    },
+    {
+      "basename": "Incrementing Decimal Numbers - Microcontroller",
+      "path": "UNSORTED/Incrementing Decimal Numbers - Microcontroller.md"
+    },
+    {
       "basename": "Serial Communications",
       "path": "College/Microprocessors Systems/Serial Communications.md"
     },
     {
-      "basename": "Serial Communications",
-      "path": "UNSORTED/Serial Communications.md"
-    },
-    {
-      "basename": "UART",
-      "path": "College/Microprocessors Systems/UART.md"
-    },
-    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Serial Communications",
+      "path": "UNSORTED/Serial Communications.md"
     },
     {
       "basename": "Pull-up Resistor",
@@ -195,10 +199,6 @@
     {
       "basename": "Hidden Files",
       "path": "College/Operating Systems/Hidden Files.md"
-    },
-    {
-      "basename": "Arch Linux - Installation",
-      "path": "Notes/Arch Linux - Installation.md"
     }
   ],
   "omittedPaths": [],
