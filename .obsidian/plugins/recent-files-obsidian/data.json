@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Serial Communications",
+      "path": "College/Microprocessors Systems/Serial Communications.md"
+    },
+    {
+      "basename": "Serial Communications",
+      "path": "UNSORTED/Serial Communications.md"
+    },
+    {
+      "basename": "UART",
+      "path": "College/Microprocessors Systems/UART.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -153,10 +165,6 @@
       "path": "Library/Sun Tzu - The Art of War.md"
     },
     {
-      "basename": "Serial Communications",
-      "path": "College/Microprocessors Systems/Serial Communications.md"
-    },
-    {
       "basename": "Timing",
       "path": "College/Microprocessors Systems/Timing.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Arch Linux - Installation",
       "path": "Notes/Arch Linux - Installation.md"
-    },
-    {
-      "basename": "Operating System",
-      "path": "College/Operating Systems/Operating System.md"
-    },
-    {
-      "basename": "Global and Local Variables - C",
-      "path": "College/Programming/Global and Local Variables - C.md"
     }
   ],
   "omittedPaths": [],

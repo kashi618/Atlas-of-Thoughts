@@ -25,8 +25,57 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "324b0d1b52f325f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Microprocessors Systems/UART.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "UART"
+            }
+          },
+          {
+            "id": "d8349c89977908ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Microprocessors Systems/Serial Communications.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Serial Communications"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,8 +223,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d8349c89977908ce",
   "lastOpenFiles": [
+    "UNSORTED/Serial Communications.md",
+    "College/Microprocessors Systems/UART.md",
     "Home Page/Home.canvas",
     "College/Microprocessors Systems/Pull-up Resistor.md",
     "Other/Pasted image 20250219165205.png",
@@ -202,8 +253,6 @@
     "College/Programming/Escape Character - C.md",
     "UNSORTED/Untitled 2.md",
     "UNSORTED/Untitled 1.md",
-    "UNSORTED/Untitled.md",
-    "College/Operating Systems/POST.md",
     "PDF's/CMPU1018 Mathematics Winter 2020-2021 Exam Paper.pdf",
     "PDF's/All Tomorrows.pdf",
     "PDF's/C Programming Language - 2nd Edition (OCR).pdf",
@@ -220,4 +269,7 @@
     "College/Algorithm Design and Problem Solving/CA Notes",
     "College/Data Exploration",
     "College/Operating Systems/Exercises",
-    "Col
+    "College/Algorithm Design and Problem Solving",
+    "College/Operating Systems"
+  ]
+}
