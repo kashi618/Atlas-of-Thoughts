@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -17,9 +18,10 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -0.3567268351032401
+                  "zoom": -0.17522318969909376
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
@@ -175,10 +177,10 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "UNSORTED/Keyboard Input - Microprocessors.md",
+    "Home Page/Home.canvas",
     "UNSORTED/Incrementing Decimal Numbers - Microcontroller.md",
     "UNSORTED/Incrementing Hexadecimal Numbers - Microcontroller.md",
     "College/Microprocessors Systems/Serial Communications.md",
-    "Home Page/Home.canvas",
     "College/Microprocessors Systems/UART.md",
     "UNSORTED/Serial Communications.md",
     "College/Microprocessors Systems/Pull-up Resistor.md",
@@ -202,7 +204,6 @@
     "College/TU856-1/TU856-1 Semester 2 Results.md",
     "College/Programming/Storing Data in Variables - C.md",
     "UNSORTED/Strings and Arrays - C.md",
-    "College/Programming/Non-Null Terminated String - C.md",
     "PDF's/CMPU1018 Mathematics Winter 2020-2021 Exam Paper.pdf",
     "PDF's/All Tomorrows.pdf",
     "PDF's/C Programming Language - 2nd Edition (OCR).pdf",
