@@ -5,6 +5,10 @@
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "TU856-1 Semester 2 Study Guide",
+      "path": "College/TU856-1/TU856-1 Semester 2 Study Guide.md"
+    },
+    {
       "basename": "Keyboard Input - Microprocessors",
       "path": "UNSORTED/Keyboard Input - Microprocessors.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Counter",
       "path": "College/Microprocessors Systems/Counter.md"
-    },
-    {
-      "basename": "Reset Handler",
-      "path": "College/Microprocessors Systems/Reset Handler.md"
     }
   ],
   "omittedPaths": [],
