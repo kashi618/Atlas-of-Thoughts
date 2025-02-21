@@ -5,6 +5,10 @@
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "Descartes - Meditations on First Philosophy",
+      "path": "Notes/Descartes - Meditations on First Philosophy.md"
+    },
+    {
       "basename": "TU856-1 Semester 2 Study Guide",
       "path": "College/TU856-1/TU856-1 Semester 2 Study Guide.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Generating Random Numbers",
       "path": "College/Microprocessors Systems/Generating Random Numbers.md"
-    },
-    {
-      "basename": "Counter",
-      "path": "College/Microprocessors Systems/Counter.md"
     }
   ],
   "omittedPaths": [],

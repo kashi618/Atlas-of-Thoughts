@@ -17,8 +17,8 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": -240,
-                  "y": -287.30060770237594,
-                  "zoom": -1.5130126588421415
+                  "y": -45,
+                  "zoom": -0.17522318969909376
                 }
               },
               "pinned": true,
@@ -92,13 +92,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Programming/Storage Classes - C.md",
+                "file": "Home Page/Home.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Storage Classes - C"
+              "title": "Outline of Home"
             }
           },
           {
@@ -146,13 +146,11 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 405.5,
-    "collapsed": true
+    "width": 405.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,6 +174,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Descartes - Meditations on First Philosophy.md",
     "Home Page/Home.canvas",
     "College/TU856-1/TU856-1 Semester 2 Study Guide.md",
     "UNSORTED/Keyboard Input - Microprocessors.md",
