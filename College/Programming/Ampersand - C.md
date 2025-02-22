@@ -1,9 +1,9 @@
 ---
 tags:
   - C
-  - ComputerScience
   - Variables
   - Pointers
+  - ComputerScience
 ---
 Gives the address location of a variable
 

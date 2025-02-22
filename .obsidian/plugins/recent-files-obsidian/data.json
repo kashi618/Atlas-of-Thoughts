@@ -1,6 +1,78 @@
 {
   "recentFiles": [
     {
+      "basename": "Dynamic Memory Allocation - C",
+      "path": "College/Programming/Dynamic Memory Allocation - C.md"
+    },
+    {
+      "basename": "Dereference Operators - C",
+      "path": "College/Programming/Dereference Operators - C.md"
+    },
+    {
+      "basename": "Casting - C",
+      "path": "College/Programming/Casting - C.md"
+    },
+    {
+      "basename": "Arrays - C",
+      "path": "College/Programming/Arrays - C.md"
+    },
+    {
+      "basename": "Ampersand - C",
+      "path": "College/Programming/Ampersand - C.md"
+    },
+    {
+      "basename": "Iterative  Factorial Algorithm",
+      "path": "College/Algorithm Design and Problem Solving/Iterative  Factorial Algorithm.md"
+    },
+    {
+      "basename": "Functional Programming Language",
+      "path": "College/Algorithm Design and Problem Solving/Functional Programming Language.md"
+    },
+    {
+      "basename": "Fibonacci Numbers",
+      "path": "College/Algorithm Design and Problem Solving/Fibonacci Numbers.md"
+    },
+    {
+      "basename": "Call Stack",
+      "path": "College/Algorithm Design and Problem Solving/Call Stack.md"
+    },
+    {
+      "basename": "Base Case",
+      "path": "College/Algorithm Design and Problem Solving/Base Case.md"
+    },
+    {
+      "basename": "Algorithms",
+      "path": "College/Algorithm Design and Problem Solving/Algorithms.md"
+    },
+    {
+      "basename": "Recursive Fibonacci Algorithm",
+      "path": "College/Algorithm Design and Problem Solving/Recursive Fibonacci Algorithm.md"
+    },
+    {
+      "basename": "Serial Communications",
+      "path": "UNSORTED/Serial Communications.md"
+    },
+    {
+      "basename": "Keyboard Input - Microprocessors",
+      "path": "College/Microprocessors Systems/Keyboard Input - Microprocessors.md"
+    },
+    {
+      "basename": "Incrementing Decimal Numbers - Microcontroller",
+      "path": "College/Microprocessors Systems/Incrementing Decimal Numbers - Microcontroller.md"
+    },
+    {
+      "basename": "Incrementing Hexadecimal Numbers - Microcontroller",
+      "path": "College/Microprocessors Systems/Incrementing Hexadecimal Numbers - Microcontroller.md"
+    },
+    {
+      "basename": "Strings and Arrays - C",
+      "path": "College/Programming/Strings and Arrays - C.md"
+    },
+    {
+      "basename": "Reading Strings - gets() - C",
+      "path": "College/Programming/Reading Strings - gets() - C.md"
+    },
+    {
       "basename": "TU856-1 Results",
       "path": "College/TU856-1/TU856-1 Results.md"
     },
@@ -17,32 +89,8 @@
       "path": "UNSORTED/Call Stack.md"
     },
     {
-      "basename": "Strings and Arrays - C",
-      "path": "UNSORTED/Strings and Arrays - C.md"
-    },
-    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
-    },
-    {
-      "basename": "Incrementing Decimal Numbers - Microcontroller",
-      "path": "UNSORTED/Incrementing Decimal Numbers - Microcontroller.md"
-    },
-    {
-      "basename": "Incrementing Hexadecimal Numbers - Microcontroller",
-      "path": "UNSORTED/Incrementing Hexadecimal Numbers - Microcontroller.md"
-    },
-    {
-      "basename": "Keyboard Input - Microprocessors",
-      "path": "UNSORTED/Keyboard Input - Microprocessors.md"
-    },
-    {
-      "basename": "Reading Strings - gets() - C",
-      "path": "UNSORTED/Reading Strings - gets() - C.md"
-    },
-    {
-      "basename": "Serial Communications",
-      "path": "UNSORTED/Serial Communications.md"
     },
     {
       "basename": "Descartes - Meditations on First Philosophy",
@@ -105,10 +153,6 @@
       "path": "College/Programming/Strings - C (SEPARATE SOME STUFF).md"
     },
     {
-      "basename": "Arrays - C",
-      "path": "College/Programming/Arrays - C.md"
-    },
-    {
       "basename": "Delimeters - C",
       "path": "College/Programming/Delimeters - C.md"
     },
@@ -133,16 +177,8 @@
       "path": "College/Operating Systems/POST.md"
     },
     {
-      "basename": "Call Stack",
-      "path": "College/Algorithm Design and Problem Solving/Call Stack.md"
-    },
-    {
       "basename": "EFI - UEFI",
       "path": "College/Operating Systems/EFI - UEFI.md"
-    },
-    {
-      "basename": "Recursive Fibonacci Algorithm",
-      "path": "College/Algorithm Design and Problem Solving/Recursive Fibonacci Algorithm.md"
     },
     {
       "basename": "Functions - C",
@@ -163,42 +199,6 @@
     {
       "basename": "Bit Shifting - C",
       "path": "College/Microprocessors Systems/Bit Shifting - C.md"
-    },
-    {
-      "basename": "Bitwise AND - & - C",
-      "path": "College/Microprocessors Systems/Bitwise AND - & - C.md"
-    },
-    {
-      "basename": "Microprocessor to Computer Connection",
-      "path": "College/Microprocessors Systems/Microprocessor to Computer Connection.md"
-    },
-    {
-      "basename": "Number to Ascii - C",
-      "path": "College/Microprocessors Systems/Number to Ascii - C.md"
-    },
-    {
-      "basename": "Franz Kafka - Metamorphosis",
-      "path": "Library/Franz Kafka - Metamorphosis.md"
-    },
-    {
-      "basename": "Franz Kafka - Metamorphosis and Other Stories - Copy",
-      "path": "Library/Franz Kafka - Metamorphosis and Other Stories - Copy.md"
-    },
-    {
-      "basename": "Franz Kafka - Metamorphosis and Other Stories",
-      "path": "Library/Franz Kafka - Metamorphosis and Other Stories.md"
-    },
-    {
-      "basename": "Sun Tzu - The Art of War",
-      "path": "Library/Sun Tzu - The Art of War.md"
-    },
-    {
-      "basename": "Timing",
-      "path": "College/Microprocessors Systems/Timing.md"
-    },
-    {
-      "basename": "Unix Time - Year 2038 Problem",
-      "path": "College/Microprocessors Systems/Unix Time - Year 2038 Problem.md"
     }
   ],
   "omittedPaths": [],

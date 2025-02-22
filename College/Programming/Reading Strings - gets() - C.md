@@ -12,7 +12,6 @@ char name[10];
 scanf("%s",name);
 ```
 
-
 ## gets()
 Built in function in C, that can read a string from standard input (keyboard, etc)
 It will read all characters typed, including whitespace characters and newline character (enter key)

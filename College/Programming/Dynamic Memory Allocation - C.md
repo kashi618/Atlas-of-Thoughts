@@ -3,7 +3,7 @@ tags:
   - C
   - ComputerScience
   - DynamicMemoryAllocation
-  - MemoryAllocation
+  - Memorey
 ---
 Sometimes there are situations where we have an array. However, we do not know how much memory is required when the program is run. Therefore, we need to allocate the memory dynamically, as the program is running. This can be done is 2 ways..
 
