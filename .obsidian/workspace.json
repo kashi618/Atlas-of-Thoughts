@@ -49,33 +49,9 @@
               "icon": "lucide-file-text",
               "title": "CMPU 1001 - 2023.2024"
             }
-          },
-          {
-            "id": "f376e231fd0fff5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/LainOS - Archlinux Rice.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "LainOS - Archlinux Rice"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "9a11e25c0f309f99",
@@ -171,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/LainOS - Archlinux Rice.md",
+                "file": "College/TU856-1/Exam Papers/CMPU 1001 - 2023.2024.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of LainOS - Archlinux Rice"
+              "title": "Outline of CMPU 1001 - 2023.2024"
             }
           },
           {
@@ -252,7 +228,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "f376e231fd0fff5a",
+  "active": "413c359adcf0f6ae",
   "lastOpenFiles": [
     "Notes/LainOS - Archlinux Rice.md",
     "College/TU856-1/Exam Papers/CMPU 1001 - 2022.2023.pdf",
