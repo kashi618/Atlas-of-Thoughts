@@ -1,16 +1,96 @@
 {
   "recentFiles": [
     {
-      "basename": "TU856-1 Results",
-      "path": "College/TU856-1/TU856-1 Results.md"
+      "basename": "LainOS - Archlinux",
+      "path": "Notes/LainOS - Archlinux.md"
     },
     {
-      "basename": "CMPU 1001 - Algorithm Design and Problem Solving",
-      "path": "College/TU856-1/CMPU 1001 - Algorithm Design and Problem Solving.md"
+      "basename": "CMPU 1001 - 2022.2023",
+      "path": "College/TU856-1/Exam Papers/CMPU 1001 - 2022.2023.pdf"
     },
     {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "CMPU 1001 - 2021.2022",
+      "path": "College/TU856-1/Exam Papers/CMPU 1001 - 2021.2022.pdf"
+    },
+    {
+      "basename": "CMPU 1001 - Algorithm Design and Problem Solving",
+      "path": "College/TU856-1/Study Guide/CMPU 1001 - Algorithm Design and Problem Solving.md"
+    },
+    {
+      "basename": "CMPU 1001 - 2023.2024",
+      "path": "College/TU856-1/Exam Papers/CMPU 1001 - 2023.2024.pdf"
+    },
+    {
+      "basename": "CMPU 1039 - 2023.2024",
+      "path": "College/TU856-1/Exam Papers/CMPU 1039 - 2023.2024.pdf"
+    },
+    {
+      "basename": "CMPU 1039 - 2022.2023",
+      "path": "College/TU856-1/Exam Papers/CMPU 1039 - 2022.2023.pdf"
+    },
+    {
+      "basename": "CMPU 1025 - 2023.2024",
+      "path": "College/TU856-1/Exam Papers/CMPU 1025 - 2023.2024.pdf"
+    },
+    {
+      "basename": "CMPU 1025 - 2022.2023",
+      "path": "College/TU856-1/Exam Papers/CMPU 1025 - 2022.2023.pdf"
+    },
+    {
+      "basename": "CMPU 1022 - 2023.2024",
+      "path": "College/TU856-1/Exam Papers/CMPU 1022 - 2023.2024.pdf"
+    },
+    {
+      "basename": "CMPU 1022 - 2022.2023",
+      "path": "College/TU856-1/Exam Papers/CMPU 1022 - 2022.2023.pdf"
+    },
+    {
+      "basename": "CMPU 1019 - 2023.2024",
+      "path": "College/TU856-1/Exam Papers/CMPU 1019 - 2023.2024.pdf"
+    },
+    {
+      "basename": "CMPU 1019 - 2022.2023",
+      "path": "College/TU856-1/Exam Papers/CMPU 1019 - 2022.2023.pdf"
+    },
+    {
+      "basename": "CMPU 1006 - 2023.2024",
+      "path": "College/TU856-1/Exam Papers/CMPU 1006 - 2023.2024.pdf"
+    },
+    {
+      "basename": "CMPU 1006 - 2022.2023",
+      "path": "College/TU856-1/Exam Papers/CMPU 1006 - 2022.2023.pdf"
+    },
+    {
+      "basename": "CMPU 1025 - Programming",
+      "path": "College/TU856-1/Study Guide/CMPU 1025 - Programming.md"
+    },
+    {
+      "basename": "CMPU 1039 - Data Exploration",
+      "path": "College/TU856-1/Study Guide/CMPU 1039 - Data Exploration.md"
+    },
+    {
+      "basename": "CMPU 1022 - Operating Systems 1",
+      "path": "College/TU856-1/Study Guide/CMPU 1022 - Operating Systems 1.md"
+    },
+    {
+      "basename": "CMPU 1019 - Microprocessor Systems",
+      "path": "College/TU856-1/Study Guide/CMPU 1019 - Microprocessor Systems.md"
+    },
+    {
+      "basename": "CMPU 1006 - Computer Architecture and Technology",
+      "path": "College/TU856-1/Study Guide/CMPU 1006 - Computer Architecture and Technology.md"
+    },
+    {
+      "basename": "TU856-1 Results",
+      "path": "College/TU856-1/TU856-1 Results.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "UNSORTED/Untitled.md"
     },
     {
       "basename": "Von Neumann Architecture",
@@ -119,78 +199,6 @@
     {
       "basename": "Call Stack",
       "path": "College/Algorithm Design and Problem Solving/Call Stack.md"
-    },
-    {
-      "basename": "Base Case",
-      "path": "College/Algorithm Design and Problem Solving/Base Case.md"
-    },
-    {
-      "basename": "Algorithms",
-      "path": "College/Algorithm Design and Problem Solving/Algorithms.md"
-    },
-    {
-      "basename": "Recursive Fibonacci Algorithm",
-      "path": "College/Algorithm Design and Problem Solving/Recursive Fibonacci Algorithm.md"
-    },
-    {
-      "basename": "Serial Communications",
-      "path": "UNSORTED/Serial Communications.md"
-    },
-    {
-      "basename": "Keyboard Input - Microprocessors",
-      "path": "College/Microprocessors Systems/Keyboard Input - Microprocessors.md"
-    },
-    {
-      "basename": "Incrementing Decimal Numbers - Microcontroller",
-      "path": "College/Microprocessors Systems/Incrementing Decimal Numbers - Microcontroller.md"
-    },
-    {
-      "basename": "Incrementing Hexadecimal Numbers - Microcontroller",
-      "path": "College/Microprocessors Systems/Incrementing Hexadecimal Numbers - Microcontroller.md"
-    },
-    {
-      "basename": "Strings and Arrays - C",
-      "path": "College/Programming/Strings and Arrays - C.md"
-    },
-    {
-      "basename": "Reading Strings - gets() - C",
-      "path": "College/Programming/Reading Strings - gets() - C.md"
-    },
-    {
-      "basename": "Call Stack",
-      "path": "UNSORTED/Call Stack.md"
-    },
-    {
-      "basename": "Descartes - Meditations on First Philosophy",
-      "path": "Notes/Descartes - Meditations on First Philosophy.md"
-    },
-    {
-      "basename": "Serial Communications",
-      "path": "College/Microprocessors Systems/Serial Communications.md"
-    },
-    {
-      "basename": "Pull-up Resistor",
-      "path": "College/Microprocessors Systems/Pull-up Resistor.md"
-    },
-    {
-      "basename": "Bit-shifting and Masks(UNFINISHED) - c",
-      "path": "College/Microprocessors Systems/Bit-shifting and Masks(UNFINISHED) - c.md"
-    },
-    {
-      "basename": "Synchronous and Asynchronous Serial  Communications",
-      "path": "College/Microprocessors Systems/Synchronous and Asynchronous Serial  Communications.md"
-    },
-    {
-      "basename": "Little Endian - Big Endian",
-      "path": "College/Microprocessors Systems/Little Endian - Big Endian.md"
-    },
-    {
-      "basename": "Microcontrollers",
-      "path": "College/Microprocessors Systems/Microcontrollers.md"
-    },
-    {
-      "basename": "Converting Binary and Hexadecimal",
-      "path": "College/Microprocessors Systems/Converting Binary and Hexadecimal.md"
     }
   ],
   "omittedPaths": [],
