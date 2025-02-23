@@ -4,8 +4,6 @@ tags:
   - Strings
   - Escape-Characters
 ---
-## Strings and Arrays
-
 ## scanf()
 For strings, you do not need an ampersand &
 ```c showlinenumbers

@@ -17,8 +17,8 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": -240,
-                  "y": -45,
-                  "zoom": -0.17522318969909376
+                  "y": 103.59319035891565,
+                  "zoom": -0.8075826381090421
                 }
               },
               "pinned": true,
@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "b9d4cf74b8ddc527",
+            "id": "d89ebd164b07a7e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Microprocessors Systems/Incrementing Decimal Numbers - Microcontroller.md",
+                "file": "College/TU856-1/TU856-1 Results.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,35 +47,61 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Incrementing Decimal Numbers - Microcontroller"
-            }
-          },
-          {
-            "id": "e89157a62610cdf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Programming/Dynamic Memory Allocation - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Dynamic Memory Allocation - C"
+              "title": "TU856-1 Results"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "6d9d0b6b6b569850",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78254f9f5fd9366d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Home Page/Home.canvas",
+                "viewState": {
+                  "x": -240,
+                  "y": -45,
+                  "zoom": -1.2263445965046131
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "7f1794f967ce82ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/TU856-1/CMPU 1001 - Algorithm Design and Problem Solving.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CMPU 1001 - Algorithm Design and Problem Solving"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Programming/Dynamic Memory Allocation - C.md",
+                "file": "College/TU856-1/TU856-1 Results.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dynamic Memory Allocation - C"
+              "title": "Outline of TU856-1 Results"
             }
           },
           {
@@ -199,7 +225,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 405.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,35 +248,35 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e89157a62610cdf7",
+  "active": "d89ebd164b07a7e1",
   "lastOpenFiles": [
-    "College/Programming/Dereference Operators - C.md",
-    "College/Programming/Casting - C.md",
-    "College/Programming/Arrays - C.md",
-    "College/Programming/Ampersand - C.md",
-    "College/Algorithm Design and Problem Solving/Iterative  Factorial Algorithm.md",
-    "College/Algorithm Design and Problem Solving/Functional Programming Language.md",
-    "College/Algorithm Design and Problem Solving/Fibonacci Numbers.md",
-    "College/Algorithm Design and Problem Solving/Call Stack.md",
-    "College/Algorithm Design and Problem Solving/Base Case.md",
-    "College/Algorithm Design and Problem Solving/Algorithms.md",
-    "College/Algorithm Design and Problem Solving/Recursive Fibonacci Algorithm.md",
-    "College/Algorithm Design and Problem Solving/Recursive Fibonacci Algorithm 1.md",
-    "UNSORTED/Serial Communications.md",
-    "College/Microprocessors Systems/Keyboard Input - Microprocessors.md",
-    "College/Microprocessors Systems/Incrementing Decimal Numbers - Microcontroller.md",
-    "College/Microprocessors Systems/Incrementing Hexadecimal Numbers - Microcontroller.md",
-    "College/Programming/Strings and Arrays - C.md",
-    "College/Programming/Reading Strings - gets() - C.md",
-    "College/TU856-1/TU856-1 Results.md",
-    "College/TU856-1/TU856-1 Semester 1 Results.md",
-    "College/TU856-1/TU856-1 Semester 2 Study Guide.md",
-    "UNSORTED/Call Stack.md",
-    "UNSORTED/Untitled.md",
+    "College/TU856-1/CMPU 1001 - Algorithm Design and Problem Solving.md",
     "Home Page/Home.canvas",
-    "Notes/Descartes - Meditations on First Philosophy.md",
-    "College/Microprocessors Systems/Serial Communications.md",
-    "College/Microprocessors Systems/UART.md",
+    "College/TU856-1/TU856-1 Results.md",
+    "College/TU856-1/TU856-1 Semester 2 Study Guide.md",
+    "College/TU856-1/TU856-1 Semester 2 Results.md",
+    "College/TU856-1/TU856-1 Semester 1 Results.md",
+    "College/Computer Architecture and Technology/Von Neumann Architecture.md",
+    "College/Computer Architecture and Technology/CPU.md",
+    "College/Computer Architecture and Technology/Computer Architecture.md",
+    "College/Programming/free() - C.md",
+    "College/Programming/Function Signatures - C.md",
+    "College/Programming/Declaring and Initializing - C.md",
+    "College/Programming/Delimeters - C.md",
+    "College/Programming/Decimal Places and Leading Zeros - C.md",
+    "College/Programming/Casting - C.md",
+    "College/Programming/Compiler.md",
+    "College/Programming/Data Types.md",
+    "College/Programming/Subscript and Pointer Notation - C.md",
+    "College/Programming/Symbolic Names - C.md",
+    "College/Programming/Unsigned Variables - C.md",
+    "College/Programming/Variable Naming Schemes.md",
+    "College/Programming/Variables - C.md",
+    "College/Programming/Printing Out Strings - puts() - C.md",
+    "College/Programming/sizeof() - C.md",
+    "College/Programming/Strings - C.md",
+    "College/Programming/Dynamic Memory Allocation - C.md",
+    "College/Programming/Dereference Operators - C.md",
     "Other/Pasted image 20250219165205.png",
     "Other/Pasted image 20250219165204.png",
     "PDF's/CMPU1018 Mathematics Winter 2020-2021 Exam Paper.pdf",

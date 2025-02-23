@@ -12,6 +12,4 @@ coolVariable
 ### Pascal Case
 CoolVariable
 
-
-
 # See Also

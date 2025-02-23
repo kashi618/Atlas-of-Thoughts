@@ -40,4 +40,4 @@ fgets(name, 10, stdin)
 # See Also
 [[Printing Out Strings - puts() - C]]
 [[Strings and Arrays - C]]
-[[Strings - C (SEPARATE SOME STUFF)]]
+[[Strings - C]]

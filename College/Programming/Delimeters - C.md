@@ -12,4 +12,4 @@ In order to print out or store data inside of variables, a demiliter is needed t
 | %f        | Float                                 |
 | %c        | Character                             |
 | %p        | [[Pointers - C]]                      |
-| %s        | [[Strings - C (SEPARATE SOME STUFF)]] |
+| %s        | [[Strings - C]] |

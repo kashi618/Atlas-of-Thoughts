@@ -1,16 +1,100 @@
 {
   "recentFiles": [
     {
+      "basename": "TU856-1 Results",
+      "path": "College/TU856-1/TU856-1 Results.md"
+    },
+    {
+      "basename": "CMPU 1001 - Algorithm Design and Problem Solving",
+      "path": "College/TU856-1/CMPU 1001 - Algorithm Design and Problem Solving.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Von Neumann Architecture",
+      "path": "College/Computer Architecture and Technology/Von Neumann Architecture.md"
+    },
+    {
+      "basename": "CPU",
+      "path": "College/Computer Architecture and Technology/CPU.md"
+    },
+    {
+      "basename": "Computer Architecture",
+      "path": "College/Computer Architecture and Technology/Computer Architecture.md"
+    },
+    {
+      "basename": "free() - C",
+      "path": "College/Programming/free() - C.md"
+    },
+    {
+      "basename": "Function Signatures - C",
+      "path": "College/Programming/Function Signatures - C.md"
+    },
+    {
+      "basename": "Declaring and Initializing - C",
+      "path": "College/Programming/Declaring and Initializing - C.md"
+    },
+    {
+      "basename": "Delimeters - C",
+      "path": "College/Programming/Delimeters - C.md"
+    },
+    {
+      "basename": "Decimal Places and Leading Zeros - C",
+      "path": "College/Programming/Decimal Places and Leading Zeros - C.md"
+    },
+    {
+      "basename": "Casting - C",
+      "path": "College/Programming/Casting - C.md"
+    },
+    {
+      "basename": "Compiler",
+      "path": "College/Programming/Compiler.md"
+    },
+    {
+      "basename": "Data Types",
+      "path": "College/Programming/Data Types.md"
+    },
+    {
+      "basename": "Subscript and Pointer Notation - C",
+      "path": "College/Programming/Subscript and Pointer Notation - C.md"
+    },
+    {
+      "basename": "Symbolic Names - C",
+      "path": "College/Programming/Symbolic Names - C.md"
+    },
+    {
+      "basename": "Unsigned Variables - C",
+      "path": "College/Programming/Unsigned Variables - C.md"
+    },
+    {
+      "basename": "Variable Naming Schemes",
+      "path": "College/Programming/Variable Naming Schemes.md"
+    },
+    {
+      "basename": "Variables - C",
+      "path": "College/Programming/Variables - C.md"
+    },
+    {
+      "basename": "Printing Out Strings - puts() - C",
+      "path": "College/Programming/Printing Out Strings - puts() - C.md"
+    },
+    {
+      "basename": "sizeof() - C",
+      "path": "College/Programming/sizeof() - C.md"
+    },
+    {
+      "basename": "Strings - C",
+      "path": "College/Programming/Strings - C.md"
+    },
+    {
       "basename": "Dynamic Memory Allocation - C",
       "path": "College/Programming/Dynamic Memory Allocation - C.md"
     },
     {
       "basename": "Dereference Operators - C",
       "path": "College/Programming/Dereference Operators - C.md"
-    },
-    {
-      "basename": "Casting - C",
-      "path": "College/Programming/Casting - C.md"
     },
     {
       "basename": "Arrays - C",
@@ -73,24 +157,8 @@
       "path": "College/Programming/Reading Strings - gets() - C.md"
     },
     {
-      "basename": "TU856-1 Results",
-      "path": "College/TU856-1/TU856-1 Results.md"
-    },
-    {
-      "basename": "TU856-1 Semester 1 Results",
-      "path": "College/TU856-1/TU856-1 Semester 1 Results.md"
-    },
-    {
-      "basename": "TU856-1 Semester 2 Study Guide",
-      "path": "College/TU856-1/TU856-1 Semester 2 Study Guide.md"
-    },
-    {
       "basename": "Call Stack",
       "path": "UNSORTED/Call Stack.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Descartes - Meditations on First Philosophy",
@@ -123,82 +191,6 @@
     {
       "basename": "Converting Binary and Hexadecimal",
       "path": "College/Microprocessors Systems/Converting Binary and Hexadecimal.md"
-    },
-    {
-      "basename": "Micro",
-      "path": "College/Microprocessors Systems/Micro.md"
-    },
-    {
-      "basename": "vim",
-      "path": "College/Operating Systems/vim.md"
-    },
-    {
-      "basename": "Structured and Unstructured Data",
-      "path": "College/Data Exploration/Structured and Unstructured Data.md"
-    },
-    {
-      "basename": "MAN Install Script",
-      "path": "College/Operating Systems/MAN Install Script.md"
-    },
-    {
-      "basename": "chmod - Linux NONE",
-      "path": "College/Operating Systems/chmod - Linux NONE.md"
-    },
-    {
-      "basename": "Printing Out Strings - puts() - C",
-      "path": "College/Programming/Printing Out Strings - puts() - C.md"
-    },
-    {
-      "basename": "Strings - C (SEPARATE SOME STUFF)",
-      "path": "College/Programming/Strings - C (SEPARATE SOME STUFF).md"
-    },
-    {
-      "basename": "Delimeters - C",
-      "path": "College/Programming/Delimeters - C.md"
-    },
-    {
-      "basename": "TU856-1 Semester 2 Results",
-      "path": "College/TU856-1/TU856-1 Semester 2 Results.md"
-    },
-    {
-      "basename": "Storing Data in Variables - C",
-      "path": "College/Programming/Storing Data in Variables - C.md"
-    },
-    {
-      "basename": "Non-Null Terminated String - C",
-      "path": "College/Programming/Non-Null Terminated String - C.md"
-    },
-    {
-      "basename": "Escape Character - C",
-      "path": "College/Programming/Escape Character - C.md"
-    },
-    {
-      "basename": "POST",
-      "path": "College/Operating Systems/POST.md"
-    },
-    {
-      "basename": "EFI - UEFI",
-      "path": "College/Operating Systems/EFI - UEFI.md"
-    },
-    {
-      "basename": "Functions - C",
-      "path": "College/Programming/Functions - C.md"
-    },
-    {
-      "basename": "Passing Arrays - C",
-      "path": "College/Programming/Passing Arrays - C.md"
-    },
-    {
-      "basename": "Decimal Places and Leading Zeros - C",
-      "path": "College/Programming/Decimal Places and Leading Zeros - C.md"
-    },
-    {
-      "basename": "Function Signatures - C",
-      "path": "College/Programming/Function Signatures - C.md"
-    },
-    {
-      "basename": "Bit Shifting - C",
-      "path": "College/Microprocessors Systems/Bit Shifting - C.md"
     }
   ],
   "omittedPaths": [],
