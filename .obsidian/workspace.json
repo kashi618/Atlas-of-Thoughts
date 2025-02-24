@@ -17,68 +17,13 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": -240,
-                  "y": 103.59319035891565,
-                  "zoom": -0.8075826381090421
+                  "y": -45,
+                  "zoom": -0.6293566200796098
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
-            }
-          },
-          {
-            "id": "be5713cc926db046",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "College/TU856-1/Exam Papers/CMPU 1001 - 2022.2023.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CMPU 1001 - 2022.2023"
-            }
-          },
-          {
-            "id": "413c359adcf0f6ae",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "College/TU856-1/Exam Papers/CMPU 1001 - 2023.2024.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CMPU 1001 - 2023.2024"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "9a11e25c0f309f99",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "390e0865f237e943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/TU856-1/Study Guide/CMPU 1001 - Algorithm Design and Problem Solving.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CMPU 1001 - Algorithm Design and Problem Solving"
             }
           }
         ]
@@ -228,14 +173,14 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "413c359adcf0f6ae",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "College/TU856-1/Exam Papers/CMPU 1001 - 2023.2024.pdf",
     "Notes/LainOS - Archlinux Rice.md",
     "College/TU856-1/Exam Papers/CMPU 1001 - 2022.2023.pdf",
     "Home Page/Home.canvas",
     "College/TU856-1/Exam Papers/CMPU 1001 - 2021.2022.pdf",
     "College/TU856-1/Study Guide/CMPU 1001 - Algorithm Design and Problem Solving.md",
-    "College/TU856-1/Exam Papers/CMPU 1001 - 2023.2024.pdf",
     "College/TU856-1/Exam Papers/CMPU 1039 - 2023.2024.pdf",
     "College/TU856-1/Exam Papers/CMPU 1039 - 2021.2022.pdf",
     "College/TU856-1/Exam Papers/CMPU 1025 - 2021.2022.pdf",
@@ -266,7 +211,6 @@
     "College/Programming/Casting - C.md",
     "College/Programming/Compiler.md",
     "College/Programming/Data Types.md",
-    "College/Programming/Subscript and Pointer Notation - C.md",
     "Other/Pasted image 20250219165205.png",
     "Other/Pasted image 20250219165204.png",
     "Other/Pasted image 20250212145157.png",
