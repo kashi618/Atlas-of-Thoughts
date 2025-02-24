@@ -8,7 +8,7 @@ aliases:
 To get a keyboard input, we use the scanf() function. Here are the steps:
 1. Specify the type of data we will intake, using a [[Delimeters - C|delimeter]]
 2. Replace our input with the data stored at the address of the variable, using the [[Ampersand - C|ampersand]]
-```c
+```
 scanf("delimeter",&variableName);
 ```
 

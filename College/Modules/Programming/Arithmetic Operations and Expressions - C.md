@@ -12,9 +12,8 @@ In C, arithmetic operations can be used. Here is a list of common operations and
 | `*`      | Multiplication                              |
 | `/`      | Division                                    |
 | `%`      | Modulus (gives the remainder of a division) |
-
-
+A faster way to add or subtract one can be found here [[Incrementing & Decrementing - C|Incrementing and decrementing]].
 # See Also
 [[$ C - Programming Language]]
-[[Incrementing and Decrementing - C]]
+[[Incrementing & Decrementing - C]]
 [[Operator Precedence - C]]

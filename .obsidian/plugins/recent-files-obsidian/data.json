@@ -1,16 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Call Stack",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Call Stack.md"
+    },
+    {
+      "basename": "Operator Precedence - C",
+      "path": "College/Modules/Programming/Operator Precedence - C.md"
+    },
+    {
+      "basename": "Keyboard Output - C",
+      "path": "College/Modules/Programming/Keyboard Output - C.md"
+    },
+    {
       "basename": "Keyboard Input - C",
-      "path": "UNSORTED/Keyboard Input - C.md"
+      "path": "College/Modules/Programming/Keyboard Input - C.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "College/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "Arithmetic Operations and Expressions - C",
+      "path": "College/Modules/Programming/Arithmetic Operations and Expressions - C.md"
+    },
+    {
+      "basename": "Incrementing & Decrementing - C",
+      "path": "College/Modules/Programming/Incrementing & Decrementing - C.md"
     },
     {
       "basename": "Ampersand - C",
       "path": "College/Modules/Programming/Ampersand - C.md"
     },
     {
-      "basename": "$ C - Programming Language",
-      "path": "College/Modules/Programming/$ C - Programming Language.md"
+      "basename": "Casting - C",
+      "path": "College/Modules/Programming/Casting - C.md"
+    },
+    {
+      "basename": "Data Types - C",
+      "path": "College/Modules/Programming/Data Types - C.md"
+    },
+    {
+      "basename": "Variables - C",
+      "path": "College/Modules/Programming/Variables - C.md"
     },
     {
       "basename": "Delimeters - C",
@@ -21,40 +57,12 @@
       "path": "College/Modules/Programming/Unsorted/Pointers - C.md"
     },
     {
-      "basename": "Casting - C",
-      "path": "College/Modules/Programming/Casting - C.md"
-    },
-    {
-      "basename": "Arithmetic Operations and Expressions - C",
-      "path": "College/Modules/Programming/Arithmetic Operations and Expressions - C.md"
-    },
-    {
-      "basename": "Operator Precedence - C",
-      "path": "UNSORTED/Operator Precedence - C.md"
-    },
-    {
-      "basename": "Incrementing and Decrementing - C",
-      "path": "College/Modules/Programming/Incrementing and Decrementing - C.md"
-    },
-    {
       "basename": "Commenting - C",
       "path": "College/Modules/Programming/Commenting - C.md"
     },
     {
       "basename": "Signed & Unsigned Variables - C",
       "path": "College/Modules/Programming/Signed & Unsigned Variables - C.md"
-    },
-    {
-      "basename": "Variables - C",
-      "path": "College/Modules/Programming/Variables - C.md"
-    },
-    {
-      "basename": "Data Types - C",
-      "path": "College/Modules/Programming/Data Types - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Escape Sequence - C",
@@ -67,10 +75,6 @@
     {
       "basename": "K.I.S.S",
       "path": "College/Modules/Programming/K.I.S.S.md"
-    },
-    {
-      "basename": "varia",
-      "path": "UNSORTED/varia.md"
     },
     {
       "basename": "Arrays - C",
@@ -107,18 +111,6 @@
     {
       "basename": "EXAMPLE - Creating Functions",
       "path": "College/Modules/EXAMPLE - Creating Functions.md"
-    },
-    {
-      "basename": "Serial Communications",
-      "path": "UNSORTED/Serial Communications.md"
-    },
-    {
-      "basename": "Call Stack",
-      "path": "UNSORTED/Call Stack.md"
-    },
-    {
-      "basename": "Untitled Kanban 1",
-      "path": "UNSORTED/Untitled Kanban 1.md"
     },
     {
       "basename": "Dynamic Memory Allocation - C",
@@ -191,14 +183,6 @@
     {
       "basename": "Incrementing Decimal Numbers - Microcontroller",
       "path": "College/Modules/Microprocessors Systems/Incrementing Decimal Numbers - Microcontroller.md"
-    },
-    {
-      "basename": "GPIOA - GPIOB",
-      "path": "College/Modules/Microprocessors Systems/GPIOA - GPIOB.md"
-    },
-    {
-      "basename": "File Permissions - chmod - Linux",
-      "path": "College/Modules/Operating Systems/File Permissions - chmod - Linux.md"
     }
   ],
   "omittedPaths": [],

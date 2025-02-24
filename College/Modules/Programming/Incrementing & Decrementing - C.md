@@ -9,6 +9,8 @@ aliases:
   - Pre-Decrementing
   - Post-Decrementing
 ---
+
+
 ## Incrementing
 This adds 1 to the value of a variable
 ```c showlinenumbers

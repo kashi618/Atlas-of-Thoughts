@@ -1,9 +1,7 @@
 ---
 tags:
   - C
-  - Variables
-  - Pointers
-  - ComputerScience
+aliases:
 ---
 Returns the address value of a variable that is stored in RAM
 
