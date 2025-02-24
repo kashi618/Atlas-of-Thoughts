@@ -34,7 +34,7 @@
               "state": {
                 "file": "College/Modules/Programming/$ C - Programming Language.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -51,12 +51,36 @@
             }
           },
           {
-            "id": "3135bab011f65540",
+            "id": "42f9e1f8d53d2f90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Modules/Programming/Unsorted/Variables - C.md",
+                "file": "College/Modules/Programming/Escape Sequence - C.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Escape Sequence - C"
+            }
+          },
+          {
+            "id": "3100f129bc2b62b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Modules/Programming/Variables - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -75,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +158,6 @@
       {
         "id": "219604f8f4064431",
         "type": "tabs",
-        "dimension": 68.6858316221766,
         "children": [
           {
             "id": "9bc98d8a64f45ad2",
@@ -142,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Modules/Programming/Unsorted/Variables - C.md",
+                "file": "College/Modules/Programming/Variables - C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,23 +222,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "b56fa9676414f482",
-        "type": "tabs",
-        "dimension": 31.31416837782341,
-        "children": [
-          {
-            "id": "3100f129bc2b62b5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -241,13 +247,14 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "3135bab011f65540",
+  "active": "3100f129bc2b62b5",
   "lastOpenFiles": [
-    "College/Modules/Programming/$ C - Programming Language.md",
-    "College/Modules/Programming/Unsorted/Data Types - C.md",
-    "College/Modules/Programming/Unsorted/Variables - C.md",
+    "College/Modules/Programming/Escape Sequence - C.md",
+    "College/Modules/Programming/Variables - C.md",
     "College/Modules/Programming/Order of Code - C.md",
     "College/Modules/Programming/K.I.S.S.md",
+    "College/Modules/Programming/Data Types - C.md",
+    "College/Modules/Programming/$ C - Programming Language.md",
     "UNSORTED/varia.md",
     "College/Modules/Programming/Unsorted/Arrays - C.md",
     "College/Modules/Programming/Unsorted/Leading Numbers - C.md",
@@ -261,7 +268,6 @@
     "College/Modules/Programming/Unsorted/Memory Leak.md",
     "Templates/BB.md",
     "College/Modules/Programming/$ MOC - C.md",
-    "College/Modules/Programming/Variables - C.md",
     "College/Modules/Programming/Unsorted/Declaring and Initializing - C.md",
     "College/Modules/Programming/Arrays - C.md",
     "College/Modules/Programming/Unsorted/Decimal Places and Leading Zeros - C.md",

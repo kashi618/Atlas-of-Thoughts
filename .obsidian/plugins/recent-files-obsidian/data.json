@@ -2,15 +2,11 @@
   "recentFiles": [
     {
       "basename": "Variables - C",
-      "path": "College/Modules/Programming/Unsorted/Variables - C.md"
+      "path": "College/Modules/Programming/Variables - C.md"
     },
     {
-      "basename": "$ C - Programming Language",
-      "path": "College/Modules/Programming/$ C - Programming Language.md"
-    },
-    {
-      "basename": "Data Types - C",
-      "path": "College/Modules/Programming/Unsorted/Data Types - C.md"
+      "basename": "Escape Sequence - C",
+      "path": "College/Modules/Programming/Escape Sequence - C.md"
     },
     {
       "basename": "Order of Code - C",
@@ -19,6 +15,14 @@
     {
       "basename": "K.I.S.S",
       "path": "College/Modules/Programming/K.I.S.S.md"
+    },
+    {
+      "basename": "Data Types - C",
+      "path": "College/Modules/Programming/Data Types - C.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "College/Modules/Programming/$ C - Programming Language.md"
     },
     {
       "basename": "varia",
@@ -55,10 +59,6 @@
     {
       "basename": "BB",
       "path": "Templates/BB.md"
-    },
-    {
-      "basename": "Variables - C",
-      "path": "College/Modules/Programming/Variables - C.md"
     },
     {
       "basename": "Ampersand - C",
@@ -115,10 +115,6 @@
     {
       "basename": "free() - C",
       "path": "College/Modules/Programming/free() - C.md"
-    },
-    {
-      "basename": "Escape Character - C",
-      "path": "College/Modules/Programming/Escape Character - C.md"
     },
     {
       "basename": "Dereference Operators - C",

@@ -1,6 +1,7 @@
 ---
 tags:
   - C
+aliases:
 ---
 It is a way to organize and sort data, so that the computer can retrieve and use it.
 
@@ -37,4 +38,6 @@ It is a way to organize and sort data, so that the computer can retrieve and use
 [[Arrays - C]]
 - A list of values.
 
+# See Also
 [[$ C - Programming Language]]
+[[Variables - C]]
