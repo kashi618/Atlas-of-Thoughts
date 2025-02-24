@@ -3,6 +3,7 @@ tags:
   - ComputerScience
   - Strings
   - Arrays
+  - UNFINISHED
 ---
 In C, there is no datatype called a string
 Instead, we use an array of characters

@@ -4,6 +4,7 @@ tags:
   - ComputerScience
   - Variables
   - Symbolic-Names
+  - UNFINISHED
 ---
 **NOTE: ** Also known as a Macro
 - It is used to avoid hard coding values in a program 

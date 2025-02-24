@@ -3,6 +3,7 @@ tags:
   - C
   - ComputerScience
   - Pointers
+  - UNFINISHED
 ---
 - Stores the address location of a variable, in hexadecimal.
 - The datatype used to declare a pointer variable is used to store the hex value of that datatype.

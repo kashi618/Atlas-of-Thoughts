@@ -50,7 +50,8 @@
               "title": "Call Stack"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,13 +117,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "College/Modules/Algorithm Design and Problem Solving/Call Stack.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Call Stack"
             }
           },
           {
@@ -198,35 +199,35 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9183436c92e8fa44",
   "lastOpenFiles": [
-    "College/Modules/Algorithm Design and Problem Solving/Call Stack.md",
-    "UNSORTED/Serial Communications.md",
-    "UNSORTED/varia.md",
-    "UNSORTED/Call Stack.md",
-    "College/Modules/Programming/Operator Precedence - C.md",
-    "College/Modules/Programming/Keyboard Output - C.md",
-    "College/Modules/Programming/Keyboard Input - C.md",
-    "College/Modules/Programming/$ C - Programming Language.md",
-    "College/Modules/Programming/Arithmetic Operations and Expressions - C.md",
-    "College/Modules/Programming/Incrementing & Decrementing - C.md",
-    "College/Modules/Programming/Ampersand - C.md",
-    "College/Modules/Programming/Casting - C.md",
-    "College/Modules/Programming/Data Types - C.md",
-    "College/Modules/Programming/Variables - C.md",
-    "Home Page/Home.canvas",
-    "College/Modules/Programming/Delimeters - C.md",
+    "College/Modules/IT Fundamentals/Types of Software.md",
+    "College/Modules/IT Fundamentals/Software Acquisition.md",
+    "College/Modules/IT Fundamentals/Moore's Law.md",
+    "College/Modules/Mathematics/Adding and Subtracting Matrices.md",
+    "College/Modules/Programming/Unsorted/Variable Naming Schemes.md",
+    "College/Modules/Program Design/Sorting Algorithms.md",
+    "College/Modules/Programming/Unsorted/Subscript and Pointer Notation - C.md",
+    "College/Modules/Programming/Unsorted/Symbolic Names - C.md",
+    "College/Modules/Programming/Unsorted/Strings and Arrays - C.md",
+    "College/Modules/Programming/Unsorted/Strings - C.md",
+    "College/Modules/Programming/Unsorted/Storing Data in Variables - C.md",
+    "College/Modules/Programming/Unsorted/Storage Classes - C.md",
+    "College/Modules/Programming/Unsorted/sizeof() - C.md",
+    "College/Modules/Programming/Unsorted/Semicolons - C.md",
+    "College/Modules/Programming/Unsorted/Scope - C.md",
+    "College/Modules/Programming/Unsorted/Returning Variables - C.md",
+    "College/Modules/Programming/Unsorted/Refactoring Code.md",
+    "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
+    "College/Modules/Programming/Unsorted/Random Data - C.md",
+    "College/Modules/Programming/Unsorted/Printing Out Strings - puts() - C.md",
+    "College/Modules/Programming/Unsorted/Printing a 2D Array - C.md",
+    "College/Modules/Programming/Unsorted/Pointers and Arrays - C.md",
     "College/Modules/Programming/Unsorted/Pointers - C.md",
-    "College/Modules/Programming/Unsorted/Declaring and Initializing - C.md",
-    "College/Modules/Programming/Commenting - C.md",
-    "College/Modules/Programming/Signed & Unsigned Variables - C.md",
-    "College/Modules/Programming/Escape Sequence - C.md",
-    "College/Modules/Programming/Order of Code - C.md",
-    "College/Modules/Programming/K.I.S.S.md",
-    "College/Modules/Programming/Unsorted/Arrays - C.md",
-    "College/Modules/Programming/Unsorted/Leading Numbers - C.md",
-    "College/Modules/Programming/Pass by Value & Pass by Reference - C.md",
+    "College/Modules/Programming/Unsorted/Passing Arrays - C.md",
     "College/Modules/Programming/Unsorted/Pass by Value & Pass by Reference - C.md",
+    "College/Modules/Programming/Unsorted/Non-Null Terminated String - C.md",
+    "Home Page/Home.canvas",
     "College/Modules/Programming/Unsorted",
     "College/Modules",
     "College/TU856-1/Exam Papers/CMPU 1006 - 2023.2024.pdf",

@@ -3,6 +3,7 @@ tags:
   - C
   - ComputerScience
   - Pointers
+  - UNFINISHED
 ---
 
 Used to access the actual value/contents of an address location, stored in a pointer variable. Finds the value of an address location.

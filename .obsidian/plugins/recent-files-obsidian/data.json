@@ -1,12 +1,148 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
-    },
-    {
       "basename": "Call Stack",
       "path": "College/Modules/Algorithm Design and Problem Solving/Call Stack.md"
+    },
+    {
+      "basename": "Adding and Subtracting Matrices",
+      "path": "College/Modules/Mathematics/Adding and Subtracting Matrices.md"
+    },
+    {
+      "basename": "Variable Naming Schemes",
+      "path": "College/Modules/Programming/Unsorted/Variable Naming Schemes.md"
+    },
+    {
+      "basename": "Subscript and Pointer Notation - C",
+      "path": "College/Modules/Programming/Unsorted/Subscript and Pointer Notation - C.md"
+    },
+    {
+      "basename": "Symbolic Names - C",
+      "path": "College/Modules/Programming/Unsorted/Symbolic Names - C.md"
+    },
+    {
+      "basename": "Strings and Arrays - C",
+      "path": "College/Modules/Programming/Unsorted/Strings and Arrays - C.md"
+    },
+    {
+      "basename": "Strings - C",
+      "path": "College/Modules/Programming/Unsorted/Strings - C.md"
+    },
+    {
+      "basename": "Storing Data in Variables - C",
+      "path": "College/Modules/Programming/Unsorted/Storing Data in Variables - C.md"
+    },
+    {
+      "basename": "Storage Classes - C",
+      "path": "College/Modules/Programming/Unsorted/Storage Classes - C.md"
+    },
+    {
+      "basename": "sizeof() - C",
+      "path": "College/Modules/Programming/Unsorted/sizeof() - C.md"
+    },
+    {
+      "basename": "Semicolons - C",
+      "path": "College/Modules/Programming/Unsorted/Semicolons - C.md"
+    },
+    {
+      "basename": "Scope - C",
+      "path": "College/Modules/Programming/Unsorted/Scope - C.md"
+    },
+    {
+      "basename": "Returning Variables - C",
+      "path": "College/Modules/Programming/Unsorted/Returning Variables - C.md"
+    },
+    {
+      "basename": "Refactoring Code",
+      "path": "College/Modules/Programming/Unsorted/Refactoring Code.md"
+    },
+    {
+      "basename": "Reading Strings - gets() - C",
+      "path": "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md"
+    },
+    {
+      "basename": "Random Data - C",
+      "path": "College/Modules/Programming/Unsorted/Random Data - C.md"
+    },
+    {
+      "basename": "Printing Out Strings - puts() - C",
+      "path": "College/Modules/Programming/Unsorted/Printing Out Strings - puts() - C.md"
+    },
+    {
+      "basename": "Printing a 2D Array - C",
+      "path": "College/Modules/Programming/Unsorted/Printing a 2D Array - C.md"
+    },
+    {
+      "basename": "Pointers and Arrays - C",
+      "path": "College/Modules/Programming/Unsorted/Pointers and Arrays - C.md"
+    },
+    {
+      "basename": "Pointers - C",
+      "path": "College/Modules/Programming/Unsorted/Pointers - C.md"
+    },
+    {
+      "basename": "Passing Arrays - C",
+      "path": "College/Modules/Programming/Unsorted/Passing Arrays - C.md"
+    },
+    {
+      "basename": "Pass by Value & Pass by Reference - C",
+      "path": "College/Modules/Programming/Unsorted/Pass by Value & Pass by Reference - C.md"
+    },
+    {
+      "basename": "Non-Null Terminated String - C",
+      "path": "College/Modules/Programming/Unsorted/Non-Null Terminated String - C.md"
+    },
+    {
+      "basename": "Memory Leak",
+      "path": "College/Modules/Programming/Unsorted/Memory Leak.md"
+    },
+    {
+      "basename": "Leading Numbers - C",
+      "path": "College/Modules/Programming/Unsorted/Leading Numbers - C.md"
+    },
+    {
+      "basename": "Initializing a 2D Array",
+      "path": "College/Modules/Programming/Unsorted/Initializing a 2D Array.md"
+    },
+    {
+      "basename": "Indentation - C",
+      "path": "College/Modules/Programming/Unsorted/Indentation - C.md"
+    },
+    {
+      "basename": "Global and Local Variables - C",
+      "path": "College/Modules/Programming/Unsorted/Global and Local Variables - C.md"
+    },
+    {
+      "basename": "Functions - C",
+      "path": "College/Modules/Programming/Unsorted/Functions - C.md"
+    },
+    {
+      "basename": "free() - C",
+      "path": "College/Modules/Programming/Unsorted/free() - C.md"
+    },
+    {
+      "basename": "Dynamic Memory Allocation - C",
+      "path": "College/Modules/Programming/Unsorted/Dynamic Memory Allocation - C.md"
+    },
+    {
+      "basename": "Dereference Operators - C",
+      "path": "College/Modules/Programming/Unsorted/Dereference Operators - C.md"
+    },
+    {
+      "basename": "Decimal Places and Leading Zeros - C",
+      "path": "College/Modules/Programming/Unsorted/Decimal Places and Leading Zeros - C.md"
+    },
+    {
+      "basename": "Compiler",
+      "path": "College/Modules/Programming/Unsorted/Compiler.md"
+    },
+    {
+      "basename": "Arrays - C",
+      "path": "College/Modules/Programming/Unsorted/Arrays - C.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Operator Precedence - C",
@@ -51,138 +187,6 @@
     {
       "basename": "Delimeters - C",
       "path": "College/Modules/Programming/Delimeters - C.md"
-    },
-    {
-      "basename": "Pointers - C",
-      "path": "College/Modules/Programming/Unsorted/Pointers - C.md"
-    },
-    {
-      "basename": "Commenting - C",
-      "path": "College/Modules/Programming/Commenting - C.md"
-    },
-    {
-      "basename": "Signed & Unsigned Variables - C",
-      "path": "College/Modules/Programming/Signed & Unsigned Variables - C.md"
-    },
-    {
-      "basename": "Escape Sequence - C",
-      "path": "College/Modules/Programming/Escape Sequence - C.md"
-    },
-    {
-      "basename": "Order of Code - C",
-      "path": "College/Modules/Programming/Order of Code - C.md"
-    },
-    {
-      "basename": "K.I.S.S",
-      "path": "College/Modules/Programming/K.I.S.S.md"
-    },
-    {
-      "basename": "Arrays - C",
-      "path": "College/Modules/Programming/Unsorted/Arrays - C.md"
-    },
-    {
-      "basename": "Wishlist",
-      "path": "Notes/Wishlist.md"
-    },
-    {
-      "basename": "Nietzsche",
-      "path": "Other/Nietzsche.gif"
-    },
-    {
-      "basename": "TU856-1 Kanban",
-      "path": "College/TU856-1/TU856-1 Kanban.md"
-    },
-    {
-      "basename": "Memory Leak",
-      "path": "College/Modules/Programming/Unsorted/Memory Leak.md"
-    },
-    {
-      "basename": "BB",
-      "path": "Templates/BB.md"
-    },
-    {
-      "basename": "TU856-1 Results",
-      "path": "College/TU856-1/TU856-1 Results.md"
-    },
-    {
-      "basename": "Functions - C",
-      "path": "College/Modules/Programming/Functions - C.md"
-    },
-    {
-      "basename": "EXAMPLE - Creating Functions",
-      "path": "College/Modules/EXAMPLE - Creating Functions.md"
-    },
-    {
-      "basename": "Dynamic Memory Allocation - C",
-      "path": "College/Modules/Programming/Dynamic Memory Allocation - C.md"
-    },
-    {
-      "basename": "Passing Arrays - C",
-      "path": "College/Modules/Programming/Passing Arrays - C.md"
-    },
-    {
-      "basename": "Initializing a 2D Array",
-      "path": "College/Modules/Programming/Initializing a 2D Array.md"
-    },
-    {
-      "basename": "Indentation - C",
-      "path": "College/Modules/Programming/Indentation - C.md"
-    },
-    {
-      "basename": "Global and Local Variables - C",
-      "path": "College/Modules/Programming/Global and Local Variables - C.md"
-    },
-    {
-      "basename": "free() - C",
-      "path": "College/Modules/Programming/free() - C.md"
-    },
-    {
-      "basename": "Dereference Operators - C",
-      "path": "College/Modules/Programming/Dereference Operators - C.md"
-    },
-    {
-      "basename": "Tower of Hanoi",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Tower of Hanoi.md"
-    },
-    {
-      "basename": "Iterative  Factorial Algorithm",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Iterative  Factorial Algorithm.md"
-    },
-    {
-      "basename": "CMPU 1006 - Computer Architecture and Technology",
-      "path": "College/TU856-1/Study Guide/CMPU 1006 - Computer Architecture and Technology.md"
-    },
-    {
-      "basename": "CMPU 1006 - 2023.2024",
-      "path": "College/TU856-1/Exam Papers/CMPU 1006 - 2023.2024.pdf"
-    },
-    {
-      "basename": "CMPU 1001 - Algorithm Design and Problem Solving",
-      "path": "College/TU856-1/Study Guide/CMPU 1001 - Algorithm Design and Problem Solving.md"
-    },
-    {
-      "basename": "Display an Image",
-      "path": "College/Modules/Microprocessors Systems/Display an Image.md"
-    },
-    {
-      "basename": "Project",
-      "path": "College/Microprocessors Systems/Project.md"
-    },
-    {
-      "basename": "Turn On Output Port",
-      "path": "College/Modules/Microprocessors Systems/Turn On Output Port.md"
-    },
-    {
-      "basename": "Number to Ascii - C",
-      "path": "College/Modules/Microprocessors Systems/Number to Ascii - C.md"
-    },
-    {
-      "basename": "Incrementing Hexadecimal Numbers - Microcontroller",
-      "path": "College/Modules/Microprocessors Systems/Incrementing Hexadecimal Numbers - Microcontroller.md"
-    },
-    {
-      "basename": "Incrementing Decimal Numbers - Microcontroller",
-      "path": "College/Modules/Microprocessors Systems/Incrementing Decimal Numbers - Microcontroller.md"
     }
   ],
   "omittedPaths": [],

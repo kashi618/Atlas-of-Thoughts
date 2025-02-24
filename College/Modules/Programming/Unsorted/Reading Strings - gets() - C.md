@@ -2,6 +2,7 @@
 tags:
   - ComputerScience
   - Strings
+  - UNFINISHED
 ---
 
 ## scanf()

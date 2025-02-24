@@ -3,6 +3,7 @@ tags:
   - C
   - ComputerScience
   - Variables
+  - UNFINISHED
 ---
 To store a value inside a variable, a variable must first be [[Declaring and Initializing Variables - C|declared]].
 ```c showlinenumbers
