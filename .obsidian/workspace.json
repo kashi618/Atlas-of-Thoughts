@@ -51,37 +51,13 @@
             }
           },
           {
-            "id": "fad1743373d912ed",
+            "id": "4d54966c4e704f3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Modules/Programming/Signed & Unsigned Variables - C.md",
+                "file": "College/Modules/Programming/Casting - C.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Signed & Unsigned Variables - C"
-            }
-          },
-          {
-            "id": "8add9057ff194f24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Programming/Commenting - C.md",
-                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -95,7 +71,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Commenting - C"
+              "title": "Casting - C"
             }
           }
         ],
@@ -165,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Modules/Programming/Signed & Unsigned Variables - C.md",
+                "file": "College/Modules/Programming/Casting - C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Signed & Unsigned Variables - C"
+              "title": "Outline of Casting - C"
             }
           },
           {
@@ -247,14 +223,18 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "fad1743373d912ed",
+  "active": "4d54966c4e704f3d",
   "lastOpenFiles": [
     "College/Modules/Programming/$ C - Programming Language.md",
-    "College/Modules/Programming/Signed & Unsigned Variables - C.md",
-    "College/Modules/Programming/Data Types - C.md",
+    "College/Modules/Programming/Casting - C.md",
+    "College/Modules/Programming/Arithmetic Operations and Expressions - C.md",
+    "UNSORTED/Operator Precedence - C.md",
+    "College/Modules/Programming/Incrementing and Decrementing - C.md",
     "College/Modules/Programming/Commenting - C.md",
-    "Home Page/Home.canvas",
+    "College/Modules/Programming/Signed & Unsigned Variables - C.md",
     "College/Modules/Programming/Variables - C.md",
+    "College/Modules/Programming/Data Types - C.md",
+    "Home Page/Home.canvas",
     "College/Modules/Programming/Escape Sequence - C.md",
     "College/Modules/Programming/Order of Code - C.md",
     "College/Modules/Programming/K.I.S.S.md",
@@ -272,11 +252,7 @@
     "College/Modules/Programming/$ MOC - C.md",
     "College/Modules/Programming/Unsorted/Declaring and Initializing - C.md",
     "College/Modules/Programming/Arrays - C.md",
-    "College/Modules/Programming/Unsorted/Decimal Places and Leading Zeros - C.md",
-    "College/Modules/Programming/Unsorted/Compiler.md",
-    "College/Modules/Programming/Unsorted/Casting - C.md",
     "College/Modules/Programming/Unsorted",
-    "College/Modules/Programming/Casting - C.md",
     "College/Modules",
     "College/TU856-1/Exam Papers/CMPU 1006 - 2023.2024.pdf",
     "College/TU856-1/Exam Papers/CMPU 1001 - 2023.2024.pdf",

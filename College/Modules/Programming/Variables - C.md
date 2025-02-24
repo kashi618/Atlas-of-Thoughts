@@ -2,6 +2,7 @@
 tags:
   - C
 aliases:
+  - Variables
 ---
 ## What is a Variable?
 - A piece of memory in a program used to store data.
@@ -35,6 +36,8 @@ float k = 3.14;
 # See Also
 [[$ C - Programming Language]]
 [[Data Types - C]]
+[[Signed & Unsigned Variables - C|Signed Variable]]
+
 [[Symbolic Names - C]]
 [[Storing Data in Variables - C]]
 [[Returning Variables - C]]

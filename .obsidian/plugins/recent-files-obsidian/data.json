@@ -1,28 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Signed & Unsigned Variables - C",
-      "path": "College/Modules/Programming/Signed & Unsigned Variables - C.md"
+      "basename": "Casting - C",
+      "path": "College/Modules/Programming/Casting - C.md"
     },
     {
       "basename": "$ C - Programming Language",
       "path": "College/Modules/Programming/$ C - Programming Language.md"
     },
     {
-      "basename": "Data Types - C",
-      "path": "College/Modules/Programming/Data Types - C.md"
+      "basename": "Arithmetic Operations and Expressions - C",
+      "path": "College/Modules/Programming/Arithmetic Operations and Expressions - C.md"
+    },
+    {
+      "basename": "Operator Precedence - C",
+      "path": "UNSORTED/Operator Precedence - C.md"
+    },
+    {
+      "basename": "Incrementing and Decrementing - C",
+      "path": "College/Modules/Programming/Incrementing and Decrementing - C.md"
     },
     {
       "basename": "Commenting - C",
       "path": "College/Modules/Programming/Commenting - C.md"
     },
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
+      "basename": "Signed & Unsigned Variables - C",
+      "path": "College/Modules/Programming/Signed & Unsigned Variables - C.md"
     },
     {
       "basename": "Variables - C",
       "path": "College/Modules/Programming/Variables - C.md"
+    },
+    {
+      "basename": "Data Types - C",
+      "path": "College/Modules/Programming/Data Types - C.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Escape Sequence - C",
@@ -113,10 +129,6 @@
       "path": "College/Modules/Programming/Indentation - C.md"
     },
     {
-      "basename": "Incrementing and Decrementing - C",
-      "path": "College/Modules/Programming/Incrementing and Decrementing - C.md"
-    },
-    {
       "basename": "Global and Local Variables - C",
       "path": "College/Modules/Programming/Global and Local Variables - C.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "CLI",
       "path": "College/Modules/Operating Systems/CLI.md"
-    },
-    {
-      "basename": "Effective",
-      "path": "College/Modules/Operating Systems/Effective.md"
-    },
-    {
-      "basename": "BIOS",
-      "path": "College/Modules/Operating Systems/BIOS.md"
-    },
-    {
-      "basename": "Bit-shifting and Masks - c",
-      "path": "College/Modules/Microprocessors Systems/Bit-shifting and Masks - c.md"
     }
   ],
   "omittedPaths": [],

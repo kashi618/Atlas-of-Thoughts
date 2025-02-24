@@ -1,14 +1,21 @@
 ---
 tags:
   - C
-  - ComputerScience
-  - Casting
+aliases:
 ---
 - Casting in C, allows us to convert a variable from one type to another
 - **IT DOES NOT CHANGE THE ORIGINAL VARIABLE TYPE.** It only changes it for that specific line/calculation.
 - An integer divided by an integer, only returns an integer!
+## How to Cast a Variable
+Here is an example on how to cast a float into an integer
+```c showlinenumbers
+float float_pi = 3.141592654;
+int int_pi = (int)pi;
+```
+In this case, the value of `int_pi` is `3`/
 
 ## Explicit Casting
+- Explicit casting is when you **manually** cast a variable into another type.
 
 ```c showlinenumbers
 // The test variable is now a float
@@ -22,9 +29,9 @@ int age = 10;
 // now it changes age into a float
 float message = (float)age;
 ```
-- Explicit casting is when you manually cast a variable into another type.
 
 ## Implicit Casting
+- Implicit casting is when the compiler **automatically** casts a variable to another type
 
 ```c showlinenumbers
 int var1 = 1
@@ -35,7 +42,6 @@ float answer
 // var1 is cast into a float, through implicit casting
 answer = var1 + var2
 ```
-- Implicit casting is when the compiler automatically casts a variable to another type
 
 ## Order of Precedence
 A variable can only be casted into a lower data type than itself
@@ -52,16 +58,5 @@ This is the order of precedence, from highest to lowest
 - Double
 - Long Double
 
-## Dangers with Casting
-```c showlinenumbers
-// The pi variable is a float
-float pi = 3.14159
-
-// I cast the float into an integer
-int coolNumber = (int)pi
-
-// However, because I casted a float into an integer, the value of coolNumber can only be 3
-```
-- Converting a float into an integer, looses the numbers after the decimal point
-
 # See Also
+[[$ C - Programming Language]]
