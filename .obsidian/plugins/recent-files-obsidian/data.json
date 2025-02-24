@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Display an Image",
+      "path": "College/Microprocessors Systems/Display an Image.md"
+    },
+    {
       "basename": "Project",
       "path": "College/Microprocessors Systems/Project.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "GPIOA - GPIOB",
       "path": "College/Microprocessors Systems/GPIOA - GPIOB.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "File Permissions - chmod - Linux",
@@ -195,10 +199,6 @@
     {
       "basename": "Compiler",
       "path": "College/Programming/Compiler.md"
-    },
-    {
-      "basename": "Data Types",
-      "path": "College/Programming/Data Types.md"
     }
   ],
   "omittedPaths": [],

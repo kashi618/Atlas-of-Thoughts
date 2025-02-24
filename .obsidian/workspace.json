@@ -16,8 +16,8 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -225.61406211890275,
-                  "y": 41.31562728658326,
+                  "x": -240,
+                  "y": -45,
                   "zoom": -0.6293566200796098
                 }
               },
@@ -25,33 +25,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "c38f540035fc17e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Microprocessors Systems/Project.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Project"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,10 +173,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "c38f540035fc17e1",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "College/Microprocessors Systems/Display an Image.md",
     "College/Microprocessors Systems/Turn On Output Port.md",
-    "College/Microprocessors Systems/Project.md",
     "College/Microprocessors Systems/Number to Ascii - C.md",
     "College/Microprocessors Systems/Volatile Variable.md",
     "College/Microprocessors Systems/Incrementing Hexadecimal Numbers - Microcontroller.md",
