@@ -19,25 +19,13 @@
                     "file": "Home Page/Home.canvas",
                     "viewState": {
                       "x": -240,
-                      "y": 121.11637787825376,
-                      "zoom": -1.0999260659334589
+                      "y": -45,
+                      "zoom": -0.7791697824338356
                     }
                   },
                   "pinned": true,
                   "icon": "lucide-layout-dashboard",
                   "title": "Home"
-                }
-              },
-              {
-                "id": "a47fa4af177eaf2e",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "obsidian-projects",
-                  "state": {},
-                  "pinned": true,
-                  "icon": "projects-icon",
-                  "title": "Projects"
                 }
               }
             ]
@@ -115,21 +103,8 @@
                   "icon": "lucide-list",
                   "title": "Outline of Home"
                 }
-              },
-              {
-                "id": "ba0450c62976b5f7",
-                "type": "leaf",
-                "state": {
-                  "type": "chat-view",
-                  "state": {
-                    "file": "Chats/New Chat.md"
-                  },
-                  "icon": "message-square",
-                  "title": "New Chat"
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "b56fa9676414f482",
@@ -150,10 +125,13 @@
           }
         ],
         "direction": "horizontal",
-        "width": 421.5
+        "width": 349.5
       },
       "left-ribbon": {
         "hiddenItems": {
+          "quiz-generator:Open generator": false,
+          "smart-random-note:Open Random Note from Search": false,
+          "obsidian-kanban:Create new board": false,
           "graph:Open graph view": false,
           "command-palette:Open command palette": false,
           "audio-recorder:Start/stop recording": false,
@@ -167,14 +145,11 @@
           "table-editor-obsidian:Advanced Tables Toolbar": false,
           "obsidian-book-search-plugin:Create new book note": false,
           "widgets:Add widget": false,
-          "smart-second-brain:Open S2B Chat": false,
-          "smart-connections:Open: View Smart Connections": false,
-          "smart-connections:Open: Smart Chat Conversation": false,
           "obsidian-projects:Open projects": false
         }
       },
       "active": "e7a7b303c61786dc",
-      "mtime": "2025-02-10T22:13:12+00:00"
+      "mtime": "2025-02-24T19:41:31+00:00"
     }
   },
   "active": "Workhorse"

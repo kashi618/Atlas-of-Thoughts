@@ -5,12 +5,96 @@
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "Functions - C",
+      "path": "College/Modules/Programming/Functions - C.md"
+    },
+    {
+      "basename": "EXAMPLE - Creating Functions",
+      "path": "College/Modules/EXAMPLE - Creating Functions.md"
+    },
+    {
+      "basename": "TU856-1 Kanban",
+      "path": "College/TU856-1/TU856-1 Kanban.md"
+    },
+    {
+      "basename": "Ampersand - C",
+      "path": "College/Modules/Programming/Ampersand - C.md"
+    },
+    {
+      "basename": "Serial Communications",
+      "path": "UNSORTED/Serial Communications.md"
+    },
+    {
+      "basename": "Call Stack",
+      "path": "UNSORTED/Call Stack.md"
+    },
+    {
+      "basename": "Untitled Kanban 1",
+      "path": "UNSORTED/Untitled Kanban 1.md"
+    },
+    {
+      "basename": "Dynamic Memory Allocation - C",
+      "path": "College/Modules/Programming/Dynamic Memory Allocation - C.md"
+    },
+    {
+      "basename": "Passing Arrays - C",
+      "path": "College/Modules/Programming/Passing Arrays - C.md"
+    },
+    {
+      "basename": "Initializing a 2D Array",
+      "path": "College/Modules/Programming/Initializing a 2D Array.md"
+    },
+    {
+      "basename": "Indentation - C",
+      "path": "College/Modules/Programming/Indentation - C.md"
+    },
+    {
+      "basename": "Incrementing and Decrementing - C",
+      "path": "College/Modules/Programming/Incrementing and Decrementing - C.md"
+    },
+    {
+      "basename": "Global and Local Variables - C",
+      "path": "College/Modules/Programming/Global and Local Variables - C.md"
+    },
+    {
+      "basename": "free() - C",
+      "path": "College/Modules/Programming/free() - C.md"
+    },
+    {
+      "basename": "Escape Character - C",
+      "path": "College/Modules/Programming/Escape Character - C.md"
+    },
+    {
+      "basename": "Dereference Operators - C",
+      "path": "College/Modules/Programming/Dereference Operators - C.md"
+    },
+    {
+      "basename": "Delimeters - C",
+      "path": "College/Modules/Programming/Delimeters - C.md"
+    },
+    {
+      "basename": "Declaring and Initializing - C",
+      "path": "College/Modules/Programming/Declaring and Initializing - C.md"
+    },
+    {
+      "basename": "Decimal Places and Leading Zeros - C",
+      "path": "College/Modules/Programming/Decimal Places and Leading Zeros - C.md"
+    },
+    {
+      "basename": "Data Types",
+      "path": "College/Modules/Programming/Data Types.md"
+    },
+    {
+      "basename": "Compiler",
+      "path": "College/Modules/Programming/Compiler.md"
+    },
+    {
       "basename": "Tower of Hanoi",
-      "path": "College/Algorithm Design and Problem Solving/Tower of Hanoi.md"
+      "path": "College/Modules/Algorithm Design and Problem Solving/Tower of Hanoi.md"
     },
     {
       "basename": "Iterative  Factorial Algorithm",
-      "path": "College/Algorithm Design and Problem Solving/Iterative  Factorial Algorithm.md"
+      "path": "College/Modules/Algorithm Design and Problem Solving/Iterative  Factorial Algorithm.md"
     },
     {
       "basename": "CMPU 1006 - Computer Architecture and Technology",
@@ -26,7 +110,7 @@
     },
     {
       "basename": "Display an Image",
-      "path": "College/Microprocessors Systems/Display an Image.md"
+      "path": "College/Modules/Microprocessors Systems/Display an Image.md"
     },
     {
       "basename": "Project",
@@ -34,63 +118,51 @@
     },
     {
       "basename": "Turn On Output Port",
-      "path": "College/Microprocessors Systems/Turn On Output Port.md"
+      "path": "College/Modules/Microprocessors Systems/Turn On Output Port.md"
     },
     {
       "basename": "Number to Ascii - C",
-      "path": "College/Microprocessors Systems/Number to Ascii - C.md"
+      "path": "College/Modules/Microprocessors Systems/Number to Ascii - C.md"
     },
     {
       "basename": "Incrementing Hexadecimal Numbers - Microcontroller",
-      "path": "College/Microprocessors Systems/Incrementing Hexadecimal Numbers - Microcontroller.md"
+      "path": "College/Modules/Microprocessors Systems/Incrementing Hexadecimal Numbers - Microcontroller.md"
     },
     {
       "basename": "Incrementing Decimal Numbers - Microcontroller",
-      "path": "College/Microprocessors Systems/Incrementing Decimal Numbers - Microcontroller.md"
+      "path": "College/Modules/Microprocessors Systems/Incrementing Decimal Numbers - Microcontroller.md"
     },
     {
       "basename": "GPIOA - GPIOB",
-      "path": "College/Microprocessors Systems/GPIOA - GPIOB.md"
+      "path": "College/Modules/Microprocessors Systems/GPIOA - GPIOB.md"
     },
     {
       "basename": "File Permissions - chmod - Linux",
-      "path": "College/Operating Systems/File Permissions - chmod - Linux.md"
+      "path": "College/Modules/Operating Systems/File Permissions - chmod - Linux.md"
     },
     {
       "basename": "Pass by Value - Pass by Reference - C",
-      "path": "College/Programming/Pass by Value - Pass by Reference - C.md"
-    },
-    {
-      "basename": "Dynamic Memory Allocation - C",
-      "path": "College/Programming/Dynamic Memory Allocation - C.md"
-    },
-    {
-      "basename": "Passing Arrays - C",
-      "path": "College/Programming/Passing Arrays - C.md"
+      "path": "College/Modules/Programming/Pass by Value - Pass by Reference - C.md"
     },
     {
       "basename": "Pointers and Arrays - C",
-      "path": "College/Programming/Pointers and Arrays - C.md"
-    },
-    {
-      "basename": "Functions - C",
-      "path": "College/Programming/Functions - C.md"
+      "path": "College/Modules/Programming/Pointers and Arrays - C.md"
     },
     {
       "basename": "CLI",
-      "path": "College/Operating Systems/CLI.md"
+      "path": "College/Modules/Operating Systems/CLI.md"
     },
     {
       "basename": "Effective",
-      "path": "College/Operating Systems/Effective.md"
+      "path": "College/Modules/Operating Systems/Effective.md"
     },
     {
       "basename": "BIOS",
-      "path": "College/Operating Systems/BIOS.md"
+      "path": "College/Modules/Operating Systems/BIOS.md"
     },
     {
       "basename": "Bit-shifting and Masks - c",
-      "path": "College/Microprocessors Systems/Bit-shifting and Masks - c.md"
+      "path": "College/Modules/Microprocessors Systems/Bit-shifting and Masks - c.md"
     },
     {
       "basename": "CMPU 1001 - 2023.2024",
@@ -127,78 +199,6 @@
     {
       "basename": "CMPU 1022 - 2023.2024",
       "path": "College/TU856-1/Exam Papers/CMPU 1022 - 2023.2024.pdf"
-    },
-    {
-      "basename": "CMPU 1022 - 2022.2023",
-      "path": "College/TU856-1/Exam Papers/CMPU 1022 - 2022.2023.pdf"
-    },
-    {
-      "basename": "CMPU 1019 - 2023.2024",
-      "path": "College/TU856-1/Exam Papers/CMPU 1019 - 2023.2024.pdf"
-    },
-    {
-      "basename": "CMPU 1019 - 2022.2023",
-      "path": "College/TU856-1/Exam Papers/CMPU 1019 - 2022.2023.pdf"
-    },
-    {
-      "basename": "CMPU 1006 - 2022.2023",
-      "path": "College/TU856-1/Exam Papers/CMPU 1006 - 2022.2023.pdf"
-    },
-    {
-      "basename": "CMPU 1025 - Programming",
-      "path": "College/TU856-1/Study Guide/CMPU 1025 - Programming.md"
-    },
-    {
-      "basename": "CMPU 1039 - Data Exploration",
-      "path": "College/TU856-1/Study Guide/CMPU 1039 - Data Exploration.md"
-    },
-    {
-      "basename": "CMPU 1022 - Operating Systems 1",
-      "path": "College/TU856-1/Study Guide/CMPU 1022 - Operating Systems 1.md"
-    },
-    {
-      "basename": "CMPU 1019 - Microprocessor Systems",
-      "path": "College/TU856-1/Study Guide/CMPU 1019 - Microprocessor Systems.md"
-    },
-    {
-      "basename": "TU856-1 Results",
-      "path": "College/TU856-1/TU856-1 Results.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "UNSORTED/Untitled.md"
-    },
-    {
-      "basename": "Von Neumann Architecture",
-      "path": "College/Computer Architecture and Technology/Von Neumann Architecture.md"
-    },
-    {
-      "basename": "CPU",
-      "path": "College/Computer Architecture and Technology/CPU.md"
-    },
-    {
-      "basename": "Computer Architecture",
-      "path": "College/Computer Architecture and Technology/Computer Architecture.md"
-    },
-    {
-      "basename": "free() - C",
-      "path": "College/Programming/free() - C.md"
-    },
-    {
-      "basename": "Function Signatures - C",
-      "path": "College/Programming/Function Signatures - C.md"
-    },
-    {
-      "basename": "Declaring and Initializing - C",
-      "path": "College/Programming/Declaring and Initializing - C.md"
-    },
-    {
-      "basename": "Delimeters - C",
-      "path": "College/Programming/Delimeters - C.md"
-    },
-    {
-      "basename": "Decimal Places and Leading Zeros - C",
-      "path": "College/Programming/Decimal Places and Leading Zeros - C.md"
     }
   ],
   "omittedPaths": [],

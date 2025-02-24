@@ -12,4 +12,4 @@ When a function repeatedly calls upon itself, either directly or indirectly
 [[Recursive Euclidean Algorithm]]
 # See Also
 [[Base Case]]
-[[Call Stack]]
+[[College/Modules/Algorithm Design and Problem Solving/Call Stack]]
