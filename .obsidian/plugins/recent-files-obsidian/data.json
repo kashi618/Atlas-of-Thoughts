@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "BIOS",
-      "path": "College/Operating Systems/BIOS.md"
+      "basename": "chmod - Linux NONE",
+      "path": "College/Operating Systems/chmod - Linux NONE.md"
     },
     {
-      "basename": "BIOS (NOT FINISHESD)",
-      "path": "College/Operating Systems/BIOS (NOT FINISHESD).md"
+      "basename": "CLI",
+      "path": "College/Operating Systems/CLI.md"
+    },
+    {
+      "basename": "Effective",
+      "path": "College/Operating Systems/Effective.md"
+    },
+    {
+      "basename": "BIOS",
+      "path": "College/Operating Systems/BIOS.md"
     },
     {
       "basename": "Bit-shifting and Masks - c",
@@ -191,14 +199,6 @@
     {
       "basename": "Arrays - C",
       "path": "College/Programming/Arrays - C.md"
-    },
-    {
-      "basename": "Ampersand - C",
-      "path": "College/Programming/Ampersand - C.md"
-    },
-    {
-      "basename": "Iterative  Factorial Algorithm",
-      "path": "College/Algorithm Design and Problem Solving/Iterative  Factorial Algorithm.md"
     }
   ],
   "omittedPaths": [],

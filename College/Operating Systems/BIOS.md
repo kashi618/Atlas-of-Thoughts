@@ -13,10 +13,7 @@ first instruction, it has to get that instruction from somewhere
 - But since the Operating System is located on the hard disk before boot-up, the  
 CPU cannot get this initial instruction from the OS  
 - So the BIOS provides these initial instructions
-- x^N = A
-- LOG A z = N
 
 # See Also
 [[Boot Process]]
 [[EFI - UEFI]]
-[[efi]]

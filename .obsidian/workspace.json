@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Operating Systems/BIOS.md",
+                "file": "College/Operating Systems/File Permissions - chmod - Linux.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "BIOS"
+              "title": "File Permissions - chmod - Linux"
             }
           }
         ],
@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.51103591918945
+    "width": 398.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -200,8 +201,10 @@
   },
   "active": "bc960af1fddd54cc",
   "lastOpenFiles": [
-    "College/Operating Systems/BIOS (NOT FINISHESD).md",
+    "College/Operating Systems/CLI.md",
+    "College/Operating Systems/Effective.md",
     "College/Operating Systems/BIOS.md",
+    "College/Operating Systems/BIOS (NOT FINISHESD).md",
     "College/Microprocessors Systems/Bit-shifting and Masks - c.md",
     "Home Page/Home.canvas",
     "College/TU856-1/Exam Papers/CMPU 1001 - 2023.2024.pdf",
@@ -235,8 +238,6 @@
     "College/Programming/Function Signatures - C.md",
     "College/Programming/Declaring and Initializing - C.md",
     "College/Programming/Delimeters - C.md",
-    "College/Programming/Decimal Places and Leading Zeros - C.md",
-    "College/Programming/Casting - C.md",
     "Other/Pasted image 20250219165205.png",
     "Other/Pasted image 20250219165204.png",
     "Other/Pasted image 20250212145157.png",
