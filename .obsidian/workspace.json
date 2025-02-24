@@ -27,14 +27,14 @@
             }
           },
           {
-            "id": "8add9057ff194f24",
+            "id": "3fc12b6a3215871d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "College/Modules/Programming/$ C - Programming Language.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -51,36 +51,12 @@
             }
           },
           {
-            "id": "42f9e1f8d53d2f90",
+            "id": "fad1743373d912ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Modules/Programming/Escape Sequence - C.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Escape Sequence - C"
-            }
-          },
-          {
-            "id": "3100f129bc2b62b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Programming/Variables - C.md",
+                "file": "College/Modules/Programming/Signed & Unsigned Variables - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -95,11 +71,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Variables - C"
+              "title": "Signed & Unsigned Variables - C"
+            }
+          },
+          {
+            "id": "8add9057ff194f24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Modules/Programming/Commenting - C.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Commenting - C"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Modules/Programming/Variables - C.md",
+                "file": "College/Modules/Programming/Signed & Unsigned Variables - C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Variables - C"
+              "title": "Outline of Signed & Unsigned Variables - C"
             }
           },
           {
@@ -247,21 +247,23 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "3100f129bc2b62b5",
+  "active": "fad1743373d912ed",
   "lastOpenFiles": [
-    "College/Modules/Programming/Escape Sequence - C.md",
+    "College/Modules/Programming/$ C - Programming Language.md",
+    "College/Modules/Programming/Signed & Unsigned Variables - C.md",
+    "College/Modules/Programming/Data Types - C.md",
+    "College/Modules/Programming/Commenting - C.md",
+    "Home Page/Home.canvas",
     "College/Modules/Programming/Variables - C.md",
+    "College/Modules/Programming/Escape Sequence - C.md",
     "College/Modules/Programming/Order of Code - C.md",
     "College/Modules/Programming/K.I.S.S.md",
-    "College/Modules/Programming/Data Types - C.md",
-    "College/Modules/Programming/$ C - Programming Language.md",
     "UNSORTED/varia.md",
     "College/Modules/Programming/Unsorted/Arrays - C.md",
     "College/Modules/Programming/Unsorted/Leading Numbers - C.md",
     "College/Modules/Programming/Pass by Value & Pass by Reference - C.md",
     "College/Modules/Programming/Unsorted/Pass by Value & Pass by Reference - C.md",
     "College/Modules/Programming/Leading Numbers - C.md",
-    "Home Page/Home.canvas",
     "College/TU856-1/TU856-1 Kanban.md",
     "College/Modules/Programming/Unsorted/Delimeters - C.md",
     "College/Modules/Programming/Unsorted/K.I.S.S.md",
@@ -275,8 +277,6 @@
     "College/Modules/Programming/Unsorted/Casting - C.md",
     "College/Modules/Programming/Unsorted",
     "College/Modules/Programming/Casting - C.md",
-    "College/Modules/Programming/Decimal Places and Leading Zeros - C.md",
-    "College/Modules/Programming/Ampersand - C.md",
     "College/Modules",
     "College/TU856-1/Exam Papers/CMPU 1006 - 2023.2024.pdf",
     "College/TU856-1/Exam Papers/CMPU 1001 - 2023.2024.pdf",
