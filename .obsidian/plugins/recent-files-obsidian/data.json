@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Project",
+      "path": "College/Microprocessors Systems/Project.md"
+    },
+    {
       "basename": "Turn On Output Port",
       "path": "College/Microprocessors Systems/Turn On Output Port.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Data Types",
       "path": "College/Programming/Data Types.md"
-    },
-    {
-      "basename": "Subscript and Pointer Notation - C",
-      "path": "College/Programming/Subscript and Pointer Notation - C.md"
     }
   ],
   "omittedPaths": [],
