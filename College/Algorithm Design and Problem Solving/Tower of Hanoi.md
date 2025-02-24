@@ -14,7 +14,7 @@ This is perfect for recursion, because of two things
 
 ## Recursive Algorithm
 ```
-moveTower(disks, source, deskt, spare)
+moveTower(disks, source, dest, spare)
 
 disks  = Which disk to move
 source = From which tower to move from
@@ -28,14 +28,14 @@ disk2  = largest  disk
 
 ### Call Stack
 
-| Movement                                     | Function Call |
-| -------------------------------------------- | ------------- |
-| Move **disk0** from **tower 1** to **tower 3** | moveTOwer     |
-| Move **disk1** from **tower 1** to **tower 2**   |               |
-| move **disk0** from **tower 3** to **tower 2**     |               |
-| move **disk2** from **tower 1** to **tower 3**   |               |
-| move **disk0** from **tower 2** to **tower 1**       |               |
-| move **disk1** from **tower 2** to **tower 3**       |               |
-| move **disk0** from **tower 1** to **tower 3**       |               |
+| Movement                                       | Function Call |
+| ---------------------------------------------- | ------------- |
+| Move **disk0** from **tower 1** to **tower 3** | moveTower(0,) |
+| Move **disk1** from **tower 1** to **tower 2** | moveTower()   |
+| move **disk0** from **tower 3** to **tower 2** | moveTower()   |
+| move **disk2** from **tower 1** to **tower 3** | moveTower()   |
+| move **disk0** from **tower 2** to **tower 1** | moveTower()   |
+| move **disk1** from **tower 2** to **tower 3** | moveTower()   |
+| move **disk0** from **tower 1** to **tower 3** | moveTower()   |
 
 # See Also
