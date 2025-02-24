@@ -1,10 +1,9 @@
 ---
 tags:
   - C
-  - ComputerScience
-  - Variables
+aliases:
 ---
-In order to print out or store data inside of variables, a demiliter is needed to specifiy the type of data you want to print out/store.
+In order to print out or store data inside of variables, a delimiter is needed to specify the **type of data** you want to input/output.
 
 | Delimeter | Type                                  |
 | --------- | ------------------------------------- |
@@ -13,3 +12,7 @@ In order to print out or store data inside of variables, a demiliter is needed t
 | %c        | Character                             |
 | %p        | [[Pointers - C]]                      |
 | %s        | [[Strings - C]] |
+
+# See Also
+[[$ C - Programming Language]]
+[[Keyboard Input - C]]
