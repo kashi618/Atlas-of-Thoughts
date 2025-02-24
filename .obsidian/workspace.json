@@ -51,12 +51,12 @@
             }
           },
           {
-            "id": "2cafbef6be1a4915",
+            "id": "3135bab011f65540",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Modules/Programming/Unsorted/Leading Numbers - C.md",
+                "file": "College/Modules/Programming/Unsorted/Variables - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,21 +71,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Leading Numbers - C"
-            }
-          },
-          {
-            "id": "57d61abbcbb49e3b",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
+              "title": "Variables - C"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "College/Modules/Programming/Unsorted/Variables - C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Variables - C"
             }
           },
           {
@@ -250,37 +241,37 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "57d61abbcbb49e3b",
+  "active": "3135bab011f65540",
   "lastOpenFiles": [
-    "College/Modules/Programming/Unsorted/Leading Numbers - C.md",
-    "College/TU856-1/TU856-1 Kanban.md",
     "College/Modules/Programming/$ C - Programming Language.md",
-    "College/Modules/Programming/Unsorted/Delimeters - C.md",
+    "College/Modules/Programming/Unsorted/Data Types - C.md",
+    "College/Modules/Programming/Unsorted/Variables - C.md",
+    "College/Modules/Programming/Order of Code - C.md",
     "College/Modules/Programming/K.I.S.S.md",
+    "UNSORTED/varia.md",
+    "College/Modules/Programming/Unsorted/Arrays - C.md",
+    "College/Modules/Programming/Unsorted/Leading Numbers - C.md",
+    "College/Modules/Programming/Pass by Value & Pass by Reference - C.md",
+    "College/Modules/Programming/Unsorted/Pass by Value & Pass by Reference - C.md",
+    "College/Modules/Programming/Leading Numbers - C.md",
+    "Home Page/Home.canvas",
+    "College/TU856-1/TU856-1 Kanban.md",
+    "College/Modules/Programming/Unsorted/Delimeters - C.md",
     "College/Modules/Programming/Unsorted/K.I.S.S.md",
     "College/Modules/Programming/Unsorted/Memory Leak.md",
     "Templates/BB.md",
     "College/Modules/Programming/$ MOC - C.md",
-    "Home Page/Home.canvas",
     "College/Modules/Programming/Variables - C.md",
     "College/Modules/Programming/Unsorted/Declaring and Initializing - C.md",
     "College/Modules/Programming/Arrays - C.md",
     "College/Modules/Programming/Unsorted/Decimal Places and Leading Zeros - C.md",
-    "College/Modules/Programming/Unsorted/Data Types.md",
     "College/Modules/Programming/Unsorted/Compiler.md",
     "College/Modules/Programming/Unsorted/Casting - C.md",
-    "College/Modules/Programming/Unsorted/Arrays - C.md",
     "College/Modules/Programming/Unsorted",
     "College/Modules/Programming/Casting - C.md",
     "College/Modules/Programming/Decimal Places and Leading Zeros - C.md",
     "College/Modules/Programming/Ampersand - C.md",
-    "College/TU856-1/TU856-1 Results.md",
-    "College/Modules/Programming/Functions - C.md",
-    "College/Modules/EXAMPLE - Creating Functions.md",
     "College/Modules",
-    "UNSORTED/Untitled.md",
-    "UNSORTED/Serial Communications.md",
-    "UNSORTED/Call Stack.md",
     "College/TU856-1/Exam Papers/CMPU 1006 - 2023.2024.pdf",
     "College/TU856-1/Exam Papers/CMPU 1001 - 2023.2024.pdf",
     "College/TU856-1/Exam Papers/CMPU 1001 - 2022.2023.pdf",

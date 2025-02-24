@@ -1,43 +1,41 @@
 ---
 tags:
-  - ComputerScience
-  - Functions
+  - C
+aliases:
+  - Pass by Value
+  - Pass by Reference
 ---
 ## Pass by Value
 This is when a **COPY** of a parameter is passed into a function
 
 ```c showlinenumbers
-#include <stdio.h>
-
-void meow(int);
-
-void main(void) {
+void main(void)
+{
 	int num1 = 10;
 	
+	// Pass by value used to pass num1 into
+	// the meow() function
 	meow(num1);
 	
 	return 0;
 }
-
-void meow(num) {
-	for (int i=0; i<num; i++) {
+// Prints the word "meow" n amount times
+void meow(n)
+{
+	for (int i=0; i<n; i++) {
 		printf("meow");
 	}
 }
 ```
 
 ## Pass by Reference / Functions with Pointers
-This is when you pass the **ADDRESS** of the parameter to the function
-- This allows you to change the value of the original value of the parameter
+This is when you pass the **ADDRESS** of the parameter to the function.
+- It allows you to change the value of the original value of the parameter, outside of the main function
 
 ```c showlinenumbers
-#include <stdio.h>
-
-void fxn1(int *);
-
 int main()
 {
-    int num = 0;
+    int num = 10;
     
     printf("Enter any number\n");
     scanf("%d", & num);
@@ -54,7 +52,7 @@ int main()
 // fxn1() uses the address location of num, which is passed to
 // this function and accesses its contents using the dereference
 // operator
-void fxn1(int *n1)
+void meow(int *n1)
 {
     printf("\nn1 contains %d\n", *n1);
     
@@ -62,7 +60,6 @@ void fxn1(int *n1)
     (*n1)++; // *n1 = *n1 + 1;
     
     printf("\nn1 contains %d\n", *n1);
-    
 }
 ```
 

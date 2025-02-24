@@ -39,4 +39,4 @@ Used for [[Dynamic Memory Allocation - C|dynamic memory allocation]], for storin
 [[Variables - C]]
 [[Dereference Operators - C]]
 [[Pointers and Arrays - C]]
-[[Pass by Value - Pass by Reference - C]]
+[[Pass by Value & Pass by Reference - C]]

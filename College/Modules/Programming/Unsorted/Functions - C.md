@@ -59,5 +59,5 @@ int sum(int num1, int num2) {
 # See Also
 [[Function Signatures - C]]
 [[Order of Code - C]]
-[[Pass by Value - Pass by Reference - C]]
+[[Pass by Value & Pass by Reference - C]]
 [[Pointers - C]]

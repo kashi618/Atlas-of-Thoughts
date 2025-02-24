@@ -1,7 +1,7 @@
 ---
 tags:
-  - C
   - UNFINISHED
+  - C
 aliases:
 ---
 Makes a variable always print with a specific amount of digits

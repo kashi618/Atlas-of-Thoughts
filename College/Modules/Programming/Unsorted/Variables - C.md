@@ -4,10 +4,14 @@ tags:
   - Variables
   - DataStructures
 ---
-- Piece of memory in a program used to store data
-- Variables are stored in RAM
+## What is a Variable?
+- A piece of memory in a program used to store data.
+- Variables from programs are stored in RAM.
+
+---
 
 ## Declaring Variables
+This is also known as "creating" variab
 ```c showlinenumbers
 variableType variableName;
 ```

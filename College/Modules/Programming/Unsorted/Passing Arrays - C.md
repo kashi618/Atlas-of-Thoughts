@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Passing a 1D Array to a Function
-- Passing an array is actually using [[Pass by Value - Pass by Reference - C|pass by reference]]
+- Passing an array is actually using [[Pass by Value & Pass by Reference - C|pass by reference]]
 - A 1D array can can be passed to a function using only its name, (which is a pointer to the first element)
 
 ### Function Signature

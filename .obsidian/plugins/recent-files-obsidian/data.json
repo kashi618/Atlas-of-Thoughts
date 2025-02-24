@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Leading Numbers - C",
-      "path": "College/Modules/Programming/Unsorted/Leading Numbers - C.md"
-    },
-    {
-      "basename": "TU856-1 Kanban",
-      "path": "College/TU856-1/TU856-1 Kanban.md"
+      "basename": "Variables - C",
+      "path": "College/Modules/Programming/Unsorted/Variables - C.md"
     },
     {
       "basename": "$ C - Programming Language",
       "path": "College/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "Data Types - C",
+      "path": "College/Modules/Programming/Unsorted/Data Types - C.md"
+    },
+    {
+      "basename": "Order of Code - C",
+      "path": "College/Modules/Programming/Order of Code - C.md"
+    },
+    {
+      "basename": "K.I.S.S",
+      "path": "College/Modules/Programming/K.I.S.S.md"
+    },
+    {
+      "basename": "varia",
+      "path": "UNSORTED/varia.md"
+    },
+    {
+      "basename": "Arrays - C",
+      "path": "College/Modules/Programming/Unsorted/Arrays - C.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Wishlist",
+      "path": "Notes/Wishlist.md"
+    },
+    {
+      "basename": "Nietzsche",
+      "path": "Other/Nietzsche.gif"
+    },
+    {
+      "basename": "TU856-1 Kanban",
+      "path": "College/TU856-1/TU856-1 Kanban.md"
     },
     {
       "basename": "Delimeters - C",
@@ -23,10 +55,6 @@
     {
       "basename": "BB",
       "path": "Templates/BB.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Variables - C",
@@ -149,10 +177,6 @@
       "path": "College/Modules/Operating Systems/File Permissions - chmod - Linux.md"
     },
     {
-      "basename": "Pass by Value - Pass by Reference - C",
-      "path": "College/Modules/Programming/Pass by Value - Pass by Reference - C.md"
-    },
-    {
       "basename": "Pointers and Arrays - C",
       "path": "College/Modules/Programming/Pointers and Arrays - C.md"
     },
@@ -175,14 +199,6 @@
     {
       "basename": "CMPU 1001 - 2023.2024",
       "path": "College/TU856-1/Exam Papers/CMPU 1001 - 2023.2024.pdf"
-    },
-    {
-      "basename": "LainOS - Archlinux Rice",
-      "path": "Notes/LainOS - Archlinux Rice.md"
-    },
-    {
-      "basename": "CMPU 1001 - 2022.2023",
-      "path": "College/TU856-1/Exam Papers/CMPU 1001 - 2022.2023.pdf"
     }
   ],
   "omittedPaths": [],

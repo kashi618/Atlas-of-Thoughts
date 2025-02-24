@@ -5,6 +5,11 @@ aliases:
 ---
 ## Core Concepts
 - [[K.I.S.S]]
+- [[Order of Code - C]]
 
-## Data Types
-[[Leading Numbers - C]]
+## Variables
+[[Data Types - C]]
+[[Variables - C]]
+
+## Functions
+# Related
