@@ -25,8 +25,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "f19ff118dc451444",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Algorithm Design and Problem Solving/Tower of Hanoi.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tower of Hanoi"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +97,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -173,8 +199,14 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f19ff118dc451444",
   "lastOpenFiles": [
+    "College/Algorithm Design and Problem Solving/Tower of Hanoi.md",
+    "Home Page/Home.canvas",
+    "College/Algorithm Design and Problem Solving/Iterative  Factorial Algorithm.md",
+    "College/TU856-1/Study Guide/CMPU 1006 - Computer Architecture and Technology.md",
+    "College/TU856-1/Exam Papers/CMPU 1006 - 2023.2024.pdf",
+    "College/TU856-1/Study Guide/CMPU 1001 - Algorithm Design and Problem Solving.md",
     "College/Microprocessors Systems/Display an Image.md",
     "College/Microprocessors Systems/Turn On Output Port.md",
     "College/Microprocessors Systems/Number to Ascii - C.md",
@@ -182,7 +214,6 @@
     "College/Microprocessors Systems/Incrementing Hexadecimal Numbers - Microcontroller.md",
     "College/Microprocessors Systems/Incrementing Decimal Numbers - Microcontroller.md",
     "College/Microprocessors Systems/GPIOA - GPIOB.md",
-    "Home Page/Home.canvas",
     "College/Operating Systems/File Permissions - chmod - Linux.md",
     "College/Programming/Pass by Value - Pass by Reference - C.md",
     "College/Programming/Dynamic Memory Allocation - C.md",
@@ -198,20 +229,14 @@
     "Notes/LainOS - Archlinux Rice.md",
     "College/TU856-1/Exam Papers/CMPU 1001 - 2022.2023.pdf",
     "College/TU856-1/Exam Papers/CMPU 1001 - 2021.2022.pdf",
-    "College/TU856-1/Study Guide/CMPU 1001 - Algorithm Design and Problem Solving.md",
     "College/TU856-1/Exam Papers/CMPU 1039 - 2023.2024.pdf",
     "College/TU856-1/Exam Papers/CMPU 1039 - 2021.2022.pdf",
     "College/TU856-1/Exam Papers/CMPU 1025 - 2021.2022.pdf",
     "College/TU856-1/Exam Papers/CMPU 1022 - 2021.2022.pdf",
     "College/TU856-1/Exam Papers/CMPU 1019 - 2021.2022.pdf",
     "College/TU856-1/Exam Papers/CMPU 1006 - 2021.2022.pdf",
-    "College/TU856-1/Exam Papers/CMPU1001 - 2021.2022.pdf",
     "College/TU856-1/Study Guide/CMPU 1025 - Programming.md",
     "College/TU856-1/Study Guide/CMPU 1039 - Data Exploration.md",
-    "College/TU856-1/Study Guide/CMPU 1022 - Operating Systems 1.md",
-    "College/TU856-1/Study Guide/CMPU 1019 - Microprocessor Systems.md",
-    "College/TU856-1/Study Guide/CMPU 1006 - Computer Architecture and Technology.md",
-    "College/TU856-1/TU856-1 Results.md",
     "Other/Pasted image 20250219165205.png",
     "Other/Pasted image 20250219165204.png",
     "Other/Pasted image 20250212145157.png",

@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Tower of Hanoi",
+      "path": "College/Algorithm Design and Problem Solving/Tower of Hanoi.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Iterative  Factorial Algorithm",
+      "path": "College/Algorithm Design and Problem Solving/Iterative  Factorial Algorithm.md"
+    },
+    {
+      "basename": "CMPU 1006 - Computer Architecture and Technology",
+      "path": "College/TU856-1/Study Guide/CMPU 1006 - Computer Architecture and Technology.md"
+    },
+    {
+      "basename": "CMPU 1006 - 2023.2024",
+      "path": "College/TU856-1/Exam Papers/CMPU 1006 - 2023.2024.pdf"
+    },
+    {
+      "basename": "CMPU 1001 - Algorithm Design and Problem Solving",
+      "path": "College/TU856-1/Study Guide/CMPU 1001 - Algorithm Design and Problem Solving.md"
     },
     {
       "basename": "Display an Image",
@@ -89,10 +109,6 @@
       "path": "College/TU856-1/Exam Papers/CMPU 1001 - 2021.2022.pdf"
     },
     {
-      "basename": "CMPU 1001 - Algorithm Design and Problem Solving",
-      "path": "College/TU856-1/Study Guide/CMPU 1001 - Algorithm Design and Problem Solving.md"
-    },
-    {
       "basename": "CMPU 1039 - 2023.2024",
       "path": "College/TU856-1/Exam Papers/CMPU 1039 - 2023.2024.pdf"
     },
@@ -125,10 +141,6 @@
       "path": "College/TU856-1/Exam Papers/CMPU 1019 - 2022.2023.pdf"
     },
     {
-      "basename": "CMPU 1006 - 2023.2024",
-      "path": "College/TU856-1/Exam Papers/CMPU 1006 - 2023.2024.pdf"
-    },
-    {
       "basename": "CMPU 1006 - 2022.2023",
       "path": "College/TU856-1/Exam Papers/CMPU 1006 - 2022.2023.pdf"
     },
@@ -147,10 +159,6 @@
     {
       "basename": "CMPU 1019 - Microprocessor Systems",
       "path": "College/TU856-1/Study Guide/CMPU 1019 - Microprocessor Systems.md"
-    },
-    {
-      "basename": "CMPU 1006 - Computer Architecture and Technology",
-      "path": "College/TU856-1/Study Guide/CMPU 1006 - Computer Architecture and Technology.md"
     },
     {
       "basename": "TU856-1 Results",
@@ -191,14 +199,6 @@
     {
       "basename": "Decimal Places and Leading Zeros - C",
       "path": "College/Programming/Decimal Places and Leading Zeros - C.md"
-    },
-    {
-      "basename": "Casting - C",
-      "path": "College/Programming/Casting - C.md"
-    },
-    {
-      "basename": "Compiler",
-      "path": "College/Programming/Compiler.md"
     }
   ],
   "omittedPaths": [],
