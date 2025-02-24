@@ -25,8 +25,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "bc960af1fddd54cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Operating Systems/BIOS.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BIOS"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,12 +198,15 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "bc960af1fddd54cc",
   "lastOpenFiles": [
+    "College/Operating Systems/BIOS (NOT FINISHESD).md",
+    "College/Operating Systems/BIOS.md",
+    "College/Microprocessors Systems/Bit-shifting and Masks - c.md",
+    "Home Page/Home.canvas",
     "College/TU856-1/Exam Papers/CMPU 1001 - 2023.2024.pdf",
     "Notes/LainOS - Archlinux Rice.md",
     "College/TU856-1/Exam Papers/CMPU 1001 - 2022.2023.pdf",
-    "Home Page/Home.canvas",
     "College/TU856-1/Exam Papers/CMPU 1001 - 2021.2022.pdf",
     "College/TU856-1/Study Guide/CMPU 1001 - Algorithm Design and Problem Solving.md",
     "College/TU856-1/Exam Papers/CMPU 1039 - 2023.2024.pdf",
@@ -209,8 +237,6 @@
     "College/Programming/Delimeters - C.md",
     "College/Programming/Decimal Places and Leading Zeros - C.md",
     "College/Programming/Casting - C.md",
-    "College/Programming/Compiler.md",
-    "College/Programming/Data Types.md",
     "Other/Pasted image 20250219165205.png",
     "Other/Pasted image 20250219165204.png",
     "Other/Pasted image 20250212145157.png",

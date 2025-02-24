@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "BIOS",
+      "path": "College/Operating Systems/BIOS.md"
+    },
+    {
+      "basename": "BIOS (NOT FINISHESD)",
+      "path": "College/Operating Systems/BIOS (NOT FINISHESD).md"
+    },
+    {
+      "basename": "Bit-shifting and Masks - c",
+      "path": "College/Microprocessors Systems/Bit-shifting and Masks - c.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Iterative  Factorial Algorithm",
       "path": "College/Algorithm Design and Problem Solving/Iterative  Factorial Algorithm.md"
-    },
-    {
-      "basename": "Functional Programming Language",
-      "path": "College/Algorithm Design and Problem Solving/Functional Programming Language.md"
-    },
-    {
-      "basename": "Fibonacci Numbers",
-      "path": "College/Algorithm Design and Problem Solving/Fibonacci Numbers.md"
-    },
-    {
-      "basename": "Call Stack",
-      "path": "College/Algorithm Design and Problem Solving/Call Stack.md"
     }
   ],
   "omittedPaths": [],

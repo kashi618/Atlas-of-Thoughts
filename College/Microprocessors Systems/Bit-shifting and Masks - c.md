@@ -2,7 +2,8 @@
 tags:
   - ComputerScience
 ---
-EXPLAIN
+Bitshifting is when you manually move bits
+Masks is a data set used for bitwise options
 
 ## Example 1
 
