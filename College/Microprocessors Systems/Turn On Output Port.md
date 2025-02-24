@@ -7,7 +7,6 @@ pinMode(GPIOA,0,1);
 
 turnOn() {
 	GPIOA->ODR = (1<<0);
-	
 }
 ```
 
