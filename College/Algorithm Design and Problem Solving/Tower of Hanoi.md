@@ -28,14 +28,14 @@ disk2  = largest  disk
 
 ### Call Stack
 
-| Movement                                       | Function Call |
-| ---------------------------------------------- | ------------- |
-| Move **disk0** from **tower 1** to **tower 3** | moveTower(0,) |
-| Move **disk1** from **tower 1** to **tower 2** | moveTower()   |
-| move **disk0** from **tower 3** to **tower 2** | moveTower()   |
-| move **disk2** from **tower 1** to **tower 3** | moveTower()   |
-| move **disk0** from **tower 2** to **tower 1** | moveTower()   |
-| move **disk1** from **tower 2** to **tower 3** | moveTower()   |
-| move **disk0** from **tower 1** to **tower 3** | moveTower()   |
+| Movement                                       | Function Call            |
+| ---------------------------------------------- | ------------------------ |
+| Move **disk0** from **tower 1** to **tower 3** | moveTower(0 ,T1, T3, T2) |
+| Move **disk1** from **tower 1** to **tower 2** | moveTower(1, T1, T2, )   |
+| move **disk0** from **tower 3** to **tower 2** | moveTower(0, T3, T2)     |
+| move **disk2** from **tower 1** to **tower 3** | moveTower(2, T1, T3)     |
+| move **disk0** from **tower 2** to **tower 1** | moveTower(0, T2, T1)     |
+| move **disk1** from **tower 2** to **tower 3** | moveTower(1, T2, T3)     |
+| move **disk0** from **tower 1** to **tower 3** | moveTower(0, T1, T3)     |
 
 # See Also
