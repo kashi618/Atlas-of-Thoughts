@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "chmod - Linux NONE",
-      "path": "College/Operating Systems/chmod - Linux NONE.md"
+      "basename": "Dynamic Memory Allocation - C",
+      "path": "College/Programming/Dynamic Memory Allocation - C.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "File Permissions - chmod - Linux",
+      "path": "College/Operating Systems/File Permissions - chmod - Linux.md"
     },
     {
       "basename": "CLI",
@@ -19,10 +27,6 @@
     {
       "basename": "Bit-shifting and Masks - c",
       "path": "College/Microprocessors Systems/Bit-shifting and Masks - c.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "CMPU 1001 - 2023.2024",
@@ -187,10 +191,6 @@
     {
       "basename": "Strings - C",
       "path": "College/Programming/Strings - C.md"
-    },
-    {
-      "basename": "Dynamic Memory Allocation - C",
-      "path": "College/Programming/Dynamic Memory Allocation - C.md"
     },
     {
       "basename": "Dereference Operators - C",
