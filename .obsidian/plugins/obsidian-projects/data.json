@@ -86,6 +86,22 @@
           "id": "c6615f50-1645-4607-87bb-4e79ae1bf450",
           "name": "Gallery",
           "type": "gallery"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "c3c5e0ec-dee0-49fb-b282-88020d73f413",
+          "name": "Progress Tracker",
+          "type": "gallery"
         }
       ],
       "id": "dc787274-6d9a-4092-ab5a-5175c5558ca9",

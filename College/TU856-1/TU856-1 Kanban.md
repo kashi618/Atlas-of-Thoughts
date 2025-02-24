@@ -4,9 +4,8 @@ kanban-plugin: board
 
 ---
 
-## Programming
+## C
 
-- [ ] [[Functions - C]]
 
 
 

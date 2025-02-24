@@ -1,24 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Functions - C",
-      "path": "College/Modules/Programming/Functions - C.md"
+      "basename": "Leading Numbers - C",
+      "path": "College/Modules/Programming/Unsorted/Leading Numbers - C.md"
     },
     {
       "basename": "TU856-1 Kanban",
       "path": "College/TU856-1/TU856-1 Kanban.md"
     },
     {
+      "basename": "$ C - Programming Language",
+      "path": "College/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "Delimeters - C",
+      "path": "College/Modules/Programming/Unsorted/Delimeters - C.md"
+    },
+    {
+      "basename": "Memory Leak",
+      "path": "College/Modules/Programming/Unsorted/Memory Leak.md"
+    },
+    {
+      "basename": "BB",
+      "path": "Templates/BB.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
     {
-      "basename": "EXAMPLE - Creating Functions",
-      "path": "College/Modules/EXAMPLE - Creating Functions.md"
+      "basename": "Variables - C",
+      "path": "College/Modules/Programming/Variables - C.md"
     },
     {
       "basename": "Ampersand - C",
       "path": "College/Modules/Programming/Ampersand - C.md"
+    },
+    {
+      "basename": "TU856-1 Results",
+      "path": "College/TU856-1/TU856-1 Results.md"
+    },
+    {
+      "basename": "Functions - C",
+      "path": "College/Modules/Programming/Functions - C.md"
+    },
+    {
+      "basename": "EXAMPLE - Creating Functions",
+      "path": "College/Modules/EXAMPLE - Creating Functions.md"
     },
     {
       "basename": "Serial Communications",
@@ -67,26 +95,6 @@
     {
       "basename": "Dereference Operators - C",
       "path": "College/Modules/Programming/Dereference Operators - C.md"
-    },
-    {
-      "basename": "Delimeters - C",
-      "path": "College/Modules/Programming/Delimeters - C.md"
-    },
-    {
-      "basename": "Declaring and Initializing - C",
-      "path": "College/Modules/Programming/Declaring and Initializing - C.md"
-    },
-    {
-      "basename": "Decimal Places and Leading Zeros - C",
-      "path": "College/Modules/Programming/Decimal Places and Leading Zeros - C.md"
-    },
-    {
-      "basename": "Data Types",
-      "path": "College/Modules/Programming/Data Types.md"
-    },
-    {
-      "basename": "Compiler",
-      "path": "College/Modules/Programming/Compiler.md"
     },
     {
       "basename": "Tower of Hanoi",
@@ -175,30 +183,6 @@
     {
       "basename": "CMPU 1001 - 2022.2023",
       "path": "College/TU856-1/Exam Papers/CMPU 1001 - 2022.2023.pdf"
-    },
-    {
-      "basename": "CMPU 1001 - 2021.2022",
-      "path": "College/TU856-1/Exam Papers/CMPU 1001 - 2021.2022.pdf"
-    },
-    {
-      "basename": "CMPU 1039 - 2023.2024",
-      "path": "College/TU856-1/Exam Papers/CMPU 1039 - 2023.2024.pdf"
-    },
-    {
-      "basename": "CMPU 1039 - 2022.2023",
-      "path": "College/TU856-1/Exam Papers/CMPU 1039 - 2022.2023.pdf"
-    },
-    {
-      "basename": "CMPU 1025 - 2023.2024",
-      "path": "College/TU856-1/Exam Papers/CMPU 1025 - 2023.2024.pdf"
-    },
-    {
-      "basename": "CMPU 1025 - 2022.2023",
-      "path": "College/TU856-1/Exam Papers/CMPU 1025 - 2022.2023.pdf"
-    },
-    {
-      "basename": "CMPU 1022 - 2023.2024",
-      "path": "College/TU856-1/Exam Papers/CMPU 1022 - 2023.2024.pdf"
     }
   ],
   "omittedPaths": [],

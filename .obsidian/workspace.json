@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -0.7791697824338356
+                  "zoom": -0.40174067666538626
                 }
               },
               "pinned": true,
@@ -27,30 +27,12 @@
             }
           },
           {
-            "id": "4fb8715fb62a57a0",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "College/TU856-1/TU856-1 Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "TU856-1 Kanban"
-            }
-          },
-          {
-            "id": "588c01cc23e79b6f",
+            "id": "8add9057ff194f24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Modules/Programming/Functions - C.md",
+                "file": "College/Modules/Programming/$ C - Programming Language.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -65,11 +47,45 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Functions - C"
+              "title": "$ C - Programming Language"
+            }
+          },
+          {
+            "id": "2cafbef6be1a4915",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Modules/Programming/Unsorted/Leading Numbers - C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Leading Numbers - C"
+            }
+          },
+          {
+            "id": "57d61abbcbb49e3b",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,13 +152,59 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Modules/Programming/Functions - C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Functions - C"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "929ebc3b830f04c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "College/Modules/Programming/$ MOC - C.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for $ MOC - C"
+            }
+          },
+          {
+            "id": "84f75c4f7cad719b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "College/Modules/Programming/$ MOC - C.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from $ MOC - C"
+            }
+          },
+          {
+            "id": "dcd6885c0a6495c7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -166,12 +228,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5,
-    "collapsed": true
+    "width": 349.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "quiz-generator:Open generator": false,
       "smart-random-note:Open Random Note from Search": false,
       "obsidian-kanban:Create new board": false,
       "graph:Open graph view": false,
@@ -190,35 +250,37 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "588c01cc23e79b6f",
+  "active": "57d61abbcbb49e3b",
   "lastOpenFiles": [
+    "College/Modules/Programming/Unsorted/Leading Numbers - C.md",
     "College/TU856-1/TU856-1 Kanban.md",
+    "College/Modules/Programming/$ C - Programming Language.md",
+    "College/Modules/Programming/Unsorted/Delimeters - C.md",
+    "College/Modules/Programming/K.I.S.S.md",
+    "College/Modules/Programming/Unsorted/K.I.S.S.md",
+    "College/Modules/Programming/Unsorted/Memory Leak.md",
+    "Templates/BB.md",
+    "College/Modules/Programming/$ MOC - C.md",
     "Home Page/Home.canvas",
+    "College/Modules/Programming/Variables - C.md",
+    "College/Modules/Programming/Unsorted/Declaring and Initializing - C.md",
+    "College/Modules/Programming/Arrays - C.md",
+    "College/Modules/Programming/Unsorted/Decimal Places and Leading Zeros - C.md",
+    "College/Modules/Programming/Unsorted/Data Types.md",
+    "College/Modules/Programming/Unsorted/Compiler.md",
+    "College/Modules/Programming/Unsorted/Casting - C.md",
+    "College/Modules/Programming/Unsorted/Arrays - C.md",
+    "College/Modules/Programming/Unsorted",
+    "College/Modules/Programming/Casting - C.md",
+    "College/Modules/Programming/Decimal Places and Leading Zeros - C.md",
+    "College/Modules/Programming/Ampersand - C.md",
+    "College/TU856-1/TU856-1 Results.md",
     "College/Modules/Programming/Functions - C.md",
     "College/Modules/EXAMPLE - Creating Functions.md",
-    "College/Modules/Programming/Ampersand - C.md",
     "College/Modules",
     "UNSORTED/Untitled.md",
     "UNSORTED/Serial Communications.md",
     "UNSORTED/Call Stack.md",
-    "UNSORTED/Untitled Kanban 1.md",
-    "College/Modules/Programming/Dynamic Memory Allocation - C.md",
-    "College/Modules/Programming/Passing Arrays - C.md",
-    "College/Modules/Programming/Initializing a 2D Array.md",
-    "College/Modules/Programming/Indentation - C.md",
-    "College/Modules/Programming/Incrementing and Decrementing - C.md",
-    "College/Programming/Function Signatures - C.md",
-    "College/Modules/Programming/Global and Local Variables - C.md",
-    "College/Modules/Programming/free() - C.md",
-    "College/Modules/Programming/Escape Character - C.md",
-    "College/Programming/Escape Characters - C.md",
-    "College/Modules/Programming/Dereference Operators - C.md",
-    "College/Modules/Programming/Delimeters - C.md",
-    "College/Modules/Programming/Declaring and Initializing - C.md",
-    "College/Modules/Programming/Decimal Places and Leading Zeros - C.md",
-    "College/Modules/Programming/Data Types.md",
-    "College/Modules/Programming/Compiler.md",
-    "College/Modules/Algorithm Design and Problem Solving/Tower of Hanoi.md",
     "College/TU856-1/Exam Papers/CMPU 1006 - 2023.2024.pdf",
     "College/TU856-1/Exam Papers/CMPU 1001 - 2023.2024.pdf",
     "College/TU856-1/Exam Papers/CMPU 1001 - 2022.2023.pdf",
@@ -227,7 +289,6 @@
     "College/TU856-1/Exam Papers/CMPU 1039 - 2021.2022.pdf",
     "College/TU856-1/Exam Papers/CMPU 1025 - 2021.2022.pdf",
     "College/TU856-1/Exam Papers/CMPU 1022 - 2021.2022.pdf",
-    "College/TU856-1/Exam Papers/CMPU 1019 - 2021.2022.pdf",
     "Other/Pasted image 20250219165205.png",
     "Other/Pasted image 20250219165204.png",
     "Other/Pasted image 20250212145157.png",
