@@ -97,4 +97,4 @@ int sumArray(int arr[]) {
 
 # See Also
 [[Functions - C]]
-[[Arrays - C]]
+[[Arrays - CC]]

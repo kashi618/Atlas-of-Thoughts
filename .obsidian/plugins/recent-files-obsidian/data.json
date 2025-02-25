@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Arrays - C",
+      "path": "College/Modules/Programming/Arrays - C.md"
+    },
+    {
       "basename": "$ C - Programming Language",
       "path": "College/Modules/Programming/$ C - Programming Language.md"
     },
     {
-      "basename": "Arrays - C",
-      "path": "College/Modules/Programming/Arrays - C.md"
+      "basename": "Variable Naming Schemes",
+      "path": "College/Modules/Programming/Variable Naming Schemes.md"
+    },
+    {
+      "basename": "Symbolic Names - C",
+      "path": "College/Modules/Programming/Symbolic Names - C.md"
+    },
+    {
+      "basename": "Subscript and Pointer Notation - C",
+      "path": "College/Modules/Programming/Unsorted/Subscript and Pointer Notation - C.md"
+    },
+    {
+      "basename": "Strings and Arrays - C",
+      "path": "College/Modules/Programming/Unsorted/Strings and Arrays - C.md"
+    },
+    {
+      "basename": "String Functions - C",
+      "path": "College/Modules/Programming/Unsorted/String Functions - C.md"
+    },
+    {
+      "basename": "Strings - C",
+      "path": "College/Modules/Programming/Unsorted/Strings - C.md"
+    },
+    {
+      "basename": "Storage Classes - C",
+      "path": "College/Modules/Programming/Unsorted/Storage Classes - C.md"
+    },
+    {
+      "basename": "sizeof() - C",
+      "path": "College/Modules/Programming/Unsorted/sizeof() - C.md"
+    },
+    {
+      "basename": "Semicolons - C",
+      "path": "College/Modules/Programming/Unsorted/Semicolons - C.md"
     },
     {
       "basename": "Loops - C",
@@ -29,14 +65,6 @@
       "path": "College/Modules/Programming/Switch Statement - C.md"
     },
     {
-      "basename": "Strings - C",
-      "path": "College/Modules/Programming/Unsorted/Strings - C.md"
-    },
-    {
-      "basename": "String Functions - C",
-      "path": "College/Modules/Programming/Unsorted/String Functions - C.md"
-    },
-    {
       "basename": "Ampersand - C",
       "path": "College/Modules/Programming/Ampersand - C.md"
     },
@@ -57,10 +85,6 @@
       "path": "College/Modules/Programming/Keyboard Output - C.md"
     },
     {
-      "basename": "Storing Data in Variables - C",
-      "path": "College/Modules/Programming/Unsorted/Storing Data in Variables - C.md"
-    },
-    {
       "basename": "Variables - C",
       "path": "College/Modules/Programming/Variables - C.md"
     },
@@ -77,44 +101,12 @@
       "path": "Templates/CC.md"
     },
     {
-      "basename": "String Concatenation - C",
-      "path": "College/Modules/Programming/Unsorted/String Concatenation - C.md"
-    },
-    {
       "basename": "Call Stack",
       "path": "College/Modules/Algorithm Design and Problem Solving/Call Stack.md"
     },
     {
       "basename": "Adding and Subtracting Matrices",
       "path": "College/Modules/Mathematics/Adding and Subtracting Matrices.md"
-    },
-    {
-      "basename": "Variable Naming Schemes",
-      "path": "College/Modules/Programming/Unsorted/Variable Naming Schemes.md"
-    },
-    {
-      "basename": "Subscript and Pointer Notation - C",
-      "path": "College/Modules/Programming/Unsorted/Subscript and Pointer Notation - C.md"
-    },
-    {
-      "basename": "Symbolic Names - C",
-      "path": "College/Modules/Programming/Unsorted/Symbolic Names - C.md"
-    },
-    {
-      "basename": "Strings and Arrays - C",
-      "path": "College/Modules/Programming/Unsorted/Strings and Arrays - C.md"
-    },
-    {
-      "basename": "Storage Classes - C",
-      "path": "College/Modules/Programming/Unsorted/Storage Classes - C.md"
-    },
-    {
-      "basename": "sizeof() - C",
-      "path": "College/Modules/Programming/Unsorted/sizeof() - C.md"
-    },
-    {
-      "basename": "Semicolons - C",
-      "path": "College/Modules/Programming/Unsorted/Semicolons - C.md"
     },
     {
       "basename": "Scope - C",

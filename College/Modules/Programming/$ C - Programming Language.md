@@ -5,18 +5,21 @@ aliases: []
 ---
 
 ## Basic Concepts
-- [[K.I.S.S]]
 - [[Order of Code - C]]
-- [[Commenting - C]]
-- [[Ampersand - C]]
-## Miscellaneous
 - [[Escape Sequence - C]]
 - [[Delimiters - C]]
+- [[Commenting - C]]
+- [[Ampersand - C]]
+
+## Miscellaneous
+- [[K.I.S.S]]
+- [[Variable Naming Schemes]]
 
 ## Data Structures and Variables
 - [[Variables - C]] | (**Creating Variables**)
-- [[Signed & Unsigned Variables - C]]
+	- [[Signed & Unsigned Variables - C]]
 - [[Data Types - C]]
+- [[Symbolic Names - C]]
 - [[Casting - C]]
 
 ## Input Output
@@ -41,7 +44,7 @@ aliases: []
 
 
 ## Arrays
--[[Arrays - C]]
+- [[Arrays - C]]
 
 ## Functions
 

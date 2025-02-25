@@ -1,39 +1,34 @@
 ---
 tags:
   - C
-  - Arrays
-  - ComputerScience
-  - UNFINISHED
+aliases:
+  - Lists
 ---
+## What is an Arrayv
+## Array Structure
+- An array is stored as a linear piece of data in memory
+- The first piece of data in an array is at index 0, the next at index 1, and so on
+
+## Creating Arrays
+```c showlinenumbers
+dataType arrayName[arraySize];
+```
+- Once an arraySize is set, it cannot be changed whilst the program is running
+### Initializing Array with Set Values
+```c showlinenumbers
+int arr[] = {1, 2, 3, 4, 5}
+```
+- **NOTE:** A size is not needed for pre-set arrays, as the compiler will automatically set its size
+
+### Set Array to One Value
+```c showlinenumbers
+int allZero[10] = {0}
+```
 
 The name of an array is equivalent to the address location of the 1st element in the array
 
-## Declaring Arrays
-```c showlinenumbers
-dataType arr[size];
-```
-
-## Declaring Array's without Size
-[[Dynamic Memory Allocation - C]]
-
-## Setting Entire Array to One Value
-- Set the value of the array by using curly brackets {0}
-- The array now contains 100 zero's
-
-```c showlinenumbers
-#include <stdio.h>
-
-int main () {
-	int AllZero[100] = {0};
-}
-```
-
-## Initializing Array With Set Values
-```c showlinenumbers
-char chars[] = {'a','b','c','d','e'};
-```
-An array can also be initialized without a **size**, if you set values.
-**NOTE:** This is not good practice, and should be avoided
+## Using an Array
+### Inserting Values
 
 # See Also
-[[Pointers and Arrays - C]]
+[[$ C - Programming Language]]

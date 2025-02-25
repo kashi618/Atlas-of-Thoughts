@@ -38,7 +38,7 @@ float k = 3.14;
 [[Data Types - C]]
 [[Signed & Unsigned Variables - C|Signed Variable]]
 
-[[Symbolic Names - C]]
+[[Symbolic Names - Cc]]
 [[Storing Data in Variables - C]]
 [[Returning Variables - C]]
 [[Leading Numbers - C]]

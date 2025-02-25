@@ -35,7 +35,7 @@ It is a way to organize and sort data, so that the computer can retrieve and use
 - "Hello" , "123" , "pp69"
 
 ### Arrays
-[[Arrays - C]]
+[[Arrays - CC]]
 - A list of values.
 
 # See Also

@@ -36,4 +36,4 @@ int main () {
 ```
 
 # See Also
-[[Arrays - C]]
+[[Arrays - CC]]

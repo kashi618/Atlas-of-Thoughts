@@ -40,7 +40,7 @@ The value of an array, can also be found by dereferencing the memory address, wh
 
 
 # See Also
-[[Arrays - C]]
+[[Arrays - CC]]
 [[Pointers - C]]
 [[Subscript and Pointer Notation - C]]
 [[Dereference Operators - C]]
