@@ -33,7 +33,7 @@
               "type": "markdown",
               "state": {
                 "file": "College/Modules/Programming/Unsorted/String Functions - C.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Modules/Programming/Unsorted/String Functions - C.md",
+                "file": "College/Modules/Programming/Unsorted/Strings - C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of String Functions - C"
+              "title": "Outline of Strings - C"
             }
           },
           {
@@ -224,10 +224,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "580f61d8b2e95058",
+  "active": "d7843cf98892eb75",
   "lastOpenFiles": [
-    "Home Page/Home.canvas",
     "College/Modules/Programming/Unsorted/String Functions - C.md",
+    "Home Page/Home.canvas",
     "College/Modules/Programming/Unsorted/Strings - C.md",
     "College/Modules/Programming/$ C - Programming Language.md",
     "College/Modules/Programming/Switch Statement - C.md",

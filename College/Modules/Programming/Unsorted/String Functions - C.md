@@ -41,7 +41,7 @@ strcpy(destinationString, sourceString);
 - When a string is copied, the NULL character of the source string is also copied. This means, if there is any remaining elements in the destination string, it gets overwritten with NULL characters.
 
 ## Concatenating a String
-Concatenating means joining togethor. It can also be known as appending a string.
+Concatenating means joining together. It can also be known as appending a string.
 
 ```c showlinenumbers
 #include <string.h>
@@ -53,14 +53,19 @@ strcat(destinationString, sourceString);
 ```c showlinenumnbers
 #include <string.h>
 
-printf("%s", strcat("cat","chonky") );
+char var1[50] = "chonky ";
+char var2[] = "cat";
+
+
+printf("%s", strcat(var1,var2) );
 ```
 ```
 OUTPUT:
-chonkycat
+chonky cat
 ```
-
+- **NOTE:** Make sure the destination string is big enough to concatenate the source string
+  Example, `strcat("there","hi");` wouldn't work, because `"there"` is not big enough to hold the `"hi"`.
 
 
 # See Also
-[[$ C - Programming Language]]Ma
+[[$ C - Programming Language]]
