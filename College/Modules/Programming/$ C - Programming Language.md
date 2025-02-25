@@ -8,7 +8,7 @@ aliases: []
 - [[K.I.S.S]]
 - [[Order of Code - C]]
 - [[Commenting - C]]
-
+- v[[Ampersand - C]]
 ## Miscellaneous
 - [[Escape Sequence - C]]
 - [[Delimiters - C]]
@@ -33,6 +33,8 @@ aliases: []
 ## Conditional Statements
 - [[If , If else, While, Do While- C]]
 - [[Logical Operators - C]]
+- [[Switch Statement - C]]
+
 ## Functions
 
 

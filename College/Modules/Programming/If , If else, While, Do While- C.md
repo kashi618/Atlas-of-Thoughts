@@ -1,10 +1,11 @@
 ---
 tags:
   - C
-  - "#N"
+  - NOT-FINISHED
 aliases:
   - If statement
   - While loop
+  - Do while
 ---
 ## If \_\_\_ 
 Used for comparing

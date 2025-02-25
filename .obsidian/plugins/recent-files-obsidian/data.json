@@ -1,28 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "If , If else, While, Do While- C",
-      "path": "UNSORTED/If , If else, While, Do While- C.md"
+      "basename": "String Functions - C",
+      "path": "College/Modules/Programming/Unsorted/String Functions - C.md"
     },
     {
-      "basename": "Switch Statement - C",
-      "path": "UNSORTED/Switch Statement - C.md"
+      "basename": "Strings - C",
+      "path": "College/Modules/Programming/Unsorted/Strings - C.md"
     },
     {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
     {
-      "basename": "Logical Operators - C",
-      "path": "UNSORTED/Logical Operators - C.md"
-    },
-    {
       "basename": "$ C - Programming Language",
       "path": "College/Modules/Programming/$ C - Programming Language.md"
     },
     {
+      "basename": "Switch Statement - C",
+      "path": "College/Modules/Programming/Switch Statement - C.md"
+    },
+    {
+      "basename": "Ampersand - C",
+      "path": "College/Modules/Programming/Ampersand - C.md"
+    },
+    {
+      "basename": "If , If else, While, Do While- C",
+      "path": "College/Modules/Programming/If , If else, While, Do While- C.md"
+    },
+    {
+      "basename": "Logical Operators - C",
+      "path": "College/Modules/Programming/Logical Operators - C.md"
+    },
+    {
       "basename": "Faster Character Input Output - C",
-      "path": "UNSORTED/Faster Character Input Output - C.md"
+      "path": "College/Modules/Programming/Faster Character Input Output - C.md"
     },
     {
       "basename": "Keyboard Input - C",
@@ -43,10 +55,6 @@
     {
       "basename": "Delimiters - C",
       "path": "College/Modules/Programming/Delimiters - C.md"
-    },
-    {
-      "basename": "Strings - C",
-      "path": "College/Modules/Programming/Unsorted/Strings - C.md"
     },
     {
       "basename": "Precision Specification - C",
@@ -191,14 +199,6 @@
     {
       "basename": "Operator Precedence - C",
       "path": "College/Modules/Programming/Operator Precedence - C.md"
-    },
-    {
-      "basename": "Arithmetic Operations and Expressions - C",
-      "path": "College/Modules/Programming/Arithmetic Operations and Expressions - C.md"
-    },
-    {
-      "basename": "Incrementing & Decrementing - C",
-      "path": "College/Modules/Programming/Incrementing & Decrementing - C.md"
     }
   ],
   "omittedPaths": [],

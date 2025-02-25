@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "c5c6462ab8beee75",
+            "id": "580f61d8b2e95058",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Modules/Programming/$ C - Programming Language.md",
+                "file": "College/Modules/Programming/Unsorted/String Functions - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,16 +47,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ C - Programming Language"
+              "title": "String Functions - C"
             }
           },
           {
-            "id": "d493ede025d271fe",
+            "id": "d7843cf98892eb75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNSORTED/If , If else, While, Do While- C.md",
+                "file": "College/Modules/Programming/Unsorted/Strings - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,35 +71,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "If , If else, While, Do While- C"
-            }
-          },
-          {
-            "id": "80b874792e69e99c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNSORTED/Switch Statement - C.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Switch Statement - C"
+              "title": "Strings - C"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNSORTED/If , If else, While, Do While- C.md",
+                "file": "College/Modules/Programming/Unsorted/String Functions - C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of If , If else, While, Do While- C"
+              "title": "Outline of String Functions - C"
             }
           },
           {
@@ -248,20 +224,22 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "d493ede025d271fe",
+  "active": "580f61d8b2e95058",
   "lastOpenFiles": [
-    "UNSORTED/Switch Statement - C.md",
+    "College/Modules/Programming/Unsorted/Strings - C.md",
+    "College/Modules/Programming/Unsorted/String Functions - C.md",
     "Home Page/Home.canvas",
-    "UNSORTED/If , If else, While, Do While- C.md",
-    "UNSORTED/Logical Operators - C.md",
     "College/Modules/Programming/$ C - Programming Language.md",
-    "UNSORTED/Faster Character Input Output - C.md",
+    "College/Modules/Programming/Switch Statement - C.md",
+    "College/Modules/Programming/Ampersand - C.md",
+    "College/Modules/Programming/If , If else, While, Do While- C.md",
+    "College/Modules/Programming/Logical Operators - C.md",
+    "College/Modules/Programming/Faster Character Input Output - C.md",
     "College/Modules/Programming/Keyboard Input - C.md",
     "College/Modules/Programming/Keyboard Output - C.md",
     "College/Modules/Programming/Unsorted/Storing Data in Variables - C.md",
     "College/Modules/Programming/Variables - C.md",
     "College/Modules/Programming/Delimiters - C.md",
-    "College/Modules/Programming/Unsorted/Strings - C.md",
     "College/Modules/Programming/Precision Specification - C.md",
     "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
     "Templates/CC.md",
@@ -274,8 +252,6 @@
     "College/Modules/Mathematics/Adding and Subtracting Matrices.md",
     "College/Modules/Programming/Unsorted/Variable Naming Schemes.md",
     "College/Modules/Program Design/Sorting Algorithms.md",
-    "College/Modules/Programming/Unsorted/Subscript and Pointer Notation - C.md",
-    "College/Modules/Programming/Unsorted/Symbolic Names - C.md",
     "College/Modules/Programming/Unsorted",
     "College/Modules",
     "College/TU856-1/Exam Papers/CMPU 1006 - 2023.2024.pdf",

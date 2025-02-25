@@ -43,7 +43,7 @@ char greeting[6] = "Hello";
 printf("%.3s", greeting);
 ```
 
-## String Literal
+## String Anatomy
 Any sequence of characters, enclosed in **double quotes**.
 A string literal ends with a "NULL character/NULL terminator"
 The NULL character tells the compiler where that string ends "\0"
@@ -52,13 +52,20 @@ The NULL character tells the compiler where that string ends "\0"
 `printf("Hello");`
 "Hello" is an example of a string literal
 
-### String Literal Deconstructed
+### String Deconstructed
 
 | "H" | "E" | "L" | "L" | "O" | "\0" |
 | --- | --- | --- | --- | --- | ---- |
 This is how the string is stored in memory
 The NULL character is "\0"
 When the compiler is reading the string, the "\0" tells the compiler that it is the end of the string
+
+## String Literal
+```c
+char *name = "meow";
+```
+String literals are stored as read only, and cannot be changed
+
 
 ## Long Character Strings
 ### Method 1
