@@ -10,18 +10,16 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -240,
-                  "y": -45,
-                  "zoom": -0.19284655759371006
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
@@ -85,7 +83,6 @@
       {
         "id": "219604f8f4064431",
         "type": "tabs",
-        "dimension": 68.6858316221766,
         "children": [
           {
             "id": "9bc98d8a64f45ad2",
@@ -93,38 +90,66 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline"
             }
-          }
-        ]
-      },
-      {
-        "id": "b56fa9676414f482",
-        "type": "tabs",
-        "dimension": 31.31416837782341,
-        "children": [
+          },
           {
-            "id": "3100f129bc2b62b5",
+            "id": "bae74c49a9471d1c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "backlink",
+              "state": {
+                "file": "Home Page/Home.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Home"
+            }
+          },
+          {
+            "id": "3fd3d100b52fb6ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home Page/Home.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Home"
+            }
+          },
+          {
+            "id": "1a2ada41de0acb0d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 349.5,
-    "collapsed": true
+    "width": 349.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,10 +172,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
     "College/Modules/Programming/Unsorted/Strings - C.md",
     "College/Modules/Programming/Data Types - C.md",
     "College/Modules/Programming/EXAM Questions Study.md",
-    "Home Page/Home.canvas",
     "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
     "College/Modules/Programming/$ C - Programming Language.md",
     "College/Modules/Programming/Unsorted/String Functions - C.md",
@@ -173,7 +198,6 @@
     "College/Modules/Programming/Precision Specification - C.md",
     "College/Modules/Programming/Switch Statement - C.md",
     "College/Modules/Programming/Ampersand - C.md",
-    "College/Modules/Programming/Logical Operators - C.md",
     "College/Modules/Programming/Unsorted",
     "College/Modules",
     "College/TU856-1/Exam Papers/CMPU 1006 - 2023.2024.pdf",
