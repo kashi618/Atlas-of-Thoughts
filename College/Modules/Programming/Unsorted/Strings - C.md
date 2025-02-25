@@ -12,6 +12,25 @@ scanf("%s", stringArr);
 ```
 - This is because `stringArr` is the same as writing the first element of the array `&stringArr[0]`
 
+## Initializing Strings
+**Method 1**
+```c showlinenumbers
+char name[] = "cAt";
+```
+- The compiler automatically sets the size of the array to 4, which includes the NULL character
+
+**Method 2**
+```c showlinenumbers
+char name[10] = "kitty";
+```
+
+**Method 3**
+```c showlinenumbers
+char *name3 = "Patrick";
+```
+This is a string literally, not a pointer. This means that it is stored in memory as READ ONLY, and cannot be changed
+
+
 ## Displaying Strings
 You do not need a loop to display strings, instead, you can use the `%s` delimiter
 
@@ -20,6 +39,7 @@ You do not need a loop to display strings, instead, you can use the `%s` delimit
 char greeting[6] = "Hello";
 printf("%s", greeting);
 ```
+- **NOTE:** Be sure to use the `%s` delimiter.
 
 ## String Delimeter Information
 ### Left Justify

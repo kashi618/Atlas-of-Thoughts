@@ -17,7 +17,7 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": -240,
-                  "y": -45,
+                  "y": -155.26347305389226,
                   "zoom": -0.2456523276055576
                 }
               },
@@ -34,7 +34,7 @@
               "state": {
                 "file": "College/Modules/Programming/Unsorted/String Functions - C.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -58,7 +58,7 @@
               "state": {
                 "file": "College/Modules/Programming/Unsorted/Strings - C.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -226,9 +226,9 @@
   },
   "active": "580f61d8b2e95058",
   "lastOpenFiles": [
-    "College/Modules/Programming/Unsorted/Strings - C.md",
-    "College/Modules/Programming/Unsorted/String Functions - C.md",
     "Home Page/Home.canvas",
+    "College/Modules/Programming/Unsorted/String Functions - C.md",
+    "College/Modules/Programming/Unsorted/Strings - C.md",
     "College/Modules/Programming/$ C - Programming Language.md",
     "College/Modules/Programming/Switch Statement - C.md",
     "College/Modules/Programming/Ampersand - C.md",
