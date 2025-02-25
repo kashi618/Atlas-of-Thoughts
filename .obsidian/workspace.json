@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -0.23061292814141654
+                  "zoom": -0.7791697824338356
                 }
               },
               "pinned": true,
@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "886925511490305d",
+            "id": "a2fe4c27118cc761",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Modules/Programming/$ C - Programming Language.md",
+                "file": "College/Modules/Programming/Unsorted/String Functions - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,16 +47,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ C - Programming Language"
+              "title": "String Functions - C"
             }
           },
           {
-            "id": "336ea3924246019f",
+            "id": "1c1f234afb5a5f3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Modules/Programming/Arrays - C.md",
+                "file": "College/Modules/Programming/Unsorted/Strings - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,11 +71,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arrays - C"
+              "title": "Strings - C"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 800.5110359191895
+    "width": 327.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -134,6 +134,7 @@
       {
         "id": "219604f8f4064431",
         "type": "tabs",
+        "dimension": 68.6858316221766,
         "children": [
           {
             "id": "9bc98d8a64f45ad2",
@@ -141,60 +142,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Modules/Programming/Unsorted/Strings - C.md",
+                "file": "College/Modules/Programming/Unsorted/String Functions - C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Strings - C"
+              "title": "Outline of String Functions - C"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "b56fa9676414f482",
+        "type": "tabs",
+        "dimension": 31.31416837782341,
+        "children": [
           {
-            "id": "929ebc3b830f04c2",
+            "id": "3100f129bc2b62b5",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "College/Modules/Programming/$ MOC - C.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for $ MOC - C"
-            }
-          },
-          {
-            "id": "84f75c4f7cad719b",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "College/Modules/Programming/$ MOC - C.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from $ MOC - C"
-            }
-          },
-          {
-            "id": "dcd6885c0a6495c7",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -223,26 +194,26 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "3bd19bba09e6f6f0",
+  "active": "a2fe4c27118cc761",
   "lastOpenFiles": [
+    "College/Modules/Programming/Unsorted/Strings - C.md",
+    "College/Modules/Programming/Unsorted/String Functions - C.md",
+    "College/Modules/Programming/Unsorted/Strings and Arrays - C.md",
+    "Home Page/Home.canvas",
+    "College/Modules/Programming/Arrays - C.md",
     "College/Modules/Programming/$ C - Programming Language.md",
     "College/Modules/Programming/Variable Naming Schemes.md",
     "College/Modules/Programming/Unsorted/Symbolic Names - Cc.md",
     "College/Modules/Programming/Symbolic Names - C.md",
     "College/Modules/Programming/Unsorted/Subscript and Pointer Notation - C.md",
-    "College/Modules/Programming/Unsorted/Strings and Arrays - C.md",
-    "College/Modules/Programming/Unsorted/String Functions - C.md",
     "College/Modules/Programming/Unsorted/String Concatenation - C.md",
-    "College/Modules/Programming/Unsorted/Strings - C.md",
     "College/Modules/Programming/Unsorted/Storage Classes - C.md",
     "College/Modules/Programming/Unsorted/sizeof() - C.md",
     "College/Modules/Programming/Unsorted/Semicolons - C.md",
-    "College/Modules/Programming/Arrays - C.md",
     "College/Modules/Programming/Unsorted/Storing Data in Variables - C.md",
     "College/Modules/Programming/Arrays - CC.md",
     "College/Modules/Programming/Unsorted/Decimal Places and Leading Zeros - C.md",
     "College/Modules/Programming/Loops - C.md",
-    "Home Page/Home.canvas",
     "College/Modules/Programming/If , If else, While, Do While- C.md",
     "College/Modules/Programming/Precision Specification - C.md",
     "College/Modules/Programming/Switch Statement - C.md",
@@ -251,7 +222,6 @@
     "College/Modules/Programming/Faster Character Input Output - C.md",
     "College/Modules/Programming/Keyboard Input - C.md",
     "College/Modules/Programming/Keyboard Output - C.md",
-    "College/Modules/Programming/Variables - C.md",
     "College/Modules/Programming/Unsorted",
     "College/Modules",
     "College/TU856-1/Exam Papers/CMPU 1006 - 2023.2024.pdf",

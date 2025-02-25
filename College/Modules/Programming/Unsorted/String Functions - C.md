@@ -6,8 +6,6 @@ aliases:
 Make sure to include the `#include <string.h>`
 
 ## Find Length of String
-- Does not include the NULL character
-- It count **ONLY** the characters, **NOT** the size of the array.
 ```c showlinenumbers
 #include <string.h>
 
@@ -17,6 +15,8 @@ strlen("stringHere");
 strlen(variableName);
 
 ```
+- Does not include the NULL character
+- It count **ONLY** the characters, **NOT** the size of the array.
 
 **Example:**
 ```c showlinenumbers
@@ -28,6 +28,20 @@ printf("%d", strlen("cat"));
 OUTPUT:
 3
 ```
+
+## Comparing two strings
+```c showlinenumbers
+#include <string.h>
+
+strcmp(string1, string2);
+```
+- Order does not matter for this function.
+- This function returns an integer.
+
+| Return Number | Meaning            |
+| ------------- | ------------------ |
+| 0             | They are the same  |
+| 1             | They are different |
 
 ## Copying a String
 ```c showlinenumbers

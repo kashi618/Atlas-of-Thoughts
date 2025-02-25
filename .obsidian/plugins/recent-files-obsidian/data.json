@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "String Functions - C",
+      "path": "College/Modules/Programming/Unsorted/String Functions - C.md"
+    },
+    {
+      "basename": "Strings - C",
+      "path": "College/Modules/Programming/Unsorted/Strings - C.md"
+    },
+    {
+      "basename": "Strings and Arrays - C",
+      "path": "College/Modules/Programming/Unsorted/Strings and Arrays - C.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Arrays - C",
       "path": "College/Modules/Programming/Arrays - C.md"
     },
@@ -21,18 +37,6 @@
       "path": "College/Modules/Programming/Unsorted/Subscript and Pointer Notation - C.md"
     },
     {
-      "basename": "Strings and Arrays - C",
-      "path": "College/Modules/Programming/Unsorted/Strings and Arrays - C.md"
-    },
-    {
-      "basename": "String Functions - C",
-      "path": "College/Modules/Programming/Unsorted/String Functions - C.md"
-    },
-    {
-      "basename": "Strings - C",
-      "path": "College/Modules/Programming/Unsorted/Strings - C.md"
-    },
-    {
       "basename": "Storage Classes - C",
       "path": "College/Modules/Programming/Unsorted/Storage Classes - C.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "Loops - C",
       "path": "College/Modules/Programming/Loops - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "If , If else, While, Do While- C",

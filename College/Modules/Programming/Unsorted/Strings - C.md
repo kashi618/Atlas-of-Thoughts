@@ -6,11 +6,14 @@ tags:
   - UNFINISHED
 ---
 ## scanf()
-For strings, you do not need an ampersand &
 ```c showlinenumbers
 scanf("%s", stringArr);
 ```
 - This is because `stringArr` is the same as writing the first element of the array `&stringArr[0]`
+- This is one of the only cases where an ampersand is not needed
+- Use fgets() instead. This is because scanf does not read whitespace characters such as space, tab, enter key
+
+
 
 ## Initializing Strings
 **Method 1**
