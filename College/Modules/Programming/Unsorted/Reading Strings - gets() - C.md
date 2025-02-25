@@ -33,7 +33,7 @@ fgets(variableName, size, where?)
 ```
 ```c showlinenumbers
 // Stores string in the name array, size 10, and from stdin (keyboard)
-fgets(name, 10, stdin)
+fgets(name, sizeof(name), stdin)
 ```
 - Automatically leaves one element at the end, for the NULL character
 - fgets() also reads whitespace characters

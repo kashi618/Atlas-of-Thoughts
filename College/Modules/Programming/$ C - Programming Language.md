@@ -21,6 +21,7 @@ aliases:
 
 ## Input Output
 - [[Keyboard Output - C]]
+	- [[Percision Specification - C]] (leading zeros)
 - [[Keyboard Input - C]]
 
 
