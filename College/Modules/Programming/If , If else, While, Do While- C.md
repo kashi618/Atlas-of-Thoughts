@@ -40,15 +40,6 @@ if (x > 10) {
 ```
 
 
-## While \_\_\_
-If the statement is true, then keep on looping inside the while
-```c showlinenumbers
-while (x==0) {
-	// Run code
-}
-```
-
-### Do \_\_\_ While \_\_\_
 
 # See Also
 [[$ C - Programming Language]]

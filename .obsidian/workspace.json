@@ -16,17 +16,66 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -240,
-                  "y": -45,
-                  "zoom": -0.23061292814141654
+                  "x": -577.9655250965549,
+                  "y": 237.35435510620127,
+                  "zoom": -0.34182697635940146
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "ea3d3d7af973b4db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Modules/Programming/$ C - Programming Language.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ C - Programming Language"
+            }
+          },
+          {
+            "id": "597635aae36985ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Modules/Programming/Loops - C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Loops - C"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,15 +223,17 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "597635aae36985ed",
   "lastOpenFiles": [
+    "College/Modules/Programming/$ C - Programming Language.md",
+    "College/Modules/Programming/Loops - C.md",
+    "College/Modules/Programming/If , If else, While, Do While- C.md",
+    "Home Page/Home.canvas",
+    "College/Modules/Programming/Precision Specification - C.md",
+    "College/Modules/Programming/Switch Statement - C.md",
     "College/Modules/Programming/Unsorted/Strings - C.md",
     "College/Modules/Programming/Unsorted/String Functions - C.md",
-    "Home Page/Home.canvas",
-    "College/Modules/Programming/$ C - Programming Language.md",
-    "College/Modules/Programming/Switch Statement - C.md",
     "College/Modules/Programming/Ampersand - C.md",
-    "College/Modules/Programming/If , If else, While, Do While- C.md",
     "College/Modules/Programming/Logical Operators - C.md",
     "College/Modules/Programming/Faster Character Input Output - C.md",
     "College/Modules/Programming/Keyboard Input - C.md",
@@ -190,7 +241,6 @@
     "College/Modules/Programming/Unsorted/Storing Data in Variables - C.md",
     "College/Modules/Programming/Variables - C.md",
     "College/Modules/Programming/Delimiters - C.md",
-    "College/Modules/Programming/Precision Specification - C.md",
     "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
     "Templates/CC.md",
     "College/Modules/Programming/Unsorted/String Concatenation - C.md",
@@ -201,7 +251,6 @@
     "College/Modules/IT Fundamentals/Moore's Law.md",
     "College/Modules/Mathematics/Adding and Subtracting Matrices.md",
     "College/Modules/Programming/Unsorted/Variable Naming Schemes.md",
-    "College/Modules/Program Design/Sorting Algorithms.md",
     "College/Modules/Programming/Unsorted",
     "College/Modules",
     "College/TU856-1/Exam Papers/CMPU 1006 - 2023.2024.pdf",

@@ -8,7 +8,7 @@ aliases: []
 - [[K.I.S.S]]
 - [[Order of Code - C]]
 - [[Commenting - C]]
-- v[[Ampersand - C]]
+- [[Ampersand - C]]
 ## Miscellaneous
 - [[Escape Sequence - C]]
 - [[Delimiters - C]]
@@ -25,15 +25,20 @@ aliases: []
 - [[Keyboard Input - C]] | (**scanf()**)
 
 - [[Faster Character Input Output - C]] (**getchar(), putchar()**)
+
 ## Arithmetic Operations and Expressions
 - [[Arithmetic Operations and Expressions - C]]
 	- [[Incrementing & Decrementing - C]]
 	- [[Operator Precedence - C]]
 
-## Conditional Statements
+## Conditional Statements and Loops
 - [[If , If else, While, Do While- C]]
+	- [[Switch Statement - C]]
+
+- [[Loops - C]]
+
 - [[Logical Operators - C]]
-- [[Switch Statement - C]]
+
 
 ## Functions
 

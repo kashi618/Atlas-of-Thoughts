@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Loops - C",
+      "path": "College/Modules/Programming/Loops - C.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "College/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "If , If else, While, Do While- C",
+      "path": "College/Modules/Programming/If , If else, While, Do While- C.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Precision Specification - C",
+      "path": "College/Modules/Programming/Precision Specification - C.md"
+    },
+    {
+      "basename": "Switch Statement - C",
+      "path": "College/Modules/Programming/Switch Statement - C.md"
     },
     {
       "basename": "Strings - C",
@@ -13,20 +33,8 @@
       "path": "College/Modules/Programming/Unsorted/String Functions - C.md"
     },
     {
-      "basename": "$ C - Programming Language",
-      "path": "College/Modules/Programming/$ C - Programming Language.md"
-    },
-    {
-      "basename": "Switch Statement - C",
-      "path": "College/Modules/Programming/Switch Statement - C.md"
-    },
-    {
       "basename": "Ampersand - C",
       "path": "College/Modules/Programming/Ampersand - C.md"
-    },
-    {
-      "basename": "If , If else, While, Do While- C",
-      "path": "College/Modules/Programming/If , If else, While, Do While- C.md"
     },
     {
       "basename": "Logical Operators - C",
@@ -55,10 +63,6 @@
     {
       "basename": "Delimiters - C",
       "path": "College/Modules/Programming/Delimiters - C.md"
-    },
-    {
-      "basename": "Precision Specification - C",
-      "path": "College/Modules/Programming/Precision Specification - C.md"
     },
     {
       "basename": "Reading Strings - gets() - C",
@@ -195,10 +199,6 @@
     {
       "basename": "Arrays - C",
       "path": "College/Modules/Programming/Unsorted/Arrays - C.md"
-    },
-    {
-      "basename": "Operator Precedence - C",
-      "path": "College/Modules/Programming/Operator Precedence - C.md"
     }
   ],
   "omittedPaths": [],

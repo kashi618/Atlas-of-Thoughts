@@ -119,17 +119,11 @@
   "editor:insert-table": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "T"
     }
   ],
-  "workspace:new-tab": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "S"
-    }
-  ]
+  "workspace:undo-close-pane": []
 }
