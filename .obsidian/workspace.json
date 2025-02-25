@@ -25,33 +25,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "1c1f234afb5a5f3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Programming/Data Types - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Data Types - C"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,13 +93,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Modules/Programming/Data Types - C.md",
+                "file": "Home Page/Home.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Data Types - C"
+              "title": "Outline of Home"
             }
           }
         ]
@@ -170,13 +145,14 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "1c1f234afb5a5f3c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "College/Modules/Programming/Unsorted/Strings - C.md",
+    "College/Modules/Programming/Data Types - C.md",
     "College/Modules/Programming/EXAM Questions Study.md",
     "Home Page/Home.canvas",
     "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
     "College/Modules/Programming/$ C - Programming Language.md",
-    "College/Modules/Programming/Unsorted/Strings - C.md",
     "College/Modules/Programming/Unsorted/String Functions - C.md",
     "College/Modules/Programming/Unsorted/Passing Arrays - C.md",
     "College/Modules/Programming/Unsorted/Strings and Arrays - C.md",

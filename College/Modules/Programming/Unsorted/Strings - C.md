@@ -31,6 +31,11 @@ char *name3 = "Patrick";
 ```
 This is a string literally, not a pointer. This means that it is stored in memory as READ ONLY, and cannot be changed
 
+**Method 4**
+```c showlinenumber
+char name[] = {'c','a','t'};
+```
+Long way to initialize a string
 
 ## Displaying Strings
 You do not need a loop to display strings, instead, you can use the `%s` delimiter
