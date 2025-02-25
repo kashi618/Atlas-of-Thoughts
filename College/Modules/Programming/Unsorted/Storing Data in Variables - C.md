@@ -5,11 +5,11 @@ tags:
   - Variables
   - UNFINISHED
 ---
-To store a value inside a variable, a variable must first be [[Declaring and Initializing Variables - C|declared]].
+To store a value inside a variable, a variable must first be [[Variables - C|declared]].
 ```c showlinenumbers
 scanf("Delimeter",variableName)
 ```
-[[Delimeters - C]]
+[[Delimiters - C]]
 
 ## Example
 ```c showlinenumbers

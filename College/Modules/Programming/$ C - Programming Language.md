@@ -11,19 +11,18 @@ aliases:
 
 ## Miscellaneous
 - [[Escape Sequence - C]]
-- [[Delimeters - C]]
+- [[Delimiters - C]]
 
 ## Data Structures and Variables
-- [[Variables - C]]
+- [[Variables - C]] | (**Creating Variables**)
 - [[Signed & Unsigned Variables - C]]
 - [[Data Types - C]]
 - [[Casting - C]]
 
 ## Input Output
-- [[Keyboard Output - C]]
-	- [[Percision Specification - C]] (leading zeros)
-- [[Keyboard Input - C]]
-
+- [[Keyboard Output - C]] | (**printf()**)
+	- [[Precision Specification - C]] (**leading zeros, padding, formatting, FOR NUMBERS**)
+- [[Keyboard Input - C]] | (**scanf()**)
 
 
 ## Arithmetic Operations and Expressions

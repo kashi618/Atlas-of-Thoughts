@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "421991690b162897",
+            "id": "c5c6462ab8beee75",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,33 +49,9 @@
               "icon": "lucide-file",
               "title": "$ C - Programming Language"
             }
-          },
-          {
-            "id": "961572bf4cc11f77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Programming/Percision Specification - C.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Percision Specification - C"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,13 +117,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Modules/Programming/Percision Specification - C.md",
+                "file": "College/Modules/Programming/$ C - Programming Language.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Percision Specification - C"
+              "title": "Outline of $ C - Programming Language"
             }
           },
           {
@@ -224,15 +200,19 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "961572bf4cc11f77",
+  "active": "c5c6462ab8beee75",
   "lastOpenFiles": [
-    "College/Modules/Programming/Percision Specification - C.md",
-    "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
+    "Home Page/Home.canvas",
+    "College/Modules/Programming/Unsorted/Storing Data in Variables - C.md",
+    "College/Modules/Programming/Variables - C.md",
     "College/Modules/Programming/$ C - Programming Language.md",
+    "College/Modules/Programming/Delimiters - C.md",
+    "College/Modules/Programming/Unsorted/Strings - C.md",
+    "College/Modules/Programming/Precision Specification - C.md",
+    "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
     "Templates/CC.md",
     "College/Modules/Programming/Unsorted/String Concatenation - C.md",
     "College/Modules/Programming/Unsorted/Leading Numbers - C.md",
-    "Home Page/Home.canvas",
     "College/Modules/Algorithm Design and Problem Solving/Call Stack.md",
     "College/Modules/IT Fundamentals/Types of Software.md",
     "College/Modules/IT Fundamentals/Software Acquisition.md",
@@ -243,16 +223,11 @@
     "College/Modules/Programming/Unsorted/Subscript and Pointer Notation - C.md",
     "College/Modules/Programming/Unsorted/Symbolic Names - C.md",
     "College/Modules/Programming/Unsorted/Strings and Arrays - C.md",
-    "College/Modules/Programming/Unsorted/Strings - C.md",
-    "College/Modules/Programming/Unsorted/Storing Data in Variables - C.md",
     "College/Modules/Programming/Unsorted/Storage Classes - C.md",
     "College/Modules/Programming/Unsorted/sizeof() - C.md",
     "College/Modules/Programming/Unsorted/Semicolons - C.md",
     "College/Modules/Programming/Unsorted/Scope - C.md",
     "College/Modules/Programming/Unsorted/Returning Variables - C.md",
-    "College/Modules/Programming/Unsorted/Refactoring Code.md",
-    "College/Modules/Programming/Unsorted/Random Data - C.md",
-    "College/Modules/Programming/Unsorted/Printing Out Strings - puts() - C.md",
     "College/Modules/Programming/Unsorted",
     "College/Modules",
     "College/TU856-1/Exam Papers/CMPU 1006 - 2023.2024.pdf",

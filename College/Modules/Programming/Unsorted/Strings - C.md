@@ -13,7 +13,7 @@ scanf("%s", stringArr);
 - This is because `stringArr` is the same as writing the first element of the array `&stringArr[0]`
 
 ## Displaying Strings
-You do not need a loop to display strings, instead, you can use the `%s` delimeter
+You do not need a loop to display strings, instead, you can use the `%s` delimiter
 
 ### Example
 ```c showlinenumbers

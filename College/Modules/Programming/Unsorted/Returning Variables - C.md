@@ -9,7 +9,7 @@ To store a value inside a variable, a variable must first be [[Declaring and Ini
 ```c showlinenumbers
 printf("variableDelimeter",variableName);
 ```
-[[Delimeters - C]]
+[[Delimiters - C]]
 
 ## Example
 ```c showlinenumbers

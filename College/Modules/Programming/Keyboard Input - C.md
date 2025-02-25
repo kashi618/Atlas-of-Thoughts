@@ -6,7 +6,7 @@ aliases:
 ---
 ## scanf()
 To get a keyboard input, we use the scanf() function. Here are the steps:
-1. Specify the type of data we will intake, using a [[Delimeters - C|delimeter]]
+1. Specify the type of data we will intake, using a [[Delimiters - C|delimeter]]
 2. Replace our input with the data stored at the address of the variable, using the [[Ampersand - C|ampersand]]
 ```
 scanf("delimeter",&variableName);
@@ -43,5 +43,5 @@ int main(void) {
 
 # See Also
 [[$ C - Programming Language]]
-[[Delimeters - C]]
+[[Delimiters - C]]
 [[Ampersand - C]]
