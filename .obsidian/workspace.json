@@ -17,65 +17,16 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": -240,
-                  "y": -155.26347305389226,
-                  "zoom": -0.2456523276055576
+                  "y": -45,
+                  "zoom": -0.23061292814141654
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "580f61d8b2e95058",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Programming/Unsorted/String Functions - C.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "String Functions - C"
-            }
-          },
-          {
-            "id": "d7843cf98892eb75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Programming/Unsorted/Strings - C.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Strings - C"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +158,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "smart-random-note:Open Random Note from Search": false,
-      "obsidian-kanban:Create new board": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
@@ -224,11 +174,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "d7843cf98892eb75",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "College/Modules/Programming/Unsorted/Strings - C.md",
     "College/Modules/Programming/Unsorted/String Functions - C.md",
     "Home Page/Home.canvas",
-    "College/Modules/Programming/Unsorted/Strings - C.md",
     "College/Modules/Programming/$ C - Programming Language.md",
     "College/Modules/Programming/Switch Statement - C.md",
     "College/Modules/Programming/Ampersand - C.md",
