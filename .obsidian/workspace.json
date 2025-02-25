@@ -49,9 +49,57 @@
               "icon": "lucide-file",
               "title": "$ C - Programming Language"
             }
+          },
+          {
+            "id": "d493ede025d271fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNSORTED/If , If else, While, Do While- C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "If , If else, While, Do While- C"
+            }
+          },
+          {
+            "id": "80b874792e69e99c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNSORTED/Switch Statement - C.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Switch Statement - C"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Modules/Programming/$ C - Programming Language.md",
+                "file": "UNSORTED/If , If else, While, Do While- C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of $ C - Programming Language"
+              "title": "Outline of If , If else, While, Do While- C"
             }
           },
           {
@@ -200,12 +248,18 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "c5c6462ab8beee75",
+  "active": "d493ede025d271fe",
   "lastOpenFiles": [
+    "UNSORTED/Switch Statement - C.md",
     "Home Page/Home.canvas",
+    "UNSORTED/If , If else, While, Do While- C.md",
+    "UNSORTED/Logical Operators - C.md",
+    "College/Modules/Programming/$ C - Programming Language.md",
+    "UNSORTED/Faster Character Input Output - C.md",
+    "College/Modules/Programming/Keyboard Input - C.md",
+    "College/Modules/Programming/Keyboard Output - C.md",
     "College/Modules/Programming/Unsorted/Storing Data in Variables - C.md",
     "College/Modules/Programming/Variables - C.md",
-    "College/Modules/Programming/$ C - Programming Language.md",
     "College/Modules/Programming/Delimiters - C.md",
     "College/Modules/Programming/Unsorted/Strings - C.md",
     "College/Modules/Programming/Precision Specification - C.md",
@@ -222,12 +276,6 @@
     "College/Modules/Program Design/Sorting Algorithms.md",
     "College/Modules/Programming/Unsorted/Subscript and Pointer Notation - C.md",
     "College/Modules/Programming/Unsorted/Symbolic Names - C.md",
-    "College/Modules/Programming/Unsorted/Strings and Arrays - C.md",
-    "College/Modules/Programming/Unsorted/Storage Classes - C.md",
-    "College/Modules/Programming/Unsorted/sizeof() - C.md",
-    "College/Modules/Programming/Unsorted/Semicolons - C.md",
-    "College/Modules/Programming/Unsorted/Scope - C.md",
-    "College/Modules/Programming/Unsorted/Returning Variables - C.md",
     "College/Modules/Programming/Unsorted",
     "College/Modules",
     "College/TU856-1/Exam Papers/CMPU 1006 - 2023.2024.pdf",

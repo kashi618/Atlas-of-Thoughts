@@ -31,7 +31,7 @@ printf("%f", pi);
 ```
 - **NOTE:** In this case, we are printing the value of a float. Thus, we use the `%f` [[Delimiters - C|delimeter]].
 
-
 # See Also
 [[$ C - Programming Language]]
 [[Delimiters - C]]
+[[Faster Character Input Output - C]] **Faster way to print characters**

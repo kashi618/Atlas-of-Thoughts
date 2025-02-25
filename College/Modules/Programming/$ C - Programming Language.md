@@ -1,7 +1,7 @@
 ---
 tags:
   - C
-aliases:
+aliases: []
 ---
 
 ## Basic Concepts
@@ -24,13 +24,15 @@ aliases:
 	- [[Precision Specification - C]] (**leading zeros, padding, formatting, FOR NUMBERS**)
 - [[Keyboard Input - C]] | (**scanf()**)
 
-
+- [[Faster Character Input Output - C]] (**getchar(), putchar()**)
 ## Arithmetic Operations and Expressions
 - [[Arithmetic Operations and Expressions - C]]
 	- [[Incrementing & Decrementing - C]]
 	- [[Operator Precedence - C]]
 
-
+## Conditional Statements
+- [[If , If else, While, Do While- C]]
+- [[Logical Operators - C]]
 ## Functions
 
 

@@ -45,3 +45,4 @@ int main(void) {
 [[$ C - Programming Language]]
 [[Delimiters - C]]
 [[Ampersand - C]]
+[[Faster Character Input Output - C]] **Faster way to input characters**

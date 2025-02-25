@@ -1,5 +1,4 @@
 [
-  "dataview",
   "editing-toolbar",
   "colored-tags",
   "obsidian-icon-folder",
@@ -23,5 +22,6 @@
   "shiki-highlighter",
   "widgets",
   "obsidian-projects",
-  "smart-random-note"
+  "smart-random-note",
+  "dataview"
 ]
