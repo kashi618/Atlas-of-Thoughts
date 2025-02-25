@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Modules/Programming/Unsorted/String Functions - C.md",
+                "file": "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "String Functions - C"
+              "title": "Reading Strings - gets() - C"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Modules/Programming/Unsorted/String Functions - C.md",
+                "file": "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of String Functions - C"
+              "title": "Outline of Reading Strings - gets() - C"
             }
           }
         ]
@@ -198,6 +198,7 @@
   "lastOpenFiles": [
     "College/Modules/Programming/Unsorted/Strings - C.md",
     "College/Modules/Programming/Unsorted/String Functions - C.md",
+    "College/Modules/Programming/Unsorted/Passing Arrays - C.md",
     "College/Modules/Programming/Unsorted/Strings and Arrays - C.md",
     "Home Page/Home.canvas",
     "College/Modules/Programming/Arrays - C.md",

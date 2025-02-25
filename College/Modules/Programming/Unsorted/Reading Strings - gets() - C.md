@@ -18,7 +18,7 @@ Built in function in C, that can read a string from standard input (keyboard, et
 It will read all characters typed, including whitespace characters and newline character (enter key)
 **NOTE:** THIS FUNCTION IS GONNA BECOME DEPRICATED, MEANING don't use it :)
 It is being replaced by fgets()
-
+This is dangerous because you can write as much as you can, and cause a buffer overflow
 ```c showlinenumbers
 // Gets user input
 gets(name);
