@@ -13,8 +13,6 @@ scanf("%s", stringArr);
 - This is one of the only cases where an ampersand is not needed
 - Use fgets() instead. This is because scanf does not read whitespace characters such as space, tab, enter key
 
-
-
 ## Initializing Strings
 **Method 1**
 ```c showlinenumbers

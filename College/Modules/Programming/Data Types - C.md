@@ -11,6 +11,8 @@ It is a way to organize and sort data, so that the computer can retrieve and use
 - Singular character inside **single quotes**
 - 'A' , 'x' , '4'
 
+**NOTE:** If you add or subtract a number from a character, you modify its ascii value
+
 ### Integers
 **4 Bytes**
 - A positive or negative whole number
