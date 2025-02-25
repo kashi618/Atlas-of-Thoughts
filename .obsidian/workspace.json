@@ -18,15 +18,40 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -4
+                  "zoom": -1.466965291322705
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "8614af1eece7feec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Archlinux Rice - LainOS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Archlinux Rice - LainOS"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,13 +117,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "Notes/Archlinux Rice - LainOS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Archlinux Rice - LainOS"
             }
           },
           {
@@ -173,8 +198,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "8614af1eece7feec",
   "lastOpenFiles": [
+    "Notes/Arch Linux - Installation.md",
     "Home Page/Home.canvas",
     "College/Modules/Programming/Unsorted/Strings - C.md",
     "College/Modules/Programming/Data Types - C.md",
