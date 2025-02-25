@@ -40,6 +40,9 @@ aliases: []
 - [[Logical Operators - C]]
 
 
+## Arrays
+-[[Arrays - C]]
+
 ## Functions
 
 
