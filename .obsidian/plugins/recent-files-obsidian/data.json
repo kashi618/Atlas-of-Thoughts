@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "College/Modules/Operating Systems/Untitled.md"
+    },
+    {
       "basename": "Processes",
       "path": "College/Modules/Operating Systems/Processes.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Non-Null Terminated String - C",
       "path": "College/Modules/Programming/Unsorted/Non-Null Terminated String - C.md"
-    },
-    {
-      "basename": "Memory Leak",
-      "path": "College/Modules/Programming/Unsorted/Memory Leak.md"
     }
   ],
   "omittedPaths": [],

@@ -53,12 +53,31 @@ This arrises when the process needs to pause and gather extra data
 **Scheduler Dispatch**
 When the process runs on the CPU, based on the operating system schedule scheme
 
+## Process Scheduling
+Process scheduling consists of selecting available processes for program execution on the CPU, following 2 objectives
 
+**Multiprogramming**
+Used to have some process running at all times, to maximise CPU utilisation
+
+**Timesharing**
+Used to switch the CPU among processes, so that a user can interact between different programs without delay.
+Such as watching a video, whilst playing music, whilst moving the cursor.
 
 ## Context Switch
 This is the switching of the CPU from one process (or thread) to another. It is also known as CPU switch.
 - It takes time
-- 
+
+## Process Queues
+**Job Queue**
+Set of all processes in the system. Such as all the processes running in task manager
+
+**Ready Queue**
+Set of all processes that is residing in main memory, and ready to be used.
+
+**Device Queue**
+Set of processes waiting for an I/O device
+- Each device will have its own queue
+
 
 
 # See Also
