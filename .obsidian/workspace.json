@@ -25,8 +25,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "be920304f1d4adc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Modules/Programming/Unsorted/Compiling C.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Compiling C"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,10 +199,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "be920304f1d4adc1",
   "lastOpenFiles": [
-    "College/Modules/Operating Systems/API's.md",
+    "College/Modules/Programming/Unsorted/Compiler.md",
+    "College/Modules/Programming/Unsorted/Compiling C.md",
+    "College/Modules/Operating Systems/strace.md",
     "Home Page/Home.canvas",
+    "College/Modules/Operating Systems/API's.md",
     "Notes/Archlinux Rice - LainOS.md",
     "Notes/Arch Linux - Installation.md",
     "College/Modules/Programming/Unsorted/Strings - C.md",
@@ -200,8 +228,6 @@
     "College/Modules/Programming/Unsorted/Storing Data in Variables - C.md",
     "College/Modules/Programming/Arrays - CC.md",
     "College/Modules/Programming/Unsorted/Decimal Places and Leading Zeros - C.md",
-    "College/Modules/Programming/Loops - C.md",
-    "College/Modules/Programming/If , If else, While, Do While- C.md",
     "College/Modules/Programming/Unsorted",
     "College/Modules",
     "College/TU856-1/Exam Papers/CMPU 1006 - 2023.2024.pdf",
