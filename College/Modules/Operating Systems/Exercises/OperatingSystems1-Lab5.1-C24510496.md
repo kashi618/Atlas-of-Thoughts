@@ -30,7 +30,7 @@ When a user sets a process to background, they can work on using other processes
 The sleep command makes the terminal wait for n amount time. Anything typed into the terminal will then we activated when the sleep is finished.
 
 ## 4)
-It can be helpful when you need to specify when to execute a command.
+It can be helpful when you need to specify a count down on when to execute a certain command.
 
 ## 5)
 **sleep 10**
@@ -73,22 +73,28 @@ q
 ```
 
 ## 9)
+Create file that contains list (long) 
 ```
 touch listings.txt
 ls -l >> listings.txt
 ```
 
 ## 10)
+Append name to listints.txt
 ```
 echo Neil >> listings.txt
 ```
 
 ## 11)
+Remove user write permission
 ```
-chmod u-r listings.txt
+chmod u-w listings.txt
 ```
 
 ## 12)
 Gives error for not having appropriate permission
 
 ## 13)
+```
+echo Neil >> listings.txt |& 
+```

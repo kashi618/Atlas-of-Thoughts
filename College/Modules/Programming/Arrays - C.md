@@ -4,7 +4,7 @@ tags:
 aliases:
   - Lists
 ---
-## What is an Arrayv
+## What is an Array?
 ## Array Structure
 - An array is stored as a linear piece of data in memory
 - The first piece of data in an array is at index 0, the next at index 1, and so on

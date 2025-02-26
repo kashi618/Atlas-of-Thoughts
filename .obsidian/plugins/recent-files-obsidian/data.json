@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "OperatingSystems1-Lab5.0-Lab5.1-C24510496",
-      "path": "College/Modules/Operating Systems/Exercises/OperatingSystems1-Lab5.0-Lab5.1-C24510496.md"
+      "basename": "Arrays - C",
+      "path": "College/Modules/Programming/Arrays - C.md"
     },
     {
-      "basename": "Process Commands",
-      "path": "College/Modules/Operating Systems/Process Commands.md"
+      "basename": "$ C - Programming Language",
+      "path": "College/Modules/Programming/$ C - Programming Language.md"
     },
     {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
     {
-      "basename": "Processes",
-      "path": "College/Modules/Operating Systems/Processes.md"
+      "basename": "OperatingSystems1-Lab5.1-C24510496",
+      "path": "College/Modules/Operating Systems/Exercises/OperatingSystems1-Lab5.1-C24510496.md"
     },
     {
       "basename": "Hyper Threading",
       "path": "College/Modules/Operating Systems/Hyper Threading.md"
+    },
+    {
+      "basename": "Processes",
+      "path": "College/Modules/Operating Systems/Processes.md"
+    },
+    {
+      "basename": "Process Commands",
+      "path": "College/Modules/Operating Systems/Process Commands.md"
     },
     {
       "basename": "Compiling C",
@@ -65,10 +73,6 @@
       "path": "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md"
     },
     {
-      "basename": "$ C - Programming Language",
-      "path": "College/Modules/Programming/$ C - Programming Language.md"
-    },
-    {
       "basename": "String Functions - C",
       "path": "College/Modules/Programming/Unsorted/String Functions - C.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "Strings and Arrays - C",
       "path": "College/Modules/Programming/Unsorted/Strings and Arrays - C.md"
-    },
-    {
-      "basename": "Arrays - C",
-      "path": "College/Modules/Programming/Arrays - C.md"
     },
     {
       "basename": "Variable Naming Schemes",
