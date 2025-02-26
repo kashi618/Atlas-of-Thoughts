@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Archlinux Rice - LainOS",
+      "path": "Notes/Archlinux Rice - LainOS.md"
+    },
+    {
       "basename": "LainOS - Archlinux Rice",
       "path": "Notes/LainOS - Archlinux Rice.md"
     },
     {
       "basename": "Arch Linux - Installation",
       "path": "Notes/Arch Linux - Installation.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Strings - C",
@@ -195,10 +199,6 @@
     {
       "basename": "Dereference Operators - C",
       "path": "College/Modules/Programming/Unsorted/Dereference Operators - C.md"
-    },
-    {
-      "basename": "Compiler",
-      "path": "College/Modules/Programming/Unsorted/Compiler.md"
     }
   ],
   "omittedPaths": [],

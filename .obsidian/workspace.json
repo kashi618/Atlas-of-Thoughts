@@ -10,48 +10,21 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -240,
-                  "y": -45,
-                  "zoom": -1.466965291322705
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "8614af1eece7feec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Archlinux Rice - LainOS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Archlinux Rice - LainOS"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Archlinux Rice - LainOS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Archlinux Rice - LainOS"
+              "title": "Outline"
             }
           },
           {
@@ -198,8 +170,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "8614af1eece7feec",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Archlinux Rice - LainOS.md",
     "Notes/Arch Linux - Installation.md",
     "Home Page/Home.canvas",
     "College/Modules/Programming/Unsorted/Strings - C.md",
@@ -226,7 +199,6 @@
     "College/Modules/Programming/If , If else, While, Do While- C.md",
     "College/Modules/Programming/Precision Specification - C.md",
     "College/Modules/Programming/Switch Statement - C.md",
-    "College/Modules/Programming/Ampersand - C.md",
     "College/Modules/Programming/Unsorted",
     "College/Modules",
     "College/TU856-1/Exam Papers/CMPU 1006 - 2023.2024.pdf",
