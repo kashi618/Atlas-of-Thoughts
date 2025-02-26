@@ -38,7 +38,7 @@ kill -9 jobNumber
 fg jobNumber
 ```
 
-## See Current Running Jobs
+## See Current Running Jobs (containing PID)
 ```
 jobs
 ```
@@ -47,5 +47,15 @@ jobs
 ps
 ```
 
+### See Background Processes
+```c
+bg
+```
+
+
+### Set Current Running Process to Background
+```
+<ctrl + z>
+```
 # See Also
 
