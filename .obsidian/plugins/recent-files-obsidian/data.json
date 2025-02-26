@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Processes",
+      "path": "College/Modules/Operating Systems/Processes.md"
+    },
+    {
+      "basename": "Hyper Threading",
+      "path": "College/Modules/Operating Systems/Hyper Threading.md"
+    },
+    {
       "basename": "Compiling C",
       "path": "College/Modules/Programming/Unsorted/Compiling C.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Memory Leak",
       "path": "College/Modules/Programming/Unsorted/Memory Leak.md"
-    },
-    {
-      "basename": "Initializing a 2D Array",
-      "path": "College/Modules/Programming/Unsorted/Initializing a 2D Array.md"
-    },
-    {
-      "basename": "Indentation - C",
-      "path": "College/Modules/Programming/Unsorted/Indentation - C.md"
     }
   ],
   "omittedPaths": [],
