@@ -5,6 +5,14 @@
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "API's",
+      "path": "College/Modules/Operating Systems/API's.md"
+    },
+    {
+      "basename": "system calls",
+      "path": "College/Modules/Operating Systems/system calls.md"
+    },
+    {
       "basename": "Archlinux Rice - LainOS",
       "path": "Notes/Archlinux Rice - LainOS.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "free() - C",
       "path": "College/Modules/Programming/Unsorted/free() - C.md"
-    },
-    {
-      "basename": "Dynamic Memory Allocation - C",
-      "path": "College/Modules/Programming/Unsorted/Dynamic Memory Allocation - C.md"
-    },
-    {
-      "basename": "Dereference Operators - C",
-      "path": "College/Modules/Programming/Unsorted/Dereference Operators - C.md"
     }
   ],
   "omittedPaths": [],
