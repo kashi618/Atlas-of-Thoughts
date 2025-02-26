@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Untitled",
       "path": "College/Modules/Operating Systems/Untitled.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "strace",
       "path": "College/Modules/Operating Systems/strace.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "API's",

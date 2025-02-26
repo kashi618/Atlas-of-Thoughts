@@ -10,48 +10,21 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -240,
-                  "y": -45,
-                  "zoom": -0.478340081187362
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "be920304f1d4adc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Operating Systems/Untitled.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,10 +172,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "be920304f1d4adc1",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "College/Modules/Operating Systems/Processes.md",
     "College/Modules/Operating Systems/Untitled.md",
+    "College/Modules/Operating Systems/Processes.md",
     "College/Modules/Operating Systems/Hyper Threading.md",
     "College/Modules/Programming/Unsorted/Compiling C.md",
     "College/Modules/Programming/Unsorted/Compiler.md",
