@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Non-Null Terminated String - C",
+      "path": "College/Modules/Programming/Unsorted/Non-Null Terminated String - C.md"
+    },
+    {
+      "basename": "Pointers - C",
+      "path": "College/Modules/Programming/Unsorted/Pointers - C.md"
+    },
+    {
+      "basename": "Dynamic Memory Allocation - C",
+      "path": "College/Modules/Programming/Unsorted/Dynamic Memory Allocation - C.md"
+    },
+    {
+      "basename": "Variables - C",
+      "path": "College/Modules/Programming/Variables - C.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "College/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "K.I.S.S",
+      "path": "College/Modules/Programming/K.I.S.S.md"
+    },
+    {
+      "basename": "Synchronous and Asynchronous Serial  Communications",
+      "path": "College/Modules/Microprocessors Systems/Synchronous and Asynchronous Serial  Communications.md"
+    },
+    {
+      "basename": "Incrementing Hexadecimal Numbers - Microcontroller",
+      "path": "College/Modules/Microprocessors Systems/Incrementing Hexadecimal Numbers - Microcontroller.md"
+    },
+    {
+      "basename": "Order of Code - C",
+      "path": "College/Modules/Programming/Order of Code - C.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -19,10 +55,6 @@
     {
       "basename": "Arrays - C",
       "path": "College/Modules/Programming/Arrays - C.md"
-    },
-    {
-      "basename": "$ C - Programming Language",
-      "path": "College/Modules/Programming/$ C - Programming Language.md"
     },
     {
       "basename": "OperatingSystems1-Lab5.1-C24510496",
@@ -153,10 +185,6 @@
       "path": "College/Modules/Programming/Keyboard Output - C.md"
     },
     {
-      "basename": "Variables - C",
-      "path": "College/Modules/Programming/Variables - C.md"
-    },
-    {
       "basename": "Delimiters - C",
       "path": "College/Modules/Programming/Delimiters - C.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "Adding and Subtracting Matrices",
       "path": "College/Modules/Mathematics/Adding and Subtracting Matrices.md"
-    },
-    {
-      "basename": "Scope - C",
-      "path": "College/Modules/Programming/Unsorted/Scope - C.md"
-    },
-    {
-      "basename": "Returning Variables - C",
-      "path": "College/Modules/Programming/Unsorted/Returning Variables - C.md"
-    },
-    {
-      "basename": "Refactoring Code",
-      "path": "College/Modules/Programming/Unsorted/Refactoring Code.md"
-    },
-    {
-      "basename": "Random Data - C",
-      "path": "College/Modules/Programming/Unsorted/Random Data - C.md"
-    },
-    {
-      "basename": "Printing Out Strings - puts() - C",
-      "path": "College/Modules/Programming/Unsorted/Printing Out Strings - puts() - C.md"
-    },
-    {
-      "basename": "Printing a 2D Array - C",
-      "path": "College/Modules/Programming/Unsorted/Printing a 2D Array - C.md"
-    },
-    {
-      "basename": "Pointers and Arrays - C",
-      "path": "College/Modules/Programming/Unsorted/Pointers and Arrays - C.md"
     }
   ],
   "omittedPaths": [],

@@ -17,7 +17,7 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": -240,
-                  "y": -45,
+                  "y": -146.03443822300426,
                   "zoom": -0.251061764167718
                 }
               },
@@ -25,8 +25,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "7822cb3fb1a63d0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Modules/Programming/Unsorted/Non-Null Terminated String - C.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Non-Null Terminated String - C"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,12 +189,21 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7822cb3fb1a63d0b",
   "lastOpenFiles": [
+    "College/Modules/Programming/Unsorted/Non-Null Terminated String - C.md",
+    "College/Modules/Programming/Unsorted/Pointers - C.md",
+    "College/Modules/Programming/Unsorted/Dynamic Memory Allocation - C.md",
+    "College/Modules/Programming/Variables - C.md",
+    "College/Modules/Programming/$ C - Programming Language.md",
+    "College/Modules/Programming/K.I.S.S.md",
+    "College/Modules/Microprocessors Systems/Synchronous and Asynchronous Serial  Communications.md",
+    "College/Modules/Microprocessors Systems/Incrementing Hexadecimal Numbers - Microcontroller.md",
+    "College/Modules/Programming/Order of Code - C.md",
+    "Home Page/Home.canvas",
     "College/Modules/Operating Systems/Hardware.md",
     "College/Modules/Operating Systems/Kernel.md",
     "College/Modules/Operating Systems/MAN Install Script.md",
-    "Home Page/Home.canvas",
     "College/Modules/Operating Systems/$$ Shell Commands.md",
     "College/Modules/Operating Systems/Unsorted Notes/Functional Programming.md",
     "College/Modules/Operating Systems/Unsorted Notes/File Permissions - chmod - Linux.md",
@@ -184,16 +218,7 @@
     "College/Modules/Operating Systems/Unsorted Notes/BIOS.md",
     "College/Modules/Operating Systems/Unsorted Notes/API's.md",
     "College/Modules/Operating Systems/Unsorted Notes/Ada Lovelace (1815-1852).md",
-    "College/Modules/Operating Systems/Unsorted Notes/$$ Shell Commands.md",
-    "College/Modules/Operating Systems/API's.md",
     "College/Modules/Operating Systems/Unsorted Notes",
-    "College/Modules/Microprocessors Systems/Project.md",
-    "College/Modules/Programming/Arrays - C.md",
-    "College/Modules/Programming/$ C - Programming Language.md",
-    "College/Modules/Operating Systems/Exercises/OperatingSystems1-Lab5.1-C24510496.md",
-    "College/Modules/Operating Systems/Hyper Threading.md",
-    "College/Modules/Operating Systems/Processes.md",
-    "College/Modules/Operating Systems/Process Commands.md",
     "College/Modules/Programming/Unsorted",
     "College/Modules",
     "College/TU856-1/Exam Papers/CMPU 1006 - 2023.2024.pdf",
