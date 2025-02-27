@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Monster Can Flavours and Tierlist",
+      "path": "Notes/Monster Can Flavours and Tierlist.md"
+    },
+    {
       "basename": "Non-Null Terminated String - C",
       "path": "College/Modules/Programming/Unsorted/Non-Null Terminated String - C.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Call Stack",
       "path": "College/Modules/Algorithm Design and Problem Solving/Call Stack.md"
-    },
-    {
-      "basename": "Adding and Subtracting Matrices",
-      "path": "College/Modules/Mathematics/Adding and Subtracting Matrices.md"
     }
   ],
   "omittedPaths": [],
