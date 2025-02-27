@@ -1,7 +1,6 @@
 ---
 tags:
   - C
-  - NOT-FINISHED
 aliases:
   - If statement
   - While loop
@@ -45,3 +44,4 @@ if (x > 10) {
 [[$ C - Programming Language]]
 [[Logical Operators - C]] (**Contains common logical operators used**)
 [[Switch Statement - C]] (**Faster method for many if statements**)
+[[Loops - C]] (**While loops, For loops, etc**)

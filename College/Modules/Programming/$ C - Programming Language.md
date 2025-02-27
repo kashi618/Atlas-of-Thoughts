@@ -35,7 +35,7 @@ aliases: []
 	- [[Operator Precedence - C]]
 
 ## Conditional Statements and Loops
-- [[If , If else, While, Do While- C]]
+- [[If Statements- C]]
 	- [[Switch Statement - C]]
 
 - [[Loops - C]]

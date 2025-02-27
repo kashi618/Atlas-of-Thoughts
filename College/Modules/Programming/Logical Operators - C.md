@@ -17,5 +17,5 @@ aliases:
 
 # See Also
 [[$ C - Programming Language]]
-[[If , If else, While, Do While- C]]
+[[If Statements- C]]
 [[Switch Statement - C]]

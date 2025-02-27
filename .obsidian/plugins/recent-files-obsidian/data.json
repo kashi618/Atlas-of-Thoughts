@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "If Statements- C",
+      "path": "College/Modules/Programming/If Statements- C.md"
+    },
+    {
+      "basename": "Loops - C",
+      "path": "College/Modules/Programming/Loops - C.md"
+    },
+    {
+      "basename": "Eudaimonia",
+      "path": "Notes/Eudaimonia.md"
+    },
+    {
+      "basename": "Library",
+      "path": "Notes/Library.md"
+    },
+    {
+      "basename": "Utopia",
+      "path": "Notes/Utopia.md"
+    },
+    {
+      "basename": "Thales Falling into a Well",
+      "path": "Notes/Thales Falling into a Well.md"
+    },
+    {
+      "basename": "Tattoos",
+      "path": "Notes/Tattoos.md"
+    },
+    {
+      "basename": "ISO ANSI Layout Keyboards",
+      "path": "Notes/ISO ANSI Layout Keyboards.md"
+    },
+    {
+      "basename": "How to use Obsidian",
+      "path": "Notes/How to use Obsidian.md"
+    },
+    {
+      "basename": "Agronomist",
+      "path": "Notes/Agronomist.md"
+    },
+    {
+      "basename": "Alt Codes",
+      "path": "Notes/Alt Codes.md"
+    },
+    {
       "basename": "Monster Can Flavours and Tierlist",
       "path": "Notes/Monster Can Flavours and Tierlist.md"
     },
@@ -39,10 +87,6 @@
     {
       "basename": "Order of Code - C",
       "path": "College/Modules/Programming/Order of Code - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Hardware",
@@ -153,52 +197,8 @@
       "path": "College/Modules/Programming/Unsorted/Semicolons - C.md"
     },
     {
-      "basename": "Loops - C",
-      "path": "College/Modules/Programming/Loops - C.md"
-    },
-    {
-      "basename": "If , If else, While, Do While- C",
-      "path": "College/Modules/Programming/If , If else, While, Do While- C.md"
-    },
-    {
       "basename": "Precision Specification - C",
       "path": "College/Modules/Programming/Precision Specification - C.md"
-    },
-    {
-      "basename": "Switch Statement - C",
-      "path": "College/Modules/Programming/Switch Statement - C.md"
-    },
-    {
-      "basename": "Ampersand - C",
-      "path": "College/Modules/Programming/Ampersand - C.md"
-    },
-    {
-      "basename": "Logical Operators - C",
-      "path": "College/Modules/Programming/Logical Operators - C.md"
-    },
-    {
-      "basename": "Faster Character Input Output - C",
-      "path": "College/Modules/Programming/Faster Character Input Output - C.md"
-    },
-    {
-      "basename": "Keyboard Input - C",
-      "path": "College/Modules/Programming/Keyboard Input - C.md"
-    },
-    {
-      "basename": "Keyboard Output - C",
-      "path": "College/Modules/Programming/Keyboard Output - C.md"
-    },
-    {
-      "basename": "Delimiters - C",
-      "path": "College/Modules/Programming/Delimiters - C.md"
-    },
-    {
-      "basename": "CC",
-      "path": "Templates/CC.md"
-    },
-    {
-      "basename": "Call Stack",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Call Stack.md"
     }
   ],
   "omittedPaths": [],

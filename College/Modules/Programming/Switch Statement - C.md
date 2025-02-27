@@ -66,4 +66,4 @@ switch (day) {
 # See Also
 [[$ C - Programming Language]]
 [[Logical Operators - C]]
-[[If , If else, While, Do While- C]]
+[[If Statements- C]]
