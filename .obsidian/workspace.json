@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -17,9 +18,10 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -0.478340081187362
+                  "zoom": -2.1455408428153535
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
