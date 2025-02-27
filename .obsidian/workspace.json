@@ -16,68 +16,17 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -232.38177188197923,
-                  "y": -89.62302115293016,
-                  "zoom": -0.6897774057649169
+                  "x": -240,
+                  "y": -45,
+                  "zoom": -0.7543752724258355
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "97618d7978ac2f92",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Operating Systems/$ Operating Systems.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "$ Operating Systems"
-            }
-          },
-          {
-            "id": "8789b9a3bb40099e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNSORTED/Software - Hardware.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Software - Hardware"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.501522064209
+    "width": 376.51103591918945
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -130,13 +79,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNSORTED/Software - Hardware.md",
+                "file": "Home Page/Home.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Software - Hardware"
+              "title": "Outline of Home"
             }
           },
           {
@@ -153,17 +102,36 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "74d2a1c5faad5f5e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections"
+            }
+          },
+          {
+            "id": "86e7b0801dd928ed",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Smart Chat"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "smart-random-note:Open Random Note from Search": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
@@ -178,16 +146,15 @@
       "obsidian-book-search-plugin:Create new book note": false,
       "widgets:Add widget": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "daily-notes:Open today's daily note": false,
-      "markdown-importer:Open format converter": false,
-      "random-note:Open random note": false
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "8789b9a3bb40099e",
+  "active": "86e7b0801dd928ed",
   "lastOpenFiles": [
-    "College/Modules/Operating Systems/$ Operating Systems.md",
     "UNSORTED/Software - Hardware.md",
+    "College/Modules/Operating Systems/$ Operating Systems.md",
     "UNSORTED/Computer System Structure.md",
     "College/TU856-1/TU856-1 Results.md",
     "College/Modules/Operating Systems/Unsorted Notes/Software.md",

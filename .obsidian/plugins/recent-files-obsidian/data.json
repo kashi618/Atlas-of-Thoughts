@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Software - Hardware",
       "path": "UNSORTED/Software - Hardware.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Operating System",
       "path": "College/Modules/Operating Systems/Unsorted Notes/Operating System.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "OOperating Systems",
