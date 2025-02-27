@@ -5,6 +5,18 @@
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "Hardware",
+      "path": "College/Modules/Operating Systems/Hardware.md"
+    },
+    {
+      "basename": "Kernel",
+      "path": "College/Modules/Operating Systems/Kernel.md"
+    },
+    {
+      "basename": "MAN Install Script",
+      "path": "College/Modules/Operating Systems/MAN Install Script.md"
+    },
+    {
       "basename": "Arrays - C",
       "path": "College/Modules/Programming/Arrays - C.md"
     },
@@ -39,10 +51,6 @@
     {
       "basename": "strace",
       "path": "College/Modules/Operating Systems/strace.md"
-    },
-    {
-      "basename": "API's",
-      "path": "College/Modules/Operating Systems/API's.md"
     },
     {
       "basename": "system calls",
@@ -191,10 +199,6 @@
     {
       "basename": "Pointers and Arrays - C",
       "path": "College/Modules/Programming/Unsorted/Pointers and Arrays - C.md"
-    },
-    {
-      "basename": "Pointers - C",
-      "path": "College/Modules/Programming/Unsorted/Pointers - C.md"
     }
   ],
   "omittedPaths": [],
