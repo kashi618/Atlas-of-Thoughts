@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -21,7 +20,6 @@
                   "zoom": -0.478340081187362
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
@@ -166,9 +164,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
+    "College/Modules/Microprocessors Systems/Project.md",
     "College/Modules/Programming/Arrays - C.md",
     "College/Modules/Programming/$ C - Programming Language.md",
-    "Home Page/Home.canvas",
     "College/Modules/Operating Systems/Exercises/OperatingSystems1-Lab5.1-C24510496.md",
     "College/Modules/Operating Systems/Hyper Threading.md",
     "College/Modules/Operating Systems/Processes.md",
@@ -191,7 +190,6 @@
     "College/Modules/Programming/Symbolic Names - C.md",
     "College/Modules/Programming/Unsorted/Subscript and Pointer Notation - C.md",
     "College/Modules/Programming/Unsorted/String Concatenation - C.md",
-    "College/Modules/Programming/Unsorted/Storage Classes - C.md",
     "College/Modules/Programming/Unsorted",
     "College/Modules",
     "College/TU856-1/Exam Papers/CMPU 1006 - 2023.2024.pdf",

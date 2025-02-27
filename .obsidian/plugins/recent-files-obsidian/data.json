@@ -195,10 +195,6 @@
     {
       "basename": "Pointers - C",
       "path": "College/Modules/Programming/Unsorted/Pointers - C.md"
-    },
-    {
-      "basename": "Pass by Value & Pass by Reference - C",
-      "path": "College/Modules/Programming/Unsorted/Pass by Value & Pass by Reference - C.md"
     }
   ],
   "omittedPaths": [],
