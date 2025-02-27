@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Software - Hardware",
+      "path": "UNSORTED/Software - Hardware.md"
+    },
+    {
       "basename": "$ Operating Systems",
       "path": "College/Modules/Operating Systems/$ Operating Systems.md"
+    },
+    {
+      "basename": "Computer System Structure",
+      "path": "UNSORTED/Computer System Structure.md"
+    },
+    {
+      "basename": "TU856-1 Results",
+      "path": "College/TU856-1/TU856-1 Results.md"
+    },
+    {
+      "basename": "Software",
+      "path": "College/Modules/Operating Systems/Unsorted Notes/Software.md"
+    },
+    {
+      "basename": "Drivers",
+      "path": "College/Modules/Operating Systems/Unsorted Notes/Drivers.md"
+    },
+    {
+      "basename": "Operating System",
+      "path": "College/Modules/Operating Systems/Unsorted Notes/Operating System.md"
     },
     {
       "basename": "Home",
@@ -175,30 +199,6 @@
     {
       "basename": "Kernel",
       "path": "College/Modules/Operating Systems/Kernel.md"
-    },
-    {
-      "basename": "MAN Install Script",
-      "path": "College/Modules/Operating Systems/MAN Install Script.md"
-    },
-    {
-      "basename": "Arrays - C",
-      "path": "College/Modules/Programming/Arrays - C.md"
-    },
-    {
-      "basename": "OperatingSystems1-Lab5.1-C24510496",
-      "path": "College/Modules/Operating Systems/Exercises/OperatingSystems1-Lab5.1-C24510496.md"
-    },
-    {
-      "basename": "Hyper Threading",
-      "path": "College/Modules/Operating Systems/Hyper Threading.md"
-    },
-    {
-      "basename": "Processes",
-      "path": "College/Modules/Operating Systems/Processes.md"
-    },
-    {
-      "basename": "Process Commands",
-      "path": "College/Modules/Operating Systems/Process Commands.md"
     }
   ],
   "omittedPaths": [],

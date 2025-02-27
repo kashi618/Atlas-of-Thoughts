@@ -29,6 +29,7 @@
           {
             "id": "97618d7978ac2f92",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,12 +47,37 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "$ Operating Systems"
             }
+          },
+          {
+            "id": "8789b9a3bb40099e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNSORTED/Software - Hardware.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Software - Hardware"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,13 +130,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Modules/Operating Systems/$ Operating Systems.md",
+                "file": "UNSORTED/Software - Hardware.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of $ Operating Systems"
+              "title": "Outline of Software - Hardware"
             }
           },
           {
@@ -158,11 +184,18 @@
       "random-note:Open random note": false
     }
   },
-  "active": "97618d7978ac2f92",
+  "active": "8789b9a3bb40099e",
   "lastOpenFiles": [
+    "College/Modules/Operating Systems/$ Operating Systems.md",
+    "UNSORTED/Software - Hardware.md",
+    "UNSORTED/Computer System Structure.md",
+    "College/TU856-1/TU856-1 Results.md",
+    "College/Modules/Operating Systems/Unsorted Notes/Software.md",
+    "College/Modules/Operating Systems/Unsorted Notes/Drivers.md",
+    "College/Modules/Operating Systems/Unsorted Notes/Operating System.md",
+    "Other/Pasted image 20250227230328.png",
     "Home Page/Home.canvas",
     "Templates/OOperating Systems.md",
-    "College/Modules/Operating Systems/$ Operating Systems.md",
     "College/Modules/Algorithm Design and Problem Solving/Iterative  Factorial Algorithm.md",
     "Library/Alexandre Dumas - The Count of Monte Cristo.md",
     "Library/Agustina Bazterrica - Tender Is the Flesh.md",
@@ -181,11 +214,6 @@
     "College/Modules/Programming/Commenting - C.md",
     "College/Modules/Programming/Programming.md",
     "Library/Victor Hugo - Les Miserables.md",
-    "Library/Homer - The Odyssey.md",
-    "Templates/1025 Programming Template.md",
-    "Library/David Walliams - The Midnight Gang.md",
-    "Library/Stephen King - It.md",
-    "College/Modules/Programming/Loops - C.md",
     "Other/Pasted image 20250227212729.png",
     "Other/Pasted image 20250227212529.png",
     "Other/Pasted image 20250227212509.png",
@@ -195,7 +223,6 @@
     "Other/Pasted image 20250227212134.png",
     "Other/Pasted image 20250227212017.png",
     "Other/Pasted image 20250227212015.png",
-    "Other/Pasted image 20250227211942.png",
     "College/Modules/Operating Systems/Unsorted Notes",
     "College/Modules/Programming/Unsorted",
     "College/Modules",

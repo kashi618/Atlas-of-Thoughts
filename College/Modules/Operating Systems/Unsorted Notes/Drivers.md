@@ -1,10 +1,13 @@
 ---
 tags:
-  - ComputerScience
-  - Operating-Systems
+  - Opearting-Systems
+aliases:
 ---
-A piece of software that allows an operating system to communicate and use a piece of hardware connected to a computer
+
+A piece of [[Software - Hardware|Software]] that allows an operating system to communicate and use a piece of hardware connected to a computer. It facilitates communication between hardware and software.
+
+Think of it like a driver, that sends information between two places.
+
 
 # See Also
-[[Operating System]]
-[[Software]]
+[[$ Operating Systems]]
