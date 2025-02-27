@@ -16,8 +16,8 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -240,
-                  "y": -45,
+                  "x": -257.02053692292077,
+                  "y": -88.68981372862137,
                   "zoom": -0.6897774057649169
                 }
               },
@@ -25,8 +25,19 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "86fa12622c8a3e3b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,16 +61,13 @@
             }
           },
           {
-            "id": "d828e5b8bc561a69",
+            "id": "337a627bd4fd556b",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -82,63 +90,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline"
             }
           },
           {
-            "id": "bae74c49a9471d1c",
+            "id": "97596caecf9dc1b0",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Home Page/Home.canvas",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Home"
-            }
-          },
-          {
-            "id": "3fd3d100b52fb6ac",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Home Page/Home.canvas",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Home"
-            }
-          },
-          {
-            "id": "1a2ada41de0acb0d",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
+              "type": "tag",
               "state": {
                 "sortOrder": "frequency",
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,14 +136,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "widgets:Add widget": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "daily-notes:Open today's daily note": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "86fa12622c8a3e3b",
   "lastOpenFiles": [
-    "College/Modules/Programming/If Statements- C.md",
-    "College/Modules/Programming/Loops - C.md",
+    "Library/Harper Lee - To Kill a Mockingbird.md",
+    "College/Modules/Programming/Casting - C.md",
+    "College/Modules/Programming/$ C - Programming Language.md",
     "Home Page/Home.canvas",
+    "College/Modules/Programming/Logical Operators - C.md",
+    "College/Modules/Programming/If Statements- C.md",
+    "College/Modules/Programming/Faster Character Input Output - C.md",
+    "College/Modules/Programming/Ampersand - C.md",
+    "College/Modules/Programming/Delimiters - C.md",
+    "College/Modules/Programming/Order of Code - C.md",
+    "College/Modules/Programming/Commenting - C.md",
+    "College/Modules/Programming/Programming.md",
+    "Library/Victor Hugo - Les Miserables.md",
+    "Library/Homer - The Odyssey.md",
+    "Templates/1025 Programming Template.md",
+    "Library/David Walliams - The Midnight Gang.md",
+    "Library/Stephen King - It.md",
+    "College/Modules/Programming/Loops - C.md",
     "Notes/Eudaimonia.md",
     "Notes/Library.md",
     "Notes/Utopia.md",
@@ -176,8 +171,6 @@
     "Notes/ISO ANSI Layout Keyboards.md",
     "Notes/How to use Obsidian.md",
     "Notes/Agronomist.md",
-    "Notes/Alt Codes.md",
-    "Notes/Monster Can Flavours and Tierlist.md",
     "Other/Pasted image 20250227212729.png",
     "Other/Pasted image 20250227212529.png",
     "Other/Pasted image 20250227212509.png",
@@ -188,20 +181,6 @@
     "Other/Pasted image 20250227212017.png",
     "Other/Pasted image 20250227212015.png",
     "Other/Pasted image 20250227211942.png",
-    "College/Modules/Programming/Unsorted/Non-Null Terminated String - C.md",
-    "College/Modules/Programming/Unsorted/Pointers - C.md",
-    "College/Modules/Programming/Unsorted/Dynamic Memory Allocation - C.md",
-    "College/Modules/Programming/Variables - C.md",
-    "College/Modules/Programming/$ C - Programming Language.md",
-    "College/Modules/Programming/K.I.S.S.md",
-    "College/Modules/Microprocessors Systems/Synchronous and Asynchronous Serial  Communications.md",
-    "College/Modules/Microprocessors Systems/Incrementing Hexadecimal Numbers - Microcontroller.md",
-    "College/Modules/Programming/Order of Code - C.md",
-    "College/Modules/Operating Systems/Hardware.md",
-    "College/Modules/Operating Systems/Kernel.md",
-    "College/Modules/Operating Systems/MAN Install Script.md",
-    "College/Modules/Operating Systems/$$ Shell Commands.md",
-    "College/Modules/Operating Systems/Unsorted Notes/Functional Programming.md",
     "College/Modules/Operating Systems/Unsorted Notes",
     "College/Modules/Programming/Unsorted",
     "College/Modules",

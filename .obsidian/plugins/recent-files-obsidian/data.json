@@ -1,12 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "Harper Lee - To Kill a Mockingbird",
+      "path": "Library/Harper Lee - To Kill a Mockingbird.md"
+    },
+    {
+      "basename": "Casting - C",
+      "path": "College/Modules/Programming/Casting - C.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "College/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
     {
+      "basename": "Logical Operators - C",
+      "path": "College/Modules/Programming/Logical Operators - C.md"
+    },
+    {
       "basename": "If Statements- C",
       "path": "College/Modules/Programming/If Statements- C.md"
+    },
+    {
+      "basename": "Faster Character Input Output - C",
+      "path": "College/Modules/Programming/Faster Character Input Output - C.md"
+    },
+    {
+      "basename": "Ampersand - C",
+      "path": "College/Modules/Programming/Ampersand - C.md"
+    },
+    {
+      "basename": "Delimiters - C",
+      "path": "College/Modules/Programming/Delimiters - C.md"
+    },
+    {
+      "basename": "Order of Code - C",
+      "path": "College/Modules/Programming/Order of Code - C.md"
+    },
+    {
+      "basename": "Commenting - C",
+      "path": "College/Modules/Programming/Commenting - C.md"
+    },
+    {
+      "basename": "Victor Hugo - Les Miserables",
+      "path": "Library/Victor Hugo - Les Miserables.md"
+    },
+    {
+      "basename": "Homer - The Odyssey",
+      "path": "Library/Homer - The Odyssey.md"
+    },
+    {
+      "basename": "1025 Programming Template",
+      "path": "Templates/1025 Programming Template.md"
+    },
+    {
+      "basename": "David Walliams - The Midnight Gang",
+      "path": "Library/David Walliams - The Midnight Gang.md"
+    },
+    {
+      "basename": "Stephen King - It",
+      "path": "Library/Stephen King - It.md"
     },
     {
       "basename": "Loops - C",
@@ -69,10 +125,6 @@
       "path": "College/Modules/Programming/Variables - C.md"
     },
     {
-      "basename": "$ C - Programming Language",
-      "path": "College/Modules/Programming/$ C - Programming Language.md"
-    },
-    {
       "basename": "K.I.S.S",
       "path": "College/Modules/Programming/K.I.S.S.md"
     },
@@ -83,10 +135,6 @@
     {
       "basename": "Incrementing Hexadecimal Numbers - Microcontroller",
       "path": "College/Modules/Microprocessors Systems/Incrementing Hexadecimal Numbers - Microcontroller.md"
-    },
-    {
-      "basename": "Order of Code - C",
-      "path": "College/Modules/Programming/Order of Code - C.md"
     },
     {
       "basename": "Hardware",
@@ -151,54 +199,6 @@
     {
       "basename": "Strings - C",
       "path": "College/Modules/Programming/Unsorted/Strings - C.md"
-    },
-    {
-      "basename": "Data Types - C",
-      "path": "College/Modules/Programming/Data Types - C.md"
-    },
-    {
-      "basename": "Reading Strings - gets() - C",
-      "path": "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md"
-    },
-    {
-      "basename": "String Functions - C",
-      "path": "College/Modules/Programming/Unsorted/String Functions - C.md"
-    },
-    {
-      "basename": "Passing Arrays - C",
-      "path": "College/Modules/Programming/Unsorted/Passing Arrays - C.md"
-    },
-    {
-      "basename": "Strings and Arrays - C",
-      "path": "College/Modules/Programming/Unsorted/Strings and Arrays - C.md"
-    },
-    {
-      "basename": "Variable Naming Schemes",
-      "path": "College/Modules/Programming/Variable Naming Schemes.md"
-    },
-    {
-      "basename": "Symbolic Names - C",
-      "path": "College/Modules/Programming/Symbolic Names - C.md"
-    },
-    {
-      "basename": "Subscript and Pointer Notation - C",
-      "path": "College/Modules/Programming/Unsorted/Subscript and Pointer Notation - C.md"
-    },
-    {
-      "basename": "Storage Classes - C",
-      "path": "College/Modules/Programming/Unsorted/Storage Classes - C.md"
-    },
-    {
-      "basename": "sizeof() - C",
-      "path": "College/Modules/Programming/Unsorted/sizeof() - C.md"
-    },
-    {
-      "basename": "Semicolons - C",
-      "path": "College/Modules/Programming/Unsorted/Semicolons - C.md"
-    },
-    {
-      "basename": "Precision Specification - C",
-      "path": "College/Modules/Programming/Precision Specification - C.md"
     }
   ],
   "omittedPaths": [],
