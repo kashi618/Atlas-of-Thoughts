@@ -16,8 +16,8 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -257.02053692292077,
-                  "y": -88.68981372862137,
+                  "x": -232.38177188197923,
+                  "y": -89.62302115293016,
                   "zoom": -0.6897774057649169
                 }
               },
@@ -27,13 +27,27 @@
             }
           },
           {
-            "id": "86fa12622c8a3e3b",
+            "id": "97618d7978ac2f92",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "College/Modules/Operating Systems/$ Operating Systems.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Operating Systems"
             }
           }
         ],
@@ -90,12 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "College/Modules/Operating Systems/$ Operating Systems.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of $ Operating Systems"
             }
           },
           {
@@ -143,12 +158,20 @@
       "random-note:Open random note": false
     }
   },
-  "active": "86fa12622c8a3e3b",
+  "active": "97618d7978ac2f92",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
+    "Templates/OOperating Systems.md",
+    "College/Modules/Operating Systems/$ Operating Systems.md",
+    "College/Modules/Algorithm Design and Problem Solving/Iterative  Factorial Algorithm.md",
+    "Library/Alexandre Dumas - The Count of Monte Cristo.md",
+    "Library/Agustina Bazterrica - Tender Is the Flesh.md",
+    "Library/Virgil - The Aeneid.md",
+    "Library/Osamu Dazai - No Longer Human.md",
+    "Library/J. K. Rowling - Harry Potter and the Order of the Pheonix.md",
     "Library/Harper Lee - To Kill a Mockingbird.md",
     "College/Modules/Programming/Casting - C.md",
     "College/Modules/Programming/$ C - Programming Language.md",
-    "Home Page/Home.canvas",
     "College/Modules/Programming/Logical Operators - C.md",
     "College/Modules/Programming/If Statements- C.md",
     "College/Modules/Programming/Faster Character Input Output - C.md",
@@ -163,14 +186,6 @@
     "Library/David Walliams - The Midnight Gang.md",
     "Library/Stephen King - It.md",
     "College/Modules/Programming/Loops - C.md",
-    "Notes/Eudaimonia.md",
-    "Notes/Library.md",
-    "Notes/Utopia.md",
-    "Notes/Thales Falling into a Well.md",
-    "Notes/Tattoos.md",
-    "Notes/ISO ANSI Layout Keyboards.md",
-    "Notes/How to use Obsidian.md",
-    "Notes/Agronomist.md",
     "Other/Pasted image 20250227212729.png",
     "Other/Pasted image 20250227212529.png",
     "Other/Pasted image 20250227212509.png",
