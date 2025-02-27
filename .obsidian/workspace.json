@@ -25,57 +25,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "feff5de98202f253",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Programming/$ C - Programming Language.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ C - Programming Language"
-            }
-          },
-          {
-            "id": "2865367c31972d85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Programming/Arrays - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Arrays - C"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,8 +164,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "2865367c31972d85",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "College/Modules/Programming/Arrays - C.md",
     "College/Modules/Programming/$ C - Programming Language.md",
     "Home Page/Home.canvas",
     "College/Modules/Operating Systems/Exercises/OperatingSystems1-Lab5.1-C24510496.md",
@@ -234,7 +186,6 @@
     "College/Modules/Programming/Unsorted/String Functions - C.md",
     "College/Modules/Programming/Unsorted/Passing Arrays - C.md",
     "College/Modules/Programming/Unsorted/Strings and Arrays - C.md",
-    "College/Modules/Programming/Arrays - C.md",
     "College/Modules/Programming/Variable Naming Schemes.md",
     "College/Modules/Programming/Unsorted/Symbolic Names - Cc.md",
     "College/Modules/Programming/Symbolic Names - C.md",
