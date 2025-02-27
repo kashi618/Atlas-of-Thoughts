@@ -107,13 +107,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Modules/Operating Systems/API's.md",
+                "file": "Notes/Monster Can Flavours and Tierlist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of API's"
+              "title": "Outline of Monster Can Flavours and Tierlist"
             }
           },
           {
@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5,
-    "collapsed": true
+    "width": 349.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,17 +190,17 @@
   },
   "active": "7822cb3fb1a63d0b",
   "lastOpenFiles": [
+    "Other/Pasted image 20250227212729.png",
+    "Other/Pasted image 20250227212529.png",
+    "Other/Pasted image 20250227212509.png",
+    "Other/Pasted image 20250227212430.png",
+    "Other/Pasted image 20250227212306.png",
+    "Other/Pasted image 20250227212245.png",
     "Other/Pasted image 20250227212134.png",
     "Other/Pasted image 20250227212017.png",
     "Other/Pasted image 20250227212015.png",
     "Other/Pasted image 20250227211942.png",
     "Other/Pasted image 20250227211918.png",
-    "Other/Pasted image 20250227211838.png",
-    "Other/Pasted image 20250227211634.png",
-    "Other/Pasted image 20250227211626.png",
-    "Other/Pasted image 20250227211614.png",
-    "Other/Pasted image 20250227211548.png",
-    "Other/Pasted image 20250227211532.png",
     "Notes/Monster Can Flavours and Tierlist.md",
     "College/Modules/Programming/Unsorted/Non-Null Terminated String - C.md",
     "College/Modules/Programming/Unsorted/Pointers - C.md",
