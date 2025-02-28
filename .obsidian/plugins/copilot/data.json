@@ -151,6 +151,21 @@
       "enabled": false,
       "isBuiltIn": true,
       "apiKey": ""
+    },
+    {
+      "name": "deepseek-chat",
+      "provider": "3rd party (openai-format)",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "https://api.deepseek.com/v1",
+      "apiKey": "enc_desk_djEwYjmNSlPIoMt7tNtXKADdjfAAMQHucjzYjdUyE1OGubWVln09aH3STXR4DaylvgaDUqxxoe2xtKq8OdK6jfDP",
+      "isEmbeddingModel": false,
+      "capabilities": [
+        "reasoning"
+      ],
+      "stream": true,
+      "enableCors": true,
+      "displayName": "Deepseek V3"
     }
   ],
   "activeEmbeddingModels": [
@@ -219,16 +234,16 @@
       "enableCors": false
     },
     {
-      "name": "deepseek-chat",
-      "provider": "3rd party (openai-format)",
+      "name": "nomic-embed-text:latest",
+      "provider": "ollama",
       "enabled": true,
       "isBuiltIn": false,
-      "baseUrl": "https://api.deepseek.com/v1",
-      "apiKey": "sk-6b8cb0cfbac14cd499d37556734bc9d8",
+      "baseUrl": "http://127.0.0.1:11434",
+      "apiKey": "",
       "isEmbeddingModel": true,
       "capabilities": [],
-      "displayName": "Deepseek",
-      "enableCors": true
+      "enableCors": true,
+      "displayName": "nomic-embed-text:latest"
     }
   ],
   "embeddingRequestsPerMin": 90,

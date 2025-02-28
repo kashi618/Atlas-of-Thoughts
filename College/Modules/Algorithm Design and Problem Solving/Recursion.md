@@ -6,6 +6,10 @@ tags:
 ---
 When a function repeatedly calls upon itself, either directly or indirectly
 
+## What Does Recursion Need
+- Base case
+- 
+
 ## Examples of Recursive Algorithms
 [[Recursive Factorial Algorithm]]
 [[Recursive Exponents Algorithm]]

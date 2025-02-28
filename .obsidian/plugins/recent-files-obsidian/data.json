@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Search Algorithms",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Search Algorithms.md"
+    },
+    {
+      "basename": "Recursion",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Recursion.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Incrementing Hexadecimal Numbers - Microcontroller",
       "path": "College/Modules/Microprocessors Systems/Incrementing Hexadecimal Numbers - Microcontroller.md"
-    },
-    {
-      "basename": "Hardware",
-      "path": "College/Modules/Operating Systems/Hardware.md"
-    },
-    {
-      "basename": "Kernel",
-      "path": "College/Modules/Operating Systems/Kernel.md"
     }
   ],
   "omittedPaths": [],
