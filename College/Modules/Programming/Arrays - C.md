@@ -6,7 +6,7 @@ aliases:
 ---
 ## What is an Array?
 ## Array Structure
-- An array is stored as a linear piece of data in memory
+- An array is stored as a contiguous linear piece of data in memory, that contains homogenous
 - The first piece of data in an array is at index 0, the next at index 1, and so on
 
 ## Creating Arrays

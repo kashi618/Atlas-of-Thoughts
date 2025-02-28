@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
+      "basename": "Selection Sort",
+      "path": "Library/Selection Sort.md"
     },
     {
       "basename": "Time Complexity",
       "path": "College/Modules/Algorithm Design and Problem Solving/Time Complexity.md"
+    },
+    {
+      "basename": "Arrays - C",
+      "path": "College/Modules/Programming/Arrays - C.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Searching Algorithms",
@@ -191,14 +199,6 @@
     {
       "basename": "Non-Null Terminated String - C",
       "path": "College/Modules/Programming/Unsorted/Non-Null Terminated String - C.md"
-    },
-    {
-      "basename": "Pointers - C",
-      "path": "College/Modules/Programming/Unsorted/Pointers - C.md"
-    },
-    {
-      "basename": "Dynamic Memory Allocation - C",
-      "path": "College/Modules/Programming/Unsorted/Dynamic Memory Allocation - C.md"
     }
   ],
   "omittedPaths": [],
