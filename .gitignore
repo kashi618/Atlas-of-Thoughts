@@ -9,3 +9,4 @@
 
 # Ignore Smart Environment folder
 .smart-env
+.obsidian/plugins/smart-connections/main.js

@@ -10,16 +10,18 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -224.64428088296978,
+                  "y": 48.315429032089014,
+                  "zoom": -1.0882600047300859
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
@@ -147,9 +149,19 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "e79420f0e2682031",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -170,10 +182,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "widgets:Add widget": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "copilot:Open Copilot Chat": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e79420f0e2682031",
   "lastOpenFiles": [
     "Home Page/Home.canvas",
     "UNSORTED/Software - Hardware.md",
