@@ -37,7 +37,7 @@
             }
           },
           {
-            "id": "7c2b57f825a76111",
+            "id": "872d724ea5f221c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -59,33 +59,9 @@
               "icon": "lucide-file",
               "title": "Time Complexity"
             }
-          },
-          {
-            "id": "46292d2677edfab9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Algorithm Design and Problem Solving/Recursion.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Recursion"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,13 +214,16 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "7c2b57f825a76111",
+  "active": "e79420f0e2682031",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
+    "College/Modules/Algorithm Design and Problem Solving/Searching Algorithms.md",
     "College/Modules/Algorithm Design and Problem Solving/Recursion.md",
+    "College/Modules/Algorithm Design and Problem Solving/Algorithms.md",
+    "College/Modules/Algorithm Design and Problem Solving/Base Case.md",
+    "College/Modules/Algorithm Design and Problem Solving/Functional Programming Language.md",
     "College/Modules/Algorithm Design and Problem Solving/Time Complexity.md",
     "Other/Pasted image 20250228110208.png",
-    "College/Modules/Algorithm Design and Problem Solving/Searching Algorithms.md",
-    "Home Page/Home.canvas",
     "UNSORTED/Software - Hardware.md",
     "College/Modules/Operating Systems/$ Operating Systems.md",
     "UNSORTED/Computer System Structure.md",
@@ -265,9 +244,6 @@
     "College/Modules/Programming/$ C - Programming Language.md",
     "College/Modules/Programming/Logical Operators - C.md",
     "College/Modules/Programming/If Statements- C.md",
-    "College/Modules/Programming/Faster Character Input Output - C.md",
-    "College/Modules/Programming/Ampersand - C.md",
-    "College/Modules/Programming/Delimiters - C.md",
     "Other/Pasted image 20250227212729.png",
     "Other/Pasted image 20250227212529.png",
     "Other/Pasted image 20250227212509.png",

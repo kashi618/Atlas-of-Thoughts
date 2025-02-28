@@ -5,16 +5,28 @@
       "path": "College/Modules/Algorithm Design and Problem Solving/Time Complexity.md"
     },
     {
-      "basename": "Recursion",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Recursion.md"
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Searching Algorithms",
       "path": "College/Modules/Algorithm Design and Problem Solving/Searching Algorithms.md"
     },
     {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
+      "basename": "Recursion",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Recursion.md"
+    },
+    {
+      "basename": "Algorithms",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Algorithms.md"
+    },
+    {
+      "basename": "Base Case",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Base Case.md"
+    },
+    {
+      "basename": "Functional Programming Language",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Functional Programming Language.md"
     },
     {
       "basename": "Software - Hardware",
@@ -187,18 +199,6 @@
     {
       "basename": "Dynamic Memory Allocation - C",
       "path": "College/Modules/Programming/Unsorted/Dynamic Memory Allocation - C.md"
-    },
-    {
-      "basename": "Variables - C",
-      "path": "College/Modules/Programming/Variables - C.md"
-    },
-    {
-      "basename": "K.I.S.S",
-      "path": "College/Modules/Programming/K.I.S.S.md"
-    },
-    {
-      "basename": "Synchronous and Asynchronous Serial  Communications",
-      "path": "College/Modules/Microprocessors Systems/Synchronous and Asynchronous Serial  Communications.md"
     }
   ],
   "omittedPaths": [],

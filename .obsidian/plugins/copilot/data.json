@@ -14,10 +14,10 @@
   "googleApiKey": "",
   "openRouterAiApiKey": "",
   "defaultChainType": "llm_chain",
-  "defaultModelKey": "gpt-4o|openai",
-  "embeddingModelKey": "deepseek-chat|3rd party (openai-format)",
+  "defaultModelKey": "deepseek-reasoner|3rd party (openai-format)",
+  "embeddingModelKey": "nomic-embed-text:latest|ollama",
   "temperature": 0,
-  "maxTokens": 16000,
+  "maxTokens": 1000,
   "contextTurns": 10,
   "userSystemPrompt": "",
   "openAIProxyBaseUrl": "",
@@ -158,7 +158,7 @@
       "enabled": true,
       "isBuiltIn": false,
       "baseUrl": "https://api.deepseek.com/v1",
-      "apiKey": "enc_desk_djEwQN/slYLf+X8XZyvbKQymQ8hqVOXMd2+AfCWj6hKwl5j02EQkY7CRhXZHNbnUyjvQjHekZA4Iu+BRXiFnYJIQ",
+      "apiKey": "enc_desk_djEwXqm7mYPaBeJRePsxBsR4WKjRPxT3TzCJVo0G5Yqhz11Fx8HYN9CsErEeQo/bsdYORYwHa0jWSdrydN+hRywG",
       "isEmbeddingModel": false,
       "capabilities": [
         "reasoning"
@@ -166,6 +166,21 @@
       "stream": true,
       "enableCors": true,
       "displayName": "Deepseek V3"
+    },
+    {
+      "name": "deepseek-reasoner",
+      "provider": "3rd party (openai-format)",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "https://api.deepseek.com/v1",
+      "apiKey": "enc_desk_djEw889R0FSVJwTFCHssuX76SlcC0I0Gb5BqNIX098LQYR7jAxhlvmRrT3TEF+eDb3UIrNoRvvd44rrMjR8+VLeg",
+      "isEmbeddingModel": false,
+      "capabilities": [
+        "reasoning"
+      ],
+      "stream": true,
+      "displayName": "Deepseek R1",
+      "enableCors": true
     }
   ],
   "activeEmbeddingModels": [
