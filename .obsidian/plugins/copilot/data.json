@@ -17,7 +17,7 @@
   "defaultModelKey": "gpt-4o|openai",
   "embeddingModelKey": "deepseek-chat|3rd party (openai-format)",
   "temperature": 0,
-  "maxTokens": 800,
+  "maxTokens": 16000,
   "contextTurns": 10,
   "userSystemPrompt": "",
   "openAIProxyBaseUrl": "",
@@ -158,7 +158,7 @@
       "enabled": true,
       "isBuiltIn": false,
       "baseUrl": "https://api.deepseek.com/v1",
-      "apiKey": "enc_desk_djEwYjmNSlPIoMt7tNtXKADdjfAAMQHucjzYjdUyE1OGubWVln09aH3STXR4DaylvgaDUqxxoe2xtKq8OdK6jfDP",
+      "apiKey": "enc_desk_djEwQN/slYLf+X8XZyvbKQymQ8hqVOXMd2+AfCWj6hKwl5j02EQkY7CRhXZHNbnUyjvQjHekZA4Iu+BRXiFnYJIQ",
       "isEmbeddingModel": false,
       "capabilities": [
         "reasoning"
@@ -249,7 +249,7 @@
   "embeddingRequestsPerMin": 90,
   "embeddingBatchSize": 16,
   "disableIndexOnMobile": true,
-  "showSuggestedPrompts": true,
+  "showSuggestedPrompts": false,
   "showRelevantNotes": true,
   "numPartitions": 1,
   "enabledCommands": {},

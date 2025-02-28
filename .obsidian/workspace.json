@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Modules/Algorithm Design and Problem Solving/Search Algorithms.md",
+                "file": "College/Modules/Algorithm Design and Problem Solving/Time Complexity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -57,7 +57,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Search Algorithms"
+              "title": "Time Complexity"
             }
           },
           {
@@ -241,7 +241,9 @@
   "active": "7c2b57f825a76111",
   "lastOpenFiles": [
     "College/Modules/Algorithm Design and Problem Solving/Recursion.md",
-    "College/Modules/Algorithm Design and Problem Solving/Search Algorithms.md",
+    "College/Modules/Algorithm Design and Problem Solving/Time Complexity.md",
+    "Other/Pasted image 20250228110208.png",
+    "College/Modules/Algorithm Design and Problem Solving/Searching Algorithms.md",
     "Home Page/Home.canvas",
     "UNSORTED/Software - Hardware.md",
     "College/Modules/Operating Systems/$ Operating Systems.md",
@@ -266,8 +268,6 @@
     "College/Modules/Programming/Faster Character Input Output - C.md",
     "College/Modules/Programming/Ampersand - C.md",
     "College/Modules/Programming/Delimiters - C.md",
-    "College/Modules/Programming/Order of Code - C.md",
-    "College/Modules/Programming/Commenting - C.md",
     "Other/Pasted image 20250227212729.png",
     "Other/Pasted image 20250227212529.png",
     "Other/Pasted image 20250227212509.png",
@@ -276,7 +276,6 @@
     "Other/Pasted image 20250227212245.png",
     "Other/Pasted image 20250227212134.png",
     "Other/Pasted image 20250227212017.png",
-    "Other/Pasted image 20250227212015.png",
     "College/Modules/Operating Systems/Unsorted Notes",
     "College/Modules/Programming/Unsorted",
     "College/Modules",

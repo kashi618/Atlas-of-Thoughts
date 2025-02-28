@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Search Algorithms",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Search Algorithms.md"
+      "basename": "Time Complexity",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Time Complexity.md"
     },
     {
       "basename": "Recursion",
       "path": "College/Modules/Algorithm Design and Problem Solving/Recursion.md"
+    },
+    {
+      "basename": "Searching Algorithms",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Searching Algorithms.md"
     },
     {
       "basename": "Home",
@@ -195,10 +199,6 @@
     {
       "basename": "Synchronous and Asynchronous Serial  Communications",
       "path": "College/Modules/Microprocessors Systems/Synchronous and Asynchronous Serial  Communications.md"
-    },
-    {
-      "basename": "Incrementing Hexadecimal Numbers - Microcontroller",
-      "path": "College/Modules/Microprocessors Systems/Incrementing Hexadecimal Numbers - Microcontroller.md"
     }
   ],
   "omittedPaths": [],
