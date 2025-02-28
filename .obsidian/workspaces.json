@@ -104,28 +104,9 @@
                   "icon": "lucide-tags",
                   "title": "Tags"
                 }
-              },
-              {
-                "id": "6f4c7ab67252d34d",
-                "type": "leaf",
-                "state": {
-                  "type": "smart-connections-view",
-                  "state": {},
-                  "icon": "smart-connections",
-                  "title": "Smart Connections"
-                }
-              },
-              {
-                "id": "c03ce3377eb85238",
-                "type": "leaf",
-                "state": {
-                  "type": "smart-chat-view",
-                  "state": {},
-                  "icon": "message-square",
-                  "title": "Smart Chat"
-                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal",
@@ -133,6 +114,7 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "copilot:Open Copilot Chat": false,
           "graph:Open graph view": false,
           "command-palette:Open command palette": false,
           "audio-recorder:Start/stop recording": false,
@@ -151,8 +133,8 @@
           "smart-connections:Open: Smart Chat Conversation": false
         }
       },
-      "active": "9bc98d8a64f45ad2",
-      "mtime": "2025-02-27T23:32:22+00:00"
+      "active": "97596caecf9dc1b0",
+      "mtime": "2025-02-28T00:19:01+00:00"
     }
   },
   "active": "Workhorse"

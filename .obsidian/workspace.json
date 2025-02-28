@@ -10,18 +10,16 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -240,
-                  "y": -45,
-                  "zoom": -0.7543752724258355
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
@@ -63,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.51103591918945
+    "width": 377.501522064209
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -104,27 +102,54 @@
             }
           },
           {
-            "id": "74d2a1c5faad5f5e",
+            "id": "72ed5cbf4a45bee0",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
+              "type": "backlink",
+              "state": {
+                "file": "Home Page/Home.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Home"
             }
           },
           {
-            "id": "86e7b0801dd928ed",
+            "id": "9426abecff3e9181",
             "type": "leaf",
             "state": {
-              "type": "smart-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Smart Chat"
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home Page/Home.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Home"
+            }
+          },
+          {
+            "id": "52c2f6250acf062b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -145,14 +170,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "widgets:Add widget": false,
-      "obsidian-projects:Open projects": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
-      "copilot:Open Copilot Chat": false
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "86e7b0801dd928ed",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
     "UNSORTED/Software - Hardware.md",
     "College/Modules/Operating Systems/$ Operating Systems.md",
     "UNSORTED/Computer System Structure.md",
@@ -161,7 +184,6 @@
     "College/Modules/Operating Systems/Unsorted Notes/Drivers.md",
     "College/Modules/Operating Systems/Unsorted Notes/Operating System.md",
     "Other/Pasted image 20250227230328.png",
-    "Home Page/Home.canvas",
     "Templates/OOperating Systems.md",
     "College/Modules/Algorithm Design and Problem Solving/Iterative  Factorial Algorithm.md",
     "Library/Alexandre Dumas - The Count of Monte Cristo.md",
@@ -180,7 +202,6 @@
     "College/Modules/Programming/Order of Code - C.md",
     "College/Modules/Programming/Commenting - C.md",
     "College/Modules/Programming/Programming.md",
-    "Library/Victor Hugo - Les Miserables.md",
     "Other/Pasted image 20250227212729.png",
     "Other/Pasted image 20250227212529.png",
     "Other/Pasted image 20250227212509.png",
