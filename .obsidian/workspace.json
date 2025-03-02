@@ -18,64 +18,15 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -0.7744882368193733
+                  "zoom": -0.5000736031346434
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "2284dba7294300ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Library/Selection Sort.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Selection Sort"
-            }
-          },
-          {
-            "id": "f470170daf40f1cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Algorithm Design and Problem Solving/Time Complexity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Time Complexity"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,13 +79,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Library/Selection Sort.md",
+                "file": "Home Page/Home.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Selection Sort"
+              "title": "Outline of Home"
             }
           },
           {
@@ -224,10 +175,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "2284dba7294300ef",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "College/Modules/Algorithm Design and Problem Solving/Time Complexity.md",
     "Library/Selection Sort.md",
+    "College/Modules/Algorithm Design and Problem Solving/Time Complexity.md",
     "College/Modules/Programming/Arrays - C.md",
     "Home Page/Home.canvas",
     "College/Modules/Algorithm Design and Problem Solving/Searching Algorithms.md",
@@ -270,8 +221,4 @@
     "College/TU856-1/Exam Papers/CMPU 1001 - 2023.2024.pdf",
     "College/TU856-1/Exam Papers/CMPU 1001 - 2022.2023.pdf",
     "College/TU856-1/Exam Papers/CMPU 1001 - 2021.2022.pdf",
-    "College/TU856-1/Exam Papers/CMPU 1039 - 2023.2024.pdf",
-    "College/TU856-1/Exam Papers/CMPU 1039 - 2021.2022.pdf",
-    "College/TU856-1/Exam Papers/CMPU 1025 - 2021.2022.pdf"
-  ]
-}
+    "College/TU856-1/Exam Papers/CMPU 1039 - 2023

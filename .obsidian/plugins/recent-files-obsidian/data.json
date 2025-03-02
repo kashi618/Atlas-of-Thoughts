@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Selection Sort",
       "path": "Library/Selection Sort.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Arrays - C",
       "path": "College/Modules/Programming/Arrays - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Searching Algorithms",

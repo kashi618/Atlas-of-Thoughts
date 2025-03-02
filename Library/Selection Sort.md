@@ -7,3 +7,12 @@
 
 **Time Complexity**
 O(n<sup>2</sup>)
+
+```
+int min = A[0]
+for i in range(len(A))
+	if A[i] < min
+		min = A[i]
+
+
+```
