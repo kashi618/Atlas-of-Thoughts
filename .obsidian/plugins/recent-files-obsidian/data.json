@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Lab5",
+      "path": "College/Modules/Algorithm Design and Problem Solving/CA Notes/Lab5.md"
+    },
+    {
+      "basename": "Ascii Tree Art",
+      "path": "College/Modules/Algorithm Design and Problem Solving/CA Notes/Ascii Tree Art.md"
+    },
+    {
+      "basename": "Selection Sort",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Selection Sort.md"
+    },
+    {
+      "basename": "Benjamin Hoff - The Eternal Tao Te Ching",
+      "path": "Library/Benjamin Hoff - The Eternal Tao Te Ching.md"
+    },
+    {
+      "basename": "Douglas Adams, Thomas Tidholm, Eoin Colfer - The Hitchhiker's Guide to the Galaxy",
+      "path": "Library/Douglas Adams, Thomas Tidholm, Eoin Colfer - The Hitchhiker's Guide to the Galaxy.md"
+    },
+    {
+      "basename": "Stephen King - Eleven Twenty-two Sixty-three",
+      "path": "Library/Stephen King - Eleven Twenty-two Sixty-three.md"
+    },
+    {
+      "basename": "Algorithms",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Algorithms.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
     {
-      "basename": "Selection Sort",
-      "path": "Library/Selection Sort.md"
+      "basename": "CMPU 1001 - Algorithm Design and Problem Solving",
+      "path": "College/TU856-1/Study Guide/CMPU 1001 - Algorithm Design and Problem Solving.md"
     },
     {
       "basename": "Time Complexity",
@@ -23,10 +51,6 @@
     {
       "basename": "Recursion",
       "path": "College/Modules/Algorithm Design and Problem Solving/Recursion.md"
-    },
-    {
-      "basename": "Algorithms",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Algorithms.md"
     },
     {
       "basename": "Base Case",
@@ -175,30 +199,6 @@
     {
       "basename": "Tattoos",
       "path": "Notes/Tattoos.md"
-    },
-    {
-      "basename": "ISO ANSI Layout Keyboards",
-      "path": "Notes/ISO ANSI Layout Keyboards.md"
-    },
-    {
-      "basename": "How to use Obsidian",
-      "path": "Notes/How to use Obsidian.md"
-    },
-    {
-      "basename": "Agronomist",
-      "path": "Notes/Agronomist.md"
-    },
-    {
-      "basename": "Alt Codes",
-      "path": "Notes/Alt Codes.md"
-    },
-    {
-      "basename": "Monster Can Flavours and Tierlist",
-      "path": "Notes/Monster Can Flavours and Tierlist.md"
-    },
-    {
-      "basename": "Non-Null Terminated String - C",
-      "path": "College/Modules/Programming/Unsorted/Non-Null Terminated String - C.md"
     }
   ],
   "omittedPaths": [],

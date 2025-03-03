@@ -10,21 +10,72 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -240,
+                  "y": -45,
+                  "zoom": -0.7744882368193733
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "fc6e6dd79b3c652f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Modules/Algorithm Design and Problem Solving/CA Notes/Ascii Tree Art.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ascii Tree Art"
+            }
+          },
+          {
+            "id": "4f35d96946fe1f9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Modules/Algorithm Design and Problem Solving/CA Notes/Lab5.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lab5"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,81 +128,31 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "College/Modules/Algorithm Design and Problem Solving/CA Notes/Lab5.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Lab5"
             }
           },
           {
-            "id": "545f94b26d55b1a1",
+            "id": "cb25a4ceeb1cddc4",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "College/Modules/Algorithm Design and Problem Solving/Time Complexity.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Time Complexity"
-            }
-          },
-          {
-            "id": "491457f54b94f27d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "College/Modules/Algorithm Design and Problem Solving/Time Complexity.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Time Complexity"
-            }
-          },
-          {
-            "id": "f9bc4d63306a0825",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "ea40d1af8b7312da",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 449.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,15 +173,21 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "4f35d96946fe1f9a",
   "lastOpenFiles": [
+    "College/Modules/Algorithm Design and Problem Solving/CA Notes/Ascii Tree Art.md",
+    "College/Modules/Algorithm Design and Problem Solving/Selection Sort.md",
+    "College/Modules/Algorithm Design and Problem Solving/CA Notes/Lab5.md",
+    "Library/Benjamin Hoff - The Eternal Tao Te Ching.md",
+    "Library/Douglas Adams, Thomas Tidholm, Eoin Colfer - The Hitchhiker's Guide to the Galaxy.md",
+    "Library/Stephen King - Eleven Twenty-two Sixty-three.md",
+    "College/Modules/Algorithm Design and Problem Solving/Algorithms.md",
     "Home Page/Home.canvas",
-    "Library/Selection Sort.md",
+    "College/TU856-1/Study Guide/CMPU 1001 - Algorithm Design and Problem Solving.md",
     "College/Modules/Algorithm Design and Problem Solving/Time Complexity.md",
     "College/Modules/Programming/Arrays - C.md",
     "College/Modules/Algorithm Design and Problem Solving/Searching Algorithms.md",
     "College/Modules/Algorithm Design and Problem Solving/Recursion.md",
-    "College/Modules/Algorithm Design and Problem Solving/Algorithms.md",
     "College/Modules/Algorithm Design and Problem Solving/Base Case.md",
     "College/Modules/Algorithm Design and Problem Solving/Functional Programming Language.md",
     "Other/Pasted image 20250228110208.png",
@@ -197,11 +204,6 @@
     "Library/Alexandre Dumas - The Count of Monte Cristo.md",
     "Library/Agustina Bazterrica - Tender Is the Flesh.md",
     "Library/Virgil - The Aeneid.md",
-    "Library/Osamu Dazai - No Longer Human.md",
-    "Library/J. K. Rowling - Harry Potter and the Order of the Pheonix.md",
-    "Library/Harper Lee - To Kill a Mockingbird.md",
-    "College/Modules/Programming/Casting - C.md",
-    "College/Modules/Programming/$ C - Programming Language.md",
     "Other/Pasted image 20250227212729.png",
     "Other/Pasted image 20250227212529.png",
     "Other/Pasted image 20250227212509.png",
