@@ -41,6 +41,7 @@ int allZeros[100] = {0};
 
 
 ### Inputting Values
+
 To set the first element in the array `example[10]`, we need top first
 1. Specify what array you are interacting with
     - `example[]`
