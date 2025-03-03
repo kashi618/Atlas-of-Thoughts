@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "ALU Flags",
+      "path": "College/Modules/Microprocessors Systems/ALU Flags.md"
+    },
+    {
       "basename": "Assembly Language",
       "path": "College/Modules/Microprocessors Systems/Assembly Language.md"
     },
     {
       "basename": "Bit Shifting - C",
       "path": "College/Modules/Microprocessors Systems/Bit Shifting - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Lab5",
@@ -195,10 +199,6 @@
     {
       "basename": "Library",
       "path": "Notes/Library.md"
-    },
-    {
-      "basename": "Utopia",
-      "path": "Notes/Utopia.md"
     }
   ],
   "omittedPaths": [],
