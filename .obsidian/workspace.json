@@ -25,8 +25,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "1f5671a57713c892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Modules/Microprocessors Systems/Assembly Language.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Assembly Language"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,13 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "College/Modules/Microprocessors Systems/Assembly Language.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Assembly Language"
             }
           },
           {
@@ -103,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 449.5
+    "width": 449.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -124,8 +150,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "1f5671a57713c892",
   "lastOpenFiles": [
+    "College/Modules/Microprocessors Systems/Bit Shifting - C.md",
+    "College/Modules/Microprocessors Systems/Assembly Language.md",
+    "Home Page/Home.canvas",
     "College/Modules/Algorithm Design and Problem Solving/CA Notes/Lab5.md",
     "College/Modules/Algorithm Design and Problem Solving/CA Notes/Ascii Tree Art.md",
     "College/Modules/Algorithm Design and Problem Solving/Selection Sort.md",
@@ -133,7 +162,6 @@
     "Library/Douglas Adams, Thomas Tidholm, Eoin Colfer - The Hitchhiker's Guide to the Galaxy.md",
     "Library/Stephen King - Eleven Twenty-two Sixty-three.md",
     "College/Modules/Algorithm Design and Problem Solving/Algorithms.md",
-    "Home Page/Home.canvas",
     "College/TU856-1/Study Guide/CMPU 1001 - Algorithm Design and Problem Solving.md",
     "College/Modules/Algorithm Design and Problem Solving/Time Complexity.md",
     "College/Modules/Programming/Arrays - C.md",
@@ -153,8 +181,6 @@
     "Templates/OOperating Systems.md",
     "College/Modules/Algorithm Design and Problem Solving/Iterative  Factorial Algorithm.md",
     "Library/Alexandre Dumas - The Count of Monte Cristo.md",
-    "Library/Agustina Bazterrica - Tender Is the Flesh.md",
-    "Library/Virgil - The Aeneid.md",
     "Other/Pasted image 20250227212729.png",
     "Other/Pasted image 20250227212529.png",
     "Other/Pasted image 20250227212509.png",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Assembly Language",
+      "path": "College/Modules/Microprocessors Systems/Assembly Language.md"
+    },
+    {
+      "basename": "Bit Shifting - C",
+      "path": "College/Modules/Microprocessors Systems/Bit Shifting - C.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Utopia",
       "path": "Notes/Utopia.md"
-    },
-    {
-      "basename": "Thales Falling into a Well",
-      "path": "Notes/Thales Falling into a Well.md"
-    },
-    {
-      "basename": "Tattoos",
-      "path": "Notes/Tattoos.md"
     }
   ],
   "omittedPaths": [],

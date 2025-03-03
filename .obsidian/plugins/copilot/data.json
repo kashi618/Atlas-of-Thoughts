@@ -160,9 +160,7 @@
       "baseUrl": "https://api.deepseek.com/v1",
       "apiKey": "enc_desk_djEwXqm7mYPaBeJRePsxBsR4WKjRPxT3TzCJVo0G5Yqhz11Fx8HYN9CsErEeQo/bsdYORYwHa0jWSdrydN+hRywG",
       "isEmbeddingModel": false,
-      "capabilities": [
-        "reasoning"
-      ],
+      "capabilities": [],
       "stream": true,
       "enableCors": true,
       "displayName": "Deepseek V3"
@@ -176,7 +174,8 @@
       "apiKey": "enc_desk_djEw889R0FSVJwTFCHssuX76SlcC0I0Gb5BqNIX098LQYR7jAxhlvmRrT3TEF+eDb3UIrNoRvvd44rrMjR8+VLeg",
       "isEmbeddingModel": false,
       "capabilities": [
-        "reasoning"
+        "reasoning",
+        "websearch"
       ],
       "stream": true,
       "displayName": "Deepseek R1",
