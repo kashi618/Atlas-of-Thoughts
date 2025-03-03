@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Lab5",
       "path": "College/Modules/Algorithm Design and Problem Solving/CA Notes/Lab5.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Algorithms",
       "path": "College/Modules/Algorithm Design and Problem Solving/Algorithms.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "CMPU 1001 - Algorithm Design and Problem Solving",

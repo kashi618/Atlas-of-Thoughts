@@ -54,6 +54,6 @@ gcd(a, b)
 This is because there is one loop, and everything can be done linearily
 
 ### B.
-
+O(n<)
 
 ### C.

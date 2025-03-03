@@ -25,57 +25,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "fc6e6dd79b3c652f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Algorithm Design and Problem Solving/CA Notes/Ascii Tree Art.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ascii Tree Art"
-            }
-          },
-          {
-            "id": "4f35d96946fe1f9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Algorithm Design and Problem Solving/CA Notes/Lab5.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Lab5"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,13 +79,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Modules/Algorithm Design and Problem Solving/CA Notes/Lab5.md",
+                "file": "Home Page/Home.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lab5"
+              "title": "Outline of Home"
             }
           },
           {
@@ -173,11 +124,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4f35d96946fe1f9a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "College/Modules/Algorithm Design and Problem Solving/CA Notes/Lab5.md",
     "College/Modules/Algorithm Design and Problem Solving/CA Notes/Ascii Tree Art.md",
     "College/Modules/Algorithm Design and Problem Solving/Selection Sort.md",
-    "College/Modules/Algorithm Design and Problem Solving/CA Notes/Lab5.md",
     "Library/Benjamin Hoff - The Eternal Tao Te Ching.md",
     "Library/Douglas Adams, Thomas Tidholm, Eoin Colfer - The Hitchhiker's Guide to the Galaxy.md",
     "Library/Stephen King - Eleven Twenty-two Sixty-three.md",
