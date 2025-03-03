@@ -1,6 +1,102 @@
 {
   "recentFiles": [
     {
+      "basename": "Multi-Dimensional Arrays - C",
+      "path": "UNSORTED/Multi-Dimensional Arrays - C.md"
+    },
+    {
+      "basename": "Arrays - C",
+      "path": "College/Modules/Programming/Arrays - C.md"
+    },
+    {
+      "basename": "Subscript and Pointer Notation - C",
+      "path": "College/Modules/Programming/Unsorted/Subscript and Pointer Notation - C.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "College/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "UNSORTED/Untitled.md"
+    },
+    {
+      "basename": "Logical Operators - C",
+      "path": "College/Modules/Programming/Logical Operators - C.md"
+    },
+    {
+      "basename": "CMPU 1025 - Oct 1th 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 1th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Nov 12th 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Nov 12th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Oct 7th 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 7th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Oct 8th 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 8th 2024.md"
+    },
+    {
+      "basename": "Variables - C",
+      "path": "College/Modules/Programming/Variables - C.md"
+    },
+    {
+      "basename": "CMPU 1025 - Oct 9th 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 9th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Oct 14th 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 14th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Oct 15th 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 15th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Oct 21th 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 21th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Oct 22nd 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 22nd 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 16th 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 16th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 17th 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 17th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 18th 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 18th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 23rd 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 23rd 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 24th 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 24th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 25th 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 25th 2024.md"
+    },
+    {
+      "basename": "CMPU 1025 - Sep 30th 2024",
+      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 30th 2024.md"
+    },
+    {
+      "basename": "Symbolic Names - C",
+      "path": "College/Modules/Programming/Symbolic Names - C.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -53,10 +149,6 @@
       "path": "College/Modules/Algorithm Design and Problem Solving/Time Complexity.md"
     },
     {
-      "basename": "Arrays - C",
-      "path": "College/Modules/Programming/Arrays - C.md"
-    },
-    {
       "basename": "Searching Algorithms",
       "path": "College/Modules/Algorithm Design and Problem Solving/Searching Algorithms.md"
     },
@@ -107,98 +199,6 @@
     {
       "basename": "Iterative  Factorial Algorithm",
       "path": "College/Modules/Algorithm Design and Problem Solving/Iterative  Factorial Algorithm.md"
-    },
-    {
-      "basename": "Alexandre Dumas - The Count of Monte Cristo",
-      "path": "Library/Alexandre Dumas - The Count of Monte Cristo.md"
-    },
-    {
-      "basename": "Agustina Bazterrica - Tender Is the Flesh",
-      "path": "Library/Agustina Bazterrica - Tender Is the Flesh.md"
-    },
-    {
-      "basename": "Virgil - The Aeneid",
-      "path": "Library/Virgil - The Aeneid.md"
-    },
-    {
-      "basename": "Osamu Dazai - No Longer Human",
-      "path": "Library/Osamu Dazai - No Longer Human.md"
-    },
-    {
-      "basename": "J. K. Rowling - Harry Potter and the Order of the Pheonix",
-      "path": "Library/J. K. Rowling - Harry Potter and the Order of the Pheonix.md"
-    },
-    {
-      "basename": "Harper Lee - To Kill a Mockingbird",
-      "path": "Library/Harper Lee - To Kill a Mockingbird.md"
-    },
-    {
-      "basename": "Casting - C",
-      "path": "College/Modules/Programming/Casting - C.md"
-    },
-    {
-      "basename": "$ C - Programming Language",
-      "path": "College/Modules/Programming/$ C - Programming Language.md"
-    },
-    {
-      "basename": "Logical Operators - C",
-      "path": "College/Modules/Programming/Logical Operators - C.md"
-    },
-    {
-      "basename": "If Statements- C",
-      "path": "College/Modules/Programming/If Statements- C.md"
-    },
-    {
-      "basename": "Faster Character Input Output - C",
-      "path": "College/Modules/Programming/Faster Character Input Output - C.md"
-    },
-    {
-      "basename": "Ampersand - C",
-      "path": "College/Modules/Programming/Ampersand - C.md"
-    },
-    {
-      "basename": "Delimiters - C",
-      "path": "College/Modules/Programming/Delimiters - C.md"
-    },
-    {
-      "basename": "Order of Code - C",
-      "path": "College/Modules/Programming/Order of Code - C.md"
-    },
-    {
-      "basename": "Commenting - C",
-      "path": "College/Modules/Programming/Commenting - C.md"
-    },
-    {
-      "basename": "Victor Hugo - Les Miserables",
-      "path": "Library/Victor Hugo - Les Miserables.md"
-    },
-    {
-      "basename": "Homer - The Odyssey",
-      "path": "Library/Homer - The Odyssey.md"
-    },
-    {
-      "basename": "1025 Programming Template",
-      "path": "Templates/1025 Programming Template.md"
-    },
-    {
-      "basename": "David Walliams - The Midnight Gang",
-      "path": "Library/David Walliams - The Midnight Gang.md"
-    },
-    {
-      "basename": "Stephen King - It",
-      "path": "Library/Stephen King - It.md"
-    },
-    {
-      "basename": "Loops - C",
-      "path": "College/Modules/Programming/Loops - C.md"
-    },
-    {
-      "basename": "Eudaimonia",
-      "path": "Notes/Eudaimonia.md"
-    },
-    {
-      "basename": "Library",
-      "path": "Notes/Library.md"
     }
   ],
   "omittedPaths": [],

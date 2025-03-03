@@ -33,19 +33,19 @@ aliases: []
 - [[Arithmetic Operations and Expressions - C]]
 	- [[Incrementing & Decrementing - C]]
 	- [[Operator Precedence - C]]
+- [[Logical Operators - C]]
 
 ## Conditional Statements and Loops
 - [[If Statements- C]]
 	- [[Switch Statement - C]]
-
 - [[Loops - C]]
-
-- [[Logical Operators - C]]
-
 
 ## Arrays
 - [[Arrays - C]]
+- [[Multi-Dimensional Arrays - C]]
 
+
+## Pointers
 ## Functions
 
 
