@@ -16,14 +16,48 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -572.1315704602155,
-                  "y": -27.178297950039394,
-                  "zoom": -0.4126107618843039
+                  "x": -240,
+                  "y": -45,
+                  "zoom": -0.19284655759371006
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
+            }
+          },
+          {
+            "id": "b6f392e08c713f92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Library/Otsuichi - ZOO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Otsuichi - ZOO"
+            }
+          },
+          {
+            "id": "6f853203e8d26f8d",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
             }
           },
           {
@@ -51,30 +85,6 @@
             }
           },
           {
-            "id": "a6e5b4b4f17af960",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Programming/Arrays - C.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Arrays - C"
-            }
-          },
-          {
             "id": "61373e332957bb00",
             "type": "leaf",
             "state": {
@@ -96,6 +106,78 @@
               },
               "icon": "lucide-file",
               "title": "Multi-Dimensional Arrays - C"
+            }
+          },
+          {
+            "id": "1389fbb2fbfea817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Modules/Operating Systems/$ Operating Systems.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Operating Systems"
+            }
+          },
+          {
+            "id": "42dceecf2af1419e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Modules/Operating Systems/Unsorted Notes/Drivers.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Drivers"
+            }
+          },
+          {
+            "id": "b0ad52917af332f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Modules/Operating Systems/Software - Hardware.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Software - Hardware"
             }
           }
         ],
@@ -153,13 +235,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Modules/Programming/Arrays - C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Arrays - C"
+              "title": "Outline"
             }
           },
           {
@@ -177,7 +258,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 449.5
+    "width": 449.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,12 +280,18 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "a6e5b4b4f17af960",
+  "active": "6f853203e8d26f8d",
   "lastOpenFiles": [
-    "College/Modules/Programming/$ C - Programming Language.md",
+    "Library/Otsuichi - ZOO.md",
+    "Home Page/Home.canvas",
+    "College/Modules/Operating Systems/Unsorted Notes/Drivers.md",
+    "College/Modules/Operating Systems/$ Operating Systems.md",
+    "College/Modules/Operating Systems/Computer System Structure.md",
+    "College/Modules/Operating Systems/Software - Hardware.md",
     "UNSORTED/Multi-Dimensional Arrays - C.md",
-    "Other/Pasted image 20250303154712.png",
+    "College/Modules/Programming/$ C - Programming Language.md",
     "College/Modules/Programming/Arrays - C.md",
+    "Other/Pasted image 20250303154712.png",
     "College/Modules/Programming/Unsorted/Subscript and Pointer Notation - C.md",
     "UNSORTED/Untitled.md",
     "College/Modules/Programming/Logical Operators - C.md",
@@ -222,11 +310,6 @@
     "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 17th 2024.md",
     "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 18th 2024.md",
     "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 23rd 2024.md",
-    "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 24th 2024.md",
-    "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 25th 2024.md",
-    "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 30th 2024.md",
-    "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Nov 4th 2024.md",
-    "Home Page/Home.canvas",
     "Other/Pasted image 20250228110208.png",
     "Other/Pasted image 20250227230328.png",
     "Other/Pasted image 20250227212729.png",
