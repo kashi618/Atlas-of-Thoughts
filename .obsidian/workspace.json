@@ -10,18 +10,16 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -240,
-                  "y": -45,
-                  "zoom": -0.5000736031346434
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
@@ -79,13 +77,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline"
             }
           },
           {
