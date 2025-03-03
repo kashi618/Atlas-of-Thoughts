@@ -34,18 +34,20 @@ The name of an array is equivalent to the address location of the 1st element in
 int numberArray[10] = {1,2,3,4,5,6,7,8,9,10};
 ```
 
-**Example 2: Set all numbers to zero**```c showlinenumbers
+**Example 2: Set all numbers to zero**
+```c showlinenumbers
 int allZeros[100] = {0}; 
 ```
+
 
 ### Inputting Values
 To set the first element in the array `example[10]`, we need top first
 1. Specify what array you are interacting with
-   - `example[]`
+    - `example[]`
 2. Specify where/which index you want to change
-   `i = 0`
+    - `i = 0`
 3. Set the value
-	- `numsArr[0] = 10`
+	- `numsArr[0] = 10;`
 
 **Another Example**
 ```c showlinenumebrs

@@ -51,6 +51,30 @@
             }
           },
           {
+            "id": "a6e5b4b4f17af960",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Modules/Programming/Arrays - C.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Arrays - C"
+            }
+          },
+          {
             "id": "61373e332957bb00",
             "type": "leaf",
             "state": {
@@ -129,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNSORTED/Multi-Dimensional Arrays - C.md",
+                "file": "College/Modules/Programming/Arrays - C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Multi-Dimensional Arrays - C"
+              "title": "Outline of Arrays - C"
             }
           },
           {
@@ -174,13 +198,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "61373e332957bb00",
+  "active": "a6e5b4b4f17af960",
   "lastOpenFiles": [
-    "Other/Pasted image 20250303154712.png",
+    "College/Modules/Programming/$ C - Programming Language.md",
     "UNSORTED/Multi-Dimensional Arrays - C.md",
+    "Other/Pasted image 20250303154712.png",
     "College/Modules/Programming/Arrays - C.md",
     "College/Modules/Programming/Unsorted/Subscript and Pointer Notation - C.md",
-    "College/Modules/Programming/$ C - Programming Language.md",
     "UNSORTED/Untitled.md",
     "College/Modules/Programming/Logical Operators - C.md",
     "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 1th 2024.md",
@@ -212,7 +236,6 @@
     "Other/Pasted image 20250227212306.png",
     "Other/Pasted image 20250227212245.png",
     "Other/Pasted image 20250227212134.png",
-    "Other/Pasted image 20250227212017.png",
     "College/Modules/Operating Systems/Unsorted Notes",
     "College/Modules/Programming/Unsorted",
     "College/Modules",
