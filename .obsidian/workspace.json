@@ -18,170 +18,15 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -0.19284655759371006
+                  "zoom": -0.17522318969909376
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "b6f392e08c713f92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Library/Otsuichi - ZOO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Otsuichi - ZOO"
-            }
-          },
-          {
-            "id": "6f853203e8d26f8d",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
-            }
-          },
-          {
-            "id": "d36e4761ae47e8d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Programming/$ C - Programming Language.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ C - Programming Language"
-            }
-          },
-          {
-            "id": "61373e332957bb00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNSORTED/Multi-Dimensional Arrays - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Multi-Dimensional Arrays - C"
-            }
-          },
-          {
-            "id": "1389fbb2fbfea817",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Operating Systems/$ Operating Systems.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ Operating Systems"
-            }
-          },
-          {
-            "id": "42dceecf2af1419e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Operating Systems/Unsorted Notes/Drivers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Drivers"
-            }
-          },
-          {
-            "id": "b0ad52917af332f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Operating Systems/Software - Hardware.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Software - Hardware"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.50694274902344,
-    "collapsed": true
+    "width": 324.50694274902344
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -252,6 +96,66 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "afe7d3b41b643e5b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "be4cc95d346db407",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c75a126554852d5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "60f63756b2072c9e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
         "currentTab": 1
@@ -280,7 +184,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "6f853203e8d26f8d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Library/Otsuichi - ZOO.md",
     "Home Page/Home.canvas",
