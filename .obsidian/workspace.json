@@ -10,48 +10,21 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -240,
-                  "y": -45,
-                  "zoom": -1.1057946640225969
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "3e008a5784b88ce0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Programming/Unsorted/Strings - C.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Strings - C"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,8 +174,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "3e008a5784b88ce0",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "College/Modules/Programming/Unsorted/Strings - C.md",
     "Other/Pasted image 20250304113410.png",
     "Home Page/Home.canvas",
     "College/Modules/Programming/$ C - Programming Language.md",
@@ -219,7 +193,6 @@
     "College/Modules/Programming/Unsorted/Pointers - C.md",
     "College/Modules/Programming/Unsorted/String Functions - C.md",
     "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
-    "College/Modules/Programming/Unsorted/Strings - C.md",
     "College/Modules/Programming/Unsorted/Functions - C.md",
     "College/Modules/Programming/Unsorted/Strings and Arrays - C.md",
     "College/Modules/Programming/Casting - C.md",
@@ -248,7 +221,6 @@
     "Other/Pasted image 20250227212509.png",
     "Other/Pasted image 20250227212430.png",
     "Other/Pasted image 20250227212306.png",
-    "Other/Pasted image 20250227212245.png",
-    "Other/Pasted image 20250227212134.png"
+    "Other/Pasted image 20250227212245.png"
   ]
 }
