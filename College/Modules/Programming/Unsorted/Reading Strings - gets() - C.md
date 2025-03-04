@@ -37,7 +37,8 @@ fgets(name, sizeof(name), stdin)
 ```
 - Automatically leaves one element at the end, for the NULL character
 - fgets() also reads whitespace characters
-
+- **ALSO ADDS '\n' TO THE END**
+  Use this to remove it `word[ strlen(word) - 1 ] = '\0';`
 # See Also
 [[Printing Out Strings - puts() - C]]
 [[Strings and Arrays - C]]

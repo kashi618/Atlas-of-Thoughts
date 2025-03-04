@@ -5,6 +5,10 @@
       "path": "College/Modules/Programming/Unsorted/String Functions - C.md"
     },
     {
+      "basename": "Reading Strings - gets() - C",
+      "path": "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md"
+    },
+    {
       "basename": "Strings - C",
       "path": "College/Modules/Programming/Unsorted/Strings - C.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Casting - C",
       "path": "College/Modules/Programming/Casting - C.md"
-    },
-    {
-      "basename": "Reading Strings - gets() - C",
-      "path": "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md"
     },
     {
       "basename": "Keyboard Input - C",
