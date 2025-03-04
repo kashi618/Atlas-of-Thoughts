@@ -10,12 +10,18 @@ There is no conventional way to order code in C. However, there is a method that
 4. Main function
 5. Subsequent functions
 
-```c showlinenumbers {1,4,7,10,15}
+```c showlinenumbers {1,4,7,13,16,21}
 // 1. Import header files
 #include <stdio.h>
 
 // 2. Symbolic names
 #define NUN 10
+
+// 3. Structure Templates
+struc coolStructure {
+	int niceNumber;
+	char niceLetter;
+}
 
 // 3. Function Signatures
 int coolFunction(int, float);
