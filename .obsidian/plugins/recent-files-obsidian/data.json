@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Edison Effect",
+      "path": "Notes/Edison Effect.md"
+    },
+    {
+      "basename": "Flight 2024",
+      "path": "Notes/Flight 2024.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -187,18 +195,6 @@
     {
       "basename": "TU856-1 Results",
       "path": "College/TU856-1/TU856-1 Results.md"
-    },
-    {
-      "basename": "Software",
-      "path": "College/Modules/Operating Systems/Unsorted Notes/Software.md"
-    },
-    {
-      "basename": "Operating System",
-      "path": "College/Modules/Operating Systems/Unsorted Notes/Operating System.md"
-    },
-    {
-      "basename": "OOperating Systems",
-      "path": "Templates/OOperating Systems.md"
     }
   ],
   "omittedPaths": [],

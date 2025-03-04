@@ -25,8 +25,43 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "eb1dae971f427d23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Edison Effect.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Edison Effect"
+            }
+          },
+          {
+            "id": "9073eb4dbc95fbba",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Smart Chat"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,16 +123,6 @@
             }
           },
           {
-            "id": "3f576255b6184288",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
-          },
-          {
             "id": "afe7d3b41b643e5b",
             "type": "leaf",
             "state": {
@@ -156,14 +181,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "fabf727eb6d43d91",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 449.5,
-    "collapsed": true
+    "width": 449.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,13 +215,18 @@
       "obsidian-book-search-plugin:Create new book note": false,
       "widgets:Add widget": false,
       "obsidian-projects:Open projects": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9073eb4dbc95fbba",
   "lastOpenFiles": [
-    "Library/Otsuichi - ZOO.md",
+    "Notes/CIA Speed Learn.md",
+    "Notes/Edison Effect.md",
+    "Notes/Flight 2024.md",
     "Home Page/Home.canvas",
+    "Library/Otsuichi - ZOO.md",
     "College/Modules/Operating Systems/Unsorted Notes/Drivers.md",
     "College/Modules/Operating Systems/$ Operating Systems.md",
     "College/Modules/Operating Systems/Computer System Structure.md",
@@ -211,9 +250,6 @@
     "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 21th 2024.md",
     "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 22nd 2024.md",
     "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 16th 2024.md",
-    "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 17th 2024.md",
-    "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 18th 2024.md",
-    "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 23rd 2024.md",
     "Other/Pasted image 20250228110208.png",
     "Other/Pasted image 20250227230328.png",
     "Other/Pasted image 20250227212729.png",
