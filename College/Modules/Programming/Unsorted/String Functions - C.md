@@ -3,7 +3,11 @@ tags:
   - C
 aliases:
 ---
-Make sure to include the `#include <string.h>`
+Make sure to include the `#include <
+
+
+
+string.h>`
 
 ## Find Length of String
 ```c showlinenumbers

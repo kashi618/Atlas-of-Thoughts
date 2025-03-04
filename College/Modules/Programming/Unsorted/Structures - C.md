@@ -35,5 +35,26 @@ int main(void) {
 }
 ```
 
+
+**Example**
+```c showlinenumbrs
+#include <stdio.h>
+
+struct studentRecords {
+	char firstName[20];
+	char lastName[20];
+	int age;
+	int idNumber;
+}
+
+int main(void) {
+	struct studentRecords student1, student2, student3;
+	
+	 strcpy(student1.firstName, "Tony");
+	
+	return 0;
+}
+```
+
 # See Also
 [[$ C - Programming Language]]

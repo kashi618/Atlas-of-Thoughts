@@ -163,7 +163,12 @@ char *months[12] = {"January","February","March","April","May","June","July","Au
 ```
 ![[Pasted image 20250304113410.png]]
 
+## Adding Value to String After Initializing
+```c showlinenumbers
+char name[11];
 
-
+strcpy(name, "Neil");
+```
+- **NOTE:** `name = "neil";` wouldn't work
 # See Also
 [[Strings and Arrays - C]]

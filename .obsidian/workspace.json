@@ -25,105 +25,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "4b9085d14c87d8d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Programming/Unsorted/Structures - C.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Structures - C"
-            }
-          },
-          {
-            "id": "62d6afe23cbe1b86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Programming/$ C - Programming Language.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ C - Programming Language"
-            }
-          },
-          {
-            "id": "6ab1935d3f872b82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Programming/Unsorted/Scope - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Scope - C"
-            }
-          },
-          {
-            "id": "8b68c8f306a3a25e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Programming/Order of Code - C.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Order of Code - C"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,14 +176,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4b9085d14c87d8d3",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "College/Modules/Programming/$ C - Programming Language.md",
-    "Home Page/Home.canvas",
-    "College/Modules/Programming/Unsorted/Scope - C.md",
-    "College/Modules/Programming/Unsorted/Structures - C.md",
-    "College/Modules/Programming/Order of Code - C.md",
     "College/Modules/Programming/Unsorted/Strings - C.md",
+    "Home Page/Home.canvas",
+    "College/Modules/Programming/Unsorted/String Functions - C.md",
+    "College/Modules/Programming/Order of Code - C.md",
+    "College/Modules/Programming/$ C - Programming Language.md",
+    "College/Modules/Programming/Unsorted/Structures - C.md",
+    "College/Modules/Programming/Unsorted/Scope - C.md",
     "Other/Pasted image 20250304113410.png",
     "PDF's/CMPU1025 Programming/Notes 10 - Pointers and Arrays.pdf",
     "PDF's/CMPU1025 Programming/Notes 9 - Pointers.pdf",
@@ -293,7 +197,6 @@
     "PDF's/CMPU1025 Programming/Notes 2 - Comments, Arithmetics, Casting.pdf",
     "PDF's/CMPU1025 Programming/Notes 1 - Data types, Assignment operation.pdf",
     "College/Modules/Programming/Unsorted/Pointers - C.md",
-    "College/Modules/Programming/Unsorted/String Functions - C.md",
     "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
     "College/Modules/Programming/Unsorted/Functions - C.md",
     "College/Modules/Programming/Unsorted/Strings and Arrays - C.md",
