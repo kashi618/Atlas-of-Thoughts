@@ -10,6 +10,7 @@ aliases: []
 - [[Delimiters - C]]
 - [[Commenting - C]]
 - [[Ampersand - C]]
+- [[Scope - C]]
 
 ## Miscellaneous
 - [[K.I.S.S]]

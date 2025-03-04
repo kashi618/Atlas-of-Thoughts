@@ -2,7 +2,7 @@
 tags:
   - ComputerScience
   - Variables
-  - UNFINISHED
+  - NOT-FINISHED
 ---
 How visible a variable is
 

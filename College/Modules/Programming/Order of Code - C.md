@@ -18,7 +18,7 @@ There is no conventional way to order code in C. However, there is a method that
 #define NUN 10
 
 // 3. Structure Templates
-struc coolStructure {
+struct coolStructure {
 	int niceNumber;
 	char niceLetter;
 }
