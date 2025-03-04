@@ -15,7 +15,7 @@
   "openRouterAiApiKey": "",
   "defaultChainType": "llm_chain",
   "defaultModelKey": "deepseek-reasoner|3rd party (openai-format)",
-  "embeddingModelKey": "nomic-embed-text:latest|ollama",
+  "embeddingModelKey": "text-embedding-3-small|openai",
   "temperature": 0,
   "maxTokens": 1000,
   "contextTurns": 10,
