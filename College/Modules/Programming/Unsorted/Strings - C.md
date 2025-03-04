@@ -128,6 +128,42 @@ printf("This is a suuuper duuuper loonggg stringgg"
 "likeeeee itssssss sooooooooo longggggggg");
 ```
 
+## Numeric String to Integer
+- Needs `<stdlib.h>`
+- **NOTE:** It stops reading after a whitespace
+  * However, leading spaces are ignored
+  * ATOI means "ascii to integer"
+```c showlinenumbers
+char coolNumbers[] = "123456";
+
+int coolInts = atoi(coolNumbers);
+```
+
+### Numeric String to Float
+- Same thing as atoi, we use the atof
+```c showlinenumbers
+char coolDecimals[] = "321.123";
+
+float coolFloats = atof(coolDecimals);
+```
+
+## Array of Strings
+### Using Pointers
+- This type of array is an array of pointers
+- **NOTE:** These strings are stored as string literals, therefore, it cannot be edited
+- 
+```c
+char *arrayName[SIZE];
+char *arrayName[] = {"one","two","three"};
+```
+
+**Example**
+```c showlinenumbers
+char *months[12] = {"January","February","March","April","May","June","July","August","September","October","November","December"};
+```
+![[Pasted image 20250304113410.png]]
+
+
 
 # See Also
 [[Strings and Arrays - C]]

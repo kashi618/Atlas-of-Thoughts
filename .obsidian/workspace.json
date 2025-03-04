@@ -27,14 +27,14 @@
             }
           },
           {
-            "id": "0b012b13e52ba54a",
+            "id": "3e008a5784b88ce0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Modules/Programming/$ C - Programming Language.md",
+                "file": "College/Modules/Programming/Unsorted/Strings - C.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ C - Programming Language"
+              "title": "Strings - C"
             }
           }
         ],
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.50694274902344,
-    "collapsed": true
+    "width": 324.50694274902344
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -105,13 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Modules/Programming/$ C - Programming Language.md",
+                "file": "College/Modules/Programming/Unsorted/Strings - C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of $ C - Programming Language"
+              "title": "Outline of Strings - C"
             }
           },
           {
@@ -202,11 +201,22 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "0b012b13e52ba54a",
+  "active": "3e008a5784b88ce0",
   "lastOpenFiles": [
-    "College/Modules/Programming/Unsorted/Pointers - C.md",
-    "College/Modules/Programming/$ C - Programming Language.md",
+    "Other/Pasted image 20250304113410.png",
     "Home Page/Home.canvas",
+    "College/Modules/Programming/$ C - Programming Language.md",
+    "PDF's/CMPU1025 Programming/Notes 10 - Pointers and Arrays.pdf",
+    "PDF's/CMPU1025 Programming/Notes 9 - Pointers.pdf",
+    "PDF's/CMPU1025 Programming/Notes 8 - Arrays (part 3).pdf",
+    "PDF's/CMPU1025 Programming/Notes 7 - Arrays (part 2).pdf",
+    "PDF's/CMPU1025 Programming/Notes 6 - Arrays (part 1).pdf",
+    "PDF's/CMPU1025 Programming/Notes 5 - while, do .. while, for loops.pdf",
+    "PDF's/CMPU1025 Programming/Notes 4 - if, if .. else, switch.pdf",
+    "PDF's/CMPU1025 Programming/Notes 3 - Keyboard input.pdf",
+    "PDF's/CMPU1025 Programming/Notes 2 - Comments, Arithmetics, Casting.pdf",
+    "PDF's/CMPU1025 Programming/Notes 1 - Data types, Assignment operation.pdf",
+    "College/Modules/Programming/Unsorted/Pointers - C.md",
     "College/Modules/Programming/Unsorted/String Functions - C.md",
     "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
     "College/Modules/Programming/Unsorted/Strings - C.md",
@@ -231,7 +241,6 @@
     "UNSORTED/Untitled.md",
     "College/Modules/Programming/Logical Operators - C.md",
     "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 1th 2024.md",
-    "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 2nd 2024.md",
     "Other/Pasted image 20250228110208.png",
     "Other/Pasted image 20250227230328.png",
     "Other/Pasted image 20250227212729.png",
@@ -240,16 +249,6 @@
     "Other/Pasted image 20250227212430.png",
     "Other/Pasted image 20250227212306.png",
     "Other/Pasted image 20250227212245.png",
-    "Other/Pasted image 20250227212134.png",
-    "College/Modules/Operating Systems/Unsorted Notes",
-    "College/Modules/Programming/Unsorted",
-    "College/Modules",
-    "College/TU856-1/Exam Papers/CMPU 1006 - 2023.2024.pdf",
-    "College/TU856-1/Exam Papers/CMPU 1001 - 2023.2024.pdf",
-    "College/TU856-1/Exam Papers/CMPU 1001 - 2022.2023.pdf",
-    "College/TU856-1/Exam Papers/CMPU 1001 - 2021.2022.pdf",
-    "College/TU856-1/Exam Papers/CMPU 1039 - 2023.2024.pdf",
-    "College/TU856-1/Exam Papers/CMPU 1039 - 2021.2022.pdf",
-    "College/TU856-1/Exam Papers/CMPU 1025 - 2021.2022.pdf"
+    "Other/Pasted image 20250227212134.png"
   ]
 }
