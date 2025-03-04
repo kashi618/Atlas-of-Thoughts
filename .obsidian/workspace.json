@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -4
+                  "zoom": -1.1057946640225969
                 }
               },
               "pinned": true,
@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "7fa75a0e228fc39c",
+            "id": "0b012b13e52ba54a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Modules/Programming/Unsorted/String Functions - C.md",
+                "file": "College/Modules/Programming/$ C - Programming Language.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,11 +47,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "String Functions - C"
+              "title": "$ C - Programming Language"
+            }
+          },
+          {
+            "id": "96cb53b590c1e9ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Modules/Programming/Unsorted/Pointers - C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Pointers - C"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,13 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Modules/Programming/Unsorted/String Functions - C.md",
+                "file": "College/Modules/Programming/Unsorted/Pointers - C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of String Functions - C"
+              "title": "Outline of Pointers - C"
             }
           },
           {
@@ -202,19 +226,19 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "7fa75a0e228fc39c",
+  "active": "96cb53b590c1e9ed",
   "lastOpenFiles": [
-    "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
+    "College/Modules/Programming/$ C - Programming Language.md",
+    "Home Page/Home.canvas",
     "College/Modules/Programming/Unsorted/String Functions - C.md",
+    "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
     "College/Modules/Programming/Unsorted/Strings - C.md",
     "College/Modules/Programming/Unsorted/Functions - C.md",
     "College/Modules/Programming/Unsorted/Strings and Arrays - C.md",
     "College/Modules/Programming/Casting - C.md",
     "College/Modules/Programming/Keyboard Input - C.md",
-    "College/Modules/Programming/$ C - Programming Language.md",
     "College/Modules/Programming/Faster Character Input Output - C.md",
     "College/Modules/Programming/Unsorted/free() - C.md",
-    "Home Page/Home.canvas",
     "Notes/Edison Effect.md",
     "Notes/CIA Speed Learn.md",
     "Notes/Flight 2024.md",
@@ -231,7 +255,6 @@
     "College/Modules/Programming/Logical Operators - C.md",
     "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 1th 2024.md",
     "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 2nd 2024.md",
-    "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Nov 12th 2024.md",
     "Other/Pasted image 20250228110208.png",
     "Other/Pasted image 20250227230328.png",
     "Other/Pasted image 20250227212729.png",

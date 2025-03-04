@@ -5,6 +5,12 @@ tags:
   - Pointers
   - UNFINISHED
 ---
+## What is a Pointer?
+- It is a variable that is used to store a memory address
+- Usually, it is used to store the memory address of another variable
+
+## Using a Point
+`
 - Stores the address location of a variable, in hexadecimal.
 - The datatype used to declare a pointer variable is used to store the hex value of that datatype.
 - Regular variable, as in it can used in printf normally

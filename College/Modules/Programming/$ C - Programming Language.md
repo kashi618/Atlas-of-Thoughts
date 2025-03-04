@@ -44,8 +44,9 @@ aliases: []
 - [[Arrays - C]]
 - [[Multi-Dimensional Arrays - C]]
 
-
 ## Pointers
+- [[Pointers - C]]
+
 ## Functions
 
 
