@@ -49,33 +49,9 @@
               "icon": "lucide-file",
               "title": "$ C - Programming Language"
             }
-          },
-          {
-            "id": "96cb53b590c1e9ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Programming/Unsorted/Pointers - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pointers - C"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Modules/Programming/Unsorted/Pointers - C.md",
+                "file": "College/Modules/Programming/$ C - Programming Language.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pointers - C"
+              "title": "Outline of $ C - Programming Language"
             }
           },
           {
@@ -226,8 +202,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "96cb53b590c1e9ed",
+  "active": "0b012b13e52ba54a",
   "lastOpenFiles": [
+    "College/Modules/Programming/Unsorted/Pointers - C.md",
     "College/Modules/Programming/$ C - Programming Language.md",
     "Home Page/Home.canvas",
     "College/Modules/Programming/Unsorted/String Functions - C.md",
