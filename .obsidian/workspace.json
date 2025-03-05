@@ -18,26 +18,15 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -1.0054751300661513
+                  "zoom": -0.37669118762936116
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "348aafe051d9290e",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.501522064209,
-    "collapsed": true
+    "width": 294.501522064209
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -98,6 +86,66 @@
               },
               "icon": "lucide-list",
               "title": "Outline of Home"
+            }
+          },
+          {
+            "id": "e94b2b863e3dee09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "441ff2343718e2e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "663132cb8e92b8fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7b43646bce69edd2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -126,7 +174,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "348aafe051d9290e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Home Page/Home.canvas",
     "College/Modules/Programming/Scope - C.md",
@@ -172,7 +220,4 @@
     "Other/Pasted image 20250227212529.png",
     "Other/Pasted image 20250227212509.png",
     "Other/Pasted image 20250227212430.png",
-    "Other/Pasted image 20250227212306.png",
-    "Other/Pasted image 20250227212245.png"
-  ]
-}
+    "Other/P

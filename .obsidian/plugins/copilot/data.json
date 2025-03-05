@@ -15,7 +15,7 @@
   "openRouterAiApiKey": "",
   "defaultChainType": "llm_chain",
   "defaultModelKey": "deepseek-reasoner|3rd party (openai-format)",
-  "embeddingModelKey": "text-embedding-3-small|openai",
+  "embeddingModelKey": "text-embedding-nomic-text-v1.5-embedding|lm-studio",
   "temperature": 0,
   "maxTokens": 1000,
   "contextTurns": 10,
@@ -85,6 +85,19 @@
       "apiKey": ""
     },
     {
+      "name": "deepseek-chat",
+      "provider": "3rd party (openai-format)",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "https://api.deepseek.com/v1",
+      "apiKey": "enc_desk_djEw+S3oh6byIQCm4uiHc8CUxJV9dnNjbqmhn4Z24NsAs7PDzj2QgPQYMSbbEwSbub97NvRuWE17mwvtFi768BA2",
+      "isEmbeddingModel": false,
+      "capabilities": [],
+      "stream": true,
+      "displayName": "Deepseek V3",
+      "enableCors": true
+    },
+    {
       "name": "deepseek-reasoner",
       "provider": "3rd party (openai-format)",
       "enabled": true,
@@ -101,16 +114,18 @@
       "enableCors": true
     },
     {
-      "name": "deepseek-chat",
-      "provider": "3rd party (openai-format)",
+      "name": "deepseek-r1-distill-qwen-7b",
+      "provider": "lm-studio",
       "enabled": true,
       "isBuiltIn": false,
-      "baseUrl": "https://api.deepseek.com/v1",
-      "apiKey": "enc_desk_djEws5z4IO1KbnCpWANIxQUzZWYgDw9VQpnp5A7jq8hyejvv8J7mr0n8Kr2U9R74caH3BA0QghXwI/Z2/jMioX0c",
+      "baseUrl": "http://127.0.0.1:1234/v1",
+      "apiKey": "",
       "isEmbeddingModel": false,
-      "capabilities": [],
+      "capabilities": [
+        "reasoning"
+      ],
       "stream": true,
-      "displayName": "Deepseek V3",
+      "displayName": "Deepseek R1 (Local)",
       "enableCors": true
     }
   ],
@@ -149,6 +164,18 @@
       "isBuiltIn": true,
       "isEmbeddingModel": true,
       "core": true
+    },
+    {
+      "name": "text-embedding-nomic-text-v1.5-embedding",
+      "provider": "lm-studio",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "http://127.0.0.1:1234/v1",
+      "apiKey": "",
+      "isEmbeddingModel": true,
+      "capabilities": [],
+      "displayName": "Nomic Embed Text V1.5",
+      "enableCors": true
     }
   ],
   "embeddingRequestsPerMin": 90,
