@@ -126,6 +126,7 @@ The creating process is called the parent process
 
 **Child Process**
 New processes from the parent process are called child processes
+The only difference between a child process and a parent process is that they have a shared text section, but an individiual every other section
 
 ```
 Two execution options  
@@ -147,7 +148,11 @@ Think of it as killing a process using a shotgun. This is because the process is
 - Type error (concatenation a string and an integer)
 - Insufficient memory available (computer runs out of memory)
 - Memory Bounds violation (accessing the 6th index of a 5 element array)
+## Checking Running Processes on Firefox
+about:processes
 
+how to check which options
+about:about
 
 ## CPU Cache
 L1 cache is the fastest

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "CPU Scheduling",
+      "path": "College/Modules/Operating Systems/Unsorted Notes/CPU Scheduling.md"
+    },
+    {
       "basename": "Processes",
       "path": "College/Modules/Operating Systems/Unsorted Notes/Processes.md"
+    },
+    {
+      "basename": "Archlinux Rice - LainOS",
+      "path": "Notes/Archlinux Rice - LainOS.md"
     },
     {
       "basename": "Home",
@@ -191,14 +199,6 @@
     {
       "basename": "Assembly Language",
       "path": "College/Modules/Microprocessors Systems/Assembly Language.md"
-    },
-    {
-      "basename": "Bit Shifting - C",
-      "path": "College/Modules/Microprocessors Systems/Bit Shifting - C.md"
-    },
-    {
-      "basename": "Lab5",
-      "path": "College/Modules/Algorithm Design and Problem Solving/CA Notes/Lab5.md"
     }
   ],
   "omittedPaths": [],

@@ -23,3 +23,6 @@ yay -S ninja gcc cmake meson libxcb xcb-proto xcb-util xcb-util-keysyms libxfixe
 - hyprutils
 - hyprgraphics
 - hyprwayland-scanner (build-only)
+
+## Cool Finds
+procmon
