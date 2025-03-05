@@ -17,16 +17,29 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": -240,
-                  "y": -45.000000000000185,
-                  "zoom": -0.37669118762936116
+                  "y": -45,
+                  "zoom": -1.7838665691352344
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "85237744056e8105",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +187,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "85237744056e8105",
   "lastOpenFiles": [
     "Home Page/Home.canvas",
     "College/Modules/Programming/Scope - C.md",
