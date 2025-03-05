@@ -77,5 +77,4 @@ Cons
 **Shortest remaining job first (SRJF)**
 - Same as SJF, we run the lowest cpu burst process first
 - However, at any moment at a time, if a new process arrives, and has a burst length LESS than the remaining time of a current executing process, then we pre-empt the current process to run the faster one
-- ]
-- 
+
