@@ -10,16 +10,18 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -240,
+                  "y": -45,
+                  "zoom": -0.4126107618843039
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
@@ -176,16 +178,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "College/Modules/Programming/Scope - C.md",
+    "College/Modules/Programming/$ C - Programming Language.md",
+    "Home Page/Home.canvas",
     "College/Modules/Operating Systems/Unsorted Notes/CPU Scheduling.md",
     "College/Modules/Operating Systems/Unsorted Notes/Processes.md",
     "Notes/Archlinux Rice - LainOS.md",
-    "Home Page/Home.canvas",
     "College/Modules/Programming/Unsorted/Strings - C.md",
     "College/Modules/Programming/Unsorted/String Functions - C.md",
     "College/Modules/Programming/Order of Code - C.md",
-    "College/Modules/Programming/$ C - Programming Language.md",
     "College/Modules/Programming/Unsorted/Structures - C.md",
-    "College/Modules/Programming/Unsorted/Scope - C.md",
     "Other/Pasted image 20250304113410.png",
     "PDF's/CMPU1025 Programming/Notes 10 - Pointers and Arrays.pdf",
     "PDF's/CMPU1025 Programming/Notes 9 - Pointers.pdf",
@@ -213,7 +215,6 @@
     "College/Modules/Operating Systems/$ Operating Systems.md",
     "College/Modules/Operating Systems/Computer System Structure.md",
     "College/Modules/Operating Systems/Software - Hardware.md",
-    "UNSORTED/Multi-Dimensional Arrays - C.md",
     "Other/Pasted image 20250303154712.png",
     "Other/Pasted image 20250228110208.png",
     "Other/Pasted image 20250227230328.png",
