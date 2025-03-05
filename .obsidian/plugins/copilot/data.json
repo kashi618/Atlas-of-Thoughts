@@ -26,7 +26,7 @@
   "defaultSaveFolder": "copilot-conversations",
   "defaultConversationTag": "copilot-conversation",
   "autosaveChat": false,
-  "defaultOpenArea": "view",
+  "defaultOpenArea": "editor",
   "customPromptsFolder": "copilot-custom-prompts",
   "indexVaultToVectorStore": "ON MODE SWITCH",
   "qaExclusions": "Library,Templates,Other,PDF's,Home%20Page",
@@ -85,87 +85,6 @@
       "apiKey": ""
     },
     {
-      "name": "o1-mini",
-      "provider": "openai",
-      "enabled": false,
-      "isBuiltIn": true,
-      "capabilities": [
-        "reasoning"
-      ],
-      "apiKey": ""
-    },
-    {
-      "name": "o3-mini",
-      "provider": "openai",
-      "enabled": false,
-      "isBuiltIn": true,
-      "capabilities": [
-        "reasoning"
-      ],
-      "apiKey": ""
-    },
-    {
-      "name": "claude-3-5-haiku-latest",
-      "provider": "anthropic",
-      "enabled": false,
-      "isBuiltIn": true,
-      "apiKey": ""
-    },
-    {
-      "name": "command-r",
-      "provider": "cohereai",
-      "enabled": false,
-      "isBuiltIn": true,
-      "apiKey": ""
-    },
-    {
-      "name": "command-r-plus",
-      "provider": "cohereai",
-      "enabled": false,
-      "isBuiltIn": true,
-      "apiKey": ""
-    },
-    {
-      "name": "gemini-2.0-pro-exp",
-      "provider": "google",
-      "enabled": false,
-      "isBuiltIn": true,
-      "capabilities": [
-        "vision"
-      ],
-      "apiKey": ""
-    },
-    {
-      "name": "gemini-2.0-flash",
-      "provider": "google",
-      "enabled": false,
-      "isBuiltIn": true,
-      "capabilities": [
-        "vision"
-      ],
-      "apiKey": ""
-    },
-    {
-      "name": "azure-openai",
-      "provider": "azure openai",
-      "enabled": false,
-      "isBuiltIn": true,
-      "apiKey": ""
-    },
-    {
-      "name": "deepseek-chat",
-      "provider": "3rd party (openai-format)",
-      "enabled": true,
-      "isBuiltIn": false,
-      "baseUrl": "https://api.deepseek.com/v1",
-      "apiKey": "enc_desk_djEwXqm7mYPaBeJRePsxBsR4WKjRPxT3TzCJVo0G5Yqhz11Fx8HYN9CsErEeQo/bsdYORYwHa0jWSdrydN+hRywG",
-      "isEmbeddingModel": false,
-      "capabilities": [],
-      "stream": true,
-      "enableCors": true,
-      "displayName": "Deepseek V3"
-    },
-    {
       "name": "deepseek-reasoner",
       "provider": "3rd party (openai-format)",
       "enabled": true,
@@ -179,6 +98,19 @@
       ],
       "stream": true,
       "displayName": "Deepseek R1",
+      "enableCors": true
+    },
+    {
+      "name": "deepseek-chat",
+      "provider": "3rd party (openai-format)",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "https://api.deepseek.com/v1",
+      "apiKey": "enc_desk_djEws5z4IO1KbnCpWANIxQUzZWYgDw9VQpnp5A7jq8hyejvv8J7mr0n8Kr2U9R74caH3BA0QghXwI/Z2/jMioX0c",
+      "isEmbeddingModel": false,
+      "capabilities": [],
+      "stream": true,
+      "displayName": "Deepseek V3",
       "enableCors": true
     }
   ],
@@ -217,47 +149,6 @@
       "isBuiltIn": true,
       "isEmbeddingModel": true,
       "core": true
-    },
-    {
-      "name": "text-embedding-3-large",
-      "provider": "openai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "isEmbeddingModel": true
-    },
-    {
-      "name": "embed-multilingual-light-v3.0",
-      "provider": "cohereai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "isEmbeddingModel": true
-    },
-    {
-      "name": "text-embedding-004",
-      "provider": "google",
-      "enabled": true,
-      "isBuiltIn": true,
-      "isEmbeddingModel": true
-    },
-    {
-      "name": "azure-openai",
-      "provider": "azure openai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "isEmbeddingModel": true,
-      "enableCors": false
-    },
-    {
-      "name": "nomic-embed-text:latest",
-      "provider": "ollama",
-      "enabled": true,
-      "isBuiltIn": false,
-      "baseUrl": "http://127.0.0.1:11434",
-      "apiKey": "",
-      "isEmbeddingModel": true,
-      "capabilities": [],
-      "enableCors": true,
-      "displayName": "nomic-embed-text:latest"
     }
   ],
   "embeddingRequestsPerMin": 90,
