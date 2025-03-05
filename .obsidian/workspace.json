@@ -17,7 +17,7 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": -240,
-                  "y": -45,
+                  "y": -45.000000000000185,
                   "zoom": -0.37669118762936116
                 }
               },
@@ -174,7 +174,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "3bd19bba09e6f6f0",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Home Page/Home.canvas",
     "College/Modules/Programming/Scope - C.md",
