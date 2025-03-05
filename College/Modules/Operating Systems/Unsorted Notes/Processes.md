@@ -78,6 +78,92 @@ Set of all processes that is residing in main memory, and ready to be used.
 Set of processes waiting for an I/O device
 - Each device will have its own queue
 
+## Scheduler
+**Long-term scheduler (Job Scheduler)**
+Examins the job queue, and selects which process to run on the ready queue.
+- Controls the degree of multiprogramming
+**Short-term scheduler (CPU Scheduler)**
+Examins ready queue, and select which process to run on the CPU.
+- Short CPU time slices
+
+**Medium Term Scheduling**
+- Reduces the degree of multiprogramming
+- Improves the process mix (I/O bound and CPU bound)
+- 
+
+## I/O bound
+Example, copying a file from one drive to another drive
+- There is very low computation being done
+Contains many short cpu bursts
+- Short term scheduler has little to do, as the ready queue will almost always be empty
+
+## CPU bound
+When a program spends most of its time calculating and performing mathematical operations
+**Example**
+Decrypting and encrypting files
+
+- I/O waiting queue will be empty, devices will go unused, and the system becomes unbalanced
+
+## Balanced Processes
+When it is neither I/O bound or cpu bound. It is equal
+
+## Multiprogramming
+When multiple processes are running at the cpu at one time. It controls how many processes are terminated, and how many processes are ran/created
+If there are more processes terminated than created, that means the CPU spends a lot of time in idle, wasting computing power.
+However, if there are more processes being created than being terminated, then the computer may crash
+
+## Why/When are Processes Created?
+- Interactive Logon
+  The user logs into the operating system
+- User starts a program
+- Created by the Operating system to provide a service
+  The OS can create a processes to provide a function on behalf of a user, without the user having to waits (eg. the process to control printing)
+- Spawned by and existing procwess
+  Used for the purpose of modularityt or exploit parallelism, a usesr can dictate the creation of a number of processes. (EG. chrome/firefox tabs)
+
+**Parent Process**
+The creating process is called the parent process
+
+**Child Process**
+New processes from the parent process are called child processes
+
+```
+Two execution options  
+– Parent and children execute concurrently  
+– Parent waits until children terminate
+```
+
+## Terminating and Force Terminating
+**Terminating**
+Think of it as asking the process to exit politely. The process will begin to tidy itself up, and end
+
+**Force Terminating**
+Think of it as killing a process using a shotgun. This is because the process isnt given time to tidy itself, clear memory and variables used, etc
+
+### Reasons for Process Termination
+- Normal completion, when the process finishes
+- Arithmetic Error (dividing by 0)
+- Invalid instruction execution
+- Type error (concatenation a string and an integer)
+- Insufficient memory available (computer runs out of memory)
+- Memory Bounds violation (accessing the 6th index of a 5 element array)
+
+
+## CPU Cache
+L1 cache is the fastest
+L2 cache is faster
+L3 cache is fast
+
+Data stored in memory is moved to the CPU cache, so that the CPU can access them
+
+## Contention
+Great demand on a limited resource.
+For example, the power grid. During the busy times, the price is increased due to increased strain,
+For example, some wifi providers. Contention in this case means, if everyone on an estate is using wifi intensive tasks, then the speed of the wifi may decrease
+
+## Concurrent
+Running at parallel/the same time
+
 
 
 # See Also

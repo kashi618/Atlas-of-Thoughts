@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Processes",
+      "path": "College/Modules/Operating Systems/Unsorted Notes/Processes.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Lab5",
       "path": "College/Modules/Algorithm Design and Problem Solving/CA Notes/Lab5.md"
-    },
-    {
-      "basename": "Ascii Tree Art",
-      "path": "College/Modules/Algorithm Design and Problem Solving/CA Notes/Ascii Tree Art.md"
     }
   ],
   "omittedPaths": [],
