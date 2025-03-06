@@ -10,36 +10,21 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -240,
-                  "y": -45,
-                  "zoom": -1.7838665691352344
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "85237744056e8105",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +172,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "85237744056e8105",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Home Page/Home.canvas",
     "College/Modules/Programming/Scope - C.md",
