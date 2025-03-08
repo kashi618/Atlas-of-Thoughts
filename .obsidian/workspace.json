@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -0.37669118762936116
+                  "zoom": -0.17522318969909376
                 }
               },
               "pinned": true,
@@ -27,13 +27,13 @@
             }
           },
           {
-            "id": "c915a8b20d59fb9a",
+            "id": "b5d8da9353870199",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Modules/Programming/Switch Statement - C.md",
-                "mode": "preview",
+                "file": "College/TU856-1/TU856-1 Results.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -47,11 +47,40 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Switch Statement - C"
+              "title": "TU856-1 Results"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "5e1f50d5faf45a6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "154a6fc4fccecafa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/TU856-1/Study Plan Semester 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Study Plan Semester 2"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,10 +228,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c915a8b20d59fb9a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "College/Modules/Programming/$ C - Programming Language.md",
+    "College/TU856-1/Study Plan Semester 2.md",
+    "College/TU856-1/TU856-1 Results.md",
     "Home Page/Home.canvas",
+    "College/Modules/Programming/Switch Statement - C.md",
+    "College/Modules/Programming/$ C - Programming Language.md",
     "College/Modules/Programming/Scope - C.md",
     "College/Modules/Operating Systems/Unsorted Notes/CPU Scheduling.md",
     "College/Modules/Operating Systems/Unsorted Notes/Processes.md",
@@ -236,8 +268,6 @@
     "Library/Otsuichi - ZOO.md",
     "College/Modules/Operating Systems/Unsorted Notes/Drivers.md",
     "College/Modules/Operating Systems/$ Operating Systems.md",
-    "College/Modules/Operating Systems/Computer System Structure.md",
-    "College/Modules/Operating Systems/Software - Hardware.md",
     "Other/Pasted image 20250303154712.png",
     "Other/Pasted image 20250228110208.png",
     "Other/Pasted image 20250227230328.png",
