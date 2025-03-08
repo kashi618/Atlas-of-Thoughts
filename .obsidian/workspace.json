@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -20,11 +21,37 @@
                   "zoom": -0.37669118762936116
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "c915a8b20d59fb9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Modules/Programming/Switch Statement - C.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Switch Statement - C"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,11 +199,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c915a8b20d59fb9a",
   "lastOpenFiles": [
+    "College/Modules/Programming/$ C - Programming Language.md",
     "Home Page/Home.canvas",
     "College/Modules/Programming/Scope - C.md",
-    "College/Modules/Programming/$ C - Programming Language.md",
     "College/Modules/Operating Systems/Unsorted Notes/CPU Scheduling.md",
     "College/Modules/Operating Systems/Unsorted Notes/Processes.md",
     "Notes/Archlinux Rice - LainOS.md",

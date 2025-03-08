@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Switch Statement - C",
+      "path": "College/Modules/Programming/Switch Statement - C.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "College/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Scope - C",
       "path": "College/Modules/Programming/Scope - C.md"
-    },
-    {
-      "basename": "$ C - Programming Language",
-      "path": "College/Modules/Programming/$ C - Programming Language.md"
     },
     {
       "basename": "CPU Scheduling",
@@ -195,10 +199,6 @@
     {
       "basename": "ALU Flags",
       "path": "College/Modules/Microprocessors Systems/ALU Flags.md"
-    },
-    {
-      "basename": "Assembly Language",
-      "path": "College/Modules/Microprocessors Systems/Assembly Language.md"
     }
   ],
   "omittedPaths": [],
