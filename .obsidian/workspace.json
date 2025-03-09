@@ -18,26 +18,15 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -0.17522318969909376
+                  "zoom": -0.2104498888217102
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "6c01f413e65c6db7",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.501522064209
+    "width": 339.51103591918945
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -185,13 +174,34 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "6c01f413e65c6db7",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "College/Modules/Programming/Data Types - C.md",
+    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Base Case.md",
+    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Algorithms.md",
+    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Tower of Hanoi.md",
+    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Time Complexity.md",
+    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Structured English.md",
+    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Iterative Euclidean Algorithm.md",
+    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Iterative  Factorial Algorithm.md",
+    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Functional Programming Language.md",
+    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Fibonacci Numbers.md",
+    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Call Stack.md",
+    "College/Modules/Algorithm Design and Problem Solving/Unsorted",
+    "College/Modules/Algorithm Design and Problem Solving/New folder",
+    "College/Modules/Algorithm Design and Problem Solving/Call Stack.md",
     "Home Page/Home.canvas",
-    "College/Modules/Programming/Escape Sequence - C.md",
-    "College/TU856-1/Study Plan Semester 2.md",
+    "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1 Week 8 - Programming Tutorial.pdf",
+    "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1 Week 6 - Programming Tutorial.pdf",
+    "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1 Week 5 - Programming Tutorial.pdf",
+    "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1 Week 11 - Programming Tutorial.pdf",
+    "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1 Week 10 - Programming Tutorial.pdf",
+    "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1 Week 9 - Programming Tutorial v2.pdf",
+    "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1  Week 8 - Programming Tutorial.pdf",
+    "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1  Week 6 - Programming Tutorial.pdf",
     "College/TU856-1/TU856-1 Results.md",
+    "College/TU856-1/Study Plan Semester 2.md",
+    "College/Modules/Programming/Data Types - C.md",
+    "College/Modules/Programming/Escape Sequence - C.md",
     "College/Modules/Programming/Switch Statement - C.md",
     "College/Modules/Programming/$ C - Programming Language.md",
     "College/Modules/Programming/Scope - C.md",
@@ -203,27 +213,7 @@
     "College/Modules/Programming/Order of Code - C.md",
     "College/Modules/Programming/Unsorted/Structures - C.md",
     "Other/Pasted image 20250304113410.png",
-    "PDF's/CMPU1025 Programming/Notes 10 - Pointers and Arrays.pdf",
-    "PDF's/CMPU1025 Programming/Notes 9 - Pointers.pdf",
-    "PDF's/CMPU1025 Programming/Notes 8 - Arrays (part 3).pdf",
-    "PDF's/CMPU1025 Programming/Notes 7 - Arrays (part 2).pdf",
-    "PDF's/CMPU1025 Programming/Notes 6 - Arrays (part 1).pdf",
-    "PDF's/CMPU1025 Programming/Notes 5 - while, do .. while, for loops.pdf",
-    "PDF's/CMPU1025 Programming/Notes 4 - if, if .. else, switch.pdf",
-    "PDF's/CMPU1025 Programming/Notes 3 - Keyboard input.pdf",
-    "PDF's/CMPU1025 Programming/Notes 2 - Comments, Arithmetics, Casting.pdf",
-    "PDF's/CMPU1025 Programming/Notes 1 - Data types, Assignment operation.pdf",
     "College/Modules/Programming/Unsorted/Pointers - C.md",
-    "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
-    "College/Modules/Programming/Unsorted/Functions - C.md",
-    "College/Modules/Programming/Unsorted/Strings and Arrays - C.md",
-    "College/Modules/Programming/Casting - C.md",
-    "College/Modules/Programming/Keyboard Input - C.md",
-    "College/Modules/Programming/Faster Character Input Output - C.md",
-    "College/Modules/Programming/Unsorted/free() - C.md",
-    "Notes/Edison Effect.md",
-    "Notes/CIA Speed Learn.md",
-    "Notes/Flight 2024.md",
     "Other/Pasted image 20250303154712.png",
     "Other/Pasted image 20250228110208.png",
     "Other/Pasted image 20250227230328.png",
