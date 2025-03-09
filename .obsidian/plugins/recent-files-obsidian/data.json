@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Recursion",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursion.md"
+    },
+    {
       "basename": "Iterative Algorithms",
       "path": "UNSORTED/Iterative Algorithms.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "AAlgorithms",
       "path": "Templates/AAlgorithms.md"
-    },
-    {
-      "basename": "Basic Iterative Algorithms",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Basic Iterative Algorithms.md"
     },
     {
       "basename": "Recursive Exponents Algorithm",

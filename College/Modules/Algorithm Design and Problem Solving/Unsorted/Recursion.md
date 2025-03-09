@@ -4,16 +4,13 @@ tags:
   - Algorithm
   - Recursion
 ---
-When a function repeatedly calls upon itself, either directly or indirectly
+An algorithm/function that repeatedly calls upon itself, either directly or indirectly, to break a problem into smaller subproblems.
 
 ## What Does Recursion Need
 - Base case
 - 
 
-## Examples of Recursive Algorithms
-[[Recursive Factorial Algorithm]]
-[[Recursive Exponents Algorithm]]
-[[Recursive Euclidean Algorithm]]
+
 # See Also
 [[Base Case]]
 [[College/Modules/Algorithm Design and Problem Solving/Call Stack]]

@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "32b0c2c490c0f7d4",
+            "id": "885997ca0bb6bb2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -99,6 +99,30 @@
             }
           },
           {
+            "id": "af1b22861895ad8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursion.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Recursion"
+            }
+          },
+          {
             "id": "73741fdaaf756af9",
             "type": "leaf",
             "state": {
@@ -109,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -261,9 +285,10 @@
   "lastOpenFiles": [
     "UNSORTED/Iterative Algorithms.md",
     "College/Modules/Algorithm Design and Problem Solving/$ Algorithms.md",
+    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursion.md",
+    "College/Modules/Algorithm Design and Problem Solving/Basic Iterative Algorithms.md",
     "College/Modules/Algorithm Design and Problem Solving/Recursive Algorithms.md",
     "Templates/AAlgorithms.md",
-    "College/Modules/Algorithm Design and Problem Solving/Basic Iterative Algorithms.md",
     "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursive Exponents Algorithm.md",
     "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursive Euclidean Algorithm.md",
     "College/Modules/Algorithm Design and Problem Solving/Unsorted/Iterative Euclidean Algorithm.md",
@@ -295,7 +320,6 @@
     "College/Modules/Programming/Switch Statement - C.md",
     "College/Modules/Programming/$ C - Programming Language.md",
     "College/Modules/Programming/Scope - C.md",
-    "College/Modules/Operating Systems/Unsorted Notes/CPU Scheduling.md",
     "Other/Pasted image 20250304113410.png",
     "Other/Pasted image 20250303154712.png",
     "Other/Pasted image 20250228110208.png",

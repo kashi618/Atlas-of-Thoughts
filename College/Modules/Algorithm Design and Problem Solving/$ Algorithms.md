@@ -1,6 +1,5 @@
 ## Iterative
 - [[Iterative Algorithms]]
-- [[Basic Iterative Algorithms]]
   
   ## Recursive
   - [[Recursion]]
