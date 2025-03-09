@@ -25,8 +25,91 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "1e269837983d4015",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Modules/Algorithm Design and Problem Solving/Recursive Algorithms.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Recursive Algorithms"
+            }
+          },
+          {
+            "id": "0fa46db8d1dab8e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Modules/Algorithm Design and Problem Solving/$ Algorithms.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Algorithms"
+            }
+          },
+          {
+            "id": "32b0c2c490c0f7d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNSORTED/Iterative Algorithms.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Iterative Algorithms"
+            }
+          },
+          {
+            "id": "73741fdaaf756af9",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -174,22 +257,29 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "73741fdaaf756af9",
   "lastOpenFiles": [
-    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Base Case.md",
+    "UNSORTED/Iterative Algorithms.md",
+    "College/Modules/Algorithm Design and Problem Solving/$ Algorithms.md",
+    "College/Modules/Algorithm Design and Problem Solving/Recursive Algorithms.md",
+    "Templates/AAlgorithms.md",
+    "College/Modules/Algorithm Design and Problem Solving/Basic Iterative Algorithms.md",
+    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursive Exponents Algorithm.md",
+    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursive Euclidean Algorithm.md",
+    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Iterative Euclidean Algorithm.md",
+    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Functional Programming Language.md",
     "College/Modules/Algorithm Design and Problem Solving/Unsorted/Algorithms.md",
+    "Home Page/Home.canvas",
+    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Base Case.md",
     "College/Modules/Algorithm Design and Problem Solving/Unsorted/Tower of Hanoi.md",
     "College/Modules/Algorithm Design and Problem Solving/Unsorted/Time Complexity.md",
     "College/Modules/Algorithm Design and Problem Solving/Unsorted/Structured English.md",
-    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Iterative Euclidean Algorithm.md",
     "College/Modules/Algorithm Design and Problem Solving/Unsorted/Iterative  Factorial Algorithm.md",
-    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Functional Programming Language.md",
     "College/Modules/Algorithm Design and Problem Solving/Unsorted/Fibonacci Numbers.md",
     "College/Modules/Algorithm Design and Problem Solving/Unsorted/Call Stack.md",
     "College/Modules/Algorithm Design and Problem Solving/Unsorted",
     "College/Modules/Algorithm Design and Problem Solving/New folder",
     "College/Modules/Algorithm Design and Problem Solving/Call Stack.md",
-    "Home Page/Home.canvas",
     "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1 Week 8 - Programming Tutorial.pdf",
     "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1 Week 6 - Programming Tutorial.pdf",
     "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1 Week 5 - Programming Tutorial.pdf",
@@ -206,14 +296,7 @@
     "College/Modules/Programming/$ C - Programming Language.md",
     "College/Modules/Programming/Scope - C.md",
     "College/Modules/Operating Systems/Unsorted Notes/CPU Scheduling.md",
-    "College/Modules/Operating Systems/Unsorted Notes/Processes.md",
-    "Notes/Archlinux Rice - LainOS.md",
-    "College/Modules/Programming/Unsorted/Strings - C.md",
-    "College/Modules/Programming/Unsorted/String Functions - C.md",
-    "College/Modules/Programming/Order of Code - C.md",
-    "College/Modules/Programming/Unsorted/Structures - C.md",
     "Other/Pasted image 20250304113410.png",
-    "College/Modules/Programming/Unsorted/Pointers - C.md",
     "Other/Pasted image 20250303154712.png",
     "Other/Pasted image 20250228110208.png",
     "Other/Pasted image 20250227230328.png",

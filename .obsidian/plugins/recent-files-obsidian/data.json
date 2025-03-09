@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Iterative Algorithms",
+      "path": "UNSORTED/Iterative Algorithms.md"
+    },
+    {
+      "basename": "$ Algorithms",
+      "path": "College/Modules/Algorithm Design and Problem Solving/$ Algorithms.md"
+    },
+    {
+      "basename": "Recursive Algorithms",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Recursive Algorithms.md"
+    },
+    {
+      "basename": "AAlgorithms",
+      "path": "Templates/AAlgorithms.md"
+    },
+    {
+      "basename": "Basic Iterative Algorithms",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Basic Iterative Algorithms.md"
+    },
+    {
+      "basename": "Recursive Exponents Algorithm",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursive Exponents Algorithm.md"
+    },
+    {
+      "basename": "Recursive Euclidean Algorithm",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursive Euclidean Algorithm.md"
+    },
+    {
+      "basename": "Iterative Euclidean Algorithm",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Unsorted/Iterative Euclidean Algorithm.md"
+    },
+    {
+      "basename": "Functional Programming Language",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Unsorted/Functional Programming Language.md"
+    },
+    {
+      "basename": "Algorithms",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Unsorted/Algorithms.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "CMPU 1025 - Nov 12th 2024",
       "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Nov 12th 2024.md"
-    },
-    {
-      "basename": "CMPU 1025 - Oct 7th 2024",
-      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 7th 2024.md"
-    },
-    {
-      "basename": "CMPU 1025 - Oct 8th 2024",
-      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 8th 2024.md"
-    },
-    {
-      "basename": "Variables - C",
-      "path": "College/Modules/Programming/Variables - C.md"
-    },
-    {
-      "basename": "CMPU 1025 - Oct 9th 2024",
-      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 9th 2024.md"
-    },
-    {
-      "basename": "CMPU 1025 - Oct 14th 2024",
-      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 14th 2024.md"
-    },
-    {
-      "basename": "CMPU 1025 - Oct 15th 2024",
-      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 15th 2024.md"
-    },
-    {
-      "basename": "CMPU 1025 - Oct 21th 2024",
-      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 21th 2024.md"
-    },
-    {
-      "basename": "CMPU 1025 - Oct 22nd 2024",
-      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 22nd 2024.md"
-    },
-    {
-      "basename": "CMPU 1025 - Sep 16th 2024",
-      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 16th 2024.md"
-    },
-    {
-      "basename": "CMPU 1025 - Sep 17th 2024",
-      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Sep 17th 2024.md"
     }
   ],
   "omittedPaths": [],
