@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Assembly 1",
-      "path": "College/Modules/Microprocessors Systems/Assembly 1.md"
+      "basename": "Arch Linux - Installation",
+      "path": "Notes/Arch Linux - Installation.md"
     },
     {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Assembly 1",
+      "path": "College/Modules/Microprocessors Systems/Assembly 1.md"
     },
     {
       "basename": "Recursion",
@@ -195,10 +199,6 @@
     {
       "basename": "Logical Operators - C",
       "path": "College/Modules/Programming/Logical Operators - C.md"
-    },
-    {
-      "basename": "CMPU 1025 - Oct 1th 2024",
-      "path": "College/Unsorted Notes/CMPU 1025 - Programming 1 (Sem. 1)/CMPU 1025 - Oct 1th 2024.md"
     }
   ],
   "omittedPaths": [],

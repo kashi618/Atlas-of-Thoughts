@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ecea4563074efd9",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "b758a963be2ffb86",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -0.43091157862724777
+                  "zoom": -0.2104498888217102
                 }
               },
               "pinned": true,
@@ -27,14 +27,14 @@
             }
           },
           {
-            "id": "212c4967d5d0bb0e",
+            "id": "f092190bb5ae8ffc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Modules/Microprocessors Systems/Assembly 1.md",
+                "file": "Notes/Arch Linux - Installation.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Assembly 1"
+              "title": "Arch Linux - Installation"
             }
           }
         ],
@@ -84,8 +84,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,7 +199,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "212c4967d5d0bb0e",
+  "active": "f092190bb5ae8ffc",
   "lastOpenFiles": [
     "Home Page/Home.canvas",
     "College/Modules/Microprocessors Systems/Assembly 1.md",
