@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -20,6 +21,7 @@
                   "zoom": -0.43091157862724777
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
@@ -174,6 +176,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "PDF's/(CMPU 1025) Programming/Tutorials/Lab 6 - More Sorting v2.docx",
+    "PDF's/(CMPU 1025) Programming/Tutorials/Lab 5 - Starting Sorting.docx",
     "UNSORTED/Iterative Algorithms.md",
     "College/Modules/Algorithm Design and Problem Solving/$ Algorithms.md",
     "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursion.md",
@@ -203,14 +207,12 @@
     "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1 Week 10 - Programming Tutorial.pdf",
     "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1 Week 9 - Programming Tutorial v2.pdf",
     "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1  Week 8 - Programming Tutorial.pdf",
-    "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1  Week 6 - Programming Tutorial.pdf",
     "College/TU856-1/TU856-1 Results.md",
     "College/TU856-1/Study Plan Semester 2.md",
     "College/Modules/Programming/Data Types - C.md",
     "College/Modules/Programming/Escape Sequence - C.md",
     "College/Modules/Programming/Switch Statement - C.md",
     "College/Modules/Programming/$ C - Programming Language.md",
-    "College/Modules/Programming/Scope - C.md",
     "Other/Pasted image 20250304113410.png",
     "Other/Pasted image 20250303154712.png",
     "Other/Pasted image 20250228110208.png",
