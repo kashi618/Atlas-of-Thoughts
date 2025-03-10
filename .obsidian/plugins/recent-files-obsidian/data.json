@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Recursion",
       "path": "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursion.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "Algorithms",
       "path": "College/Modules/Algorithm Design and Problem Solving/Unsorted/Algorithms.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Call Stack",
