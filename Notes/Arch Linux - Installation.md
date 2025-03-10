@@ -97,7 +97,7 @@ rankmirrors -n 10 /etc/pacman.d/mirrorlist
 
 ## install linux
 ``` bash
-pacstrap -K /mnt base linux linux-firmware base-devel networkmanager nano intel-ucode timeshift sudo
+pacstrap -K /mnt base linux linux-firmware base-devel networkmanager vim nano intel-ucode timeshift sudo
 ```
 - **NOTE**: Remove "intel-ucode" if not using intel cpu
 
