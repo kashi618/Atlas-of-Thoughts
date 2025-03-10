@@ -134,6 +134,7 @@ locale-gen
 nano /etc/locale.conf
 ```
 - Append "LANG=en_IE.UTF-8"
+- Append "LANG=en_US.UTF-8"
 
 ``` bash
 nano /etc/vconsole.conf
