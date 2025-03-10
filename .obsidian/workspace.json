@@ -34,7 +34,7 @@
               "state": {
                 "file": "College/Modules/Microprocessors Systems/Assembly 1.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
