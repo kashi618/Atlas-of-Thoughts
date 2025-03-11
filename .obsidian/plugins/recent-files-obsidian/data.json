@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Arch Linux - Installation",
       "path": "Notes/Arch Linux - Installation.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Compiling C",
       "path": "College/Modules/Programming/Unsorted/Compiling C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Structures - C",

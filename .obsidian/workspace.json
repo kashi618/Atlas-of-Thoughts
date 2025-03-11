@@ -18,40 +18,15 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -1.9082574313724248
+                  "zoom": -0.2104498888217102
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "55fe34b05cb5b9a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Arch Linux - Installation.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Arch Linux - Installation"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,8 +174,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "55fe34b05cb5b9a8",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Notes/Arch Linux - Installation.md",
     "Notes/Archlinux Rice - LainOS.md",
     "College/Modules/Programming/Unsorted/Compiler.md",
     "College/Modules/Programming/Unsorted/Compiling C.md",
@@ -211,7 +187,6 @@
     "College/Modules/Programming/Unsorted/Strings - C.md",
     "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
     "College/Modules/Programming/Incrementing & Decrementing - C.md",
-    "Notes/Arch Linux - Installation.md",
     "College/Modules/Microprocessors Systems/Assembly 1.md",
     "PDF's/(CMPU 1025) Programming/Tutorials/City Rent-A-Car Group30.graphml",
     "PDF's/(CMPU 1025) Programming/Tutorials/Screenshot 2025-02-07 135841.png",
