@@ -25,8 +25,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "55fe34b05cb5b9a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Arch Linux - Installation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Arch Linux - Installation"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,15 +199,18 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "55fe34b05cb5b9a8",
   "lastOpenFiles": [
+    "Notes/Archlinux Rice - LainOS.md",
+    "College/Modules/Programming/Unsorted/Compiler.md",
+    "College/Modules/Programming/Unsorted/Compiling C.md",
+    "Home Page/Home.canvas",
     "College/Modules/Programming/Unsorted/Structures - C.md",
     "College/Modules/Programming/Unsorted/String Functions - C.md",
     "College/Modules/Programming/Unsorted/Pointers - C.md",
     "College/Modules/Programming/Unsorted/Strings - C.md",
     "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
     "College/Modules/Programming/Incrementing & Decrementing - C.md",
-    "Home Page/Home.canvas",
     "Notes/Arch Linux - Installation.md",
     "College/Modules/Microprocessors Systems/Assembly 1.md",
     "PDF's/(CMPU 1025) Programming/Tutorials/City Rent-A-Car Group30.graphml",
@@ -204,9 +232,6 @@
     "College/Modules/Algorithm Design and Problem Solving/Unsorted/Tower of Hanoi.md",
     "College/Modules/Algorithm Design and Problem Solving/Unsorted/Time Complexity.md",
     "College/Modules/Algorithm Design and Problem Solving/Unsorted/Structured English.md",
-    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Iterative  Factorial Algorithm.md",
-    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Fibonacci Numbers.md",
-    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Call Stack.md",
     "College/Modules/Algorithm Design and Problem Solving/Unsorted",
     "College/Modules/Algorithm Design and Problem Solving/New folder",
     "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1 Week 8 - Programming Tutorial.pdf",

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Arch Linux - Installation",
+      "path": "Notes/Arch Linux - Installation.md"
+    },
+    {
+      "basename": "Archlinux Rice - LainOS",
+      "path": "Notes/Archlinux Rice - LainOS.md"
+    },
+    {
+      "basename": "Compiler",
+      "path": "College/Modules/Programming/Unsorted/Compiler.md"
+    },
+    {
+      "basename": "Compiling C",
+      "path": "College/Modules/Programming/Unsorted/Compiling C.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -27,10 +43,6 @@
     {
       "basename": "Incrementing & Decrementing - C",
       "path": "College/Modules/Programming/Incrementing & Decrementing - C.md"
-    },
-    {
-      "basename": "Arch Linux - Installation",
-      "path": "Notes/Arch Linux - Installation.md"
     },
     {
       "basename": "Assembly 1",
@@ -125,10 +137,6 @@
       "path": "College/Modules/Operating Systems/Unsorted Notes/Processes.md"
     },
     {
-      "basename": "Archlinux Rice - LainOS",
-      "path": "Notes/Archlinux Rice - LainOS.md"
-    },
-    {
       "basename": "Order of Code - C",
       "path": "College/Modules/Programming/Order of Code - C.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Arrays - C",
       "path": "College/Modules/Programming/Arrays - C.md"
-    },
-    {
-      "basename": "Subscript and Pointer Notation - C",
-      "path": "College/Modules/Programming/Unsorted/Subscript and Pointer Notation - C.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "UNSORTED/Untitled.md"
     }
   ],
   "omittedPaths": [],
