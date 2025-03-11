@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Arch Linux - Installation.md",
+                "file": "Notes/Archlinux Rice - LainOS.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arch Linux - Installation"
+              "title": "Archlinux Rice - LainOS"
             }
           }
         ],
@@ -201,9 +201,9 @@
   },
   "active": "c4fac4f3adcfc4f2",
   "lastOpenFiles": [
+    "Notes/Arch Linux - Installation.md",
     "Notes/Arch Linux - Adding Drives.md",
     "Home Page/Home.canvas",
-    "Notes/Arch Linux - Installation.md",
     "Notes/Archlinux Rice - LainOS.md",
     "College/Modules/Programming/Unsorted/Compiler.md",
     "College/Modules/Programming/Unsorted/Compiling C.md",
