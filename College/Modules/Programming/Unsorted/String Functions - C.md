@@ -3,7 +3,7 @@ tags:
   - C
 aliases:
 ---
-Make sure to include the `#include <
+`Make sure to include the `#include <
 
 
 

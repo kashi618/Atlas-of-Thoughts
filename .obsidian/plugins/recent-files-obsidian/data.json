@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "String Functions - C",
+      "path": "College/Modules/Programming/Unsorted/String Functions - C.md"
+    },
+    {
+      "basename": "Pointers - C",
+      "path": "College/Modules/Programming/Unsorted/Pointers - C.md"
+    },
+    {
+      "basename": "Strings - C",
+      "path": "College/Modules/Programming/Unsorted/Strings - C.md"
+    },
+    {
+      "basename": "Reading Strings - gets() - C",
+      "path": "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md"
+    },
+    {
+      "basename": "Incrementing & Decrementing - C",
+      "path": "College/Modules/Programming/Incrementing & Decrementing - C.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -105,28 +125,12 @@
       "path": "Notes/Archlinux Rice - LainOS.md"
     },
     {
-      "basename": "Strings - C",
-      "path": "College/Modules/Programming/Unsorted/Strings - C.md"
-    },
-    {
-      "basename": "String Functions - C",
-      "path": "College/Modules/Programming/Unsorted/String Functions - C.md"
-    },
-    {
       "basename": "Order of Code - C",
       "path": "College/Modules/Programming/Order of Code - C.md"
     },
     {
       "basename": "Structures - C",
       "path": "College/Modules/Programming/Unsorted/Structures - C.md"
-    },
-    {
-      "basename": "Pointers - C",
-      "path": "College/Modules/Programming/Unsorted/Pointers - C.md"
-    },
-    {
-      "basename": "Reading Strings - gets() - C",
-      "path": "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md"
     },
     {
       "basename": "Functions - C",
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled",
       "path": "UNSORTED/Untitled.md"
-    },
-    {
-      "basename": "Logical Operators - C",
-      "path": "College/Modules/Programming/Logical Operators - C.md"
     }
   ],
   "omittedPaths": [],
