@@ -32,8 +32,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Arch Linux - Adding Drives.md",
-                "mode": "source",
+                "file": "Notes/Arch Linux - Installation.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arch Linux - Adding Drives"
+              "title": "Arch Linux - Installation"
             }
           }
         ],
@@ -201,6 +201,7 @@
   },
   "active": "c4fac4f3adcfc4f2",
   "lastOpenFiles": [
+    "Notes/Arch Linux - Adding Drives.md",
     "Home Page/Home.canvas",
     "Notes/Arch Linux - Installation.md",
     "Notes/Archlinux Rice - LainOS.md",
