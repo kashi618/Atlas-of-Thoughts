@@ -99,6 +99,11 @@ int main(void) {
 ```c
 printf("%d",(*ptr).student_ID)
 ```
+- Doesnot work without braclkets
+## arrow notation
+`->`
+instead of `(*ptr).student_ID`, you can write `ptr -> student_ID`
+It only works with pointers
 
 
 # See Also
