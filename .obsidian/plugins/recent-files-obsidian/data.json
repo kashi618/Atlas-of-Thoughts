@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Arch Linux - Adding Drives",
+      "path": "Notes/Arch Linux - Adding Drives.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Multi-Dimensional Arrays - C",
       "path": "UNSORTED/Multi-Dimensional Arrays - C.md"
-    },
-    {
-      "basename": "Arrays - C",
-      "path": "College/Modules/Programming/Arrays - C.md"
     }
   ],
   "omittedPaths": [],

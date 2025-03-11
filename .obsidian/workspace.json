@@ -25,8 +25,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "c4fac4f3adcfc4f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Arch Linux - Adding Drives.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Arch Linux - Adding Drives"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,13 +199,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c4fac4f3adcfc4f2",
   "lastOpenFiles": [
+    "Home Page/Home.canvas",
     "Notes/Arch Linux - Installation.md",
     "Notes/Archlinux Rice - LainOS.md",
     "College/Modules/Programming/Unsorted/Compiler.md",
     "College/Modules/Programming/Unsorted/Compiling C.md",
-    "Home Page/Home.canvas",
     "College/Modules/Programming/Unsorted/Structures - C.md",
     "College/Modules/Programming/Unsorted/String Functions - C.md",
     "College/Modules/Programming/Unsorted/Pointers - C.md",
@@ -206,7 +231,6 @@
     "College/Modules/Algorithm Design and Problem Solving/Unsorted/Base Case.md",
     "College/Modules/Algorithm Design and Problem Solving/Unsorted/Tower of Hanoi.md",
     "College/Modules/Algorithm Design and Problem Solving/Unsorted/Time Complexity.md",
-    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Structured English.md",
     "College/Modules/Algorithm Design and Problem Solving/Unsorted",
     "College/Modules/Algorithm Design and Problem Solving/New folder",
     "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1 Week 8 - Programming Tutorial.pdf",
