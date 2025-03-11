@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Structures - C",
       "path": "College/Modules/Programming/Unsorted/Structures - C.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Incrementing & Decrementing - C",
       "path": "College/Modules/Programming/Incrementing & Decrementing - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Arch Linux - Installation",

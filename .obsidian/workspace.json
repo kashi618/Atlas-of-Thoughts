@@ -10,48 +10,21 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -240,
-                  "y": -45,
-                  "zoom": -0.43091157862724777
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "f2de7d571c5a9a4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Programming/Unsorted/Structures - C.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Structures - C"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,8 +172,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "f2de7d571c5a9a4f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "College/Modules/Programming/Unsorted/Structures - C.md",
     "College/Modules/Programming/Unsorted/String Functions - C.md",
     "College/Modules/Programming/Unsorted/Pointers - C.md",
     "College/Modules/Programming/Unsorted/Strings - C.md",
@@ -233,7 +207,6 @@
     "College/Modules/Algorithm Design and Problem Solving/Unsorted/Call Stack.md",
     "College/Modules/Algorithm Design and Problem Solving/Unsorted",
     "College/Modules/Algorithm Design and Problem Solving/New folder",
-    "College/Modules/Algorithm Design and Problem Solving/Call Stack.md",
     "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1 Week 8 - Programming Tutorial.pdf",
     "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1 Week 6 - Programming Tutorial.pdf",
     "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1 Week 5 - Programming Tutorial.pdf",
