@@ -32,9 +32,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Modules/Programming/Unsorted/String Functions - C.md",
+                "file": "College/Modules/Programming/Unsorted/Structures - C.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "String Functions - C"
+              "title": "Structures - C"
             }
           }
         ],
@@ -201,9 +201,9 @@
   },
   "active": "f2de7d571c5a9a4f",
   "lastOpenFiles": [
+    "College/Modules/Programming/Unsorted/String Functions - C.md",
     "College/Modules/Programming/Unsorted/Pointers - C.md",
     "College/Modules/Programming/Unsorted/Strings - C.md",
-    "College/Modules/Programming/Unsorted/String Functions - C.md",
     "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
     "College/Modules/Programming/Incrementing & Decrementing - C.md",
     "Home Page/Home.canvas",

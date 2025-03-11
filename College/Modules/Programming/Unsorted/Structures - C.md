@@ -17,6 +17,8 @@ struct structureTag {
 - You can have as many structure members as you want.
 - Order not relevant.
 - The structure members are NOT variables, only a template, therefore, no memory has been assigned YET.
+- THEY ARE NOT VARIABLES
+- They are a blueprint
 
 **2) Creating a Structure**
 ```c showlinenumbers {2}
@@ -36,7 +38,7 @@ int main(void) {
 ```
 
 
-**Example**
+**Example 1**
 ```c showlinenumbrs
 #include <stdio.h>
 
@@ -56,5 +58,50 @@ int main(void) {
 }
 ```
 
+**Example 2**
+```
+struct studentRecords {
+	char firstName[20];
+	char lastName[20];
+	int age;
+}
+
+int main(void) {
+	struct studentRecords student = {
+		"John",
+		"Doe",
+		69
+	};
+}
+```
+
+## Using a Structure
+```
+struct studentRecords {
+	char firstName[20];
+	char lastName[20];
+	int age;
+}
+
+int main(void) {
+	struct studentRecords student = {
+		"John",
+		"Doe",
+		69
+	};
+	
+	printf("%d",student.age);
+}
+```
+
+
+## Structures and pointers
+```c
+printf("%d",(*ptr).student_ID)
+```
+
+
 # See Also
 [[$ C - Programming Language]]
+
+
