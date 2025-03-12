@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "Archlinux Rice - LainOS",
       "path": "Notes/Archlinux Rice - LainOS.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Arch Linux - Adding Drives",
       "path": "Notes/Arch Linux - Adding Drives.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Compiler",
