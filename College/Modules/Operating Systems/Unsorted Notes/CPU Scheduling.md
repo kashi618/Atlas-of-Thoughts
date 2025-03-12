@@ -1,3 +1,7 @@
+## How to find CPU burst cycle
+- Predict the future
+- It uses heuristics, by keeping audits, logs, and information about many processes, to predict the burst cycle.
+
 ## CPU I/O Burst cycle
 **CPU burst**
 Time interval for when a processes only uses the cpu
@@ -6,11 +10,11 @@ Time interval for when a process only uses the I/O
 
 ## Types of Scheduling
 **Non pre-emptive**
-This is when a processes runs to completion
+This is when a processes runs to completion, with no interruption. It runs with no disturbances. 
 (very rare in modern operating systems)
 
 **Pre-emptive Scheduling**
-A process may be temporarily halted in order for another process to run
+A process may be temporarily halted in order for another process to run. How and when it gets temporarily halted depends on the cpu algorithm [link]
 The halted process goes to a ready state
 - A processes is only assigned to the cpu for a certain time period. After, it is sent back to the queue
 
@@ -78,3 +82,27 @@ Cons
 - Same as SJF, we run the lowest cpu burst process first
 - However, at any moment at a time, if a new process arrives, and has a burst length LESS than the remaining time of a current executing process, then we pre-empt the current process to run the faster one
 
+**Round Robin**
+Evenly splits the available time to each process
+- Each process gets the same time of cpu time, called a time quantum
+- Usually around 1-100 miliseconds
+
+- After this time elapses, the process is preempted, and added to the end of the queue
+![[Pasted image 20250312092722.png]]
+- May have a higher or worse turnaround as compared to SJF, however, it has better response time
+
+- Round robin ensures faireness in relation to all processes
+- However, in an operating system, some processes may have a needd to run more effivciently than others
+	- For example, processes that perform critical OS functions
+- It also gives rise to process priorities
+	- A scale from 1-5, 1 being the highest priority
+- 
+## Process Starvation
+When a low priority process does not get any time to run on the CPU, because processes with higher priority are always run, spending up available time given to lower priority processes
+
+## Process Aging
+This is used to make sure all propcesses get a change to run on the [[CPU]]
+It increases process priority, if it has not been run for a certain amount of time
+## Heuristic
+
+Algorithm that work on incomplete information. When its running, it may need to guess

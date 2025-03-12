@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "CPU Scheduling",
+      "path": "College/Modules/Operating Systems/Unsorted Notes/CPU Scheduling.md"
+    },
+    {
+      "basename": "Processes",
+      "path": "College/Modules/Operating Systems/Unsorted Notes/Processes.md"
+    },
+    {
+      "basename": "Software - Hardware",
+      "path": "College/Modules/Operating Systems/Software - Hardware.md"
+    },
+    {
+      "basename": "Drivers",
+      "path": "College/Modules/Operating Systems/Drivers.md"
+    },
+    {
+      "basename": "$ Operating Systems",
+      "path": "College/Modules/Operating Systems/$ Operating Systems.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -133,14 +153,6 @@
       "path": "College/Modules/Programming/Scope - C.md"
     },
     {
-      "basename": "CPU Scheduling",
-      "path": "College/Modules/Operating Systems/Unsorted Notes/CPU Scheduling.md"
-    },
-    {
-      "basename": "Processes",
-      "path": "College/Modules/Operating Systems/Unsorted Notes/Processes.md"
-    },
-    {
       "basename": "Order of Code - C",
       "path": "College/Modules/Programming/Order of Code - C.md"
     },
@@ -181,20 +193,8 @@
       "path": "Library/Otsuichi - ZOO.md"
     },
     {
-      "basename": "Drivers",
-      "path": "College/Modules/Operating Systems/Unsorted Notes/Drivers.md"
-    },
-    {
-      "basename": "$ Operating Systems",
-      "path": "College/Modules/Operating Systems/$ Operating Systems.md"
-    },
-    {
       "basename": "Computer System Structure",
       "path": "College/Modules/Operating Systems/Computer System Structure.md"
-    },
-    {
-      "basename": "Software - Hardware",
-      "path": "College/Modules/Operating Systems/Software - Hardware.md"
     },
     {
       "basename": "Multi-Dimensional Arrays - C",
