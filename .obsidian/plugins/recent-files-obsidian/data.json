@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "CPU Scheduling",
       "path": "College/Modules/Operating Systems/Unsorted Notes/CPU Scheduling.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "$ Operating Systems",
       "path": "College/Modules/Operating Systems/$ Operating Systems.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Archlinux Rice - LainOS",

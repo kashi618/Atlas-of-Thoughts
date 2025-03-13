@@ -17,41 +17,16 @@
                 "file": "Home Page/Home.canvas",
                 "viewState": {
                   "x": -240,
-                  "y": 165.58502003137755,
-                  "zoom": -0.43091157862724777
+                  "y": -45,
+                  "zoom": -0.08570109351536712
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "5e069947c6e34bd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Operating Systems/Unsorted Notes/CPU Scheduling.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CPU Scheduling"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,6 +168,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "widgets:Add widget": false,
+      "obsidian-projects:Open projects": false,
+      "copilot:Open Copilot Chat": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
@@ -207,8 +185,9 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "5e069947c6e34bd7",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "College/Modules/Operating Systems/Unsorted Notes/CPU Scheduling.md",
     "Other/Pasted image 20250312092722.png",
     "College/Modules/Operating Systems/Unsorted Notes/Processes.md",
     "College/Modules/Operating Systems/Software - Hardware.md",
@@ -254,7 +233,6 @@
     "Other/Pasted image 20250227212729.png",
     "Other/Pasted image 20250227212529.png",
     "Other/Pasted image 20250227212509.png",
-    "Other/Pasted image 20250227212430.png",
-    "Other/Pasted image 20250227212306.png"
+    "Other/Pasted image 20250227212430.png"
   ]
 }
