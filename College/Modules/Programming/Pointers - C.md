@@ -9,7 +9,7 @@ tags:
 - It is a variable that is used to store a memory address
 - Usually, it is used to store the memory address of another variable
 
-## Using a Point
+## Using a Pointer
 `
 - Stores the address location of a variable, in hexadecimal.
 - The datatype used to declare a pointer variable is used to store the hex value of that datatype.
@@ -29,8 +29,9 @@ pointerName = &variableName
 #include <stdio.h>
 
 int main () {
+	// Initialize a Pointer Variable
 	int *ptr1;
-	int var1;
+	
 	
 	var1 = 10;
 	ptr1 = &var1;
