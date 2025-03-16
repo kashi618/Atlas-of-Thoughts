@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Arch Linux - Installation",
+      "path": "Notes/Arch Linux - Installation.md"
+    },
+    {
+      "basename": "Pointers - C",
+      "path": "College/Modules/Programming/Pointers - C.md"
+    },
+    {
       "basename": "Pointers - C",
       "path": "College/Modules/Programming/Unsorted/Pointers - C.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "$ C - Programming Language",
       "path": "College/Modules/Programming/$ C - Programming Language.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "CPU Scheduling",
@@ -39,10 +47,6 @@
     {
       "basename": "Archlinux Rice - LainOS",
       "path": "Notes/Archlinux Rice - LainOS.md"
-    },
-    {
-      "basename": "Arch Linux - Installation",
-      "path": "Notes/Arch Linux - Installation.md"
     },
     {
       "basename": "Arch Linux - Adding Drives",
@@ -195,10 +199,6 @@
     {
       "basename": "Otsuichi - ZOO",
       "path": "Library/Otsuichi - ZOO.md"
-    },
-    {
-      "basename": "Computer System Structure",
-      "path": "College/Modules/Operating Systems/Computer System Structure.md"
     }
   ],
   "omittedPaths": [],
