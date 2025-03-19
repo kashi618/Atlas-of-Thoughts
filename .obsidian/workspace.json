@@ -16,17 +16,42 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -240,
-                  "y": -45,
-                  "zoom": -1.3672617747094304
+                  "x": -301.18893495524065,
+                  "y": -81.44474883308791,
+                  "zoom": -0.5672617747094304
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "5a611fbead1c8ca6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Modules/Programming/Arrays - C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Arrays - C"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,11 +80,22 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "d2ebd37e427e03bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -157,9 +193,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "widgets:Add widget": false,
-      "obsidian-projects:Open projects": false,
-      "copilot:Open Copilot Chat": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
@@ -171,13 +204,16 @@
       "templater-obsidian:Templater": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "widgets:Add widget": false,
+      "obsidian-projects:Open projects": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5a611fbead1c8ca6",
   "lastOpenFiles": [
-    "Notes/Arch Linux - Installation.md",
     "Home Page/Home.canvas",
+    "Notes/Arch Linux - Installation.md",
     "College/Modules/Programming/Pointers - C.md",
     "College/Modules/Programming/Unsorted/Dynamic Memory Allocation - C.md",
     "College/Modules/Programming/$ C - Programming Language.md",

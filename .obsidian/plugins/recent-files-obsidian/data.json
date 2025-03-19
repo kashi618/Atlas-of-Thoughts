@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Arrays - C",
+      "path": "College/Modules/Programming/Arrays - C.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Flight 2024",
       "path": "Notes/Flight 2024.md"
-    },
-    {
-      "basename": "Otsuichi - ZOO",
-      "path": "Library/Otsuichi - ZOO.md"
     }
   ],
   "omittedPaths": [],
