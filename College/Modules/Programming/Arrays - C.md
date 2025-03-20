@@ -7,7 +7,7 @@ aliases:
 ## What is an Array?
 - An array is a contiguous linear piece of data in memory. 
 - Each element in an array is the same data type
-- The first piece of data in an array is at index 0, the next at index 1, and so on
+- The first piece of data in an array is at index 0, the next at index 1, and so on.
 
 ## Creating Arrays
 ```c showlinenumbers
