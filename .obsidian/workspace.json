@@ -16,42 +16,17 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -301.18893495524065,
-                  "y": -81.44474883308791,
-                  "zoom": -0.5672617747094304
+                  "x": -240,
+                  "y": -45,
+                  "zoom": -0.1113698142769439
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "5a611fbead1c8ca6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Programming/Arrays - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Arrays - C"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,9 +185,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "5a611fbead1c8ca6",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Home Page/Home.canvas",
+    "College/Modules/Programming/Arrays - C.md",
     "Notes/Arch Linux - Installation.md",
     "College/Modules/Programming/Pointers - C.md",
     "College/Modules/Programming/Unsorted/Dynamic Memory Allocation - C.md",
@@ -242,7 +218,6 @@
     "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursion.md",
     "College/Modules/Algorithm Design and Problem Solving/Basic Iterative Algorithms.md",
     "College/Modules/Algorithm Design and Problem Solving/Recursive Algorithms.md",
-    "Templates/AAlgorithms.md",
     "College/Modules/Algorithm Design and Problem Solving/Unsorted",
     "College/Modules/Algorithm Design and Problem Solving/New folder",
     "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1 Week 8 - Programming Tutorial.pdf",
