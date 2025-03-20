@@ -16,11 +16,9 @@
   "file-tree-alternative",
   "gemmy",
   "table-editor-obsidian",
-  "obsidian-book-search-plugin",
   "obsidian-latex-suite",
   "shiki-highlighter",
   "widgets",
   "obsidian-projects",
-  "dataview",
-  "copilot"
+  "dataview"
 ]

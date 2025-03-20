@@ -18,26 +18,15 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -0.1113698142769439
+                  "zoom": -1.390951880754531
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "2f25ea9660c216fb",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +185,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "2f25ea9660c216fb",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Home Page/Home.canvas",
     "College/Modules/Programming/Arrays - C.md",
