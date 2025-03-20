@@ -16,9 +16,9 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -240,
-                  "y": -45,
-                  "zoom": -1.390951880754531
+                  "x": -395.1624097600768,
+                  "y": -89.40686772135292,
+                  "zoom": -0.5909518807545309
                 }
               },
               "pinned": true,
@@ -179,10 +179,8 @@
       "templater-obsidian:Templater": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-book-search-plugin:Create new book note": false,
       "widgets:Add widget": false,
-      "obsidian-projects:Open projects": false,
-      "copilot:Open Copilot Chat": false
+      "obsidian-projects:Open projects": false
     }
   },
   "active": "e7a7b303c61786dc",
