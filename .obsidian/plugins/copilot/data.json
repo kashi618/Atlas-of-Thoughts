@@ -103,29 +103,14 @@
       "enabled": true,
       "isBuiltIn": false,
       "baseUrl": "https://api.deepseek.com/v1",
-      "apiKey": "enc_desk_djEw889R0FSVJwTFCHssuX76SlcC0I0Gb5BqNIX098LQYR7jAxhlvmRrT3TEF+eDb3UIrNoRvvd44rrMjR8+VLeg",
+      "apiKey": "sk-a9f4058055bd4041a742f5f02fbcf7a4",
       "isEmbeddingModel": false,
       "capabilities": [
-        "reasoning",
-        "websearch"
-      ],
-      "stream": true,
-      "displayName": "Deepseek R1",
-      "enableCors": true
-    },
-    {
-      "name": "deepseek-r1-distill-qwen-7b",
-      "provider": "lm-studio",
-      "enabled": true,
-      "isBuiltIn": false,
-      "baseUrl": "http://127.0.0.1:1234/v1",
-      "apiKey": "",
-      "isEmbeddingModel": false,
-      "capabilities": [
+        "websearch",
         "reasoning"
       ],
       "stream": true,
-      "displayName": "Deepseek R1 (Local)",
+      "displayName": "Deepseek R1",
       "enableCors": true
     }
   ],
@@ -166,7 +151,7 @@
       "core": true
     },
     {
-      "name": "text-embedding-nomic-text-v1.5-embedding",
+      "name": "text-embedding-nomic-embed-text-v1.5",
       "provider": "lm-studio",
       "enabled": true,
       "isBuiltIn": false,
@@ -174,7 +159,7 @@
       "apiKey": "",
       "isEmbeddingModel": true,
       "capabilities": [],
-      "displayName": "Nomic Embed Text V1.5",
+      "displayName": "Nomic Text Embedding v1.5",
       "enableCors": true
     }
   ],
