@@ -18,15 +18,28 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -1.390951880754531
+                  "zoom": -0.1113698142769439
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "65d56b0c2266372c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDF's/(CMPU 1025) Programming/Notes 22 - Structures part 3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Notes 22 - Structures part 3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.51103591918945,
-    "collapsed": true
+    "width": 339.51103591918945
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -184,9 +196,20 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "65d56b0c2266372c",
   "lastOpenFiles": [
+    "College/Modules/Programming/Unsorted/Nested Structures.md",
+    "PDF's/(CMPU 1025) Programming/Notes 22 - Structures part 3.pdf",
     "Home Page/Home.canvas",
+    "PDF's/(CMPU 1025) Programming/Notes 21 - Structures part 2.pdf",
+    "PDF's/(CMPU 1025) Programming/Notes 24 - File IO part 1.pdf",
+    "PDF's/(CMPU 1025) Programming/Notes 23 - Structures part 4.pdf",
+    "PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 8 - Programming Tutorial.pdf",
+    "PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 7 - Programming Tutorial.pdf",
+    "PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 6 - Programming Tutorial.pdf",
+    "PDF's/(CMPU 1025) Programming/Tutorials/Week 8 - Sem 2 - Programming Tutorial.pdf",
+    "PDF's/(CMPU 1025) Programming/Tutorials/Week 7 - Sem 2 - Programming Tutorial.pdf",
+    "PDF's/(CMPU 1025) Programming/Tutorials/Week 6 - Sem 2 - Programming Tutorial.pdf",
     "College/Modules/Programming/Arrays - C.md",
     "Notes/Arch Linux - Installation.md",
     "College/Modules/Programming/Pointers - C.md",
@@ -208,22 +231,11 @@
     "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
     "College/Modules/Programming/Incrementing & Decrementing - C.md",
     "College/Modules/Microprocessors Systems/Assembly 1.md",
-    "PDF's/(CMPU 1025) Programming/Tutorials/City Rent-A-Car Group30.graphml",
     "PDF's/(CMPU 1025) Programming/Tutorials/Screenshot 2025-02-07 135841.png",
-    "PDF's/(CMPU 1025) Programming/Tutorials/Lab 6 - More Sorting v2.docx",
-    "PDF's/(CMPU 1025) Programming/Tutorials/Lab 5 - Starting Sorting.docx",
     "UNSORTED/Iterative Algorithms.md",
     "College/Modules/Algorithm Design and Problem Solving/$ Algorithms.md",
     "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursion.md",
     "College/Modules/Algorithm Design and Problem Solving/Basic Iterative Algorithms.md",
-    "College/Modules/Algorithm Design and Problem Solving/Recursive Algorithms.md",
-    "College/Modules/Algorithm Design and Problem Solving/Unsorted",
-    "College/Modules/Algorithm Design and Problem Solving/New folder",
-    "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1 Week 8 - Programming Tutorial.pdf",
-    "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1 Week 6 - Programming Tutorial.pdf",
-    "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1 Week 5 - Programming Tutorial.pdf",
-    "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1 Week 11 - Programming Tutorial.pdf",
-    "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1 Week 10 - Programming Tutorial.pdf",
     "Other/Pasted image 20250304113410.png",
     "Other/Pasted image 20250303154712.png",
     "Other/Pasted image 20250228110208.png",

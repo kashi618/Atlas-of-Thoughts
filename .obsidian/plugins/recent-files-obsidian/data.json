@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Notes 22 - Structures part 3",
+      "path": "PDF's/(CMPU 1025) Programming/Notes 22 - Structures part 3.pdf"
+    },
+    {
+      "basename": "Nested Structures",
+      "path": "College/Modules/Programming/Unsorted/Nested Structures.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Notes 21 - Structures part 2",
+      "path": "PDF's/(CMPU 1025) Programming/Notes 21 - Structures part 2.pdf"
     },
     {
       "basename": "Arrays - C",
@@ -187,18 +199,6 @@
     {
       "basename": "Faster Character Input Output - C",
       "path": "College/Modules/Programming/Faster Character Input Output - C.md"
-    },
-    {
-      "basename": "free() - C",
-      "path": "College/Modules/Programming/Unsorted/free() - C.md"
-    },
-    {
-      "basename": "Edison Effect",
-      "path": "Notes/Edison Effect.md"
-    },
-    {
-      "basename": "Flight 2024",
-      "path": "Notes/Flight 2024.md"
     }
   ],
   "omittedPaths": [],
