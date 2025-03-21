@@ -16,9 +16,9 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -395.1624097600768,
-                  "y": -89.40686772135292,
-                  "zoom": -0.5909518807545309
+                  "x": -240,
+                  "y": -45,
+                  "zoom": -1.390951880754531
                 }
               },
               "pinned": true,
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.51103591918945
+    "width": 339.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -183,7 +184,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "d2ebd37e427e03bf",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Home Page/Home.canvas",
     "College/Modules/Programming/Arrays - C.md",
