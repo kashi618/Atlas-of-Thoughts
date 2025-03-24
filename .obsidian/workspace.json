@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Notes/Archlinux - Network Manager - Eduroam.md",
+                "file": "3. Notes/Arch Linux - Adding Drives.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Archlinux - Network Manager - Eduroam"
+              "title": "Arch Linux - Adding Drives"
             }
           }
         ],
@@ -199,8 +199,9 @@
   },
   "active": "92056fa4b5bdb2f8",
   "lastOpenFiles": [
+    "3. Notes/Arch Linux - Installation.md",
+    "3. Notes/Arch Linux - Network Manager - eduroam.md",
     "1. Home Page/Home.canvas",
-    "3. Notes/Archlinux - Network Manager - Eduroam.md",
     "2. University/Modules/Algorithm Design and Problem Solving/Structured English.md",
     "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithm Design.md",
     "7. UNSORTED/Example Iterative Algorithms.md",

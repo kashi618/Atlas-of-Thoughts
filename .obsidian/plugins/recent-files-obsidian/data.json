@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Archlinux - Network Manager - Eduroam",
-      "path": "3. Notes/Archlinux - Network Manager - Eduroam.md"
+      "basename": "Arch Linux - Adding Drives",
+      "path": "3. Notes/Arch Linux - Adding Drives.md"
+    },
+    {
+      "basename": "Arch Linux - Installation",
+      "path": "3. Notes/Arch Linux - Installation.md"
+    },
+    {
+      "basename": "Arch Linux - Network Manager - eduroam",
+      "path": "3. Notes/Arch Linux - Network Manager - eduroam.md"
     },
     {
       "basename": "Home",
@@ -165,10 +173,6 @@
       "path": "PDF's/(CMPU 1025) Programming/Notes 21 - Structures part 2.pdf"
     },
     {
-      "basename": "Arch Linux - Installation",
-      "path": "3. Notes/Arch Linux - Installation.md"
-    },
-    {
       "basename": "Pointers - C",
       "path": "College/Modules/Programming/Unsorted/Pointers - C.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Archlinux Rice - LainOS",
       "path": "3. Notes/Archlinux Rice - LainOS.md"
-    },
-    {
-      "basename": "Arch Linux - Adding Drives",
-      "path": "3. Notes/Arch Linux - Adding Drives.md"
     }
   ],
   "omittedPaths": [],
