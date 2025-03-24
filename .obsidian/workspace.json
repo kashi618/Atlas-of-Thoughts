@@ -25,8 +25,57 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "130dadc77f2c029d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Modules/Programming/$ C - Programming Language.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ C - Programming Language"
+            }
+          },
+          {
+            "id": "1835e30fd48798f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pass by Reference & Pass by Value - C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Pass by Reference & Pass by Value - C"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,12 +221,15 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "1835e30fd48798f0",
   "lastOpenFiles": [
+    "Pass by Reference & Pass by Value - C.md",
+    "2. University/Modules/Programming/$ C - Programming Language.md",
+    "2. University/Modules/Programming/Functions - C.md",
+    "1. Home Page/Home.canvas",
     "3. Notes/Arch Linux - Adding Drives.md",
     "3. Notes/Arch Linux - Installation.md",
     "3. Notes/Arch Linux - Network Manager - eduroam.md",
-    "1. Home Page/Home.canvas",
     "2. University/Modules/Algorithm Design and Problem Solving/Structured English.md",
     "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithm Design.md",
     "7. UNSORTED/Example Iterative Algorithms.md",
@@ -199,8 +251,6 @@
     "6. Templates/1025 Programming Template.md",
     "6. Templates/1024 Program Design Template.md",
     "6. Templates/1018 Mathematics 1 Template.md",
-    "6. Templates/1012 IT Fundamentals Template.md",
-    "6. Templates/1005 Communications Template.md",
     "6. Templates",
     "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 8 - Programming Tutorial.pdf",
     "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 7 - Programming Tutorial.pdf",
@@ -210,7 +260,6 @@
     "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 3 - Programming Tutorial.pdf",
     "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 2 - Programming Tutorial.pdf",
     "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 1 - Programming Tutorial.pdf",
-    "6. UNSORTED/Example Iterative Algorithms.md",
     "4. Other/obsidian-icon.png",
     "4. Other/obamna.gif",
     "4. Other/explosion.gif",

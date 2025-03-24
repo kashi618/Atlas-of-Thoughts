@@ -24,6 +24,7 @@ int main(void) {
 }
 ```
 NOTE: in this case, the function is declared before the main function. Generally this is bad example, but for the sake of an example, lets ignore it. Please check out
+
 ## Function Signatures
 Also known as function prototypes. These are used to declare a function before the main function. It informs the compiler about what other functions are present in the program, so that it may go to it when it is called in main.
 ```c showlinenumbers
