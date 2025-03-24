@@ -36,11 +36,5 @@
   },
   "Templates/2) Area": "LiArrowRightFromLine",
   "Templates/4) Archive": "LiArrowRightFromLine",
-  "College": "LiCalendarDays",
-  "Home Page": "LiHome",
-  "Notes": "LiStickyNote",
-  "Templates": "LiFolders",
-  "Other": "LiPanelBottomInactive",
-  "Library": "LiLibraryBig",
-  "PDF's": "LiNewspaper"
+  "Library": "LiLibraryBig"
 }

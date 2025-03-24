@@ -14,68 +14,19 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "1. Home Page/Home.canvas",
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -0.1113698142769439
+                  "zoom": -1.298439741964993
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "b4b308aa4b632064",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Algorithm Design and Problem Solving/$ Algorithm Design.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ Algorithm Design"
-            }
-          },
-          {
-            "id": "968bcf90ea603da2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Modules/Algorithm Design and Problem Solving/Time Complexity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Time Complexity"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,54 +172,55 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "b4b308aa4b632064",
+  "active": "3bd19bba09e6f6f0",
   "lastOpenFiles": [
-    "PDF's/(CMPU 1001) Algorithm Design and Problem Solving/Lab 8 Merge sort _ Searching Algorithms.docx",
-    "PDF's/(CMPU 1001) Algorithm Design and Problem Solving/Lab 4 discussion.pdf",
-    "PDF's/(CMPU 1001) Algorithm Design and Problem Solving/Class 2 .1 - Recursion.pdf",
-    "College/Modules/Algorithm Design and Problem Solving/Time Complexity.md",
-    "College/Modules/Algorithm Design and Problem Solving/$ Algorithm Design.md",
-    "College/Modules/Algorithm Design and Problem Solving/Selection Sort.md",
-    "College/Modules/Algorithm Design and Problem Solving/Recursive Fibonacci Algorithm.md",
-    "College/Modules/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md",
-    "College/Modules/Algorithm Design and Problem Solving/Factorial Algorithm.md",
-    "College/Modules/Algorithm Design and Problem Solving/Exponents Algorithm.md",
-    "College/Modules/Algorithm Design and Problem Solving/Algorithms.md",
-    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Iterative Algorithms.md",
-    "UNSORTED/Example Iterative Algorithms.md",
-    "College/Modules/Algorithm Design and Problem Solving/Pseudocode.md",
-    "College/Modules/Algorithm Design and Problem Solving/Structured English.md",
-    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursive Exponents Algorithm.md",
-    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursive Factorial Algorithm.md",
-    "Templates/AAlgorithms.md",
-    "UNSORTED/Untitled.md",
-    "UNSORTED/Types of Algorithms.md",
-    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursion.md",
-    "College/Modules/Algorithm Design and Problem Solving/Recursive Algorithms.md",
-    "Home Page/Home.canvas",
-    "College/Modules/Programming/Unsorted/FunctionsUNFINISHED - C.md",
-    "College/Modules/Programming/Functions - C.md",
-    "College/Modules/Programming/Order of Code - C.md",
-    "College/Modules/Programming/$ C - Programming Language.md",
-    "College/Modules/Programming/Multi-Dimensional Arrays - C.md",
-    "College/Modules/Programming/Dynamic Memory Allocation - C.md",
-    "PDF's/(CMPU 1025) Programming/Notes 10 - Pointers and Arrays.pdf",
-    "PDF's/(CMPU 1025) Programming/Notes 9 - Pointers.pdf",
-    "PDF's/(CMPU 1025) Programming/Notes 8 - Arrays (part 3).pdf",
-    "PDF's/(CMPU 1025) Programming/Notes 22 - Structures part 3.pdf",
-    "PDF's/(CMPU 1025) Programming/Notes 21 - Structures part 2.pdf",
-    "PDF's/(CMPU 1025) Programming/Notes 24 - File IO part 1.pdf",
-    "PDF's/(CMPU 1025) Programming/Notes 23 - Structures part 4.pdf",
-    "PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 8 - Programming Tutorial.pdf",
-    "Other/Pasted image 20250312092722.png",
-    "PDF's/(CMPU 1025) Programming/Tutorials/Screenshot 2025-02-07 135841.png",
-    "Other/Pasted image 20250304113410.png",
-    "Other/Pasted image 20250303154712.png",
-    "Other/Pasted image 20250228110208.png",
-    "Other/Pasted image 20250227230328.png",
-    "Other/Pasted image 20250227212729.png",
-    "Other/Pasted image 20250227212529.png",
-    "Other/Pasted image 20250227212509.png",
-    "Other/Pasted image 20250227212430.png"
+    "2. University/Modules/Algorithm Design and Problem Solving/Structured English.md",
+    "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithm Design.md",
+    "1. Home Page/Home.canvas",
+    "1. Home Page/Home.canvas",
+    "7. UNSORTED/Example Iterative Algorithms.md",
+    "7. UNSORTED",
+    "6. Templates/Pseudocode 1.md",
+    "6. Templates/OUTPUT.md",
+    "6. Templates/OOperating Systems.md",
+    "6. Templates/Library Template.md",
+    "6. Templates/JS code.md",
+    "6. Templates/Ccode.md",
+    "6. Templates/CC.md",
+    "6. Templates/Book Review Template.md",
+    "6. Templates/Base JavaScript.md",
+    "6. Templates/Base C.md",
+    "6. Templates/BB.md",
+    "6. Templates/AAlgorithms.md",
+    "6. Templates/A.md",
+    "6. Templates/1031 Web Development Template.md",
+    "6. Templates/1025 Programming Template.md",
+    "6. Templates/1024 Program Design Template.md",
+    "6. Templates/1018 Mathematics 1 Template.md",
+    "6. Templates/1012 IT Fundamentals Template.md",
+    "6. Templates/1005 Communications Template.md",
+    "6. Templates",
+    "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 8 - Programming Tutorial.pdf",
+    "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 7 - Programming Tutorial.pdf",
+    "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 6 - Programming Tutorial.pdf",
+    "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 5 - Programming Tutorial.pdf",
+    "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 4 - Programming Tutorial.pdf",
+    "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 3 - Programming Tutorial.pdf",
+    "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 2 - Programming Tutorial.pdf",
+    "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 1 - Programming Tutorial.pdf",
+    "6. UNSORTED/Example Iterative Algorithms.md",
+    "5. Templates/Pseudocode 1.md",
+    "5. Templates/OUTPUT.md",
+    "5. Templates/OOperating Systems.md",
+    "4. Other/obsidian-icon.png",
+    "4. Other/obamna.gif",
+    "4. Other/explosion.gif",
+    "4. Other/Ram Allocation.png",
+    "4. Other/RTX4070 (mobile) Voltage Frequency Curve.png",
+    "4. Other/RTX4070 (mobile) Stock Kombustor.png",
+    "4. Other/RTX4070 (mobile) Stock HWINFO.png",
+    "4. Other/RTX4070 (mobile) Overclocked Undervolted Kombustor.png",
+    "4. Other/RTX4070 (mobile) Overclocked Undervolted HWINFO.png",
+    "4. Other/Pasted image 20250312092722.png"
   ]
 }

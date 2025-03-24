@@ -1,40 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Structured English",
+      "path": "2. University/Modules/Algorithm Design and Problem Solving/Structured English.md"
+    },
+    {
       "basename": "$ Algorithm Design",
-      "path": "College/Modules/Algorithm Design and Problem Solving/$ Algorithm Design.md"
+      "path": "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithm Design.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Time Complexity",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Time Complexity.md"
+      "path": "2. University/Modules/Algorithm Design and Problem Solving/Time Complexity.md"
     },
     {
       "basename": "Selection Sort",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Selection Sort.md"
+      "path": "2. University/Modules/Algorithm Design and Problem Solving/Selection Sort.md"
     },
     {
       "basename": "Recursive Fibonacci Algorithm",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Recursive Fibonacci Algorithm.md"
+      "path": "2. University/Modules/Algorithm Design and Problem Solving/Recursive Fibonacci Algorithm.md"
     },
     {
       "basename": "Recursive Euclidean Algorithm",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md"
+      "path": "2. University/Modules/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md"
     },
     {
       "basename": "Factorial Algorithm",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Factorial Algorithm.md"
+      "path": "2. University/Modules/Algorithm Design and Problem Solving/Factorial Algorithm.md"
     },
     {
       "basename": "Exponents Algorithm",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Exponents Algorithm.md"
+      "path": "2. University/Modules/Algorithm Design and Problem Solving/Exponents Algorithm.md"
     },
     {
       "basename": "Algorithms",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Algorithms.md"
+      "path": "2. University/Modules/Algorithm Design and Problem Solving/Algorithms.md"
     },
     {
       "basename": "Iterative Algorithms",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Unsorted/Iterative Algorithms.md"
+      "path": "2. University/Modules/Algorithm Design and Problem Solving/Unsorted/Iterative Algorithms.md"
     },
     {
       "basename": "Example Iterative Algorithms",
@@ -42,19 +54,15 @@
     },
     {
       "basename": "Pseudocode",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Pseudocode.md"
-    },
-    {
-      "basename": "Structured English",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Structured English.md"
+      "path": "2. University/Modules/Algorithm Design and Problem Solving/Pseudocode.md"
     },
     {
       "basename": "Recursive Exponents Algorithm",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursive Exponents Algorithm.md"
+      "path": "2. University/Modules/Algorithm Design and Problem Solving/Unsorted/Recursive Exponents Algorithm.md"
     },
     {
       "basename": "Recursive Factorial Algorithm",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursive Factorial Algorithm.md"
+      "path": "2. University/Modules/Algorithm Design and Problem Solving/Unsorted/Recursive Factorial Algorithm.md"
     },
     {
       "basename": "AAlgorithms",
@@ -62,51 +70,47 @@
     },
     {
       "basename": "Recursion",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursion.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
+      "path": "2. University/Modules/Algorithm Design and Problem Solving/Unsorted/Recursion.md"
     },
     {
       "basename": "FunctionsUNFINISHED - C",
-      "path": "College/Modules/Programming/Unsorted/FunctionsUNFINISHED - C.md"
+      "path": "2. University/Modules/Programming/Unsorted/FunctionsUNFINISHED - C.md"
     },
     {
       "basename": "Functions - C",
-      "path": "College/Modules/Programming/Functions - C.md"
+      "path": "2. University/Modules/Programming/Functions - C.md"
     },
     {
       "basename": "Order of Code - C",
-      "path": "College/Modules/Programming/Order of Code - C.md"
+      "path": "2. University/Modules/Programming/Order of Code - C.md"
     },
     {
       "basename": "$ C - Programming Language",
-      "path": "College/Modules/Programming/$ C - Programming Language.md"
+      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
     },
     {
       "basename": "Multi-Dimensional Arrays - C",
-      "path": "College/Modules/Programming/Multi-Dimensional Arrays - C.md"
+      "path": "2. University/Modules/Programming/Multi-Dimensional Arrays - C.md"
     },
     {
       "basename": "Wishlist",
-      "path": "Notes/Wishlist.md"
+      "path": "3. Notes/Wishlist.md"
     },
     {
       "basename": "Dynamic Memory Allocation - C",
-      "path": "College/Modules/Programming/Dynamic Memory Allocation - C.md"
+      "path": "2. University/Modules/Programming/Dynamic Memory Allocation - C.md"
     },
     {
       "basename": "Dynamic Memory AllocationUNFINISHED - C",
-      "path": "College/Modules/Programming/Unsorted/Dynamic Memory AllocationUNFINISHED - C.md"
+      "path": "2. University/Modules/Programming/Unsorted/Dynamic Memory AllocationUNFINISHED - C.md"
     },
     {
       "basename": "Dereference Operators - C",
-      "path": "College/Modules/Programming/Dereference Operators - C.md"
+      "path": "2. University/Modules/Programming/Dereference Operators - C.md"
     },
     {
       "basename": "Subscript and Pointer Notation - C",
-      "path": "College/Modules/Programming/Subscript and Pointer Notation - C.md"
+      "path": "2. University/Modules/Programming/Subscript and Pointer Notation - C.md"
     },
     {
       "basename": "Notes 10 - Pointers and Arrays",
@@ -114,23 +118,23 @@
     },
     {
       "basename": "Arrays - C",
-      "path": "College/Modules/Programming/Arrays - C.md"
+      "path": "2. University/Modules/Programming/Arrays - C.md"
     },
     {
       "basename": "Pointers and Arrays - C",
-      "path": "College/Modules/Programming/Unsorted/Pointers and Arrays - C.md"
+      "path": "2. University/Modules/Programming/Unsorted/Pointers and Arrays - C.md"
     },
     {
       "basename": "Arithmetic Operations and Expressions - C",
-      "path": "College/Modules/Programming/Arithmetic Operations and Expressions - C.md"
+      "path": "2. University/Modules/Programming/Arithmetic Operations and Expressions - C.md"
     },
     {
       "basename": "Incrementing & Decrementing - C",
-      "path": "College/Modules/Programming/Incrementing & Decrementing - C.md"
+      "path": "2. University/Modules/Programming/Incrementing & Decrementing - C.md"
     },
     {
       "basename": "Pointers - C",
-      "path": "College/Modules/Programming/Pointers - C.md"
+      "path": "2. University/Modules/Programming/Pointers - C.md"
     },
     {
       "basename": "Notes 9 - Pointers",
@@ -138,7 +142,7 @@
     },
     {
       "basename": "Variables - C",
-      "path": "College/Modules/Programming/Variables - C.md"
+      "path": "2. University/Modules/Programming/Variables - C.md"
     },
     {
       "basename": "Notes 8 - Arrays (part 3)",
@@ -146,7 +150,7 @@
     },
     {
       "basename": "Nested Structures",
-      "path": "College/Modules/Programming/Unsorted/Nested Structures.md"
+      "path": "2. University/Modules/Programming/Unsorted/Nested Structures.md"
     },
     {
       "basename": "Notes 22 - Structures part 3",
@@ -158,7 +162,7 @@
     },
     {
       "basename": "Arch Linux - Installation",
-      "path": "Notes/Arch Linux - Installation.md"
+      "path": "3. Notes/Arch Linux - Installation.md"
     },
     {
       "basename": "Pointers - C",
@@ -166,39 +170,35 @@
     },
     {
       "basename": "CPU Scheduling",
-      "path": "College/Modules/Operating Systems/Unsorted Notes/CPU Scheduling.md"
+      "path": "2. University/Modules/Operating Systems/Unsorted Notes/CPU Scheduling.md"
     },
     {
       "basename": "Processes",
-      "path": "College/Modules/Operating Systems/Unsorted Notes/Processes.md"
+      "path": "2. University/Modules/Operating Systems/Unsorted Notes/Processes.md"
     },
     {
       "basename": "Software - Hardware",
-      "path": "College/Modules/Operating Systems/Software - Hardware.md"
+      "path": "2. University/Modules/Operating Systems/Software - Hardware.md"
     },
     {
       "basename": "Drivers",
-      "path": "College/Modules/Operating Systems/Drivers.md"
+      "path": "2. University/Modules/Operating Systems/Drivers.md"
     },
     {
       "basename": "$ Operating Systems",
-      "path": "College/Modules/Operating Systems/$ Operating Systems.md"
+      "path": "2. University/Modules/Operating Systems/$ Operating Systems.md"
     },
     {
       "basename": "Archlinux Rice - LainOS",
-      "path": "Notes/Archlinux Rice - LainOS.md"
+      "path": "3. Notes/Archlinux Rice - LainOS.md"
     },
     {
       "basename": "Arch Linux - Adding Drives",
-      "path": "Notes/Arch Linux - Adding Drives.md"
+      "path": "3. Notes/Arch Linux - Adding Drives.md"
     },
     {
       "basename": "Compiler",
-      "path": "College/Modules/Programming/Unsorted/Compiler.md"
-    },
-    {
-      "basename": "Compiling C",
-      "path": "College/Modules/Programming/Unsorted/Compiling C.md"
+      "path": "2. University/Modules/Programming/Unsorted/Compiler.md"
     }
   ],
   "omittedPaths": [],
