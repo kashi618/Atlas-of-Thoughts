@@ -52,5 +52,3 @@ aliases: []
 **Functions**
 - [[Functions - C]]
 - [[Pass by Reference & Pass by Value - C]]
-# Related
-

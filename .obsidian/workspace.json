@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -0.1113698142769439
+                  "zoom": -1.298439741964993
                 }
               },
               "pinned": true,
@@ -27,31 +27,7 @@
             }
           },
           {
-            "id": "130dadc77f2c029d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Modules/Programming/$ C - Programming Language.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ C - Programming Language"
-            }
-          },
-          {
-            "id": "1835e30fd48798f0",
+            "id": "b58597a39a863b4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -75,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,12 +197,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "1835e30fd48798f0",
+  "active": "b58597a39a863b4d",
   "lastOpenFiles": [
-    "Pass by Reference & Pass by Value - C.md",
     "2. University/Modules/Programming/$ C - Programming Language.md",
-    "2. University/Modules/Programming/Functions - C.md",
     "1. Home Page/Home.canvas",
+    "Pass by Reference & Pass by Value - C.md",
+    "2. University/Modules/Programming/Functions - C.md",
     "3. Notes/Arch Linux - Adding Drives.md",
     "3. Notes/Arch Linux - Installation.md",
     "3. Notes/Arch Linux - Network Manager - eduroam.md",
@@ -250,7 +226,6 @@
     "6. Templates/1031 Web Development Template.md",
     "6. Templates/1025 Programming Template.md",
     "6. Templates/1024 Program Design Template.md",
-    "6. Templates/1018 Mathematics 1 Template.md",
     "6. Templates",
     "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 8 - Programming Tutorial.pdf",
     "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 7 - Programming Tutorial.pdf",
