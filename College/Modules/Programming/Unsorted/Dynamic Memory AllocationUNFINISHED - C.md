@@ -1,13 +1,9 @@
 ---
 tags:
   - C
-  - ComputerScience
-  - DynamicMemoryAllocation
-  - Memorey
-  - UNFINISHED
 ---
 Sometimes there are situations where we have an array. However, we do not know how much memory is required when the program is run. Therefore, we need to allocate the memory dynamically, as the program is running. This can be done is 2 ways..
-
+DMA is used when you are unsure how 
 ## malloc()
 Allocated a contiguous block of memory, and returns a pointer to the start of the allocated block
 ```c showlinenumbers

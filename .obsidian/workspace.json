@@ -16,9 +16,9 @@
               "state": {
                 "file": "Home Page/Home.canvas",
                 "viewState": {
-                  "x": -635.3750900957838,
-                  "y": 326.3316804021582,
-                  "zoom": -0.11136981427694392
+                  "x": -240,
+                  "y": -45,
+                  "zoom": -0.8479969065549502
                 }
               },
               "pinned": true,
@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "771f26f83fe51838",
+            "id": "f2bbb48bdacc9e49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Modules/Programming/$ C - Programming Language.md",
+                "file": "College/Modules/Programming/Order of Code - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,16 +47,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ C - Programming Language"
+              "title": "Order of Code - C"
             }
           },
           {
-            "id": "3b6be1bf1c25fd08",
+            "id": "d1a0e033ec1d8c93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Modules/Programming/Pointers - C.md",
+                "file": "College/Modules/Programming/Functions - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,7 +71,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pointers - C"
+              "title": "Functions - C"
             }
           }
         ],
@@ -104,26 +104,16 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "d2ebd37e427e03bf",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -139,13 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Page/Home.canvas",
+                "file": "College/Modules/Programming/Unsorted/FunctionsUNFINISHED - C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of FunctionsUNFINISHED - C"
             }
           },
           {
@@ -212,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5,
+    "width": 271.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -237,42 +227,70 @@
     "type": "floating",
     "children": [
       {
-        "id": "c586a41634018fd0",
+        "id": "8c4df71a2ed989d2",
         "type": "window",
         "children": [
           {
-            "id": "a8068deca6e41d54",
+            "id": "abe8d952b81335c6",
             "type": "tabs",
             "children": [
               {
-                "id": "dbe7dcdf8ee4177c",
+                "id": "375d9bc98588222d",
                 "type": "leaf",
                 "state": {
-                  "type": "pdf",
+                  "type": "markdown",
                   "state": {
-                    "file": "PDF's/(CMPU 1025) Programming/Notes 8 - Arrays (part 3).pdf"
+                    "file": "College/Modules/Programming/Unsorted/FunctionsUNFINISHED - C.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
                   },
-                  "icon": "lucide-file-text",
-                  "title": "Notes 8 - Arrays (part 3)"
+                  "icon": "lucide-file",
+                  "title": "FunctionsUNFINISHED - C"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 1115,
-        "y": 42,
-        "width": 793,
-        "height": 626,
+        "x": 3077,
+        "y": 182,
+        "width": 423,
+        "height": 701,
         "maximize": false,
-        "zoom": 1
+        "zoom": 0
       }
     ]
   },
-  "active": "3b6be1bf1c25fd08",
+  "active": "375d9bc98588222d",
   "lastOpenFiles": [
+    "College/Modules/Programming/Functions - C.md",
+    "College/Modules/Programming/Unsorted/FunctionsUNFINISHED - C.md",
+    "College/Modules/Programming/Order of Code - C.md",
     "College/Modules/Programming/$ C - Programming Language.md",
+    "College/Modules/Programming/Multi-Dimensional Arrays - C.md",
     "Home Page/Home.canvas",
+    "College/Modules/Programming/Dynamic Memory Allocation - C.md",
+    "College/Modules/Programming/Unsorted/Dynamic Memory AllocationUNFINISHED - C.md",
+    "College/Modules/Programming/Dereference Operators - C.md",
+    "College/Modules/Programming/Subscript and Pointer Notation - C.md",
+    "PDF's/(CMPU 1025) Programming/Notes 10 - Pointers and Arrays.pdf",
+    "College/Modules/Programming/Arrays - C.md",
+    "College/Modules/Programming/Unsorted/Pointers and Arrays - C.md",
+    "College/Modules/Programming/Arithmetic Operations and Expressions - C.md",
+    "College/Modules/Programming/Incrementing & Decrementing - C.md",
+    "College/Modules/Programming/Pointers - C.md",
+    "PDF's/(CMPU 1025) Programming/Notes 9 - Pointers.pdf",
+    "College/Modules/Programming/Variables - C.md",
     "PDF's/(CMPU 1025) Programming/Notes 8 - Arrays (part 3).pdf",
     "College/Modules/Programming/Unsorted/Nested Structures.md",
     "PDF's/(CMPU 1025) Programming/Notes 22 - Structures part 3.pdf",
@@ -282,12 +300,7 @@
     "PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 8 - Programming Tutorial.pdf",
     "PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 7 - Programming Tutorial.pdf",
     "PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 6 - Programming Tutorial.pdf",
-    "PDF's/(CMPU 1025) Programming/Tutorials/Week 8 - Sem 2 - Programming Tutorial.pdf",
-    "PDF's/(CMPU 1025) Programming/Tutorials/Week 7 - Sem 2 - Programming Tutorial.pdf",
-    "College/Modules/Programming/Arrays - C.md",
     "Notes/Arch Linux - Installation.md",
-    "College/Modules/Programming/Pointers - C.md",
-    "College/Modules/Programming/Unsorted/Dynamic Memory Allocation - C.md",
     "College/Modules/Operating Systems/Unsorted Notes/CPU Scheduling.md",
     "Other/Pasted image 20250312092722.png",
     "College/Modules/Operating Systems/Unsorted Notes/Processes.md",
@@ -298,17 +311,7 @@
     "Notes/Arch Linux - Adding Drives.md",
     "College/Modules/Programming/Unsorted/Compiler.md",
     "College/Modules/Programming/Unsorted/Compiling C.md",
-    "College/Modules/Programming/Unsorted/Structures - C.md",
-    "College/Modules/Programming/Unsorted/String Functions - C.md",
-    "College/Modules/Programming/Unsorted/Strings - C.md",
-    "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
-    "College/Modules/Programming/Incrementing & Decrementing - C.md",
-    "College/Modules/Microprocessors Systems/Assembly 1.md",
     "PDF's/(CMPU 1025) Programming/Tutorials/Screenshot 2025-02-07 135841.png",
-    "UNSORTED/Iterative Algorithms.md",
-    "College/Modules/Algorithm Design and Problem Solving/$ Algorithms.md",
-    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursion.md",
-    "College/Modules/Algorithm Design and Problem Solving/Basic Iterative Algorithms.md",
     "Other/Pasted image 20250304113410.png",
     "Other/Pasted image 20250303154712.png",
     "Other/Pasted image 20250228110208.png",

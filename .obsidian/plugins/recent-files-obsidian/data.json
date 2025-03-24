@@ -1,16 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "Pointers - C",
-      "path": "College/Modules/Programming/Pointers - C.md"
+      "basename": "FunctionsUNFINISHED - C",
+      "path": "College/Modules/Programming/Unsorted/FunctionsUNFINISHED - C.md"
+    },
+    {
+      "basename": "Functions - C",
+      "path": "College/Modules/Programming/Functions - C.md"
+    },
+    {
+      "basename": "Order of Code - C",
+      "path": "College/Modules/Programming/Order of Code - C.md"
     },
     {
       "basename": "$ C - Programming Language",
       "path": "College/Modules/Programming/$ C - Programming Language.md"
     },
     {
+      "basename": "Multi-Dimensional Arrays - C",
+      "path": "College/Modules/Programming/Multi-Dimensional Arrays - C.md"
+    },
+    {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
+    },
+    {
+      "basename": "Wishlist",
+      "path": "Notes/Wishlist.md"
+    },
+    {
+      "basename": "Dynamic Memory Allocation - C",
+      "path": "College/Modules/Programming/Dynamic Memory Allocation - C.md"
+    },
+    {
+      "basename": "Dynamic Memory AllocationUNFINISHED - C",
+      "path": "College/Modules/Programming/Unsorted/Dynamic Memory AllocationUNFINISHED - C.md"
+    },
+    {
+      "basename": "Dereference Operators - C",
+      "path": "College/Modules/Programming/Dereference Operators - C.md"
+    },
+    {
+      "basename": "Subscript and Pointer Notation - C",
+      "path": "College/Modules/Programming/Subscript and Pointer Notation - C.md"
+    },
+    {
+      "basename": "Notes 10 - Pointers and Arrays",
+      "path": "PDF's/(CMPU 1025) Programming/Notes 10 - Pointers and Arrays.pdf"
+    },
+    {
+      "basename": "Arrays - C",
+      "path": "College/Modules/Programming/Arrays - C.md"
+    },
+    {
+      "basename": "Pointers and Arrays - C",
+      "path": "College/Modules/Programming/Unsorted/Pointers and Arrays - C.md"
+    },
+    {
+      "basename": "Arithmetic Operations and Expressions - C",
+      "path": "College/Modules/Programming/Arithmetic Operations and Expressions - C.md"
+    },
+    {
+      "basename": "Incrementing & Decrementing - C",
+      "path": "College/Modules/Programming/Incrementing & Decrementing - C.md"
+    },
+    {
+      "basename": "Pointers - C",
+      "path": "College/Modules/Programming/Pointers - C.md"
+    },
+    {
+      "basename": "Notes 9 - Pointers",
+      "path": "PDF's/(CMPU 1025) Programming/Notes 9 - Pointers.pdf"
+    },
+    {
+      "basename": "Variables - C",
+      "path": "College/Modules/Programming/Variables - C.md"
     },
     {
       "basename": "Notes 8 - Arrays (part 3)",
@@ -29,20 +93,12 @@
       "path": "PDF's/(CMPU 1025) Programming/Notes 21 - Structures part 2.pdf"
     },
     {
-      "basename": "Arrays - C",
-      "path": "College/Modules/Programming/Arrays - C.md"
-    },
-    {
       "basename": "Arch Linux - Installation",
       "path": "Notes/Arch Linux - Installation.md"
     },
     {
       "basename": "Pointers - C",
       "path": "College/Modules/Programming/Unsorted/Pointers - C.md"
-    },
-    {
-      "basename": "Dynamic Memory Allocation - C",
-      "path": "College/Modules/Programming/Unsorted/Dynamic Memory Allocation - C.md"
     },
     {
       "basename": "CPU Scheduling",
@@ -97,10 +153,6 @@
       "path": "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md"
     },
     {
-      "basename": "Incrementing & Decrementing - C",
-      "path": "College/Modules/Programming/Incrementing & Decrementing - C.md"
-    },
-    {
       "basename": "Assembly 1",
       "path": "College/Modules/Microprocessors Systems/Assembly 1.md"
     },
@@ -147,58 +199,6 @@
     {
       "basename": "Call Stack",
       "path": "College/Modules/Algorithm Design and Problem Solving/Call Stack.md"
-    },
-    {
-      "basename": "Sem 1 Week 11 - Programming Tutorial",
-      "path": "PDF's/(CMPU 1025) Programming/Tutorials/Sem 1 Week 11 - Programming Tutorial.pdf"
-    },
-    {
-      "basename": "All Tomorrows",
-      "path": "PDF's/All Tomorrows.pdf"
-    },
-    {
-      "basename": "TU856-1 Results",
-      "path": "College/TU856-1/TU856-1 Results.md"
-    },
-    {
-      "basename": "Study Plan Semester 2",
-      "path": "College/TU856-1/Study Plan Semester 2.md"
-    },
-    {
-      "basename": "Data Types - C",
-      "path": "College/Modules/Programming/Data Types - C.md"
-    },
-    {
-      "basename": "Escape Sequence - C",
-      "path": "College/Modules/Programming/Escape Sequence - C.md"
-    },
-    {
-      "basename": "Switch Statement - C",
-      "path": "College/Modules/Programming/Switch Statement - C.md"
-    },
-    {
-      "basename": "Scope - C",
-      "path": "College/Modules/Programming/Scope - C.md"
-    },
-    {
-      "basename": "Order of Code - C",
-      "path": "College/Modules/Programming/Order of Code - C.md"
-    },
-    {
-      "basename": "Functions - C",
-      "path": "College/Modules/Programming/Unsorted/Functions - C.md"
-    },
-    {
-      "basename": "Strings and Arrays - C",
-      "path": "College/Modules/Programming/Unsorted/Strings and Arrays - C.md"
-    },
-    {
-      "basename": "Casting - C",
-      "path": "College/Modules/Programming/Casting - C.md"
-    },
-    {
-      "basename": "Keyboard Input - C",
-      "path": "College/Modules/Programming/Keyboard Input - C.md"
     }
   ],
   "omittedPaths": [],

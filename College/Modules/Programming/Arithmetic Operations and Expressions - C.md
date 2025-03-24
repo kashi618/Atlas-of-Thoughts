@@ -13,6 +13,7 @@ In C, arithmetic operations can be used. Here is a list of common operations and
 | `/`      | Division                                    |
 | `%`      | Modulus (gives the remainder of a division) |
 A faster way to add or subtract one can be found here [[Incrementing & Decrementing - C|Incrementing and decrementing]].
+
 # See Also
 [[$ C - Programming Language]]
 [[Incrementing & Decrementing - C]]

@@ -32,7 +32,7 @@ void main(void) {
 }
 
 // 5. Subsequent functions
-int coolFunction(int1, float1) {
+int coolFunction(int var1, float var2) {
 	return int1;
 }
 ```

@@ -9,7 +9,7 @@ In C, there are different ways of using data within variables in functions
 ## Auto Variables
 They are also known as **local** variables
 - All variables are assumed to be auto be default
-- They only exist within a [[Functions - C|function]]
+- They only exist within a [[FunctionsUNFINISHED - C|function]]
 - When a function ends, all data is lost/considered [[Random Data - C|random data]]
 ```c showlinenumbers
 int main() {
@@ -86,4 +86,4 @@ The extern on lines 6 and 14 tells the compiler to NOT create a variable, and to
 
 # See Also
 [[Variables - C]]
-[[Functions - C]]
+[[FunctionsUNFINISHED - C]]
