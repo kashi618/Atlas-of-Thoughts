@@ -25,8 +25,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "92056fa4b5bdb2f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Notes/Archlinux - Network Manager - Eduroam.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Archlinux - Network Manager - Eduroam"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,12 +197,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "3bd19bba09e6f6f0",
+  "active": "92056fa4b5bdb2f8",
   "lastOpenFiles": [
+    "1. Home Page/Home.canvas",
+    "3. Notes/Archlinux - Network Manager - Eduroam.md",
     "2. University/Modules/Algorithm Design and Problem Solving/Structured English.md",
     "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithm Design.md",
-    "1. Home Page/Home.canvas",
-    "1. Home Page/Home.canvas",
     "7. UNSORTED/Example Iterative Algorithms.md",
     "7. UNSORTED",
     "6. Templates/Pseudocode 1.md",
@@ -210,8 +235,6 @@
     "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 1 - Programming Tutorial.pdf",
     "6. UNSORTED/Example Iterative Algorithms.md",
     "5. Templates/Pseudocode 1.md",
-    "5. Templates/OUTPUT.md",
-    "5. Templates/OOperating Systems.md",
     "4. Other/obsidian-icon.png",
     "4. Other/obamna.gif",
     "4. Other/explosion.gif",

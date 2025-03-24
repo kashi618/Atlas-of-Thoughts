@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Archlinux - Network Manager - Eduroam",
+      "path": "3. Notes/Archlinux - Network Manager - Eduroam.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Arch Linux - Adding Drives",
       "path": "3. Notes/Arch Linux - Adding Drives.md"
-    },
-    {
-      "basename": "Compiler",
-      "path": "2. University/Modules/Programming/Unsorted/Compiler.md"
     }
   ],
   "omittedPaths": [],
