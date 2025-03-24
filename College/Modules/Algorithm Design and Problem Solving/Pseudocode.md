@@ -1,7 +1,6 @@
 ---
 tags:
-  - ComputerScience
-  - Pseudocode
+  - AlgorithmDesign
 ---
 A way of prototyping a program, written in a notion resembling a simplified programming language
 It shows the actual steps that needs to be taken
@@ -15,4 +14,5 @@ END
 ```
 
 # See Also
+[[$ Algorithm Design]]
 [[Structured English]]

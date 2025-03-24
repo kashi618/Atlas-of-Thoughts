@@ -1,3 +1,8 @@
+---
+tags:
+  - AlgorithmDesign
+aliases:
+---
 ## How does it work
 - Finds the smallest number, and swapes it into the lowest unsorted position
 
@@ -16,3 +21,6 @@ for i in range(len(A))
 
 
 ```
+
+# See Also
+[[$ Algorithm Design]]

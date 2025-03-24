@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -0.8479969065549502
+                  "zoom": -0.1113698142769439
                 }
               },
               "pinned": true,
@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "f2bbb48bdacc9e49",
+            "id": "b4b308aa4b632064",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Modules/Programming/Order of Code - C.md",
+                "file": "College/Modules/Algorithm Design and Problem Solving/$ Algorithm Design.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,16 +47,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Order of Code - C"
+              "title": "$ Algorithm Design"
             }
           },
           {
-            "id": "d1a0e033ec1d8c93",
+            "id": "968bcf90ea603da2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College/Modules/Programming/Functions - C.md",
+                "file": "College/Modules/Algorithm Design and Problem Solving/Time Complexity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,11 +71,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Functions - C"
+              "title": "Time Complexity"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -222,95 +221,46 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "floating": {
-    "id": "e90419ec3fe5fe0f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8c4df71a2ed989d2",
-        "type": "window",
-        "children": [
-          {
-            "id": "abe8d952b81335c6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "375d9bc98588222d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "College/Modules/Programming/Unsorted/FunctionsUNFINISHED - C.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "FunctionsUNFINISHED - C"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 3077,
-        "y": 182,
-        "width": 423,
-        "height": 701,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "375d9bc98588222d",
+  "active": "b4b308aa4b632064",
   "lastOpenFiles": [
-    "College/Modules/Programming/Functions - C.md",
+    "PDF's/(CMPU 1001) Algorithm Design and Problem Solving/Lab 8 Merge sort _ Searching Algorithms.docx",
+    "PDF's/(CMPU 1001) Algorithm Design and Problem Solving/Lab 4 discussion.pdf",
+    "PDF's/(CMPU 1001) Algorithm Design and Problem Solving/Class 2 .1 - Recursion.pdf",
+    "College/Modules/Algorithm Design and Problem Solving/Time Complexity.md",
+    "College/Modules/Algorithm Design and Problem Solving/$ Algorithm Design.md",
+    "College/Modules/Algorithm Design and Problem Solving/Selection Sort.md",
+    "College/Modules/Algorithm Design and Problem Solving/Recursive Fibonacci Algorithm.md",
+    "College/Modules/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md",
+    "College/Modules/Algorithm Design and Problem Solving/Factorial Algorithm.md",
+    "College/Modules/Algorithm Design and Problem Solving/Exponents Algorithm.md",
+    "College/Modules/Algorithm Design and Problem Solving/Algorithms.md",
+    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Iterative Algorithms.md",
+    "UNSORTED/Example Iterative Algorithms.md",
+    "College/Modules/Algorithm Design and Problem Solving/Pseudocode.md",
+    "College/Modules/Algorithm Design and Problem Solving/Structured English.md",
+    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursive Exponents Algorithm.md",
+    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursive Factorial Algorithm.md",
+    "Templates/AAlgorithms.md",
+    "UNSORTED/Untitled.md",
+    "UNSORTED/Types of Algorithms.md",
+    "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursion.md",
+    "College/Modules/Algorithm Design and Problem Solving/Recursive Algorithms.md",
+    "Home Page/Home.canvas",
     "College/Modules/Programming/Unsorted/FunctionsUNFINISHED - C.md",
+    "College/Modules/Programming/Functions - C.md",
     "College/Modules/Programming/Order of Code - C.md",
     "College/Modules/Programming/$ C - Programming Language.md",
     "College/Modules/Programming/Multi-Dimensional Arrays - C.md",
-    "Home Page/Home.canvas",
     "College/Modules/Programming/Dynamic Memory Allocation - C.md",
-    "College/Modules/Programming/Unsorted/Dynamic Memory AllocationUNFINISHED - C.md",
-    "College/Modules/Programming/Dereference Operators - C.md",
-    "College/Modules/Programming/Subscript and Pointer Notation - C.md",
     "PDF's/(CMPU 1025) Programming/Notes 10 - Pointers and Arrays.pdf",
-    "College/Modules/Programming/Arrays - C.md",
-    "College/Modules/Programming/Unsorted/Pointers and Arrays - C.md",
-    "College/Modules/Programming/Arithmetic Operations and Expressions - C.md",
-    "College/Modules/Programming/Incrementing & Decrementing - C.md",
-    "College/Modules/Programming/Pointers - C.md",
     "PDF's/(CMPU 1025) Programming/Notes 9 - Pointers.pdf",
-    "College/Modules/Programming/Variables - C.md",
     "PDF's/(CMPU 1025) Programming/Notes 8 - Arrays (part 3).pdf",
-    "College/Modules/Programming/Unsorted/Nested Structures.md",
     "PDF's/(CMPU 1025) Programming/Notes 22 - Structures part 3.pdf",
     "PDF's/(CMPU 1025) Programming/Notes 21 - Structures part 2.pdf",
     "PDF's/(CMPU 1025) Programming/Notes 24 - File IO part 1.pdf",
     "PDF's/(CMPU 1025) Programming/Notes 23 - Structures part 4.pdf",
     "PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 8 - Programming Tutorial.pdf",
-    "PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 7 - Programming Tutorial.pdf",
-    "PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 6 - Programming Tutorial.pdf",
-    "Notes/Arch Linux - Installation.md",
-    "College/Modules/Operating Systems/Unsorted Notes/CPU Scheduling.md",
     "Other/Pasted image 20250312092722.png",
-    "College/Modules/Operating Systems/Unsorted Notes/Processes.md",
-    "College/Modules/Operating Systems/Software - Hardware.md",
-    "College/Modules/Operating Systems/Drivers.md",
-    "College/Modules/Operating Systems/$ Operating Systems.md",
-    "Notes/Archlinux Rice - LainOS.md",
-    "Notes/Arch Linux - Adding Drives.md",
-    "College/Modules/Programming/Unsorted/Compiler.md",
-    "College/Modules/Programming/Unsorted/Compiling C.md",
     "PDF's/(CMPU 1025) Programming/Tutorials/Screenshot 2025-02-07 135841.png",
     "Other/Pasted image 20250304113410.png",
     "Other/Pasted image 20250303154712.png",

@@ -47,4 +47,3 @@ exponents(x, y)
 ```
 
 # See Also
-[[$ Algorithms]]

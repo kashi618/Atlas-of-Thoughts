@@ -1,7 +1,7 @@
 ---
 tags:
-  - ComputerScience
-  - Pseudocode
+  - AlgorithmDesign
+aliases:
 ---
 A way of prototyping a program, written using instructions written in English
 
@@ -13,4 +13,5 @@ END
 ```
 
 # See Also
+[[$ Algorithm Design]]
 [[Pseudocode]]

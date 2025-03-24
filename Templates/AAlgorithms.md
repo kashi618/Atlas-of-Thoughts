@@ -1,9 +1,9 @@
 ---
 tags:
-  - Algorithms
+  - AlgorithmDesign
 aliases:
 ---
 
 
 # See Also
-[[$ Algorithms]]
+[[$ Algorithm Design]]

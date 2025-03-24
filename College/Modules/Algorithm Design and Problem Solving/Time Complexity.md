@@ -1,3 +1,8 @@
+---
+tags:
+  - AlgorithmDesign
+aliases:
+---
 ## What is Time Complexity
 - It analysis the performance of algorithms
 
@@ -9,3 +14,7 @@ theta
 ![[Pasted image 20250228110208.png]]
 
 
+
+
+# See Also
+[[$ Algorithm Design]]

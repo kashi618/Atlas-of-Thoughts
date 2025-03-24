@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "$ Algorithm Design",
+      "path": "College/Modules/Algorithm Design and Problem Solving/$ Algorithm Design.md"
+    },
+    {
+      "basename": "Time Complexity",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Time Complexity.md"
+    },
+    {
+      "basename": "Selection Sort",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Selection Sort.md"
+    },
+    {
+      "basename": "Recursive Fibonacci Algorithm",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Recursive Fibonacci Algorithm.md"
+    },
+    {
+      "basename": "Recursive Euclidean Algorithm",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md"
+    },
+    {
+      "basename": "Factorial Algorithm",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Factorial Algorithm.md"
+    },
+    {
+      "basename": "Exponents Algorithm",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Exponents Algorithm.md"
+    },
+    {
+      "basename": "Algorithms",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Algorithms.md"
+    },
+    {
+      "basename": "Iterative Algorithms",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Unsorted/Iterative Algorithms.md"
+    },
+    {
+      "basename": "Example Iterative Algorithms",
+      "path": "UNSORTED/Example Iterative Algorithms.md"
+    },
+    {
+      "basename": "Pseudocode",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Pseudocode.md"
+    },
+    {
+      "basename": "Structured English",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Structured English.md"
+    },
+    {
+      "basename": "Recursive Exponents Algorithm",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursive Exponents Algorithm.md"
+    },
+    {
+      "basename": "Recursive Factorial Algorithm",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursive Factorial Algorithm.md"
+    },
+    {
+      "basename": "AAlgorithms",
+      "path": "Templates/AAlgorithms.md"
+    },
+    {
+      "basename": "Recursion",
+      "path": "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursion.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home Page/Home.canvas"
+    },
+    {
       "basename": "FunctionsUNFINISHED - C",
       "path": "College/Modules/Programming/Unsorted/FunctionsUNFINISHED - C.md"
     },
@@ -19,10 +87,6 @@
     {
       "basename": "Multi-Dimensional Arrays - C",
       "path": "College/Modules/Programming/Multi-Dimensional Arrays - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     },
     {
       "basename": "Wishlist",
@@ -135,70 +199,6 @@
     {
       "basename": "Compiling C",
       "path": "College/Modules/Programming/Unsorted/Compiling C.md"
-    },
-    {
-      "basename": "Structures - C",
-      "path": "College/Modules/Programming/Unsorted/Structures - C.md"
-    },
-    {
-      "basename": "String Functions - C",
-      "path": "College/Modules/Programming/Unsorted/String Functions - C.md"
-    },
-    {
-      "basename": "Strings - C",
-      "path": "College/Modules/Programming/Unsorted/Strings - C.md"
-    },
-    {
-      "basename": "Reading Strings - gets() - C",
-      "path": "College/Modules/Programming/Unsorted/Reading Strings - gets() - C.md"
-    },
-    {
-      "basename": "Assembly 1",
-      "path": "College/Modules/Microprocessors Systems/Assembly 1.md"
-    },
-    {
-      "basename": "Recursion",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursion.md"
-    },
-    {
-      "basename": "Iterative Algorithms",
-      "path": "UNSORTED/Iterative Algorithms.md"
-    },
-    {
-      "basename": "$ Algorithms",
-      "path": "College/Modules/Algorithm Design and Problem Solving/$ Algorithms.md"
-    },
-    {
-      "basename": "Recursive Algorithms",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Recursive Algorithms.md"
-    },
-    {
-      "basename": "AAlgorithms",
-      "path": "Templates/AAlgorithms.md"
-    },
-    {
-      "basename": "Recursive Exponents Algorithm",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursive Exponents Algorithm.md"
-    },
-    {
-      "basename": "Recursive Euclidean Algorithm",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Unsorted/Recursive Euclidean Algorithm.md"
-    },
-    {
-      "basename": "Iterative Euclidean Algorithm",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Unsorted/Iterative Euclidean Algorithm.md"
-    },
-    {
-      "basename": "Functional Programming Language",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Unsorted/Functional Programming Language.md"
-    },
-    {
-      "basename": "Algorithms",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Unsorted/Algorithms.md"
-    },
-    {
-      "basename": "Call Stack",
-      "path": "College/Modules/Algorithm Design and Problem Solving/Call Stack.md"
     }
   ],
   "omittedPaths": [],

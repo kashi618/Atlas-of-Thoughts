@@ -1,6 +1,7 @@
 ---
 tags:
-  - ComputerScience
+  - AlgorithmDesign
+aliases:
 ---
 ```
 gcd(a,b)
@@ -21,5 +22,4 @@ gcd(72, 30)
 
 
 # See Also
-[[Recursion]]
-[[Iterative Euclidean Algorithm]]
+[[$ Algorithm Design]]

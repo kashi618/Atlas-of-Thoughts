@@ -1,16 +1,15 @@
 ---
 tags:
-  - ComputerScience
-  - Algorithm
-  - Recursion
-  - Pseudocode
+  - AlgorithmDesign
+aliases:
 ---
+## Code
 ```c
 int fib(int n) {
 	if (n == 0) {
 		return 0;	
 	}
-	if (n = 1) {
+	if (n == 1) {
 		return 0;
 	}
 
@@ -30,3 +29,4 @@ fib(5)
 ![[Pasted image 20250207115824.png|500]]
 
 # See Also
+[[$ Algorithm Design]]
