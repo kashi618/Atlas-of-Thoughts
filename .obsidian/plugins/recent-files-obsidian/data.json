@@ -5,12 +5,20 @@
       "path": "2. University/Modules/Programming/$ C - Programming Language.md"
     },
     {
-      "basename": "$U - File InputOutput - C",
-      "path": "2. University/Modules/Programming/$ Unfinished - File Input/$U - File InputOutput - C.md"
+      "basename": "Pass by Reference & Pass by Value - C",
+      "path": "Pass by Reference & Pass by Value - C.md"
+    },
+    {
+      "basename": "$U - File Modes - C",
+      "path": "$U - File Modes - C.md"
     },
     {
       "basename": "$U - Types of Files",
       "path": "2. University/Modules/Programming/$U - Types of Files.md"
+    },
+    {
+      "basename": "$U - File InputOutput - C",
+      "path": "2. University/Modules/Programming/$ Unfinished - File Input/$U - File InputOutput - C.md"
     },
     {
       "basename": "Home",
@@ -31,10 +39,6 @@
     {
       "basename": "Structures - C",
       "path": "2. University/Modules/Programming/Unsorted/Structures - C.md"
-    },
-    {
-      "basename": "Pass by Reference & Pass by Value - C",
-      "path": "Pass by Reference & Pass by Value - C.md"
     },
     {
       "basename": "Functions - C",
@@ -195,10 +199,6 @@
     {
       "basename": "Notes 21 - Structures part 2",
       "path": "PDF's/(CMPU 1025) Programming/Notes 21 - Structures part 2.pdf"
-    },
-    {
-      "basename": "Pointers - C",
-      "path": "College/Modules/Programming/Unsorted/Pointers - C.md"
     }
   ],
   "omittedPaths": [],

@@ -27,31 +27,7 @@
             }
           },
           {
-            "id": "72a72e9b6cc3db4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Modules/Programming/$U - Types of Files.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$U - Types of Files"
-            }
-          },
-          {
-            "id": "3f4e6a343663c648",
+            "id": "9e2eb966bb952b7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,33 +49,9 @@
               "icon": "lucide-file",
               "title": "$ C - Programming Language"
             }
-          },
-          {
-            "id": "a20d81133c95c7a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Modules/Programming/$ Unfinished - File Input/$U - File InputOutput - C.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$U - File InputOutput - C"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,18 +197,19 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "3f4e6a343663c648",
+  "active": "9e2eb966bb952b7a",
   "lastOpenFiles": [
-    "2. University/Modules/Programming/$ Unfinished - File Input/$U - File InputOutput - C.md",
+    "Pass by Reference & Pass by Value - C.md",
     "2. University/Modules/Programming/$ C - Programming Language.md",
+    "$U - File Modes - C.md",
     "2. University/Modules/Programming/$U - Types of Files.md",
+    "2. University/Modules/Programming/$ Unfinished - File Input/$U - File InputOutput - C.md",
     "1. Home Page/Home.canvas",
     "2. University/Modules/Programming/Keyboard Input - C.md",
     "2. University/Modules/Programming/$ Unfinished - File Input",
     "2. University/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
     "2. University/Modules/Programming/Order of Code - C.md",
     "2. University/Modules/Programming/Unsorted/Structures - C.md",
-    "Pass by Reference & Pass by Value - C.md",
     "2. University/Modules/Programming/Functions - C.md",
     "3. Notes/Arch Linux - Adding Drives.md",
     "3. Notes/Arch Linux - Installation.md",

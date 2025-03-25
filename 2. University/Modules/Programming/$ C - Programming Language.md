@@ -14,18 +14,17 @@ aliases: []
 - [[K.I.S.S]]
 - [[Variable Naming Schemes]]
 - 
-**Data Structures and Variables**26
-- [[Variables - C]] | (**Creating Variables**)
+**Data Structures and Variables**
+- [[Variables - C]] | **Creating Variables**
 	- [[Signed & Unsigned Variables - C]]
 - [[Data Types - C]]
 - [[Symbolic Names - C]]
 - [[Casting - C]]
 
 **Input Output**
-- [[Keyboard Output - C]] | (**printf()**)
-	- [[Precision Specification - C]] 
-	  **leading zeros, padding, formatting, FOR NUMBERS**)
-- [[Keyboard Input - C]] | (**scanf()**)
+- [[Keyboard Output - C]] | **printf()**
+	- [[Precision Specification - C]] | **leading zeros, padding, formatting, FOR NUMBERS**
+- [[Keyboard Input - C]] | **scanf()**
 
 - [[Faster Character Input Output - C]]
 	- **getchar(), putchar()**
@@ -55,8 +54,13 @@ aliases: []
 - [[Functions - C]]
 - [[Pass by Reference & Pass by Value - C]]
 
+**Strings**
+
+
+**Structures**
+
+
 **File Input/Output**
 - [[$U - Types of Files]]
-- [[$U - File InputOutput - C]]
-  - fopen()
-  - fclose()
+- [[$U - File InputOutput - C]] | **fopen(), fclose()**
+- [[$U - File Modes - C]]
