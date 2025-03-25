@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "$ C - Programming Language",
+      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "$U - File InputOutput - C",
+      "path": "2. University/Modules/Programming/$ Unfinished - File Input/$U - File InputOutput - C.md"
+    },
+    {
+      "basename": "$U - Types of Files",
+      "path": "2. University/Modules/Programming/$U - Types of Files.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Keyboard Input - C",
+      "path": "2. University/Modules/Programming/Keyboard Input - C.md"
+    },
+    {
       "basename": "Reading Strings - gets() - C",
       "path": "2. University/Modules/Programming/Unsorted/Reading Strings - gets() - C.md"
     },
@@ -9,16 +29,8 @@
       "path": "2. University/Modules/Programming/Order of Code - C.md"
     },
     {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
-    },
-    {
       "basename": "Structures - C",
       "path": "2. University/Modules/Programming/Unsorted/Structures - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Pass by Reference & Pass by Value - C",
@@ -187,18 +199,6 @@
     {
       "basename": "Pointers - C",
       "path": "College/Modules/Programming/Unsorted/Pointers - C.md"
-    },
-    {
-      "basename": "CPU Scheduling",
-      "path": "2. University/Modules/Operating Systems/Unsorted Notes/CPU Scheduling.md"
-    },
-    {
-      "basename": "Processes",
-      "path": "2. University/Modules/Operating Systems/Unsorted Notes/Processes.md"
-    },
-    {
-      "basename": "Software - Hardware",
-      "path": "2. University/Modules/Operating Systems/Software - Hardware.md"
     }
   ],
   "omittedPaths": [],

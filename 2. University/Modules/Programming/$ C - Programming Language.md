@@ -23,10 +23,12 @@ aliases: []
 
 **Input Output**
 - [[Keyboard Output - C]] | (**printf()**)
-	- [[Precision Specification - C]] (**leading zeros, padding, formatting, FOR NUMBERS**)
+	- [[Precision Specification - C]] 
+	  **leading zeros, padding, formatting, FOR NUMBERS**)
 - [[Keyboard Input - C]] | (**scanf()**)
 
-- [[Faster Character Input Output - C]] (**getchar(), putchar()**)
+- [[Faster Character Input Output - C]]
+	- **getchar(), putchar()**
 
 **Arithmetic Operations and Expressions**
 - [[Arithmetic Operations and Expressions - C]]
@@ -52,3 +54,9 @@ aliases: []
 **Functions**
 - [[Functions - C]]
 - [[Pass by Reference & Pass by Value - C]]
+
+**File Input/Output**
+- [[$U - Types of Files]]
+- [[$U - File InputOutput - C]]
+  - fopen()
+  - fclose()

@@ -40,7 +40,25 @@ int main(void) {
 }
 ```
 
+## Problems
+scanf() leaves a `'\n'` in the input buffer.
+This means, when a scanf if followed by a fgets, unexpected behaviour can occur due to this
 
+**Fix**
+```c showlinenumbers {5,8,11}
+int age;
+char name[50];
+
+// scanf()
+scanf("%d", &age);  // Leaves '\n' in the buffer
+
+// Clear the input buffer (including '\n')
+while(getchar() != '\n');
+
+// fgets()
+fgets(name, 50, stdin); 
+}
+```
 # See Also
 [[$ C - Programming Language]]
 [[Delimiters - C]]

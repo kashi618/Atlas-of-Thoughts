@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "dc33e0b414158c47",
+            "id": "72a72e9b6cc3db4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
+                "file": "2. University/Modules/Programming/$U - Types of Files.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,11 +47,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reading Strings - gets() - C"
+              "title": "$U - Types of Files"
+            }
+          },
+          {
+            "id": "3f4e6a343663c648",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Modules/Programming/$ C - Programming Language.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ C - Programming Language"
+            }
+          },
+          {
+            "id": "a20d81133c95c7a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Modules/Programming/$ Unfinished - File Input/$U - File InputOutput - C.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$U - File InputOutput - C"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,12 +245,17 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "dc33e0b414158c47",
+  "active": "3f4e6a343663c648",
   "lastOpenFiles": [
-    "2. University/Modules/Programming/Order of Code - C.md",
+    "2. University/Modules/Programming/$ Unfinished - File Input/$U - File InputOutput - C.md",
     "2. University/Modules/Programming/$ C - Programming Language.md",
-    "2. University/Modules/Programming/Unsorted/Structures - C.md",
+    "2. University/Modules/Programming/$U - Types of Files.md",
     "1. Home Page/Home.canvas",
+    "2. University/Modules/Programming/Keyboard Input - C.md",
+    "2. University/Modules/Programming/$ Unfinished - File Input",
+    "2. University/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
+    "2. University/Modules/Programming/Order of Code - C.md",
+    "2. University/Modules/Programming/Unsorted/Structures - C.md",
     "Pass by Reference & Pass by Value - C.md",
     "2. University/Modules/Programming/Functions - C.md",
     "3. Notes/Arch Linux - Adding Drives.md",
@@ -222,11 +275,6 @@
     "6. Templates/Book Review Template.md",
     "6. Templates/Base JavaScript.md",
     "6. Templates/Base C.md",
-    "6. Templates/BB.md",
-    "6. Templates/AAlgorithms.md",
-    "6. Templates/A.md",
-    "6. Templates/1031 Web Development Template.md",
-    "6. Templates/1025 Programming Template.md",
     "6. Templates",
     "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 8 - Programming Tutorial.pdf",
     "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 7 - Programming Tutorial.pdf",
@@ -235,7 +283,6 @@
     "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 4 - Programming Tutorial.pdf",
     "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 3 - Programming Tutorial.pdf",
     "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 2 - Programming Tutorial.pdf",
-    "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 1 - Programming Tutorial.pdf",
     "4. Other/obsidian-icon.png",
     "4. Other/obamna.gif",
     "4. Other/explosion.gif",
