@@ -25,33 +25,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "b58597a39a863b4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pass by Reference & Pass by Value - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pass by Reference & Pass by Value - C"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,11 +172,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "b58597a39a863b4d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Pass by Reference & Pass by Value - C.md",
     "2. University/Modules/Programming/$ C - Programming Language.md",
     "1. Home Page/Home.canvas",
-    "Pass by Reference & Pass by Value - C.md",
     "2. University/Modules/Programming/Functions - C.md",
     "3. Notes/Arch Linux - Adding Drives.md",
     "3. Notes/Arch Linux - Installation.md",
