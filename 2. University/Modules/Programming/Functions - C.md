@@ -45,5 +45,30 @@ void meowmeow(int a, int b) {
 }
 ```
 
+## Passing Arrays
+When passing an array to a function, only the array name is needed.
+*[[Arrays - C|Recall that the name of the array is the same as the memory location of the first element in the array]]*
+
+**Function Signature**
+```c showlinenumbers
+// Subscript Notation
+int coolFunction(int numArray[]);
+// Pointer Notation
+int coolFunction(int *numArray);
+```
+- [[Subscript and Pointer Notation - C|Difference between subscript and pointer notation]]
+
+
+```c showlinenumbers
+int main(void) {
+
+
+
+	return 0;
+}
+```
+
+
+
 # See Also
 [[$ C - Programming Language]]

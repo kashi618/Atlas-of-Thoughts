@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Functions - C",
+      "path": "2. University/Modules/Programming/Functions - C.md"
+    },
+    {
+      "basename": "Subscript and Pointer Notation - C",
+      "path": "2. University/Modules/Programming/Subscript and Pointer Notation - C.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "$ C - Programming Language",
       "path": "2. University/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "Arrays - C",
+      "path": "2. University/Modules/Programming/Arrays - C.md"
+    },
+    {
+      "basename": "$U - File InputOutput - C",
+      "path": "2. University/Modules/Programming/$U - File InputOutput - C.md"
+    },
+    {
+      "basename": "$U - Types of Files",
+      "path": "2. University/Modules/Programming/$U - Types of Files.md"
     },
     {
       "basename": "Pass by Reference & Pass by Value - C",
@@ -11,18 +35,6 @@
     {
       "basename": "$U - File Modes - C",
       "path": "$U - File Modes - C.md"
-    },
-    {
-      "basename": "$U - Types of Files",
-      "path": "2. University/Modules/Programming/$U - Types of Files.md"
-    },
-    {
-      "basename": "$U - File InputOutput - C",
-      "path": "2. University/Modules/Programming/$ Unfinished - File Input/$U - File InputOutput - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Keyboard Input - C",
@@ -41,20 +53,12 @@
       "path": "2. University/Modules/Programming/Unsorted/Structures - C.md"
     },
     {
-      "basename": "Functions - C",
-      "path": "2. University/Modules/Programming/Functions - C.md"
-    },
-    {
       "basename": "Arch Linux - Adding Drives",
       "path": "3. Notes/Arch Linux - Adding Drives.md"
     },
     {
       "basename": "Arch Linux - Installation",
       "path": "3. Notes/Arch Linux - Installation.md"
-    },
-    {
-      "basename": "Arch Linux - Network Manager - eduroam",
-      "path": "3. Notes/Arch Linux - Network Manager - eduroam.md"
     },
     {
       "basename": "Structured English",
@@ -149,16 +153,8 @@
       "path": "2. University/Modules/Programming/Dereference Operators - C.md"
     },
     {
-      "basename": "Subscript and Pointer Notation - C",
-      "path": "2. University/Modules/Programming/Subscript and Pointer Notation - C.md"
-    },
-    {
       "basename": "Notes 10 - Pointers and Arrays",
       "path": "PDF's/(CMPU 1025) Programming/Notes 10 - Pointers and Arrays.pdf"
-    },
-    {
-      "basename": "Arrays - C",
-      "path": "2. University/Modules/Programming/Arrays - C.md"
     },
     {
       "basename": "Pointers and Arrays - C",
