@@ -43,5 +43,16 @@ int main() {
 }
 ```
 
+### Reading from File
+When a line
+**fgets()**
+```cshowlinenumb
+#inlue <stdio.h>
+
+int main(void) {
+	Fgetss()
+}
+```
+  
 # See Also
 [[$ C - Programming Language]]
