@@ -41,8 +41,3 @@ float var1 = 1.1, var2 = 2.2, var3 = 3.3;
 [[$ C - Programming Language]]
 [[Data Types - C]]
 [[Signed & Unsigned Variables - C|Signed Variable]]
-
-[[Symbolic Names - Cc]]
-[[Storing Data in Variables - C]]
-[[Returning Variables - C]]
-[[Leading Numbers - C]]

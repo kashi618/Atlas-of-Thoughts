@@ -33,38 +33,76 @@ returnType functionName(parameters);
 
 **Example**
 ```c showlinenumbers
+// Function signature
 int meowmeow(int, int);
 
+// Main function
 int main(void) {
 	meowmeow(5,5);
 }
 
+// meowmeow function
 void meowmeow(int a, int b) {
 	printf("I meowed %d% times",a);
 	printf("She meowed %d% times",b);
 }
 ```
 
-## Passing Arrays
+## Functions and Arrays
+### Function Signature
+There are two ways to write the function signature for a function that passes an array
+**Method 1: Subscript notation (most common)**
+```c showlinenumbers
+// Function signature
+int coolFunction(int[]);
+```
+
+```c showlinenumbers
+// Alternative Way
+int coolFunctin(int arr[]);
+```
+
+**Method 2: Pointer notation**
+```c showlinenumbers
+// Function signature
+int coolFunction(int *arr)
+```
+
+### Passing Arrays
 When passing an array to a function, only the array name is needed.
 *[[Arrays - C|Recall that the name of the array is the same as the memory location of the first element in the array]]*
 
-**Function Signature**
-```c showlinenumbers
-// Subscript Notation
-int coolFunction(int numArray[]);
-// Pointer Notation
-int coolFunction(int *numArray);
-```
-- [[Subscript and Pointer Notation - C|Difference between subscript and pointer notation]]
-
-
 ```c showlinenumbers
 int main(void) {
+	functionName(arrayName);
+}
+```
 
+**Example: Function that returns all numbers in an array**
+```c showlinenumbers {4,12,19}
+#include <stdio.h>
 
+// Function signatures
+void returnArray(int [], int);
 
+// Main function
+int main(void) {
+	int size = 5;
+	int nums[size] = {1,2,3,4,5}
+	
+	// Pass array to function
+	returnArray(nums, size);
+	
+	// End program
 	return 0;
+}
+
+// Cool Function
+void returnAray(int arr[], int size) {
+	// Print each element in an array
+	for (int i=0; i<size; i++) {
+		printf("\n%d",arr[i]);
+	}
 }
 ```
 
