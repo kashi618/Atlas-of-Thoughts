@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Reading Strings - gets() - C",
+      "path": "2. University/Modules/Programming/Unsorted/Reading Strings - gets() - C.md"
+    },
+    {
+      "basename": "Order of Code - C",
+      "path": "2. University/Modules/Programming/Order of Code - C.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "Structures - C",
+      "path": "2. University/Modules/Programming/Unsorted/Structures - C.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Pass by Reference & Pass by Value - C",
       "path": "Pass by Reference & Pass by Value - C.md"
-    },
-    {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
     },
     {
       "basename": "Functions - C",
@@ -101,10 +113,6 @@
       "path": "2. University/Modules/Programming/Unsorted/FunctionsUNFINISHED - C.md"
     },
     {
-      "basename": "Order of Code - C",
-      "path": "2. University/Modules/Programming/Order of Code - C.md"
-    },
-    {
       "basename": "Multi-Dimensional Arrays - C",
       "path": "2. University/Modules/Programming/Multi-Dimensional Arrays - C.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Software - Hardware",
       "path": "2. University/Modules/Operating Systems/Software - Hardware.md"
-    },
-    {
-      "basename": "Drivers",
-      "path": "2. University/Modules/Operating Systems/Drivers.md"
-    },
-    {
-      "basename": "$ Operating Systems",
-      "path": "2. University/Modules/Operating Systems/$ Operating Systems.md"
     }
   ],
   "omittedPaths": [],
