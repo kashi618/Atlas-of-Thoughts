@@ -4,7 +4,7 @@ tags:
   - Variables
   - UNFINISHED
 ---
-**SEE [[Storage Classes - C]] FOR MORE IN DEPTH INFORMATION**
+**SEE [[U Storage Classes - C]] FOR MORE IN DEPTH INFORMATION**
 
 ## Global Variables
 Variables which can be accessed anywhere within a program
@@ -37,4 +37,4 @@ void main(void) {
 
 # See Also
 [[Variables - C]]
-[[Storage Classes - C]]
+[[U Storage Classes - C]]

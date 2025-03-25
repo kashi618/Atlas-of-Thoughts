@@ -5,6 +5,14 @@
       "path": "2. University/Modules/Programming/$ C - Programming Language.md"
     },
     {
+      "basename": "Storage Classes - C",
+      "path": "Storage Classes - C.md"
+    },
+    {
+      "basename": "U Storage Classes - C",
+      "path": "2. University/Modules/Programming/Unsorted/U Storage Classes - C.md"
+    },
+    {
       "basename": "Variables - C",
       "path": "2. University/Modules/Programming/Variables - C.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "Notes 22 - Structures part 3",
       "path": "PDF's/(CMPU 1025) Programming/Notes 22 - Structures part 3.pdf"
-    },
-    {
-      "basename": "Notes 21 - Structures part 2",
-      "path": "PDF's/(CMPU 1025) Programming/Notes 21 - Structures part 2.pdf"
     }
   ],
   "omittedPaths": [],

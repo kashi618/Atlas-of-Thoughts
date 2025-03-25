@@ -16,7 +16,7 @@ aliases: []
 - 
 **Data Structures and Variables**
 - [[Variables - C]] | **Creating Variables**
-- 
+- [[Storage Classes - C]]
 	- [[Signed & Unsigned Variables - C]]
 - [[Data Types - C]]
 - [[Symbolic Names - C]]
