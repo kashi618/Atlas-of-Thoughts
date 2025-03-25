@@ -53,6 +53,24 @@ int main(void) {
 	Fgetss()
 }
 ```
-  
+### Writing to File
+**fputc()**
+```c showlinenumbers
+#include <stdin.h>
+	
+int main(void) {
+	FILE *fp_in;
+	FILE
+	
+	if ((fp = fopen("file.txt","r") == NULL) {
+		printf("Error opening file");
+	}
+
+	
+	fputc(char_in, fp_out)
+	
+	return 0;
+}
+```
 # See Also
 [[$ C - Programming Language]]
