@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "e6a0d15c1c8682b8",
+            "id": "241e0d62af41a103",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Notes/TV Shows & Movies & Anime & Manga.md",
+                "file": "2. University/Modules/Operating Systems/$ Operating Systems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TV Shows & Movies & Anime & Manga"
+              "title": "$ Operating Systems"
             }
           }
         ],
@@ -197,13 +197,16 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e6a0d15c1c8682b8",
+  "active": "241e0d62af41a103",
   "lastOpenFiles": [
-    "2. University/Modules/Operating Systems/$ Operating Systems.md",
-    "2. University/Modules/Operating Systems/Software - Hardware.md",
     "2. University/Modules/Operating Systems/Drivers.md",
-    "2. University/Modules/Operating Systems/Computer System Structure.md",
+    "2. University/Modules/Operating Systems/$ Operating Systems.md",
+    "Early Computers.md",
+    "Computer Generations.md",
     "1. Home Page/Home.canvas",
+    "3. Notes/TV Shows & Movies & Anime & Manga.md",
+    "2. University/Modules/Operating Systems/Software - Hardware.md",
+    "2. University/Modules/Operating Systems/Computer System Structure.md",
     "2. University/Modules/Programming/$U - File InputOutput - C.md",
     "2. University/Modules/Programming/$ C - Programming Language.md",
     "Storage Classes - C.md",
@@ -224,10 +227,7 @@
     "3. Notes/Arch Linux - Adding Drives.md",
     "3. Notes/Arch Linux - Installation.md",
     "2. University/Modules/Algorithm Design and Problem Solving/Structured English.md",
-    "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithm Design.md",
-    "7. UNSORTED/Example Iterative Algorithms.md",
     "7. UNSORTED",
-    "6. Templates/Pseudocode 1.md",
     "6. Templates",
     "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 8 - Programming Tutorial.pdf",
     "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 7 - Programming Tutorial.pdf",

@@ -1,28 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "TV Shows & Movies & Anime & Manga",
-      "path": "3. Notes/TV Shows & Movies & Anime & Manga.md"
-    },
-    {
       "basename": "$ Operating Systems",
       "path": "2. University/Modules/Operating Systems/$ Operating Systems.md"
-    },
-    {
-      "basename": "Software - Hardware",
-      "path": "2. University/Modules/Operating Systems/Software - Hardware.md"
     },
     {
       "basename": "Drivers",
       "path": "2. University/Modules/Operating Systems/Drivers.md"
     },
     {
-      "basename": "Computer System Structure",
-      "path": "2. University/Modules/Operating Systems/Computer System Structure.md"
+      "basename": "Early Computers",
+      "path": "Early Computers.md"
+    },
+    {
+      "basename": "Computer Generations",
+      "path": "Computer Generations.md"
     },
     {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "TV Shows & Movies & Anime & Manga",
+      "path": "3. Notes/TV Shows & Movies & Anime & Manga.md"
+    },
+    {
+      "basename": "Software - Hardware",
+      "path": "2. University/Modules/Operating Systems/Software - Hardware.md"
+    },
+    {
+      "basename": "Computer System Structure",
+      "path": "2. University/Modules/Operating Systems/Computer System Structure.md"
     },
     {
       "basename": "$U - File InputOutput - C",
@@ -191,14 +199,6 @@
     {
       "basename": "Pointers and Arrays - C",
       "path": "2. University/Modules/Programming/Unsorted/Pointers and Arrays - C.md"
-    },
-    {
-      "basename": "Arithmetic Operations and Expressions - C",
-      "path": "2. University/Modules/Programming/Arithmetic Operations and Expressions - C.md"
-    },
-    {
-      "basename": "Incrementing & Decrementing - C",
-      "path": "2. University/Modules/Programming/Incrementing & Decrementing - C.md"
     }
   ],
   "omittedPaths": [],
