@@ -78,6 +78,11 @@ The Imitation Game
 | 抓娃娃 (Successor)                                            | Good            |
 | 流浪地球 (Wandering Earth)                                     | Amazing         |
 | The Legend of 1900                                         | **MUST WATCH**  |
+| Nezha                                                      | Good            |
+| Nezha 2                                                    | Good            |
+| Last Breath                                                | Good            |
+| Now You See Me                                             | Amazing         |
+|                                                            |                 |
 
 ---
 

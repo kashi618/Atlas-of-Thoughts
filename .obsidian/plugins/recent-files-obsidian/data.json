@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "$U - File InputOutput - C",
-      "path": "2. University/Modules/Programming/$U - File InputOutput - C.md"
+      "basename": "TV Shows & Movies & Anime & Manga",
+      "path": "3. Notes/TV Shows & Movies & Anime & Manga.md"
+    },
+    {
+      "basename": "$ Operating Systems",
+      "path": "2. University/Modules/Operating Systems/$ Operating Systems.md"
+    },
+    {
+      "basename": "Software - Hardware",
+      "path": "2. University/Modules/Operating Systems/Software - Hardware.md"
+    },
+    {
+      "basename": "Drivers",
+      "path": "2. University/Modules/Operating Systems/Drivers.md"
+    },
+    {
+      "basename": "Computer System Structure",
+      "path": "2. University/Modules/Operating Systems/Computer System Structure.md"
     },
     {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "$U - File InputOutput - C",
+      "path": "2. University/Modules/Programming/$U - File InputOutput - C.md"
     },
     {
       "basename": "$ C - Programming Language",
@@ -179,26 +199,6 @@
     {
       "basename": "Incrementing & Decrementing - C",
       "path": "2. University/Modules/Programming/Incrementing & Decrementing - C.md"
-    },
-    {
-      "basename": "Pointers - C",
-      "path": "2. University/Modules/Programming/Pointers - C.md"
-    },
-    {
-      "basename": "Notes 9 - Pointers",
-      "path": "PDF's/(CMPU 1025) Programming/Notes 9 - Pointers.pdf"
-    },
-    {
-      "basename": "Notes 8 - Arrays (part 3)",
-      "path": "PDF's/(CMPU 1025) Programming/Notes 8 - Arrays (part 3).pdf"
-    },
-    {
-      "basename": "Nested Structures",
-      "path": "2. University/Modules/Programming/Unsorted/Nested Structures.md"
-    },
-    {
-      "basename": "Notes 22 - Structures part 3",
-      "path": "PDF's/(CMPU 1025) Programming/Notes 22 - Structures part 3.pdf"
     }
   ],
   "omittedPaths": [],
