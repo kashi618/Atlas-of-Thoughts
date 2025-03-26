@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "OperatingSystems1-Lab09-C24510496",
+      "path": "2. University/Modules/Operating Systems/Exercises/OperatingSystems1-Lab09-C24510496.md"
+    },
+    {
       "basename": "$ Operating Systems",
       "path": "2. University/Modules/Operating Systems/$ Operating Systems.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Notes 10 - Pointers and Arrays",
       "path": "PDF's/(CMPU 1025) Programming/Notes 10 - Pointers and Arrays.pdf"
-    },
-    {
-      "basename": "Pointers and Arrays - C",
-      "path": "2. University/Modules/Programming/Unsorted/Pointers and Arrays - C.md"
     }
   ],
   "omittedPaths": [],

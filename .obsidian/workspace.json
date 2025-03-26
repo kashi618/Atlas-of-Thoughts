@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Modules/Operating Systems/$ Operating Systems.md",
+                "file": "2. University/Modules/Operating Systems/Exercises/OperatingSystems1-Lab09-C24510496.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Operating Systems"
+              "title": "OperatingSystems1-Lab09-C24510496"
             }
           }
         ],
@@ -199,8 +199,9 @@
   },
   "active": "241e0d62af41a103",
   "lastOpenFiles": [
-    "2. University/Modules/Operating Systems/Drivers.md",
     "2. University/Modules/Operating Systems/$ Operating Systems.md",
+    "2. University/Modules/Operating Systems/Exercises/OperatingSystems1-Lab09-C24510496.md",
+    "2. University/Modules/Operating Systems/Drivers.md",
     "Early Computers.md",
     "Computer Generations.md",
     "1. Home Page/Home.canvas",
@@ -226,7 +227,6 @@
     "2. University/Modules/Programming/Unsorted/Structures - C.md",
     "3. Notes/Arch Linux - Adding Drives.md",
     "3. Notes/Arch Linux - Installation.md",
-    "2. University/Modules/Algorithm Design and Problem Solving/Structured English.md",
     "7. UNSORTED",
     "6. Templates",
     "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 8 - Programming Tutorial.pdf",
