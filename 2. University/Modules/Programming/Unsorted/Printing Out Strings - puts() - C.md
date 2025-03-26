@@ -35,4 +35,4 @@ puts("helooo");
 # See Also
 [[Reading Strings - gets() - C]]
 [[Strings and Arrays - C]]
-[[Strings - C]]
+[[U Strings - C]]

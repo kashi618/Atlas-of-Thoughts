@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "U Strings - C",
+      "path": "2. University/Modules/Programming/Unsorted/U Strings - C.md"
+    },
+    {
+      "basename": "Strings - C",
+      "path": "Strings - C.md"
+    },
+    {
+      "basename": "Escape Sequence - C",
+      "path": "2. University/Modules/Programming/Escape Sequence - C.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "Storage Classes - C",
+      "path": "Storage Classes - C.md"
+    },
+    {
+      "basename": "Signed & Unsigned Variables - C",
+      "path": "2. University/Modules/Programming/Signed & Unsigned Variables - C.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -43,14 +67,6 @@
     {
       "basename": "$U - File InputOutput - C",
       "path": "2. University/Modules/Programming/$U - File InputOutput - C.md"
-    },
-    {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
-    },
-    {
-      "basename": "Storage Classes - C",
-      "path": "Storage Classes - C.md"
     },
     {
       "basename": "U Storage Classes - C",
@@ -183,22 +199,6 @@
     {
       "basename": "Multi-Dimensional Arrays - C",
       "path": "2. University/Modules/Programming/Multi-Dimensional Arrays - C.md"
-    },
-    {
-      "basename": "Dynamic Memory Allocation - C",
-      "path": "2. University/Modules/Programming/Dynamic Memory Allocation - C.md"
-    },
-    {
-      "basename": "Dynamic Memory AllocationUNFINISHED - C",
-      "path": "2. University/Modules/Programming/Unsorted/Dynamic Memory AllocationUNFINISHED - C.md"
-    },
-    {
-      "basename": "Dereference Operators - C",
-      "path": "2. University/Modules/Programming/Dereference Operators - C.md"
-    },
-    {
-      "basename": "Notes 10 - Pointers and Arrays",
-      "path": "PDF's/(CMPU 1025) Programming/Notes 10 - Pointers and Arrays.pdf"
     }
   ],
   "omittedPaths": [],

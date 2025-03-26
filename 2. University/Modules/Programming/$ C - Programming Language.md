@@ -56,6 +56,7 @@ aliases: []
 - [[Pass by Reference & Pass by Value - C]]
 
 **Strings**
+- [[Strings - C]]
 
 
 **Structures**

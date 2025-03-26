@@ -35,4 +35,4 @@ What happens when the size of the array isn't big enough to store the NULL chara
 [[Non-Null Terminated String - C]]
 
 # See Also
-[[Strings - C]]
+[[U Strings - C]]

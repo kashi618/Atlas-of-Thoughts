@@ -42,4 +42,4 @@ fgets(name, sizeof(name), stdin)
 # See Also
 [[Printing Out Strings - puts() - C]]
 [[Strings and Arrays - C]]
-[[Strings - C]]
+[[U Strings - C]]

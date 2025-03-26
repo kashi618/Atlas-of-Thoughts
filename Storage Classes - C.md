@@ -85,4 +85,3 @@ The extern on lines 6 and 14 tells the compiler to NOT create a variable, and to
 
 # See Also
 [[Variables - C]]
-[[FunctionsUNFINISHED - C]]

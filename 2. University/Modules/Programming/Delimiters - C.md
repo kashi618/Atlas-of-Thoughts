@@ -11,7 +11,7 @@ In order to print out or store data inside of variables, a delimiter is needed t
 | %f        | Float                                 |
 | %c        | Character                             |
 | %p        | [[Pointers - C]]                      |
-| %s        | [[Strings - C]] |
+| %s        | [[U Strings - C]] |
 
 # See Also
 [[$ C - Programming Language]]

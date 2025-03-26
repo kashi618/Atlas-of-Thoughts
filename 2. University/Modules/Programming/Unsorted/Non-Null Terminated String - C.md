@@ -14,5 +14,5 @@ The array does not have enough space to store the NULL character, therefore, the
 
 
 # See Also
-[[Strings - C]]
+[[U Strings - C]]
 [[Strings and Arrays - C]]
