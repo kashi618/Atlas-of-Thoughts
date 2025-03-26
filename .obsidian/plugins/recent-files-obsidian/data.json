@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "U Strings - C",
-      "path": "2. University/Modules/Programming/Unsorted/U Strings - C.md"
+      "basename": "Using Strings - C",
+      "path": "Using Strings - C.md"
     },
     {
       "basename": "Strings - C",
       "path": "Strings - C.md"
     },
     {
-      "basename": "Escape Sequence - C",
-      "path": "2. University/Modules/Programming/Escape Sequence - C.md"
+      "basename": "U Strings - C",
+      "path": "2. University/Modules/Programming/Unsorted/U Strings - C.md"
     },
     {
       "basename": "$ C - Programming Language",
       "path": "2. University/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "Escape Sequence - C",
+      "path": "2. University/Modules/Programming/Escape Sequence - C.md"
     },
     {
       "basename": "Storage Classes - C",
@@ -195,10 +199,6 @@
     {
       "basename": "FunctionsUNFINISHED - C",
       "path": "2. University/Modules/Programming/Unsorted/FunctionsUNFINISHED - C.md"
-    },
-    {
-      "basename": "Multi-Dimensional Arrays - C",
-      "path": "2. University/Modules/Programming/Multi-Dimensional Arrays - C.md"
     }
   ],
   "omittedPaths": [],

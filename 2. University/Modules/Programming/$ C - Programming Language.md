@@ -57,6 +57,7 @@ aliases: []
 
 **Strings**
 - [[Strings - C]]
+- [[Using Strings - C]]
 
 
 **Structures**
