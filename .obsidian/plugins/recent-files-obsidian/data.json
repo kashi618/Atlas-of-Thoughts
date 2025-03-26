@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Wishlist",
+      "path": "3. Notes/Wishlist.md"
+    },
+    {
       "basename": "OperatingSystems1-Lab09-C24510496",
       "path": "2. University/Modules/Operating Systems/Exercises/OperatingSystems1-Lab09-C24510496.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Computer Generations",
       "path": "Computer Generations.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "TV Shows & Movies & Anime & Manga",
@@ -179,10 +183,6 @@
     {
       "basename": "Multi-Dimensional Arrays - C",
       "path": "2. University/Modules/Programming/Multi-Dimensional Arrays - C.md"
-    },
-    {
-      "basename": "Wishlist",
-      "path": "3. Notes/Wishlist.md"
     },
     {
       "basename": "Dynamic Memory Allocation - C",
