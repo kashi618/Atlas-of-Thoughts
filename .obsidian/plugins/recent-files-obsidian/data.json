@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Using Strings - C",
       "path": "Using Strings - C.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Signed & Unsigned Variables - C",
       "path": "2. University/Modules/Programming/Signed & Unsigned Variables - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Wishlist",
