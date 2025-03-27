@@ -4,27 +4,19 @@ tags:
 ---
 
 
-## Headphones
-****
-- **Audio Tehnica M50xBT2**
-![|135](https://i.imgur.com/J1QDb9w.png)
-****
--  **Sennheiser HD599**
-![|135](https://i.imgur.com/fk8KLN9.png)
-****
-- **Sennheiser HD800**
-![|135](https://i.imgur.com/9yfb2h7.png)
-****
-- **AKG K371-BT**
-![|135](https://i.imgur.com/51GOnUa.png)
-***
+**Headphones**
+- Audio Technica ATH-M50xBT2
+- Audio Technica ATH-M20x
+- Phillips SHP9500
+- Sennheiser HD599
+- Sennheiser HD800
+- Sennheiser Momentum 4
+- AKG K371-BT
+- Meters Music OV1
+- Sony MDR-Z1R
+  
 ## IEMs
-****
-- **KZ ZS10 Pro**
-![|135](https://i.imgur.com/b2WdvyF.png)
-****
-- **Moondrop Chu II**
-![|135](https://i.imgur.com/l3PvcFj.png)
-****
-- **Salnotes Dioko**
-![|135](https://i.imgur.com/bFbAVWA.png)
+- KZ ZS10
+- Moondrop Chu II
+- Salnotes Dioko
+- 7Hz Salnotes Zero

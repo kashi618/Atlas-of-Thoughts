@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Headphones & IEMs",
+      "path": "3. Notes/Headphones & IEMs.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Assembly",
       "path": "2. University/Modules/Microprocessors Systems/Assembly.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Assembly 1",
       "path": "2. University/Modules/Microprocessors Systems/Assembly 1.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Using Strings - C",
@@ -195,10 +199,6 @@
     {
       "basename": "Recursive Exponents Algorithm",
       "path": "2. University/Modules/Algorithm Design and Problem Solving/Unsorted/Recursive Exponents Algorithm.md"
-    },
-    {
-      "basename": "Recursive Factorial Algorithm",
-      "path": "2. University/Modules/Algorithm Design and Problem Solving/Unsorted/Recursive Factorial Algorithm.md"
     }
   ],
   "omittedPaths": [],
