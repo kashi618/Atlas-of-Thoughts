@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -0.1113698142769439
+                  "zoom": -1.298439741964993
                 }
               },
               "pinned": true,
@@ -174,8 +174,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "3. Notes/Headphones & IEMs.md",
     "1. Home Page/Home.canvas",
+    "3. Notes/Headphones & IEMs.md",
     "2. University/Modules/Microprocessors Systems/Assembly.md",
     "2. University/Modules/Microprocessors Systems/Assembly Language.md",
     "2. University/Modules/Microprocessors Systems/Assembly 1.md",
@@ -200,7 +200,6 @@
     "2. University/Modules/Programming/Subscript and Pointer Notation - C.md",
     "2. University/Modules/Programming/Functions - C.md",
     "3. Notes/Arch Linux - Network Manager - eduroam.md",
-    "2. University/Modules/Programming/Arrays - C.md",
     "2. University/Modules/Programming/$ Unfinished - File Input",
     "7. UNSORTED",
     "6. Templates",
