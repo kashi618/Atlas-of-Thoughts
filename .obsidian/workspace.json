@@ -25,8 +25,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "60ac04dc033ee66c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Modules/Microprocessors Systems/Assembly.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Assembly"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,8 +197,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "60ac04dc033ee66c",
   "lastOpenFiles": [
+    "2. University/Modules/Microprocessors Systems/Assembly Language.md",
+    "2. University/Modules/Microprocessors Systems/Assembly.md",
+    "2. University/Modules/Microprocessors Systems/Assembly 1.md",
+    "1. Home Page/Home.canvas",
     "Using Strings - C.md",
     "Strings - C.md",
     "2. University/Modules/Programming/Unsorted/U Strings - C.md",
@@ -181,7 +210,6 @@
     "2. University/Modules/Programming/Escape Sequence - C.md",
     "Storage Classes - C.md",
     "2. University/Modules/Programming/Signed & Unsigned Variables - C.md",
-    "1. Home Page/Home.canvas",
     "2. University/Modules/Operating Systems/Exercises/OperatingSystems1-Lab09-C24510496.md",
     "2. University/Modules/Operating Systems/$ Operating Systems.md",
     "2. University/Modules/Operating Systems/Drivers.md",
@@ -198,9 +226,6 @@
     "3. Notes/Arch Linux - Network Manager - eduroam.md",
     "2. University/Modules/Programming/Arrays - C.md",
     "2. University/Modules/Programming/$U - Types of Files.md",
-    "Pass by Reference & Pass by Value - C.md",
-    "$U - File Modes - C.md",
-    "2. University/Modules/Programming/Keyboard Input - C.md",
     "2. University/Modules/Programming/$ Unfinished - File Input",
     "7. UNSORTED",
     "6. Templates",

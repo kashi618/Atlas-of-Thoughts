@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Assembly",
+      "path": "2. University/Modules/Microprocessors Systems/Assembly.md"
+    },
+    {
+      "basename": "Assembly Language",
+      "path": "2. University/Modules/Microprocessors Systems/Assembly Language.md"
+    },
+    {
+      "basename": "Assembly 1",
+      "path": "2. University/Modules/Microprocessors Systems/Assembly 1.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Recursive Factorial Algorithm",
       "path": "2. University/Modules/Algorithm Design and Problem Solving/Unsorted/Recursive Factorial Algorithm.md"
-    },
-    {
-      "basename": "AAlgorithms",
-      "path": "Templates/AAlgorithms.md"
-    },
-    {
-      "basename": "Recursion",
-      "path": "2. University/Modules/Algorithm Design and Problem Solving/Unsorted/Recursion.md"
-    },
-    {
-      "basename": "FunctionsUNFINISHED - C",
-      "path": "2. University/Modules/Programming/Unsorted/FunctionsUNFINISHED - C.md"
     }
   ],
   "omittedPaths": [],
