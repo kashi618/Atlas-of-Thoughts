@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Using Strings - C",
+      "path": "Using Strings - C.md"
+    },
+    {
+      "basename": "Strings and Arrays - C",
+      "path": "2. University/Modules/Programming/Unsorted/Strings and Arrays - C.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -9,20 +21,12 @@
       "path": "3. Notes/Guitar Wishlist.md"
     },
     {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
-    },
-    {
       "basename": "Strings - C",
       "path": "Strings - C.md"
     },
     {
       "basename": "Arrays - C",
       "path": "2. University/Modules/Programming/Arrays - C.md"
-    },
-    {
-      "basename": "Using Strings - C",
-      "path": "Using Strings - C.md"
     },
     {
       "basename": "Headphones & IEMs",
@@ -195,10 +199,6 @@
     {
       "basename": "Example Iterative Algorithms",
       "path": "UNSORTED/Example Iterative Algorithms.md"
-    },
-    {
-      "basename": "Pseudocode",
-      "path": "2. University/Modules/Algorithm Design and Problem Solving/Pseudocode.md"
     }
   ],
   "omittedPaths": [],

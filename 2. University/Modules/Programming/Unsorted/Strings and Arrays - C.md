@@ -5,8 +5,7 @@ tags:
   - Arrays
   - UNFINISHED
 ---
-In C, there is no datatype called a string
-Instead, we use an array of characters
+
 
 ## Example
 When making the array, you must include the NULL character
