@@ -5,6 +5,26 @@
       "path": "1. Home Page/Home.canvas"
     },
     {
+      "basename": "Guitar Wishlist",
+      "path": "3. Notes/Guitar Wishlist.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "Strings - C",
+      "path": "Strings - C.md"
+    },
+    {
+      "basename": "Arrays - C",
+      "path": "2. University/Modules/Programming/Arrays - C.md"
+    },
+    {
+      "basename": "Using Strings - C",
+      "path": "Using Strings - C.md"
+    },
+    {
       "basename": "Headphones & IEMs",
       "path": "3. Notes/Headphones & IEMs.md"
     },
@@ -21,20 +41,8 @@
       "path": "2. University/Modules/Microprocessors Systems/Assembly 1.md"
     },
     {
-      "basename": "Using Strings - C",
-      "path": "Using Strings - C.md"
-    },
-    {
-      "basename": "Strings - C",
-      "path": "Strings - C.md"
-    },
-    {
       "basename": "U Strings - C",
       "path": "2. University/Modules/Programming/Unsorted/U Strings - C.md"
-    },
-    {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
     },
     {
       "basename": "Escape Sequence - C",
@@ -103,10 +111,6 @@
     {
       "basename": "Functions - C",
       "path": "2. University/Modules/Programming/Functions - C.md"
-    },
-    {
-      "basename": "Arrays - C",
-      "path": "2. University/Modules/Programming/Arrays - C.md"
     },
     {
       "basename": "$U - Types of Files",
@@ -195,10 +199,6 @@
     {
       "basename": "Pseudocode",
       "path": "2. University/Modules/Algorithm Design and Problem Solving/Pseudocode.md"
-    },
-    {
-      "basename": "Recursive Exponents Algorithm",
-      "path": "2. University/Modules/Algorithm Design and Problem Solving/Unsorted/Recursive Exponents Algorithm.md"
     }
   ],
   "omittedPaths": [],

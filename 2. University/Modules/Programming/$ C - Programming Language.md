@@ -58,6 +58,7 @@ aliases: []
 **Strings**
 - [[Strings - C]]
 - [[Using Strings - C]]
+- [[Strings and Arrays - C]]
 
 
 **Structures**
