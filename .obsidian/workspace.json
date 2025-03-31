@@ -17,89 +17,16 @@
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
                   "x": -240,
-                  "y": 75.55628299894406,
-                  "zoom": -0.1113698142769439
+                  "y": -45,
+                  "zoom": -1.298439741964993
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "914dc7d5281e1023",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Modules/Programming/$ C - Programming Language.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ C - Programming Language"
-            }
-          },
-          {
-            "id": "6fdbf24fec1532aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Using Strings - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Using Strings - C"
-            }
-          },
-          {
-            "id": "26ef9087114ce26a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Modules/Programming/Unsorted/Strings and Arrays - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Strings and Arrays - C"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,11 +172,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "6fdbf24fec1532aa",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Using Strings - C.md",
     "2. University/Modules/Programming/Unsorted/Strings and Arrays - C.md",
     "2. University/Modules/Programming/$ C - Programming Language.md",
-    "Using Strings - C.md",
     "1. Home Page/Home.canvas",
     "3. Notes/Guitar Wishlist.md",
     "Strings - C.md",
