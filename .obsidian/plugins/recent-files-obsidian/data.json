@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "String Functions - C",
       "path": "String Functions - C.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "About Strings - C",
       "path": "About Strings - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "$U - File InputOutput - C",
