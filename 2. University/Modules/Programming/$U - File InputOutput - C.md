@@ -34,7 +34,7 @@ int main() {
 	FILE *fp;
 	
 	// Open and check if file is opened successfully
-	if ( (fp = fopen("file.txt", "a+")) == NULL ) {
+	if ((fp=fopen("file.txt", "a+")) == NULL ) {
 		printf("Error opening file");
 	}
 	
@@ -44,19 +44,33 @@ int main() {
 ```
 
 ### Reading from File
-When a line
+
 **fgets()**
-```cshowlinenumb
-#inlue <stdio.h>
+Reads a STRING of characters, until it hits one of these three
+1. A newline character is read `'\n'`
+2. The EOF is reached
+3. `max_characters - 1` is read
+```c showlinenumbers
+#include <stdio.h>
+
+#define MAX_CHARS 81
+
+int main() {}
+```
+
+
+```c showlinenumbers
+#include <stdio.h>
 
 int main(void) {
-	Fgetss()
+	fgets()
 }
 ```
+
 ### Writing to File
 **fputc()**
 ```c showlinenumbers
-#include <stdin.h>
+#include <stdio.h>
 	
 int main(void) {
 	FILE *fp_in;
@@ -72,5 +86,6 @@ int main(void) {
 	return 0;
 }
 ```
+
 # See Also
 [[$ C - Programming Language]]

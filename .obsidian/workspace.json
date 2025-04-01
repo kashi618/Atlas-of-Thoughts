@@ -34,7 +34,7 @@
               "state": {
                 "file": "2. University/Modules/Programming/$U - File InputOutput - C.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -199,13 +200,15 @@
   },
   "active": "7ad459fae4960fc1",
   "lastOpenFiles": [
-    "2. University/Modules/Programming/$U - Types of Files.md",
-    "2. University/Modules/Programming/$ C - Programming Language.md",
-    "1. Home Page/Home.canvas",
     "Using Strings - C.md",
-    "2. University/Modules/Programming/Unsorted/Strings and Arrays - C.md",
-    "3. Notes/Guitar Wishlist.md",
+    "2. University/Modules/Programming/$ C - Programming Language.md",
     "Strings - C.md",
+    "2. University/Modules/Programming/$U - File InputOutput - C.md",
+    "2. University/Modules/Programming/Unsorted/Strings and Arrays - C.md",
+    "2. University/Modules/Programming/Unsorted/String Functions - C.md",
+    "2. University/Modules/Programming/$U - Types of Files.md",
+    "1. Home Page/Home.canvas",
+    "3. Notes/Guitar Wishlist.md",
     "2. University/Modules/Programming/Arrays - C.md",
     "3. Notes/Headphones & IEMs.md",
     "2. University/Modules/Microprocessors Systems/Assembly.md",
@@ -223,9 +226,7 @@
     "3. Notes/TV Shows & Movies & Anime & Manga.md",
     "2. University/Modules/Operating Systems/Software - Hardware.md",
     "2. University/Modules/Operating Systems/Computer System Structure.md",
-    "2. University/Modules/Programming/$U - File InputOutput - C.md",
     "2. University/Modules/Programming/Unsorted/U Storage Classes - C.md",
-    "2. University/Modules/Programming/Variables - C.md",
     "2. University/Modules/Programming/$ Unfinished - File Input",
     "7. UNSORTED",
     "6. Templates",
