@@ -1,36 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "$U - File InputOutput - C",
-      "path": "2. University/Modules/Programming/$U - File InputOutput - C.md"
-    },
-    {
-      "basename": "Using Strings - C",
-      "path": "Using Strings - C.md"
+      "basename": "String Functions - C",
+      "path": "String Functions - C.md"
     },
     {
       "basename": "$ C - Programming Language",
       "path": "2. University/Modules/Programming/$ C - Programming Language.md"
     },
     {
-      "basename": "Strings - C",
-      "path": "Strings - C.md"
+      "basename": "UString Functions - C",
+      "path": "2. University/Modules/Programming/Unsorted/UString Functions - C.md"
+    },
+    {
+      "basename": "Using Strings - C",
+      "path": "Using Strings - C.md"
+    },
+    {
+      "basename": "About Strings - C",
+      "path": "About Strings - C.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "$U - File InputOutput - C",
+      "path": "2. University/Modules/Programming/$U - File InputOutput - C.md"
     },
     {
       "basename": "Strings and Arrays - C",
       "path": "2. University/Modules/Programming/Unsorted/Strings and Arrays - C.md"
     },
     {
-      "basename": "String Functions - C",
-      "path": "2. University/Modules/Programming/Unsorted/String Functions - C.md"
-    },
-    {
       "basename": "$U - Types of Files",
       "path": "2. University/Modules/Programming/$U - Types of Files.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Guitar Wishlist",
@@ -195,10 +199,6 @@
     {
       "basename": "Algorithms",
       "path": "2. University/Modules/Algorithm Design and Problem Solving/Algorithms.md"
-    },
-    {
-      "basename": "Iterative Algorithms",
-      "path": "2. University/Modules/Algorithm Design and Problem Solving/Unsorted/Iterative Algorithms.md"
     }
   ],
   "omittedPaths": [],

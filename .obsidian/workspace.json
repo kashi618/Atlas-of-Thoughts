@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -0.1113698142769439
+                  "zoom": -1.298439741964993
                 }
               },
               "pinned": true,
@@ -27,14 +27,14 @@
             }
           },
           {
-            "id": "7ad459fae4960fc1",
+            "id": "45f02906dafe0c98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Modules/Programming/$U - File InputOutput - C.md",
+                "file": "2. University/Modules/Programming/$ C - Programming Language.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -47,11 +47,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$U - File InputOutput - C"
+              "title": "$ C - Programming Language"
+            }
+          },
+          {
+            "id": "3b7de334fc6faacd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "String Functions - C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "String Functions - C"
+            }
+          },
+          {
+            "id": "0f9b34b66c91a806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Modules/Programming/Unsorted/UString Functions - C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "UString Functions - C"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,16 +246,17 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "7ad459fae4960fc1",
+  "active": "3b7de334fc6faacd",
   "lastOpenFiles": [
-    "Using Strings - C.md",
+    "String Functions - C.md",
     "2. University/Modules/Programming/$ C - Programming Language.md",
-    "Strings - C.md",
+    "2. University/Modules/Programming/Unsorted/UString Functions - C.md",
+    "Using Strings - C.md",
+    "About Strings - C.md",
+    "1. Home Page/Home.canvas",
     "2. University/Modules/Programming/$U - File InputOutput - C.md",
     "2. University/Modules/Programming/Unsorted/Strings and Arrays - C.md",
-    "2. University/Modules/Programming/Unsorted/String Functions - C.md",
     "2. University/Modules/Programming/$U - Types of Files.md",
-    "1. Home Page/Home.canvas",
     "3. Notes/Guitar Wishlist.md",
     "2. University/Modules/Programming/Arrays - C.md",
     "3. Notes/Headphones & IEMs.md",
@@ -226,7 +275,6 @@
     "3. Notes/TV Shows & Movies & Anime & Manga.md",
     "2. University/Modules/Operating Systems/Software - Hardware.md",
     "2. University/Modules/Operating Systems/Computer System Structure.md",
-    "2. University/Modules/Programming/Unsorted/U Storage Classes - C.md",
     "2. University/Modules/Programming/$ Unfinished - File Input",
     "7. UNSORTED",
     "6. Templates",
