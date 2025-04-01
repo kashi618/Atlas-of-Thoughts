@@ -18,15 +18,40 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -1.298439741964993
+                  "zoom": -0.1113698142769439
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "7ad459fae4960fc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Modules/Programming/$U - File InputOutput - C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$U - File InputOutput - C"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,12 +197,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7ad459fae4960fc1",
   "lastOpenFiles": [
-    "Using Strings - C.md",
-    "2. University/Modules/Programming/Unsorted/Strings and Arrays - C.md",
+    "2. University/Modules/Programming/$U - Types of Files.md",
     "2. University/Modules/Programming/$ C - Programming Language.md",
     "1. Home Page/Home.canvas",
+    "Using Strings - C.md",
+    "2. University/Modules/Programming/Unsorted/Strings and Arrays - C.md",
     "3. Notes/Guitar Wishlist.md",
     "Strings - C.md",
     "2. University/Modules/Programming/Arrays - C.md",
@@ -200,7 +226,6 @@
     "2. University/Modules/Programming/$U - File InputOutput - C.md",
     "2. University/Modules/Programming/Unsorted/U Storage Classes - C.md",
     "2. University/Modules/Programming/Variables - C.md",
-    "2. University/Modules/Programming/Subscript and Pointer Notation - C.md",
     "2. University/Modules/Programming/$ Unfinished - File Input",
     "7. UNSORTED",
     "6. Templates",
