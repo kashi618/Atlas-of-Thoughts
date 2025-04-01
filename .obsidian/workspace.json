@@ -58,7 +58,7 @@
               "state": {
                 "file": "String Functions - C.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
