@@ -49,9 +49,33 @@
               "icon": "lucide-file",
               "title": "String Functions - C"
             }
+          },
+          {
+            "id": "f92447c1dd1e035e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Notes/Guitar Wishlist.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Guitar Wishlist"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,13 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "String Functions - C.md",
+                "file": "3. Notes/Guitar Wishlist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of String Functions - C"
+              "title": "Outline of Guitar Wishlist"
             }
           },
           {
@@ -197,8 +221,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "79200d81009b499e",
+  "active": "f92447c1dd1e035e",
   "lastOpenFiles": [
+    "String Functions - C.md",
     "2. University/Modules/Programming/$ C - Programming Language.md",
     "Using Strings - C.md",
     "File Modes - C.md",
@@ -209,7 +234,6 @@
     "2. University/Modules/Operating Systems/Exercises/OperatingSystems1-Lab10.2-C24510496.md",
     "2. University/Modules/Operating Systems/Exercises/OperatingSystems1-Lab10.1-C24510496.md",
     "About Strings - C.md",
-    "String Functions - C.md",
     "Operating System.md",
     "2. University/Modules/Operating Systems/$ Operating Systems.md",
     "2. University/Modules/Operating Systems/Unsorted Notes/UOperating System.md",

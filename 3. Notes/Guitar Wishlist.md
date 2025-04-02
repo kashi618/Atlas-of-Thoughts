@@ -19,56 +19,37 @@ tags:
 ### Headless
 
 - **Strandberg Boden Prog NX 7, Twilight Purple**
-![|490](https://i.imgur.com/Pdrmyww.png)
-
-- **Eart GW2 Headless, Purple Satin Finish**
-![|330](https://i.imgur.com/CBheK0x.png)
-
-- **Eart GW2 Headless, Blue Satin Finish**
-![|330](https://i.imgur.com/Ovg4R3r.png)
-
-- **Ibanez QX527PE**
-![|480](https://i.imgur.com/1v8XHB3.png)
-
----
+![|200](https://strandbergguitars.com/cdn-cgi/image/onerror=redirect,quality=85,format=auto,metadata=copyright,width=600/wp-content/uploads/2021/09/bd7tct-21p-l-q-pl_a-1.png)
+- **Eart GW2 Purple**
+![|250](https://eartguitar.com/cdn/shop/files/gw2_purple_front.jpg?v=1740993402&width=493)
+- **Ibanez RGD3121**
+![|450](https://www.ibanez.com/common/product_artist_file/file/p_region_RGD3121_PRF_00_01.png)
 
 ### Nylon Acoustic-Electric
 
 - **Ibanez TOD10N**
-![|480](https://i.imgur.com/4zhZjmH.png)
+![|450](https://www.ibanez.com/common/product_artist_file/file/p_region_TOD10N_TKF_5B_02.png)
 
----
+### Stratocaster
 
-### ST Style
-
-- **Ibanez SML721**
-![|480](https://i.imgur.com/3o40LvK.png)
-
----
-
-### T Style
+- **Ibanez SML721 Gold Chameleon**
+![|450](https://www.ibanez.com/common/product_artist_file/file/p_region_SML721_RGC_1P_02.png)
+- **Ibanez JEM7VP**
+![|450](https://www.ibanez.com/common/product_artist_file/file/p_region_JEM7VP_WH_1P_01.png)
+### Telecaster
 
 - **George Harrison Rosewood Telecaster**
-![|400](https://i.imgur.com/iUnBiXy.png)
----
+![|450](https://stuff.fendergarage.com/images/E/v/n/05_GH_PDP.jpg)
 
 ### Les Paul Style
 
 - **Gibson Les Paul, Translucent Fuchsia**
-   ![|200](https://i.imgur.com/tJfKfpf.png)
-
----
+![|300](https://images.ctfassets.net/m8onsx4mm13s/5TQzJ4HYBjG51wZJcOiHfX/df4aa999268fbedc387b7f92ceac4cd7/LPS600TFNH1_front.png?w=1200&h=1200)
 
 ### SG Style
 
-- **Gibson SG Supreme, Wine Red**
-
-![|350](https://i.imgur.com/O374qB1.png)
-
----
+- **- **Gibson SG Supreme
 
 ### Flying V
 
 - **Schecter Gary Holt V-1 FR**
-![|250](https://i.imgur.com/57zNvOH.png)
-

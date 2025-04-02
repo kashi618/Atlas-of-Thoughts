@@ -66,7 +66,8 @@ strcmp
 ### Convert String to Number
 If you have a string that contains only numbers, you can convert it to an integer or float.
 ```c showlinenumbers
-#
+#include <stdlib.h>
+atoi()
 ```
 
 
