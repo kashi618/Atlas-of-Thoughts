@@ -32,9 +32,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System.md",
+                "file": "String Functions - C.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Operating System"
+              "title": "String Functions - C"
             }
           }
         ],
@@ -199,9 +199,10 @@
   },
   "active": "d907681a52352a4f",
   "lastOpenFiles": [
-    "2. University/Modules/Operating Systems/$ Operating Systems.md",
+    "2. University/Modules/Programming/$ C - Programming Language.md",
     "Operating System.md",
     "1. Home Page/Home.canvas",
+    "2. University/Modules/Operating Systems/$ Operating Systems.md",
     "2. University/Modules/Operating Systems/Unsorted Notes/UOperating System.md",
     "2. University/Modules/Operating Systems/Software - Hardware.md",
     "Early Computers.md",
@@ -210,7 +211,6 @@
     "6. Templates/OOperating Systems.md",
     "Computer Generations.md",
     "String Functions - C.md",
-    "2. University/Modules/Programming/$ C - Programming Language.md",
     "2. University/Modules/Programming/Unsorted/UString Functions - C.md",
     "Using Strings - C.md",
     "About Strings - C.md",

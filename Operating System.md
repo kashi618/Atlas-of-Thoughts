@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 ## What is the Operating System
-It is set of programs that coordinate all the 
+It is set of programs that 
 
 # See Also
 [[$ Operating Systems]]
