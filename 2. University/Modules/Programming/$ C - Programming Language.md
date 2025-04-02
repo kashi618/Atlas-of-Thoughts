@@ -66,6 +66,6 @@ aliases: []
 
 
 **File Input/Output**
-- [[$U - Types of Files]]
-- [[$U - File InputOutput - C]] | **fopen(), fclose()**
-- [[$U - File Modes - C]]
+- [[Types of Files]]
+- [[File InputOutput - C]] | **fopen(), fclose()**
+- [[File Modes - C]]

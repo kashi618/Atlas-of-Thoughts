@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "String Functions - C",
+      "path": "String Functions - C.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "Using Strings - C",
+      "path": "Using Strings - C.md"
+    },
+    {
+      "basename": "File Modes - C",
+      "path": "File Modes - C.md"
+    },
+    {
+      "basename": "Casting - C",
+      "path": "2. University/Modules/Programming/Casting - C.md"
+    },
+    {
+      "basename": "Types of Files",
+      "path": "2. University/Modules/Programming/Types of Files.md"
+    },
+    {
+      "basename": "File InputOutput - C",
+      "path": "2. University/Modules/Programming/File InputOutput - C.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -13,20 +41,8 @@
       "path": "2. University/Modules/Operating Systems/Exercises/OperatingSystems1-Lab10.1-C24510496.md"
     },
     {
-      "basename": "Using Strings - C",
-      "path": "Using Strings - C.md"
-    },
-    {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
-    },
-    {
       "basename": "About Strings - C",
       "path": "About Strings - C.md"
-    },
-    {
-      "basename": "String Functions - C",
-      "path": "String Functions - C.md"
     },
     {
       "basename": "Operating System",
@@ -69,16 +85,8 @@
       "path": "2. University/Modules/Programming/Unsorted/UString Functions - C.md"
     },
     {
-      "basename": "$U - File InputOutput - C",
-      "path": "2. University/Modules/Programming/$U - File InputOutput - C.md"
-    },
-    {
       "basename": "Strings and Arrays - C",
       "path": "2. University/Modules/Programming/Unsorted/Strings and Arrays - C.md"
-    },
-    {
-      "basename": "$U - Types of Files",
-      "path": "2. University/Modules/Programming/$U - Types of Files.md"
     },
     {
       "basename": "Guitar Wishlist",
@@ -153,10 +161,6 @@
       "path": "Pass by Reference & Pass by Value - C.md"
     },
     {
-      "basename": "$U - File Modes - C",
-      "path": "$U - File Modes - C.md"
-    },
-    {
       "basename": "Keyboard Input - C",
       "path": "2. University/Modules/Programming/Keyboard Input - C.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Time Complexity",
       "path": "2. University/Modules/Algorithm Design and Problem Solving/Time Complexity.md"
-    },
-    {
-      "basename": "Selection Sort",
-      "path": "2. University/Modules/Algorithm Design and Problem Solving/Selection Sort.md"
     }
   ],
   "omittedPaths": [],

@@ -25,8 +25,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "79200d81009b499e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "String Functions - C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "String Functions - C"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -79,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College/Modules/Programming/Unsorted/FunctionsUNFINISHED - C.md",
+                "file": "String Functions - C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of FunctionsUNFINISHED - C"
+              "title": "Outline of String Functions - C"
             }
           },
           {
@@ -152,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,13 +197,17 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "3bd19bba09e6f6f0",
+  "active": "79200d81009b499e",
   "lastOpenFiles": [
+    "2. University/Modules/Programming/$ C - Programming Language.md",
+    "Using Strings - C.md",
+    "File Modes - C.md",
+    "2. University/Modules/Programming/Casting - C.md",
+    "2. University/Modules/Programming/Types of Files.md",
+    "2. University/Modules/Programming/File InputOutput - C.md",
     "1. Home Page/Home.canvas",
     "2. University/Modules/Operating Systems/Exercises/OperatingSystems1-Lab10.2-C24510496.md",
     "2. University/Modules/Operating Systems/Exercises/OperatingSystems1-Lab10.1-C24510496.md",
-    "Using Strings - C.md",
-    "2. University/Modules/Programming/$ C - Programming Language.md",
     "About Strings - C.md",
     "String Functions - C.md",
     "Operating System.md",
@@ -191,15 +220,12 @@
     "6. Templates/OOperating Systems.md",
     "Computer Generations.md",
     "2. University/Modules/Programming/Unsorted/UString Functions - C.md",
-    "2. University/Modules/Programming/$U - File InputOutput - C.md",
     "2. University/Modules/Programming/Unsorted/Strings and Arrays - C.md",
-    "2. University/Modules/Programming/$U - Types of Files.md",
     "3. Notes/Guitar Wishlist.md",
     "2. University/Modules/Programming/Arrays - C.md",
     "3. Notes/Headphones & IEMs.md",
     "2. University/Modules/Microprocessors Systems/Assembly.md",
     "2. University/Modules/Microprocessors Systems/Assembly Language.md",
-    "2. University/Modules/Microprocessors Systems/Assembly 1.md",
     "2. University/Modules/Programming/$ Unfinished - File Input",
     "7. UNSORTED",
     "6. Templates",
