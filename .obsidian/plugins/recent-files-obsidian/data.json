@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "OperatingSystems1-Lab10.2-C24510496",
       "path": "2. University/Modules/Operating Systems/Exercises/OperatingSystems1-Lab10.2-C24510496.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Operating System",
       "path": "Operating System.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "$ Operating Systems",
