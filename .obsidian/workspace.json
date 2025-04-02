@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Modules/Operating Systems/$ Operating Systems.md",
+                "file": "Operating System.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Operating Systems"
+              "title": "Operating System"
             }
           }
         ],
@@ -199,8 +199,8 @@
   },
   "active": "d907681a52352a4f",
   "lastOpenFiles": [
-    "Operating System.md",
     "2. University/Modules/Operating Systems/$ Operating Systems.md",
+    "Operating System.md",
     "1. Home Page/Home.canvas",
     "2. University/Modules/Operating Systems/Unsorted Notes/UOperating System.md",
     "2. University/Modules/Operating Systems/Software - Hardware.md",
