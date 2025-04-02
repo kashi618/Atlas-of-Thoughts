@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "String Functions - C",
-      "path": "String Functions - C.md"
+      "basename": "Using Strings - C",
+      "path": "Using Strings - C.md"
     },
     {
       "basename": "$ C - Programming Language",
       "path": "2. University/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "About Strings - C",
+      "path": "About Strings - C.md"
+    },
+    {
+      "basename": "String Functions - C",
+      "path": "String Functions - C.md"
     },
     {
       "basename": "Operating System",
@@ -51,14 +59,6 @@
     {
       "basename": "UString Functions - C",
       "path": "2. University/Modules/Programming/Unsorted/UString Functions - C.md"
-    },
-    {
-      "basename": "Using Strings - C",
-      "path": "Using Strings - C.md"
-    },
-    {
-      "basename": "About Strings - C",
-      "path": "About Strings - C.md"
     },
     {
       "basename": "$U - File InputOutput - C",

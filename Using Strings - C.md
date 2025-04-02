@@ -59,6 +59,5 @@ printf("This is a suuuper duuuper loonggg stringgg"
 "likeeeee itssssss sooooooooo longggggggg");
 ```
 
-
 # See Also
 [[$ C - Programming Language]]

@@ -56,10 +56,10 @@ Compares two strings, seeing if they are the same or not.
 strcmp
 ```
 
-### Compares First n Characters
-Compares the first n amount characters between two strings.
-
-```
+## Other Useful Functions
+- strchr (Finds first occurrence of character in strings)
+- strncmp (compares first n characters between two strings)
+- strncpy (Copies first n characters from source string to destination string)
 
 # See Also
 [[$ C - Programming Language]]

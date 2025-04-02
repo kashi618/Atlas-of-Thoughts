@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "String Functions - C.md",
+                "file": "Using Strings - C.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "String Functions - C"
+              "title": "Using Strings - C"
             }
           }
         ],
@@ -200,6 +200,8 @@
   "active": "d907681a52352a4f",
   "lastOpenFiles": [
     "2. University/Modules/Programming/$ C - Programming Language.md",
+    "About Strings - C.md",
+    "String Functions - C.md",
     "Operating System.md",
     "1. Home Page/Home.canvas",
     "2. University/Modules/Operating Systems/$ Operating Systems.md",
@@ -210,10 +212,8 @@
     "2. University/Modules/Operating Systems/Computer System Structure.md",
     "6. Templates/OOperating Systems.md",
     "Computer Generations.md",
-    "String Functions - C.md",
     "2. University/Modules/Programming/Unsorted/UString Functions - C.md",
     "Using Strings - C.md",
-    "About Strings - C.md",
     "2. University/Modules/Programming/$U - File InputOutput - C.md",
     "2. University/Modules/Programming/Unsorted/Strings and Arrays - C.md",
     "2. University/Modules/Programming/$U - Types of Files.md",
