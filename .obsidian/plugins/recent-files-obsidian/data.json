@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "OperatingSystems",
+      "path": "2. University/Modules/Operating Systems/Exercises/OperatingSystems.md"
+    },
+    {
       "basename": "Using Strings - C",
       "path": "Using Strings - C.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Recursive Fibonacci Algorithm",
       "path": "2. University/Modules/Algorithm Design and Problem Solving/Recursive Fibonacci Algorithm.md"
-    },
-    {
-      "basename": "Recursive Euclidean Algorithm",
-      "path": "2. University/Modules/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md"
     }
   ],
   "omittedPaths": [],

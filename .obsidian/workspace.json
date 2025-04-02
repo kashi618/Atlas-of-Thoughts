@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Using Strings - C.md",
+                "file": "2. University/Modules/Operating Systems/Exercises/OperatingSystems1-Lab10.1-C24510496.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Using Strings - C"
+              "title": "OperatingSystems1-Lab10.1-C24510496"
             }
           }
         ],
@@ -199,6 +199,8 @@
   },
   "active": "d907681a52352a4f",
   "lastOpenFiles": [
+    "Using Strings - C.md",
+    "2. University/Modules/Operating Systems/Exercises/OperatingSystems1-Lab10.1-C24510496.md",
     "2. University/Modules/Programming/$ C - Programming Language.md",
     "About Strings - C.md",
     "String Functions - C.md",
@@ -213,7 +215,6 @@
     "6. Templates/OOperating Systems.md",
     "Computer Generations.md",
     "2. University/Modules/Programming/Unsorted/UString Functions - C.md",
-    "Using Strings - C.md",
     "2. University/Modules/Programming/$U - File InputOutput - C.md",
     "2. University/Modules/Programming/Unsorted/Strings and Arrays - C.md",
     "2. University/Modules/Programming/$U - Types of Files.md",
