@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "OperatingSystems",
-      "path": "2. University/Modules/Operating Systems/Exercises/OperatingSystems.md"
+      "basename": "OperatingSystems1-Lab10.2-C24510496",
+      "path": "2. University/Modules/Operating Systems/Exercises/OperatingSystems1-Lab10.2-C24510496.md"
+    },
+    {
+      "basename": "OperatingSystems1-Lab10.1-C24510496",
+      "path": "2. University/Modules/Operating Systems/Exercises/OperatingSystems1-Lab10.1-C24510496.md"
     },
     {
       "basename": "Using Strings - C",
@@ -195,10 +199,6 @@
     {
       "basename": "Selection Sort",
       "path": "2. University/Modules/Algorithm Design and Problem Solving/Selection Sort.md"
-    },
-    {
-      "basename": "Recursive Fibonacci Algorithm",
-      "path": "2. University/Modules/Algorithm Design and Problem Solving/Recursive Fibonacci Algorithm.md"
     }
   ],
   "omittedPaths": [],

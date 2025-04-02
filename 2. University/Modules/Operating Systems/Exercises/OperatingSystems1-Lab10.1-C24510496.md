@@ -1,6 +1,5 @@
-### Format of the IF command
 **Checking if they are equal**
-```batch
+```batch showlinenumber
 SET myvar=Hello World
 
 IF "%myvar%"=="Hello World" (
@@ -9,8 +8,8 @@ IF "%myvar%"=="Hello World" (
 ```
 
 **Checking if they are NOT equal**
-```batch
-SET myvar=Hellow Earth
+```batch showlinenumber
+SET myvar=Hello Earth
 
 IF NOT "%myvar"=="Hello World" (
 	Echo The strings are not the same.
@@ -18,12 +17,12 @@ IF NOT "%myvar"=="Hello World" (
 ```
 
 **Checking if a file exists**
-```batch
+```batch showlinenumber
 IF EXIST "martin.txt" ECHO martin.txt exists
 IF NOT EXIST "martin.txt" ECHO martin.txt does not exist
 ```
 
-```batch
+```batch showlinenumber
 IF EXIST "martin.txt" (
 	ECHO martin.txt exists
 )
@@ -33,7 +32,7 @@ IF NOT EXIT "martin.txt" (
 ```
 
 **Jumping to specific lines**
-```batch
+```batch showlinenumber
 @ECHO off
 
 IF "%1"=="1" GOTO One
@@ -52,8 +51,8 @@ GOTO End
 :End
 ```
 
-**Calling batch files within a batch file**
-```batch
+### EXAMPLE 1
+```batch showlinenumber
 REM menu.bat
 
 @ECHO OFF
@@ -69,15 +68,31 @@ GOTO END
 :END
 ```
 
-```batch
+```batch showlinenumber
 REM todaysMenu.bat
 
 @ECHO OFF
 
-ECHO TODAY'S MENU
-ECHO Steak and Chips
-ECHO Stir Fried Veg
-ECHO Seafood Pasta
-ECHO Pizza
+ECHO Mc. Donalds Menu
+ECHO Quarter Pounder
+ECHO Big Mac
+ECHO Happy Meal
 ```
 
+### EXAMPLE 2
+```batch showlinenumber
+REM openFile.bat
+
+@ECHO off
+
+IF "%1%"=="notepad" (
+	GOTO OPENNOTEPAD
+)
+ECHO "%1" not found, please check spelling
+GOTO END
+
+:openNotepad
+CALL notepad
+
+:END
+```

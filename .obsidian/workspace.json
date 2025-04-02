@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Modules/Operating Systems/Exercises/OperatingSystems1-Lab10.1-C24510496.md",
+                "file": "2. University/Modules/Operating Systems/Exercises/OperatingSystems1-Lab10.2-C24510496.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "OperatingSystems1-Lab10.1-C24510496"
+              "title": "OperatingSystems1-Lab10.2-C24510496"
             }
           }
         ],
@@ -199,8 +199,9 @@
   },
   "active": "d907681a52352a4f",
   "lastOpenFiles": [
-    "Using Strings - C.md",
     "2. University/Modules/Operating Systems/Exercises/OperatingSystems1-Lab10.1-C24510496.md",
+    "2. University/Modules/Operating Systems/Exercises/OperatingSystems1-Lab10.2-C24510496.md",
+    "Using Strings - C.md",
     "2. University/Modules/Programming/$ C - Programming Language.md",
     "About Strings - C.md",
     "String Functions - C.md",
@@ -225,7 +226,6 @@
     "2. University/Modules/Microprocessors Systems/Assembly Language.md",
     "2. University/Modules/Microprocessors Systems/Assembly 1.md",
     "2. University/Modules/Programming/Unsorted/U Strings - C.md",
-    "2. University/Modules/Programming/Escape Sequence - C.md",
     "2. University/Modules/Programming/$ Unfinished - File Input",
     "7. UNSORTED",
     "6. Templates",
