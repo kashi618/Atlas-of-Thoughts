@@ -2,20 +2,6 @@
 tags:
   - useful
 ---
-
-
-## Index
-- [[#Headless]]
-- [[#Gibson Body]]
-- [[#Nylon Acoustic-Electric]]
-- [[#ST Style]]
-- [[#T Style]]
-- [[#Les Paul Style]]
-- [[#SG Style]]
-- [[#Flying V]]
-
----
-
 ### Headless
 
 - **Strandberg Boden Prog NX 7, Twilight Purple**
@@ -41,6 +27,8 @@ tags:
 - **George Harrison Rosewood Telecaster**
 ![|450](https://stuff.fendergarage.com/images/E/v/n/05_GH_PDP.jpg)
 
+- **Jack White Triplecaster**
+![|450](https://www.fender.com/cdn-cgi/image/format=png,resize=height=auto,width=850/https://www.fmicassets.com/Damroot/eCommPNG/10040/0176812706_fen_ins_frt_1_rr.png)
 ### Les Paul Style
 
 - **Gibson Les Paul, Translucent Fuchsia**
@@ -48,8 +36,10 @@ tags:
 
 ### SG Style
 
-- **- **Gibson SG Supreme
+- **1962 Les Paul SG Custom, Short Maestro, Ebony Block Classic White, Murphy Lab Light Aged**
+![|300](https://images.ctfassets.net/m8onsx4mm13s/35WYbNCwcqmAhlhFh9CYpy/9c39d8244258851ecbfd297e7cf311a3/SGC62PSL21643_front.png?w=1200&h=1200)
 
 ### Flying V
 
 - **Schecter Gary Holt V-1 FR**
+![|300](https://guitar-compare.com/wp-content/uploads/2020/05/Schecter-Gary-Holt-V-1-FR-Blood-Spatter_01.jpg)
