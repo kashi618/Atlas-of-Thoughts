@@ -8,7 +8,7 @@ C is a very powerful language using strings. It contains a rich set of built-in 
 
 **NOTE:** To use these functions, we must call the #include <string.h> header file.
 
-## String Length
+## Finds String Length
 Returns the number of characters in a string.
 - It does not count the NULL character.
 ```c showlinenumbers
@@ -27,7 +27,7 @@ Output:
 5
 ```
 
-## Copy String
+## Copys String
 Copies contents of a source string, and stores it at a destination string
 - **NOTE:** Destination string must contain enough space to store the source string.
 - The source string must also be NULL terminated
@@ -36,7 +36,7 @@ Copies contents of a source string, and stores it at a destination string
 strcpy(destinationString, sourceString);
 ```
 
-## Append String
+## Appends String
 Appends/joins the contents of a source string to the ends of a destination string
 - **NOTE:** Destination string must contain enough space to store the newly appended string
 - Both the source and destination string must be NULL terminated
@@ -46,7 +46,7 @@ Appends/joins the contents of a source string to the ends of a destination strin
 strcat(destinatioNString, sourceString);
 ```
 
-## Compare Strings
+## Compares Two Strings
 Compares two strings, seeing if they are the same or not.
 - It returns `0` if they are identical.
 - It returns `1` if they are different.
@@ -56,7 +56,10 @@ Compares two strings, seeing if they are the same or not.
 strcmp
 ```
 
+### Compares First n Characters
+Compares the first n amount characters between two strings.
 
+```
 
 # See Also
 [[$ C - Programming Language]]
