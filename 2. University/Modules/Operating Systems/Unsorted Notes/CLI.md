@@ -26,6 +26,6 @@ Provides a mechanism to combine sequences of commands togethor
 - A batch file (linux)
 
 # See Also
-[[Operating System]]
+[[UOperating System]]
 [[UI]]
 [[Shell]]

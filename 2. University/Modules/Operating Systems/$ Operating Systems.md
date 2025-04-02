@@ -4,12 +4,13 @@
 
 ## Parts of an Operating System
 [[Software - Hardware]]
-[[Computer System Structure]]
+[[Operating System]]
 [[Drivers]]
 
 ## Processes
 
 ## Storage Management
+
 
 ## Commands
 

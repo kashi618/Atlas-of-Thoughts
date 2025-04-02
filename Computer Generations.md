@@ -1,6 +1,6 @@
 ---
 tags:
-  - Opearting-Systems
+  - Operating-Systems
 aliases:
 ---
 **First Generation** (1945-1955)

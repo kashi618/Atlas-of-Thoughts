@@ -6,5 +6,5 @@ tags:
 "The one program running at all times on the computer" is the kernel. Everything else is either a system program or an application program
 
 # See Also
-[[Operating System]]
+[[UOperating System]]
 [[Software]]

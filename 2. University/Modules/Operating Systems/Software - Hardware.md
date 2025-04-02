@@ -1,6 +1,6 @@
 ---
 tags:
-  - Opearting-Systems
+  - Operating-Systems
 aliases:
   - Software
   - Hardware

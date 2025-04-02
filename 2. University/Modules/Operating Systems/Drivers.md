@@ -1,6 +1,6 @@
 ---
 tags:
-  - Opearting-Systems
+  - Operating-Systems
 aliases:
 ---
 A piece of [[Software - Hardware|Software]] that allows an operating system to communicate and use a piece of hardware connected to a computer. It facilitates communication between hardware and software.

@@ -15,5 +15,5 @@ A type 1 hypervisor is installed directly on the host OS, allowing it to rune a 
 A type 2 hypervisor is a piece of application software installed on a host OS, used to run and provide a virtual machine
 
 # See Also
-[[Operating System]]
+[[UOperating System]]
 [[Software]]

@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "$ Operating Systems",
+      "path": "2. University/Modules/Operating Systems/$ Operating Systems.md"
+    },
+    {
+      "basename": "Operating System",
+      "path": "Operating System.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "UOperating System",
+      "path": "2. University/Modules/Operating Systems/Unsorted Notes/UOperating System.md"
+    },
+    {
+      "basename": "Software - Hardware",
+      "path": "2. University/Modules/Operating Systems/Software - Hardware.md"
+    },
+    {
+      "basename": "Early Computers",
+      "path": "Early Computers.md"
+    },
+    {
+      "basename": "Drivers",
+      "path": "2. University/Modules/Operating Systems/Drivers.md"
+    },
+    {
+      "basename": "Computer System Structure",
+      "path": "2. University/Modules/Operating Systems/Computer System Structure.md"
+    },
+    {
+      "basename": "OOperating Systems",
+      "path": "6. Templates/OOperating Systems.md"
+    },
+    {
+      "basename": "Computer Generations",
+      "path": "Computer Generations.md"
     },
     {
       "basename": "String Functions - C",
@@ -85,32 +121,8 @@
       "path": "2. University/Modules/Operating Systems/Exercises/OperatingSystems1-Lab09-C24510496.md"
     },
     {
-      "basename": "$ Operating Systems",
-      "path": "2. University/Modules/Operating Systems/$ Operating Systems.md"
-    },
-    {
-      "basename": "Drivers",
-      "path": "2. University/Modules/Operating Systems/Drivers.md"
-    },
-    {
-      "basename": "Early Computers",
-      "path": "Early Computers.md"
-    },
-    {
-      "basename": "Computer Generations",
-      "path": "Computer Generations.md"
-    },
-    {
       "basename": "TV Shows & Movies & Anime & Manga",
       "path": "3. Notes/TV Shows & Movies & Anime & Manga.md"
-    },
-    {
-      "basename": "Software - Hardware",
-      "path": "2. University/Modules/Operating Systems/Software - Hardware.md"
-    },
-    {
-      "basename": "Computer System Structure",
-      "path": "2. University/Modules/Operating Systems/Computer System Structure.md"
     },
     {
       "basename": "U Storage Classes - C",
@@ -187,18 +199,6 @@
     {
       "basename": "Recursive Euclidean Algorithm",
       "path": "2. University/Modules/Algorithm Design and Problem Solving/Recursive Euclidean Algorithm.md"
-    },
-    {
-      "basename": "Factorial Algorithm",
-      "path": "2. University/Modules/Algorithm Design and Problem Solving/Factorial Algorithm.md"
-    },
-    {
-      "basename": "Exponents Algorithm",
-      "path": "2. University/Modules/Algorithm Design and Problem Solving/Exponents Algorithm.md"
-    },
-    {
-      "basename": "Algorithms",
-      "path": "2. University/Modules/Algorithm Design and Problem Solving/Algorithms.md"
     }
   ],
   "omittedPaths": [],

@@ -17,5 +17,5 @@ Stands for **Graphical User Interface**
 # See Also
 [[Software]]
 [[Hardware]]
-[[Operating System]]
+[[UOperating System]]
 [[CLI]]
