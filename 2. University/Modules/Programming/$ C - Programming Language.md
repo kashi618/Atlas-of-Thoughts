@@ -59,6 +59,7 @@ aliases: []
 - [[About Strings - C]]
 - [[Using Strings - C]]
 - [[String Functions - C]]
+- [[Arrays of Strings - C]]
 
 
 

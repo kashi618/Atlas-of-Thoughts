@@ -49,9 +49,33 @@
               "icon": "lucide-file",
               "title": "$ C - Programming Language"
             }
+          },
+          {
+            "id": "049dceb1981a113b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arrays of Strings - C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Arrays of Strings - C"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/Modules/Programming/$ C - Programming Language.md",
+                "file": "Arrays of Strings - C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of $ C - Programming Language"
+              "title": "Outline of Arrays of Strings - C"
             }
           },
           {
@@ -196,13 +220,14 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "8366fb848c1fa92a",
+  "active": "049dceb1981a113b",
   "lastOpenFiles": [
+    "Arrays of Strings - C.md",
+    "2. University/Modules/Programming/$ C - Programming Language.md",
+    "String Functions - C.md",
+    "Using Strings - C.md",
     "1. Home Page/Home.canvas",
     "3. Notes/Guitar Wishlist.md",
-    "String Functions - C.md",
-    "2. University/Modules/Programming/$ C - Programming Language.md",
-    "Using Strings - C.md",
     "File Modes - C.md",
     "2. University/Modules/Programming/Casting - C.md",
     "2. University/Modules/Programming/Types of Files.md",

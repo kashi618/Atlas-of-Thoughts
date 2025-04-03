@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "Arrays of Strings - C",
+      "path": "Arrays of Strings - C.md"
+    },
+    {
       "basename": "$ C - Programming Language",
       "path": "2. University/Modules/Programming/$ C - Programming Language.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
-    },
-    {
-      "basename": "Guitar Wishlist",
-      "path": "3. Notes/Guitar Wishlist.md"
     },
     {
       "basename": "String Functions - C",
@@ -19,6 +15,14 @@
     {
       "basename": "Using Strings - C",
       "path": "Using Strings - C.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Guitar Wishlist",
+      "path": "3. Notes/Guitar Wishlist.md"
     },
     {
       "basename": "File Modes - C",
@@ -195,10 +199,6 @@
     {
       "basename": "Home",
       "path": "Home Page/Home.canvas"
-    },
-    {
-      "basename": "Time Complexity",
-      "path": "2. University/Modules/Algorithm Design and Problem Solving/Time Complexity.md"
     }
   ],
   "omittedPaths": [],
