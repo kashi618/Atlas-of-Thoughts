@@ -17,65 +17,16 @@
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
                   "x": -240,
-                  "y": 158.42278481012661,
-                  "zoom": -0.8661442532652096
+                  "y": -45,
+                  "zoom": -2.0901978089715785
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "79200d81009b499e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "String Functions - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "String Functions - C"
-            }
-          },
-          {
-            "id": "f92447c1dd1e035e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Notes/Guitar Wishlist.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Guitar Wishlist"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -129,13 +79,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Notes/Guitar Wishlist.md",
+                "file": "1. Home Page/Home.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Guitar Wishlist"
+              "title": "Outline of Home"
             }
           },
           {
@@ -221,8 +171,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "f92447c1dd1e035e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "3. Notes/Guitar Wishlist.md",
     "String Functions - C.md",
     "2. University/Modules/Programming/$ C - Programming Language.md",
     "Using Strings - C.md",
@@ -245,7 +196,6 @@
     "Computer Generations.md",
     "2. University/Modules/Programming/Unsorted/UString Functions - C.md",
     "2. University/Modules/Programming/Unsorted/Strings and Arrays - C.md",
-    "3. Notes/Guitar Wishlist.md",
     "2. University/Modules/Programming/Arrays - C.md",
     "3. Notes/Headphones & IEMs.md",
     "2. University/Modules/Microprocessors Systems/Assembly.md",
