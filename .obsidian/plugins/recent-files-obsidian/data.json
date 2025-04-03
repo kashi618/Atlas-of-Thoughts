@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Structures - C",
+      "path": "7. UNSORTED/Structures - C.md"
+    },
+    {
+      "basename": "uStructures - C",
+      "path": "2. University/Modules/Programming/Unsorted/uStructures - C.md"
+    },
+    {
       "basename": "$ C - Programming Language",
       "path": "2. University/Modules/Programming/$ C - Programming Language.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "OperatingSystems1-Lab10.1-C24510496",
       "path": "2. University/Modules/Operating Systems/Exercises/OperatingSystems1-Lab10.1-C24510496.md"
-    },
-    {
-      "basename": "Operating System",
-      "path": "7. UNSORTED/Operating System.md"
-    },
-    {
-      "basename": "$ Operating Systems",
-      "path": "2. University/Modules/Operating Systems/$ Operating Systems.md"
     }
   ],
   "omittedPaths": [],
