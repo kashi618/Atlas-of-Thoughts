@@ -1,12 +1,156 @@
 {
   "recentFiles": [
     {
-      "basename": "Arrays of Strings - C",
-      "path": "7. UNSORTED/Arrays of Strings - C.md"
-    },
-    {
       "basename": "$ C - Programming Language",
       "path": "2. University/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "$U Structures - C",
+      "path": "2. University/Modules/Programming/$U Structures - C.md"
+    },
+    {
+      "basename": "String Functions - C",
+      "path": "2. University/Modules/Programming/String Functions - C.md"
+    },
+    {
+      "basename": "Storage Classes - C",
+      "path": "2. University/Modules/Programming/Storage Classes - C.md"
+    },
+    {
+      "basename": "Ampersand - C",
+      "path": "2. University/Modules/Programming/Ampersand - C.md"
+    },
+    {
+      "basename": "Arithmetic Operations and Expressions - C",
+      "path": "2. University/Modules/Programming/Arithmetic Operations and Expressions - C.md"
+    },
+    {
+      "basename": "Arrays - C",
+      "path": "2. University/Modules/Programming/Arrays - C.md"
+    },
+    {
+      "basename": "Arrays of Strings - C",
+      "path": "2. University/Modules/Programming/Arrays of Strings - C.md"
+    },
+    {
+      "basename": "Commenting - C",
+      "path": "2. University/Modules/Programming/Commenting - C.md"
+    },
+    {
+      "basename": "Casting - C",
+      "path": "2. University/Modules/Programming/Casting - C.md"
+    },
+    {
+      "basename": "Data Types - C",
+      "path": "2. University/Modules/Programming/Data Types - C.md"
+    },
+    {
+      "basename": "Delimiters - C",
+      "path": "2. University/Modules/Programming/Delimiters - C.md"
+    },
+    {
+      "basename": "Dereference Operators - C",
+      "path": "2. University/Modules/Programming/Dereference Operators - C.md"
+    },
+    {
+      "basename": "Dynamic Memory Allocation - C",
+      "path": "2. University/Modules/Programming/Dynamic Memory Allocation - C.md"
+    },
+    {
+      "basename": "Escape Sequence - C",
+      "path": "2. University/Modules/Programming/Escape Sequence - C.md"
+    },
+    {
+      "basename": "Faster Character Input Output - C",
+      "path": "2. University/Modules/Programming/Faster Character Input Output - C.md"
+    },
+    {
+      "basename": "File InputOutput - C",
+      "path": "2. University/Modules/Programming/File InputOutput - C.md"
+    },
+    {
+      "basename": "Functions - C",
+      "path": "2. University/Modules/Programming/Functions - C.md"
+    },
+    {
+      "basename": "If Statements- C",
+      "path": "2. University/Modules/Programming/If Statements- C.md"
+    },
+    {
+      "basename": "Incrementing & Decrementing - C",
+      "path": "2. University/Modules/Programming/Incrementing & Decrementing - C.md"
+    },
+    {
+      "basename": "K.I.S.S",
+      "path": "2. University/Modules/Programming/K.I.S.S.md"
+    },
+    {
+      "basename": "Keyboard Input - C",
+      "path": "2. University/Modules/Programming/Keyboard Input - C.md"
+    },
+    {
+      "basename": "Keyboard Output - C",
+      "path": "2. University/Modules/Programming/Keyboard Output - C.md"
+    },
+    {
+      "basename": "Logical Operators - C",
+      "path": "2. University/Modules/Programming/Logical Operators - C.md"
+    },
+    {
+      "basename": "Loops - C",
+      "path": "2. University/Modules/Programming/Loops - C.md"
+    },
+    {
+      "basename": "Multi-Dimensional Arrays - C",
+      "path": "2. University/Modules/Programming/Multi-Dimensional Arrays - C.md"
+    },
+    {
+      "basename": "Operator Precedence - C",
+      "path": "2. University/Modules/Programming/Operator Precedence - C.md"
+    },
+    {
+      "basename": "Order of Code - C",
+      "path": "2. University/Modules/Programming/Order of Code - C.md"
+    },
+    {
+      "basename": "Pointers - C",
+      "path": "2. University/Modules/Programming/Pointers - C.md"
+    },
+    {
+      "basename": "Precision Specification - C",
+      "path": "2. University/Modules/Programming/Precision Specification - C.md"
+    },
+    {
+      "basename": "Scope - C",
+      "path": "2. University/Modules/Programming/Scope - C.md"
+    },
+    {
+      "basename": "Signed & Unsigned Variables - C",
+      "path": "2. University/Modules/Programming/Signed & Unsigned Variables - C.md"
+    },
+    {
+      "basename": "Subscript and Pointer Notation - C",
+      "path": "2. University/Modules/Programming/Subscript and Pointer Notation - C.md"
+    },
+    {
+      "basename": "Switch Statement - C",
+      "path": "2. University/Modules/Programming/Switch Statement - C.md"
+    },
+    {
+      "basename": "Symbolic Names - C",
+      "path": "2. University/Modules/Programming/Symbolic Names - C.md"
+    },
+    {
+      "basename": "Types of Files",
+      "path": "2. University/Modules/Programming/Types of Files.md"
+    },
+    {
+      "basename": "Variable Naming Schemes",
+      "path": "2. University/Modules/Programming/Variable Naming Schemes.md"
+    },
+    {
+      "basename": "Variables - C",
+      "path": "2. University/Modules/Programming/Variables - C.md"
     },
     {
       "basename": "Study Plan Semester 2",
@@ -14,7 +158,7 @@
     },
     {
       "basename": "About Strings - C",
-      "path": "7. UNSORTED/About Strings - C.md"
+      "path": "2. University/Modules/Programming/About Strings - C.md"
     },
     {
       "basename": "Computer Generations",
@@ -25,12 +169,8 @@
       "path": "2. University/Modules/Programming/Unsorted/Strings and Arrays - C.md"
     },
     {
-      "basename": "String Functions - C",
-      "path": "7. UNSORTED/String Functions - C.md"
-    },
-    {
       "basename": "Using Strings - C",
-      "path": "7. UNSORTED/Using Strings - C.md"
+      "path": "2. University/Modules/Programming/Using Strings - C.md"
     },
     {
       "basename": "Home",
@@ -42,19 +182,7 @@
     },
     {
       "basename": "File Modes - C",
-      "path": "7. UNSORTED/File Modes - C.md"
-    },
-    {
-      "basename": "Casting - C",
-      "path": "2. University/Modules/Programming/Casting - C.md"
-    },
-    {
-      "basename": "Types of Files",
-      "path": "2. University/Modules/Programming/Types of Files.md"
-    },
-    {
-      "basename": "File InputOutput - C",
-      "path": "2. University/Modules/Programming/File InputOutput - C.md"
+      "path": "2. University/Modules/Programming/File Modes - C.md"
     },
     {
       "basename": "OperatingSystems1-Lab10.2-C24510496",
@@ -71,134 +199,6 @@
     {
       "basename": "$ Operating Systems",
       "path": "2. University/Modules/Operating Systems/$ Operating Systems.md"
-    },
-    {
-      "basename": "UOperating System",
-      "path": "2. University/Modules/Operating Systems/Unsorted Notes/UOperating System.md"
-    },
-    {
-      "basename": "Software - Hardware",
-      "path": "2. University/Modules/Operating Systems/Software - Hardware.md"
-    },
-    {
-      "basename": "Early Computers",
-      "path": "7. UNSORTED/Early Computers.md"
-    },
-    {
-      "basename": "Drivers",
-      "path": "2. University/Modules/Operating Systems/Drivers.md"
-    },
-    {
-      "basename": "Computer System Structure",
-      "path": "2. University/Modules/Operating Systems/Computer System Structure.md"
-    },
-    {
-      "basename": "OOperating Systems",
-      "path": "6. Templates/OOperating Systems.md"
-    },
-    {
-      "basename": "UString Functions - C",
-      "path": "2. University/Modules/Programming/Unsorted/UString Functions - C.md"
-    },
-    {
-      "basename": "Arrays - C",
-      "path": "2. University/Modules/Programming/Arrays - C.md"
-    },
-    {
-      "basename": "Headphones & IEMs",
-      "path": "3. Notes/Headphones & IEMs.md"
-    },
-    {
-      "basename": "Assembly",
-      "path": "2. University/Modules/Microprocessors Systems/Assembly.md"
-    },
-    {
-      "basename": "Assembly Language",
-      "path": "2. University/Modules/Microprocessors Systems/Assembly Language.md"
-    },
-    {
-      "basename": "Assembly 1",
-      "path": "2. University/Modules/Microprocessors Systems/Assembly 1.md"
-    },
-    {
-      "basename": "U Strings - C",
-      "path": "2. University/Modules/Programming/Unsorted/U Strings - C.md"
-    },
-    {
-      "basename": "Escape Sequence - C",
-      "path": "2. University/Modules/Programming/Escape Sequence - C.md"
-    },
-    {
-      "basename": "Storage Classes - C",
-      "path": "7. UNSORTED/Storage Classes - C.md"
-    },
-    {
-      "basename": "Signed & Unsigned Variables - C",
-      "path": "2. University/Modules/Programming/Signed & Unsigned Variables - C.md"
-    },
-    {
-      "basename": "Wishlist",
-      "path": "3. Notes/Wishlist.md"
-    },
-    {
-      "basename": "OperatingSystems1-Lab09-C24510496",
-      "path": "2. University/Modules/Operating Systems/Exercises/OperatingSystems1-Lab09-C24510496.md"
-    },
-    {
-      "basename": "TV Shows & Movies & Anime & Manga",
-      "path": "3. Notes/TV Shows & Movies & Anime & Manga.md"
-    },
-    {
-      "basename": "U Storage Classes - C",
-      "path": "2. University/Modules/Programming/Unsorted/U Storage Classes - C.md"
-    },
-    {
-      "basename": "Variables - C",
-      "path": "2. University/Modules/Programming/Variables - C.md"
-    },
-    {
-      "basename": "Subscript and Pointer Notation - C",
-      "path": "2. University/Modules/Programming/Subscript and Pointer Notation - C.md"
-    },
-    {
-      "basename": "Functions - C",
-      "path": "2. University/Modules/Programming/Functions - C.md"
-    },
-    {
-      "basename": "Pass by Reference & Pass by Value - C",
-      "path": "7. UNSORTED/Pass by Reference & Pass by Value - C.md"
-    },
-    {
-      "basename": "Keyboard Input - C",
-      "path": "2. University/Modules/Programming/Keyboard Input - C.md"
-    },
-    {
-      "basename": "Reading Strings - gets() - C",
-      "path": "2. University/Modules/Programming/Unsorted/Reading Strings - gets() - C.md"
-    },
-    {
-      "basename": "Order of Code - C",
-      "path": "2. University/Modules/Programming/Order of Code - C.md"
-    },
-    {
-      "basename": "Structures - C",
-      "path": "2. University/Modules/Programming/Unsorted/Structures - C.md"
-    },
-    {
-      "basename": "Arch Linux - Adding Drives",
-      "path": "3. Notes/Arch Linux - Adding Drives.md"
-    },
-    {
-      "basename": "Arch Linux - Installation",
-      "path": "3. Notes/Arch Linux - Installation.md"
-    },
-    {
-      "basename": "Structured English",
-      "path": "2. University/Modules/Algorithm Design and Problem Solving/Structured English.md"
-    },
-    {
-      "basename": "$ Algorithm Design",
-      "path": "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithm Design.md"
     }
   ],
   "omittedPaths": [],

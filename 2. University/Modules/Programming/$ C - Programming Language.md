@@ -61,9 +61,8 @@ aliases: []
 - [[String Functions - C]]
 - [[Arrays of Strings - C]]
 
-
 **Structures**
-
+- [[Structures - C]]
 
 **File Input/Output**
 - [[Types of Files]]
