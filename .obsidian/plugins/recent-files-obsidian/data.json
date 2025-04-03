@@ -2,19 +2,35 @@
   "recentFiles": [
     {
       "basename": "Arrays of Strings - C",
-      "path": "Arrays of Strings - C.md"
+      "path": "7. UNSORTED/Arrays of Strings - C.md"
     },
     {
       "basename": "$ C - Programming Language",
       "path": "2. University/Modules/Programming/$ C - Programming Language.md"
     },
     {
+      "basename": "Study Plan Semester 2",
+      "path": "2. University/TU856-1/Study Plan Semester 2.md"
+    },
+    {
+      "basename": "About Strings - C",
+      "path": "7. UNSORTED/About Strings - C.md"
+    },
+    {
+      "basename": "Computer Generations",
+      "path": "7. UNSORTED/Computer Generations.md"
+    },
+    {
+      "basename": "Strings and Arrays - C",
+      "path": "2. University/Modules/Programming/Unsorted/Strings and Arrays - C.md"
+    },
+    {
       "basename": "String Functions - C",
-      "path": "String Functions - C.md"
+      "path": "7. UNSORTED/String Functions - C.md"
     },
     {
       "basename": "Using Strings - C",
-      "path": "Using Strings - C.md"
+      "path": "7. UNSORTED/Using Strings - C.md"
     },
     {
       "basename": "Home",
@@ -26,7 +42,7 @@
     },
     {
       "basename": "File Modes - C",
-      "path": "File Modes - C.md"
+      "path": "7. UNSORTED/File Modes - C.md"
     },
     {
       "basename": "Casting - C",
@@ -49,12 +65,8 @@
       "path": "2. University/Modules/Operating Systems/Exercises/OperatingSystems1-Lab10.1-C24510496.md"
     },
     {
-      "basename": "About Strings - C",
-      "path": "About Strings - C.md"
-    },
-    {
       "basename": "Operating System",
-      "path": "Operating System.md"
+      "path": "7. UNSORTED/Operating System.md"
     },
     {
       "basename": "$ Operating Systems",
@@ -70,7 +82,7 @@
     },
     {
       "basename": "Early Computers",
-      "path": "Early Computers.md"
+      "path": "7. UNSORTED/Early Computers.md"
     },
     {
       "basename": "Drivers",
@@ -85,16 +97,8 @@
       "path": "6. Templates/OOperating Systems.md"
     },
     {
-      "basename": "Computer Generations",
-      "path": "Computer Generations.md"
-    },
-    {
       "basename": "UString Functions - C",
       "path": "2. University/Modules/Programming/Unsorted/UString Functions - C.md"
-    },
-    {
-      "basename": "Strings and Arrays - C",
-      "path": "2. University/Modules/Programming/Unsorted/Strings and Arrays - C.md"
     },
     {
       "basename": "Arrays - C",
@@ -126,7 +130,7 @@
     },
     {
       "basename": "Storage Classes - C",
-      "path": "Storage Classes - C.md"
+      "path": "7. UNSORTED/Storage Classes - C.md"
     },
     {
       "basename": "Signed & Unsigned Variables - C",
@@ -162,7 +166,7 @@
     },
     {
       "basename": "Pass by Reference & Pass by Value - C",
-      "path": "Pass by Reference & Pass by Value - C.md"
+      "path": "7. UNSORTED/Pass by Reference & Pass by Value - C.md"
     },
     {
       "basename": "Keyboard Input - C",
@@ -195,10 +199,6 @@
     {
       "basename": "$ Algorithm Design",
       "path": "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithm Design.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home Page/Home.canvas"
     }
   ],
   "omittedPaths": [],
