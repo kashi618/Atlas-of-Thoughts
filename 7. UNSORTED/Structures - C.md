@@ -80,15 +80,24 @@ int main(void) {
 
 // Structure Template
 struct studentInfo {
-	int age;
-	float marks;
-}
+	char  sex; 
+	int   age;
+	int   roleNumber;
+	float totalMarks;
+};
 
 int main(void) {
-	// Initialize Structure Members
+	// Initialize Structure Member John_Doe
+	struct studentInfo John_Doe = { 'M',    // sex
+									24,     // age
+									1,      // roleNumber
+									95.25   // totalMarks
+								  };
 	
+	// End program
 	return 0;
 }
 ```
+
 # See Also
 [[$ C - Programming Language]]
