@@ -18,88 +18,15 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -2.0901978089715785
+                  "zoom": -2.1136567817955676
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "8366fb848c1fa92a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Modules/Programming/$ C - Programming Language.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ C - Programming Language"
-            }
-          },
-          {
-            "id": "e70dded0a2b74080",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. UNSORTED/Structures - C.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Structures - C"
-            }
-          },
-          {
-            "id": "4d6e5b27a4910230",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Modules/Programming/Unsorted/uStructures - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "uStructures - C"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -153,13 +79,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. UNSORTED/Structures - C.md",
+                "file": "1. Home Page/Home.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Structures - C"
+              "title": "Outline of Home"
             }
           },
           {
@@ -245,10 +171,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e70dded0a2b74080",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2. University/Modules/Programming/Unsorted/uStructures - C.md",
     "7. UNSORTED/Structures - C.md",
+    "2. University/Modules/Programming/Unsorted/uStructures - C.md",
     "2. University/Modules/Programming/$ C - Programming Language.md",
     "2. University/Modules/Programming/$U Structures - C.md",
     "2. University/Modules/Programming/String Functions - C.md",

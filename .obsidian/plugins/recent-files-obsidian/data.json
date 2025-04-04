@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Structures - C",
       "path": "7. UNSORTED/Structures - C.md"
     },
@@ -179,10 +183,6 @@
     {
       "basename": "Using Strings - C",
       "path": "2. University/Modules/Programming/Using Strings - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Guitar Wishlist",
