@@ -38,7 +38,7 @@ member1.variableName = value;
 ```
 - The name of the member comes first!
   
-**Example**
+**FULL Example**
 ```c showlinenumbers
 #include <stdio.h>
 

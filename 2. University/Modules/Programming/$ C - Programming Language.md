@@ -62,6 +62,7 @@ aliases: []
 
 **Structures**
 - [[Structures - C]]
+- [[Structure Pointers - C]]
 
 **File Input/Output**
 - [[Types of Files]]

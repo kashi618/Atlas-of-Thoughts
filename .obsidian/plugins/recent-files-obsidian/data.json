@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Structures - C",
-      "path": "7. UNSORTED/Structures - C.md"
+      "basename": "Structure Pointers - C",
+      "path": "2. University/Modules/Programming/Structure Pointers - C.md"
     },
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
+      "basename": "Structures - C",
+      "path": "2. University/Modules/Programming/Structures - C.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
     },
     {
       "basename": "Guitar Songs to Learn",
       "path": "3. Notes/Guitar Songs to Learn.md"
     },
     {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Descartes",
@@ -195,10 +199,6 @@
     {
       "basename": "Computer Generations",
       "path": "7. UNSORTED/Computer Generations.md"
-    },
-    {
-      "basename": "Strings and Arrays - C",
-      "path": "2. University/Modules/Programming/Unsorted/Strings and Arrays - C.md"
     }
   ],
   "omittedPaths": [],

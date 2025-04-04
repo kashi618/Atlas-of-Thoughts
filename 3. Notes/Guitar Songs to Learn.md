@@ -6,3 +6,6 @@
 - Polyphia - The Worst
 - Polyphia - Playing God
 - Born of Osiris - Machine
+- 逃跑计划 - 夜空中最亮的星
+- 逃跑计划 - Magic Elevator
+  
