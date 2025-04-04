@@ -25,8 +25,57 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "930e5be090a104f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Modules/Programming/$ C - Programming Language.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ C - Programming Language"
+            }
+          },
+          {
+            "id": "654bd6fdbb3b82c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. UNSORTED/Structures - C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Structures - C"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Home Page/Home.canvas",
+                "file": "7. UNSORTED/Structures - C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Structures - C"
             }
           },
           {
@@ -171,11 +220,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "654bd6fdbb3b82c7",
   "lastOpenFiles": [
+    "2. University/Modules/Programming/$ C - Programming Language.md",
+    "1. Home Page/Home.canvas",
     "7. UNSORTED/Structures - C.md",
     "2. University/Modules/Programming/Unsorted/uStructures - C.md",
-    "2. University/Modules/Programming/$ C - Programming Language.md",
     "2. University/Modules/Programming/$U Structures - C.md",
     "2. University/Modules/Programming/String Functions - C.md",
     "2. University/Modules/Programming/Storage Classes - C.md",
@@ -198,8 +248,6 @@
     "2. University/Modules/Programming/K.I.S.S.md",
     "2. University/Modules/Programming/Keyboard Input - C.md",
     "2. University/Modules/Programming/Keyboard Output - C.md",
-    "2. University/Modules/Programming/Logical Operators - C.md",
-    "1. Home Page/Home.canvas",
     "2. University/Modules/Programming/$ Unfinished - File Input",
     "7. UNSORTED",
     "6. Templates",

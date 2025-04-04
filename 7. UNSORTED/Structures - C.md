@@ -42,8 +42,8 @@ member1.variableName = value;
 #include <stdio.h>
 
 // Structure Template
-struct studentInfo {
-	char  sex;
+struct studentInfo { // Structure Tag
+	char  sex; // Structure Members
 	int   age;
 	int   roleNumber;
 	float totalMarks;
