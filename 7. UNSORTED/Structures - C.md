@@ -3,7 +3,7 @@ tags:
   - C
 aliases:
 ---
-A structure is a data structure that can be used to store different types of data under the same name. It is a very powerful feature in C. It is often used to create and model real world data.
+A structure is a data structure that can be used to store different types of data under the same name. It is a very powerful feature in C. It is often used to create and model real world data.
 
 ## How to Use a Structure
 ![[Pasted image 20250404131830.png]]
@@ -24,16 +24,15 @@ struct structureTag {
 - **NOTE:** Don't forget the semicolon!
 - **NOTE:** Assigning strings don't work. Use strcpy()
 
-**2) Create Structure Variables**
+**2) Declare Structure Variables**
 ```c showlinenumbers
 int main(void) {
-	// Creating 2 members 
+	// Create 2 structure variables 
 	struct structureTag member1, member3; 
 }
 ```
 
-
-**3) Add/Remove Values to Members**
+**3) Changing Value of Structure Variables**
 ```c showlinenumbers 
 member1.variableName = value;
 ```
@@ -45,33 +44,37 @@ member1.variableName = value;
 
 // Structure Template
 struct studentInfo { // Structure Tag
-	char  sex; // Structure Members
+	// Structure Members
+	char  sex; 
 	int   age;
 	int   roleNumber;
 	float totalMarks;
 };
 
 int main(void) {
+	// Declare structure variables
 	struct studentInfo John, Jane;
 	
 	// Values for John
-	John.sex = 'M';
-	John.age = 24;
-	John.roleNumber = 1;
-	John.totalMarks = 69.33;
+	printf("Enter values for John (sex, age, role number, total marks");
+	scanf("%c", &John.sex);
+	scanf("%d", &John.age);
+	scanf("%d", &John.roleNumber);
+	scanf("%f", &John.totalMarks);
 	
 	// Values for Jane
-	Jane.sex = 'F';
-	Jane.age = 23;
-	Jane.roleNumber = 2;
-	Jane.totalMarks = 96.66;
+	printf("Enter values for Jane (sex, age, role number, total marks");
+	scanf("%c", &Jane.sex);
+	scanf("%d", &Jane.age);
+	scanf("%d", &Jane.roleNumber);
+	scanf("%f", &Jane.totalMarks);
 	
 	// End program
 	return 0;
 }
 ```
 
-## Initializing a Structure
+## Initializing a Structure (Structure with Set Variables)
 ```c showlinenumbers
 #include <stdio.h>
 
@@ -81,7 +84,11 @@ struct studentInfo {
 	float marks;
 }
 
-int main
+int main(void) {
+	// Initialize Structure Members
+	
+	return 0;
+}
 ```
 # See Also
 [[$ C - Programming Language]]

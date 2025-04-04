@@ -3,7 +3,6 @@ tags:
   - C
 aliases: []
 ---
-
 **Basic Concepts**
 - [[Order of Code - C]]
 - [[Escape Sequence - C]]

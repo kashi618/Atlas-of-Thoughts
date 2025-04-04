@@ -24,8 +24,8 @@
 		{"id":"fb764df74f659912","type":"file","file":"4. Other/explosion.gif","x":340,"y":-510,"width":70,"height":70},
 		{"id":"0cf48a7746d45d0e","type":"file","file":"4. Other/explosion.gif","x":410,"y":-510,"width":70,"height":70},
 		{"id":"48d123dde7208a81","type":"text","text":"<h1><center>Welcome to the Atlas of Thoughts</center></h1>","x":-750,"y":-510,"width":1019,"height":70,"color":"6"},
-		{"id":"30a2ae2d9645ff2b","type":"text","text":"# Unfinished Notes\n```dataview\nLIST\nFROM #NOT-FINISHED\n```","x":-459,"y":-230,"width":440,"height":650},
-		{"id":"58d2d28bdd32c1c1","type":"file","file":"3. Notes/Wishlist.md","x":-19,"y":-230,"width":498,"height":650}
+		{"id":"58d2d28bdd32c1c1","type":"file","file":"3. Notes/Wishlist.md","x":-19,"y":-230,"width":498,"height":650},
+		{"id":"3c746dc00007b004","x":-460,"y":-230,"width":440,"height":650,"type":"file","file":"3. Notes/Guitar Songs to Learn.md"}
 	],
 	"edges":[]
 }

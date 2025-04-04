@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "2a5c4541090a075a",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "0fdc5ec98bd51a81",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -2.1136567817955676
+                  "zoom": -0.8512794905442518
                 }
               },
               "pinned": true,
@@ -27,38 +27,14 @@
             }
           },
           {
-            "id": "930e5be090a104f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Modules/Programming/$ C - Programming Language.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ C - Programming Language"
-            }
-          },
-          {
-            "id": "654bd6fdbb3b82c7",
+            "id": "baae6dc7606e5204",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "7. UNSORTED/Structures - C.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -73,33 +49,9 @@
               "icon": "lucide-file",
               "title": "Structures - C"
             }
-          },
-          {
-            "id": "fb59b33278bce74f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Modules/Programming/Unsorted/uStructures - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "uStructures - C"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,14 +196,15 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "654bd6fdbb3b82c7",
+  "active": "baae6dc7606e5204",
   "lastOpenFiles": [
-    "2. University/Modules/Programming/Unsorted/uStructures - C.md",
+    "1. Home Page/Home.canvas",
     "7. UNSORTED/Structures - C.md",
+    "3. Notes/Guitar Songs to Learn.md",
+    "2. University/Modules/Programming/$ C - Programming Language.md",
+    "2. University/Modules/Programming/Unsorted/uStructures - C.md",
     "Other/Pasted image 20250404131830.png",
     "Other",
-    "2. University/Modules/Programming/$ C - Programming Language.md",
-    "1. Home Page/Home.canvas",
     "2. University/Modules/Programming/$U Structures - C.md",
     "2. University/Modules/Programming/String Functions - C.md",
     "2. University/Modules/Programming/Storage Classes - C.md",
@@ -273,7 +226,6 @@
     "2. University/Modules/Programming/Incrementing & Decrementing - C.md",
     "2. University/Modules/Programming/K.I.S.S.md",
     "2. University/Modules/Programming/Keyboard Input - C.md",
-    "2. University/Modules/Programming/Keyboard Output - C.md",
     "2. University/Modules/Programming/$ Unfinished - File Input",
     "7. UNSORTED",
     "6. Templates",
