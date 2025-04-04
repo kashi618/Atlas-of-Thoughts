@@ -64,6 +64,7 @@ aliases: []
 - [[Creating Structures - C]]
 - [[Structure Pointers - C]]
 - [[Structure Functions - C]]
+- [[Nested Structures - C]]
 
 **File Input/Output**
 - [[Types of Files]]

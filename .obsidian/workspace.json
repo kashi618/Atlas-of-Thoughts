@@ -51,30 +51,6 @@
             }
           },
           {
-            "id": "4061e425486880a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Modules/Programming/Structure Pointers - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Structure Pointers - C"
-            }
-          },
-          {
             "id": "77bca66edc45abe6",
             "type": "leaf",
             "state": {
@@ -99,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,13 +129,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. UNSORTED/Structure Functions - C.md",
+                "file": "2. University/Modules/Programming/$ C - Programming Language.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Structure Functions - C"
+              "title": "Outline of $ C - Programming Language"
             }
           },
           {
@@ -245,7 +221,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "77bca66edc45abe6",
+  "active": "b3fc9f604169d2a5",
   "lastOpenFiles": [
     "2. University/Modules/Programming/Structure Pointers - C.md",
     "7. UNSORTED/Structure Functions - C.md",
