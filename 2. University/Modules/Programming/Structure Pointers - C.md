@@ -42,9 +42,22 @@ int main(void) {
 ```
 
 ## Dereferencing Structure Pointer
-There are two ways of dereferencing a structure pointer.
+There are two ways to dereference a structure pointer.
 
-```c showlinenumbers {20-23}
+**1) Dereferencing Structure Pointer**
+```c showlinenumbers
+(*ptr).structureMember
+```
+  
+**2) Arrow Notation**
+```c showlinenumbers
+ptr -> structureMember
+```
+
+- Both these methods do the same thing. However, arrow notation is preferred due to its readability.
+
+**Example**
+```c showlinenumbers
 #include <stdio.h>
 
 // Structure Template
@@ -65,24 +78,21 @@ int main(void) {
 								  };
 	
 	// Create structure pointer
-	struct studentInfo *ptr;
+	struct studentInfo *ptrJohn;
 	// Assign pointer to address location of John_Doe
-	ptr = &John_Doe;
+	ptrJohn = &John_Doe;
+	
+// Printing John's age using the structure pointer
+	// Method 1 (dereferncing pointer)
+	printf("Age: %d\n", (*ptrJohn).age);
+	
+	// Method 2 (arrow notation)
+	printf("Age: %d\n", ptrJohn -> age);
 	
 	// End program
 	return 0;
 }
 ```
-
-### 1) Dereferencing the Structure Pointer
-```c showlinenumbers
-
-```
-```c showlinenumbers
-printf("%d", 
-```
-
-### 2) Arrow Operator
 
 # See Also
 [[$ C - Programming Language]]

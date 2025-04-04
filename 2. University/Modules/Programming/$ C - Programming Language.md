@@ -55,14 +55,15 @@ aliases: []
 - [[Pass by Reference & Pass by Value - C]]
 
 **Strings**
-- [[About Strings - C]]
+- [[About Strings and String Anatomy - C]]
 - [[Using Strings - C]]
 - [[String Functions - C]]
 - [[Arrays of Strings - C]]
 
 **Structures**
-- [[Structures - C]]
+- [[Creating Structures - C]]
 - [[Structure Pointers - C]]
+- [[Structure Functions - C]]
 
 **File Input/Output**
 - [[Types of Files]]
