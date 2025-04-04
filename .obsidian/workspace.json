@@ -73,6 +73,30 @@
               "icon": "lucide-file",
               "title": "Structures - C"
             }
+          },
+          {
+            "id": "fb59b33278bce74f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Modules/Programming/Unsorted/uStructures - C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "uStructures - C"
+            }
           }
         ],
         "currentTab": 2
@@ -222,10 +246,12 @@
   },
   "active": "654bd6fdbb3b82c7",
   "lastOpenFiles": [
+    "2. University/Modules/Programming/Unsorted/uStructures - C.md",
+    "7. UNSORTED/Structures - C.md",
+    "Other/Pasted image 20250404131830.png",
+    "Other",
     "2. University/Modules/Programming/$ C - Programming Language.md",
     "1. Home Page/Home.canvas",
-    "7. UNSORTED/Structures - C.md",
-    "2. University/Modules/Programming/Unsorted/uStructures - C.md",
     "2. University/Modules/Programming/$U Structures - C.md",
     "2. University/Modules/Programming/String Functions - C.md",
     "2. University/Modules/Programming/Storage Classes - C.md",
@@ -257,7 +283,6 @@
     "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 5 - Programming Tutorial.pdf",
     "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 4 - Programming Tutorial.pdf",
     "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 3 - Programming Tutorial.pdf",
-    "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 2 - Programming Tutorial.pdf",
     "4. Other/obsidian-icon.png",
     "4. Other/obamna.gif",
     "4. Other/explosion.gif",
@@ -266,7 +291,6 @@
     "4. Other/RTX4070 (mobile) Stock Kombustor.png",
     "4. Other/RTX4070 (mobile) Stock HWINFO.png",
     "4. Other/RTX4070 (mobile) Overclocked Undervolted Kombustor.png",
-    "4. Other/RTX4070 (mobile) Overclocked Undervolted HWINFO.png",
-    "4. Other/Pasted image 20250312092722.png"
+    "4. Other/RTX4070 (mobile) Overclocked Undervolted HWINFO.png"
   ]
 }

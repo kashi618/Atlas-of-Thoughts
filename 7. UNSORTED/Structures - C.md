@@ -6,6 +6,8 @@ aliases:
 A structure is a data structure that can be used to store different types of data under the same name. It is a very powerful feature in C. It is often used to create and model real world data.
 
 ## How to Use a Structure
+![[Pasted image 20250404131830.png]]
+
 **1) Structure Template**
 ```c showlinenumbers
 // Structure Template
@@ -69,6 +71,17 @@ int main(void) {
 }
 ```
 
+## Initializing a Structure
+```c showlinenumbers
+#include <stdio.h>
 
+// Structure Template
+struct studentInfo {
+	int age;
+	float marks;
+}
+
+int main
+```
 # See Also
 [[$ C - Programming Language]]
