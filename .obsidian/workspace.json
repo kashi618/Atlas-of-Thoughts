@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a5c4541090a075a",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "0fdc5ec98bd51a81",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,64 +18,15 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -0.8512794905442518
+                  "zoom": -2.1136567817955676
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "b3fc9f604169d2a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Modules/Programming/$ C - Programming Language.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ C - Programming Language"
-            }
-          },
-          {
-            "id": "77bca66edc45abe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. UNSORTED/Structure Functions - C.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Structure Functions - C"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -129,13 +79,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/Modules/Programming/$ C - Programming Language.md",
+                "file": "1. Home Page/Home.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of $ C - Programming Language"
+              "title": "Outline of Home"
             }
           },
           {
@@ -221,11 +171,11 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "b3fc9f604169d2a5",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2. University/Modules/Programming/$ C - Programming Language.md",
     "2. University/Modules/Programming/Structure Pointers - C.md",
     "7. UNSORTED/Structure Functions - C.md",
-    "2. University/Modules/Programming/$ C - Programming Language.md",
     "2. University/Modules/Programming/About Strings and String Anatomy - C.md",
     "2. University/Modules/Programming/Creating Structures - C.md",
     "1. Home Page/Home.canvas",
