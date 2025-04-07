@@ -2,7 +2,6 @@
 tags:
   - Operating-Systems
 aliases:
-  - Process Control Block
   - PCB
 ---
 To allow an OS to support many processes at once, each process needs to have a specific piece of data. This data allows the OS to find out about each process, without needing to remember every process that is running.

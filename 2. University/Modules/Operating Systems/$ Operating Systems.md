@@ -10,10 +10,12 @@
 ## Processes
 - [[Processes - Introduction]]
 - [[Process States and Transitions]]
-- [[Process Data]]
+- [[Process Control Block]]
 - [[Process Context Switching]]
+- [[Process Scheduling]]
 
-
+[[Multiprogramming]]
+[[Timesharing]]
 - Process Concept
 - Process Scheduling
 - Operations on Processes
