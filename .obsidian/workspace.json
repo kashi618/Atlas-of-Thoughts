@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -240,
                   "y": -45,
-                  "zoom": -2.1136567817955676
+                  "zoom": -2.1295107329964043
                 }
               },
               "pinned": true,
@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "c30345f75db1cb42",
+            "id": "22cb108b421b6540",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Modules/Operating Systems/$ Operating Systems.md",
+                "file": "7. UNSORTED/Processes Concept.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,35 +47,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Operating Systems"
-            }
-          },
-          {
-            "id": "7fc241c3b470a743",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. UNSORTED/Processes - Introduction.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Processes - Introduction"
+              "title": "Processes Concept"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,12 +84,12 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -129,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. UNSORTED/Processes - Introduction.md",
+                "file": "7. UNSORTED/Processes Concept.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Processes - Introduction"
+              "title": "Outline of Processes Concept"
             }
           },
           {
@@ -221,12 +197,14 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "7fc241c3b470a743",
+  "active": "22cb108b421b6540",
   "lastOpenFiles": [
-    "Other/Pasted image 20250407150922.png",
+    "1. Home Page/Home.canvas",
+    "7. UNSORTED/Processes Concept.md",
+    "vim_config.vimrc.md",
     "7. UNSORTED/Processes - Introduction.md",
     "2. University/Modules/Operating Systems/$ Operating Systems.md",
-    "1. Home Page/Home.canvas",
+    "Other/Pasted image 20250407150922.png",
     "4. Other/obamna.gif",
     "2. University/Modules/Programming/Unsorted/uStructures - C.md",
     "7. UNSORTED/Computer Generations.md",
@@ -251,8 +229,6 @@
     "2. University/Modules/Programming/Commenting - C.md",
     "2. University/Modules/Programming/Casting - C.md",
     "2. University/Modules/Programming/Data Types - C.md",
-    "2. University/Modules/Programming/Delimiters - C.md",
-    "2. University/Modules/Programming/Dereference Operators - C.md",
     "2. University/Modules/Programming/$ Unfinished - File Input",
     "7. UNSORTED",
     "6. Templates",
@@ -268,7 +244,6 @@
     "4. Other/RTX4070 (mobile) Voltage Frequency Curve.png",
     "4. Other/RTX4070 (mobile) Stock Kombustor.png",
     "4. Other/RTX4070 (mobile) Stock HWINFO.png",
-    "4. Other/RTX4070 (mobile) Overclocked Undervolted Kombustor.png",
-    "4. Other/RTX4070 (mobile) Overclocked Undervolted HWINFO.png"
+    "4. Other/RTX4070 (mobile) Overclocked Undervolted Kombustor.png"
   ]
 }

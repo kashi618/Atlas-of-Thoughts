@@ -20,5 +20,6 @@
   "shiki-highlighter",
   "widgets",
   "obsidian-projects",
-  "dataview"
+  "dataview",
+  "obsidian-vimrc-support"
 ]

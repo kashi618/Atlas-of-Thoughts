@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Processes Concept",
+      "path": "7. UNSORTED/Processes Concept.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Processes - Introduction",
       "path": "7. UNSORTED/Processes - Introduction.md"
     },
     {
       "basename": "$ Operating Systems",
       "path": "2. University/Modules/Operating Systems/$ Operating Systems.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "obamna",
@@ -191,14 +195,6 @@
     {
       "basename": "Scope - C",
       "path": "2. University/Modules/Programming/Scope - C.md"
-    },
-    {
-      "basename": "Signed & Unsigned Variables - C",
-      "path": "2. University/Modules/Programming/Signed & Unsigned Variables - C.md"
-    },
-    {
-      "basename": "Subscript and Pointer Notation - C",
-      "path": "2. University/Modules/Programming/Subscript and Pointer Notation - C.md"
     }
   ],
   "omittedPaths": [],
