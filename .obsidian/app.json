@@ -5,7 +5,7 @@
   "showLineNumber": true,
   "spellcheck": true,
   "defaultViewMode": "source",
-  "vimMode": false,
+  "vimMode": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "7. UNSORTED",
   "showUnsupportedFiles": true,

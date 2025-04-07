@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Processes - Introduction",
+      "path": "7. UNSORTED/Processes - Introduction.md"
+    },
+    {
+      "basename": "$ Operating Systems",
+      "path": "2. University/Modules/Operating Systems/$ Operating Systems.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "obamna",
+      "path": "4. Other/obamna.gif"
+    },
+    {
+      "basename": "uStructures - C",
+      "path": "2. University/Modules/Programming/Unsorted/uStructures - C.md"
+    },
+    {
+      "basename": "Computer Generations",
+      "path": "7. UNSORTED/Computer Generations.md"
+    },
+    {
+      "basename": "Computer System Structure",
+      "path": "2. University/Modules/Operating Systems/Computer System Structure.md"
+    },
+    {
       "basename": "Structures - Passing to Functions - C",
       "path": "7. UNSORTED/Structures - Passing to Functions - C.md"
     },
@@ -37,10 +65,6 @@
       "path": "2. University/Modules/Programming/Structure Pointers - C.md"
     },
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
-    },
-    {
       "basename": "Guitar Songs to Learn",
       "path": "3. Notes/Guitar Songs to Learn.md"
     },
@@ -55,14 +79,6 @@
     {
       "basename": "explosion",
       "path": "4. Other/explosion.gif"
-    },
-    {
-      "basename": "obamna",
-      "path": "4. Other/obamna.gif"
-    },
-    {
-      "basename": "uStructures - C",
-      "path": "2. University/Modules/Programming/Unsorted/uStructures - C.md"
     },
     {
       "basename": "String Functions - C",
@@ -183,22 +199,6 @@
     {
       "basename": "Subscript and Pointer Notation - C",
       "path": "2. University/Modules/Programming/Subscript and Pointer Notation - C.md"
-    },
-    {
-      "basename": "Switch Statement - C",
-      "path": "2. University/Modules/Programming/Switch Statement - C.md"
-    },
-    {
-      "basename": "Symbolic Names - C",
-      "path": "2. University/Modules/Programming/Symbolic Names - C.md"
-    },
-    {
-      "basename": "Types of Files",
-      "path": "2. University/Modules/Programming/Types of Files.md"
-    },
-    {
-      "basename": "Variable Naming Schemes",
-      "path": "2. University/Modules/Programming/Variable Naming Schemes.md"
     }
   ],
   "omittedPaths": [],
