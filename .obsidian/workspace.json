@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Modules/Operating Systems/$ Operating Systems.md",
+                "file": "7. UNSORTED/Process Scheduling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,16 +47,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Operating Systems"
+              "title": "Process Scheduling"
             }
           },
           {
-            "id": "918bc68a95397801",
+            "id": "3cc50c7502d2689e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. UNSORTED/Timesharing.md",
+                "file": "7. UNSORTED/Multiprogramming.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,7 +71,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Timesharing"
+              "title": "Multiprogramming"
             }
           },
           {
@@ -123,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. UNSORTED/Timesharing.md",
+                "file": "7. UNSORTED/Process Scheduling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Timesharing"
+              "title": "Outline of Process Scheduling"
             }
           },
           {
@@ -270,11 +270,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e4a9490b0c8580c3",
+  "active": "012b75a9d8ef3271",
   "lastOpenFiles": [
-    "7. UNSORTED/Process Scheduling.md",
-    "7. UNSORTED/Timesharing.md",
     "2. University/Modules/Operating Systems/$ Operating Systems.md",
+    "7. UNSORTED/Multiprogramming.md",
+    "7. UNSORTED/Timesharing.md",
+    "7. UNSORTED/Process Scheduling.md",
     "7. UNSORTED/Process Control Block.md",
     "7. UNSORTED/Process Context Switching.md",
     "Other/Pasted image 20250407205120.png",
@@ -304,7 +305,6 @@
     "Other",
     "2. University/Modules/Programming/String Functions - C.md",
     "2. University/Modules/Programming/Storage Classes - C.md",
-    "2. University/Modules/Programming/Ampersand - C.md",
     "2. University/Modules/Programming/$ Unfinished - File Input",
     "7. UNSORTED",
     "6. Templates",
