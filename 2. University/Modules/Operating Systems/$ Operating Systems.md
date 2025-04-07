@@ -8,8 +8,12 @@
 [[Drivers]]
 
 ## Processes
-[[Processes - Introduction]]
-[[Processes Concept]]
+- [[Processes - Introduction]]
+- [[Process States and Transitions]]
+- [[Process Data]]
+- [[Process Context Switching]]
+
+
 - Process Concept
 - Process Scheduling
 - Operations on Processes

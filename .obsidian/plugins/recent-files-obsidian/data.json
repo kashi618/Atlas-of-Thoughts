@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Processes Concept",
-      "path": "7. UNSORTED/Processes Concept.md"
+      "basename": "Process Context Switching",
+      "path": "7. UNSORTED/Process Context Switching.md"
     },
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
+      "basename": "$ Operating Systems",
+      "path": "2. University/Modules/Operating Systems/$ Operating Systems.md"
+    },
+    {
+      "basename": "Process Data",
+      "path": "7. UNSORTED/Process Data.md"
     },
     {
       "basename": "Processes - Introduction",
       "path": "7. UNSORTED/Processes - Introduction.md"
     },
     {
-      "basename": "$ Operating Systems",
-      "path": "2. University/Modules/Operating Systems/$ Operating Systems.md"
+      "basename": "Process States and Transitions",
+      "path": "7. UNSORTED/Process States and Transitions.md"
+    },
+    {
+      "basename": "Processes - Introasdasdduction",
+      "path": "7. UNSORTED/Processes - Introasdasdduction.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "$ Algorithm Design",
+      "path": "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithm Design.md"
     },
     {
       "basename": "obamna",
@@ -183,18 +199,6 @@
     {
       "basename": "Order of Code - C",
       "path": "2. University/Modules/Programming/Order of Code - C.md"
-    },
-    {
-      "basename": "Pointers - C",
-      "path": "2. University/Modules/Programming/Pointers - C.md"
-    },
-    {
-      "basename": "Precision Specification - C",
-      "path": "2. University/Modules/Programming/Precision Specification - C.md"
-    },
-    {
-      "basename": "Scope - C",
-      "path": "2. University/Modules/Programming/Scope - C.md"
     }
   ],
   "omittedPaths": [],
