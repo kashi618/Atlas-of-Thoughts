@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Structures - Passing to Functions - C",
+      "path": "7. UNSORTED/Structures - Passing to Functions - C.md"
+    },
+    {
       "basename": "Structure Functions - C",
       "path": "7. UNSORTED/Structure Functions - C.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Variable Naming Schemes",
       "path": "2. University/Modules/Programming/Variable Naming Schemes.md"
-    },
-    {
-      "basename": "Variables - C",
-      "path": "2. University/Modules/Programming/Variables - C.md"
     }
   ],
   "omittedPaths": [],
