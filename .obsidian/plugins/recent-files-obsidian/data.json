@@ -1,28 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
+      "basename": "Structure Functions - C",
+      "path": "7. UNSORTED/Structure Functions - C.md"
     },
     {
       "basename": "$ C - Programming Language",
       "path": "2. University/Modules/Programming/$ C - Programming Language.md"
     },
     {
+      "basename": "Strings - About Strings and String Anatomy - C",
+      "path": "2. University/Modules/Programming/Strings - About Strings and String Anatomy - C.md"
+    },
+    {
+      "basename": "Strings - Using Strings - C",
+      "path": "2. University/Modules/Programming/Strings - Using Strings - C.md"
+    },
+    {
+      "basename": "Strings - Arrays of Strings - C",
+      "path": "2. University/Modules/Programming/Strings - Arrays of Strings - C.md"
+    },
+    {
+      "basename": "Structures - Creating Structures - C",
+      "path": "2. University/Modules/Programming/Structures - Creating Structures - C.md"
+    },
+    {
+      "basename": "Structures - Nested Structures - C",
+      "path": "7. UNSORTED/Structures - Nested Structures - C.md"
+    },
+    {
       "basename": "Structure Pointers - C",
       "path": "2. University/Modules/Programming/Structure Pointers - C.md"
     },
     {
-      "basename": "Structure Functions - C",
-      "path": "7. UNSORTED/Structure Functions - C.md"
-    },
-    {
-      "basename": "About Strings and String Anatomy - C",
-      "path": "2. University/Modules/Programming/About Strings and String Anatomy - C.md"
-    },
-    {
-      "basename": "Creating Structures - C",
-      "path": "2. University/Modules/Programming/Creating Structures - C.md"
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Guitar Songs to Learn",
@@ -49,10 +61,6 @@
       "path": "2. University/Modules/Programming/Unsorted/uStructures - C.md"
     },
     {
-      "basename": "$U Structures - C",
-      "path": "2. University/Modules/Programming/$U Structures - C.md"
-    },
-    {
       "basename": "String Functions - C",
       "path": "2. University/Modules/Programming/String Functions - C.md"
     },
@@ -71,10 +79,6 @@
     {
       "basename": "Arrays - C",
       "path": "2. University/Modules/Programming/Arrays - C.md"
-    },
-    {
-      "basename": "Arrays of Strings - C",
-      "path": "2. University/Modules/Programming/Arrays of Strings - C.md"
     },
     {
       "basename": "Commenting - C",
@@ -195,10 +199,6 @@
     {
       "basename": "Variables - C",
       "path": "2. University/Modules/Programming/Variables - C.md"
-    },
-    {
-      "basename": "Study Plan Semester 2",
-      "path": "2. University/TU856-1/Study Plan Semester 2.md"
     }
   ],
   "omittedPaths": [],

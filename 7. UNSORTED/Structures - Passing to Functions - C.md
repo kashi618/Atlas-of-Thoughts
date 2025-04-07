@@ -10,7 +10,7 @@ datatype functionName(struct structureTag);
 ```
 - For pass by value, the `structureTag` is required for the function signature. This is because it tells the compiler the size and layout of the structure.
 
-### Creating the Function
+### Function Creation
 ```c showlinenumbers
 datatype functionName(struct structureTag variableName) {
 	// Code goes here...
@@ -56,7 +56,7 @@ datatype functionName(struct structureTag *) {
 ```
 - Just add an apostrophe.
 
-### Creating the Function
+### Function Creation
 ```c showlinenumbers
 datatype functionName(struct structureTag *pointerName){
 	// Code goes here...
