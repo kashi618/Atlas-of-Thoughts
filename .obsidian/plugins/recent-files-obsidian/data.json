@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Order of Code - C",
-      "path": "2. University/Modules/Programming/Order of Code - C.md"
+      "basename": "String Functions - C",
+      "path": "2. University/Modules/Programming/String Functions - C.md"
     },
     {
       "basename": "$ C - Programming Language",
       "path": "2. University/Modules/Programming/$ C - Programming Language.md"
     },
     {
-      "basename": "Structures - Passing to Functions - C",
-      "path": "7. UNSORTED/Structures - Passing to Functions - C.md"
+      "basename": "Faster Character Input Output - C",
+      "path": "2. University/Modules/Programming/Faster Character Input Output - C.md"
     },
     {
       "basename": "Reading Strings - gets() - C",
       "path": "2. University/Modules/Programming/Unsorted/Reading Strings - gets() - C.md"
+    },
+    {
+      "basename": "Order of Code - C",
+      "path": "2. University/Modules/Programming/Order of Code - C.md"
+    },
+    {
+      "basename": "Structures - Passing to Functions - C",
+      "path": "7. UNSORTED/Structures - Passing to Functions - C.md"
     },
     {
       "basename": "Home",
@@ -121,10 +129,6 @@
       "path": "4. Other/explosion.gif"
     },
     {
-      "basename": "String Functions - C",
-      "path": "2. University/Modules/Programming/String Functions - C.md"
-    },
-    {
       "basename": "Storage Classes - C",
       "path": "2. University/Modules/Programming/Storage Classes - C.md"
     },
@@ -167,10 +171,6 @@
     {
       "basename": "Escape Sequence - C",
       "path": "2. University/Modules/Programming/Escape Sequence - C.md"
-    },
-    {
-      "basename": "Faster Character Input Output - C",
-      "path": "2. University/Modules/Programming/Faster Character Input Output - C.md"
     },
     {
       "basename": "File InputOutput - C",

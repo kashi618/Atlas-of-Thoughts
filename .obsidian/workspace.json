@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Modules/Programming/Order of Code - C.md",
+                "file": "2. University/Modules/Programming/String Functions - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,7 +71,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Order of Code - C"
+              "title": "String Functions - C"
             }
           }
         ],
@@ -128,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/Modules/Programming/Order of Code - C.md",
+                "file": "2. University/Modules/Programming/String Functions - C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Order of Code - C"
+              "title": "Outline of String Functions - C"
             }
           },
           {
@@ -223,8 +223,10 @@
   "active": "3cc6992077ee39b2",
   "lastOpenFiles": [
     "2. University/Modules/Programming/$ C - Programming Language.md",
-    "7. UNSORTED/Structures - Passing to Functions - C.md",
+    "2. University/Modules/Programming/Faster Character Input Output - C.md",
     "2. University/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
+    "2. University/Modules/Programming/Order of Code - C.md",
+    "7. UNSORTED/Structures - Passing to Functions - C.md",
     "1. Home Page/Home.canvas",
     "2. University/Modules/Programming/Strings - Using Strings - C.md",
     "2. University/Modules/Programming/Structures - Creating Structures - C.md",
@@ -251,7 +253,6 @@
     "7. UNSORTED/Structures - Nested Structures - C.md",
     "2. University/Modules/Programming/Structure Pointers - C.md",
     "2. University/Modules/Programming/$U Structures - C.md",
-    "3. Notes/Guitar Songs to Learn.md",
     "Other/Pasted image 20250404131830.png",
     "Other",
     "2. University/Modules/Programming/$ Unfinished - File Input",
