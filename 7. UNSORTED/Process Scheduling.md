@@ -7,5 +7,7 @@ Process scheduling is crucial in a computer, as it enables [[Multiprogramming|mu
 
 The process scheduler selects an available process for program execution on the CPU.
 
+
+
 # See Also
 [[$ Operating Systems]]
