@@ -70,3 +70,7 @@ aliases: []
 - [[Types of Files]]
 - [[File InputOutput - C]] | **fopen(), fclose()**
 - [[File Modes - C]]
+
+
+**Programming Pitfalls**
+[[$UNFINISHED Programming Pitfalls - C]]

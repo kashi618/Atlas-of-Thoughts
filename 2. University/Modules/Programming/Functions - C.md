@@ -106,7 +106,12 @@ void returnAray(int arr[], int size) {
 }
 ```
 
-
+## Return From Function Without Datatype
+```c showlinenumbers
+void cool(void) {
+	return;
+}
+```
 
 # See Also
 [[$ C - Programming Language]]

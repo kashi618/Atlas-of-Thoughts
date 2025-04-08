@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "String Functions - C",
-      "path": "2. University/Modules/Programming/String Functions - C.md"
+      "basename": "Functions - C",
+      "path": "2. University/Modules/Programming/Functions - C.md"
     },
     {
       "basename": "$ C - Programming Language",
       "path": "2. University/Modules/Programming/$ C - Programming Language.md"
     },
     {
-      "basename": "Faster Character Input Output - C",
-      "path": "2. University/Modules/Programming/Faster Character Input Output - C.md"
+      "basename": "Pass by Reference & Pass by Value - C",
+      "path": "2. University/Modules/Programming/Pass by Reference & Pass by Value - C.md"
+    },
+    {
+      "basename": "$UNFINISHED Programming Pitfalls - C",
+      "path": "7. UNSORTED/$UNFINISHED Programming Pitfalls - C.md"
+    },
+    {
+      "basename": "U Strings - C",
+      "path": "2. University/Modules/Programming/Unsorted/U Strings - C.md"
     },
     {
       "basename": "Reading Strings - gets() - C",
       "path": "2. University/Modules/Programming/Unsorted/Reading Strings - gets() - C.md"
+    },
+    {
+      "basename": "String Functions - C",
+      "path": "2. University/Modules/Programming/String Functions - C.md"
+    },
+    {
+      "basename": "Faster Character Input Output - C",
+      "path": "2. University/Modules/Programming/Faster Character Input Output - C.md"
     },
     {
       "basename": "Order of Code - C",
@@ -177,28 +193,12 @@
       "path": "2. University/Modules/Programming/File InputOutput - C.md"
     },
     {
-      "basename": "Functions - C",
-      "path": "2. University/Modules/Programming/Functions - C.md"
-    },
-    {
       "basename": "If Statements- C",
       "path": "2. University/Modules/Programming/If Statements- C.md"
     },
     {
       "basename": "Incrementing & Decrementing - C",
       "path": "2. University/Modules/Programming/Incrementing & Decrementing - C.md"
-    },
-    {
-      "basename": "K.I.S.S",
-      "path": "2. University/Modules/Programming/K.I.S.S.md"
-    },
-    {
-      "basename": "Keyboard Input - C",
-      "path": "2. University/Modules/Programming/Keyboard Input - C.md"
-    },
-    {
-      "basename": "Keyboard Output - C",
-      "path": "2. University/Modules/Programming/Keyboard Output - C.md"
     }
   ],
   "omittedPaths": [],
