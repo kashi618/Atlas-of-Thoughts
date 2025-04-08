@@ -1,28 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Reading Strings - gets() - C",
-      "path": "2. University/Modules/Programming/Unsorted/Reading Strings - gets() - C.md"
+      "basename": "Order of Code - C",
+      "path": "2. University/Modules/Programming/Order of Code - C.md"
     },
     {
       "basename": "$ C - Programming Language",
       "path": "2. University/Modules/Programming/$ C - Programming Language.md"
     },
     {
-      "basename": "Strings - Using Strings - C",
-      "path": "2. University/Modules/Programming/Strings - Using Strings - C.md"
-    },
-    {
       "basename": "Structures - Passing to Functions - C",
       "path": "7. UNSORTED/Structures - Passing to Functions - C.md"
     },
     {
-      "basename": "Structures - Creating Structures - C",
-      "path": "2. University/Modules/Programming/Structures - Creating Structures - C.md"
+      "basename": "Reading Strings - gets() - C",
+      "path": "2. University/Modules/Programming/Unsorted/Reading Strings - gets() - C.md"
     },
     {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Strings - Using Strings - C",
+      "path": "2. University/Modules/Programming/Strings - Using Strings - C.md"
+    },
+    {
+      "basename": "Structures - Creating Structures - C",
+      "path": "2. University/Modules/Programming/Structures - Creating Structures - C.md"
     },
     {
       "basename": "Process Scheduling",
@@ -195,10 +199,6 @@
     {
       "basename": "Keyboard Output - C",
       "path": "2. University/Modules/Programming/Keyboard Output - C.md"
-    },
-    {
-      "basename": "Logical Operators - C",
-      "path": "2. University/Modules/Programming/Logical Operators - C.md"
     }
   ],
   "omittedPaths": [],

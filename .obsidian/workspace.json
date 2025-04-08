@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. UNSORTED/Structures - Passing to Functions - C.md",
+                "file": "2. University/Modules/Programming/Order of Code - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,11 +71,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Structures - Passing to Functions - C"
+              "title": "Order of Code - C"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
+                "file": "2. University/Modules/Programming/Order of Code - C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Reading Strings - gets() - C"
+              "title": "Outline of Order of Code - C"
             }
           },
           {
@@ -220,13 +220,14 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "3375fec07768c4e7",
+  "active": "3cc6992077ee39b2",
   "lastOpenFiles": [
     "2. University/Modules/Programming/$ C - Programming Language.md",
-    "2. University/Modules/Programming/Strings - Using Strings - C.md",
     "7. UNSORTED/Structures - Passing to Functions - C.md",
-    "2. University/Modules/Programming/Structures - Creating Structures - C.md",
+    "2. University/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
     "1. Home Page/Home.canvas",
+    "2. University/Modules/Programming/Strings - Using Strings - C.md",
+    "2. University/Modules/Programming/Structures - Creating Structures - C.md",
     "7. UNSORTED/Process Scheduling.md",
     "2. University/Modules/Operating Systems/$ Operating Systems.md",
     "7. UNSORTED/Multiprogramming.md",
@@ -253,7 +254,6 @@
     "3. Notes/Guitar Songs to Learn.md",
     "Other/Pasted image 20250404131830.png",
     "Other",
-    "2. University/Modules/Programming/String Functions - C.md",
     "2. University/Modules/Programming/$ Unfinished - File Input",
     "7. UNSORTED",
     "6. Templates",
