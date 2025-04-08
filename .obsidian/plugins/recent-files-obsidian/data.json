@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Reading Strings - gets() - C",
+      "path": "2. University/Modules/Programming/Unsorted/Reading Strings - gets() - C.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "Strings - Using Strings - C",
+      "path": "2. University/Modules/Programming/Strings - Using Strings - C.md"
+    },
+    {
+      "basename": "Structures - Passing to Functions - C",
+      "path": "7. UNSORTED/Structures - Passing to Functions - C.md"
+    },
+    {
+      "basename": "Structures - Creating Structures - C",
+      "path": "2. University/Modules/Programming/Structures - Creating Structures - C.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Process Scheduling",
       "path": "7. UNSORTED/Process Scheduling.md"
     },
@@ -37,10 +61,6 @@
       "path": "7. UNSORTED/Processes - Introasdasdduction.md"
     },
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
-    },
-    {
       "basename": "$ Algorithm Design",
       "path": "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithm Design.md"
     },
@@ -61,32 +81,16 @@
       "path": "2. University/Modules/Operating Systems/Computer System Structure.md"
     },
     {
-      "basename": "Structures - Passing to Functions - C",
-      "path": "7. UNSORTED/Structures - Passing to Functions - C.md"
-    },
-    {
       "basename": "Structure Functions - C",
       "path": "7. UNSORTED/Structure Functions - C.md"
-    },
-    {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
     },
     {
       "basename": "Strings - About Strings and String Anatomy - C",
       "path": "2. University/Modules/Programming/Strings - About Strings and String Anatomy - C.md"
     },
     {
-      "basename": "Strings - Using Strings - C",
-      "path": "2. University/Modules/Programming/Strings - Using Strings - C.md"
-    },
-    {
       "basename": "Strings - Arrays of Strings - C",
       "path": "2. University/Modules/Programming/Strings - Arrays of Strings - C.md"
-    },
-    {
-      "basename": "Structures - Creating Structures - C",
-      "path": "2. University/Modules/Programming/Structures - Creating Structures - C.md"
     },
     {
       "basename": "Structures - Nested Structures - C",
@@ -195,10 +199,6 @@
     {
       "basename": "Logical Operators - C",
       "path": "2. University/Modules/Programming/Logical Operators - C.md"
-    },
-    {
-      "basename": "Loops - C",
-      "path": "2. University/Modules/Programming/Loops - C.md"
     }
   ],
   "omittedPaths": [],

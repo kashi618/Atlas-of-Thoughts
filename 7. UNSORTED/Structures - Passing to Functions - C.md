@@ -16,7 +16,7 @@ datatype functionName(struct structureTag variableName) {
 	// Code goes here...
 }
 ```
-
+## Calling func
 ### Example
 ```c showlinenumbers {8-9,16-17,23-26}
 #include <stdio.h>
@@ -63,7 +63,7 @@ datatype functionName(struct structureTag *pointerName){
 }
 ```
 - Just add an apostrophe.
-  
+  ## Calling func
 **Example**
 ```c showlinenumbers {8-9,16-19,21-22,28-31}
 #include <stdio.h>

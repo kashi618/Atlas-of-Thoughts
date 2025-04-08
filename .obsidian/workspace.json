@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -454.5,
                   "y": -45,
-                  "zoom": -2.706346359107814
+                  "zoom": -0.27763392293189376
                 }
               },
               "pinned": true,
@@ -27,13 +27,13 @@
             }
           },
           {
-            "id": "012b75a9d8ef3271",
+            "id": "3375fec07768c4e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. UNSORTED/Process Scheduling.md",
-                "mode": "source",
+                "file": "2. University/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -47,16 +47,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Process Scheduling"
+              "title": "Reading Strings - gets() - C"
             }
           },
           {
-            "id": "3cc50c7502d2689e",
+            "id": "3cc6992077ee39b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. UNSORTED/Multiprogramming.md",
+                "file": "7. UNSORTED/Structures - Passing to Functions - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,55 +71,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Multiprogramming"
-            }
-          },
-          {
-            "id": "e4a9490b0c8580c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. UNSORTED/Timesharing.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Timesharing"
-            }
-          },
-          {
-            "id": "7c5092d0edbb201e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. UNSORTED/Process Context Switching.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Process Context Switching"
+              "title": "Structures - Passing to Functions - C"
             }
           }
         ],
@@ -160,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -177,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. UNSORTED/Process Scheduling.md",
+                "file": "2. University/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Process Scheduling"
+              "title": "Outline of Reading Strings - gets() - C"
             }
           },
           {
@@ -269,12 +220,17 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "012b75a9d8ef3271",
+  "active": "3375fec07768c4e7",
   "lastOpenFiles": [
+    "2. University/Modules/Programming/$ C - Programming Language.md",
+    "2. University/Modules/Programming/Strings - Using Strings - C.md",
+    "7. UNSORTED/Structures - Passing to Functions - C.md",
+    "2. University/Modules/Programming/Structures - Creating Structures - C.md",
+    "1. Home Page/Home.canvas",
+    "7. UNSORTED/Process Scheduling.md",
     "2. University/Modules/Operating Systems/$ Operating Systems.md",
     "7. UNSORTED/Multiprogramming.md",
     "7. UNSORTED/Timesharing.md",
-    "7. UNSORTED/Process Scheduling.md",
     "7. UNSORTED/Process Control Block.md",
     "7. UNSORTED/Process Context Switching.md",
     "Other/Pasted image 20250407205120.png",
@@ -282,7 +238,6 @@
     "Other/Pasted image 20250407161354.png",
     "7. UNSORTED/Processes - Introduction.md",
     "7. UNSORTED/Processes - Introasdasdduction.md",
-    "1. Home Page/Home.canvas",
     "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithm Design.md",
     "vim_config.vimrc.md",
     "Other/Pasted image 20250407150922.png",
@@ -290,12 +245,8 @@
     "2. University/Modules/Programming/Unsorted/uStructures - C.md",
     "7. UNSORTED/Computer Generations.md",
     "2. University/Modules/Operating Systems/Computer System Structure.md",
-    "7. UNSORTED/Structures - Passing to Functions - C.md",
-    "2. University/Modules/Programming/$ C - Programming Language.md",
     "2. University/Modules/Programming/Strings - About Strings and String Anatomy - C.md",
-    "2. University/Modules/Programming/Strings - Using Strings - C.md",
     "2. University/Modules/Programming/Strings - Arrays of Strings - C.md",
-    "2. University/Modules/Programming/Structures - Creating Structures - C.md",
     "7. UNSORTED/Structures - Nested Structures - C.md",
     "2. University/Modules/Programming/Structure Pointers - C.md",
     "2. University/Modules/Programming/$U Structures - C.md",
@@ -303,7 +254,6 @@
     "Other/Pasted image 20250404131830.png",
     "Other",
     "2. University/Modules/Programming/String Functions - C.md",
-    "2. University/Modules/Programming/Storage Classes - C.md",
     "2. University/Modules/Programming/$ Unfinished - File Input",
     "7. UNSORTED",
     "6. Templates",
