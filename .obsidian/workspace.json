@@ -27,36 +27,12 @@
             }
           },
           {
-            "id": "3375fec07768c4e7",
+            "id": "1489f94e25137ee5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Reading Strings - gets() - C"
-            }
-          },
-          {
-            "id": "7edd5889f68cbecf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Modules/Programming/Functions - C.md",
+                "file": "2. University/Modules/Operating Systems/$ Operating Systems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,16 +47,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Functions - C"
+              "title": "$ Operating Systems"
             }
           },
           {
-            "id": "6a83e49402f1e699",
+            "id": "b8feeedb431656fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. UNSORTED/$UNFINISHED Programming Pitfalls - C.md",
+                "file": "7. UNSORTED/Process Queues.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -95,31 +71,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$UNFINISHED Programming Pitfalls - C"
-            }
-          },
-          {
-            "id": "3cc6992077ee39b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Modules/Programming/String Functions - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "String Functions - C"
+              "title": "Process Queues"
             }
           }
         ],
@@ -176,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/Modules/Programming/Functions - C.md",
+                "file": "7. UNSORTED/Process Queues.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Functions - C"
+              "title": "Outline of Process Queues"
             }
           },
           {
@@ -268,22 +220,24 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "7edd5889f68cbecf",
+  "active": "b8feeedb431656fe",
   "lastOpenFiles": [
+    "7. UNSORTED/Process Queues.md",
+    "2. University/Modules/Operating Systems/$ Operating Systems.md",
+    "1. Home Page/Home.canvas",
     "2. University/Modules/Programming/$ C - Programming Language.md",
-    "2. University/Modules/Programming/Pass by Reference & Pass by Value - C.md",
     "7. UNSORTED/$UNFINISHED Programming Pitfalls - C.md",
+    "2. University/Modules/Programming/String Functions - C.md",
+    "2. University/Modules/Programming/Functions - C.md",
+    "2. University/Modules/Programming/Pass by Reference & Pass by Value - C.md",
     "2. University/Modules/Programming/Unsorted/U Strings - C.md",
     "2. University/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
-    "2. University/Modules/Programming/String Functions - C.md",
     "2. University/Modules/Programming/Faster Character Input Output - C.md",
     "2. University/Modules/Programming/Order of Code - C.md",
     "7. UNSORTED/Structures - Passing to Functions - C.md",
-    "1. Home Page/Home.canvas",
     "2. University/Modules/Programming/Strings - Using Strings - C.md",
     "2. University/Modules/Programming/Structures - Creating Structures - C.md",
     "7. UNSORTED/Process Scheduling.md",
-    "2. University/Modules/Operating Systems/$ Operating Systems.md",
     "7. UNSORTED/Multiprogramming.md",
     "7. UNSORTED/Timesharing.md",
     "7. UNSORTED/Process Control Block.md",
@@ -299,8 +253,6 @@
     "4. Other/obamna.gif",
     "2. University/Modules/Programming/Unsorted/uStructures - C.md",
     "7. UNSORTED/Computer Generations.md",
-    "2. University/Modules/Operating Systems/Computer System Structure.md",
-    "2. University/Modules/Programming/Strings - About Strings and String Anatomy - C.md",
     "Other/Pasted image 20250404131830.png",
     "Other",
     "2. University/Modules/Programming/$ Unfinished - File Input",

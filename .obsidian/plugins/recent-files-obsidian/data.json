@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Functions - C",
-      "path": "2. University/Modules/Programming/Functions - C.md"
+      "basename": "Process Queues",
+      "path": "7. UNSORTED/Process Queues.md"
+    },
+    {
+      "basename": "$ Operating Systems",
+      "path": "2. University/Modules/Operating Systems/$ Operating Systems.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "$ C - Programming Language",
       "path": "2. University/Modules/Programming/$ C - Programming Language.md"
     },
     {
-      "basename": "Pass by Reference & Pass by Value - C",
-      "path": "2. University/Modules/Programming/Pass by Reference & Pass by Value - C.md"
-    },
-    {
       "basename": "$UNFINISHED Programming Pitfalls - C",
       "path": "7. UNSORTED/$UNFINISHED Programming Pitfalls - C.md"
+    },
+    {
+      "basename": "String Functions - C",
+      "path": "2. University/Modules/Programming/String Functions - C.md"
+    },
+    {
+      "basename": "Functions - C",
+      "path": "2. University/Modules/Programming/Functions - C.md"
+    },
+    {
+      "basename": "Pass by Reference & Pass by Value - C",
+      "path": "2. University/Modules/Programming/Pass by Reference & Pass by Value - C.md"
     },
     {
       "basename": "U Strings - C",
@@ -23,10 +39,6 @@
     {
       "basename": "Reading Strings - gets() - C",
       "path": "2. University/Modules/Programming/Unsorted/Reading Strings - gets() - C.md"
-    },
-    {
-      "basename": "String Functions - C",
-      "path": "2. University/Modules/Programming/String Functions - C.md"
     },
     {
       "basename": "Faster Character Input Output - C",
@@ -41,10 +53,6 @@
       "path": "7. UNSORTED/Structures - Passing to Functions - C.md"
     },
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
-    },
-    {
       "basename": "Strings - Using Strings - C",
       "path": "2. University/Modules/Programming/Strings - Using Strings - C.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "Process Scheduling",
       "path": "7. UNSORTED/Process Scheduling.md"
-    },
-    {
-      "basename": "$ Operating Systems",
-      "path": "2. University/Modules/Operating Systems/$ Operating Systems.md"
     },
     {
       "basename": "Multiprogramming",
@@ -195,10 +199,6 @@
     {
       "basename": "If Statements- C",
       "path": "2. University/Modules/Programming/If Statements- C.md"
-    },
-    {
-      "basename": "Incrementing & Decrementing - C",
-      "path": "2. University/Modules/Programming/Incrementing & Decrementing - C.md"
     }
   ],
   "omittedPaths": [],

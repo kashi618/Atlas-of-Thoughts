@@ -13,6 +13,7 @@
 - [[Process Control Block]]
 - [[Process Context Switching]]
 - [[Process Scheduling]]
+- [[Process Queues]]
 
 [[Multiprogramming]]
 [[Timesharing]]
