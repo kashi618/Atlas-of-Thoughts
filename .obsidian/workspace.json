@@ -18,64 +18,15 @@
                 "viewState": {
                   "x": -454.5,
                   "y": -45,
-                  "zoom": -0.27763392293189376
+                  "zoom": -2.4898545392110507
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "1489f94e25137ee5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Modules/Operating Systems/$ Operating Systems.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ Operating Systems"
-            }
-          },
-          {
-            "id": "b8feeedb431656fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. UNSORTED/Process Queues.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Process Queues"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -129,13 +79,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. UNSORTED/Process Queues.md",
+                "file": "1. Home Page/Home.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Process Queues"
+              "title": "Outline of Home"
             }
           },
           {
@@ -221,7 +171,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "b8feeedb431656fe",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "7. UNSORTED/Process Queues.md",
     "2. University/Modules/Operating Systems/$ Operating Systems.md",
