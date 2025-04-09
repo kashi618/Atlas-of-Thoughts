@@ -17,8 +17,8 @@
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
                   "x": -454.5,
-                  "y": -45,
-                  "zoom": -2.4898545392110507
+                  "y": -612.9169306930694,
+                  "zoom": -2.3473428947432984
                 }
               },
               "pinned": true,
@@ -79,13 +79,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Home Page/Home.canvas",
+                "file": "3. Notes/LC Get Togethor 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of LC Get Togethor 2025"
             }
           },
           {
@@ -171,11 +171,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3bd19bba09e6f6f0",
   "lastOpenFiles": [
+    "Unsaved",
+    "1. Home Page/Home.canvas",
+    "3. Notes/LC Get Togethor 2025.md",
     "7. UNSORTED/Process Queues.md",
     "2. University/Modules/Operating Systems/$ Operating Systems.md",
-    "1. Home Page/Home.canvas",
     "2. University/Modules/Programming/$ C - Programming Language.md",
     "7. UNSORTED/$UNFINISHED Programming Pitfalls - C.md",
     "2. University/Modules/Programming/String Functions - C.md",
@@ -202,8 +204,6 @@
     "vim_config.vimrc.md",
     "Other/Pasted image 20250407150922.png",
     "4. Other/obamna.gif",
-    "2. University/Modules/Programming/Unsorted/uStructures - C.md",
-    "7. UNSORTED/Computer Generations.md",
     "Other/Pasted image 20250404131830.png",
     "Other",
     "2. University/Modules/Programming/$ Unfinished - File Input",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "LC Get Togethor 2025",
+      "path": "3. Notes/LC Get Togethor 2025.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "File InputOutput - C",
       "path": "2. University/Modules/Programming/File InputOutput - C.md"
-    },
-    {
-      "basename": "If Statements- C",
-      "path": "2. University/Modules/Programming/If Statements- C.md"
     }
   ],
   "omittedPaths": [],
