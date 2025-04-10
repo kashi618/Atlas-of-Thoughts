@@ -18,15 +18,40 @@
                 "viewState": {
                   "x": -454.5,
                   "y": -45,
-                  "zoom": -1.860896134663211
+                  "zoom": -2.600412914358749
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "7a5ce4a962d93514",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Notes/Archlinux Rice - LainOS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Archlinux Rice - LainOS"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,12 +197,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7a5ce4a962d93514",
   "lastOpenFiles": [
+    "3. Notes/Arch Linux - Installation.md",
+    "1. Home Page/Home.canvas",
     "3. Notes/Unsaved/Dublin City Group Activities.md",
     "3. Notes/LC Get Togethor 2025.md",
     "3. Notes/Unsaved",
-    "1. Home Page/Home.canvas",
     "7. UNSORTED/Process Queues.md",
     "2. University/Modules/Operating Systems/$ Operating Systems.md",
     "2. University/Modules/Programming/$ C - Programming Language.md",
@@ -203,7 +229,6 @@
     "7. UNSORTED/Processes - Introduction.md",
     "7. UNSORTED/Processes - Introasdasdduction.md",
     "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithm Design.md",
-    "vim_config.vimrc.md",
     "Other/Pasted image 20250407150922.png",
     "4. Other/obamna.gif",
     "Other/Pasted image 20250404131830.png",

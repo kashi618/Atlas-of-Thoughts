@@ -24,5 +24,9 @@ yay -S ninja gcc cmake meson libxcb xcb-proto xcb-util xcb-util-keysyms libxfixe
 - hyprgraphics
 - hyprwayland-scanner (build-only)
 
+## Fonts
+```
+sudo pacman -S noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra
+```
 ## Cool Finds
 procmon

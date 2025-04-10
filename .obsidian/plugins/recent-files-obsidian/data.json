@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Archlinux Rice - LainOS",
+      "path": "3. Notes/Archlinux Rice - LainOS.md"
+    },
+    {
+      "basename": "Arch Linux - Installation",
+      "path": "3. Notes/Arch Linux - Installation.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Dereference Operators - C",
       "path": "2. University/Modules/Programming/Dereference Operators - C.md"
-    },
-    {
-      "basename": "Dynamic Memory Allocation - C",
-      "path": "2. University/Modules/Programming/Dynamic Memory Allocation - C.md"
-    },
-    {
-      "basename": "Escape Sequence - C",
-      "path": "2. University/Modules/Programming/Escape Sequence - C.md"
     }
   ],
   "omittedPaths": [],
