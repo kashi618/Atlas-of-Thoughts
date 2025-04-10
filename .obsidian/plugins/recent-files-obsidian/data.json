@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Archlinux - Helpful Commands",
+      "path": "3. Notes/Archlinux - Helpful Commands.md"
+    },
+    {
       "basename": "Archlinux Rice - LainOS",
       "path": "3. Notes/Archlinux Rice - LainOS.md"
     },
     {
       "basename": "Arch Linux - Installation",
       "path": "3. Notes/Arch Linux - Installation.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Dublin City Group Activities",
@@ -195,10 +199,6 @@
     {
       "basename": "Delimiters - C",
       "path": "2. University/Modules/Programming/Delimiters - C.md"
-    },
-    {
-      "basename": "Dereference Operators - C",
-      "path": "2. University/Modules/Programming/Dereference Operators - C.md"
     }
   ],
   "omittedPaths": [],
