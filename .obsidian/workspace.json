@@ -17,41 +17,16 @@
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
                   "x": -454.5,
-                  "y": -612.9169306930694,
-                  "zoom": -2.3473428947432984
+                  "y": -45,
+                  "zoom": -1.860896134663211
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "49872bc2d4fd1e32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Notes/Unsaved/Dublin City Group Activities.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Dublin City Group Activities"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -198,10 +172,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "49872bc2d4fd1e32",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "3. Notes/LC Get Togethor 2025.md",
     "3. Notes/Unsaved/Dublin City Group Activities.md",
+    "3. Notes/LC Get Togethor 2025.md",
     "3. Notes/Unsaved",
     "1. Home Page/Home.canvas",
     "7. UNSORTED/Process Queues.md",
