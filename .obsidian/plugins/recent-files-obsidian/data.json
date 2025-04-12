@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Strings - Using Strings - C",
+      "path": "2. University/Modules/Programming/Strings - Using Strings - C.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "String Functions - C",
+      "path": "2. University/Modules/Programming/String Functions - C.md"
+    },
+    {
+      "basename": "Strings - About Strings and String Anatomy - C",
+      "path": "2. University/Modules/Programming/Strings - About Strings and String Anatomy - C.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -33,16 +49,8 @@
       "path": "2. University/Modules/Operating Systems/$ Operating Systems.md"
     },
     {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
-    },
-    {
       "basename": "$UNFINISHED Programming Pitfalls - C",
       "path": "7. UNSORTED/$UNFINISHED Programming Pitfalls - C.md"
-    },
-    {
-      "basename": "String Functions - C",
-      "path": "2. University/Modules/Programming/String Functions - C.md"
     },
     {
       "basename": "Functions - C",
@@ -71,10 +79,6 @@
     {
       "basename": "Structures - Passing to Functions - C",
       "path": "7. UNSORTED/Structures - Passing to Functions - C.md"
-    },
-    {
-      "basename": "Strings - Using Strings - C",
-      "path": "2. University/Modules/Programming/Strings - Using Strings - C.md"
     },
     {
       "basename": "Structures - Creating Structures - C",
@@ -135,10 +139,6 @@
     {
       "basename": "Structure Functions - C",
       "path": "7. UNSORTED/Structure Functions - C.md"
-    },
-    {
-      "basename": "Strings - About Strings and String Anatomy - C",
-      "path": "2. University/Modules/Programming/Strings - About Strings and String Anatomy - C.md"
     },
     {
       "basename": "Strings - Arrays of Strings - C",
