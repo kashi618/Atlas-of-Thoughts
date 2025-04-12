@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Strings - Using Strings - C",
       "path": "2. University/Modules/Programming/Strings - Using Strings - C.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Strings - About Strings and String Anatomy - C",
       "path": "2. University/Modules/Programming/Strings - About Strings and String Anatomy - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Archlinux - Helpful Commands",
