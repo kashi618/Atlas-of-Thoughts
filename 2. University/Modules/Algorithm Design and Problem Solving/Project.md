@@ -10,7 +10,7 @@
 - Each order is picked from the appropriate bin
 
 **What I have to do**
-- Producing delivery docket for each van
+- Producing delivery docket for each vanwhat did yall adwhat did yall adwhat did yall ad
 - Products are packed, sorted by weight (light -> heavy)
 
 **What information I have access to**
@@ -26,4 +26,10 @@
 | Bin Numberib            | Numeric                     |
 
 ## Delierables
-### 1)
+### 1) Design a data structure for the project.
+
+
+## Tips
+- Merge sort by weight
+- Binary search by weighyt
+- 
