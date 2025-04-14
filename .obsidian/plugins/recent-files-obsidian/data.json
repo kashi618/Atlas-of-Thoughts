@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Project",
+      "path": "2. University/Modules/Algorithm Design and Problem Solving/Project.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Data Types - C",
       "path": "2. University/Modules/Programming/Data Types - C.md"
-    },
-    {
-      "basename": "Delimiters - C",
-      "path": "2. University/Modules/Programming/Delimiters - C.md"
     }
   ],
   "omittedPaths": [],
