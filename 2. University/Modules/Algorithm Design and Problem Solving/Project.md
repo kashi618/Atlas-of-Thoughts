@@ -23,4 +23,7 @@
 | Product ID              | Numeric                     |
 | Product Name            | Text                        |
 | Target Engine Code      | Text                        |
-| Bin Number              | Numeric                     |
+| Bin Numberib            | Numeric                     |
+
+## Delierables
+### 1)
