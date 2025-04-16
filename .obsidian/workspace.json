@@ -38,8 +38,8 @@
               "type": "markdown",
               "state": {
                 "file": "aichat Output (Algorithms Project).md",
-                "mode": "preview",
-                "source": true,
+                "mode": "source",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -79,8 +79,7 @@
               "title": "Structures - Creating Structures - C"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aichat Output (Algorithms Project).md",
+                "file": "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithms Project.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of aichat Output (Algorithms Project)"
+              "title": "Outline of $ Algorithms Project"
             }
           },
           {
@@ -206,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,7 +226,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "d815a7e22026bd77",
+  "active": "31a12330338c11fe",
   "lastOpenFiles": [
     "aichat Output (Algorithms Project).md",
     "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithms Project.md",

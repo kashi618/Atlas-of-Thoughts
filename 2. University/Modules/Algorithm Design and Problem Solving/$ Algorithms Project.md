@@ -10,7 +10,7 @@
 - Each order is picked from the appropriate bin
 
 **What I have to do**
-- Producing delivery docket for each vanwhat did yall adwhat did yall adwhat did yall ad
+- Producing delivery docket for each van
 - Products are packed, sorted by weight (light -> heavy)
 
 **What information I have access to**
@@ -25,7 +25,7 @@
 | Target Engine Code      | Text                        |
 | Bin Number              | Numeric                     |
 
-## Delierables
+## Deliverables
 ### 1) Design a data structure for the project.
 ```c showlinenumbers
 struct 
@@ -33,6 +33,6 @@ struct
 
 ## Tips
 - Merge sort by weight
-- Binary search by weighyt
+- Binary search by weight
 
 [[aichat Output (Algorithms Project)]]
