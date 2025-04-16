@@ -28,8 +28,32 @@
 ## Deliverables
 ### 1) Design a data structure for the project.
 ```c showlinenumbers
-struct 
+struct batchDate {
+    int day;
+    int hour;
+    int minute;
+};
+struct product {
+    int lineCode;
+    int batchCode;
+    int batchDate; // day, hour, minute
+    int productId;
+    char productName[SIZE];
+    char targetEngineCode[SIZE];
+    int binNumber;
+    float weight;
+    float price;
+};
 ```
+- Structure contains all information about each car part, including its weight and price.
+
+### 2) Test Data
+For creating the test data, I decided to use the csv file format. This makes it easier to import and export the data about the products.
+There are also 4 lines that the company uses, therefore, 4 separate csv test data files needs to be created.
+
+### 3) Test Your Project
+
+
 
 ## Tips
 - Merge sort by weight
