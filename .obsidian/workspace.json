@@ -8,25 +8,79 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "31a12330338c11fe",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1. Home Page/Home.canvas",
-                "viewState": {
-                  "x": -454.5,
-                  "y": -45,
-                  "zoom": -1.860896134663211
+                "file": "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithms Project.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "$ Algorithms Project"
+            }
+          },
+          {
+            "id": "d815a7e22026bd77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aichat Output (Algorithms Project).md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "aichat Output (Algorithms Project)"
+            }
+          },
+          {
+            "id": "050725a514baa56b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Modules/Programming/Structures - Creating Structures - C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Structures - Creating Structures - C"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/Modules/Algorithm Design and Problem Solving/Project.md",
+                "file": "aichat Output (Algorithms Project).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Project"
+              "title": "Outline of aichat Output (Algorithms Project)"
             }
           },
           {
@@ -152,8 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,12 +225,19 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d815a7e22026bd77",
   "lastOpenFiles": [
-    "2. University/Modules/Algorithm Design and Problem Solving/Project.md",
-    "1. Home Page/Home.canvas",
-    "2. University/Modules/Programming/Strings - Using Strings - C.md",
+    "aichat Output (Algorithms Project).md",
+    "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithms Project.md",
+    "2. University/Modules/Programming/Structures - Creating Structures - C.md",
     "2. University/Modules/Programming/$ C - Programming Language.md",
+    "1. Home Page/Home.canvas",
+    "2. University/Modules/Algorithm Design and Problem Solving/Factorial Algorithm.md",
+    "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithm Design.md",
+    "2. University/Modules/Algorithm Design and Problem Solving/Exponents Algorithm.md",
+    "2. University/Modules/Algorithm Design and Problem Solving/Structured English.md",
+    "2. University/Modules/Algorithm Design and Problem Solving/Algorithms.md",
+    "2. University/Modules/Programming/Strings - Using Strings - C.md",
     "2. University/Modules/Programming/String Functions - C.md",
     "2. University/Modules/Programming/Strings - About Strings and String Anatomy - C.md",
     "3. Notes/Archlinux - Helpful Commands.md",
@@ -195,12 +255,6 @@
     "2. University/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
     "2. University/Modules/Programming/Faster Character Input Output - C.md",
     "2. University/Modules/Programming/Order of Code - C.md",
-    "7. UNSORTED/Structures - Passing to Functions - C.md",
-    "2. University/Modules/Programming/Structures - Creating Structures - C.md",
-    "7. UNSORTED/Process Scheduling.md",
-    "7. UNSORTED/Multiprogramming.md",
-    "7. UNSORTED/Timesharing.md",
-    "7. UNSORTED/Process Control Block.md",
     "Other/Pasted image 20250407205120.png",
     "Other/Pasted image 20250407161354.png",
     "Other/Pasted image 20250407150922.png",

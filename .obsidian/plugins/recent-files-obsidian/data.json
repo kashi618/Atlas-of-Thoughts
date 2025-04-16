@@ -1,20 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
+      "basename": "aichat Output (Algorithms Project)",
+      "path": "aichat Output (Algorithms Project).md"
     },
     {
-      "basename": "Project",
-      "path": "2. University/Modules/Algorithm Design and Problem Solving/Project.md"
+      "basename": "$ Algorithms Project",
+      "path": "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithms Project.md"
     },
     {
-      "basename": "Strings - Using Strings - C",
-      "path": "2. University/Modules/Programming/Strings - Using Strings - C.md"
+      "basename": "Structures - Creating Structures - C",
+      "path": "2. University/Modules/Programming/Structures - Creating Structures - C.md"
     },
     {
       "basename": "$ C - Programming Language",
       "path": "2. University/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Factorial Algorithm",
+      "path": "2. University/Modules/Algorithm Design and Problem Solving/Factorial Algorithm.md"
+    },
+    {
+      "basename": "$ Algorithm Design",
+      "path": "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithm Design.md"
+    },
+    {
+      "basename": "Exponents Algorithm",
+      "path": "2. University/Modules/Algorithm Design and Problem Solving/Exponents Algorithm.md"
+    },
+    {
+      "basename": "Structured English",
+      "path": "2. University/Modules/Algorithm Design and Problem Solving/Structured English.md"
+    },
+    {
+      "basename": "Algorithms",
+      "path": "2. University/Modules/Algorithm Design and Problem Solving/Algorithms.md"
+    },
+    {
+      "basename": "Strings - Using Strings - C",
+      "path": "2. University/Modules/Programming/Strings - Using Strings - C.md"
     },
     {
       "basename": "String Functions - C",
@@ -85,10 +113,6 @@
       "path": "7. UNSORTED/Structures - Passing to Functions - C.md"
     },
     {
-      "basename": "Structures - Creating Structures - C",
-      "path": "2. University/Modules/Programming/Structures - Creating Structures - C.md"
-    },
-    {
       "basename": "Process Scheduling",
       "path": "7. UNSORTED/Process Scheduling.md"
     },
@@ -119,10 +143,6 @@
     {
       "basename": "Processes - Introasdasdduction",
       "path": "7. UNSORTED/Processes - Introasdasdduction.md"
-    },
-    {
-      "basename": "$ Algorithm Design",
-      "path": "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithm Design.md"
     },
     {
       "basename": "obamna",
@@ -179,26 +199,6 @@
     {
       "basename": "Ampersand - C",
       "path": "2. University/Modules/Programming/Ampersand - C.md"
-    },
-    {
-      "basename": "Arithmetic Operations and Expressions - C",
-      "path": "2. University/Modules/Programming/Arithmetic Operations and Expressions - C.md"
-    },
-    {
-      "basename": "Arrays - C",
-      "path": "2. University/Modules/Programming/Arrays - C.md"
-    },
-    {
-      "basename": "Commenting - C",
-      "path": "2. University/Modules/Programming/Commenting - C.md"
-    },
-    {
-      "basename": "Casting - C",
-      "path": "2. University/Modules/Programming/Casting - C.md"
-    },
-    {
-      "basename": "Data Types - C",
-      "path": "2. University/Modules/Programming/Data Types - C.md"
     }
   ],
   "omittedPaths": [],

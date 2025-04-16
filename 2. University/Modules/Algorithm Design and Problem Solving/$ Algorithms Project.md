@@ -23,13 +23,16 @@
 | Product ID              | Numeric                     |
 | Product Name            | Text                        |
 | Target Engine Code      | Text                        |
-| Bin Numberib            | Numeric                     |
+| Bin Number              | Numeric                     |
 
 ## Delierables
 ### 1) Design a data structure for the project.
-
+```c showlinenumbers
+struct 
+```
 
 ## Tips
 - Merge sort by weight
 - Binary search by weighyt
-- 
+
+[[aichat Output (Algorithms Project)]]
