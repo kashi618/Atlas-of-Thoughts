@@ -45,7 +45,7 @@ struct product {
     float price;
 };
 ```
-- Structure contains all information about each car part, including its weight and price.
+- Structure contains all information about each car part, including its weight and price..
 
 ### 2) Test Data
 For creating the test data, I decided to use the csv file format. This makes it easier to import and export the data about the products.

@@ -198,10 +198,49 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "115b02d2c6e4e7ea",
+  "floating": {
+    "id": "70c89f156abf9d2f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9c77f646c6db1985",
+        "type": "window",
+        "children": [
+          {
+            "id": "9d6379d4d7c3a8f8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "143b872f51eb51c9",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://publish.obsidian.md/git-doc/Authentication",
+                    "title": "Authentication - Git Documentation - Obsidian Publish",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Authentication - Git Documentation - Obsidian Publish"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 12,
+        "y": 42,
+        "width": 943,
+        "height": 1026,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "143b872f51eb51c9",
   "lastOpenFiles": [
-    "1. Home Page/Home.canvas",
     "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithm Project.md",
+    "1. Home Page/Home.canvas",
     "aichat Output (Algorithms Project).md",
     "2. University/Modules/Programming/Structures - Creating Structures - C.md",
     "2. University/Modules/Programming/$ C - Programming Language.md",
