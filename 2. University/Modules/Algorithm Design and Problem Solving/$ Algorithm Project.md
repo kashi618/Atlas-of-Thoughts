@@ -59,11 +59,13 @@ There are also 4 lines that the company uses, therefore, 4 separate csv test dat
 
 ### 5) Produce Pseudocode for Tasks 1-4
 ```
-
+struct batchDate
+	day
+	
 ```
 
 ### 6) Produce Working C Code for Tasks 1-4
-**WIP**
+- Check in folder
 
 ### 7) Create Project Brief
 
