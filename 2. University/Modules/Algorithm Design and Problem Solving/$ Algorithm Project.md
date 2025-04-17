@@ -52,6 +52,7 @@ For creating the test data, I decided to use the csv file format. This makes it 
 There are also 4 lines that the company uses, therefore, 4 separate csv test data files needs to be created.
 
 ### 3) Test Your Project
+**n/a**
 
 ### 4) Make Flowchart for Task 2
 - Check in folder
@@ -61,7 +62,10 @@ There are also 4 lines that the company uses, therefore, 4 separate csv test dat
 
 ```
 
+### 6) Produce Working C Code for Tasks 1-4
+**WIP**
 
+### 7) Create Project Brief
 
 ## Tips
 - Merge sort by weight
