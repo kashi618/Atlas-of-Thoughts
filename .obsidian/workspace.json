@@ -198,46 +198,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "floating": {
-    "id": "70c89f156abf9d2f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9c77f646c6db1985",
-        "type": "window",
-        "children": [
-          {
-            "id": "9d6379d4d7c3a8f8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "143b872f51eb51c9",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://docs.github.com/en/get-started/git-basics/about-remote-repositories#cloning-with-https-urls",
-                    "title": "About remote repositories - GitHub Docs",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "About remote repositories - GitHub Docs"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 12,
-        "y": 42,
-        "width": 943,
-        "height": 1026,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "143b872f51eb51c9",
+  "active": "115b02d2c6e4e7ea",
   "lastOpenFiles": [
     "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithm Project.md",
     "1. Home Page/Home.canvas",
