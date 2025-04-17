@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithms Project.md",
+                "file": "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithm Project.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Algorithms Project"
+              "title": "$ Algorithm Project"
             }
           }
         ],
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -200,7 +201,7 @@
   "active": "115b02d2c6e4e7ea",
   "lastOpenFiles": [
     "1. Home Page/Home.canvas",
-    "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithms Project.md",
+    "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithm Project.md",
     "aichat Output (Algorithms Project).md",
     "2. University/Modules/Programming/Structures - Creating Structures - C.md",
     "2. University/Modules/Programming/$ C - Programming Language.md",
