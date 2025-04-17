@@ -53,6 +53,14 @@ There are also 4 lines that the company uses, therefore, 4 separate csv test dat
 
 ### 3) Test Your Project
 
+### 4) Make Flowchart for Task 2
+- Check in folder
+
+### 5) Produce Pseudocode for Tasks 1-4
+```
+
+```
+
 
 
 ## Tips
