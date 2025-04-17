@@ -16,14 +16,26 @@
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": -408.20461366250254,
-                  "y": -424.71174084179324,
-                  "zoom": 0.19999999999999996
+                  "x": -364.13421578790746,
+                  "y": -272.1182788157555,
+                  "zoom": -1
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
+            }
+          },
+          {
+            "id": "a26e1a29e4f3f587",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "4. Other/Memento Mori - Polyphia.gif"
+              },
+              "icon": "lucide-image",
+              "title": "Memento Mori - Polyphia"
             }
           }
         ]
@@ -174,6 +186,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "4. Other/Memento Mori - Polyphia.gif",
+    "4. Other/explosion.gif",
+    "4. Other/Nietzsche.gif",
+    "4. Other/obamna.gif",
+    "4. Other/obsidian-icon.png",
+    "4. Other/Pasted image 20240927152029.png",
     "1. Home Page/Home.canvas",
     "2. University/Modules/Programming/$ C - Programming Language.md",
     "2. University/Modules/Programming/Switch Statement - C.md",
@@ -204,7 +222,6 @@
     "Other/Pasted image 20250407205120.png",
     "Other/Pasted image 20250407161354.png",
     "Other/Pasted image 20250407150922.png",
-    "4. Other/obamna.gif",
     "Other/Pasted image 20250404131830.png",
     "Other",
     "2. University/Modules/Programming/$ Unfinished - File Input",
@@ -215,10 +232,6 @@
     "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 6 - Programming Tutorial.pdf",
     "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 5 - Programming Tutorial.pdf",
     "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 4 - Programming Tutorial.pdf",
-    "4. Other/obsidian-icon.png",
-    "4. Other/explosion.gif",
-    "4. Other/Ram Allocation.png",
-    "4. Other/RTX4070 (mobile) Voltage Frequency Curve.png",
-    "4. Other/RTX4070 (mobile) Stock Kombustor.png"
+    "4. Other/Ram Allocation.png"
   ]
 }

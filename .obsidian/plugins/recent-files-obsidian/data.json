@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "explosion",
-      "path": "4. Other/explosion.gif"
-    },
-    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Memento Mori - Polyphia",
+      "path": "4. Other/Memento Mori - Polyphia.gif"
+    },
+    {
+      "basename": "explosion",
+      "path": "4. Other/explosion.gif"
     },
     {
       "basename": "obamna",
@@ -15,6 +19,14 @@
     {
       "basename": "Nietzsche",
       "path": "4. Other/Nietzsche.gif"
+    },
+    {
+      "basename": "obsidian-icon",
+      "path": "4. Other/obsidian-icon.png"
+    },
+    {
+      "basename": "Pasted image 20240927152029",
+      "path": "4. Other/Pasted image 20240927152029.png"
     },
     {
       "basename": "Descartes",
@@ -187,18 +199,6 @@
     {
       "basename": "Structure Functions - C",
       "path": "7. UNSORTED/Structure Functions - C.md"
-    },
-    {
-      "basename": "Strings - Arrays of Strings - C",
-      "path": "2. University/Modules/Programming/Strings - Arrays of Strings - C.md"
-    },
-    {
-      "basename": "Structures - Nested Structures - C",
-      "path": "7. UNSORTED/Structures - Nested Structures - C.md"
-    },
-    {
-      "basename": "Structure Pointers - C",
-      "path": "2. University/Modules/Programming/Structure Pointers - C.md"
     }
   ],
   "omittedPaths": [],
