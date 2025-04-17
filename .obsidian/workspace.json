@@ -216,12 +216,12 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://publish.obsidian.md/git-doc/Authentication",
-                    "title": "Authentication - Git Documentation - Obsidian Publish",
+                    "url": "https://docs.github.com/en/get-started/git-basics/about-remote-repositories#cloning-with-https-urls",
+                    "title": "About remote repositories - GitHub Docs",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "Authentication - Git Documentation - Obsidian Publish"
+                  "title": "About remote repositories - GitHub Docs"
                 }
               }
             ]
