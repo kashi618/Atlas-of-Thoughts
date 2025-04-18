@@ -16,26 +16,14 @@
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": -364.13421578790746,
-                  "y": -272.1182788157555,
-                  "zoom": -1
+                  "x": -380,
+                  "y": -165,
+                  "zoom": -1.4846983772477276
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
-            }
-          },
-          {
-            "id": "a26e1a29e4f3f587",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "4. Other/Memento Mori - Polyphia.gif"
-              },
-              "icon": "lucide-image",
-              "title": "Memento Mori - Polyphia"
             }
           }
         ]
@@ -186,13 +174,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "1. Home Page/Home.canvas",
     "4. Other/Memento Mori - Polyphia.gif",
     "4. Other/explosion.gif",
     "4. Other/Nietzsche.gif",
     "4. Other/obamna.gif",
     "4. Other/obsidian-icon.png",
     "4. Other/Pasted image 20240927152029.png",
-    "1. Home Page/Home.canvas",
     "2. University/Modules/Programming/$ C - Programming Language.md",
     "2. University/Modules/Programming/Switch Statement - C.md",
     "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithm Project.md",
@@ -231,7 +219,6 @@
     "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 7 - Programming Tutorial.pdf",
     "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 6 - Programming Tutorial.pdf",
     "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 5 - Programming Tutorial.pdf",
-    "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 4 - Programming Tutorial.pdf",
-    "4. Other/Ram Allocation.png"
+    "5. PDF's/(CMPU 1025) Programming/Tutorials/Sem 2 Week 4 - Programming Tutorial.pdf"
   ]
 }
