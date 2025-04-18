@@ -18,15 +18,40 @@
                 "viewState": {
                   "x": -380,
                   "y": -165,
-                  "zoom": -1.4846983772477276
+                  "zoom": -0.230422485920707
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "202f62422bca3bb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Modules/Programming/File InputOutput - C.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "File InputOutput - C"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,16 +197,18 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "202f62422bca3bb7",
   "lastOpenFiles": [
+    "2. University/Modules/Programming/$ C - Programming Language.md",
+    "2. University/Modules/Programming/File InputOutput - C.md",
     "1. Home Page/Home.canvas",
+    "2. University/Modules/Programming/Order of Code - C.md",
     "4. Other/Memento Mori - Polyphia.gif",
     "4. Other/explosion.gif",
     "4. Other/Nietzsche.gif",
     "4. Other/obamna.gif",
     "4. Other/obsidian-icon.png",
     "4. Other/Pasted image 20240927152029.png",
-    "2. University/Modules/Programming/$ C - Programming Language.md",
     "2. University/Modules/Programming/Switch Statement - C.md",
     "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithm Project.md",
     "aichat Output (Algorithms Project).md",
@@ -205,8 +232,6 @@
     "7. UNSORTED/$UNFINISHED Programming Pitfalls - C.md",
     "2. University/Modules/Programming/Functions - C.md",
     "2. University/Modules/Programming/Pass by Reference & Pass by Value - C.md",
-    "2. University/Modules/Programming/Unsorted/U Strings - C.md",
-    "2. University/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
     "Other/Pasted image 20250407205120.png",
     "Other/Pasted image 20250407161354.png",
     "Other/Pasted image 20250407150922.png",

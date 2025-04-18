@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "File InputOutput - C",
+      "path": "2. University/Modules/Programming/File InputOutput - C.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Order of Code - C",
+      "path": "2. University/Modules/Programming/Order of Code - C.md"
     },
     {
       "basename": "Memento Mori - Polyphia",
@@ -39,10 +51,6 @@
     {
       "basename": "Guitar Songs to Learn",
       "path": "3. Notes/Guitar Songs to Learn.md"
-    },
-    {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
     },
     {
       "basename": "Switch Statement - C",
@@ -145,10 +153,6 @@
       "path": "2. University/Modules/Programming/Faster Character Input Output - C.md"
     },
     {
-      "basename": "Order of Code - C",
-      "path": "2. University/Modules/Programming/Order of Code - C.md"
-    },
-    {
       "basename": "Structures - Passing to Functions - C",
       "path": "7. UNSORTED/Structures - Passing to Functions - C.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Computer System Structure",
       "path": "2. University/Modules/Operating Systems/Computer System Structure.md"
-    },
-    {
-      "basename": "Structure Functions - C",
-      "path": "7. UNSORTED/Structure Functions - C.md"
     }
   ],
   "omittedPaths": [],
