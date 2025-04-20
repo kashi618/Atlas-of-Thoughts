@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Structure - Anatomy - C",
+      "path": "Structure - Anatomy - C.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "Structures - Creating Structures - C",
+      "path": "2. University/Modules/Programming/Structures - Creating Structures - C.md"
+    },
+    {
+      "basename": "Ampersand - C",
+      "path": "2. University/Modules/Programming/Ampersand - C.md"
+    },
+    {
+      "basename": "explosion",
+      "path": "4. Other/explosion.gif"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -9,20 +29,12 @@
       "path": "2. University/Modules/Programming/File InputOutput - C.md"
     },
     {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
-    },
-    {
       "basename": "Order of Code - C",
       "path": "2. University/Modules/Programming/Order of Code - C.md"
     },
     {
       "basename": "Memento Mori - Polyphia",
       "path": "4. Other/Memento Mori - Polyphia.gif"
-    },
-    {
-      "basename": "explosion",
-      "path": "4. Other/explosion.gif"
     },
     {
       "basename": "obamna",
@@ -63,10 +75,6 @@
     {
       "basename": "aichat Output (Algorithms Project)",
       "path": "aichat Output (Algorithms Project).md"
-    },
-    {
-      "basename": "Structures - Creating Structures - C",
-      "path": "2. University/Modules/Programming/Structures - Creating Structures - C.md"
     },
     {
       "basename": "Factorial Algorithm",
@@ -191,14 +199,6 @@
     {
       "basename": "uStructures - C",
       "path": "2. University/Modules/Programming/Unsorted/uStructures - C.md"
-    },
-    {
-      "basename": "Computer Generations",
-      "path": "7. UNSORTED/Computer Generations.md"
-    },
-    {
-      "basename": "Computer System Structure",
-      "path": "2. University/Modules/Operating Systems/Computer System Structure.md"
     }
   ],
   "omittedPaths": [],

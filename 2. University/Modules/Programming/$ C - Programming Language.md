@@ -61,6 +61,7 @@ aliases: []
 - [[Strings - Arrays of Strings - C]]
 
 **Structures**
+- [[Structure - Anatomy - C]]
 - [[Structures - Creating Structures - C]]
 - [[Structure Pointers - C]]
 - [[Structures - Passing to Functions - C]]
