@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Structures - Creating Structures - C",
       "path": "2. University/Modules/Programming/Structures - Creating Structures - C.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "explosion",
       "path": "4. Other/explosion.gif"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "File InputOutput - C",
