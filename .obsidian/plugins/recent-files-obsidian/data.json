@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Guitar Wishlist",
+      "path": "3. Notes/Guitar Wishlist.md"
+    },
+    {
+      "basename": "Guitar Songs to Learn",
+      "path": "3. Notes/Guitar Songs to Learn.md"
+    },
+    {
+      "basename": "Cheeses",
+      "path": "3. Notes/Cheeses.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -71,10 +83,6 @@
     {
       "basename": "Wishlist",
       "path": "3. Notes/Wishlist.md"
-    },
-    {
-      "basename": "Guitar Songs to Learn",
-      "path": "3. Notes/Guitar Songs to Learn.md"
     },
     {
       "basename": "$ Algorithm Project",
@@ -191,14 +199,6 @@
     {
       "basename": "Process States and Transitions",
       "path": "7. UNSORTED/Process States and Transitions.md"
-    },
-    {
-      "basename": "Processes - Introduction",
-      "path": "7. UNSORTED/Processes - Introduction.md"
-    },
-    {
-      "basename": "Processes - Introasdasdduction",
-      "path": "7. UNSORTED/Processes - Introasdasdduction.md"
     }
   ],
   "omittedPaths": [],

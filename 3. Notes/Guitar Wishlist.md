@@ -22,6 +22,7 @@ tags:
 ![|450](https://www.ibanez.com/common/product_artist_file/file/p_region_SML721_RGC_1P_02.png)
 - **Ibanez JEM7VP**
 ![|450](https://www.ibanez.com/common/product_artist_file/file/p_region_JEM7VP_WH_1P_01.png)
+- **Ibanez PIA**
 ### Telecaster
 
 - **George Harrison Rosewood Telecaster**
