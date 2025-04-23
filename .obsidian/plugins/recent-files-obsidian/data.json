@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Keyboard Input - C",
+      "path": "2. University/Modules/Programming/Keyboard Input - C.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "$UNFINISHED Programming Pitfalls - C",
+      "path": "7. UNSORTED/$UNFINISHED Programming Pitfalls - C.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Switch Statement - C",
       "path": "2. University/Modules/Programming/Switch Statement - C.md"
-    },
-    {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
     },
     {
       "basename": "Structures - Creating Structures - C",
@@ -137,10 +145,6 @@
       "path": "2. University/Modules/Operating Systems/$ Operating Systems.md"
     },
     {
-      "basename": "$UNFINISHED Programming Pitfalls - C",
-      "path": "7. UNSORTED/$UNFINISHED Programming Pitfalls - C.md"
-    },
-    {
       "basename": "Functions - C",
       "path": "2. University/Modules/Programming/Functions - C.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Processes - Introasdasdduction",
       "path": "7. UNSORTED/Processes - Introasdasdduction.md"
-    },
-    {
-      "basename": "uStructures - C",
-      "path": "2. University/Modules/Programming/Unsorted/uStructures - C.md"
     }
   ],
   "omittedPaths": [],
