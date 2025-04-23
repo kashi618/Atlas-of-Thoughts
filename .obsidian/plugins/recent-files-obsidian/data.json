@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Guitar Wishlist",
       "path": "3. Notes/Guitar Wishlist.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Cheeses",
       "path": "3. Notes/Cheeses.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Keyboard Input - C",
