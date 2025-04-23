@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Keyboard Input - C",
       "path": "2. University/Modules/Programming/Keyboard Input - C.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "$UNFINISHED Programming Pitfalls - C",
       "path": "7. UNSORTED/$UNFINISHED Programming Pitfalls - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Switch Statement - C",

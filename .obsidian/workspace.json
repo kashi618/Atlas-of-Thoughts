@@ -25,33 +25,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "ef3bc4baafcd4926",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Modules/Programming/Keyboard Input - C.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Keyboard Input - C"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,8 +172,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "ef3bc4baafcd4926",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2. University/Modules/Programming/Keyboard Input - C.md",
     "2. University/Modules/Programming/$ C - Programming Language.md",
     "7. UNSORTED/$UNFINISHED Programming Pitfalls - C.md",
     "1. Home Page/Home.canvas",
