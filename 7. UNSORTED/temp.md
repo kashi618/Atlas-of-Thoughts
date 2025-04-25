@@ -1,62 +1,49 @@
 ```
-mergesort(line[], left, right)
-	// Find the middle
-    IF (left < right)
-        middle = left + (right - left) / 2
-		
-        // Sort first and second half
-        mergesort(line, left, middle)
-        mergesort(line, middle + 1, right)
+mergeLines(L1, L2, L3, L4, masterLine)
+    n1 = 0
+    n2 = 0
+    n3 = 0
+    n4 = 0  
+    
+    // Loop through each the nth element of each line, and find the min
+    FOR (i = 0: i<MASTERSIZE; i++)
+        min = (biggest possible number, so that the next min can be found)
         
-        // Merge the two halves
-        merge(line, left, middle, right)
-    END if
-END function
-
-merge(line[], left, middle, right):
-    n1 = middle - left + 1
-    n2 = right - middle
-    
-    // Create temporary structures for storing values
-    struct product tempLeft[LINESIZE], tempRight[LINESIZE]
-    
-    // Copy data from lines to temp structs
-    FOR (i=0; i<n1; i++)
-        tempLeft[i] = line[left + i]
-    END for
-    
-    FOR (i=0; i<n2; i++)
-        tempRight[i] = line[middle + i + 1]
-    END for
-    
-    // Merge temp structs
-    i = 0
-    j = 0
-    k = left
-    
-    WHILE (i < n1 AND j < n2)
-        IF (tempLeft[i].weight <= tempRight[j].weight)
-            line[k] = tempLeft[i]
-            i++
-        ELSE
-            line[k] = tempRight[j]
-            j++
-		END else
-		
-        k++
+        // Compare current elements of all 4 lines
+        IF (L1[n1].weight < min  AND  n1 < LINESIZE)
+            min = L1[n1].weight
+            minList = 1
+        END if
         
-    END while
-    
-    WHILE (i < n1)
-        line[k] = tempLeft[i]
-        i++
-        k++
-    END while
-    
-    WHILE (j < n2)
-        line[k] = tempRight[j]
-        j++
-        k++
-    END while
+        IF (L2[n2].weight < min  AND  n2 < LINESIZE)
+            min = L2[n2].weight
+            minList = 2
+        END if
+        
+        IF (L3[n3].weight < min  AND  n3 < LINESIZE)
+            min = L3[n3].weight
+            minList = 3
+        END if
+        
+        IF (L4[n4].weight < min  AND  n4 < LINESIZE)
+            min = L4[n4].weight
+            minList = 4
+        END if
+        
+        // Append the min value to the master line, then move that line up by 1
+        IF (minList == 1)
+            masterLine[i] = L1[n1]
+            n1++
+        ELSE IF (minList == 2)
+            masterLine[i] = L2[n2]
+            n2++
+        ELSE IF (minList == 3)
+            masterLine[i] = L3[n3]
+            n3++
+        ELSE IF (minList == 4)
+            masterLine[i] = L4[n4]
+            n4++
+        END IF
+    END FOR
 END FUNCTION
 ```
