@@ -18,15 +18,40 @@
                 "viewState": {
                   "x": -380,
                   "y": -165,
-                  "zoom": -1.4846983772477276
+                  "zoom": -1.5130126588421415
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "bc99a7121e272eaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. UNSORTED/temp.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "temp"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,9 +197,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "bc99a7121e272eaf",
   "lastOpenFiles": [
     "1. Home Page/Home.canvas",
+    "7. UNSORTED/temp.md",
     "3. Notes/Guitar Wishlist.md",
     "3. Notes/Guitar Songs to Learn.md",
     "3. Notes/Cheeses.md",
@@ -205,7 +231,6 @@
     "2. University/Modules/Programming/Strings - About Strings and String Anatomy - C.md",
     "3. Notes/Archlinux - Helpful Commands.md",
     "3. Notes/Archlinux Rice - LainOS.md",
-    "3. Notes/Arch Linux - Installation.md",
     "3. Notes/Unsaved",
     "Other/Pasted image 20250407205120.png",
     "Other/Pasted image 20250407161354.png",

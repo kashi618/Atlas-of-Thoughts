@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "temp",
+      "path": "7. UNSORTED/temp.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Process Context Switching",
       "path": "7. UNSORTED/Process Context Switching.md"
-    },
-    {
-      "basename": "Process States and Transitions",
-      "path": "7. UNSORTED/Process States and Transitions.md"
     }
   ],
   "omittedPaths": [],
