@@ -1,49 +1,33 @@
 ```
-mergeLines(L1, L2, L3, L4, masterLine)
-    n1 = 0
-    n2 = 0
-    n3 = 0
-    n4 = 0  
+binarySearch(line[], size):
+    // Ask user to enter a weight
+    PRINT "Enter weight to find: "
+    READ target
     
-    // Loop through each the nth element of each line, and find the min
-    FOR (i = 0: i<MASTERSIZE; i++)
-        min = (biggest possible number, so that the next min can be found)
+    // Set boundaries for binary search
+    left = 0
+    right = size - 1
+    targetIndex = -1
+    
+    WHILE (left <= right)
+        mid = left + (right-left)/2
         
-        // Compare current elements of all 4 lines
-        IF (L1[n1].weight < min  AND  n1 < LINESIZE)
-            min = L1[n1].weight
-            minList = 1
-        END if
-        
-        IF (L2[n2].weight < min  AND  n2 < LINESIZE)
-            min = L2[n2].weight
-            minList = 2
-        END if
-        
-        IF (L3[n3].weight < min  AND  n3 < LINESIZE)
-            min = L3[n3].weight
-            minList = 3
-        END if
-        
-        IF (L4[n4].weight < min  AND  n4 < LINESIZE)
-            min = L4[n4].weight
-            minList = 4
-        END if
-        
-        // Append the min value to master line, then move that line up by 1
-        IF (minList == 1)
-            masterLine[i] = L1[n1]
-            n1++
-        ELSE IF (minList == 2)
-            masterLine[i] = L2[n2]
-            n2++
-        ELSE IF (minList == 3)
-            masterLine[i] = L3[n3]
-            n3++
-        ELSE IF (minList == 4)
-            masterLine[i] = L4[n4]
-            n4++
-        END IF
-    END FOR
-END FUNCTION
+	    // Regular binary search
+        IF (line[mid].weight == target)
+            targetIndex = mid
+            break
+        ELSE IF (line[mid].weight < target)
+            left = mid + 1 // Search the right half
+        ELSE
+            right = mid - 1 // Search the left half
+        END else
+    END while
+    
+    // Tell user if weight has been found or not
+    IF (targetIndex == -1)
+        PRINT "Target weight {target} not found"
+    ELSE
+        PRINT "Target weight {target} FOUND"
+    END if
+END function
 ```
