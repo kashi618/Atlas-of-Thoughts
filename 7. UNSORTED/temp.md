@@ -30,7 +30,7 @@ mergeLines(L1, L2, L3, L4, masterLine)
             minList = 4
         END if
         
-        // Append the min value to the master line, then move that line up by 1
+        // Append the min value to master line, then move that line up by 1
         IF (minList == 1)
             masterLine[i] = L1[n1]
             n1++
