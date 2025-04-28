@@ -18,15 +18,40 @@
                 "viewState": {
                   "x": -380,
                   "y": -165,
-                  "zoom": -1.4846983772477276
+                  "zoom": -1.0747677684019723
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "9de9e92e41534adf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Notes/Diablo 2 - PD2 Sorceress.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Diablo 2 - PD2 Sorceress"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,9 +197,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9de9e92e41534adf",
   "lastOpenFiles": [
     "1. Home Page/Home.canvas",
+    "3. Notes/Diablo 2 - PD2 Sorceress.md",
     "7. UNSORTED/temp.md",
     "3. Notes/Guitar Wishlist.md",
     "3. Notes/Guitar Songs to Learn.md",
@@ -205,7 +231,6 @@
     "2. University/Modules/Programming/String Functions - C.md",
     "2. University/Modules/Programming/Strings - About Strings and String Anatomy - C.md",
     "3. Notes/Archlinux - Helpful Commands.md",
-    "3. Notes/Archlinux Rice - LainOS.md",
     "3. Notes/Unsaved",
     "Other/Pasted image 20250407205120.png",
     "Other/Pasted image 20250407161354.png",

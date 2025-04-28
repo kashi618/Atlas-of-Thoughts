@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Diablo 2 - PD2 Runewords",
+      "path": "3. Notes/Diablo 2 - PD2 Runewords.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Process Control Block",
       "path": "7. UNSORTED/Process Control Block.md"
-    },
-    {
-      "basename": "Process Context Switching",
-      "path": "7. UNSORTED/Process Context Switching.md"
     }
   ],
   "omittedPaths": [],
