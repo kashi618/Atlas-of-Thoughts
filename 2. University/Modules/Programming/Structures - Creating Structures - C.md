@@ -74,31 +74,5 @@ int main(void) {
 }
 ```
 
-## Initializing a Structure (Structure with Set Variables)
-```c showlinenumbers
-#include <stdio.h>
-
-// Structure Template
-struct studentInfo {
-	char  sex; 
-	int   age;
-	int   roleNumber;
-	float totalMarks;
-};
-
-int main(void) {
-	// Initialize Structure Member John_Doe
-	struct studentInfo John_Doe = { 'M',    // sex
-									24,     // age
-									1,      // roleNumber
-									95.25   // totalMarks
-								  };
-	
-	// End program
-	return 0;
-}
-```
-
-## Initializing 
 # See Also
 [[$ C - Programming Language]]

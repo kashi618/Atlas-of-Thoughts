@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Structures - Creating Structures - C",
-      "path": "2. University/Modules/Programming/Structures - Creating Structures - C.md"
-    },
-    {
-      "basename": "Structures - Structure Pointers - C",
-      "path": "2. University/Modules/Programming/Structures - Structure Pointers - C.md"
+      "basename": "Structures - typedef statement - C",
+      "path": "Structures - typedef statement - C.md"
     },
     {
       "basename": "$ C - Programming Language",
       "path": "2. University/Modules/Programming/$ C - Programming Language.md"
     },
     {
-      "basename": "Structures - typedef statement - C",
-      "path": "Structures - typedef statement - C.md"
+      "basename": "Structures - Creating Structures - C",
+      "path": "2. University/Modules/Programming/Structures - Creating Structures - C.md"
+    },
+    {
+      "basename": "Structures - Miscelaneous - C",
+      "path": "Structures - Miscelaneous - C.md"
+    },
+    {
+      "basename": "Structures - Structure Pointers - C",
+      "path": "2. University/Modules/Programming/Structures - Structure Pointers - C.md"
     },
     {
       "basename": "Structures - Structure Arrays - C",
@@ -195,10 +199,6 @@
     {
       "basename": "Strings - About Strings and String Anatomy - C",
       "path": "2. University/Modules/Programming/Strings - About Strings and String Anatomy - C.md"
-    },
-    {
-      "basename": "Archlinux - Helpful Commands",
-      "path": "3. Notes/Archlinux - Helpful Commands.md"
     }
   ],
   "omittedPaths": [],

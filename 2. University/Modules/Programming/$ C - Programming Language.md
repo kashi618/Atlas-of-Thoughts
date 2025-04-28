@@ -68,6 +68,7 @@ aliases: []
 - [[Structures - Nested Structures - C]]
 - [[Structures - Structure Arrays - C]]
 - [[Structures - typedef statement - C]]
+- [[Structures - Miscelaneous - C]]
 
 **File Input/Output**
 - [[Types of Files]]
