@@ -33,7 +33,7 @@
               "type": "markdown",
               "state": {
                 "file": "3. Notes/Diablo 2 - PD2 Sorceress.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
