@@ -1,24 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
-    },
-    {
-      "basename": "Structures - Anatomy - C",
-      "path": "Structures - Anatomy - C.md"
-    },
-    {
-      "basename": "Structures - Structure Arrays - C",
-      "path": "Structures - Structure Arrays - C.md"
+      "basename": "Structures - Creating Structures - C",
+      "path": "2. University/Modules/Programming/Structures - Creating Structures - C.md"
     },
     {
       "basename": "Structures - Structure Pointers - C",
       "path": "2. University/Modules/Programming/Structures - Structure Pointers - C.md"
     },
     {
-      "basename": "Structures - Creating Structures - C",
-      "path": "2. University/Modules/Programming/Structures - Creating Structures - C.md"
+      "basename": "$ C - Programming Language",
+      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "Structures - typedef statement - C",
+      "path": "Structures - typedef statement - C.md"
+    },
+    {
+      "basename": "Structures - Structure Arrays - C",
+      "path": "Structures - Structure Arrays - C.md"
+    },
+    {
+      "basename": "Pasted image 20240927152029",
+      "path": "4. Other/Pasted image 20240927152029.png"
+    },
+    {
+      "basename": "Pasted image 20240927155715",
+      "path": "4. Other/Pasted image 20240927155715.png"
+    },
+    {
+      "basename": "Pasted image 20240927155719",
+      "path": "4. Other/Pasted image 20240927155719.png"
+    },
+    {
+      "basename": "Pasted image 20240927161114",
+      "path": "4. Other/Pasted image 20240927161114.png"
+    },
+    {
+      "basename": "Pasted image 20240927161125",
+      "path": "4. Other/Pasted image 20240927161125.png"
+    },
+    {
+      "basename": "Pasted image 20250210142701",
+      "path": "4. Other/Pasted image 20250210142701.png"
+    },
+    {
+      "basename": "Pasted image 20250105134746",
+      "path": "4. Other/Pasted image 20250105134746.png"
+    },
+    {
+      "basename": "Pasted image 20250227211201",
+      "path": "4. Other/Pasted image 20250227211201.png"
+    },
+    {
+      "basename": "Pasted image 20250227211221",
+      "path": "4. Other/Pasted image 20250227211221.png"
+    },
+    {
+      "basename": "Pasted image 20250227211614",
+      "path": "4. Other/Pasted image 20250227211614.png"
+    },
+    {
+      "basename": "Pasted image 20250228110208",
+      "path": "4. Other/Pasted image 20250228110208.png"
+    },
+    {
+      "basename": "Structures - Anatomy - C",
+      "path": "Structures - Anatomy - C.md"
     },
     {
       "basename": "Structures - Nested Structures - C",
@@ -101,10 +149,6 @@
       "path": "4. Other/obsidian-icon.png"
     },
     {
-      "basename": "Pasted image 20240927152029",
-      "path": "4. Other/Pasted image 20240927152029.png"
-    },
-    {
       "basename": "Descartes",
       "path": "4. Other/Descartes.gif"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "Archlinux - Helpful Commands",
       "path": "3. Notes/Archlinux - Helpful Commands.md"
-    },
-    {
-      "basename": "Archlinux Rice - LainOS",
-      "path": "3. Notes/Archlinux Rice - LainOS.md"
-    },
-    {
-      "basename": "Arch Linux - Installation",
-      "path": "3. Notes/Arch Linux - Installation.md"
-    },
-    {
-      "basename": "Dublin City Group Activities",
-      "path": "3. Notes/Unsaved/Dublin City Group Activities.md"
-    },
-    {
-      "basename": "2025",
-      "path": "3. Notes/Unsaved/2025.md"
-    },
-    {
-      "basename": "Process Queues",
-      "path": "7. UNSORTED/Process Queues.md"
-    },
-    {
-      "basename": "$ Operating Systems",
-      "path": "2. University/Modules/Operating Systems/$ Operating Systems.md"
-    },
-    {
-      "basename": "Functions - C",
-      "path": "2. University/Modules/Programming/Functions - C.md"
-    },
-    {
-      "basename": "Pass by Reference & Pass by Value - C",
-      "path": "2. University/Modules/Programming/Pass by Reference & Pass by Value - C.md"
-    },
-    {
-      "basename": "U Strings - C",
-      "path": "2. University/Modules/Programming/Unsorted/U Strings - C.md"
-    },
-    {
-      "basename": "Reading Strings - gets() - C",
-      "path": "2. University/Modules/Programming/Unsorted/Reading Strings - gets() - C.md"
-    },
-    {
-      "basename": "Faster Character Input Output - C",
-      "path": "2. University/Modules/Programming/Faster Character Input Output - C.md"
     }
   ],
   "omittedPaths": [],
