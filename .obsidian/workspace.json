@@ -25,8 +25,57 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "c79eeea03689785b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Modules/Programming/$ C - Programming Language.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ C - Programming Language"
+            }
+          },
+          {
+            "id": "60bb28072cc89a75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Structures - Anatomy - C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Structures - Anatomy - C"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,20 +221,23 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "60bb28072cc89a75",
   "lastOpenFiles": [
-    "3. Notes/Diablo 2 - PD2 Sorceress.md",
+    "2. University/Modules/Programming/$ C - Programming Language.md",
+    "2. University/Modules/Programming/Structures - Structure Pointers - C.md",
+    "2. University/Modules/Programming/Structures - Creating Structures - C.md",
+    "7. UNSORTED/Structures - Nested Structures - C.md",
+    "7. UNSORTED/Structures - Passing to Functions - C.md",
     "1. Home Page/Home.canvas",
+    "3. Notes/Diablo 2 - PD2 Sorceress.md",
     "7. UNSORTED/temp.md",
     "3. Notes/Guitar Wishlist.md",
     "3. Notes/Guitar Songs to Learn.md",
     "3. Notes/Cheeses.md",
     "2. University/Modules/Programming/Keyboard Input - C.md",
-    "2. University/Modules/Programming/$ C - Programming Language.md",
     "7. UNSORTED/$UNFINISHED Programming Pitfalls - C.md",
     "2. University/Modules/Programming/Switch Statement - C.md",
-    "2. University/Modules/Programming/Structures - Creating Structures - C.md",
-    "Structure - Anatomy - C.md",
+    "Structures - Anatomy - C.md",
     "2. University/Modules/Programming/Ampersand - C.md",
     "2. University/Modules/Programming/File InputOutput - C.md",
     "2. University/Modules/Programming/Order of Code - C.md",
@@ -204,8 +256,6 @@
     "2. University/Modules/Algorithm Design and Problem Solving/Algorithms.md",
     "2. University/Modules/Programming/Strings - Using Strings - C.md",
     "2. University/Modules/Programming/String Functions - C.md",
-    "2. University/Modules/Programming/Strings - About Strings and String Anatomy - C.md",
-    "3. Notes/Archlinux - Helpful Commands.md",
     "3. Notes/Unsaved",
     "Other/Pasted image 20250407205120.png",
     "Other/Pasted image 20250407161354.png",

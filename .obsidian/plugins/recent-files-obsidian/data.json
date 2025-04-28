@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Structure - Anatomy - C",
+      "path": "Structure - Anatomy - C.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "Structures - Structure Pointers - C",
+      "path": "2. University/Modules/Programming/Structures - Structure Pointers - C.md"
+    },
+    {
+      "basename": "Structures - Creating Structures - C",
+      "path": "2. University/Modules/Programming/Structures - Creating Structures - C.md"
+    },
+    {
+      "basename": "Structures - Nested Structures - C",
+      "path": "7. UNSORTED/Structures - Nested Structures - C.md"
+    },
+    {
+      "basename": "Structures - Passing to Functions - C",
+      "path": "7. UNSORTED/Structures - Passing to Functions - C.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -33,24 +57,12 @@
       "path": "2. University/Modules/Programming/Keyboard Input - C.md"
     },
     {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
-    },
-    {
       "basename": "$UNFINISHED Programming Pitfalls - C",
       "path": "7. UNSORTED/$UNFINISHED Programming Pitfalls - C.md"
     },
     {
       "basename": "Switch Statement - C",
       "path": "2. University/Modules/Programming/Switch Statement - C.md"
-    },
-    {
-      "basename": "Structures - Creating Structures - C",
-      "path": "2. University/Modules/Programming/Structures - Creating Structures - C.md"
-    },
-    {
-      "basename": "Structure - Anatomy - C",
-      "path": "Structure - Anatomy - C.md"
     },
     {
       "basename": "Ampersand - C",
@@ -185,20 +197,8 @@
       "path": "2. University/Modules/Programming/Faster Character Input Output - C.md"
     },
     {
-      "basename": "Structures - Passing to Functions - C",
-      "path": "7. UNSORTED/Structures - Passing to Functions - C.md"
-    },
-    {
       "basename": "Process Scheduling",
       "path": "7. UNSORTED/Process Scheduling.md"
-    },
-    {
-      "basename": "Multiprogramming",
-      "path": "7. UNSORTED/Multiprogramming.md"
-    },
-    {
-      "basename": "Timesharing",
-      "path": "7. UNSORTED/Timesharing.md"
     }
   ],
   "omittedPaths": [],

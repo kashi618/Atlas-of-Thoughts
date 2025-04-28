@@ -61,11 +61,12 @@ aliases: []
 - [[Strings - Arrays of Strings - C]]
 
 **Structures**
-- [[Structure - Anatomy - C]]
+- [[Structures - Anatomy - C]]
 - [[Structures - Creating Structures - C]]
-- [[Structure Pointers - C]]
+- [[Structures - Structure Pointers - C]]
 - [[Structures - Passing to Functions - C]]
 - [[Structures - Nested Structures - C]]
+- Structures - Structure Arrays - C
 
 **File Input/Output**
 - [[Types of Files]]
