@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Structure - Anatomy - C",
-      "path": "Structure - Anatomy - C.md"
-    },
-    {
       "basename": "$ C - Programming Language",
       "path": "2. University/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "Structures - Anatomy - C",
+      "path": "Structures - Anatomy - C.md"
+    },
+    {
+      "basename": "Structures - Structure Arrays - C",
+      "path": "Structures - Structure Arrays - C.md"
     },
     {
       "basename": "Structures - Structure Pointers - C",
@@ -195,10 +199,6 @@
     {
       "basename": "Faster Character Input Output - C",
       "path": "2. University/Modules/Programming/Faster Character Input Output - C.md"
-    },
-    {
-      "basename": "Process Scheduling",
-      "path": "7. UNSORTED/Process Scheduling.md"
     }
   ],
   "omittedPaths": [],
