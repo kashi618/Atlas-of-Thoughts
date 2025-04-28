@@ -10,6 +10,9 @@
 - Wealth
 	- Clvl 43 | Lem Ko Tir
 	- 100% MF
+- Enigma
+	- Clvl 65 | Jah Ith Ber||
+	- 0-74% MF, (0.5-0.75% per Clvl)
 
 **4 Socket**
 - Chains of Honor
