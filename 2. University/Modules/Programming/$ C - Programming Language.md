@@ -67,7 +67,7 @@ aliases: []
 - [[Structures - Passing to Functions - C]]
 - [[Structures - Nested Structures - C]]
 - [[Structures - Structure Arrays - C]]
-- [[Structures - typedef statement - C]]
+- [[Structures - typedef Statement - C]]
 - [[Structures - Miscelaneous - C]]
 
 **File Input/Output**

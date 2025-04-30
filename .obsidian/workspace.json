@@ -32,8 +32,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Structures - typedef statement - C.md",
-                "mode": "preview",
+                "file": "2. University/Modules/Programming/$ C - Programming Language.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Structures - typedef statement - C"
+              "title": "$ C - Programming Language"
             }
           }
         ],
@@ -200,9 +200,9 @@
   },
   "active": "1c8b17a59e3e25e2",
   "lastOpenFiles": [
+    "Structures - typedef Statement - C.md",
     "2. University/Modules/Programming/$ C - Programming Language.md",
     "1. Home Page/Home.canvas",
-    "Structures - typedef statement - C.md",
     "2. University/Modules/Programming/Structures - Creating Structures - C.md",
     "Structures - Miscelaneous - C.md",
     "2. University/Modules/Programming/Structures - Structure Pointers - C.md",

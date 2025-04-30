@@ -2,6 +2,7 @@
 tags:
   - C
 aliases:
+  - Typedef
 ---
 The typedef statement is used to create an alternative name for an existing datatype. 
 It simplifies complex type declarations, and makes code more intuitive.
@@ -40,8 +41,7 @@ int main(void) {
 	return 0;
 }
 ```
-
-
+- With the `typedef struct`, we can now initialize a structure using only the typedef name `coordinates`.
 
 # See Also
 [[$ C - Programming Language]]
