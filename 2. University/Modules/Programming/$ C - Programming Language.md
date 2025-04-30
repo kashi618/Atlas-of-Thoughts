@@ -71,7 +71,7 @@ aliases: []
 - [[Structures - Miscellaneous - C]]
 
 **File Input/Output**
-- [[Types of Files]]
+- [[Types of FileS]]
 - [[File Input Output - C]] | **fopen(), fclose()**
 - [[File Modes - C]]
 

@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Structures - Miscellaneous - C",
+      "path": "Structures - Miscellaneous - C.md"
+    },
+    {
       "basename": "$ C - Programming Language",
       "path": "2. University/Modules/Programming/$ C - Programming Language.md"
     },
     {
-      "basename": "Ampersand - C",
-      "path": "2. University/Modules/Programming/Ampersand - C.md"
-    },
-    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "File Modes - C",
+      "path": "2. University/Modules/Programming/File Modes - C.md"
+    },
+    {
+      "basename": "$UNFINISHED Programming Pitfalls - C",
+      "path": "2. University/Modules/Programming/$UNFINISHED Programming Pitfalls - C.md"
+    },
+    {
+      "basename": "Ampersand - C",
+      "path": "2. University/Modules/Programming/Ampersand - C.md"
     },
     {
       "basename": "File Input Output - C",
@@ -19,10 +31,6 @@
     {
       "basename": "Types of Files",
       "path": "2. University/Modules/Programming/Types of Files.md"
-    },
-    {
-      "basename": "Structures - Miscellaneous - C",
-      "path": "Structures - Miscellaneous - C.md"
     },
     {
       "basename": "Structures - typedef Statement - C",
@@ -125,10 +133,6 @@
       "path": "2. University/Modules/Programming/Keyboard Input - C.md"
     },
     {
-      "basename": "$UNFINISHED Programming Pitfalls - C",
-      "path": "7. UNSORTED/$UNFINISHED Programming Pitfalls - C.md"
-    },
-    {
       "basename": "Switch Statement - C",
       "path": "2. University/Modules/Programming/Switch Statement - C.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Strings - Using Strings - C",
       "path": "2. University/Modules/Programming/Strings - Using Strings - C.md"
-    },
-    {
-      "basename": "String Functions - C",
-      "path": "2. University/Modules/Programming/String Functions - C.md"
     }
   ],
   "omittedPaths": [],
