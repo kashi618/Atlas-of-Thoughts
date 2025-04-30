@@ -5,20 +5,32 @@
       "path": "2. University/Modules/Programming/$ C - Programming Language.md"
     },
     {
-      "basename": "Structures - typedef statement - C",
-      "path": "Structures - typedef statement - C.md"
+      "basename": "Ampersand - C",
+      "path": "2. University/Modules/Programming/Ampersand - C.md"
     },
     {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
     {
-      "basename": "Structures - Creating Structures - C",
-      "path": "2. University/Modules/Programming/Structures - Creating Structures - C.md"
+      "basename": "File Input Output - C",
+      "path": "2. University/Modules/Programming/File Input Output - C.md"
     },
     {
-      "basename": "Structures - Miscelaneous - C",
-      "path": "Structures - Miscelaneous - C.md"
+      "basename": "Types of Files",
+      "path": "2. University/Modules/Programming/Types of Files.md"
+    },
+    {
+      "basename": "Structures - Miscellaneous - C",
+      "path": "Structures - Miscellaneous - C.md"
+    },
+    {
+      "basename": "Structures - typedef Statement - C",
+      "path": "Structures - typedef Statement - C.md"
+    },
+    {
+      "basename": "Structures - Creating Structures - C",
+      "path": "2. University/Modules/Programming/Structures - Creating Structures - C.md"
     },
     {
       "basename": "Structures - Structure Pointers - C",
@@ -78,11 +90,11 @@
     },
     {
       "basename": "Structures - Nested Structures - C",
-      "path": "7. UNSORTED/Structures - Nested Structures - C.md"
+      "path": "2. University/Modules/Programming/Structures - Nested Structures - C.md"
     },
     {
       "basename": "Structures - Passing to Functions - C",
-      "path": "7. UNSORTED/Structures - Passing to Functions - C.md"
+      "path": "2. University/Modules/Programming/Structures - Passing to Functions - C.md"
     },
     {
       "basename": "Diablo 2 - PD2 Sorceress",
@@ -121,16 +133,8 @@
       "path": "2. University/Modules/Programming/Switch Statement - C.md"
     },
     {
-      "basename": "Ampersand - C",
-      "path": "2. University/Modules/Programming/Ampersand - C.md"
-    },
-    {
       "basename": "explosion",
       "path": "4. Other/explosion.gif"
-    },
-    {
-      "basename": "File InputOutput - C",
-      "path": "2. University/Modules/Programming/File InputOutput - C.md"
     },
     {
       "basename": "Order of Code - C",
@@ -195,10 +199,6 @@
     {
       "basename": "String Functions - C",
       "path": "2. University/Modules/Programming/String Functions - C.md"
-    },
-    {
-      "basename": "Strings - About Strings and String Anatomy - C",
-      "path": "2. University/Modules/Programming/Strings - About Strings and String Anatomy - C.md"
     }
   ],
   "omittedPaths": [],

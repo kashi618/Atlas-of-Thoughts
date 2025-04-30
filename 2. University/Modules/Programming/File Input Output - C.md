@@ -4,7 +4,7 @@ tags:
 aliases:
 ---
 ## Opening and Closing a File
-```c showlinenumbers {4-5, 7-8, 15-16}
+```c showlinenumbers {4-5, 7-8, 15-16, 10-13}
 #include <stdio.h>
 
 int main(void) {

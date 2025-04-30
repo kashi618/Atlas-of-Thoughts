@@ -68,11 +68,11 @@ aliases: []
 - [[Structures - Nested Structures - C]]
 - [[Structures - Structure Arrays - C]]
 - [[Structures - typedef Statement - C]]
-- [[Structures - Miscelaneous - C]]
+- [[Structures - Miscellaneous - C]]
 
 **File Input/Output**
 - [[Types of Files]]
-- [[File InputOutput - C]] | **fopen(), fclose()**
+- [[File Input Output - C]] | **fopen(), fclose()**
 - [[File Modes - C]]
 
 
