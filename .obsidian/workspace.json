@@ -18,40 +18,15 @@
                 "viewState": {
                   "x": -380,
                   "y": -165,
-                  "zoom": -2.9640207028944334
+                  "zoom": -1.6014506235097254
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "bee15241b82644b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Modules/Programming/$ C - Programming Language.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ C - Programming Language"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -200,10 +174,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "bee15241b82644b2",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "1. Home Page/Home.canvas",
     "2. University/Modules/Programming/$ C - Programming Language.md",
+    "1. Home Page/Home.canvas",
     "2. University/Modules/Programming/Structures - Miscellaneous - C.md",
     "2. University/TU856-1/Study Guide/CMPU 1039 - Data Exploration.md",
     "2. University/TU856-1/Study Guide/CMPU 1025 - Programming.md",
