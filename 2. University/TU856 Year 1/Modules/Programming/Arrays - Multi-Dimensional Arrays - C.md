@@ -39,7 +39,7 @@ int coolArray[2][3] = {1,2,3,1,2,3};
 **Method 2**
 ```c showlinenumbers
 int coolArray[2][3] = {1, 2, 3,
-					   1, 2, 3};
+			1, 2, 3};
 ```
 
 **Method 3**
