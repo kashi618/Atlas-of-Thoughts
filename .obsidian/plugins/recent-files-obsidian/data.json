@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Files - Reading and Writing to Files - C",
       "path": "2. University/Modules/Programming/Files - Reading and Writing to Files - C.md"
     },
@@ -9,16 +13,16 @@
       "path": "2. University/Modules/Programming/$ C - Programming Language.md"
     },
     {
+      "basename": "Files - Opening and Closing Files - C",
+      "path": "2. University/Modules/Programming/Files - Opening and Closing Files - C.md"
+    },
+    {
       "basename": "File Input Output - C",
       "path": "2. University/Modules/Programming/File Input Output - C.md"
     },
     {
       "basename": "CODE_OF_CONDUCT",
       "path": "CODE_OF_CONDUCT.md"
-    },
-    {
-      "basename": "Files - Opening and Closing Files - C",
-      "path": "2. University/Modules/Programming/Files - Opening and Closing Files - C.md"
     },
     {
       "basename": "File Modes - C",
@@ -47,10 +51,6 @@
     {
       "basename": "Structures - Miscellaneous - C",
       "path": "2. University/Modules/Programming/Structures - Miscellaneous - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Structures - Miscellaneous - C",
