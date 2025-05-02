@@ -75,6 +75,10 @@ aliases: []
 **File Input/Output**
 - [[Types of Files]]
 - [[Files - Opening and Closing Files - C]]
+- [[Files - File Modes - C]]
+- [[Files - Reading and Writing to Files - C]]
+<<
+
 - [[File Input Output - C]] | **fopen(), fclose()**
 - [[File Modes - C]]
 

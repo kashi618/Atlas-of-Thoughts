@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Files - Opening and Closing Files - C",
-      "path": "Files - Opening and Closing Files - C.md"
+      "basename": "Files - Reading and Writing to Files - C",
+      "path": "2. University/Modules/Programming/Files - Reading and Writing to Files - C.md"
     },
     {
       "basename": "$ C - Programming Language",
       "path": "2. University/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "File Input Output - C",
+      "path": "2. University/Modules/Programming/File Input Output - C.md"
+    },
+    {
+      "basename": "CODE_OF_CONDUCT",
+      "path": "CODE_OF_CONDUCT.md"
+    },
+    {
+      "basename": "Files - Opening and Closing Files - C",
+      "path": "2. University/Modules/Programming/Files - Opening and Closing Files - C.md"
+    },
+    {
+      "basename": "File Modes - C",
+      "path": "2. University/Modules/Programming/File Modes - C.md"
+    },
+    {
+      "basename": "Files - File Modes - C",
+      "path": "2. University/Modules/Programming/Files - File Modes - C.md"
     },
     {
       "basename": "Arrays - Multi-Dimensional Arrays - C",
@@ -15,10 +35,6 @@
     {
       "basename": "Strings - String Functions - C",
       "path": "2. University/Modules/Programming/Strings - String Functions - C.md"
-    },
-    {
-      "basename": "File Input Output - C",
-      "path": "2. University/Modules/Programming/File Input Output - C.md"
     },
     {
       "basename": "Types of Files",
@@ -39,10 +55,6 @@
     {
       "basename": "Structures - Miscellaneous - C",
       "path": "Structures - Miscellaneous - C.md"
-    },
-    {
-      "basename": "File Modes - C",
-      "path": "2. University/Modules/Programming/File Modes - C.md"
     },
     {
       "basename": "$UNFINISHED Programming Pitfalls - C",
@@ -187,18 +199,6 @@
     {
       "basename": "Wishlist",
       "path": "3. Notes/Wishlist.md"
-    },
-    {
-      "basename": "$ Algorithm Project",
-      "path": "2. University/Modules/Algorithm Design and Problem Solving/$ Algorithm Project.md"
-    },
-    {
-      "basename": "aichat Output (Algorithms Project)",
-      "path": "aichat Output (Algorithms Project).md"
-    },
-    {
-      "basename": "Factorial Algorithm",
-      "path": "2. University/Modules/Algorithm Design and Problem Solving/Factorial Algorithm.md"
     }
   ],
   "omittedPaths": [],
