@@ -77,11 +77,6 @@ aliases: []
 - [[Files - Opening and Closing Files - C]]
 - [[Files - File Modes - C]]
 - [[Files - Reading and Writing to Files - C]]
-<<
-
-- [[File Input Output - C]] | **fopen(), fclose()**
-- [[File Modes - C]]
-
 
 **Programming Pitfalls**
 [[$UNFINISHED Programming Pitfalls - C]]
