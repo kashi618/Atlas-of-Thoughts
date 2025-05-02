@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Software & Hardware",
+      "path": "2. University/Modules/Operating Systems/Software & Hardware.md"
+    },
+    {
       "basename": "Software - Hardware",
       "path": "2. University/Modules/Operating Systems/Software - Hardware.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "Process States and Transitions",
       "path": "7. UNSORTED/Process States and Transitions.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "$ C - Programming Language",
@@ -195,10 +199,6 @@
     {
       "basename": "Order of Code - C",
       "path": "2. University/Modules/Programming/Order of Code - C.md"
-    },
-    {
-      "basename": "Memento Mori - Polyphia",
-      "path": "4. Other/Memento Mori - Polyphia.gif"
     }
   ],
   "omittedPaths": [],
