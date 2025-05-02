@@ -79,6 +79,29 @@ int main(void) {
 
 ## Move Current Position
 ### fseek()
+```c showlinenumbers
+fseek(filePointer, offset, SEEK_SET/SEEK_END/SEEK_CUR);
+// SEEK_SET = Goes to start of file
+// SEEK_END = Goes to end of file
+// SEEK_CUR = Move offset from current location
+```
+
+
+**Example: Go to first element in file**
+```c showlinenumbers
+fseek(fp, 0, SEEK_SET);
+```
+
+**Example: Go to eight last element in file**
+```c showlinenumbers
+fseek(fp, 8, SEEK_END);
+```
+
+**Example: Move forward 10 elements**
+```c showlinenumbesr
+fseek(fp, 10, SEEK_CUR);
+```
+
 
 
 # See Also

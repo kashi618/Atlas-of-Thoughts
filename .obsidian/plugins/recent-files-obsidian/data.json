@@ -5,6 +5,10 @@
       "path": "2. University/Modules/Programming/Files - Reading and Writing to Files - C.md"
     },
     {
+      "basename": "File Input Output - C",
+      "path": "2. University/Modules/Programming/File Input Output - C.md"
+    },
+    {
       "basename": "$ C - Programming Language",
       "path": "2. University/Modules/Programming/$ C - Programming Language.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Files - Opening and Closing Files - C",
       "path": "2. University/Modules/Programming/Files - Opening and Closing Files - C.md"
-    },
-    {
-      "basename": "File Input Output - C",
-      "path": "2. University/Modules/Programming/File Input Output - C.md"
     },
     {
       "basename": "CODE_OF_CONDUCT",
