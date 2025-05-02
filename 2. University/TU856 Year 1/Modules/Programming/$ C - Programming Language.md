@@ -40,7 +40,7 @@ aliases: []
 	- [[Switch Statement - C]]
 - [[Loops - C]]
 
-**Arrays and **
+**Arrays**
 - [[Arrays - C]]
 - [[Arrays - Multi-Dimensional Arrays - C]]
 
