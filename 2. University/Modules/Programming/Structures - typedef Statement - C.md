@@ -19,7 +19,7 @@ numbers age;
 Now, instead of writing `int` for declaring integers, we can write `numbers`.
 
 **Example 2**
-```c showlinenumbers {1-5,8-9}
+```c showlinenumbers {2-5,9}
 // Create typedef struct of name coordinates
 typedef struct{
 	int x;
@@ -42,6 +42,21 @@ int main(void) {
 }
 ```
 - With the `typedef struct`, we can now initialize a structure using only the typedef name `coordinates`.
+
+**Example 3**
+```c showlinenumbers {3}
+int main(void) {
+	// Typedef integer pointer as INT_POINTER
+	typedef int* INT_POINTER;
+	
+	// Create integer pointer
+	INT_POINTER ptr1;
+	
+	// End program
+	return 0;
+}
+```
+
 
 # See Also
 [[$ C - Programming Language]]

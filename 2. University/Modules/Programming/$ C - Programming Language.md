@@ -40,9 +40,11 @@ aliases: []
 	- [[Switch Statement - C]]
 - [[Loops - C]]
 
-**Arrays and Pointers**
+**Arrays and **
 - [[Arrays - C]]
-- [[Multi-Dimensional Arrays - C]]
+- [[Arrays - Multi-Dimensional Arrays - C]]
+
+**Pointers**
 - [[Pointers - C]]
 - [[Dereference Operators - C]]
 - [[Subscript and Pointer Notation - C]]
@@ -57,7 +59,7 @@ aliases: []
 **Strings**
 - [[Strings - About Strings and String Anatomy - C]]
 - [[Strings - Using Strings - C]]
-- [[String Functions - C]]
+- [[Strings - String Functions - C]]
 - [[Strings - Arrays of Strings - C]]
 
 **Structures**
@@ -71,7 +73,8 @@ aliases: []
 - [[Structures - Miscellaneous - C]]
 
 **File Input/Output**
-- [[Types of FileS]]
+- [[Types of Files]]
+- [[Files - Opening and Closing Files - C]]
 - [[File Input Output - C]] | **fopen(), fclose()**
 - [[File Modes - C]]
 
