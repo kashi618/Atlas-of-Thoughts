@@ -31,8 +31,6 @@ Personal Computers
 - Development and implementation of user-friendly OS which featured GUI's. (MS-DOS, Windows, macOS, etc)
 - The performance and portability were greatly improved
 - Distributed computing, where multiple independent computers were used together to perform a common task
-- 
-
 
 # See Also
 

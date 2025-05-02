@@ -9,13 +9,13 @@ The boot process is how a computer system turns on
 When the PC is powered on from an OFF condition
 - Ram is fully scrambled and randomized
 - This can be done by shutting down a PC, waiting a few minutes, and then turning it back on
-- The [[UNSORTED/POST]] sequence runs
+- The POST sequence runs
 - Also known as a hard reboot
 
 ## Warm Boot
 When the PC is restarted
 - This means memory may or may not be scrambled
-- The [[UNSORTED/POST]] sequence is skipped
+- The POST sequence is skipped
 - Also known as a soft reboot
 
 ### Additional Boot States

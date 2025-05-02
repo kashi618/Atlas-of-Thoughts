@@ -3,9 +3,12 @@
 - [[Early Computers]]
 
 ## Parts of an Operating System
-[[Software - Hardware]]
-[[Operating System]]
-[[Drivers]]
+- [[Software & Hardware]]
+
+
+- [[Operating System]]
+- [[Drivers]]
+- [[Boot Process]]
 
 ## Processes
 - [[Processes - Introduction]]
@@ -31,8 +34,8 @@
 ## Commands
 
 
-## Bash
+## Linux Command Line
 
 
-## Powershell
+## Windows Command Line
 

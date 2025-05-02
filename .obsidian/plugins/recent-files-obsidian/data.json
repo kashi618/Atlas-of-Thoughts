@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Software - Hardware",
+      "path": "2. University/Modules/Operating Systems/Software - Hardware.md"
+    },
+    {
+      "basename": "$ Operating Systems",
+      "path": "2. University/Modules/Operating Systems/$ Operating Systems.md"
+    },
+    {
+      "basename": "Early Computers",
+      "path": "2. University/Modules/Operating Systems/Early Computers.md"
+    },
+    {
+      "basename": "Computer Generations",
+      "path": "2. University/Modules/Operating Systems/Computer Generations.md"
+    },
+    {
+      "basename": "Boot Process",
+      "path": "2. University/Modules/Operating Systems/Boot Process.md"
+    },
+    {
+      "basename": "Processes - Introduction",
+      "path": "2. University/Modules/Operating Systems/Processes - Introduction.md"
+    },
+    {
+      "basename": "Process States and Transitions",
+      "path": "7. UNSORTED/Process States and Transitions.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "$ C - Programming Language",
       "path": "2. University/Modules/Programming/$ C - Programming Language.md"
     },
@@ -9,24 +41,12 @@
       "path": "2. University/Modules/Programming/Files - Reading and Writing to Files - C.md"
     },
     {
-      "basename": "File Input Output - C",
-      "path": "2. University/Modules/Programming/File Input Output - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
-    },
-    {
       "basename": "Files - Opening and Closing Files - C",
       "path": "2. University/Modules/Programming/Files - Opening and Closing Files - C.md"
     },
     {
       "basename": "CODE_OF_CONDUCT",
       "path": "CODE_OF_CONDUCT.md"
-    },
-    {
-      "basename": "File Modes - C",
-      "path": "2. University/Modules/Programming/File Modes - C.md"
     },
     {
       "basename": "Files - File Modes - C",
@@ -179,26 +199,6 @@
     {
       "basename": "Memento Mori - Polyphia",
       "path": "4. Other/Memento Mori - Polyphia.gif"
-    },
-    {
-      "basename": "obamna",
-      "path": "4. Other/obamna.gif"
-    },
-    {
-      "basename": "Nietzsche",
-      "path": "4. Other/Nietzsche.gif"
-    },
-    {
-      "basename": "obsidian-icon",
-      "path": "4. Other/obsidian-icon.png"
-    },
-    {
-      "basename": "Descartes",
-      "path": "4. Other/Descartes.gif"
-    },
-    {
-      "basename": "Wishlist",
-      "path": "3. Notes/Wishlist.md"
     }
   ],
   "omittedPaths": [],

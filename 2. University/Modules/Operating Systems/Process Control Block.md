@@ -24,6 +24,5 @@ This information contains:
 	- List of I/O devices allocated to processes, list of open files, etc
 
 
-
 # See Also
 [[$ Operating Systems]]

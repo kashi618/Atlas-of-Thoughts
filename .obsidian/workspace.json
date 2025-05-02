@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -380,
                   "y": -165,
-                  "zoom": -1.4846983772477276
+                  "zoom": -0.5091187427376505
                 }
               },
               "pinned": true,
@@ -32,9 +32,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Modules/Programming/$ C - Programming Language.md",
+                "file": "2. University/Modules/Operating Systems/Software & Hardware.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ C - Programming Language"
+              "title": "Software & Hardware"
             }
           }
         ],
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -201,25 +202,33 @@
   },
   "active": "58be673b36da4ffd",
   "lastOpenFiles": [
+    "2. University/Modules/Operating Systems/$ Operating Systems.md",
+    "2. University/Modules/Operating Systems/Early Computers.md",
+    "2. University/Modules/Operating Systems/Computer Generations.md",
+    "2. University/Modules/Operating Systems/Boot Process.md",
+    "2. University/Modules/Operating Systems/Unsorted Notes/Boot Process.md",
+    "2. University/Modules/Operating Systems/Processes - Introduction.md",
+    "2. University/Modules/Operating Systems/Timesharing.md",
+    "2. University/Modules/Operating Systems/Process Scheduling.md",
+    "2. University/Modules/Operating Systems/Process Queues.md",
+    "2. University/Modules/Operating Systems/Process Control Block.md",
+    "2. University/Modules/Operating Systems/Process Context Switching.md",
+    "2. University/Modules/Operating Systems/Operating System.md",
+    "2. University/Modules/Operating Systems/Multiprogramming.md",
+    "7. UNSORTED/Process Control Block.md",
+    "7. UNSORTED/Process States and Transitions.md",
+    "7. UNSORTED/Processes - Introduction.md",
+    "7. UNSORTED/Multiprogramming.md",
+    "1. Home Page/Home.canvas",
+    "2. University/Modules/Programming/$ C - Programming Language.md",
     "2. University/Modules/Programming/Files - Reading and Writing to Files - C.md",
     "2. University/Modules/Programming/File Input Output - C.md",
-    "2. University/Modules/Programming/$ C - Programming Language.md",
-    "1. Home Page/Home.canvas",
     "2. University/Modules/Programming/Files - Opening and Closing Files - C.md",
     "CODE_OF_CONDUCT.md",
     "2. University/Modules/Programming/File Modes - C.md",
     "2. University/Modules/Programming/Files - File Modes - C.md",
     "2. University/Modules/Programming/Arrays - Multi-Dimensional Arrays - C.md",
     "2. University/Modules/Programming/Strings - String Functions - C.md",
-    "2. University/Modules/Programming/Types of Files.md",
-    "2. University/Modules/Programming/Structures - typedef Statement - C.md",
-    "2. University/Modules/Programming/Structures - Miscellaneous - C.md",
-    "2. University/TU856-1/Study Guide/CMPU 1039 - Data Exploration.md",
-    "2. University/TU856-1/Study Guide/CMPU 1025 - Programming.md",
-    "2. University/TU856-1/Study Guide/CMPU 1022 - Operating Systems 1.md",
-    "2. University/TU856-1/Study Guide/CMPU 1019 - Microprocessor Systems.md",
-    "2. University/TU856-1/Study Guide/CMPU 1006 - Computer Architecture and Technology.md",
-    "2. University/TU856-1/Study Guide/CMPU 1001 - Algorithm Design and Problem Solving.md",
     "2. University/TU856-1/Exam Papers/CMPU 1039 - 2023.2024.pdf",
     "2. University/TU856-1/Exam Papers/CMPU 1039 - 2022.2023.pdf",
     "2. University/TU856-1/Exam Papers/CMPU 1039 - 2021.2022.pdf",
@@ -230,13 +239,6 @@
     "2. University/TU856-1/Exam Papers/CMPU 1022 - 2022.2023.pdf",
     "2. University/TU856-1/Exam Papers/CMPU 1022 - 2021.2022.pdf",
     "2. University/TU856-1/Exam Papers/CMPU 1019 - 2023.2024.pdf",
-    "2. University/TU856-1/TU856-1 Results.md",
-    "2. University/TU856-1/Study Plan Semester 2.md",
-    "2. University/Modules/TU856-1/Study Guide/CMPU 1039 - Data Exploration.md",
-    "2. University/Modules/TU856-1/Study Guide/CMPU 1025 - Programming.md",
-    "2. University/Modules/TU856-1/Study Guide/CMPU 1022 - Operating Systems 1.md",
-    "2. University/Modules/TU856-1/Study Guide/CMPU 1019 - Microprocessor Systems.md",
-    "2. University/Modules/TU856-1/Study Guide/CMPU 1006 - Computer Architecture and Technology.md",
     "4. Other/Pasted image 20240927152029.png",
     "4. Other/Pasted image 20240927155715.png",
     "4. Other/Pasted image 20240927155719.png",
