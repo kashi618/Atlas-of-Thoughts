@@ -45,9 +45,9 @@ int coolArray[2][3] = {1, 2, 3,
 **Method 3**
 ```c showlinenumbers
 int coolArray[3][2] = { 
-						{1, 2, 3},
-						{1, 2, 3} 
-					  };
+		{1, 2, 3},
+		{1, 2, 3} 
+		};
 ```
 
 ### Input/Output 2D Array
