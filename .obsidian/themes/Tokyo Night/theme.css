@@ -178,7 +178,7 @@
   --h1-color: var(--red);
   --h2-color: var(--yellow);
   --h3-color: var(--green);
-  --h4-color: var(--cyan);
+  --h4-color: rgb(255, 145, 220);
   --h5-color: var(--blue);
   --h6-color: var(--magenta);
 

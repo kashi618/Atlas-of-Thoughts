@@ -79,13 +79,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structures - Miscellaneous - C.md",
+                "file": "1. Home Page/Home.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Structures - Miscellaneous - C"
+              "title": "Outline of Home"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. University/Modules/Programming/$ C - Programming Language.md",
+                "file": "1. Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from $ C - Programming Language"
+              "title": "Outgoing links from Home"
             }
           },
           {
@@ -149,13 +149,11 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 362.5,
-    "collapsed": true
+    "width": 362.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,54 +172,54 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3bd19bba09e6f6f0",
   "lastOpenFiles": [
-    "2. University/Modules/Operating Systems/Software & Hardware.md",
-    "2. University/Modules/Operating Systems/$ Operating Systems.md",
-    "2. University/Modules/Operating Systems/Early Computers.md",
-    "2. University/Modules/Operating Systems/Computer Generations.md",
-    "2. University/Modules/Operating Systems/Boot Process.md",
-    "2. University/Modules/Operating Systems/Unsorted Notes/Boot Process.md",
-    "2. University/Modules/Operating Systems/Processes - Introduction.md",
-    "2. University/Modules/Operating Systems/Timesharing.md",
-    "2. University/Modules/Operating Systems/Process Scheduling.md",
-    "2. University/Modules/Operating Systems/Process Queues.md",
-    "2. University/Modules/Operating Systems/Process Control Block.md",
-    "2. University/Modules/Operating Systems/Process Context Switching.md",
-    "2. University/Modules/Operating Systems/Operating System.md",
-    "2. University/Modules/Operating Systems/Multiprogramming.md",
-    "7. UNSORTED/Process Control Block.md",
-    "7. UNSORTED/Process States and Transitions.md",
-    "7. UNSORTED/Processes - Introduction.md",
-    "7. UNSORTED/Multiprogramming.md",
+    "2. University/TU856 Year 3/Modules/Semester 2",
+    "2. University/TU856 Year 3/Modules/Semester 1/Introduction to Artificial Intelligence",
+    "2. University/TU856 Year 3/Modules/Semester 1/Software Engineering 3",
+    "2. University/TU856 Year 3/Modules/Semester 1/Mobile Software Development",
+    "2. University/TU856 Year 3/Modules/Semester 1/Databases 2",
+    "2. University/TU856 Year 3/Modules/Semester 1/Cloud Computing",
+    "2. University/TU856 Year 3/Modules/Semester 1/Client Serving Programming",
+    "2. University/TU856 Year 3/Modules/Semester 1",
+    "2. University/TU856 Year 3/Modules",
+    "2. University/TY856 Year 4",
+    "2. University/TU856 Year 3",
+    "2. University/TU856 Year 1/Modules/Programming/Unsorted/uStructures - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Unsorted/sizeof() - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Unsorted/free() - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Unsorted/UString Functions - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Unsorted/U Strings - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Unsorted/U Storage Classes - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Unsorted/Strings and Arrays - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Unsorted/Semicolons - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Unsorted/Returning Variables - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Unsorted/Refactoring Code.md",
+    "2. University/TU856 Year 1/Modules/Programming/Unsorted/Reading Strings - gets() - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Unsorted/Random Data - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Unsorted/Printing a 2D Array - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Unsorted/Printing Out Strings - puts() - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Unsorted/Pointers and Arrays - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Unsorted/Passing Arrays - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Unsorted/Pass by Value & Pass by Reference - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Unsorted/Non-Null Terminated String - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Unsorted/Nested Structures.md",
+    "2. University/TU856 Year 1/Modules/Programming/Unsorted/Memory Leak.md",
+    "2. University/TU856 Year 1/Modules/Programming/Unsorted/Initializing a 2D Array.md",
+    "2. University/TU856 Year 1/Modules/Programming/Unsorted/Indentation - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Unsorted/Global and Local Variables - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Unsorted/FunctionsUNFINISHED - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Unsorted/Dynamic Memory AllocationUNFINISHED - C.md",
     "1. Home Page/Home.canvas",
-    "2. University/Modules/Programming/$ C - Programming Language.md",
-    "2. University/Modules/Programming/Files - Reading and Writing to Files - C.md",
-    "2. University/Modules/Programming/File Input Output - C.md",
-    "2. University/Modules/Programming/Files - Opening and Closing Files - C.md",
-    "CODE_OF_CONDUCT.md",
-    "2. University/Modules/Programming/File Modes - C.md",
-    "2. University/Modules/Programming/Files - File Modes - C.md",
-    "2. University/Modules/Programming/Arrays - Multi-Dimensional Arrays - C.md",
-    "2. University/TU856-1/Exam Papers/CMPU 1039 - 2023.2024.pdf",
-    "2. University/TU856-1/Exam Papers/CMPU 1039 - 2022.2023.pdf",
-    "2. University/TU856-1/Exam Papers/CMPU 1039 - 2021.2022.pdf",
-    "2. University/TU856-1/Exam Papers/CMPU 1025 - 2023.2024.pdf",
-    "2. University/TU856-1/Exam Papers/CMPU 1025 - 2022.2023.pdf",
-    "2. University/TU856-1/Exam Papers/CMPU 1025 - 2021.2022.pdf",
-    "2. University/TU856-1/Exam Papers/CMPU 1022 - 2023.2024.pdf",
-    "2. University/TU856-1/Exam Papers/CMPU 1022 - 2022.2023.pdf",
-    "2. University/TU856-1/Exam Papers/CMPU 1022 - 2021.2022.pdf",
-    "2. University/TU856-1/Exam Papers/CMPU 1019 - 2023.2024.pdf",
-    "4. Other/Pasted image 20240927152029.png",
-    "4. Other/Pasted image 20240927155715.png",
-    "4. Other/Pasted image 20240927155719.png",
-    "4. Other/Pasted image 20240927161114.png",
-    "4. Other/Pasted image 20240927161125.png",
-    "4. Other/Pasted image 20250210142701.png",
-    "4. Other/Pasted image 20250105134746.png",
-    "4. Other/Pasted image 20250227211201.png",
-    "4. Other/Pasted image 20250227211221.png",
-    "4. Other/Pasted image 20250227211614.png"
+    "5. PDF's/4. Other/Pasted image 20240927152029.png",
+    "5. PDF's/4. Other/Pasted image 20240927155715.png",
+    "5. PDF's/4. Other/Pasted image 20240927155719.png",
+    "5. PDF's/4. Other/Pasted image 20240927161114.png",
+    "5. PDF's/4. Other/Pasted image 20240927161125.png",
+    "5. PDF's/4. Other/Pasted image 20250210142701.png",
+    "5. PDF's/4. Other/Pasted image 20250105134746.png",
+    "5. PDF's/4. Other/Pasted image 20250227211201.png",
+    "5. PDF's/4. Other/Pasted image 20250227211221.png",
+    "5. PDF's/4. Other/Pasted image 20250227211614.png"
   ]
 }

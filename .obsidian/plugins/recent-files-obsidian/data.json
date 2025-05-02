@@ -5,100 +5,24 @@
       "path": "1. Home Page/Home.canvas"
     },
     {
-      "basename": "Software & Hardware",
-      "path": "2. University/Modules/Operating Systems/Software & Hardware.md"
-    },
-    {
       "basename": "Software - Hardware",
       "path": "2. University/Modules/Operating Systems/Software - Hardware.md"
-    },
-    {
-      "basename": "$ Operating Systems",
-      "path": "2. University/Modules/Operating Systems/$ Operating Systems.md"
-    },
-    {
-      "basename": "Early Computers",
-      "path": "2. University/Modules/Operating Systems/Early Computers.md"
-    },
-    {
-      "basename": "Computer Generations",
-      "path": "2. University/Modules/Operating Systems/Computer Generations.md"
-    },
-    {
-      "basename": "Boot Process",
-      "path": "2. University/Modules/Operating Systems/Boot Process.md"
-    },
-    {
-      "basename": "Processes - Introduction",
-      "path": "2. University/Modules/Operating Systems/Processes - Introduction.md"
     },
     {
       "basename": "Process States and Transitions",
       "path": "7. UNSORTED/Process States and Transitions.md"
     },
     {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/Modules/Programming/$ C - Programming Language.md"
-    },
-    {
-      "basename": "Files - Reading and Writing to Files - C",
-      "path": "2. University/Modules/Programming/Files - Reading and Writing to Files - C.md"
-    },
-    {
-      "basename": "Files - Opening and Closing Files - C",
-      "path": "2. University/Modules/Programming/Files - Opening and Closing Files - C.md"
-    },
-    {
       "basename": "CODE_OF_CONDUCT",
       "path": "CODE_OF_CONDUCT.md"
-    },
-    {
-      "basename": "Files - File Modes - C",
-      "path": "2. University/Modules/Programming/Files - File Modes - C.md"
-    },
-    {
-      "basename": "Arrays - Multi-Dimensional Arrays - C",
-      "path": "2. University/Modules/Programming/Arrays - Multi-Dimensional Arrays - C.md"
-    },
-    {
-      "basename": "Strings - String Functions - C",
-      "path": "2. University/Modules/Programming/Strings - String Functions - C.md"
-    },
-    {
-      "basename": "Types of Files",
-      "path": "2. University/Modules/Programming/Types of Files.md"
-    },
-    {
-      "basename": "Structures - typedef Statement - C",
-      "path": "2. University/Modules/Programming/Structures - typedef Statement - C.md"
-    },
-    {
-      "basename": "Structures - Miscellaneous - C",
-      "path": "2. University/Modules/Programming/Structures - Miscellaneous - C.md"
     },
     {
       "basename": "Structures - Miscellaneous - C",
       "path": "Structures - Miscellaneous - C.md"
     },
     {
-      "basename": "$UNFINISHED Programming Pitfalls - C",
-      "path": "2. University/Modules/Programming/$UNFINISHED Programming Pitfalls - C.md"
-    },
-    {
-      "basename": "Ampersand - C",
-      "path": "2. University/Modules/Programming/Ampersand - C.md"
-    },
-    {
       "basename": "Structures - typedef Statement - C",
       "path": "Structures - typedef Statement - C.md"
-    },
-    {
-      "basename": "Structures - Creating Structures - C",
-      "path": "2. University/Modules/Programming/Structures - Creating Structures - C.md"
-    },
-    {
-      "basename": "Structures - Structure Pointers - C",
-      "path": "2. University/Modules/Programming/Structures - Structure Pointers - C.md"
     },
     {
       "basename": "Structures - Structure Arrays - C",
@@ -106,99 +30,51 @@
     },
     {
       "basename": "Pasted image 20240927152029",
-      "path": "4. Other/Pasted image 20240927152029.png"
+      "path": "5. PDF's/4. Other/Pasted image 20240927152029.png"
     },
     {
       "basename": "Pasted image 20240927155715",
-      "path": "4. Other/Pasted image 20240927155715.png"
+      "path": "5. PDF's/4. Other/Pasted image 20240927155715.png"
     },
     {
       "basename": "Pasted image 20240927155719",
-      "path": "4. Other/Pasted image 20240927155719.png"
+      "path": "5. PDF's/4. Other/Pasted image 20240927155719.png"
     },
     {
       "basename": "Pasted image 20240927161114",
-      "path": "4. Other/Pasted image 20240927161114.png"
+      "path": "5. PDF's/4. Other/Pasted image 20240927161114.png"
     },
     {
       "basename": "Pasted image 20240927161125",
-      "path": "4. Other/Pasted image 20240927161125.png"
+      "path": "5. PDF's/4. Other/Pasted image 20240927161125.png"
     },
     {
       "basename": "Pasted image 20250210142701",
-      "path": "4. Other/Pasted image 20250210142701.png"
+      "path": "5. PDF's/4. Other/Pasted image 20250210142701.png"
     },
     {
       "basename": "Pasted image 20250105134746",
-      "path": "4. Other/Pasted image 20250105134746.png"
+      "path": "5. PDF's/4. Other/Pasted image 20250105134746.png"
     },
     {
       "basename": "Pasted image 20250227211201",
-      "path": "4. Other/Pasted image 20250227211201.png"
+      "path": "5. PDF's/4. Other/Pasted image 20250227211201.png"
     },
     {
       "basename": "Pasted image 20250227211221",
-      "path": "4. Other/Pasted image 20250227211221.png"
+      "path": "5. PDF's/4. Other/Pasted image 20250227211221.png"
     },
     {
       "basename": "Pasted image 20250227211614",
-      "path": "4. Other/Pasted image 20250227211614.png"
+      "path": "5. PDF's/4. Other/Pasted image 20250227211614.png"
     },
     {
       "basename": "Pasted image 20250228110208",
-      "path": "4. Other/Pasted image 20250228110208.png"
+      "path": "5. PDF's/4. Other/Pasted image 20250228110208.png"
     },
     {
       "basename": "Structures - Anatomy - C",
       "path": "Structures - Anatomy - C.md"
-    },
-    {
-      "basename": "Structures - Nested Structures - C",
-      "path": "2. University/Modules/Programming/Structures - Nested Structures - C.md"
-    },
-    {
-      "basename": "Structures - Passing to Functions - C",
-      "path": "2. University/Modules/Programming/Structures - Passing to Functions - C.md"
-    },
-    {
-      "basename": "Diablo 2 - PD2 Sorceress",
-      "path": "3. Notes/Diablo 2 - PD2 Sorceress.md"
-    },
-    {
-      "basename": "Diablo 2 - PD2 Runewords",
-      "path": "3. Notes/Diablo 2 - PD2 Runewords.md"
-    },
-    {
-      "basename": "temp",
-      "path": "7. UNSORTED/temp.md"
-    },
-    {
-      "basename": "Guitar Wishlist",
-      "path": "3. Notes/Guitar Wishlist.md"
-    },
-    {
-      "basename": "Guitar Songs to Learn",
-      "path": "3. Notes/Guitar Songs to Learn.md"
-    },
-    {
-      "basename": "Cheeses",
-      "path": "3. Notes/Cheeses.md"
-    },
-    {
-      "basename": "Keyboard Input - C",
-      "path": "2. University/Modules/Programming/Keyboard Input - C.md"
-    },
-    {
-      "basename": "Switch Statement - C",
-      "path": "2. University/Modules/Programming/Switch Statement - C.md"
-    },
-    {
-      "basename": "explosion",
-      "path": "4. Other/explosion.gif"
-    },
-    {
-      "basename": "Order of Code - C",
-      "path": "2. University/Modules/Programming/Order of Code - C.md"
     }
   ],
   "omittedPaths": [],
