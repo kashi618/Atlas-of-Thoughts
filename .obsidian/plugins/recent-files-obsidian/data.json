@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "CMPU1025 - Programming",
+      "path": "2. University/TU856 Year 1/Study Guide/CMPU1025 - Programming.md"
+    },
+    {
+      "basename": "CMPU1022 - Operating Systems 1",
+      "path": "2. University/TU856 Year 1/Study Guide/CMPU1022 - Operating Systems 1.md"
+    },
+    {
+      "basename": "CMPU1019 - Microprocessor Systems",
+      "path": "2. University/TU856 Year 1/Study Guide/CMPU1019 - Microprocessor Systems.md"
+    },
+    {
+      "basename": "CMPU1006 - Computer Architecture and Technology",
+      "path": "2. University/TU856 Year 1/Study Guide/CMPU1006 - Computer Architecture and Technology.md"
+    },
+    {
+      "basename": "CMPU1001 - Algorithm Design and Problem Solving",
+      "path": "2. University/TU856 Year 1/Study Guide/CMPU1001 - Algorithm Design and Problem Solving.md"
+    },
+    {
+      "basename": "Results",
+      "path": "2. University/TU856 Year 1/Results.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Dynamic Memory Allocation - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Dynamic Memory Allocation - C.md"
     },
@@ -11,10 +39,6 @@
     {
       "basename": "Browser Storage - JavaScript",
       "path": "2. University/TU856 Year 1/Modules/Semester 1/Web Development/Browser Storage - JavaScript.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Software - Hardware",
