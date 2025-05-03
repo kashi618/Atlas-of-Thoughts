@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "time",
+      "path": "2. University/TU856 Year 1/Study Guide/time.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "CMPU1025 - Programming",
       "path": "2. University/TU856 Year 1/Study Guide/CMPU1025 - Programming.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Results",
       "path": "2. University/TU856 Year 1/Results.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Dynamic Memory Allocation - C",
