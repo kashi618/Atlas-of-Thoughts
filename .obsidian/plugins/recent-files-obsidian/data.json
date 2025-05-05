@@ -5,8 +5,28 @@
       "path": "2. University/TU856 Year 1/Study Guide/CMPU1025 - Programming.md"
     },
     {
+      "basename": "Switch Statement - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Switch Statement - C.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "Incrementing & Decrementing - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Incrementing & Decrementing - C.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Results",
+      "path": "2. University/TU856 Year 1/Results.md"
+    },
+    {
+      "basename": "CMPU 1025 - 2023.2024",
+      "path": "2. University/TU856 Year 1/Exam Papers/CMPU 1025 - 2023.2024.pdf"
     },
     {
       "basename": "time",
@@ -29,16 +49,8 @@
       "path": "2. University/TU856 Year 1/Study Guide/CMPU1001 - Algorithm Design and Problem Solving.md"
     },
     {
-      "basename": "Results",
-      "path": "2. University/TU856 Year 1/Results.md"
-    },
-    {
       "basename": "Dynamic Memory Allocation - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Dynamic Memory Allocation - C.md"
-    },
-    {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md"
     },
     {
       "basename": "Browser Storage - JavaScript",
