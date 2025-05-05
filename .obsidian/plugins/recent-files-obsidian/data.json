@@ -5,20 +5,24 @@
       "path": "2. University/TU856 Year 1/Study Guide/CMPU1025 - Programming.md"
     },
     {
-      "basename": "CMPU1006 - Computer Architecture and Technology",
-      "path": "2. University/TU856 Year 1/Study Guide/CMPU1006 - Computer Architecture and Technology.md"
+      "basename": "Storage Classes - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Storage Classes - C.md"
     },
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
+      "basename": "$ C - Programming Language",
+      "path": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md"
     },
     {
       "basename": "Arrays - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Arrays - C.md"
     },
     {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md"
+      "basename": "CMPU1006 - Computer Architecture and Technology",
+      "path": "2. University/TU856 Year 1/Study Guide/CMPU1006 - Computer Architecture and Technology.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Switch Statement - C",

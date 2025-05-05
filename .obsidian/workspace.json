@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 1/Modules/Programming/Arrays - C.md",
+                "file": "2. University/TU856 Year 1/Modules/Programming/Storage Classes - C.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arrays - C"
+              "title": "Storage Classes - C"
             }
           },
           {
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -225,12 +224,13 @@
   },
   "active": "372b59f862d16dcc",
   "lastOpenFiles": [
+    "2. University/TU856 Year 1/Modules/Programming/Storage Classes - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md",
+    "2. University/TU856 Year 1/Modules/Programming/Arrays - C.md",
+    "2. University/TU856 Year 1/Study Guide/CMPU1025 - Programming.md",
     "2. University/TU856 Year 1/Study Guide/CMPU1006 - Computer Architecture and Technology.md",
     "1. Home Page/Home.canvas",
-    "2. University/TU856 Year 1/Modules/Programming/Arrays - C.md",
-    "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md",
     "2. University/TU856 Year 1/Modules/Programming/Switch Statement - C.md",
-    "2. University/TU856 Year 1/Study Guide/CMPU1025 - Programming.md",
     "2. University/TU856 Year 1/Modules/Programming/Incrementing & Decrementing - C.md",
     "2. University/TU856 Year 1/Results.md",
     "2. University/TU856 Year 1/Exam Papers/CMPU 1025 - 2023.2024.pdf",
