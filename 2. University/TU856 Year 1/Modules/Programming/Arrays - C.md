@@ -46,10 +46,11 @@ int arr[] = {1, 2, 3, 4, 5}
 int numberArray[10] = {1,2,3,4,5,6,7,8,9,10};
 ```
 
-**Example 2: Set first 3 elemnts to **
+**Example 2: Set first 3 elemnts to 5**
 ```c showlinenumbers
-int allZeros[10] = {0}; 
+int coolArray[6] = {5, 5, 5}; 
 ```
+If you initialize an array with not enough elements, then the rest will be filled up with zeros. The contents of this array is `5, 5, 5, 0, 0, 0`
 
 ### Inputting Values
 **NOTE:** When inputting values in arrays, we can use two types of array notation, [[Subscript and Pointer Notation - C|subscript and pointer notation]]. 
