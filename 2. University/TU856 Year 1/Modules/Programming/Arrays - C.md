@@ -46,9 +46,9 @@ int arr[] = {1, 2, 3, 4, 5}
 int numberArray[10] = {1,2,3,4,5,6,7,8,9,10};
 ```
 
-**Example 2: Set all numbers to zero**
+**Example 2: Set first 3 elemnts to **
 ```c showlinenumbers
-int allZeros[100] = {0}; 
+int allZeros[10] = {0}; 
 ```
 
 ### Inputting Values
