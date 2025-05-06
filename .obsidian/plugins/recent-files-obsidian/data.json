@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "CMPU1022 - Operating Systems 1",
       "path": "2. University/TU856 Year 1/Study Guide/CMPU1022 - Operating Systems 1.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "Keyboard Output - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Keyboard Output - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Structures - Anatomy - C",

@@ -18,64 +18,15 @@
                 "viewState": {
                   "x": -380,
                   "y": -165,
-                  "zoom": -1.224215156943266
+                  "zoom": -1.3509071618591284
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "7d8dbd40f7af3263",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 1/Study Guide/CMPU1022 - Operating Systems 1.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CMPU1022 - Operating Systems 1"
-            }
-          },
-          {
-            "id": "f003146f9db052ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/$ Operating Systems.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ Operating Systems"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,12 +173,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "7d8dbd40f7af3263",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2. University/TU856 Year 1/Study Guide/CMPU1022 - Operating Systems 1.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/$ Operating Systems.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Process Context Switching.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Process Control Block.md",
-    "2. University/TU856 Year 1/Study Guide/CMPU1022 - Operating Systems 1.md",
     "7. UNSORTED/Process States and Transitions.md",
     "Pasted image 20250506182931.png",
     "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Processes - Introduction.md",
