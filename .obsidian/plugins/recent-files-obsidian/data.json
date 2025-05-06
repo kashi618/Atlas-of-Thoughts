@@ -5,12 +5,16 @@
       "path": "2. University/TU856 Year 1/Study Guide/CMPU1022 - Operating Systems 1.md"
     },
     {
-      "basename": "Process Control Block",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Process Control Block.md"
-    },
-    {
       "basename": "$ Operating Systems",
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/$ Operating Systems.md"
+    },
+    {
+      "basename": "Process Context Switching",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Process Context Switching.md"
+    },
+    {
+      "basename": "Process Control Block",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Process Control Block.md"
     },
     {
       "basename": "Process States and Transitions",

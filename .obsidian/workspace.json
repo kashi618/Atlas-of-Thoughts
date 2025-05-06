@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Process Control Block.md",
+                "file": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/$ Operating Systems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,7 +71,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Process Control Block"
+              "title": "$ Operating Systems"
             }
           }
         ],
@@ -224,10 +224,11 @@
   },
   "active": "7d8dbd40f7af3263",
   "lastOpenFiles": [
-    "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Process Control Block.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/$ Operating Systems.md",
-    "7. UNSORTED/Process States and Transitions.md",
+    "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Process Context Switching.md",
+    "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Process Control Block.md",
     "2. University/TU856 Year 1/Study Guide/CMPU1022 - Operating Systems 1.md",
+    "7. UNSORTED/Process States and Transitions.md",
     "Pasted image 20250506182931.png",
     "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Processes - Introduction.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Process Queues.md",
@@ -252,7 +253,6 @@
     "2. University/TU856 Year 1/Exam Papers/CMPU 1025 - 2023.2024.pdf",
     "2. University/TU856 Year 1/Study Guide/time.md",
     "2. University/TU856 Year 1/Study Guide/CMPU1019 - Microprocessor Systems.md",
-    "2. University/TU856 Year 1/Study Guide/CMPU1001 - Algorithm Design and Problem Solving.md",
     "2. University/TY856 Year 4/Modules/Semester 2",
     "2. University/TY856 Year 4/Modules/Semester 1",
     "2. University/TY856 Year 4/Modules/Final Year Project",
