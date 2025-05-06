@@ -55,6 +55,8 @@ ptr -> structureMember
 ```
 
 - Both these methods do the same thing. However, arrow notation is preferred due to its readability.
+- To move onto the next element if you are dealing with a structure array, just add one to the pointer
+  `(ptr + i) -> structureMember`
 
 **Example**
 ```c showlinenumbers

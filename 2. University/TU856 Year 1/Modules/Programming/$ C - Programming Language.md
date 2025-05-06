@@ -65,7 +65,7 @@ aliases: []
 **Structures**
 - [[Structures - Anatomy - C]]
 - [[Structures - Creating Structures - C]]
-- [[Structures - Structure Pointers - C]]
+- [[Structures - Structure Pointers - C]] **DMA and structures** **Pointer Notation**
 - [[Structures - Passing to Functions - C]]
 - [[Structures - Nested Structures - C]]
 - [[Structures - Structure Arrays - C]]
