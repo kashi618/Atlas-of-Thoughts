@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Structures - Structure Pointers - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Structures - Structure Pointers - C.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Dynamic Memory Allocation - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Dynamic Memory Allocation - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "CMPU1025 - Programming",
