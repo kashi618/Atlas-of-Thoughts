@@ -43,6 +43,7 @@ The Imitation Game
 | ---------------------------------------------------------- | --------------- |
 | Beetlejuice Beetlejuice                                    | Good            |
 | Dead Silence                                               | Good            |
+| Dead Poets Society                                         | **MUST WATCH**  |
 | Der Untergang (Downfall)                                   | **MUST WATCH**  |
 | Elemental                                                  | Good            |
 | Home Alone                                                 | N/A             |
@@ -89,6 +90,10 @@ The Imitation Game
 ### Planning
 - (**TV**) - Tom and Jerry (1940-1967)
 - (**TV**) - Rick and Morty Season 4-7
+- If only
+- The last sentinel
+- The black list
+- The last man on earth
 
 #### Disney Movies
 - (**Movie**) - Beauty and the Beast
