@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 1/Modules/Programming/Files - Reading and Writing to Files - C.md",
+                "file": "2. University/TU856 Year 1/Modules/Programming/Strings - String Functions - C.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Files - Reading and Writing to Files - C"
+              "title": "Strings - String Functions - C"
             }
           },
           {
@@ -225,10 +225,11 @@
   "active": "7d8dbd40f7af3263",
   "lastOpenFiles": [
     "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md",
+    "2. University/TU856 Year 1/Modules/Programming/Files - Reading and Writing to Files - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Structures - Structure Pointers - C.md",
     "2. University/TU856 Year 1/Modules/Programming/Files - File Modes - C.md",
     "2. University/TU856 Year 1/Modules/Programming/$UNFINISHED Programming Pitfalls - C.md",
     "2. University/TU856 Year 1/Modules/Programming/Keyboard Output - C.md",
-    "2. University/TU856 Year 1/Modules/Programming/Structures - Structure Pointers - C.md",
     "1. Home Page/Home.canvas",
     "2. University/TU856 Year 1/Modules/Programming/Structures - Anatomy - C.md",
     "2. University/TU856 Year 1/Modules/Programming/Structures - Miscellaneous - C.md",
@@ -260,7 +261,6 @@
     "2. University/TU856 Year 1/Modules/Programming/Unsorted/free() - C.md",
     "2. University/TU856 Year 1/Modules/Programming/Unsorted/UString Functions - C.md",
     "2. University/TU856 Year 1/Modules/Programming/Unsorted/U Strings - C.md",
-    "2. University/TU856 Year 1/Modules/Programming/Unsorted/U Storage Classes - C.md",
     "5. PDF's/4. Other/Pasted image 20240927152029.png",
     "5. PDF's/4. Other/Pasted image 20240927155715.png",
     "5. PDF's/4. Other/Pasted image 20240927155719.png",
