@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "CMPU1022 - Operating Systems 1",
+      "path": "2. University/TU856 Year 1/Study Guide/CMPU1022 - Operating Systems 1.md"
+    },
+    {
+      "basename": "Process Control Block",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Process Control Block.md"
+    },
+    {
+      "basename": "$ Operating Systems",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/$ Operating Systems.md"
+    },
+    {
+      "basename": "Process States and Transitions",
+      "path": "7. UNSORTED/Process States and Transitions.md"
+    },
+    {
+      "basename": "Processes - Introduction",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Processes - Introduction.md"
+    },
+    {
+      "basename": "Process Queues",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Process Queues.md"
+    },
+    {
       "basename": "Strings - String Functions - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Strings - String Functions - C.md"
     },
@@ -81,10 +105,6 @@
       "path": "2. University/TU856 Year 1/Study Guide/time.md"
     },
     {
-      "basename": "CMPU1022 - Operating Systems 1",
-      "path": "2. University/TU856 Year 1/Study Guide/CMPU1022 - Operating Systems 1.md"
-    },
-    {
       "basename": "CMPU1019 - Microprocessor Systems",
       "path": "2. University/TU856 Year 1/Study Guide/CMPU1019 - Microprocessor Systems.md"
     },
@@ -99,10 +119,6 @@
     {
       "basename": "Software - Hardware",
       "path": "2. University/Modules/Operating Systems/Software - Hardware.md"
-    },
-    {
-      "basename": "Process States and Transitions",
-      "path": "7. UNSORTED/Process States and Transitions.md"
     },
     {
       "basename": "CODE_OF_CONDUCT",

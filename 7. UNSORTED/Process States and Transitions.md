@@ -3,7 +3,7 @@ tags:
   - Operating-Systems
 aliases:
 ---
-![[Pasted image 20250407150922.png]]
+![[Pasted image 20250506182931.png]]
 
 ## Process States
 When a process executes, it goes through various states.
