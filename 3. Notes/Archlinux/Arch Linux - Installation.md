@@ -34,7 +34,7 @@ station {WifiAdapter} connect {ssid}
 timedatectl
 ```
 
-## wipe disktition
+## wipe disk partition
 ``` bash
 gdisk /dev/{DiskName}
 
