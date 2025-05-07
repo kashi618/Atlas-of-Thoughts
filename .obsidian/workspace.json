@@ -32,8 +32,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 1/Study Guide/CMPU1019 - Microprocessor Systems.md",
-                "mode": "source",
+                "file": "2. University/TU856 Year 1/Study Guide/CMPU1006 - Computer Architecture and Technology.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CMPU1019 - Microprocessor Systems"
+              "title": "CMPU1006 - Computer Architecture and Technology"
             }
           }
         ],
@@ -201,6 +201,7 @@
   },
   "active": "38d011c33f38d843",
   "lastOpenFiles": [
+    "2. University/TU856 Year 1/Study Guide/CMPU1019 - Microprocessor Systems.md",
     "1. Home Page/Home.canvas",
     "3. Notes/道德经 - 第二章.md",
     "3. Notes/道德经 - 第三章.md",
