@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "TV Shows & Movies & Anime & Manga",
       "path": "3. Notes/Lists/TV Shows & Movies & Anime & Manga.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "How to use Obsidian",
       "path": "3. Notes/Notes/How to use Obsidian.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "CMPU1022 - Operating Systems 1",

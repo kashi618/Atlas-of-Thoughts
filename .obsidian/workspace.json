@@ -25,33 +25,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "7a9710ae834aec3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Notes/Lists/TV Shows & Movies & Anime & Manga.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TV Shows & Movies & Anime & Manga"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,8 +173,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "7a9710ae834aec3c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "3. Notes/Lists/TV Shows & Movies & Anime & Manga.md",
     "3. Notes/Lists/Wishlist.md",
     "3. Notes/Notes/Thales Falling into a Well.md",
     "3. Notes/Notes/Windows 11 MISC.md",
@@ -208,7 +184,6 @@
     "3. Notes/Notes/OverTheWire - Bandit.md",
     "3. Notes/Notes/Memento Mori.md",
     "3. Notes/Notes/How to use Obsidian.md",
-    "3. Notes/Lists/TV Shows & Movies & Anime & Manga.md",
     "3. Notes/Archlinux",
     "3. Notes/Notes/道德经 - 第二章.md",
     "3. Notes/Notes/道德经 - 第三章.md",
