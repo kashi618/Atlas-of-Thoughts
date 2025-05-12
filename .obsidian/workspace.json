@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Notes/Archlinux/Archlinux Rice.md",
+                "file": "2. University/TU856 Year 2/Modules/Semester 2/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Archlinux Rice"
+              "title": "Untitled"
             }
           }
         ],
@@ -226,8 +226,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a782994e1919df3b",
+  "active": "0625646695eea1fe",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Modules/Semester 1/Untitled.md",
+    "2. University/TU856 Year 2/Modules/Semester 2/Untitled.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Untitled.md",
+    "7. UNSORTED/Untitled.md",
+    "3. Notes/Archlinux/Archlinux Rice.md",
     "1. Home Page/Home.canvas",
     "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Permissions - Linux.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/chmod - Linux.md",
@@ -255,10 +260,6 @@
     "2. University/TU856 Year 1/Modules/Programming/Signed & Unsigned Variables - C.md",
     "2. University/TU856 Year 1/Modules/Programming/Data Types - C.md",
     "2. University/TU856 Year 1/Modules/Programming/Symbolic Names - C.md",
-    "2. University/TU856 Year 1/Modules/Programming/Casting - C.md",
-    "2. University/TU856 Year 1/Modules/Programming/Keyboard Output - C.md",
-    "2. University/TU856 Year 1/Modules/Programming/Precision Specification - C.md",
-    "2. University/TU856 Year 1/Modules/Programming/Keyboard Input - C.md",
     "2. University/TU856 Year 1/Exam Papers/CMPU 1022 - 2023.2024.pdf",
     "2. University/TU856 Year 1/Exam Papers/CMPU 1025 - 2023.2024.pdf",
     "2. University/TU856 Year 1/Exam Papers/CMPU 1001 - 2023.2024.pdf",
