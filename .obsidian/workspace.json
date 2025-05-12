@@ -25,8 +25,21 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "429a2c06ed4a8188",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2. University/TU856 Year 1/Exam Papers/CMPU 1025 - 2022.2023.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CMPU 1025 - 2022.2023"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 295.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -173,8 +187,9 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "429a2c06ed4a8188",
   "lastOpenFiles": [
+    "2. University/TU856 Year 1/Exam Papers/CMPU 1025 - 2023.2024.pdf",
     "1. Home Page/Home.canvas",
     "2. University/TU856 Year 1/Study Guide/CMPU1001 - Algorithm Design and Problem Solving.md",
     "2. University/TU856 Year 1/Study Guide/CMPU1006 - Computer Architecture and Technology.md",
@@ -219,7 +234,6 @@
     "8. UNSORTED",
     "7. Other",
     "4. Other",
-    "2. University/TU856 Year 1/Exam Papers/CMPU 1025 - 2023.2024.pdf",
     "2. University/TY856 Year 4/Modules/Semester 2"
   ]
 }
