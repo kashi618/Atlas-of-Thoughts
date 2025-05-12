@@ -18,15 +18,40 @@
                 "viewState": {
                   "x": -380,
                   "y": -165,
-                  "zoom": -1.479609500574928
+                  "zoom": -0.230422485920707
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "a782994e1919df3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Notes/Archlinux/Archlinux Rice.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Archlinux Rice"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,7 +226,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a782994e1919df3b",
   "lastOpenFiles": [
     "1. Home Page/Home.canvas",
     "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Permissions - Linux.md",
