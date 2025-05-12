@@ -1,5 +1,5 @@
 {
-  "file-explorer": false,
+  "file-explorer": true,
   "global-search": false,
   "switcher": false,
   "graph": true,
@@ -11,7 +11,7 @@
   "page-preview": true,
   "daily-notes": false,
   "templates": false,
-  "note-composer": false,
+  "note-composer": true,
   "command-palette": true,
   "slash-command": false,
   "editor-status": true,

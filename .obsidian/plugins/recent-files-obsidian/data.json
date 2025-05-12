@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Permissions - Linux",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Permissions - Linux.md"
+    },
+    {
       "basename": "chmod - Linux",
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/chmod - Linux.md"
     },
@@ -9,12 +13,16 @@
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/$ Operating Systems 1.md"
     },
     {
-      "basename": "aichat Output (Algorithms Project)",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/aichat Output (Algorithms Project).md"
-    },
-    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "aichat Output (Algorithms Project)",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/aichat Output (Algorithms Project).md"
     },
     {
       "basename": "$ C - Programming Language",
@@ -187,14 +195,6 @@
     {
       "basename": "Structures - Nested Structures - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Structures - Nested Structures - C.md"
-    },
-    {
-      "basename": "Structures - Structure Arrays - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Structures - Structure Arrays - C.md"
-    },
-    {
-      "basename": "Structures - typedef Statement - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Structures - typedef Statement - C.md"
     }
   ],
   "omittedPaths": [],

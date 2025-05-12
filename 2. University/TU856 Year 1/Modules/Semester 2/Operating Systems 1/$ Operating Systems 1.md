@@ -13,7 +13,8 @@
 ## Commands
 
 
-## Linux Command Line
+## Linux
+- [[Permissions - Linux]]
 - [[chmod - Linux]]
 
 ## Windows Command Line
