@@ -89,7 +89,7 @@ int main(void) {
 }
 ```
 ## Changing Size of Dynamically Allocated Memory
-**NOTE:** This only works for dynamically allocated memory such as malloc or alloc. Statically allocated memory does not work.
+**NOTE:** This only works for dynamically allocated memory such as malloc or calloc. Statically allocated memory does not work.
 
 **realloc()**
 ```c showlinenumbers
