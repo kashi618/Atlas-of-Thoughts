@@ -1,0 +1,5 @@
+---
+tags:
+  - Operating-Systems
+aliases:
+---
