@@ -1,32 +1,124 @@
 {
   "recentFiles": [
     {
-      "basename": "Dereference Operators - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Dereference Operators - C.md"
-    },
-    {
       "basename": "$ C - Programming Language",
       "path": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md"
     },
     {
-      "basename": "Pointers - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Pointers - C.md"
+      "basename": "$ Operating Systems",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/$ Operating Systems.md"
     },
     {
-      "basename": "Subscript and Pointer Notation - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Subscript and Pointer Notation - C.md"
+      "basename": "Arithmetic Operations and Expressions - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Arithmetic Operations and Expressions - C.md"
+    },
+    {
+      "basename": "Ampersand - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Ampersand - C.md"
+    },
+    {
+      "basename": "K.I.S.S",
+      "path": "2. University/TU856 Year 1/Modules/Programming/K.I.S.S.md"
+    },
+    {
+      "basename": "Variable Naming Schemes",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Variable Naming Schemes.md"
+    },
+    {
+      "basename": "Variables - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Variables - C.md"
+    },
+    {
+      "basename": "Storage Classes - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Storage Classes - C.md"
+    },
+    {
+      "basename": "Signed & Unsigned Variables - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Signed & Unsigned Variables - C.md"
+    },
+    {
+      "basename": "Data Types - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Data Types - C.md"
+    },
+    {
+      "basename": "Symbolic Names - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Symbolic Names - C.md"
+    },
+    {
+      "basename": "Casting - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Casting - C.md"
+    },
+    {
+      "basename": "Keyboard Output - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Keyboard Output - C.md"
+    },
+    {
+      "basename": "Precision Specification - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Precision Specification - C.md"
+    },
+    {
+      "basename": "Keyboard Input - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Keyboard Input - C.md"
+    },
+    {
+      "basename": "Faster Character Input Output - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Faster Character Input Output - C.md"
+    },
+    {
+      "basename": "Incrementing & Decrementing - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Incrementing & Decrementing - C.md"
+    },
+    {
+      "basename": "Operator Precedence - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Operator Precedence - C.md"
+    },
+    {
+      "basename": "Logical Operators - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Logical Operators - C.md"
+    },
+    {
+      "basename": "If Statements- C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/If Statements- C.md"
+    },
+    {
+      "basename": "Switch Statement - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Switch Statement - C.md"
+    },
+    {
+      "basename": "Loops - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Loops - C.md"
+    },
+    {
+      "basename": "Arrays - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Arrays - C.md"
+    },
+    {
+      "basename": "Arrays - Multi-Dimensional Arrays - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Arrays - Multi-Dimensional Arrays - C.md"
     },
     {
       "basename": "Dynamic Memory Allocation - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Dynamic Memory Allocation - C.md"
     },
     {
-      "basename": "Functions - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Functions - C.md"
+      "basename": "Pointers - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Pointers - C.md"
+    },
+    {
+      "basename": "Dereference Operators - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Dereference Operators - C.md"
+    },
+    {
+      "basename": "Subscript and Pointer Notation - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Subscript and Pointer Notation - C.md"
     },
     {
       "basename": "Pass by Reference & Pass by Value - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Pass by Reference & Pass by Value - C.md"
+    },
+    {
+      "basename": "Functions - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Functions - C.md"
     },
     {
       "basename": "Strings - About Strings and String Anatomy - C",
@@ -97,96 +189,8 @@
       "path": "2. University/TU856 Year 1/Modules/Programming/$UNFINISHED Programming Pitfalls - C.md"
     },
     {
-      "basename": "Arrays - Multi-Dimensional Arrays - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Arrays - Multi-Dimensional Arrays - C.md"
-    },
-    {
-      "basename": "Arrays - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Arrays - C.md"
-    },
-    {
-      "basename": "Loops - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Loops - C.md"
-    },
-    {
-      "basename": "Switch Statement - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Switch Statement - C.md"
-    },
-    {
-      "basename": "If Statements- C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/If Statements- C.md"
-    },
-    {
-      "basename": "Logical Operators - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Logical Operators - C.md"
-    },
-    {
-      "basename": "Operator Precedence - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Operator Precedence - C.md"
-    },
-    {
-      "basename": "Incrementing & Decrementing - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Incrementing & Decrementing - C.md"
-    },
-    {
-      "basename": "Arithmetic Operations and Expressions - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Arithmetic Operations and Expressions - C.md"
-    },
-    {
-      "basename": "Faster Character Input Output - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Faster Character Input Output - C.md"
-    },
-    {
-      "basename": "Keyboard Input - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Keyboard Input - C.md"
-    },
-    {
-      "basename": "Precision Specification - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Precision Specification - C.md"
-    },
-    {
-      "basename": "Keyboard Output - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Keyboard Output - C.md"
-    },
-    {
-      "basename": "Casting - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Casting - C.md"
-    },
-    {
-      "basename": "Symbolic Names - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Symbolic Names - C.md"
-    },
-    {
-      "basename": "Data Types - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Data Types - C.md"
-    },
-    {
-      "basename": "Signed & Unsigned Variables - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Signed & Unsigned Variables - C.md"
-    },
-    {
-      "basename": "Storage Classes - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Storage Classes - C.md"
-    },
-    {
-      "basename": "Variables - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Variables - C.md"
-    },
-    {
-      "basename": "Variable Naming Schemes",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Variable Naming Schemes.md"
-    },
-    {
-      "basename": "K.I.S.S",
-      "path": "2. University/TU856 Year 1/Modules/Programming/K.I.S.S.md"
-    },
-    {
       "basename": "Scope - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Scope - C.md"
-    },
-    {
-      "basename": "Ampersand - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Ampersand - C.md"
     },
     {
       "basename": "Commenting - C",
@@ -195,10 +199,6 @@
     {
       "basename": "Delimiters - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Delimiters - C.md"
-    },
-    {
-      "basename": "Escape Sequence - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Escape Sequence - C.md"
     }
   ],
   "omittedPaths": [],

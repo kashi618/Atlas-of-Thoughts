@@ -23,3 +23,4 @@ printf("%d",*ptr1);
 # See Also
 [[Pointers - C]]
 [[Subscript and Pointer Notation - C]]
+[[$ C - Programming Language]]
