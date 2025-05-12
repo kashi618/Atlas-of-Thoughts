@@ -14,4 +14,4 @@ This contains a set of all processes residing in main memory, about to be execut
 This contains a set of processes waiting for an I/O device
 - There are many devices queues, as each device has its own queue
 # See Also
-[[$ Operating Systems]]
+[[$ Operating Systems 1]]

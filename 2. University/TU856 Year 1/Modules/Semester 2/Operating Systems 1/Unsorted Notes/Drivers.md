@@ -7,4 +7,4 @@ A piece of [[Software & Hardware|Software]] that allows an operating system to c
 
 Think of it like an uber driver, that sends information between two places (software and hardware).
 # See Also
-[[$ Operating Systems]]
+[[$ Operating Systems 1]]

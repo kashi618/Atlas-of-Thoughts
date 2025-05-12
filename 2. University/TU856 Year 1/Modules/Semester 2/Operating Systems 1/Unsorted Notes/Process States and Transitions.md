@@ -37,4 +37,4 @@ This arises when a process needs to pause to gather extra data.
 This transition means that the process can be run on the CPU, based on the OS schedule scheme.
 
 # See Also
-[[$ Operating Systems]]
+[[$ Operating Systems 1]]

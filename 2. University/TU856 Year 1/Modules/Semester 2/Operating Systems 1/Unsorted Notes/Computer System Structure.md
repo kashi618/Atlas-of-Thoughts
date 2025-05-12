@@ -11,4 +11,4 @@ Computer systems can be divided into 4 main components.
 ![[Pasted image 20250227230328.png]]
 
 # See Also
-[[$ Operating Systems]]
+[[$ Operating Systems 1]]

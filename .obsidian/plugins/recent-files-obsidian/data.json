@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "chmod - Linux",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/chmod - Linux.md"
+    },
+    {
+      "basename": "$ Operating Systems 1",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/$ Operating Systems 1.md"
+    },
+    {
+      "basename": "aichat Output (Algorithms Project)",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/aichat Output (Algorithms Project).md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "$ C - Programming Language",
       "path": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md"
     },
     {
-      "basename": "$ Operating Systems",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/$ Operating Systems.md"
+      "basename": "$UNFINISHED Programming Pitfalls - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/$UNFINISHED Programming Pitfalls - C.md"
+    },
+    {
+      "basename": "C Programming Language - 2nd Edition (OCR)",
+      "path": "5. PDF's/C Programming Language - 2nd Edition (OCR).pdf"
+    },
+    {
+      "basename": "All Tomorrows",
+      "path": "5. PDF's/All Tomorrows.pdf"
+    },
+    {
+      "basename": "Example Iterative Algorithms",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/Unsorted/Example Iterative Algorithms.md"
+    },
+    {
+      "basename": "Process States and Transitions",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Unsorted Notes/Process States and Transitions.md"
     },
     {
       "basename": "Arithmetic Operations and Expressions - C",
@@ -163,42 +195,6 @@
     {
       "basename": "Structures - typedef Statement - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Structures - typedef Statement - C.md"
-    },
-    {
-      "basename": "Structures - Miscellaneous - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Structures - Miscellaneous - C.md"
-    },
-    {
-      "basename": "Files - Types of Files",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Files - Types of Files.md"
-    },
-    {
-      "basename": "Files - Opening and Closing Files - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Files - Opening and Closing Files - C.md"
-    },
-    {
-      "basename": "Files - File Modes - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Files - File Modes - C.md"
-    },
-    {
-      "basename": "Files - Reading and Writing to Files - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Files - Reading and Writing to Files - C.md"
-    },
-    {
-      "basename": "$UNFINISHED Programming Pitfalls - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/$UNFINISHED Programming Pitfalls - C.md"
-    },
-    {
-      "basename": "Scope - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Scope - C.md"
-    },
-    {
-      "basename": "Commenting - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Commenting - C.md"
-    },
-    {
-      "basename": "Delimiters - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Delimiters - C.md"
     }
   ],
   "omittedPaths": [],

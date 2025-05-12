@@ -7,4 +7,4 @@ The objective of timesharing is to switch the CPU among processses so frequently
 It provides and maximises interactive responsiveness within a computer.
 
 # See Also
-[[$ Operating Systems]]
+[[$ Operating Systems 1]]

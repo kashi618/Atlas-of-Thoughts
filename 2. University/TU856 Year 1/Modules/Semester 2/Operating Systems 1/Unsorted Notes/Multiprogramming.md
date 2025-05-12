@@ -7,4 +7,4 @@ A computing technique that allows an OS to run multiple programs in memory simul
 The goal of multiprogramming is to maximise CPU utilization, ensuring the CPU is never idle when a program or process is waiting.
 
 # See Also
-[[$ Operating Systems]]
+[[$ Operating Systems 1]]
