@@ -3,7 +3,7 @@ tags:
   - C
 aliases: []
 ---
-<**Basic Concepts**
+**Basic Concepts**
 - [[Order of Code - C]]
 - [[Escape Sequence - C]]
 - [[Delimiters - C]]
@@ -12,7 +12,7 @@ aliases: []
 - [[Scope - C]]
 - [[K.I.S.S]]
 - [[Variable Naming Schemes]]
-- 
+
 **Data Structures and Variables**
 - [[Variables - C]] | **Creating Variables**
 - [[Storage Classes - C]]
@@ -73,7 +73,7 @@ aliases: []
 - [[Structures - Miscellaneous - C]]
 
 **File Input/Output**
-- [[Types of Files]]
+- [[Files - Types of Files]]
 - [[Files - Opening and Closing Files - C]]
 - [[Files - File Modes - C]]
 - [[Files - Reading and Writing to Files - C]]

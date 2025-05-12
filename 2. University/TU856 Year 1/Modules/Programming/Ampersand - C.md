@@ -14,5 +14,5 @@ printf("%p", &var1);
 ```
 
 # See Also
+[[$ C - Programming Language]]
 [[Pointers - C]]
-[[Storing Data in Variables - C]]

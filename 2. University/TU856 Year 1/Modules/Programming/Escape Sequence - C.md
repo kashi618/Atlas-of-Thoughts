@@ -23,4 +23,3 @@ aliases:
 
 # See Also
 [[$ C - Programming Language]]
-[[U Strings - C]]

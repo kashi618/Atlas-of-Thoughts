@@ -84,4 +84,5 @@ void fnx(void) {
 The extern on lines 6 and 14 tells the compiler to NOT create a variable, and to instead find and use the int variable on line 3
 
 # See Also
+[[$ C - Programming Language]]
 [[Variables - C]]

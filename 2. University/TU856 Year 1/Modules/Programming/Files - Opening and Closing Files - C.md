@@ -35,7 +35,7 @@ int main(void) {
 	return 0;
 }
 ```
-- This file was opened for "reading". Here are more types of [[File Modes - C|file modes]].
+- This file was opened for "reading". Here are more types of [[Files - File Modes - C|file modes]].
 
 ## Alternative Simplified Way
 ```c showlinenumbers

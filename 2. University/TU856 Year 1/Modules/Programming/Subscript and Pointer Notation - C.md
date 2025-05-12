@@ -20,5 +20,5 @@ This accesses elements in the array by [[Dereference Operators - C|dereferencing
 `*(array_name + i)`
 
 # See Also
-[[Pointers and Arrays - C]]
+[[$ C - Programming Language]]
 [[Dereference Operators - C]]

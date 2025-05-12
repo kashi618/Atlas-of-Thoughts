@@ -74,7 +74,6 @@ int main(void) {
 ## n Dimension Arrays
 ### 3D array
 A 3D array would work in the same way as a 2D array, just with an extra index number.
-![[Pasted image 20250303154712.png|500]]
 
 # See Also
 [[$ C - Programming Language]]
