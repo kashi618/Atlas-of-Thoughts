@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "CMPU1022 - Operating Systems 1",
+      "path": "2. University/TU856 Year 1/Study Guide/CMPU1022 - Operating Systems 1.md"
+    },
+    {
+      "basename": "Loops - JavaScript",
+      "path": "2. University/TU856 Year 1/Modules/Semester 1/Web Development/Loops - JavaScript.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Untitled",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Untitled.md"
     },
@@ -101,10 +113,6 @@
       "path": "3. Notes/Archlinux/Archlinux Rice.md"
     },
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
-    },
-    {
       "basename": "Permissions - Linux",
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Permissions - Linux.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Keyboard Output - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Keyboard Output - C.md"
-    },
-    {
-      "basename": "Precision Specification - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Precision Specification - C.md"
-    },
-    {
-      "basename": "Keyboard Input - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Keyboard Input - C.md"
     }
   ],
   "omittedPaths": [],
