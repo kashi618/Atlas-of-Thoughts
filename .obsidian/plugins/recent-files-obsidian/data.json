@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Melatonin",
+      "path": "3. Notes/Lists/Melatonin.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Casting - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Casting - C.md"
-    },
-    {
-      "basename": "Keyboard Output - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Keyboard Output - C.md"
     }
   ],
   "omittedPaths": [],
