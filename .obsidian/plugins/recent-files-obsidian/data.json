@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "CMPU1006 - Computer Architecture and Technology",
+      "path": "2. University/TU856 Year 1/Study Guide/CMPU1006 - Computer Architecture and Technology.md"
+    },
+    {
+      "basename": "CMPU1001 - Algorithm Design and Problem Solving",
+      "path": "2. University/TU856 Year 1/Study Guide/CMPU1001 - Algorithm Design and Problem Solving.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Melatonin Intake",
       "path": "3. Notes/Lists/Melatonin Intake.md"
     },
     {
       "basename": "Melatonin",
       "path": "3. Notes/Lists/Melatonin.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "CMPU1022 - Operating Systems 1",
@@ -191,14 +199,6 @@
     {
       "basename": "Signed & Unsigned Variables - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Signed & Unsigned Variables - C.md"
-    },
-    {
-      "basename": "Data Types - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Data Types - C.md"
-    },
-    {
-      "basename": "Symbolic Names - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Symbolic Names - C.md"
     }
   ],
   "omittedPaths": [],
