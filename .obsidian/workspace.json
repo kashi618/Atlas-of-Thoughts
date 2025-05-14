@@ -18,15 +18,40 @@
                 "viewState": {
                   "x": -380,
                   "y": -165,
-                  "zoom": -1.479609500574928
+                  "zoom": -0.230422485920707
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "9d4d781298abf3cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/Selection Sort.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Selection Sort"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,11 +226,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9d4d781298abf3cd",
   "lastOpenFiles": [
+    "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/$ Algorithm Design.md",
+    "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/$ Algorithm Project.md",
+    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 1/Study Guide/CMPU1006 - Computer Architecture and Technology.md",
     "2. University/TU856 Year 1/Study Guide/CMPU1001 - Algorithm Design and Problem Solving.md",
-    "1. Home Page/Home.canvas",
     "3. Notes/Lists/Melatonin Intake.md",
     "2. University/TU856 Year 1/Study Guide/CMPU1022 - Operating Systems 1.md",
     "2. University/TU856 Year 1/Modules/Semester 1/Web Development/Loops - JavaScript.md",
@@ -228,8 +255,6 @@
     "2. University/TU856 Year 3/Modules/Semester 1/Client Serving Programming/Untitled.md",
     "2. University/TY856 Year 4/Modules/Semester 2/Untitled.md",
     "2. University/TY856 Year 4/Modules/Semester 1/Untitled.md",
-    "2. University/TY856 Year 4/Modules/Final Year Project/Untitled.md",
-    "2. University/TU856 Year 2/Modules/Semester 2/Untitled.md",
     "Pasted image 20250428211308.png",
     "Pasted image 20250506182931.png",
     "5. PDF's/C Programming Language - 2nd Edition (OCR).pdf",

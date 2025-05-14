@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Selection Sort",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/Selection Sort.md"
+    },
+    {
+      "basename": "$ Algorithm Design",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/$ Algorithm Design.md"
+    },
+    {
+      "basename": "$ Algorithm Project",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/$ Algorithm Project.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Variable Naming Schemes",
       "path": "2. University/TU856 Year 1/Modules/Programming/Variable Naming Schemes.md"
-    },
-    {
-      "basename": "Variables - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Variables - C.md"
-    },
-    {
-      "basename": "Storage Classes - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Storage Classes - C.md"
-    },
-    {
-      "basename": "Signed & Unsigned Variables - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Signed & Unsigned Variables - C.md"
     }
   ],
   "omittedPaths": [],
