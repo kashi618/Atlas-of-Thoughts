@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "CMPU 1001 - 2023.2024",
+      "path": "2. University/TU856 Year 1/Exam Papers/CMPU 1001 - 2023.2024.pdf"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Selection Sort",
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/Selection Sort.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "$ Algorithm Project",
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/$ Algorithm Project.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "CMPU1006 - Computer Architecture and Technology",
@@ -195,10 +199,6 @@
     {
       "basename": "K.I.S.S",
       "path": "2. University/TU856 Year 1/Modules/Programming/K.I.S.S.md"
-    },
-    {
-      "basename": "Variable Naming Schemes",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Variable Naming Schemes.md"
     }
   ],
   "omittedPaths": [],
