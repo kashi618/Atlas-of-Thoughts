@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "CMPU1019 - Microprocessor Systems",
+      "path": "2. University/TU856 Year 1/Study Guide/CMPU1019 - Microprocessor Systems.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Ampersand - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Ampersand - C.md"
-    },
-    {
-      "basename": "K.I.S.S",
-      "path": "2. University/TU856 Year 1/Modules/Programming/K.I.S.S.md"
     }
   ],
   "omittedPaths": [],
