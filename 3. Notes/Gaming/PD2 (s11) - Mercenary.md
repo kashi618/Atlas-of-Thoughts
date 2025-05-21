@@ -76,3 +76,22 @@
 | Physical Damage Taken Reduced by 7                         |
 | 12% Damage Taken Gained as Mana when Hit                   |
 | +1 to Light Radius                                         |
+
+#### Weapon
+Conviction aura (reduce enemy res by 34%)
+
+| **Infinity - Ber () \| Mal () \| Ber () \| Ist ()** - Polearms/Spears/Staves                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **25%** Chance to Cast Level 20 [Chain Lightning](https://wiki.projectdiablo2.com/wiki/Chain_Lightning "Chain Lightning") **on Striking** _(Non-Staves Only)_ |
+| **15%** Chance to Cast Level 20 [Chain Lightning](https://wiki.projectdiablo2.com/wiki/Chain_Lightning "Chain Lightning") **on Casting** _(Staves Only)_      |
+| Level 12 [Conviction](https://wiki.projectdiablo2.com/wiki/Conviction "Conviction") Aura when Equipped                                                        |
+| +35% Faster Run/Walk                                                                                                                                          |
+| +35% Faster Cast Rate _(Staves Only)_                                                                                                                         |
+| +[255-325]% Enhanced Damage                                                                                                                                   |
+| -[45-55]% to Enemy Lightning Resistance                                                                                                                       |
+| 40% Chance of Crushing Blow                                                                                                                                   |
+| Prevent Monster Heal                                                                                                                                          |
+| +[0-49] to Vitality (+0.5 per Character Level)                                                                                                                |
+| 30% Better Chance of Getting Magic Items                                                                                                                      |
+| +3 to [Cyclone Armor](https://wiki.projectdiablo2.com/wiki/Cyclone_Armor "Cyclone Armor") _(Non-Staves Only)_                                                 |
+| 2% Chance to Cast Level 15 [Cyclone Armor](https://wiki.projectdiablo2.com/wiki/Cyclone_Armor "Cyclone Armor") on Casting _(Staves Only)_                     |
