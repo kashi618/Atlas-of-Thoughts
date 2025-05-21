@@ -25,8 +25,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "9530a72690c8e250",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Notes/Gaming/PD2 (s11) - Mercenary.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PD2 (s11) - Mercenary"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,9 +226,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9530a72690c8e250",
   "lastOpenFiles": [
+    "3. Notes/Gaming/PD2 (s11) - Mercenary.md",
+    "Pasted image 20250521210715.png",
     "1. Home Page/Home.canvas",
+    "3. Notes/Gaming",
     "2. University/TU856 Year 1/Study Guide/CMPU1019 - Microprocessor Systems.md",
     "2. University/TU856 Year 1/Exam Papers/CMPU 1001 - 2023.2024.pdf",
     "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/Selection Sort.md",
@@ -229,7 +257,6 @@
     "2. University/TU856 Year 3/Modules/Semester 1/Mobile Software Development/Untitled.md",
     "2. University/TU856 Year 3/Modules/Semester 1/Introduction to Artificial Intelligence/Untitled.md",
     "2. University/TU856 Year 3/Modules/Semester 1/Databases 2/Untitled.md",
-    "2. University/TU856 Year 3/Modules/Semester 1/Cloud Computing/Untitled.md",
     "Pasted image 20250428211308.png",
     "Pasted image 20250506182931.png",
     "5. PDF's/C Programming Language - 2nd Edition (OCR).pdf",
@@ -246,8 +273,6 @@
     "7. Other/RTX4070 (mobile) Overclocked Undervolted HWINFO.png",
     "7. Other/Ram Allocation.png",
     "7. Other/Pasted image 20250407205120.png",
-    "7. Other/Pasted image 20250407161354.png",
-    "5. PDF's/4. Other",
-    "5. PDF's/4.Other"
+    "5. PDF's/4. Other"
   ]
 }
