@@ -1,3 +1,8 @@
+### Stats
+105 FCR
+Maxed resistance
+
+
 ### Equipment
 #### Chest
 Magic Find
