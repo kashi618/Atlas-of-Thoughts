@@ -2,15 +2,15 @@
 #### Chest
 Magic Find
 
-| **Wealth - Lem () \| Ko () \| Tir ()**    |
-| ----------------------------------------- |
-| +10 to Dexterity                          |
-| +4 to Mana after each Kill                |
-| 300% Extra Gold from Monsters             |
-| 100% Better Chance of Getting Magic Items |
+| **Wealth - Lem (20) \| Ko (18) \| Tir (3)** |
+| ------------------------------------------- |
+| +10 to Dexterity                            |
+| +4 to Mana after each Kill                  |
+| 300% Extra Gold from Monsters               |
+| 100% Better Chance of Getting Magic Items   |
 Better Magic Find (Possible Main)
 
-|                                                                                |
+| **Enigma - Jah (31) \| Ith (6) \| Ber (30) **                                  |
 | ------------------------------------------------------------------------------ |
 | +2 to All Skills                                                               |
 | +25% Faster Run/Walk                                                           |
