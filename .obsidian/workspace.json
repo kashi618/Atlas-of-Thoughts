@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Notes/Gaming/PD2 (s11) - Mercenary.md",
+                "file": "3. Notes/Gaming/PD2 (s11) - Sorceress.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PD2 (s11) - Mercenary"
+              "title": "PD2 (s11) - Sorceress"
             }
           }
         ],
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5,
-    "collapsed": true
+    "width": 375.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -230,6 +229,7 @@
   "active": "9530a72690c8e250",
   "lastOpenFiles": [
     "3. Notes/Gaming/PD2 (s11) - Mercenary.md",
+    "3. Notes/Gaming/PD2 (s11) - Sorceress.md",
     "Pasted image 20250521210715.png",
     "1. Home Page/Home.canvas",
     "3. Notes/Gaming",
