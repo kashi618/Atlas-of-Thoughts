@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Notes/Unsaved/asd.md",
+                "file": "3. Notes/Archlinux/Arch Linux - Installation.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "asd"
+              "title": "Arch Linux - Installation"
             }
           }
         ],
@@ -228,8 +228,8 @@
   },
   "active": "6f2813bfa174636e",
   "lastOpenFiles": [
-    "3. Notes/Unsaved/Dublin City Group Activities.md",
     "3. Notes/Unsaved/asd.md",
+    "3. Notes/Unsaved/Dublin City Group Activities.md",
     "1. Home Page/Home.canvas",
     "3. Notes/Archlinux/Arch Linux - Installation.md",
     "3. Notes/Gaming/PD2 (s11) - Sorceress.md",

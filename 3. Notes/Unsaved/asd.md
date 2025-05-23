@@ -14,6 +14,7 @@ Small repository containing my hyprland dotfiles, running on the beloved, **Arch
 - pipewire-pulse
 - wireplumber
 - cable (used to configure pipewire) ***AUR**
+- pavucontrol (used to configure audio devices)
 
 **Desktop Environment**
 - hyprland
@@ -80,3 +81,6 @@ Small repository containing my hyprland dotfiles, running on the beloved, **Arch
 - discord
 - spotify ***AUR**
 - spicetify-cli ***AUR**
+- qbittorrent
+- reaper
+- tldr (man, but tldr)
