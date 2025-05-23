@@ -59,7 +59,7 @@ Small repository containing my hyprland dotfiles, running on the beloved, **Arch
 
 **File Partition and Similar**
 - filelight
-
+-
 ### Applications
 **Browser**
 - firefox
