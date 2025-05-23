@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Archlinux - Installation",
+      "path": "3. Notes/Archlinux/Archlinux - Installation.md"
+    },
+    {
       "basename": "Arch Linux - Installation",
       "path": "3. Notes/Archlinux/Arch Linux - Installation.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "$UNFINISHED Programming Pitfalls - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/$UNFINISHED Programming Pitfalls - C.md"
-    },
-    {
-      "basename": "C Programming Language - 2nd Edition (OCR)",
-      "path": "5. PDF's/C Programming Language - 2nd Edition (OCR).pdf"
     }
   ],
   "omittedPaths": [],
