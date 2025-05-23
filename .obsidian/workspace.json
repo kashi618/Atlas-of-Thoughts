@@ -34,7 +34,7 @@
               "state": {
                 "file": "3. Notes/Unsaved/asd.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,

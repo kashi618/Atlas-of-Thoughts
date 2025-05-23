@@ -1,55 +1,82 @@
-# Current Packages
-## Required Packages
-#### Wifi and Bluetooth
+# Intro
+Small repository containing my hyprland dotfiles, running on the beloved, **Archlinux** <3
+
+## Packages
+### Base Packages
+**Wifi and Bluetooth**
 - networkmanager
 - blueman
 
-#### Audio
+**Audio**
 - pipewire
 - pipewire-jack
 - pipewire-alsa
+- pipewire-pulse
+- wireplumber
+- cable (used to configure pipewire) ***AUR**
 
-**Pipewire Settings Configuration**
-- cable (AUR)
-
-## Desktop Environment and UI
+**Desktop Environment**
 - hyprland
-- hyprpaper (wallpapers)
+- hyprpaper (used for wallpaper)
 
-## Applications
-- Firefox
-
-- networkmanager
-- blueman
-
-## Audio
-- pipewire
-- pipewire-jack
-- pipewire-alsa
-
-## Desktop Environment
-- Hyprland
-
-**Hyprland Packages**
-- hyprpaper
-
-## Browser
-- firefox
-
-## Status Bar
-- waybar
-
-## Login Manager
-- sddm
-
-## Session Manager
+**Session Manager**
 - uwsm
 
-## 
+**File Manager**
+- thunar
 
-## File Extractor
-- file-roller
+**Backup Utility**
+- timeshift
+
+**App Launcher**
+- walker ***AUR**
+
+**Status Bar**
+- waybar
+
+**Terminal**
+- kitty (due to hyprland)
+
+**Fonts**
+- noto-fonts
+- noto-fonts-cjk
+- noto-fonts-emoji
+- noto-fonts-extra
+
+**Obligatory Neofetch**
+- neofetch
+
+### Misc Tools
+**File Extractor**
 - 7zip
+- file-roller
 
-## AUR Helper
+**AUR Helper**
 - yay
+
+**Task Manager**
+- btop
+
+**File Partition and Similar**
+- filelight
+- 
+### Applications
+**Browser**
+- firefox
+
+**Gaming on Linux**
+- lutris
+- steam
+- wine
+
+**Dev Tools & Text Editors**
+- code (visual studio code)
+- vim
+- nano
+- git
+- github-desktop-bin ***AUR**
+
+**Other**
+- discord
+- spotify ***AUR**
+- spicetify-cli ***AUR**

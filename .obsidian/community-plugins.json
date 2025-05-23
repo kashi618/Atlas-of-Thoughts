@@ -20,5 +20,6 @@
   "obsidian-git",
   "dataview",
   "file-tree-alternative",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-go-to-line"
 ]
