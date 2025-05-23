@@ -196,7 +196,7 @@ nano /boot/loader/entries/arch.conf
 
 ## for nvidia cards
 ```bash
-sudo pacman -S nvidia-dkms libglvnd nvidia-utils opencl-nvidia lib32-libglvnd lib32-nvidia-utils lib32-opencl-nvidia nvidia-settings
+sudo pacman -S nvidia-dkms libglvnd nvidia-utils opencl-nvidia lib32-libglvnd lib32-nvidia-utils lib32-opencl-nvidia nvidia-settings linux-headers
 ```
 
 - Also install `linux-headers` if getting error message with headers
@@ -212,9 +212,9 @@ sudo nano /etc/mkinitcpio.conf
 ```bash
 nano /boot/loader/entries/arch.conf
 ```
-- Add this after the rw
+- Add this after the rw (on the same line)
 ```
-options root=/dev/{Part.3} rw nvidia-drm/modeset=1
+nvidia-drm/modeset=1
 ```
 
 ### add hooks for updating drivers
@@ -222,7 +222,7 @@ options root=/dev/{Part.3} rw nvidia-drm/modeset=1
 sudo mkdir /etc/pacman.d/hooks
 sudo nano /etc/pacman.d/hooks/nvidia.hook
 ```
-- Add this
+- Add this in the `nvidia.hook` file
 ```txt
 [Trigger]
 Operation=Install
