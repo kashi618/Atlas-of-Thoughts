@@ -18,15 +18,40 @@
                 "viewState": {
                   "x": -380,
                   "y": -165,
-                  "zoom": -1.479609500574928
+                  "zoom": -0.230422485920707
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "95432b6456ab3deb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Notes/Archlinux/Arch Linux - Installation.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Arch Linux - Installation"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,10 +226,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "95432b6456ab3deb",
   "lastOpenFiles": [
-    "3. Notes/Gaming/PD2 (s11) - Sorceress.md",
     "1. Home Page/Home.canvas",
+    "3. Notes/Gaming/PD2 (s11) - Sorceress.md",
     "3. Notes/Gaming/PD2 (s11) - Mercenary.md",
     "Pasted image 20250521210715.png",
     "3. Notes/Gaming",

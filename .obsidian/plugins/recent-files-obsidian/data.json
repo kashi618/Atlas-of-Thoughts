@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Arch Linux - Installation",
+      "path": "3. Notes/Archlinux/Arch Linux - Installation.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Example Iterative Algorithms",
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/Unsorted/Example Iterative Algorithms.md"
-    },
-    {
-      "basename": "Process States and Transitions",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Unsorted Notes/Process States and Transitions.md"
     }
   ],
   "omittedPaths": [],
