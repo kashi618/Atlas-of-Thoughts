@@ -25,8 +25,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "018cd0d24bf9311b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Notes/Drivers Licence (DTT).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Drivers Licence (DTT)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,9 +236,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "018cd0d24bf9311b",
   "lastOpenFiles": [
+    "Pasted image 20250608150344.png",
     "1. Home Page/Home.canvas",
+    "3. Notes/Drivers Licence (DTT).md",
+    "3. Notes/HACCAP.md",
     "3. Notes/Archlinux/Archlinux - Installation.md",
     "3. Notes/Unsaved/asd.md",
     "3. Notes/Unsaved/Dublin City Group Activities.md",
@@ -240,8 +268,6 @@
     "2. University/TU856 Year 2/Modules/Semester 2/Data Communications/Untitled.md",
     "2. University/TU856 Year 2/Modules/Semester 2/Human Computer Interaction/Untitled.md",
     "2. University/TU856 Year 2/Modules/Semester 2/Legal and Professional Issues/Untitled.md",
-    "2. University/TU856 Year 2/Modules/Semester 2/Software Engineering 2/Untitled.md",
-    "2. University/TU856 Year 3/Modules/Semester 2/Untitled.md",
     "Pasted image 20250428211308.png",
     "Pasted image 20250506182931.png",
     "5. PDF's/C Programming Language - 2nd Edition (OCR).pdf",

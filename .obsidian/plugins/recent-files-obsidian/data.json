@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Drivers Licence (DTT)",
+      "path": "3. Notes/Drivers Licence (DTT).md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "HACCAP",
+      "path": "3. Notes/HACCAP.md"
     },
     {
       "basename": "Archlinux - Installation",
@@ -191,14 +199,6 @@
     {
       "basename": "aichat Output (Algorithms Project)",
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/aichat Output (Algorithms Project).md"
-    },
-    {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md"
-    },
-    {
-      "basename": "$UNFINISHED Programming Pitfalls - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/$UNFINISHED Programming Pitfalls - C.md"
     }
   ],
   "omittedPaths": [],
