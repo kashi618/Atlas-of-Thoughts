@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Notes/Drivers Licence (DTT).md",
+                "file": "3. Notes/Important/Horror Game.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Drivers Licence (DTT)"
+              "title": "Horror Game"
             }
           }
         ],
@@ -238,9 +238,11 @@
   },
   "active": "018cd0d24bf9311b",
   "lastOpenFiles": [
+    "3. Notes/Drivers Licence (DTT).md",
+    "3. Notes/Important/Horror Game.md",
+    "3. Notes/Important",
     "Pasted image 20250608150344.png",
     "1. Home Page/Home.canvas",
-    "3. Notes/Drivers Licence (DTT).md",
     "3. Notes/HACCAP.md",
     "3. Notes/Archlinux/Archlinux - Installation.md",
     "3. Notes/Unsaved/asd.md",
@@ -282,8 +284,6 @@
     "7. Other/RTX4070 (mobile) Stock HWINFO.png",
     "7. Other/RTX4070 (mobile) Overclocked Undervolted Kombustor.png",
     "7. Other/RTX4070 (mobile) Overclocked Undervolted HWINFO.png",
-    "7. Other/Ram Allocation.png",
-    "7. Other/Pasted image 20250407205120.png",
-    "5. PDF's/4. Other"
+    "7. Other/Ram Allocation.png"
   ]
 }

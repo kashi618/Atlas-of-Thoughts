@@ -1,0 +1,1 @@
+- Jumpscare (on/off) button, but still jumpscares anyways.
