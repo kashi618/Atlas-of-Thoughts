@@ -1,24 +1,96 @@
 {
   "recentFiles": [
     {
+      "basename": "Monster Can Flavours and Tierlist",
+      "path": "3. General/Lists/Monster Can Flavours and Tierlist.md"
+    },
+    {
+      "basename": "TV Shows & Movies & Anime & Manga",
+      "path": "3. General/Lists/TV Shows & Movies & Anime & Manga.md"
+    },
+    {
+      "basename": "OverTheWire - Bandit",
+      "path": "3. General/OverTheWire - Bandit.md"
+    },
+    {
+      "basename": "Library",
+      "path": "3. General/Library.md"
+    },
+    {
+      "basename": "Horror Game",
+      "path": "3. General/Important/Horror Game.md"
+    },
+    {
+      "basename": "How to use Obsidian",
+      "path": "3. General/Notes/How to use Obsidian.md"
+    },
+    {
+      "basename": "ISO ANSI Layout Keyboards",
+      "path": "3. General/ISO ANSI Layout Keyboards.md"
+    },
+    {
+      "basename": "Guitar Songs to Learn",
+      "path": "3. General/Guitar Songs to Learn.md"
+    },
+    {
+      "basename": "Git",
+      "path": "3. General/Git.md"
+    },
+    {
+      "basename": "Edison Effect",
+      "path": "3. General/Edison Effect.md"
+    },
+    {
+      "basename": "Diablo 2 - PD2 Sorceress",
+      "path": "3. General/Gaming/Diablo 2 - PD2 Sorceress.md"
+    },
+    {
+      "basename": "Elden Ring Quest Guide SotET",
+      "path": "3. General/Gaming/Elden Ring Quest Guide SotET.md"
+    },
+    {
+      "basename": "Elden Ring Quest Guide",
+      "path": "3. General/Gaming/Elden Ring Quest Guide.md"
+    },
+    {
+      "basename": "Chinese Foods, Snacks, Drinks",
+      "path": "3. General/Chinese Foods, Snacks, Drinks.md"
+    },
+    {
+      "basename": "Communism",
+      "path": "3. General/Communism.md"
+    },
+    {
+      "basename": "Dark Souls Remastered Quest Guide",
+      "path": "3. General/Gaming/Dark Souls Remastered Quest Guide.md"
+    },
+    {
+      "basename": "Déjà Rêvé",
+      "path": "3. General/Déjà Rêvé.md"
+    },
+    {
+      "basename": "Elden Ring Checklist",
+      "path": "3. General/Gaming/Elden Ring Checklist.md"
+    },
+    {
+      "basename": "HACCAP",
+      "path": "3. General/Notes/HACCAP.md"
+    },
+    {
+      "basename": "Tossi Stuff",
+      "path": "3. General/Notes/Tossi Stuff.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
     {
-      "basename": "Horror Game",
-      "path": "3. Notes/Important/Horror Game.md"
-    },
-    {
       "basename": "Drivers Licence (DTT)",
-      "path": "3. Notes/Drivers Licence (DTT).md"
-    },
-    {
-      "basename": "HACCAP",
-      "path": "3. Notes/HACCAP.md"
+      "path": "3. General/Drivers Licence (DTT).md"
     },
     {
       "basename": "Archlinux - Installation",
-      "path": "3. Notes/Archlinux/Archlinux - Installation.md"
+      "path": "3. General/Archlinux/Archlinux - Installation.md"
     },
     {
       "basename": "Arch Linux - Installation",
@@ -26,19 +98,19 @@
     },
     {
       "basename": "asd",
-      "path": "3. Notes/Unsaved/asd.md"
+      "path": "3. General/Unsaved/asd.md"
     },
     {
       "basename": "Dublin City Group Activities",
-      "path": "3. Notes/Unsaved/Dublin City Group Activities.md"
+      "path": "3. General/Unsaved/Dublin City Group Activities.md"
     },
     {
       "basename": "PD2 (s11) - Sorceress",
-      "path": "3. Notes/Gaming/PD2 (s11) - Sorceress.md"
+      "path": "3. General/Gaming/PD2 (s11) - Sorceress.md"
     },
     {
       "basename": "PD2 (s11) - Mercenary",
-      "path": "3. Notes/Gaming/PD2 (s11) - Mercenary.md"
+      "path": "3. General/Gaming/PD2 (s11) - Mercenary.md"
     },
     {
       "basename": "CMPU1019 - Microprocessor Systems",
@@ -70,7 +142,7 @@
     },
     {
       "basename": "Melatonin Intake",
-      "path": "3. Notes/Lists/Melatonin Intake.md"
+      "path": "3. General/Lists/Melatonin Intake.md"
     },
     {
       "basename": "Melatonin",
@@ -127,78 +199,6 @@
     {
       "basename": "Untitled",
       "path": "2. University/TU856 Year 3/Modules/Semester 2/Untitled.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "2. University/TU856 Year 3/Modules/Semester 1/Software Engineering 3/Untitled.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "2. University/TU856 Year 3/Modules/Semester 1/Mobile Software Development/Untitled.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "2. University/TU856 Year 3/Modules/Semester 1/Introduction to Artificial Intelligence/Untitled.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "2. University/TU856 Year 3/Modules/Semester 1/Databases 2/Untitled.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "2. University/TU856 Year 3/Modules/Semester 1/Cloud Computing/Untitled.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "2. University/TU856 Year 3/Modules/Semester 1/Client Serving Programming/Untitled.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "2. University/TY856 Year 4/Modules/Semester 2/Untitled.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "2. University/TY856 Year 4/Modules/Semester 1/Untitled.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "2. University/TY856 Year 4/Modules/Final Year Project/Untitled.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "2. University/TU856 Year 2/Modules/Semester 2/Untitled.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Untitled.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Untitled.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "7. UNSORTED/Untitled.md"
-    },
-    {
-      "basename": "Archlinux Rice",
-      "path": "3. Notes/Archlinux/Archlinux Rice.md"
-    },
-    {
-      "basename": "Permissions - Linux",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Permissions - Linux.md"
-    },
-    {
-      "basename": "chmod - Linux",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/chmod - Linux.md"
-    },
-    {
-      "basename": "$ Operating Systems 1",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/$ Operating Systems 1.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     }
   ],
   "omittedPaths": [],

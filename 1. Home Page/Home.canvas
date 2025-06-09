@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"3c746dc00007b004","type":"file","file":"3. Notes/Notes/Guitar Songs to Learn.md","x":-600,"y":-320,"width":440,"height":660},
-		{"id":"58d2d28bdd32c1c1","type":"file","file":"3. Notes/Lists/Wishlist.md","x":-160,"y":-320,"width":500,"height":660},
+		{"id":"58d2d28bdd32c1c1","type":"file","file":"3. General/Lists/Wishlist.md","x":-160,"y":-320,"width":500,"height":660},
 		{"id":"d5f07a116120c1ac","type":"text","text":"# Currently Playing\n- Sekiro Shadows Die Twice\n- S.T.A.L.K.E.R Shadow of Chernobyl\n- Kingdom Come Deliverance\n- Cuphead\n- Cyberpunk 2077\n- Nordic Souls\n# TO FINISH\n[[$$ Shell Commands]]\n\n# TO STUDY\n- Algorithm design and problem solving\n  Lab 2 Exercise\n- Operating Systems\n  - chmod\n- programming 9","x":-1100,"y":-320,"width":500,"height":660},
 		{"id":"38a86ef9527bb4ae","type":"file","file":"7. Other/explosion.gif","x":270,"y":-460,"width":70,"height":70},
 		{"id":"bf1d2ad0d188ae8c","type":"file","file":"7. Other/explosion.gif","x":270,"y":-530,"width":70,"height":70},
