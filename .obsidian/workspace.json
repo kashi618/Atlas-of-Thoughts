@@ -25,33 +25,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "c4b46ac6f0b16937",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. General/Lists/Monster Can Flavours and Tierlist.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Monster Can Flavours and Tierlist"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,8 +211,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4b46ac6f0b16937",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "3. General/Lists/Monster Can Flavours and Tierlist.md",
     "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
     "3. General/OverTheWire - Bandit.md",
     "3. General/Library.md",
@@ -269,7 +245,6 @@
     "3. General/Gaming/PD2 (s11) - Mercenary.md",
     "Pasted image 20250521210715.png",
     "3. General/Gaming",
-    "2. University/TU856 Year 1/Study Guide/CMPU1019 - Microprocessor Systems.md",
     "2. University/TU856 Year 1/Exam Papers/CMPU 1001 - 2023.2024.pdf",
     "Pasted image 20250428211308.png",
     "Pasted image 20250506182931.png",
