@@ -42,14 +42,19 @@ The Imitation Game
 | **Movies**                                                 | **MUST WATCH?** |
 | ---------------------------------------------------------- | --------------- |
 | Beetlejuice Beetlejuice                                    | Good            |
-| Dead Silence                                               | Good            |
 | Dead Poets Society                                         | **MUST WATCH**  |
+| Dead Silence                                               | Good            |
 | Der Untergang (Downfall)                                   | **MUST WATCH**  |
+| Die Welle (The Wave)                                       | **MUST WATCH**  |
 | Elemental                                                  | Good            |
 | Home Alone                                                 | N/A             |
 | Home Alone 2: Lost in New York                             | N/A             |
 | I.S.S                                                      | Good            |
 | In Time                                                    | Good (bad)      |
+| Last Breath                                                | Good            |
+| Nezha                                                      | Good            |
+| Nezha 2                                                    | Good            |
+| Now You See Me                                             | Amazing         |
 | Oppenheimer                                                | **MUST WATCH**  |
 | Paddington in Peru                                         | Good            |
 | Pan's Labyrinth                                            | Amazing         |
@@ -62,11 +67,13 @@ The Imitation Game
 | Rush Hour                                                  | Amazing         |
 | Saw                                                        | **MUST WATCH**  |
 | Saw II                                                     | Amazing         |
+| Saw III                                                    | Good            |
 | Scream VI                                                  | Good            |
 | Shawshank Redemption                                       | Amazing         |
 | Sing Street                                                | Amazing         |
 | Talk To Me                                                 | Amazing         |
 | Tarot                                                      | Meh             |
+| The Legend of 1900                                         | **MUST WATCH**  |
 | The Lord of The Rings Extended: The Fellowship of the Ring | Amazing         |
 | The Platform                                               | **MUST WATCH**  |
 | The Platform 2                                             | **MUST WATCH**  |
@@ -78,12 +85,6 @@ The Imitation Game
 | 少林足球 (Shaolin Soccer)                                      | Amazing         |
 | 抓娃娃 (Successor)                                            | Good            |
 | 流浪地球 (Wandering Earth)                                     | Amazing         |
-| The Legend of 1900                                         | **MUST WATCH**  |
-| Nezha                                                      | Good            |
-| Nezha 2                                                    | Good            |
-| Last Breath                                                | Good            |
-| Now You See Me                                             | Amazing         |
-| Die Welle (The Wave)                                       | **MUST WATCH**  |
 
 ---
 
