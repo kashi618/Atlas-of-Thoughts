@@ -99,6 +99,7 @@ The Imitation Game
 - The last sentinel
 - The black list
 - The last man on earth
+- the prestige
 
 #### Disney Movies
 - (**Movie**) - Beauty and the Beast
@@ -157,10 +158,13 @@ The Imitation Game
 	- Paranormal Activity: Next of Kin
 - (**Moive**) - Truth or Dare
 - megan is missing
-
+- confessions
+- we need to talk about kevin
+- tirangle
 #### Romance
 - (**Movie**) - Titanic
 - (**Movie**) - The Notebook
+- curious case of benjamin button
 
 #### Comedy
 - (**Movie**) - White Chicks
