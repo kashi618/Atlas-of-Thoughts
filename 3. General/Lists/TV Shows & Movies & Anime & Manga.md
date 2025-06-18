@@ -85,9 +85,9 @@ The Imitation Game
 | 少林足球 (Shaolin Soccer)                                      | Amazing         |
 | 抓娃娃 (Successor)                                            | Good            |
 | 流浪地球 (Wandering Earth)                                     | Amazing         |
-| ハウス (House)                                                | Good            |
+| ハウス (House)                                                | meh             |
 | Final Destination Bloodlines                               | Amazing         |
-| 鉄男 (Tetsuo: The Iron Man)                                  |                 |
+| 鉄男 (Tetsuo: The Iron Man)                                  | Good            |
 |                                                            |                 |
 
 ---
