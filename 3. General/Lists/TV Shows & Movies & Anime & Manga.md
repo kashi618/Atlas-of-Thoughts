@@ -85,6 +85,8 @@ The Imitation Game
 | 少林足球 (Shaolin Soccer)                                      | Amazing         |
 | 抓娃娃 (Successor)                                            | Good            |
 | 流浪地球 (Wandering Earth)                                     | Amazing         |
+| ハウス (House)                                                |                 |
+| Final Destination Bloodlines                               | Amazing         |
 
 ---
 
