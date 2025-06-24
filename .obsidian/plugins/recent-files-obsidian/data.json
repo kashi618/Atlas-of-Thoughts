@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
+      "basename": "Philosophy to Learn",
+      "path": "3. General/Lists/Philosophy to Learn.md"
+    },
+    {
+      "basename": "GameDev ToDo List",
+      "path": "3. General/Lists/GameDev ToDo List.md"
+    },
+    {
+      "basename": "Guitar Songs to Learn",
+      "path": "3. General/Lists/Guitar Songs to Learn.md"
+    },
+    {
+      "basename": "Guitar Wishlist",
+      "path": "3. General/Lists/Guitar Wishlist.md"
+    },
+    {
+      "basename": "Wishlist",
+      "path": "3. General/Lists/Wishlist.md"
     },
     {
       "basename": "TV Shows & Movies & Anime & Manga",
@@ -13,12 +29,16 @@
       "path": "3. General/Lists/Monster Can Flavours and Tierlist.md"
     },
     {
-      "basename": "OverTheWire - Bandit",
-      "path": "3. General/OverTheWire - Bandit.md"
+      "basename": "Library",
+      "path": "3. General/Lists/Library.md"
     },
     {
-      "basename": "Library",
-      "path": "3. General/Library.md"
+      "basename": "Headphones & IEMs",
+      "path": "3. General/Lists/Headphones & IEMs.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Horror Game",
@@ -27,22 +47,6 @@
     {
       "basename": "How to use Obsidian",
       "path": "3. General/Notes/How to use Obsidian.md"
-    },
-    {
-      "basename": "ISO ANSI Layout Keyboards",
-      "path": "3. General/ISO ANSI Layout Keyboards.md"
-    },
-    {
-      "basename": "Guitar Songs to Learn",
-      "path": "3. General/Guitar Songs to Learn.md"
-    },
-    {
-      "basename": "Git",
-      "path": "3. General/Git.md"
-    },
-    {
-      "basename": "Edison Effect",
-      "path": "3. General/Edison Effect.md"
     },
     {
       "basename": "Diablo 2 - PD2 Sorceress",
@@ -57,20 +61,8 @@
       "path": "3. General/Gaming/Elden Ring Quest Guide.md"
     },
     {
-      "basename": "Chinese Foods, Snacks, Drinks",
-      "path": "3. General/Chinese Foods, Snacks, Drinks.md"
-    },
-    {
-      "basename": "Communism",
-      "path": "3. General/Communism.md"
-    },
-    {
       "basename": "Dark Souls Remastered Quest Guide",
       "path": "3. General/Gaming/Dark Souls Remastered Quest Guide.md"
-    },
-    {
-      "basename": "Déjà Rêvé",
-      "path": "3. General/Déjà Rêvé.md"
     },
     {
       "basename": "Elden Ring Checklist",
@@ -83,10 +75,6 @@
     {
       "basename": "Tossi Stuff",
       "path": "3. General/Notes/Tossi Stuff.md"
-    },
-    {
-      "basename": "Drivers Licence (DTT)",
-      "path": "3. General/Drivers Licence (DTT).md"
     },
     {
       "basename": "Archlinux - Installation",
@@ -139,10 +127,6 @@
     {
       "basename": "CMPU1001 - Algorithm Design and Problem Solving",
       "path": "2. University/TU856 Year 1/Study Guide/CMPU1001 - Algorithm Design and Problem Solving.md"
-    },
-    {
-      "basename": "Melatonin Intake",
-      "path": "3. General/Lists/Melatonin Intake.md"
     },
     {
       "basename": "Melatonin",
