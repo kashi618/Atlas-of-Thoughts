@@ -18,40 +18,15 @@
                 "viewState": {
                   "x": -380,
                   "y": -165,
-                  "zoom": -0.230422485920707
+                  "zoom": -4
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "6efa92047d0766c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TV Shows & Movies & Anime & Manga"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -264,15 +239,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6efa92047d0766c9",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
     "1. Home Page/Home.canvas",
     "3. General/Lists/Philosophy to Learn.md",
     "3. General/Lists/GameDev ToDo List.md",
     "3. General/Lists/Guitar Songs to Learn.md",
     "3. General/Lists/Guitar Wishlist.md",
     "3. General/Lists/Wishlist.md",
-    "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
     "3. General/Lists/Monster Can Flavours and Tierlist.md",
     "3. General/Lists/Melatonin Intake.md",
     "3. General/Lists/Library.md",
