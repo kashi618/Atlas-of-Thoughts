@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "BIOS",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/BIOS.md"
-    },
-    {
-      "basename": "POST",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/POST.md"
+      "basename": "Bootloader",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Bootloader.md"
     },
     {
       "basename": "Boot Process",
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Boot Process.md"
     },
     {
+      "basename": "BIOS",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/BIOS.md"
+    },
+    {
       "basename": "ChmodPermissions - Linux",
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/ChmodPermissions - Linux.md"
     },
     {
-      "basename": "chmod - Linux",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/chmod - Linux.md"
+      "basename": "CMOS",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/CMOS.md"
+    },
+    {
+      "basename": "POST",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/POST.md"
     },
     {
       "basename": "Results",
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled",
       "path": "2. University/TU856 Year 2/Modules/Semester 2/Human Computer Interaction/Untitled.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "2. University/TU856 Year 2/Modules/Semester 2/Legal and Professional Issues/Untitled.md"
     }
   ],
   "omittedPaths": [],

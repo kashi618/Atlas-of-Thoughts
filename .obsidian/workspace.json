@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/BIOS.md",
+                "file": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Bootloader.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "BIOS"
+              "title": "Bootloader"
             }
           }
         ],
@@ -266,11 +266,13 @@
   },
   "active": "ee7017f7029b155d",
   "lastOpenFiles": [
-    "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/POST.md",
-    "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/BIOS.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Boot Process.md",
+    "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Bootloader.md",
+    "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/BIOS.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/ChmodPermissions - Linux.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/chmod - Linux.md",
+    "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/CMOS.md",
+    "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/POST.md",
     "2. University/TU856 Year 1/Results.md",
     "1. Home Page/Home.canvas",
     "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
@@ -291,8 +293,6 @@
     "3. General/Misc/蛋花湯 - Egg Drop Soup.md",
     "3. General/Misc/Windows 11 MISC.md",
     "3. General/Misc/Weird Animals.md",
-    "3. General/Misc/Utopia.md",
-    "3. General/Misc/Thales Falling into a Well.md",
     "3. General/Misc",
     "3. General/Philosophy",
     "3. General/Notes",
