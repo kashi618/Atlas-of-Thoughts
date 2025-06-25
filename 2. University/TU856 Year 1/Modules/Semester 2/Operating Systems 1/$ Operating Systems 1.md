@@ -14,7 +14,7 @@
 
 
 ## Linux
-- [[Permissions - Linux]]
+- [[ChmodPermissions - Linux]]
 - [[chmod - Linux]]
 
 ## Windows Command Line

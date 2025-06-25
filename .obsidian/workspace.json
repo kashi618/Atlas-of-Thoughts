@@ -18,15 +18,40 @@
                 "viewState": {
                   "x": -380,
                   "y": -165,
-                  "zoom": -4
+                  "zoom": -1.479609500574928
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "ee7017f7029b155d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/BIOS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BIOS"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,10 +264,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ee7017f7029b155d",
   "lastOpenFiles": [
-    "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
+    "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/POST.md",
+    "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/BIOS.md",
+    "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Boot Process.md",
+    "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/ChmodPermissions - Linux.md",
+    "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/chmod - Linux.md",
+    "2. University/TU856 Year 1/Results.md",
     "1. Home Page/Home.canvas",
+    "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
     "3. General/Lists/Philosophy to Learn.md",
     "3. General/Lists/GameDev ToDo List.md",
     "3. General/Lists/Guitar Songs to Learn.md",
@@ -262,11 +293,6 @@
     "3. General/Misc/Weird Animals.md",
     "3. General/Misc/Utopia.md",
     "3. General/Misc/Thales Falling into a Well.md",
-    "3. General/Misc/Tattoos.md",
-    "3. General/Misc/Superfest Glass.md",
-    "3. General/Misc/Statues, Busts, etc.md",
-    "3. General/Misc/Socrates.md",
-    "3. General/Misc/Skyrim - The End.md",
     "3. General/Misc",
     "3. General/Philosophy",
     "3. General/Notes",
