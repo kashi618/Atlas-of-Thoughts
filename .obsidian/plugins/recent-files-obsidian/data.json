@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Bootloader",
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Bootloader.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Results",
       "path": "2. University/TU856 Year 1/Results.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "TV Shows & Movies & Anime & Manga",
