@@ -158,5 +158,14 @@
       ],
       "key": "="
     }
-  ]
+  ],
+  "obsidian-go-to-line:go-to-line": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ],
+  "graph:open": []
 }

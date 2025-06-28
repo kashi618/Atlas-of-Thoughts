@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Bubblesort",
-      "path": "2. University/Algorithms/Sorting Algorithms/Bubblesort.md"
+      "basename": "Selection Sort - O(n²)",
+      "path": "2. University/Algorithms/Sorting Algorithms/Selection Sort - O(n²).md"
+    },
+    {
+      "basename": "Time Complexity Table",
+      "path": "6. Templates/Time Complexity Table.md"
+    },
+    {
+      "basename": "Bubblesort - O(n²)",
+      "path": "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n²).md"
+    },
+    {
+      "basename": "Algorithms",
+      "path": "6. Templates/Algorithms.md"
     },
     {
       "basename": "aichat Output (Algorithms Project)",
@@ -187,18 +199,6 @@
     {
       "basename": "Untitled",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Mathematics 2/Untitled.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Untitled.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Untitled.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Web Development 2/Untitled.md"
     }
   ],
   "omittedPaths": [],

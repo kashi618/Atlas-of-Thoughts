@@ -32,9 +32,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n).md",
+                "file": "2. University/Algorithms/Sorting Algorithms/Selection Sort - O(n²).md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bubblesort - O(n)"
+              "title": "Selection Sort - O(n²)"
             }
           }
         ],
@@ -255,8 +255,12 @@
   },
   "active": "5413e271e3a87521",
   "lastOpenFiles": [
-    "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/aichat Output (Algorithms Project).md",
+    "6. Templates/Time Complexity Table.md",
+    "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n²).md",
+    "2. University/Algorithms/Sorting Algorithms/Selection Sort - O(n²).md",
+    "6. Templates/Algorithms.md",
     "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n).md",
+    "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/aichat Output (Algorithms Project).md",
     "2. University/Algorithms/Searching Algorithms",
     "2. University/Algorithms/Sorting Algorithms",
     "2. University/Algorithms/Bubblesort.md",
@@ -281,10 +285,6 @@
     "3. General/Lists/Guitar Wishlist.md",
     "3. General/Lists/Wishlist.md",
     "3. General/Lists/Monster Can Flavours and Tierlist.md",
-    "3. General/Lists/Melatonin Intake.md",
-    "3. General/Lists/Library.md",
-    "3. General/Lists/Headphones & IEMs.md",
-    "3. General/Misc/道德经 - 第二章.md",
     "3. General/Misc",
     "3. General/Philosophy",
     "3. General/Notes",

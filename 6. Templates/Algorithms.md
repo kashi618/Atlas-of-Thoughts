@@ -1,3 +1,10 @@
+## Time Complexity
+
+| Ω(n2)- Best | Θ() - Average | O() - Worst |
+| ----------- | ------------- | ----------- |
+|             |               |             |
+
+
 ## Steps
 1. Checks first and second element, swapping if needed.
 2. Checks second and third element, swapping if needed.
