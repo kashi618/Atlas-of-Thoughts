@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Comp Sci to Learn",
+      "path": "3. General/Lists/Comp Sci to Learn.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
     {
-      "basename": "Bootloader",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Bootloader.md"
+      "basename": "!! Monolithic Systems",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/!! Monolithic Systems.md"
     },
     {
       "basename": "Boot Process",
@@ -17,16 +21,16 @@
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/BIOS.md"
     },
     {
-      "basename": "ChmodPermissions - Linux",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/ChmodPermissions - Linux.md"
-    },
-    {
-      "basename": "CMOS",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/CMOS.md"
-    },
-    {
       "basename": "POST",
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/POST.md"
+    },
+    {
+      "basename": "Bootloader",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Bootloader.md"
+    },
+    {
+      "basename": "ChmodPermissions - Linux",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/ChmodPermissions - Linux.md"
     },
     {
       "basename": "Results",
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled",
       "path": "2. University/TU856 Year 2/Modules/Semester 2/Data Communications/Untitled.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "2. University/TU856 Year 2/Modules/Semester 2/Human Computer Interaction/Untitled.md"
     }
   ],
   "omittedPaths": [],

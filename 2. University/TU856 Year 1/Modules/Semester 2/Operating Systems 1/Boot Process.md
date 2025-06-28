@@ -25,10 +25,11 @@ Sequence of starting a computer, without fully powering it off.
 
 ## Boot Process
 1. Computer is powered on, and electricity is supplied to all components
-2. BIOS is ran, detecting hardware
-3. POST is then ran by the BIOS, checking critical hardware
-4. Bootloader is loaded by the BIOS upon successful POST
-5. Bootloader hands control to the OS kernel
+2. CPU reads BIOS, detecting hardware
+3. BIOS performs POST
+4. POST results compared with CMOS chip data
+5. Bootloader is loaded by the BIOS upon successful POST
+6. Bootloader hands control to the OS kernel
    
 # See Also
 [[$ Operating Systems 1]]
