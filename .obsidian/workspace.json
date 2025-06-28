@@ -27,14 +27,14 @@
             }
           },
           {
-            "id": "2517b43a6e55bd02",
+            "id": "5413e271e3a87521",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. General/Lists/Comp Sci to Learn.md",
+                "file": "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n).md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Comp Sci to Learn"
+              "title": "Bubblesort - O(n)"
             }
           }
         ],
@@ -253,8 +253,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2517b43a6e55bd02",
+  "active": "5413e271e3a87521",
   "lastOpenFiles": [
+    "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/aichat Output (Algorithms Project).md",
+    "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n).md",
+    "2. University/Algorithms/Searching Algorithms",
+    "2. University/Algorithms/Sorting Algorithms",
+    "2. University/Algorithms/Bubblesort.md",
+    "2. University/Algorithms",
+    "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/$ Algorithm Design.md",
+    "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/Selection Sort.md",
     "1. Home Page/Home.canvas",
     "3. General/Lists/Comp Sci to Learn.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/!! Monolithic Systems.md",
@@ -277,10 +285,6 @@
     "3. General/Lists/Library.md",
     "3. General/Lists/Headphones & IEMs.md",
     "3. General/Misc/道德经 - 第二章.md",
-    "3. General/Misc/道德经 - 第三章.md",
-    "3. General/Misc/道德经 - 第一章.md",
-    "3. General/Misc/道德经 Study.md",
-    "3. General/Misc/辣子鸡 - Sichuan Spicy Chicken.md",
     "3. General/Misc",
     "3. General/Philosophy",
     "3. General/Notes",
@@ -292,9 +296,6 @@
     "Pasted image 20250428211308.png",
     "Pasted image 20250506182931.png",
     "5. PDF's/C Programming Language - 2nd Edition (OCR).pdf",
-    "5. PDF's/CMPU1018 Mathematics Winter 2020-2021 Exam Paper.pdf",
-    "5. PDF's/All Tomorrows.pdf",
-    "2. University/TU856 Year 1/Exam Papers/CMPU 1022 - 2023.2024.pdf",
     "7. Other/RTX4070 (mobile) Voltage Frequency Curve.png",
     "7. Other/RTX4070 (mobile) Stock Kombustor.png",
     "7. Other/RTX4070 (mobile) Stock HWINFO.png",

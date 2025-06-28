@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Comp Sci to Learn",
-      "path": "3. General/Lists/Comp Sci to Learn.md"
+      "basename": "Bubblesort",
+      "path": "2. University/Algorithms/Sorting Algorithms/Bubblesort.md"
+    },
+    {
+      "basename": "aichat Output (Algorithms Project)",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/aichat Output (Algorithms Project).md"
+    },
+    {
+      "basename": "$ Algorithm Design",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/$ Algorithm Design.md"
+    },
+    {
+      "basename": "Selection Sort",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/Selection Sort.md"
     },
     {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Comp Sci to Learn",
+      "path": "3. General/Lists/Comp Sci to Learn.md"
     },
     {
       "basename": "!! Monolithic Systems",
@@ -141,14 +157,6 @@
       "path": "2. University/TU856 Year 1/Exam Papers/CMPU 1001 - 2023.2024.pdf"
     },
     {
-      "basename": "Selection Sort",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/Selection Sort.md"
-    },
-    {
-      "basename": "$ Algorithm Design",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/$ Algorithm Design.md"
-    },
-    {
       "basename": "$ Algorithm Project",
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/$ Algorithm Project.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Untitled",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Web Development 2/Untitled.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "2. University/TU856 Year 2/Modules/Semester 2/Algorithms & Data Structures/Untitled.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "2. University/TU856 Year 2/Modules/Semester 2/Data Communications/Untitled.md"
     }
   ],
   "omittedPaths": [],
