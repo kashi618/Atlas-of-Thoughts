@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Algorithms/Sorting Algorithms/Selection Sort - O(n²).md",
+                "file": "6. Templates/Time Complexity Table.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Selection Sort - O(n²)"
+              "title": "Time Complexity Table"
             }
           }
         ],
@@ -255,9 +255,9 @@
   },
   "active": "5413e271e3a87521",
   "lastOpenFiles": [
+    "2. University/Algorithms/Sorting Algorithms/Selection Sort - O(n²).md",
     "6. Templates/Time Complexity Table.md",
     "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n²).md",
-    "2. University/Algorithms/Sorting Algorithms/Selection Sort - O(n²).md",
     "6. Templates/Algorithms.md",
     "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n).md",
     "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/aichat Output (Algorithms Project).md",
