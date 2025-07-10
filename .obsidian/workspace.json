@@ -18,40 +18,15 @@
                 "viewState": {
                   "x": -380,
                   "y": -165,
-                  "zoom": -1.479609500574928
+                  "zoom": -1.2828428869139743
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "5413e271e3a87521",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Templates/Time Complexity Table.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Time Complexity Table"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,10 +228,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5413e271e3a87521",
+  "active": "0625646695eea1fe",
   "lastOpenFiles": [
-    "2. University/Algorithms/Sorting Algorithms/Selection Sort - O(n²).md",
+    "1. Home Page/Home.canvas",
+    "README (copy 1).md",
     "6. Templates/Time Complexity Table.md",
+    "2. University/Algorithms/Sorting Algorithms/Selection Sort - O(n²).md",
     "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n²).md",
     "6. Templates/Algorithms.md",
     "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n).md",
@@ -267,7 +244,6 @@
     "2. University/Algorithms",
     "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/$ Algorithm Design.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/Selection Sort.md",
-    "1. Home Page/Home.canvas",
     "3. General/Lists/Comp Sci to Learn.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/!! Monolithic Systems.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Boot Process.md",
@@ -283,8 +259,6 @@
     "3. General/Lists/GameDev ToDo List.md",
     "3. General/Lists/Guitar Songs to Learn.md",
     "3. General/Lists/Guitar Wishlist.md",
-    "3. General/Lists/Wishlist.md",
-    "3. General/Lists/Monster Can Flavours and Tierlist.md",
     "3. General/Misc",
     "3. General/Philosophy",
     "3. General/Notes",

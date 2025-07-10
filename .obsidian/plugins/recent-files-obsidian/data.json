@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "README (copy 1)",
+      "path": "README (copy 1).md"
+    },
+    {
       "basename": "Time Complexity Table",
       "path": "6. Templates/Time Complexity Table.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Selection Sort",
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/Selection Sort.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Comp Sci to Learn",
