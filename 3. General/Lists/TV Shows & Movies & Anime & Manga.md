@@ -38,6 +38,7 @@ The Imitation Game
 | Rick and Morty Season 2                  | N/A             |
 | Rick and Morty Season 3                  | N/A             |
 | Wednesday Season 1                       | Amazing         |
+| The Queen's Gambit                       |                 |
 
 | **Movies**                                                 | **MUST WATCH?** |
 | ---------------------------------------------------------- | --------------- |
@@ -89,13 +90,13 @@ The Imitation Game
 | Final Destination Bloodlines                               | Amazing         |
 | 鉄男 (Tetsuo: The Iron Man)                                  | Good            |
 | If Only                                                    | **MUST WATCH**  |
+| The Menu                                                   |                 |
 
 ---
 
 ### Planning
 - (**TV**) - Tom and Jerry (1940-1967)
 - (**TV**) - Rick and Morty Season 4-7
-- If only
 - The last sentinel
 - The black list
 - The last man on earth
