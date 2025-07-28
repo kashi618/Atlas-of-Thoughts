@@ -25,33 +25,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "798eef8cccc31d67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TV Shows & Movies & Anime & Manga"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,9 +228,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "798eef8cccc31d67",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "3. General/Notes/Trading212 Tax.md",
+    "3. General/Notes/Tossi Stuff.md",
+    "3. General/Unsaved/Dublin City Group Activities.md",
+    "3. General/Unsaved/asd.md",
     "1. Home Page/Home.canvas",
+    "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
     "README (copy 1).md",
     "6. Templates/Time Complexity Table.md",
     "2. University/Algorithms/Sorting Algorithms/Selection Sort - O(n²).md",
@@ -279,11 +259,7 @@
     "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/ChmodPermissions - Linux.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/chmod - Linux.md",
     "2. University/TU856 Year 1/Results.md",
-    "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
     "3. General/Lists/Philosophy to Learn.md",
-    "3. General/Lists/GameDev ToDo List.md",
-    "3. General/Lists/Guitar Songs to Learn.md",
-    "3. General/Lists/Guitar Wishlist.md",
     "3. General/Misc",
     "3. General/Philosophy",
     "3. General/Notes",
