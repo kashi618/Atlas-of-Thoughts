@@ -25,8 +25,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "3f363c4ec66253f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. General/Notes/HACCAP.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "HACCAP"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,13 +253,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3f363c4ec66253f0",
   "lastOpenFiles": [
-    "3. General/Notes/Trading212 Tax.md",
+    "3. General/Notes/How to use Obsidian.md",
     "3. General/Notes/Tossi Stuff.md",
-    "3. General/Unsaved/Dublin City Group Activities.md",
-    "3. General/Unsaved/asd.md",
+    "3. General/Archlinux/Archlinux - Rice.md",
+    "3. General/Archlinux/Archlinux - Adding Drives.md",
+    "3. General/Archlinux/Archlinux - Network Manager - eduroam.md",
+    "3. General/Archlinux/Archlinux - Helpful Commands.md",
+    "3. General/Important/Horror Game.md",
+    "3. General/Notes/Trading212 Tax.md",
     "1. Home Page/Home.canvas",
+    "3. General/Notes/HACCAP.md",
+    "3. General/Unsaved/asd.md",
+    "3. General/Unsaved/Dublin City Group Activities.md",
     "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
     "README (copy 1).md",
     "6. Templates/Time Complexity Table.md",
@@ -253,13 +285,6 @@
     "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/!! Monolithic Systems.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Boot Process.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/BIOS.md",
-    "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/POST.md",
-    "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/CMOS.md",
-    "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Bootloader.md",
-    "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/ChmodPermissions - Linux.md",
-    "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/chmod - Linux.md",
-    "2. University/TU856 Year 1/Results.md",
-    "3. General/Lists/Philosophy to Learn.md",
     "3. General/Misc",
     "3. General/Philosophy",
     "3. General/Notes",

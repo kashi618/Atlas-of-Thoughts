@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "HACCAP",
+      "path": "3. General/Notes/HACCAP.md"
+    },
+    {
+      "basename": "How to use Obsidian",
+      "path": "3. General/Notes/How to use Obsidian.md"
+    },
+    {
+      "basename": "Tossi Stuff",
+      "path": "3. General/Notes/Tossi Stuff.md"
+    },
+    {
+      "basename": "Archlinux - Rice",
+      "path": "3. General/Archlinux/Archlinux - Rice.md"
+    },
+    {
+      "basename": "Archlinux - Adding Drives",
+      "path": "3. General/Archlinux/Archlinux - Adding Drives.md"
+    },
+    {
+      "basename": "Archlinux - Network Manager - eduroam",
+      "path": "3. General/Archlinux/Archlinux - Network Manager - eduroam.md"
+    },
+    {
+      "basename": "Archlinux - Helpful Commands",
+      "path": "3. General/Archlinux/Archlinux - Helpful Commands.md"
+    },
+    {
+      "basename": "Trading212 Tax",
+      "path": "3. General/Notes/Trading212 Tax.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -9,20 +41,16 @@
       "path": "3. General/Notes/Trading212 Tax.md"
     },
     {
+      "basename": "asd",
+      "path": "3. General/Unsaved/asd.md"
+    },
+    {
       "basename": "Trading212",
       "path": "3. General/Notes/Trading212.md"
     },
     {
-      "basename": "Tossi Stuff",
-      "path": "3. General/Notes/Tossi Stuff.md"
-    },
-    {
       "basename": "Dublin City Group Activities",
       "path": "3. General/Unsaved/Dublin City Group Activities.md"
-    },
-    {
-      "basename": "asd",
-      "path": "3. General/Unsaved/asd.md"
     },
     {
       "basename": "TV Shows & Movies & Anime & Manga",
@@ -121,14 +149,6 @@
       "path": "3. General/Lists/Headphones & IEMs.md"
     },
     {
-      "basename": "Horror Game",
-      "path": "3. General/Important/Horror Game.md"
-    },
-    {
-      "basename": "How to use Obsidian",
-      "path": "3. General/Notes/How to use Obsidian.md"
-    },
-    {
       "basename": "Diablo 2 - PD2 Sorceress",
       "path": "3. General/Gaming/Diablo 2 - PD2 Sorceress.md"
     },
@@ -147,10 +167,6 @@
     {
       "basename": "Elden Ring Checklist",
       "path": "3. General/Gaming/Elden Ring Checklist.md"
-    },
-    {
-      "basename": "HACCAP",
-      "path": "3. General/Notes/HACCAP.md"
     },
     {
       "basename": "Archlinux - Installation",
@@ -183,22 +199,6 @@
     {
       "basename": "CMPU1006 - Computer Architecture and Technology",
       "path": "2. University/TU856 Year 1/Study Guide/CMPU1006 - Computer Architecture and Technology.md"
-    },
-    {
-      "basename": "CMPU1001 - Algorithm Design and Problem Solving",
-      "path": "2. University/TU856 Year 1/Study Guide/CMPU1001 - Algorithm Design and Problem Solving.md"
-    },
-    {
-      "basename": "Melatonin",
-      "path": "3. Notes/Lists/Melatonin.md"
-    },
-    {
-      "basename": "CMPU1022 - Operating Systems 1",
-      "path": "2. University/TU856 Year 1/Study Guide/CMPU1022 - Operating Systems 1.md"
-    },
-    {
-      "basename": "Loops - JavaScript",
-      "path": "2. University/TU856 Year 1/Modules/Semester 1/Web Development/Loops - JavaScript.md"
     }
   ],
   "omittedPaths": [],
