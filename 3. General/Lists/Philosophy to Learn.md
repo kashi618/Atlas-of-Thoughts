@@ -35,7 +35,7 @@
 ## Chinese
 - Lao zi
 - Confucious
-- Budhha
+- Buddha
 - Zhuang zi
 - Wang Yangming
 - Sun Zi
