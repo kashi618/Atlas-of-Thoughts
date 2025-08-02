@@ -46,6 +46,12 @@ What is the penalty for refusing to give breath/blood/urine samples as evidence 
 Is rebated (green) diesel allowed?
 - no
 
+How do you calculate maximum overall permitted weight of a vehicle?
+- Adding the unladen weight of the vehicle, to the load permitted to be carried
+
+Can a driver break a red light or speed limit to allow an emergency service vehicle to pass?
+- no
+
 
 
 
