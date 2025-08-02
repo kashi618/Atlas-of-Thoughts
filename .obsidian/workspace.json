@@ -27,13 +27,13 @@
             }
           },
           {
-            "id": "3f363c4ec66253f0",
+            "id": "701e939e296e6e29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. General/Notes/Trading212 Tax.md",
-                "mode": "preview",
+                "file": "3. General/Notes/Driving Theory Test.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Trading212 Tax"
+              "title": "Driving Theory Test"
             }
           }
         ],
@@ -253,8 +253,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f363c4ec66253f0",
+  "active": "701e939e296e6e29",
   "lastOpenFiles": [
+    "1. Home Page/Home.canvas",
+    "3. General/Notes/Driving Theory Test.md",
+    "3. General/Notes/Trading212 Tax.md",
     "3. General/Notes/HACCAP.md",
     "3. General/Notes/How to use Obsidian.md",
     "3. General/Notes/Tossi Stuff.md",
@@ -263,8 +266,6 @@
     "3. General/Archlinux/Archlinux - Network Manager - eduroam.md",
     "3. General/Archlinux/Archlinux - Helpful Commands.md",
     "3. General/Important/Horror Game.md",
-    "3. General/Notes/Trading212 Tax.md",
-    "1. Home Page/Home.canvas",
     "3. General/Unsaved/asd.md",
     "3. General/Unsaved/Dublin City Group Activities.md",
     "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
@@ -283,8 +284,6 @@
     "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/Selection Sort.md",
     "3. General/Lists/Comp Sci to Learn.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/!! Monolithic Systems.md",
-    "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Boot Process.md",
-    "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/BIOS.md",
     "3. General/Misc",
     "3. General/Philosophy",
     "3. General/Notes",
