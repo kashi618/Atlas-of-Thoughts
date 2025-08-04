@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Driving Theory Test",
-      "path": "3. General/Notes/Driving Theory Test.md"
+      "basename": "Horror Games",
+      "path": "3. General/Ideas/Horror Games.md"
     },
     {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Driving Theory Test",
+      "path": "3. General/Notes/Driving Theory Test.md"
     },
     {
       "basename": "Philosophy to Learn",
@@ -195,10 +199,6 @@
     {
       "basename": "$ Algorithm Project",
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/$ Algorithm Project.md"
-    },
-    {
-      "basename": "CMPU1006 - Computer Architecture and Technology",
-      "path": "2. University/TU856 Year 1/Study Guide/CMPU1006 - Computer Architecture and Technology.md"
     }
   ],
   "omittedPaths": [],
