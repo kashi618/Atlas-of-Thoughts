@@ -1,7 +1,10 @@
 
-- (**50-100$**) 1tb SSD x 2
+- 1 tb SSD x 2
+	- (**50-100€**)
 - Air Pods Pro 2 v5.3 HR+
+	- (**63.20$**, Jenny)
 - Edifier R1280Ts
+	- (**€118.40**, Amazon.ie)
 - Handheld Hoover
 - Helping Hands
 - IEM Ear Tips
@@ -12,5 +15,6 @@
 - Steam Deck
 - Swiss Army Knife
 - Upgraded PC
+	- 1
 - Wire Stripper
 - Zippo Fluid
