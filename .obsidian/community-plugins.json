@@ -21,5 +21,6 @@
   "dataview",
   "file-tree-alternative",
   "table-editor-obsidian",
-  "obsidian-go-to-line"
+  "obsidian-go-to-line",
+  "obsidian-sort-and-permute-lines"
 ]
