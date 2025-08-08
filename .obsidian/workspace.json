@@ -25,8 +25,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "cd0de9efbf46c0eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. General/Lists/Wishlist.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Wishlist"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,14 +253,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "cd0de9efbf46c0eb",
   "lastOpenFiles": [
+    "3. General/Lists/Monster Can Flavours and Tierlist.md",
+    "3. General/Lists/Philosophy to Learn.md",
     "3. General/Lists/Wishlist.md",
     "1. Home Page/Home.canvas",
     "3. General/Ideas/Horror Games.md",
     "3. General/Ideas",
     "3. General/Notes/Driving Theory Test.md",
-    "3. General/Lists/Philosophy to Learn.md",
     "3. General/Notes/Trading212 Tax.md",
     "3. General/Notes/HACCAP.md",
     "3. General/Notes/How to use Obsidian.md",
@@ -260,7 +286,6 @@
     "2. University/Algorithms/Bubblesort.md",
     "2. University/Algorithms",
     "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/$ Algorithm Design.md",
-    "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/Selection Sort.md",
     "3. General/Misc",
     "3. General/Philosophy",
     "3. General/Notes",

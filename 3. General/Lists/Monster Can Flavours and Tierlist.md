@@ -65,18 +65,18 @@
 | Mule                |
 | Pipeline Punch      |
 | Pacific Punch       |
+| Lando Norris        |
 
-| **B - Good**            |
-| ----------------------- |
-| Ultra Strawberry Dreams |
-| Ultra Violet            |
-| Ultra Peachy Keen       |
-| Rio Punch               |
-| Bad Apple               |
-| Monarch                 |
-| MIXXD                   |
-| White Pineapple         |
-| Peaches N' Crème        |
+| **B - Good**      |
+| ----------------- |
+| Ultra Violet      |
+| Ultra Peachy Keen |
+| Rio Punch         |
+| Bad Apple         |
+| Monarch           |
+| MIXXD             |
+| White Pineapple   |
+| Peaches N' Crème  |
 
 | C - Meh          |
 | ---------------- |
@@ -88,17 +88,18 @@
 | Ultra Paradise   |
 | Mango Loco       |
 
-| D - Average/Boring |
-| ------------------ |
-| Original           |
-| Original No Sugar  |
-| Lo-carb            |
-| Ultra Blue         |
-| Ultra Gold         |
-| Khaotic            |
-| Aussie Lemonade    |
-| Ultra Fiesta Mango |
-| Orange Dreamsicle  |
+| D - Average/Boring      |
+| ----------------------- |
+| Original                |
+| Original No Sugar       |
+| Lo-carb                 |
+| Ultra Blue              |
+| Ultra Gold              |
+| Khaotic                 |
+| Aussie Lemonade         |
+| Ultra Fiesta Mango      |
+| Orange Dreamsicle       |
+| Ultra Strawberry Dreams |
 
 | E - Bad        |
 | -------------- |
