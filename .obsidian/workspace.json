@@ -18,40 +18,15 @@
                 "viewState": {
                   "x": -380,
                   "y": -165,
-                  "zoom": -1.479609500574928
+                  "zoom": -1.2828428869139743
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "b12d1afc29f4dda0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. General/Lists/Wishlist.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Wishlist"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,8 +228,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b12d1afc29f4dda0",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "3. General/Lists/Wishlist.md",
     "1. Home Page/Home.canvas",
     "3. General/Ideas/Horror Games.md",
     "3. General/Ideas",
