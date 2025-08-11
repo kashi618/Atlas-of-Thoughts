@@ -80,32 +80,36 @@ The Imitation Game
 | The Platform 2                                             | **MUST WATCH**  |
 | WALL-E                                                     | **MUST WATCH**  |
 | Wonka                                                      | Good            |
-| 九品芝麻官  (Hail the Judge)                                    | Amazing         |
-| 功夫 (Kungfu Hustle)                                         | **MUST WATCH**  |
-| 回魂夜 (Out of the Dark)                                      | **MUST WATCH**  |
-| 少林足球 (Shaolin Soccer)                                      | Amazing         |
-| 抓娃娃 (Successor)                                            | Good            |
-| 流浪地球 (Wandering Earth)                                     | Amazing         |
-| ハウス (House)                                                | meh             |
+| 九品芝麻官  (Hail the Judge)                               | Amazing         |
+| 功夫 (Kungfu Hustle)                                       | **MUST WATCH**  |
+| 回魂夜 (Out of the Dark)                                   | **MUST WATCH**  |
+| 少林足球 (Shaolin Soccer)                                  | Amazing         |
+| 抓娃娃 (Successor)                                         | Good            |
+| 流浪地球 (Wandering Earth)                                 | Amazing         |
+| ハウス (House)                                             | meh             |
 | Final Destination Bloodlines                               | Amazing         |
-| 鉄男 (Tetsuo: The Iron Man)                                  | Good            |
+| 鉄男 (Tetsuo: The Iron Man)                                | Good            |
 | If Only                                                    | **MUST WATCH**  |
-| The Menu                                                   |                 |
+| The Menu                                                   | Amazing         |
 
 ---
 
 ### Planning
 - (**TV**) - Tom and Jerry (1940-1967)
 - (**TV**) - Rick and Morty Season 4-7
-- The last sentinel
-- The black list
-- The last man on earth
-- the prestige
+- The Last Sentinel
+- The Black List
+- The Last Man on Earth
+- The Prestige
 - Bad Taste
-- salo
-- last hosue on the left
-- i spit on your grave
-- 
+- salo/100 days of sodom
+- The Last House on the Left
+- I Spit on Your Grave (1978)
+- I Spit on Your Grave (2010)
+- I Spit on Your Grave 2
+- I Spit on Your Grave III: Vengeance Is Mine
+- I Spit on Your Grave: Deja Vu
+- Natural Born Killers
 
 #### Disney Movies
 - (**Movie**) - Beauty and the Beast
