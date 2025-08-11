@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -380,
                   "y": -165,
-                  "zoom": -1.2828428869139743
+                  "zoom": -0.230422485920707
                 }
               },
               "pinned": true,
@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "cd0de9efbf46c0eb",
+            "id": "b258312562862eb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. General/Lists/Wishlist.md",
+                "file": "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Wishlist"
+              "title": "TV Shows & Movies & Anime & Manga"
             }
           }
         ],
@@ -253,12 +253,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd0de9efbf46c0eb",
+  "active": "b258312562862eb4",
   "lastOpenFiles": [
+    "1. Home Page/Home.canvas",
+    "3. General/Lists/Wishlist.md",
     "3. General/Lists/Monster Can Flavours and Tierlist.md",
     "3. General/Lists/Philosophy to Learn.md",
-    "3. General/Lists/Wishlist.md",
-    "1. Home Page/Home.canvas",
     "3. General/Ideas/Horror Games.md",
     "3. General/Ideas",
     "3. General/Notes/Driving Theory Test.md",
@@ -285,7 +285,6 @@
     "2. University/Algorithms/Sorting Algorithms",
     "2. University/Algorithms/Bubblesort.md",
     "2. University/Algorithms",
-    "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/$ Algorithm Design.md",
     "3. General/Misc",
     "3. General/Philosophy",
     "3. General/Notes",

@@ -101,6 +101,11 @@ The Imitation Game
 - The black list
 - The last man on earth
 - the prestige
+- Bad Taste
+- salo
+- last hosue on the left
+- i spit on your grave
+- 
 
 #### Disney Movies
 - (**Movie**) - Beauty and the Beast
