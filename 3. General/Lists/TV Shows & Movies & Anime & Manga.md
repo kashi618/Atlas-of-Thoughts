@@ -112,6 +112,7 @@ The Imitation Game
 - Natural Born Killers
 - Inside
 - The Cook, the Thief, His Wife & Her Lover
+- The Purge
 
 #### Disney Movies
 - (**Movie**) - Beauty and the Beast
