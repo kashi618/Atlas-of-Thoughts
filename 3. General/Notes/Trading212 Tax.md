@@ -1,18 +1,23 @@
+## Interest
+### When to Pay DIRT
+**1st January -> 31st December*
+- Declare and pay before October 2026 **following year**
 
+## Stocks
 ### Tax Rates
 - 33% -> Stocks
 - 41% -> EFTs
 
-### When to Pay CGT (Paying the Tax Itself)
+### When to Pay CGT
 - **1270$ annual CGT exemption**
 - Irish Tax year (Jan 1 -> Dec 31)
 - Not required if profits are under 1270$
 
 **1st January -> 30th November**
-Must be payed before 15th December same year
+Must be payed before 15th December **same year**
 
 **1st December -> 31st December**
-Must be payed before 31st January following year
+Must be payed before 31st January **following year**
 
 #### How to Calculate Amount Taxable
 ```
