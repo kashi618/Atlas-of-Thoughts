@@ -17,7 +17,7 @@
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
                   "x": -380,
-                  "y": -295.92671594508977,
+                  "y": -165,
                   "zoom": -0.230422485920707
                 }
               },
@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "0c212d8c409d60ff",
+            "id": "a9b1df2b327d36ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. General/Notes/Trading212 Tax.md",
+                "file": "2. University/What to DO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Trading212 Tax"
+              "title": "What to DO"
             }
           }
         ],
@@ -253,18 +253,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0c212d8c409d60ff",
+  "active": "a9b1df2b327d36ce",
   "lastOpenFiles": [
-    "3. General/Ideas/Horror Games.md",
-    "1. Home Page/Home.canvas",
-    "7. UNSORTED/Untitled.md",
     "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
-    "3. General/Lists/Wishlist.md",
-    "3. General/Lists/Monster Can Flavours and Tierlist.md",
+    "2. University/What to DO.md",
     "3. General/Lists/Philosophy to Learn.md",
+    "3. General/Lists/Headphones & IEMs.md",
+    "3. General/Lists/Guitar Wishlist.md",
+    "3. General/Lists/Guitar Songs to Learn.md",
+    "3. General/Lists/Comp Sci to Learn.md",
+    "3. General/Lists/GameDev ToDo List.md",
+    "3. General/Lists/Monster Can Flavours and Tierlist.md",
+    "1. Home Page/Home.canvas",
+    "3. General/Notes/Trading212 Tax.md",
+    "3. General/Ideas/Horror Games.md",
+    "7. UNSORTED/Untitled.md",
+    "3. General/Lists/Wishlist.md",
     "3. General/Ideas",
     "3. General/Notes/Driving Theory Test.md",
-    "3. General/Notes/Trading212 Tax.md",
     "3. General/Notes/HACCAP.md",
     "3. General/Notes/How to use Obsidian.md",
     "3. General/Notes/Tossi Stuff.md",
@@ -277,11 +283,6 @@
     "3. General/Unsaved/Dublin City Group Activities.md",
     "README (copy 1).md",
     "6. Templates/Time Complexity Table.md",
-    "2. University/Algorithms/Sorting Algorithms/Selection Sort - O(n²).md",
-    "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n²).md",
-    "6. Templates/Algorithms.md",
-    "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n).md",
-    "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/aichat Output (Algorithms Project).md",
     "2. University/Algorithms/Searching Algorithms",
     "2. University/Algorithms/Sorting Algorithms",
     "2. University/Algorithms",

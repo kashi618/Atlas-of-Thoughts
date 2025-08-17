@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "What to DO",
+      "path": "2. University/What to DO.md"
+    },
+    {
+      "basename": "TV Shows & Movies & Anime & Manga",
+      "path": "3. General/Lists/TV Shows & Movies & Anime & Manga.md"
+    },
+    {
+      "basename": "Philosophy to Learn",
+      "path": "3. General/Lists/Philosophy to Learn.md"
+    },
+    {
+      "basename": "Headphones & IEMs",
+      "path": "3. General/Lists/Headphones & IEMs.md"
+    },
+    {
+      "basename": "Guitar Wishlist",
+      "path": "3. General/Lists/Guitar Wishlist.md"
+    },
+    {
+      "basename": "Guitar Songs to Learn",
+      "path": "3. General/Lists/Guitar Songs to Learn.md"
+    },
+    {
+      "basename": "Comp Sci to Learn",
+      "path": "3. General/Lists/Comp Sci to Learn.md"
+    },
+    {
+      "basename": "GameDev ToDo List",
+      "path": "3. General/Lists/GameDev ToDo List.md"
+    },
+    {
+      "basename": "Monster Can Flavours and Tierlist",
+      "path": "3. General/Lists/Monster Can Flavours and Tierlist.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Trading212 Tax",
       "path": "3. General/Notes/Trading212 Tax.md"
     },
@@ -9,32 +49,12 @@
       "path": "3. General/Ideas/Horror Games.md"
     },
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
-    },
-    {
-      "basename": "Guitar Songs to Learn",
-      "path": "3. General/Lists/Guitar Songs to Learn.md"
-    },
-    {
       "basename": "Untitled",
       "path": "7. UNSORTED/Untitled.md"
     },
     {
-      "basename": "TV Shows & Movies & Anime & Manga",
-      "path": "3. General/Lists/TV Shows & Movies & Anime & Manga.md"
-    },
-    {
       "basename": "Wishlist",
       "path": "3. General/Lists/Wishlist.md"
-    },
-    {
-      "basename": "Monster Can Flavours and Tierlist",
-      "path": "3. General/Lists/Monster Can Flavours and Tierlist.md"
-    },
-    {
-      "basename": "Philosophy to Learn",
-      "path": "3. General/Lists/Philosophy to Learn.md"
     },
     {
       "basename": "Driving Theory Test",
@@ -109,10 +129,6 @@
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/Selection Sort.md"
     },
     {
-      "basename": "Comp Sci to Learn",
-      "path": "3. General/Lists/Comp Sci to Learn.md"
-    },
-    {
       "basename": "!! Monolithic Systems",
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/!! Monolithic Systems.md"
     },
@@ -141,20 +157,8 @@
       "path": "2. University/TU856 Year 1/Results.md"
     },
     {
-      "basename": "GameDev ToDo List",
-      "path": "3. General/Lists/GameDev ToDo List.md"
-    },
-    {
-      "basename": "Guitar Wishlist",
-      "path": "3. General/Lists/Guitar Wishlist.md"
-    },
-    {
       "basename": "Library",
       "path": "3. General/Lists/Library.md"
-    },
-    {
-      "basename": "Headphones & IEMs",
-      "path": "3. General/Lists/Headphones & IEMs.md"
     },
     {
       "basename": "Diablo 2 - PD2 Sorceress",
@@ -195,10 +199,6 @@
     {
       "basename": "CMPU1019 - Microprocessor Systems",
       "path": "2. University/TU856 Year 1/Study Guide/CMPU1019 - Microprocessor Systems.md"
-    },
-    {
-      "basename": "CMPU 1001 - 2023.2024",
-      "path": "2. University/TU856 Year 1/Exam Papers/CMPU 1001 - 2023.2024.pdf"
     }
   ],
   "omittedPaths": [],
