@@ -40,57 +40,57 @@ The Imitation Game
 | Wednesday Season 1                       | Amazing         |
 | The Queen's Gambit                       |                 |
 
-| **Movies**                                                 | **MUST WATCH?** |
-| ---------------------------------------------------------- | --------------- |
-| Beetlejuice Beetlejuice                                    | Good            |
-| Dead Poets Society                                         | **MUST WATCH**  |
-| Dead Silence                                               | Good            |
-| Der Untergang (Downfall)                                   | **MUST WATCH**  |
-| Die Welle (The Wave)                                       | **MUST WATCH**  |
-| Elemental                                                  | Good            |
-| Home Alone                                                 | N/A             |
-| Home Alone 2: Lost in New York                             | N/A             |
-| I.S.S                                                      | Good            |
-| In Time                                                    | Good (bad)      |
-| Last Breath                                                | Good            |
-| Nezha                                                      | Good            |
-| Nezha 2                                                    | Good            |
-| Now You See Me                                             | Amazing         |
-| Oppenheimer                                                | **MUST WATCH**  |
-| Paddington in Peru                                         | Good            |
-| Pan's Labyrinth                                            | Amazing         |
-| Pirates of the Caribbean: At World's End                   | **MUST WATCH**  |
-| Pirates of the Caribbean: Curse of the Black Pearl         | **MUST WATCH**  |
-| Pirates of the Caribbean: Dead Man's Chest                 | **MUST WATCH**  |
-| Pirates of the Caribbean: Dead Men Tell No Tales           | Amazing         |
-| Pirates of the Caribbean: On Stranger Tides                | **MUST WATCH**  |
-| Ratatouille                                                | Amazing         |
-| Rush Hour                                                  | Amazing         |
-| Saw                                                        | **MUST WATCH**  |
-| Saw II                                                     | Amazing         |
-| Saw III                                                    | Good            |
-| Scream VI                                                  | Good            |
-| Shawshank Redemption                                       | Amazing         |
-| Sing Street                                                | Amazing         |
-| Talk To Me                                                 | Amazing         |
-| Tarot                                                      | Meh             |
-| The Legend of 1900                                         | **MUST WATCH**  |
-| The Lord of The Rings Extended: The Fellowship of the Ring | Amazing         |
-| The Platform                                               | **MUST WATCH**  |
-| The Platform 2                                             | **MUST WATCH**  |
-| WALL-E                                                     | **MUST WATCH**  |
-| Wonka                                                      | Good            |
-| 九品芝麻官  (Hail the Judge)                               | Amazing         |
-| 功夫 (Kungfu Hustle)                                       | **MUST WATCH**  |
-| 回魂夜 (Out of the Dark)                                   | **MUST WATCH**  |
-| 少林足球 (Shaolin Soccer)                                  | Amazing         |
-| 抓娃娃 (Successor)                                         | Good            |
-| 流浪地球 (Wandering Earth)                                 | Amazing         |
-| ハウス (House)                                             | meh             |
-| Final Destination Bloodlines                               | Amazing         |
-| 鉄男 (Tetsuo: The Iron Man)                                | Good            |
-| If Only                                                    | **MUST WATCH**  |
-| The Menu                                                   | Amazing         |
+| **Movies**                                                 | **Genre** | **MUST WATCH?** |
+| ---------------------------------------------------------- | --------- | --------------- |
+| Beetlejuice Beetlejuice                                    |           | Good            |
+| Dead Poets Society                                         |           | **MUST WATCH**  |
+| Dead Silence                                               |           | Good            |
+| Der Untergang (Downfall)                                   |           | **MUST WATCH**  |
+| Die Welle (The Wave)                                       |           | **MUST WATCH**  |
+| Elemental                                                  |           | Good            |
+| Home Alone                                                 |           | N/A             |
+| Home Alone 2: Lost in New York                             |           | N/A             |
+| I.S.S                                                      |           | Good            |
+| In Time                                                    |           | Good (bad)      |
+| Last Breath                                                |           | Good            |
+| Nezha                                                      |           | Good            |
+| Nezha 2                                                    |           | Good            |
+| Now You See Me                                             |           | Amazing         |
+| Oppenheimer                                                |           | **MUST WATCH**  |
+| Paddington in Peru                                         |           | Good            |
+| Pan's Labyrinth                                            |           | Amazing         |
+| Pirates of the Caribbean: At World's End                   |           | **MUST WATCH**  |
+| Pirates of the Caribbean: Curse of the Black Pearl         |           | **MUST WATCH**  |
+| Pirates of the Caribbean: Dead Man's Chest                 |           | **MUST WATCH**  |
+| Pirates of the Caribbean: Dead Men Tell No Tales           |           | Amazing         |
+| Pirates of the Caribbean: On Stranger Tides                |           | **MUST WATCH**  |
+| Ratatouille                                                |           | Amazing         |
+| Rush Hour                                                  |           | Amazing         |
+| Saw                                                        |           | **MUST WATCH**  |
+| Saw II                                                     |           | Amazing         |
+| Saw III                                                    |           | Good            |
+| Scream VI                                                  |           | Good            |
+| Shawshank Redemption                                       |           | Amazing         |
+| Sing Street                                                |           | Amazing         |
+| Talk To Me                                                 |           | Amazing         |
+| Tarot                                                      |           | Meh             |
+| The Legend of 1900                                         |           | **MUST WATCH**  |
+| The Lord of The Rings Extended: The Fellowship of the Ring |           | Amazing         |
+| The Platform                                               |           | **MUST WATCH**  |
+| The Platform 2                                             |           | **MUST WATCH**  |
+| WALL-E                                                     |           | **MUST WATCH**  |
+| Wonka                                                      |           | Good            |
+| 九品芝麻官  (Hail the Judge)                                    |           | Amazing         |
+| 功夫 (Kungfu Hustle)                                         |           | **MUST WATCH**  |
+| 回魂夜 (Out of the Dark)                                      |           | **MUST WATCH**  |
+| 少林足球 (Shaolin Soccer)                                      |           | Amazing         |
+| 抓娃娃 (Successor)                                            |           | Good            |
+| 流浪地球 (Wandering Earth)                                     |           | Amazing         |
+| ハウス (House)                                                |           | meh             |
+| Final Destination Bloodlines                               |           | Amazing         |
+| 鉄男 (Tetsuo: The Iron Man)                                  |           | Good            |
+| If Only                                                    |           | **MUST WATCH**  |
+| The Menu                                                   |           | Amazing         |
 
 ---
 
