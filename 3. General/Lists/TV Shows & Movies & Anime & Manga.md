@@ -104,15 +104,21 @@ The Imitation Game
 - Bad Taste
 - salo/100 days of sodom
 - The Last House on the Left
-- I Spit on Your Grave (1978)
-- I Spit on Your Grave (2010)
-- I Spit on Your Grave 2
-- I Spit on Your Grave III: Vengeance Is Mine
-- I Spit on Your Grave: Deja Vu
+- I Spit On Your Grave (series)
+	- I Spit on Your Grave (1978)
+	- I Spit on Your Grave (2010)
+	- I Spit on Your Grave 2
+	- I Spit on Your Grave III: Vengeance Is Mine
+	- I Spit on Your Grave: Deja Vu
 - Natural Born Killers
 - Inside
 - The Cook, the Thief, His Wife & Her Lover
-- The Purge
+- The Purge (series)
+	- The Purge (2013)
+	- The Purge: Anarchy (2014)
+	- The Purge: Election Year
+	- The First Purge
+	- The Forever Purge
 
 #### Disney Movies
 - (**Movie**) - Beauty and the Beast
