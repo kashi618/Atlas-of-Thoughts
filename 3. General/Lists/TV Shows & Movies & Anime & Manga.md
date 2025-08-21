@@ -92,6 +92,7 @@ The Imitation Game
 | If Only                                                    |           | **MUST WATCH**  |
 | The Menu                                                   |           | Amazing         |
 | The Purge                                                  |           | Good            |
+| The Purge: Anarchy                                         |           | Meh             |
 
 ---
 

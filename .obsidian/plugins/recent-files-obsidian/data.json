@@ -5,6 +5,18 @@
       "path": "3. General/Lists/TV Shows & Movies & Anime & Manga.md"
     },
     {
+      "basename": "Wishlist",
+      "path": "3. General/Lists/Wishlist.md"
+    },
+    {
+      "basename": "Headphones & IEMs",
+      "path": "3. General/Lists/Headphones & IEMs.md"
+    },
+    {
+      "basename": "GameDev ToDo List",
+      "path": "3. General/Lists/GameDev ToDo List.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -25,10 +37,6 @@
       "path": "3. General/Lists/Philosophy to Learn.md"
     },
     {
-      "basename": "Headphones & IEMs",
-      "path": "3. General/Lists/Headphones & IEMs.md"
-    },
-    {
       "basename": "Guitar Wishlist",
       "path": "3. General/Lists/Guitar Wishlist.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "Comp Sci to Learn",
       "path": "3. General/Lists/Comp Sci to Learn.md"
-    },
-    {
-      "basename": "GameDev ToDo List",
-      "path": "3. General/Lists/GameDev ToDo List.md"
     },
     {
       "basename": "Monster Can Flavours and Tierlist",
@@ -59,10 +63,6 @@
     {
       "basename": "Untitled",
       "path": "7. UNSORTED/Untitled.md"
-    },
-    {
-      "basename": "Wishlist",
-      "path": "3. General/Lists/Wishlist.md"
     },
     {
       "basename": "Driving Theory Test",
