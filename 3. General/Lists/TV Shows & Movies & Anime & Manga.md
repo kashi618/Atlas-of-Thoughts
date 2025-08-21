@@ -93,6 +93,7 @@ The Imitation Game
 | The Menu                                                   |           | Amazing         |
 | The Purge                                                  |           | Good            |
 | The Purge: Anarchy                                         |           | Meh             |
+| Triangle                                                   |           | **MUST WATCH**  |
 
 ---
 

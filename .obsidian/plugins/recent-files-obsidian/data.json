@@ -5,6 +5,10 @@
       "path": "3. General/Lists/TV Shows & Movies & Anime & Manga.md"
     },
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Wishlist",
       "path": "3. General/Lists/Wishlist.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "GameDev ToDo List",
       "path": "3. General/Lists/GameDev ToDo List.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Untitled 1",
