@@ -91,6 +91,7 @@ The Imitation Game
 | 鉄男 (Tetsuo: The Iron Man)                                  |           | Good            |
 | If Only                                                    |           | **MUST WATCH**  |
 | The Menu                                                   |           | Amazing         |
+| The Purge                                                  |           | Good            |
 
 ---
 
@@ -114,7 +115,7 @@ The Imitation Game
 - Inside
 - The Cook, the Thief, His Wife & Her Lover
 - The Purge (series)
-	- The Purge (2013)
+	- ~~The Purge (2013)~~
 	- The Purge: Anarchy (2014)
 	- The Purge: Election Year
 	- The First Purge

@@ -9,6 +9,14 @@
       "path": "1. Home Page/Home.canvas"
     },
     {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.base"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.base"
+    },
+    {
       "basename": "What to DO",
       "path": "2. University/What to DO.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "PD2 (s11) - Sorceress",
       "path": "3. General/Gaming/PD2 (s11) - Sorceress.md"
-    },
-    {
-      "basename": "PD2 (s11) - Mercenary",
-      "path": "3. General/Gaming/PD2 (s11) - Mercenary.md"
-    },
-    {
-      "basename": "CMPU1019 - Microprocessor Systems",
-      "path": "2. University/TU856 Year 1/Study Guide/CMPU1019 - Microprocessor Systems.md"
     }
   ],
   "omittedPaths": [],
