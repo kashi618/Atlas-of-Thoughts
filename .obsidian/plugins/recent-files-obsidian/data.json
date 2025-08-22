@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "TV Shows & Movies & Anime & Manga",
-      "path": "3. General/Lists/TV Shows & Movies & Anime & Manga.md"
+      "basename": "Rechargeable Battery Datasheet",
+      "path": "3. General/Misc/Rechargeable Battery Datasheet.md"
+    },
+    {
+      "basename": "Skyrim - The End",
+      "path": "3. General/Misc/Skyrim - The End.md"
+    },
+    {
+      "basename": "Socrates",
+      "path": "3. General/Misc/Socrates.md"
     },
     {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "TV Shows & Movies & Anime & Manga",
+      "path": "3. General/Lists/TV Shows & Movies & Anime & Manga.md"
     },
     {
       "basename": "Wishlist",
@@ -187,18 +199,6 @@
     {
       "basename": "Elden Ring Checklist",
       "path": "3. General/Gaming/Elden Ring Checklist.md"
-    },
-    {
-      "basename": "Archlinux - Installation",
-      "path": "3. General/Archlinux/Archlinux - Installation.md"
-    },
-    {
-      "basename": "Arch Linux - Installation",
-      "path": "3. Notes/Archlinux/Arch Linux - Installation.md"
-    },
-    {
-      "basename": "PD2 (s11) - Sorceress",
-      "path": "3. General/Gaming/PD2 (s11) - Sorceress.md"
     }
   ],
   "omittedPaths": [],
