@@ -18,15 +18,40 @@
                 "viewState": {
                   "x": -380,
                   "y": -165,
-                  "zoom": -3.5000736031346436
+                  "zoom": -1.479609500574928
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "3ae76b7afed10d12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. General/Notes/How to Get Irish Driver's License.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How to Get Irish Driver's License"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,12 +254,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3ae76b7afed10d12",
   "lastOpenFiles": [
+    "3. General/Notes/Driving Theory Test.md",
+    "3. General/Notes/How to Get Irish Driver's License.md",
+    "1. Home Page/Home.canvas",
     "3. General/Misc/Rechargeable Battery Datasheet.md",
     "3. General/Misc/Skyrim - The End.md",
     "3. General/Misc/Socrates.md",
-    "1. Home Page/Home.canvas",
     "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
     "3. General/Lists/Wishlist.md",
     "3. General/Lists/Headphones & IEMs.md",
@@ -252,7 +279,6 @@
     "3. General/Ideas/Horror Games.md",
     "7. UNSORTED/Untitled.md",
     "3. General/Ideas",
-    "3. General/Notes/Driving Theory Test.md",
     "3. General/Notes/HACCAP.md",
     "3. General/Notes/How to use Obsidian.md",
     "3. General/Notes/Tossi Stuff.md",
@@ -260,7 +286,6 @@
     "3. General/Archlinux/Archlinux - Adding Drives.md",
     "3. General/Archlinux/Archlinux - Network Manager - eduroam.md",
     "3. General/Archlinux/Archlinux - Helpful Commands.md",
-    "3. General/Important/Horror Game.md",
     "2. University/Algorithms/Searching Algorithms",
     "2. University/Algorithms/Sorting Algorithms",
     "2. University/Algorithms",
