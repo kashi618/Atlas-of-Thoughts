@@ -1,7 +1,0 @@
-views:
-  - type: table
-    name: Table
-  - type: cards
-    name: View
-    cardSize: 180
-    imageAspectRatio: 1

@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -380,
                   "y": -165,
-                  "zoom": -1.479609500574928
+                  "zoom": -0.578147679164845
                 }
               },
               "pinned": true,
@@ -27,27 +27,15 @@
             }
           },
           {
-            "id": "3ae76b7afed10d12",
+            "id": "5ce4e2f01ee0abed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "3. General/Notes/How to Get Irish Driver's License.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Excalidraw/Drawing 2025-09-01 17.59.15.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "How to Get Irish Driver's License"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-01 17.59.15.excalidraw"
             }
           }
         ],
@@ -124,7 +112,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -226,6 +215,20 @@
               "icon": "lucide-ghost",
               "title": "file-properties"
             }
+          },
+          {
+            "id": "58a584a21c41d4a0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
         "currentTab": 3
@@ -251,57 +254,59 @@
       "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "random-note:Open random note": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3ae76b7afed10d12",
+  "active": "5ce4e2f01ee0abed",
   "lastOpenFiles": [
-    "3. General/Notes/Driving Theory Test.md",
-    "3. General/Notes/How to Get Irish Driver's License.md",
+    "Excalidraw/Scripts/Downloaded/Invert colors.svg",
+    "Excalidraw/Scripts/Downloaded/Invert colors.md",
     "1. Home Page/Home.canvas",
+    "Excalidraw/Drawing 2025-09-01 17.59.15.excalidraw.md",
+    "2025-09-01-153453_hyprshot.png",
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
+    "Excalidraw/Scripts/Downloaded/Lighten background color.md",
+    "Excalidraw/Scripts/Downloaded/Lighten background color.svg",
+    "Excalidraw/Drawing 2025-09-01 17.59.15.excalidraw.restored.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "7. UNSORTED/Untitled.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2025-09-01 17.58.10.excalidraw.md",
+    "Pasted image 20250521210715.png",
+    "Pasted image 20250608150344.png",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2025-09-01 17.58.30.excalidraw.md",
+    "Excalidraw",
+    "2. University/TU856 Year 2/Modules/Semester 1/Mathematics 2/Untitled.md",
+    "3. General/Lists/Wishlist.md",
+    "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
+    "3. General/Lists/Philosophy to Learn.md",
+    "3. General/Lists/Monster Can Flavours and Tierlist.md",
+    "3. General/Lists/Library.md",
+    "3. General/Lists/Headphones & IEMs.md",
+    "3. General/Lists/Guitar Wishlist.md",
+    "3. General/Lists/Guitar Songs to Learn.md",
+    "3. General/Lists/GameDev ToDo List.md",
+    "3. General/Lists/Comp Sci to Learn.md",
+    "3. General/Lists",
+    "3. General/Notes/How to Get Irish Driver's License.md",
+    "3. General/Notes/Driving Theory Test.md",
     "3. General/Misc/Rechargeable Battery Datasheet.md",
     "3. General/Misc/Skyrim - The End.md",
     "3. General/Misc/Socrates.md",
-    "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
-    "3. General/Lists/Wishlist.md",
-    "3. General/Lists/Headphones & IEMs.md",
-    "3. General/Lists/GameDev ToDo List.md",
     "Untitled 1.base",
-    "Untitled 1.md",
     "Untitled.base",
-    "2. University/What to DO.md",
-    "3. General/Lists/Philosophy to Learn.md",
-    "3. General/Lists/Guitar Wishlist.md",
-    "3. General/Lists/Guitar Songs to Learn.md",
-    "3. General/Lists/Comp Sci to Learn.md",
-    "3. General/Lists/Monster Can Flavours and Tierlist.md",
-    "3. General/Notes/Trading212 Tax.md",
-    "3. General/Ideas/Horror Games.md",
-    "7. UNSORTED/Untitled.md",
     "3. General/Ideas",
-    "3. General/Notes/HACCAP.md",
-    "3. General/Notes/How to use Obsidian.md",
-    "3. General/Notes/Tossi Stuff.md",
-    "3. General/Archlinux/Archlinux - Rice.md",
-    "3. General/Archlinux/Archlinux - Adding Drives.md",
-    "3. General/Archlinux/Archlinux - Network Manager - eduroam.md",
-    "3. General/Archlinux/Archlinux - Helpful Commands.md",
     "2. University/Algorithms/Searching Algorithms",
     "2. University/Algorithms/Sorting Algorithms",
     "2. University/Algorithms",
-    "3. General/Misc",
-    "3. General/Philosophy",
-    "3. General/Notes",
-    "3. General/Important",
-    "Pasted image 20250608150344.png",
-    "Pasted image 20250521210715.png",
     "Pasted image 20250428211308.png",
     "Pasted image 20250506182931.png",
     "7. Other/RTX4070 (mobile) Voltage Frequency Curve.png",
-    "7. Other/RTX4070 (mobile) Stock Kombustor.png",
-    "7. Other/RTX4070 (mobile) Stock HWINFO.png",
-    "7. Other/RTX4070 (mobile) Overclocked Undervolted Kombustor.png",
-    "7. Other/RTX4070 (mobile) Overclocked Undervolted HWINFO.png",
-    "7. Other/Ram Allocation.png"
+    "7. Other/RTX4070 (mobile) Stock Kombustor.png"
   ]
 }
