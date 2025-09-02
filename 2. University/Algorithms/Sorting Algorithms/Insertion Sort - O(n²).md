@@ -7,27 +7,25 @@
 - Worst case scenario, array is in reverse order
 
 ## Steps
-1. Compare every element, to find the smallest digit.
-2. Swap first element with the smallest digit.
-3. Repeat, but swap with the second element etc.
+1. Assume first element is sorted, starting with the second element (the key)
+2. Compare the key to each element to its left, swapping them if they are bigger.
+3. Now, let the key be the third element, etc.
 
 ### Pseudocode
-```python
+```pyton showlinenumbers
 A[] = unsorted array
 N = length of array
 
-for (i=0 to N-1)
-	min = i
+for (i=1 to N-1)
+	key =  A[i]
+	j = i-1
 	
-	# Find smallest digit
-	for (j=i+1 to N-1)
-		if A[j] < A[min]
-			min = j
-	END FOR
+	# Swap elements bigger than the key
+	while (j>=0 AND A[j]>key)
+		A[j+1] = A[j]
+		j = j-1
+	END WHILE
 	
-	# Swap A[i] and A[min]
-	temp = A[i]
-	A[i] = A[min]
-	A[min] = temp
+	N[j] = key
 END FOR
 ```

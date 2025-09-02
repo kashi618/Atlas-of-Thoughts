@@ -27,37 +27,13 @@
             }
           },
           {
-            "id": "1088c39328f2ba00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n²).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Bubblesort - O(n²)"
-            }
-          },
-          {
             "id": "a515a043e9d19eda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Algorithms/Sorting Algorithms/Selection Sort - O(n²).md",
-                "mode": "source",
+                "file": "2. University/Algorithms/Sorting Algorithms/Insertion Sort - O(n²).md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -71,11 +47,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Selection Sort - O(n²)"
+              "title": "Insertion Sort - O(n²)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -294,9 +270,10 @@
   },
   "active": "a515a043e9d19eda",
   "lastOpenFiles": [
-    "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n²).md",
-    "2. University/Algorithms/Sorting Algorithms/Selection Sort - O(n²).md",
+    "2. University/TU856 Year 1/Modules/Programming/Functions - C.md",
     "2. University/Algorithms/Sorting Algorithms/Insertion Sort - O(n²).md",
+    "2. University/Algorithms/Sorting Algorithms/Selection Sort - O(n²).md",
+    "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n²).md",
     "2. University/PDF's/(CMPU 1001) Algorithm Design and Problem Solving/Class 1 - Introduction.pdf",
     "2. University/PDF's",
     "3. General/Lists/Guitar Wishlist.md",
@@ -336,7 +313,6 @@
     "Ink/Writing",
     "Excalidraw/Drawing 2025-09-01 17.59.15.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Invert colors.svg",
-    "Excalidraw/Scripts/Downloaded/Invert colors.md",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
     "Excalidraw/Scripts/Downloaded/Lighten background color.svg",
     "Pasted image 20250521210715.png",

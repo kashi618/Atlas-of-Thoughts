@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Insertion Sort - O(n²)",
+      "path": "2. University/Algorithms/Sorting Algorithms/Insertion Sort - O(n²).md"
+    },
+    {
+      "basename": "Functions - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Functions - C.md"
+    },
+    {
       "basename": "Selection Sort - O(n²)",
       "path": "2. University/Algorithms/Sorting Algorithms/Selection Sort - O(n²).md"
     },
     {
       "basename": "Bubblesort - O(n²)",
       "path": "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n²).md"
-    },
-    {
-      "basename": "Insertion Sort - O(n²)",
-      "path": "2. University/Algorithms/Sorting Algorithms/Insertion Sort - O(n²).md"
     },
     {
       "basename": "Class 1 - Introduction",
@@ -195,10 +199,6 @@
     {
       "basename": "README (copy 1)",
       "path": "README (copy 1).md"
-    },
-    {
-      "basename": "Time Complexity Table",
-      "path": "6. Templates/Time Complexity Table.md"
     }
   ],
   "omittedPaths": [],

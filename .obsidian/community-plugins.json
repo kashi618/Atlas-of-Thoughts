@@ -22,5 +22,6 @@
   "table-editor-obsidian",
   "obsidian-go-to-line",
   "obsidian-sort-and-permute-lines",
-  "ink"
+  "ink",
+  "unicode-search"
 ]
