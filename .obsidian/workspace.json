@@ -27,27 +27,16 @@
             }
           },
           {
-            "id": "ca05500ea26177c1",
+            "id": "3e515c23d8615828",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Untitled.base",
+                "viewName": "View"
               },
-              "icon": "lucide-file",
-              "title": "TV Shows & Movies & Anime & Manga"
+              "icon": "lucide-layout-grid",
+              "title": "Untitled"
             }
           }
         ],
@@ -124,7 +113,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -268,9 +258,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca05500ea26177c1",
+  "active": "3e515c23d8615828",
   "lastOpenFiles": [
+    "Library/Yevgeny Zamyatin - We.md",
+    "Untitled.base",
+    "CODE_OF_CONDUCT.md",
+    "2025-09-01-153453_hyprshot.png",
+    "README.md",
     "1. Home Page/Home.canvas",
+    "Library/Agustina Bazterrica - Tender Is the Flesh.md",
+    "Library/George R. R. Martin - A Clash of Kings.md",
+    "Books.base",
+    "3. General/Lists/Books 1.md",
+    "3. General/Lists/Books.md",
+    "3. General/Lists/Library.md",
+    "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
     "Ink/Drawing/2025.9.1 - 18.29pm.drawing",
     "2. University/TU856 Year 2/Modules/Semester 1/Mathematics 2/Untitled.md",
     "Ink/Drawing",
@@ -281,7 +283,6 @@
     "Excalidraw/Drawing 2025-09-01 17.59.15.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Invert colors.svg",
     "Excalidraw/Scripts/Downloaded/Invert colors.md",
-    "2025-09-01-153453_hyprshot.png",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
     "Excalidraw/Scripts/Downloaded/Lighten background color.md",
@@ -296,23 +297,13 @@
     "Pasted image 20250608150344.png",
     "Untitled.canvas",
     "Excalidraw/Drawing 2025-09-01 17.58.30.excalidraw.md",
-    "Excalidraw",
     "3. General/Lists/Wishlist.md",
-    "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
     "3. General/Lists/Philosophy to Learn.md",
     "3. General/Lists/Monster Can Flavours and Tierlist.md",
-    "3. General/Lists/Library.md",
     "3. General/Lists/Headphones & IEMs.md",
     "3. General/Lists/Guitar Wishlist.md",
     "3. General/Lists/Guitar Songs to Learn.md",
     "3. General/Lists/GameDev ToDo List.md",
-    "3. General/Lists/Comp Sci to Learn.md",
-    "3. General/Lists",
-    "3. General/Notes/How to Get Irish Driver's License.md",
-    "3. General/Notes/Driving Theory Test.md",
-    "3. General/Misc/Rechargeable Battery Datasheet.md",
-    "3. General/Misc/Skyrim - The End.md",
-    "3. General/Misc/Socrates.md",
     "Pasted image 20250428211308.png",
     "Pasted image 20250506182931.png",
     "7. Other/RTX4070 (mobile) Voltage Frequency Curve.png",

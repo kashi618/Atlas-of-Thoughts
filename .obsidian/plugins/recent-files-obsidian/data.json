@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "TV Shows & Movies & Anime & Manga",
-      "path": "3. General/Lists/TV Shows & Movies & Anime & Manga.md"
+      "basename": "Untitled",
+      "path": "Untitled.base"
+    },
+    {
+      "basename": "Yevgeny Zamyatin - We",
+      "path": "Library/Yevgeny Zamyatin - We.md"
+    },
+    {
+      "basename": "CODE_OF_CONDUCT",
+      "path": "CODE_OF_CONDUCT.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Agustina Bazterrica - Tender Is the Flesh",
+      "path": "Library/Agustina Bazterrica - Tender Is the Flesh.md"
+    },
+    {
+      "basename": "George R. R. Martin - A Clash of Kings",
+      "path": "Library/George R. R. Martin - A Clash of Kings.md"
+    },
+    {
+      "basename": "Books 1",
+      "path": "3. General/Lists/Books 1.md"
+    },
+    {
+      "basename": "Books",
+      "path": "3. General/Lists/Books.md"
+    },
+    {
+      "basename": "Wishlist",
+      "path": "3. General/Lists/Wishlist.md"
+    },
+    {
+      "basename": "Library",
+      "path": "3. General/Lists/Library.md"
+    },
+    {
+      "basename": "TV Shows & Movies & Anime & Manga",
+      "path": "3. General/Lists/TV Shows & Movies & Anime & Manga.md"
     },
     {
       "basename": "2025.9.1 - 18.28pm",
@@ -39,10 +79,6 @@
     {
       "basename": "Socrates",
       "path": "3. General/Misc/Socrates.md"
-    },
-    {
-      "basename": "Wishlist",
-      "path": "3. General/Lists/Wishlist.md"
     },
     {
       "basename": "Headphones & IEMs",
@@ -163,26 +199,6 @@
     {
       "basename": "BIOS",
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/BIOS.md"
-    },
-    {
-      "basename": "POST",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/POST.md"
-    },
-    {
-      "basename": "Bootloader",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Bootloader.md"
-    },
-    {
-      "basename": "ChmodPermissions - Linux",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/ChmodPermissions - Linux.md"
-    },
-    {
-      "basename": "Results",
-      "path": "2. University/TU856 Year 1/Results.md"
-    },
-    {
-      "basename": "Library",
-      "path": "3. General/Lists/Library.md"
     }
   ],
   "omittedPaths": [],

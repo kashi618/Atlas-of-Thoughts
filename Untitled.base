@@ -1,0 +1,13 @@
+properties:
+  note.LibraryAuthor:
+    displayName: Author
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - "!LibraryTitle.isEmpty()"
+    order:
+      - LibraryTitle
+      - LibraryAuthor
+    cardSize: 200
