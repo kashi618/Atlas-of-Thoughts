@@ -38,10 +38,10 @@ When the PC is restarted
 	- Turns on the computer, and electricity is supplied to different components
 	- If a warm boot is performed, then computer does not need to wait for this, as electricity has already been supplied
 2. **Rom and BIOS Chips Read**
-	- The processor reads the base address of the [[ROM]] and [[BIOS]] chips, which contain the start-up instructions
+	- The processor reads the base address of the [[ROM]] and [[2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Unsorted Notes/BIOS]] chips, which contain the start-up instructions
 3. **BIOS Tests**
 	- The BIOS then performs a series of tests, checking if the computer hardware is connected and operating correctly
-		- [[POST]] is used
+		- [[2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Unsorted Notes/POST]] is used
 		- Buses, clocks, adaptor cards, RAM, mouse, keyboards, drives, external media, networks, are also checked
 4. **POST Results Compared to Data in CMOS**
 	- Any differences between them show that either:
@@ -49,14 +49,14 @@ When the PC is restarted
 		- A problem exists that will prevent the computer from booting (missing CPU, etc)
 	- These problems will then be reported by beeps, on-screen error messages, and a failure to boot
 5. **Operating System is Loaded**
-	- [[POST]] ends, determining that all components are functioning properly. If [[POST]] completes without error, the computer is functioning properly
+	- [[2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Unsorted Notes/POST]] ends, determining that all components are functioning properly. If [[2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Unsorted Notes/POST]] completes without error, the computer is functioning properly
 	- The BIOS looks for an operating system to load
 		- Usually on C:/
 		- Or other media such as USB, CD, DVD, Network
 6. **System Files Loaded into Main Memory, Kernel is Loaded**
 	- The kernel is loaded
 	- The kernel will always remain in memory whilst the computer is powered on
-	- In older DOS pcs, the [[BIOS]] is also copied into memory, however, modern operating systems no longer uses the [[BIOS]] for I/O access
+	- In older DOS pcs, the [[2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Unsorted Notes/BIOS]] is also copied into memory, however, modern operating systems no longer uses the [[2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Unsorted Notes/BIOS]] for I/O access
 7. **Operating System Configuration Information Loaded**
 	- On windows, this data is stored in the registry
 	- It consists of both computer settings an user settings

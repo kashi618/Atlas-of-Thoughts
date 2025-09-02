@@ -25,21 +25,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "5ce4e2f01ee0abed",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-09-01 17.59.15.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-01 17.59.15.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,12 +246,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5ce4e2f01ee0abed",
+  "active": "6067b0fd6fbf0ef1",
   "lastOpenFiles": [
+    "1. Home Page/Home.canvas",
+    "Ink/Drawing/2025.9.1 - 18.29pm.drawing",
+    "2. University/TU856 Year 2/Modules/Semester 1/Mathematics 2/Untitled.md",
+    "Ink/Drawing",
+    "Ink/Writing/2025.9.1 - 18.28pm.writing",
+    "Ink/Writing",
+    "Ink",
+    "Ink/Drawing/2025.9.1 - 18.26pm.drawing",
+    "Excalidraw/Drawing 2025-09-01 17.59.15.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Invert colors.svg",
     "Excalidraw/Scripts/Downloaded/Invert colors.md",
-    "1. Home Page/Home.canvas",
-    "Excalidraw/Drawing 2025-09-01 17.59.15.excalidraw.md",
     "2025-09-01-153453_hyprshot.png",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
@@ -281,7 +275,6 @@
     "Untitled.canvas",
     "Excalidraw/Drawing 2025-09-01 17.58.30.excalidraw.md",
     "Excalidraw",
-    "2. University/TU856 Year 2/Modules/Semester 1/Mathematics 2/Untitled.md",
     "3. General/Lists/Wishlist.md",
     "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
     "3. General/Lists/Philosophy to Learn.md",
@@ -298,12 +291,6 @@
     "3. General/Misc/Rechargeable Battery Datasheet.md",
     "3. General/Misc/Skyrim - The End.md",
     "3. General/Misc/Socrates.md",
-    "Untitled 1.base",
-    "Untitled.base",
-    "3. General/Ideas",
-    "2. University/Algorithms/Searching Algorithms",
-    "2. University/Algorithms/Sorting Algorithms",
-    "2. University/Algorithms",
     "Pasted image 20250428211308.png",
     "Pasted image 20250506182931.png",
     "7. Other/RTX4070 (mobile) Voltage Frequency Curve.png",

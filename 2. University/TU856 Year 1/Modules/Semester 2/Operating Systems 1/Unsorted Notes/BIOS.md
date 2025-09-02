@@ -15,5 +15,5 @@ CPU cannot get this initial instruction from the OS
 - So the BIOS provides these initial instructions
 
 # See Also
-[[Boot Process]]
+[[2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Unsorted Notes/Boot Process]]
 [[EFI - UEFI]]
