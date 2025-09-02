@@ -3,7 +3,7 @@
 | Ω(n)- Best | Θ(n²) - Average | O(n²) - Worst |
 | ---------- | --------------- | ------------- |
 | O(n²)      | O(n²)           | O(n²)         |
-- Selection sort performs the same nO of comparisons every time
+- Selection sort performs the same № of comparisons every time
 
 ## Steps
 1. Checks first and second element, swapping if needed.
@@ -11,7 +11,7 @@
 3. This is repeated until the array is sorted. (every element is checked).
 
 ### Pseudocode
-```python
+```python showlinenumbers
 A[] = unsorted array
 N = length of array
 

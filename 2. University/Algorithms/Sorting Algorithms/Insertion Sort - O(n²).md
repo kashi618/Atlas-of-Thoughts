@@ -12,7 +12,7 @@
 3. Now, let the key be the third element, etc.
 
 ### Pseudocode
-```pyton showlinenumbers
+```python showlinenumbers
 A[] = unsorted array
 N = length of array
 
@@ -26,6 +26,7 @@ for (i=1 to N-1)
 		j = j-1
 	END WHILE
 	
-	N[j] = key
+	# Set key to next element
+	A[j+1] = key
 END FOR
 ```

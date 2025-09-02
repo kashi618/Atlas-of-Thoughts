@@ -12,7 +12,7 @@
 3. This is repeated until the array is sorted. (every element is checked).
 
 ### Pseudocode
-```python
+```python showlinenumbers
 A[] = unsorted array
 N = length of array
 

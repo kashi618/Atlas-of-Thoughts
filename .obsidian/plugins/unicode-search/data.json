@@ -78956,7 +78956,14 @@
   "usage": {
     "initialized": true,
     "version": "0.7.0",
-    "codepoints": []
+    "codepoints": [
+      {
+        "firstUsed": "2025-09-02T22:30:28.553Z",
+        "lastUsed": "2025-09-02T22:30:28.553Z",
+        "useCount": 1,
+        "codepoint": "№"
+      }
+    ]
   },
   "favorites": {
     "initialized": true,

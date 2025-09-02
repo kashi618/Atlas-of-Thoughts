@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Insertion Sort - O(n²)",
-      "path": "2. University/Algorithms/Sorting Algorithms/Insertion Sort - O(n²).md"
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
     },
     {
-      "basename": "Functions - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Functions - C.md"
+      "basename": "Mergesort - O(n log n)",
+      "path": "2. University/Algorithms/Sorting Algorithms/Mergesort - O(n log n).md"
     },
     {
       "basename": "Selection Sort - O(n²)",
       "path": "2. University/Algorithms/Sorting Algorithms/Selection Sort - O(n²).md"
     },
     {
+      "basename": "Insertion Sort - O(n²)",
+      "path": "2. University/Algorithms/Sorting Algorithms/Insertion Sort - O(n²).md"
+    },
+    {
       "basename": "Bubblesort - O(n²)",
       "path": "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n²).md"
+    },
+    {
+      "basename": "Functions - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Functions - C.md"
     },
     {
       "basename": "Class 1 - Introduction",
@@ -43,10 +51,6 @@
     {
       "basename": "Headphones & IEMs",
       "path": "3. General/Lists/Headphones & IEMs.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Library",
@@ -195,10 +199,6 @@
     {
       "basename": "Dublin City Group Activities",
       "path": "3. General/Unsaved/Dublin City Group Activities.md"
-    },
-    {
-      "basename": "README (copy 1)",
-      "path": "README (copy 1).md"
     }
   ],
   "omittedPaths": [],
