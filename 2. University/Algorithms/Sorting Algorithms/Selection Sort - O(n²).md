@@ -2,9 +2,8 @@
 
 | Ω(n)- Best | Θ(n²) - Average | O(n²) - Worst |
 | ---------- | --------------- | ------------- |
-| O(n)       | O(n²)           | O(n)          |
-- Best case scenario, array is already sorted
-- Worst case scenario, array is in reverse order
+| O(n²)      | O(n²)           | O(n²)         |
+- Selection sort performs the same nO of comparisons every time
 
 ## Steps
 1. Checks first and second element, swapping if needed.

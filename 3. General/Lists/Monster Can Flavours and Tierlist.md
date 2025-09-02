@@ -30,6 +30,7 @@
 | Ultra Paradise   |
 | Mango Loco       |
 
+
 | D - Average/Boring      |
 | ----------------------- |
 | Original                |
