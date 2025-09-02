@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Untitled.base"
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "obamna",
+      "path": "8. Other/obamna.gif"
+    },
+    {
+      "basename": "explosion",
+      "path": "8. Other/explosion.gif"
+    },
+    {
+      "basename": "Nietzsche",
+      "path": "8. Other/Nietzsche.gif"
+    },
+    {
+      "basename": "Library",
+      "path": "3. General/Lists/Library.base"
+    },
+    {
+      "basename": "Descartes",
+      "path": "8. Other/Descartes.gif"
+    },
+    {
+      "basename": "9. Bases",
+      "path": "9. Bases.md"
+    },
+    {
+      "basename": "Library Template",
+      "path": "6. Templates/Library Template.md"
+    },
+    {
+      "basename": "Shelley Parker-Chan - She Who Became the Sun",
+      "path": "Library/Shelley Parker-Chan - She Who Became the Sun.md"
+    },
+    {
+      "basename": "Otsuichi - ZOO",
+      "path": "Library/Otsuichi - ZOO.md"
+    },
+    {
+      "basename": "Wishlist",
+      "path": "3. General/Lists/Wishlist.md"
+    },
+    {
+      "basename": "Guitar Songs to Learn",
+      "path": "3. General/Lists/Guitar Songs to Learn.md"
     },
     {
       "basename": "Yevgeny Zamyatin - We",
@@ -15,10 +59,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Agustina Bazterrica - Tender Is the Flesh",
@@ -35,10 +75,6 @@
     {
       "basename": "Books",
       "path": "3. General/Lists/Books.md"
-    },
-    {
-      "basename": "Wishlist",
-      "path": "3. General/Lists/Wishlist.md"
     },
     {
       "basename": "Library",
@@ -99,10 +135,6 @@
     {
       "basename": "Guitar Wishlist",
       "path": "3. General/Lists/Guitar Wishlist.md"
-    },
-    {
-      "basename": "Guitar Songs to Learn",
-      "path": "3. General/Lists/Guitar Songs to Learn.md"
     },
     {
       "basename": "Comp Sci to Learn",
@@ -167,38 +199,6 @@
     {
       "basename": "Time Complexity Table",
       "path": "6. Templates/Time Complexity Table.md"
-    },
-    {
-      "basename": "Bubblesort - O(n²)",
-      "path": "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n²).md"
-    },
-    {
-      "basename": "Algorithms",
-      "path": "6. Templates/Algorithms.md"
-    },
-    {
-      "basename": "aichat Output (Algorithms Project)",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/aichat Output (Algorithms Project).md"
-    },
-    {
-      "basename": "$ Algorithm Design",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/$ Algorithm Design.md"
-    },
-    {
-      "basename": "Selection Sort",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/Selection Sort.md"
-    },
-    {
-      "basename": "!! Monolithic Systems",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/!! Monolithic Systems.md"
-    },
-    {
-      "basename": "Boot Process",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/Boot Process.md"
-    },
-    {
-      "basename": "BIOS",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/BIOS.md"
     }
   ],
   "omittedPaths": [],

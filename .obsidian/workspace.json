@@ -17,30 +17,16 @@
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
                   "x": -380,
-                  "y": -165,
-                  "zoom": -0.230422485920707
+                  "y": -495,
+                  "zoom": -0.09808054654175048
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "3e515c23d8615828",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled.base",
-                "viewName": "View"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "Untitled"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,8 +99,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -258,14 +243,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e515c23d8615828",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "1. Home Page/Home.canvas",
+    "8. Other/Nietzsche.gif",
+    "8. Other/obamna.gif",
+    "3. General/Lists/Library.base",
+    "8. Other/Descartes.gif",
+    "8. Other/explosion.gif",
+    "9. Bases",
+    "9. Bases.md",
+    "6. Templates/Library Template.md",
+    "Library/Shelley Parker-Chan - She Who Became the Sun.md",
+    "Library/Otsuichi - ZOO.md",
+    "8. Other",
     "Library/Yevgeny Zamyatin - We.md",
-    "Untitled.base",
     "CODE_OF_CONDUCT.md",
     "2025-09-01-153453_hyprshot.png",
     "README.md",
-    "1. Home Page/Home.canvas",
     "Library/Agustina Bazterrica - Tender Is the Flesh.md",
     "Library/George R. R. Martin - A Clash of Kings.md",
     "Books.base",
@@ -288,8 +283,6 @@
     "Excalidraw/Scripts/Downloaded/Lighten background color.md",
     "Excalidraw/Scripts/Downloaded/Lighten background color.svg",
     "Excalidraw/Drawing 2025-09-01 17.59.15.excalidraw.restored.md",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
     "7. UNSORTED/Untitled.md",
     "Untitled.md",
     "Excalidraw/Drawing 2025-09-01 17.58.10.excalidraw.md",
@@ -298,15 +291,6 @@
     "Untitled.canvas",
     "Excalidraw/Drawing 2025-09-01 17.58.30.excalidraw.md",
     "3. General/Lists/Wishlist.md",
-    "3. General/Lists/Philosophy to Learn.md",
-    "3. General/Lists/Monster Can Flavours and Tierlist.md",
-    "3. General/Lists/Headphones & IEMs.md",
-    "3. General/Lists/Guitar Wishlist.md",
-    "3. General/Lists/Guitar Songs to Learn.md",
-    "3. General/Lists/GameDev ToDo List.md",
-    "Pasted image 20250428211308.png",
-    "Pasted image 20250506182931.png",
-    "7. Other/RTX4070 (mobile) Voltage Frequency Curve.png",
-    "7. Other/RTX4070 (mobile) Stock Kombustor.png"
+    "3. General/Lists/Philosophy to Learn.md"
   ]
 }
