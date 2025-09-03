@@ -25,8 +25,22 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "0d35083cefa31af9",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,33 +87,31 @@
             }
           },
           {
-            "id": "e57c7b43cccdaf0c",
+            "id": "9bc98d8a64f45ad2",
             "type": "leaf",
             "state": {
-              "type": "search",
+              "type": "outline",
               "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "lucide-search",
-              "title": "Search"
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
-            "id": "64d960fdbb993af9",
+            "id": "afa409a84e75fce7",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "git-view",
               "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -114,27 +126,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9bc98d8a64f45ad2",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/chmod - Linux.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of chmod - Linux"
-            }
-          },
-          {
             "id": "e94b2b863e3dee09",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/chmod - Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for chmod - Linux"
+              "title": "Backlinks"
             }
           },
           {
@@ -186,8 +182,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-ghost",
-              "title": "all-properties"
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -195,11 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/chmod - Linux.md"
-              },
-              "icon": "lucide-ghost",
-              "title": "file-properties"
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
             }
           },
           {
@@ -215,14 +209,23 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "82fdbfd9a4bc84e6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,13 +245,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0d35083cefa31af9",
   "lastOpenFiles": [
+    "1. Home Page/Home.canvas",
     "2. University/Algorithms/Sorting Algorithms/Mergesort - O(n log n).md",
     "2. University/Algorithms/Sorting Algorithms/Selection Sort - O(n²).md",
     "2. University/Algorithms/Sorting Algorithms/Insertion Sort - O(n²).md",
     "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n²).md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 1/Modules/Programming/Functions - C.md",
     "2. University/PDF's/(CMPU 1001) Algorithm Design and Problem Solving/Class 1 - Introduction.pdf",
     "2. University/PDF's",
@@ -282,7 +285,6 @@
     "Books.base",
     "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
     "Ink/Drawing/2025.9.1 - 18.29pm.drawing",
-    "2. University/TU856 Year 2/Modules/Semester 1/Mathematics 2/Untitled.md",
     "Ink/Drawing",
     "Ink/Writing/2025.9.1 - 18.28pm.writing",
     "Ink/Writing",
