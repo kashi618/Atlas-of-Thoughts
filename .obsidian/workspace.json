@@ -16,9 +16,9 @@
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": -380,
-                  "y": -495,
-                  "zoom": -0.5695371738630545
+                  "x": -267.2813321647676,
+                  "y": -674.7791411042944,
+                  "zoom": -0.5128019079775655
                 }
               },
               "pinned": true,
@@ -123,7 +123,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks"
             }
           },
           {
@@ -257,8 +257,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6067b0fd6fbf0ef1",
   "lastOpenFiles": [
+    "Ink/Drawing/2025.9.3 - 15.54pm (2).drawing",
+    "Ink/Drawing/2025.9.3 - 15.54pm.drawing",
+    "Ink/Drawing",
+    "Ink",
+    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/Algorithms.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/$ Algorithm Design.md",
     "2. University/Algorithms/Searching Algorithms/Binary Search.md",
@@ -266,7 +271,6 @@
     "2. University/Algorithms/Sorting Algorithms/$N.A Mergesort - O(n log n).md",
     "2. University/Algorithms/Searching Algorithms",
     "2. University/Algorithms/Sorting Algorithms/Insertion Sort - O(n²).md",
-    "1. Home Page/Home.canvas",
     "2. University/Algorithms/Sorting Algorithms/Selection Sort - O(n²).md",
     "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n²).md",
     "2. University/TU856 Year 1/Modules/Programming/Functions - C.md",
@@ -296,11 +300,7 @@
     "Library/Yevgeny Zamyatin - We.md",
     "CODE_OF_CONDUCT.md",
     "2025-09-01-153453_hyprshot.png",
-    "README.md",
     "Books.base",
-    "Ink/Drawing/2025.9.1 - 18.29pm.drawing",
-    "Ink/Drawing",
-    "Ink/Writing/2025.9.1 - 18.28pm.writing",
     "Excalidraw/Scripts/Downloaded/Invert colors.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
     "Excalidraw/Scripts/Downloaded/Lighten background color.svg",

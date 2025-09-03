@@ -5,6 +5,10 @@
       "path": "1. Home Page/Home.canvas"
     },
     {
+      "basename": "9. Bases",
+      "path": "9. Bases.md"
+    },
+    {
       "basename": "Algorithms",
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/Algorithms.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "Descartes",
       "path": "8. Other/Descartes.gif"
-    },
-    {
-      "basename": "9. Bases",
-      "path": "9. Bases.md"
     },
     {
       "basename": "Library Template",
