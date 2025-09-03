@@ -5,16 +5,32 @@
       "path": "1. Home Page/Home.canvas"
     },
     {
-      "basename": "Mergesort - O(n log n)",
-      "path": "2. University/Algorithms/Sorting Algorithms/Mergesort - O(n log n).md"
+      "basename": "Algorithms",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/Algorithms.md"
     },
     {
-      "basename": "Selection Sort - O(n²)",
-      "path": "2. University/Algorithms/Sorting Algorithms/Selection Sort - O(n²).md"
+      "basename": "$ Algorithm Design",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/$ Algorithm Design.md"
+    },
+    {
+      "basename": "Binary Search",
+      "path": "2. University/Algorithms/Searching Algorithms/Binary Search.md"
+    },
+    {
+      "basename": "Linear Search",
+      "path": "2. University/Algorithms/Searching Algorithms/Linear Search.md"
+    },
+    {
+      "basename": "$N.A Mergesort - O(n log n)",
+      "path": "2. University/Algorithms/Sorting Algorithms/$N.A Mergesort - O(n log n).md"
     },
     {
       "basename": "Insertion Sort - O(n²)",
       "path": "2. University/Algorithms/Sorting Algorithms/Insertion Sort - O(n²).md"
+    },
+    {
+      "basename": "Selection Sort - O(n²)",
+      "path": "2. University/Algorithms/Sorting Algorithms/Selection Sort - O(n²).md"
     },
     {
       "basename": "Bubblesort - O(n²)",
@@ -183,22 +199,6 @@
     {
       "basename": "Archlinux - Network Manager - eduroam",
       "path": "3. General/Archlinux/Archlinux - Network Manager - eduroam.md"
-    },
-    {
-      "basename": "Archlinux - Helpful Commands",
-      "path": "3. General/Archlinux/Archlinux - Helpful Commands.md"
-    },
-    {
-      "basename": "asd",
-      "path": "3. General/Unsaved/asd.md"
-    },
-    {
-      "basename": "Trading212",
-      "path": "3. General/Notes/Trading212.md"
-    },
-    {
-      "basename": "Dublin City Group Activities",
-      "path": "3. General/Unsaved/Dublin City Group Activities.md"
     }
   ],
   "omittedPaths": [],

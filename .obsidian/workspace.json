@@ -18,29 +18,15 @@
                 "viewState": {
                   "x": -380,
                   "y": -495,
-                  "zoom": -0.09808054654175048
+                  "zoom": -0.5695371738630545
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "0d35083cefa31af9",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,9 +95,35 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "e00dbb561939fef6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0d6015d8661a143d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -220,8 +233,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -245,12 +257,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0d35083cefa31af9",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "1. Home Page/Home.canvas",
-    "2. University/Algorithms/Sorting Algorithms/Mergesort - O(n log n).md",
-    "2. University/Algorithms/Sorting Algorithms/Selection Sort - O(n²).md",
+    "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/Algorithms.md",
+    "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/$ Algorithm Design.md",
+    "2. University/Algorithms/Searching Algorithms/Binary Search.md",
+    "2. University/Algorithms/Searching Algorithms/Linear Search.md",
+    "2. University/Algorithms/Sorting Algorithms/$N.A Mergesort - O(n log n).md",
+    "2. University/Algorithms/Searching Algorithms",
     "2. University/Algorithms/Sorting Algorithms/Insertion Sort - O(n²).md",
+    "1. Home Page/Home.canvas",
+    "2. University/Algorithms/Sorting Algorithms/Selection Sort - O(n²).md",
     "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n²).md",
     "2. University/TU856 Year 1/Modules/Programming/Functions - C.md",
     "2. University/PDF's/(CMPU 1001) Algorithm Design and Problem Solving/Class 1 - Introduction.pdf",
@@ -280,14 +297,10 @@
     "CODE_OF_CONDUCT.md",
     "2025-09-01-153453_hyprshot.png",
     "README.md",
-    "Library/Agustina Bazterrica - Tender Is the Flesh.md",
-    "Library/George R. R. Martin - A Clash of Kings.md",
     "Books.base",
-    "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
     "Ink/Drawing/2025.9.1 - 18.29pm.drawing",
     "Ink/Drawing",
     "Ink/Writing/2025.9.1 - 18.28pm.writing",
-    "Ink/Writing",
     "Excalidraw/Scripts/Downloaded/Invert colors.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
     "Excalidraw/Scripts/Downloaded/Lighten background color.svg",
