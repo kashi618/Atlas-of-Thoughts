@@ -5,6 +5,14 @@
       "path": "1. Home Page/Home.canvas"
     },
     {
+      "basename": "2025.9.3 - 15.54pm (2)",
+      "path": "Ink/Drawing/2025.9.3 - 15.54pm (2).drawing"
+    },
+    {
+      "basename": "TV Shows & Movies & Anime & Manga",
+      "path": "3. General/Lists/TV Shows & Movies & Anime & Manga.md"
+    },
+    {
       "basename": "9. Bases",
       "path": "9. Bases.md"
     },
@@ -129,10 +137,6 @@
       "path": "Library/George R. R. Martin - A Clash of Kings.md"
     },
     {
-      "basename": "TV Shows & Movies & Anime & Manga",
-      "path": "3. General/Lists/TV Shows & Movies & Anime & Manga.md"
-    },
-    {
       "basename": "2025.9.1 - 18.28pm",
       "path": "Ink/Writing/2025.9.1 - 18.28pm.writing"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "Archlinux - Rice",
       "path": "3. General/Archlinux/Archlinux - Rice.md"
-    },
-    {
-      "basename": "Archlinux - Adding Drives",
-      "path": "3. General/Archlinux/Archlinux - Adding Drives.md"
-    },
-    {
-      "basename": "Archlinux - Network Manager - eduroam",
-      "path": "3. General/Archlinux/Archlinux - Network Manager - eduroam.md"
     }
   ],
   "omittedPaths": [],

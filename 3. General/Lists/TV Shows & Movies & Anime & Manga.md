@@ -95,6 +95,7 @@ The Imitation Game
 | The Purge: Anarchy                                         | Meh              |
 | Triangle                                                   | **MUST WATCH**   |
 | 1408                                                       | Good             |
+| Smosh: The Movie                                           | Meh              |
 
 ---
 

@@ -16,9 +16,9 @@
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": -267.2813321647676,
-                  "y": -674.7791411042944,
-                  "zoom": -0.5128019079775655
+                  "x": -380,
+                  "y": -495,
+                  "zoom": -3.11429613258861
                 }
               },
               "pinned": true,
@@ -123,8 +123,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -257,13 +256,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6067b0fd6fbf0ef1",
+  "active": "0625646695eea1fe",
   "lastOpenFiles": [
-    "Ink/Drawing/2025.9.3 - 15.54pm (2).drawing",
     "Ink/Drawing/2025.9.3 - 15.54pm.drawing",
+    "Ink/Drawing/2025.9.3 - 15.54pm (2).drawing",
+    "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
+    "1. Home Page/Home.canvas",
     "Ink/Drawing",
     "Ink",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/Algorithms.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/$ Algorithm Design.md",
     "2. University/Algorithms/Searching Algorithms/Binary Search.md",
@@ -298,9 +298,7 @@
     "Library/Otsuichi - ZOO.md",
     "8. Other",
     "Library/Yevgeny Zamyatin - We.md",
-    "CODE_OF_CONDUCT.md",
     "2025-09-01-153453_hyprshot.png",
-    "Books.base",
     "Excalidraw/Scripts/Downloaded/Invert colors.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
     "Excalidraw/Scripts/Downloaded/Lighten background color.svg",
