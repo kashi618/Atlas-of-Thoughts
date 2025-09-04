@@ -18,15 +18,40 @@
                 "viewState": {
                   "x": -380,
                   "y": -495,
-                  "zoom": -3.11429613258861
+                  "zoom": -0.5128019079775655
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "7784859a5566e545",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TV Shows & Movies & Anime & Manga"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +178,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for TV Shows & Movies & Anime & Manga"
             }
           },
           {
@@ -256,12 +282,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0625646695eea1fe",
+  "active": "7784859a5566e545",
   "lastOpenFiles": [
+    "1. Home Page/Home.canvas",
     "Ink/Drawing/2025.9.3 - 15.54pm.drawing",
     "Ink/Drawing/2025.9.3 - 15.54pm (2).drawing",
     "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
-    "1. Home Page/Home.canvas",
     "Ink/Drawing",
     "Ink",
     "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/Algorithms.md",
