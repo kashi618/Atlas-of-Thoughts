@@ -64,7 +64,7 @@ The Imitation Game
 | Pirates of the Caribbean: On Stranger Tides                | **MUST WATCH**  |                          |
 | Ratatouille                                                | Amazing         |                          |
 | Rush Hour                                                  | Amazing         |                          |
-| Saw                                                        | **MUST WATCH**  |                          |
+| Saw                                                        | **MUST WATCH**  | AMAZING                  |
 | Saw II                                                     | Amazing         |                          |
 | Saw III                                                    | Good            |                          |
 | Scream VI                                                  | Good            |                          |
