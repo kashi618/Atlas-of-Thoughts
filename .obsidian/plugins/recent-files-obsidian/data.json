@@ -5,6 +5,10 @@
       "path": "3. General/Lists/TV Shows & Movies & Anime & Manga.md"
     },
     {
+      "basename": "Wishlist",
+      "path": "3. General/Lists/Wishlist.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -111,10 +115,6 @@
     {
       "basename": "Otsuichi - ZOO",
       "path": "Library/Otsuichi - ZOO.md"
-    },
-    {
-      "basename": "Wishlist",
-      "path": "3. General/Lists/Wishlist.md"
     },
     {
       "basename": "Yevgeny Zamyatin - We",

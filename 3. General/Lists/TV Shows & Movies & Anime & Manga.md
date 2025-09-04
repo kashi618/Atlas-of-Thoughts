@@ -40,15 +40,19 @@ The Imitation Game
 
 | **Movies**                                                 | **MUST WATCH?** |                          |
 | ---------------------------------------------------------- | --------------- | ------------------------ |
+| 1408                                                       | Good            |                          |
 | Beetlejuice Beetlejuice                                    | Good            |                          |
 | Dead Poets Society                                         | **MUST WATCH**  |                          |
 | Dead Silence                                               | Good            |                          |
 | Der Untergang (Downfall)                                   | **MUST WATCH**  |                          |
 | Die Welle (The Wave)                                       | **MUST WATCH**  |                          |
 | Elemental                                                  | Good            |                          |
+| Fantastic Planet                                           | Good            |                          |
+| Final Destination Bloodlines                               | Amazing         |                          |
 | Home Alone                                                 | N/A             |                          |
 | Home Alone 2: Lost in New York                             | N/A             |                          |
 | I.S.S                                                      | Good            |                          |
+| If Only                                                    | **MUST WATCH**  |                          |
 | In Time                                                    | Good (bad)      |                          |
 | Last Breath                                                | Good            |                          |
 | Nezha                                                      | Good            |                          |
@@ -67,35 +71,33 @@ The Imitation Game
 | Saw                                                        | **MUST WATCH**  | AMAZING                  |
 | Saw II                                                     | Amazing         |                          |
 | Saw III                                                    | Good            |                          |
+| Saw IV                                                     | Good            | Dayum, those transitions |
+| Saw V                                                      | Good            |                          |
 | Scream VI                                                  | Good            |                          |
 | Shawshank Redemption                                       | Amazing         |                          |
 | Sing Street                                                | Amazing         |                          |
+| Smosh: The Movie                                           | Meh             |                          |
 | Talk To Me                                                 | Amazing         |                          |
 | Tarot                                                      | Meh             |                          |
 | The Legend of 1900                                         | **MUST WATCH**  |                          |
 | The Lord of The Rings Extended: The Fellowship of the Ring | Amazing         |                          |
+| The Menu                                                   | Amazing         |                          |
 | The Platform                                               | **MUST WATCH**  |                          |
 | The Platform 2                                             | **MUST WATCH**  |                          |
+| The Purge                                                  | Good            |                          |
+| The Purge: Anarchy                                         | Meh             |                          |
+| Triangle                                                   | **MUST WATCH**  | Beautiful Timeloop       |
 | WALL-E                                                     | **MUST WATCH**  |                          |
 | Wonka                                                      | Good            |                          |
+| ハウス (House)                                                | meh             |                          |
 | 九品芝麻官  (Hail the Judge)                                    | Amazing         |                          |
 | 功夫 (Kungfu Hustle)                                         | **MUST WATCH**  |                          |
 | 回魂夜 (Out of the Dark)                                      | **MUST WATCH**  |                          |
 | 少林足球 (Shaolin Soccer)                                      | Amazing         |                          |
 | 抓娃娃 (Successor)                                            | Good            |                          |
 | 流浪地球 (Wandering Earth)                                     | Amazing         |                          |
-| ハウス (House)                                                | meh             |                          |
-| Final Destination Bloodlines                               | Amazing         |                          |
 | 鉄男 (Tetsuo: The Iron Man)                                  | Good            |                          |
-| If Only                                                    | **MUST WATCH**  |                          |
-| The Menu                                                   | Amazing         |                          |
-| The Purge                                                  | Good            |                          |
-| The Purge: Anarchy                                         | Meh             |                          |
-| Triangle                                                   | **MUST WATCH**  | Beautiful Timeloop       |
-| 1408                                                       | Good            |                          |
-| Smosh: The Movie                                           | Meh             |                          |
-| Fantastic Planet                                           | Good            |                          |
-| Saw IV                                                     | Good            | Dayum, those transitions |
+| Pirates of the Caribbean: Tales of the Code: Wedlocked     | Meh             |                          |
 
 ---
 
