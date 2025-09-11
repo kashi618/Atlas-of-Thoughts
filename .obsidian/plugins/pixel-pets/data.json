@@ -1,0 +1,43 @@
+{
+  "selectedBackground": "backgrounds/summerbg-1.png",
+  "pets": [
+    {
+      "id": "pets/ghost-1",
+      "type": "pets/ghost",
+      "name": "Ghost"
+    },
+    {
+      "id": "pets/white-cat-2",
+      "type": "pets/white-cat",
+      "name": "Ban"
+    },
+    {
+      "id": "pets/pirate-v2-cat-1",
+      "type": "pets/pirate-v2-cat",
+      "name": "Jack Sparrow"
+    },
+    {
+      "id": "pets/classic-cat-1",
+      "type": "pets/classic-cat",
+      "name": "Miso"
+    },
+    {
+      "id": "pets/brown-cat-2",
+      "type": "pets/brown-cat",
+      "name": "Tossi"
+    }
+  ],
+  "nextPetIdCounters": {
+    "pets/batman-black-cat": 1,
+    "pets/classic-cat": 2,
+    "pets/xmas-cat": 1,
+    "pets/xmas-v2-cat": 1,
+    "pets/pirate-cat": 1,
+    "pets/pirate-v2-cat": 2,
+    "pets/pirate-v3-cat": 2,
+    "pets/siamese-cat": 1,
+    "pets/brown-cat": 3,
+    "pets/ghost": 3,
+    "pets/white-cat": 3
+  }
+}

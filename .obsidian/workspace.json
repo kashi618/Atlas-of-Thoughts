@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ee2f7535cdd1aa80",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "b18e7b848bfe43e7",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -17,41 +17,16 @@
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
                   "x": -380,
-                  "y": -375.5491124260355,
-                  "zoom": -0.09808054654175048
+                  "y": -495,
+                  "zoom": -0.07083248410464736
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "417093a59fbac806",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. General/Lists/Games to Play.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Games to Play"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,6 +80,49 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "5192a06ea903f06a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4c6de74741794469",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "da2bd887601fa8de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b6730fdd15c2507",
+            "type": "leaf",
+            "state": {
+              "type": "pet-view",
+              "state": {},
+              "icon": "cat",
+              "title": "Pet view"
             }
           }
         ]
@@ -194,6 +212,21 @@
               "icon": "lucide-info",
               "title": "File properties for Games to Play"
             }
+          },
+          {
+            "id": "dca8df408df1b276",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. General/Lists/Games to Play.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Games to Play"
+            }
           }
         ]
       }
@@ -217,10 +250,50 @@
       "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "417093a59fbac806",
+  "floating": {
+    "id": "591d6d2248641da7",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5fff662480bc8e9f",
+        "type": "window",
+        "children": [
+          {
+            "id": "e78c71f53bb93683",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "22407093569d9990",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://github.com/LucasHJin/obsidian-pets/tree/master/assets/backgrounds",
+                    "title": "obsidian-pets/assets/backgrounds at master · LucasHJin/obsidian-pets · GitHub",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "obsidian-pets/assets/backgrounds at master · LucasHJin/obsidian-pets · GitHub"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 989,
+        "y": 42,
+        "width": 919,
+        "height": 1026,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "1. Home Page/Home.canvas",
     "3. General/Lists/Games to Play.md",
