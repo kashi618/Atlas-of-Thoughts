@@ -17,7 +17,7 @@
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
                   "x": -380,
-                  "y": -495,
+                  "y": -375.5491124260355,
                   "zoom": -0.09808054654175048
                 }
               },
@@ -25,8 +25,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "417093a59fbac806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. General/Lists/Games to Play.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Games to Play"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,22 +93,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "recent-files"
-            }
-          },
-          {
-            "id": "9bc98d8a64f45ad2",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -92,53 +103,15 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
-            }
-          },
-          {
-            "id": "e00dbb561939fef6",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "0d6015d8661a143d",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "5df794c02318b379",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 346.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -154,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. General/Notes/Tossi Stuff.md",
+                "file": "3. General/Lists/Games to Play.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tossi Stuff"
+              "title": "Backlinks for Games to Play"
             }
           },
           {
@@ -215,40 +188,18 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
-              "icon": "lucide-info",
-              "title": "File properties"
-            }
-          },
-          {
-            "id": "58a584a21c41d4a0",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
               "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "3. General/Lists/Games to Play.md"
               },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "82fdbfd9a4bc84e6",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "lucide-info",
+              "title": "File properties for Games to Play"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
+    "width": 343.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -269,9 +220,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6067b0fd6fbf0ef1",
+  "active": "417093a59fbac806",
   "lastOpenFiles": [
     "1. Home Page/Home.canvas",
+    "3. General/Lists/Games to Play.md",
+    "3. General/Notes/Tossi Stuff.md",
     "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
     "3. General/Lists/Wishlist.md",
     "Ink/Drawing/2025.9.3 - 15.54pm.drawing",
@@ -308,8 +261,6 @@
     "9. Bases",
     "9. Bases.md",
     "6. Templates/Library Template.md",
-    "Library/Shelley Parker-Chan - She Who Became the Sun.md",
-    "Library/Otsuichi - ZOO.md",
     "8. Other",
     "2025-09-01-153453_hyprshot.png",
     "Excalidraw/Scripts/Downloaded/Invert colors.svg",
