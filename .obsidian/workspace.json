@@ -38,6 +38,7 @@
       {
         "id": "ff031eabd63b1eba",
         "type": "tabs",
+        "dimension": 74.59349593495935,
         "children": [
           {
             "id": "0625646695eea1fe",
@@ -112,11 +113,12 @@
         ]
       },
       {
-        "id": "da2bd887601fa8de",
+        "id": "385932fdfb5100c1",
         "type": "tabs",
+        "dimension": 25.406504065040654,
         "children": [
           {
-            "id": "7b6730fdd15c2507",
+            "id": "fc97879c1a7d139b",
             "type": "leaf",
             "state": {
               "type": "pet-view",
@@ -140,12 +142,27 @@
         "type": "tabs",
         "children": [
           {
+            "id": "dca8df408df1b276",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Home Page/Home.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Home"
+            }
+          },
+          {
             "id": "e94b2b863e3dee09",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. General/Lists/Games to Play.md",
+                "file": "1. Home Page/Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Games to Play"
+              "title": "Backlinks for Home"
             }
           },
           {
@@ -164,12 +181,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/chmod - Linux.md",
+                "file": "1. Home Page/Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from chmod - Linux"
+              "title": "Outgoing links from Home"
             }
           },
           {
@@ -207,33 +224,17 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "3. General/Lists/Games to Play.md"
+                "file": "1. Home Page/Home.canvas"
               },
               "icon": "lucide-info",
-              "title": "File properties for Games to Play"
-            }
-          },
-          {
-            "id": "dca8df408df1b276",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "3. General/Lists/Games to Play.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Games to Play"
+              "title": "File properties for Home"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 343.5,
-    "collapsed": true
+    "width": 343.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,47 +252,9 @@
       "obsidian-git:Open Git source control": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "pixel-pets:Toggle pet view": false
+      "pixel-pets:Toggle pet view": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
-  },
-  "floating": {
-    "id": "591d6d2248641da7",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5fff662480bc8e9f",
-        "type": "window",
-        "children": [
-          {
-            "id": "e78c71f53bb93683",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "22407093569d9990",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://github.com/LucasHJin/obsidian-pets/tree/master/assets/backgrounds",
-                    "title": "obsidian-pets/assets/backgrounds at master · LucasHJin/obsidian-pets · GitHub",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "obsidian-pets/assets/backgrounds at master · LucasHJin/obsidian-pets · GitHub"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 989,
-        "y": 42,
-        "width": 919,
-        "height": 1026,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
