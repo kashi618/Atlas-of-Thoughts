@@ -15,6 +15,11 @@
 - Wuchang: Fallen Feathers
 - Clair Obscur: Expedition 33
 - Baldurs Gate 3
+- Hades
+- Hades 2
+- Half-Life
+- Half-Life 2
+- Half-Life Alyx
 
 
 ### PS4

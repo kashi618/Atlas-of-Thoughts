@@ -18,15 +18,40 @@
                 "viewState": {
                   "x": -380,
                   "y": -495,
-                  "zoom": -0.07083248410464736
+                  "zoom": -1.0652586392800554
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "34e03f2905c4ad75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. General/Lists/Games to Play.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Games to Play"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,23 +109,6 @@
             }
           },
           {
-            "id": "5192a06ea903f06a",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
             "id": "4c6de74741794469",
             "type": "leaf",
             "state": {
@@ -147,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Home Page/Home.canvas",
+                "file": "3. General/Lists/Games to Play.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Games to Play"
             }
           },
           {
@@ -252,12 +260,13 @@
       "obsidian-git:Open Git source control": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "pixel-pets:Toggle pet view": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "34e03f2905c4ad75",
   "lastOpenFiles": [
+    "3. General/Lists/Guitar Wishlist.md",
+    "3. General/Gaming/Elden Ring Quest Guide.md",
     "1. Home Page/Home.canvas",
     "3. General/Lists/Games to Play.md",
     "3. General/Notes/Tossi Stuff.md",
@@ -279,7 +288,6 @@
     "2. University/TU856 Year 1/Modules/Programming/Functions - C.md",
     "2. University/PDF's/(CMPU 1001) Algorithm Design and Problem Solving/Class 1 - Introduction.pdf",
     "2. University/PDF's",
-    "3. General/Lists/Guitar Wishlist.md",
     "3. General/Lists/Comp Sci to Learn.md",
     "3. General/Lists/GameDev ToDo List.md",
     "3. General/Lists/Philosophy to Learn.md",
