@@ -18,40 +18,15 @@
                 "viewState": {
                   "x": -380,
                   "y": -495,
-                  "zoom": -1.0652586392800554
+                  "zoom": -2.685891409571937
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "34e03f2905c4ad75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. General/Lists/Games to Play.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Games to Play"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,6 +92,23 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "2f97cd0d4f1c4faf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
           }
         ]
       },
@@ -155,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. General/Lists/Games to Play.md",
+                "file": "1. Home Page/Home.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Games to Play"
+              "title": "Outline of Home"
             }
           },
           {
@@ -263,12 +255,12 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "34e03f2905c4ad75",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "3. General/Lists/Games to Play.md",
     "3. General/Lists/Guitar Wishlist.md",
     "3. General/Gaming/Elden Ring Quest Guide.md",
     "1. Home Page/Home.canvas",
-    "3. General/Lists/Games to Play.md",
     "3. General/Notes/Tossi Stuff.md",
     "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
     "3. General/Lists/Wishlist.md",
