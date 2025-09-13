@@ -25,8 +25,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "a4a84fce8e885599",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. General/Lists/Games to Play.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Games to Play"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Home Page/Home.canvas",
+                "file": "3. General/Lists/Games to Play.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Games to Play"
             }
           },
           {
@@ -255,12 +280,12 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a4a84fce8e885599",
   "lastOpenFiles": [
+    "1. Home Page/Home.canvas",
     "3. General/Lists/Games to Play.md",
     "3. General/Lists/Guitar Wishlist.md",
     "3. General/Gaming/Elden Ring Quest Guide.md",
-    "1. Home Page/Home.canvas",
     "3. General/Notes/Tossi Stuff.md",
     "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
     "3. General/Lists/Wishlist.md",
@@ -296,7 +321,6 @@
     "8. Other/explosion.gif",
     "9. Bases",
     "9. Bases.md",
-    "6. Templates/Library Template.md",
     "8. Other",
     "2025-09-01-153453_hyprshot.png",
     "Excalidraw/Scripts/Downloaded/Invert colors.svg",
