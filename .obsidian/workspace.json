@@ -25,8 +25,81 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "6eb9c5395e1ffd92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Operating Systems 2"
+            }
+          },
+          {
+            "id": "df55f9d0673d08a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Operating Systems 2"
+            }
+          },
+          {
+            "id": "42e1510562721cda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS - 9.15.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "OS - 9.15"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,10 +301,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "42e1510562721cda",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md",
+    "6. Templates/OS2.md",
+    "OS - 9.15.md",
+    "3. General/Unsaved/asd.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Untitled.md",
     "1. Home Page/Home.canvas",
+    "conflict-files-obsidian-git.md",
     "3. General/Archlinux/Archlinux - Installation.md",
     "3. General/Archlinux/Archlinux - Adding Drives.md",
     "8. Other/obamna.gif",
@@ -266,10 +344,6 @@
     "3. General/Archlinux/Archlinux - Network Manager - eduroam.md",
     "3. General/Archlinux/Archlinux - Helpful Commands.md",
     "3. General/Important/Horror Game.md",
-    "3. General/Unsaved/asd.md",
-    "3. General/Unsaved/Dublin City Group Activities.md",
-    "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
-    "README (copy 1).md",
     "Pasted image 20250608150344.png",
     "Pasted image 20250521210715.png",
     "Pasted image 20250428211308.png",

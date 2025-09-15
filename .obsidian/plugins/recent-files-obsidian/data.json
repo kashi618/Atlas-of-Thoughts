@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "OS - 9.15",
+      "path": "OS - 9.15.md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "OS2",
+      "path": "6. Templates/OS2.md"
+    },
+    {
+      "basename": "asd",
+      "path": "3. General/Unsaved/asd.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -55,10 +71,6 @@
     {
       "basename": "Archlinux - Helpful Commands",
       "path": "3. General/Archlinux/Archlinux - Helpful Commands.md"
-    },
-    {
-      "basename": "asd",
-      "path": "3. General/Unsaved/asd.md"
     },
     {
       "basename": "Trading212",
@@ -187,14 +199,6 @@
     {
       "basename": "CMPU1019 - Microprocessor Systems",
       "path": "2. University/TU856 Year 1/Study Guide/CMPU1019 - Microprocessor Systems.md"
-    },
-    {
-      "basename": "CMPU 1001 - 2023.2024",
-      "path": "2. University/TU856 Year 1/Exam Papers/CMPU 1001 - 2023.2024.pdf"
-    },
-    {
-      "basename": "$ Algorithm Project",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/$ Algorithm Project.md"
     }
   ],
   "omittedPaths": [],
