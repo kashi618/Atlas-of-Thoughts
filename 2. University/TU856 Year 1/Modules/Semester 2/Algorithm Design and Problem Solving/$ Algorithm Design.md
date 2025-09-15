@@ -1,5 +1,5 @@
 ## Theory
-- [[Algorithms]]
+- [[2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/Algorithms]]
 -
 - [[Structured English]]
 - [[Pseudocode]]
