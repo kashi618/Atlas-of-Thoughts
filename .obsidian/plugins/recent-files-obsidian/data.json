@@ -5,6 +5,10 @@
       "path": "3. General/Notes/How to Get Irish Driver's License.md"
     },
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "HACCAP",
       "path": "3. General/Notes/HACCAP.md"
-    },
-    {
-      "basename": "How to use Obsidian",
-      "path": "3. General/Notes/How to use Obsidian.md"
     }
   ],
   "omittedPaths": [],

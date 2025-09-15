@@ -1,6 +1,8 @@
 [
   "colored-tags",
   "recent-files-obsidian",
+  "calendar",
+  "obsidian-full-calendar",
   "templater-obsidian",
   "cm-editor-syntax-highlight-obsidian",
   "various-complements",
@@ -21,6 +23,5 @@
   "obsidian-go-to-line",
   "obsidian-sort-and-permute-lines",
   "ink",
-  "unicode-search",
-  "pixel-pets"
+  "unicode-search"
 ]
