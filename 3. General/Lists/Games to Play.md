@@ -11,8 +11,9 @@
 - Half-Life 2
 - Half-Life Alyx
 - Horizon Zero Dawn
-- Marvel's Spider-man 2
-- Marvel's Spider-man Remastered
+- Horizon Forbidden West
+- ~~Marvel's Spider-man 2~~
+- ~~Marvel's Spider-man Remastered~~
 - Metro Exodus
 - Nier Replicant
 - Prototype
@@ -22,8 +23,17 @@
 - The Last of Us Part 1
 - The Last of Us Part 2
 - Wuchang: Fallen Feathers
+- A Plague Tale: Requiem
+- Senua | Hellblade: Senua's Sacrifice
+- Senua | Senua's Sage: Hellblade II
+- The Walking Dead
+- Mirror's Edge
+- Heavy Rain
+- Dead Space 2
+- Dead Space Remake
 
 
-### PS4
+### PS4/5
 - Bloodborne (can be emulated)
 - Shadow of the Colossus
+- Death Stranding 2
