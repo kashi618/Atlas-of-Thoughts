@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "OS - 9.15",
-      "path": "OS - 9.15.md"
+      "basename": "Software Engineering 1 - 9-15",
+      "path": "Software Engineering 1 - 9-15.md"
+    },
+    {
+      "basename": "SE1 Software Engineering 1",
+      "path": "6. Templates/SE1 Software Engineering 1.md"
+    },
+    {
+      "basename": "$ Software Engineering 1",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/$ Software Engineering 1.md"
     },
     {
       "basename": "$ Operating Systems 2",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "OS - 9.15",
+      "path": "OS - 9.15.md"
     },
     {
       "basename": "OS2",
@@ -15,10 +31,6 @@
     {
       "basename": "asd",
       "path": "3. General/Unsaved/asd.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "conflict-files-obsidian-git",
@@ -187,18 +199,6 @@
     {
       "basename": "Arch Linux - Installation",
       "path": "3. Notes/Archlinux/Arch Linux - Installation.md"
-    },
-    {
-      "basename": "PD2 (s11) - Sorceress",
-      "path": "3. General/Gaming/PD2 (s11) - Sorceress.md"
-    },
-    {
-      "basename": "PD2 (s11) - Mercenary",
-      "path": "3. General/Gaming/PD2 (s11) - Mercenary.md"
-    },
-    {
-      "basename": "CMPU1019 - Microprocessor Systems",
-      "path": "2. University/TU856 Year 1/Study Guide/CMPU1019 - Microprocessor Systems.md"
     }
   ],
   "omittedPaths": [],
