@@ -18,15 +18,40 @@
                 "viewState": {
                   "x": -380,
                   "y": -495,
-                  "zoom": -2.685891409571937
+                  "zoom": -1.7500217469916528
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "dfc651bee2498dc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Setting up MariaDB and Dbeaver.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Setting up MariaDB and Dbeaver"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +63,7 @@
       {
         "id": "ff031eabd63b1eba",
         "type": "tabs",
-        "dimension": 74.59349593495935,
+        "dimension": 71.4430894308943,
         "children": [
           {
             "id": "0625646695eea1fe",
@@ -113,25 +138,25 @@
         ]
       },
       {
-        "id": "385932fdfb5100c1",
+        "id": "4eacda99a5c03865",
         "type": "tabs",
-        "dimension": 25.406504065040654,
+        "dimension": 28.55691056910569,
         "children": [
           {
-            "id": "fc97879c1a7d139b",
+            "id": "c2d781acb1078457",
             "type": "leaf",
             "state": {
               "type": "pet-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "pet-view"
+              "icon": "cat",
+              "title": "Pet view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 370.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -147,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Home Page/Home.canvas",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -230,11 +255,13 @@
               "title": "File properties for Home"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 343.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,18 +278,31 @@
       "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "dfc651bee2498dc4",
   "lastOpenFiles": [
-    "3. General/Notes/How to Get Irish Driver's License.md",
+    "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Setting up MariaDB and Dbeaver.md",
     "conflict-files-obsidian-git.md",
-    "Software Engineering 1 - 9-15.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md",
+    "OS - 9.16.md",
+    "OS2 Potential Exam Questions.md",
+    "Ink/Drawing/2025.9.16 - 13.26pm.drawing",
+    "Ink/Drawing",
+    "Ink",
+    "Relational Databases.md",
+    "SQL.md",
+    "6. Templates/DB1 Databases 1.md",
+    "3. General/Ideas/Projects.md",
     "OS - 9.15.md",
+    "3. General/Notes/How to Get Irish Driver's License.md",
+    "Software Engineering 1 - 9-15.md",
     "6. Templates/SE1 Software Engineering 1.md",
     "6. Templates/OS2.md",
-    "1. Home Page/Home.canvas",
     "3. General/Lists/Games to Play.md",
     "3. General/Lists/Guitar Wishlist.md",
     "3. General/Gaming/Elden Ring Quest Guide.md",
@@ -271,32 +311,19 @@
     "3. General/Lists/Wishlist.md",
     "Ink/Drawing/2025.9.3 - 15.54pm.drawing",
     "Ink/Drawing/2025.9.3 - 15.54pm (2).drawing",
-    "Ink/Drawing",
-    "Ink",
     "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/Algorithms.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/$ Algorithm Design.md",
     "2. University/Algorithms/Searching Algorithms/Binary Search.md",
     "2. University/Algorithms/Searching Algorithms/Linear Search.md",
-    "2. University/Algorithms/Sorting Algorithms/$N.A Mergesort - O(n log n).md",
     "2. University/Algorithms/Searching Algorithms",
-    "2. University/Algorithms/Sorting Algorithms/Insertion Sort - O(n²).md",
-    "2. University/Algorithms/Sorting Algorithms/Selection Sort - O(n²).md",
-    "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n²).md",
-    "2. University/TU856 Year 1/Modules/Programming/Functions - C.md",
     "2. University/PDF's/(CMPU 1001) Algorithm Design and Problem Solving/Class 1 - Introduction.pdf",
     "2. University/PDF's",
-    "3. General/Lists/Comp Sci to Learn.md",
-    "3. General/Lists/GameDev ToDo List.md",
-    "3. General/Lists/Philosophy to Learn.md",
-    "3. General/Lists/Monster Can Flavours and Tierlist.md",
-    "3. General/Lists/Headphones & IEMs.md",
     "3. General/Lists/Library.base",
     "8. Other/Nietzsche.gif",
     "8. Other/obamna.gif",
     "8. Other/Descartes.gif",
     "8. Other/explosion.gif",
     "9. Bases",
-    "8. Other",
     "2025-09-01-153453_hyprshot.png",
     "Excalidraw/Scripts/Downloaded/Invert colors.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
