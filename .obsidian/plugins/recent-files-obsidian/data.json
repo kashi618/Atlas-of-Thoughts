@@ -1,32 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "OS - 9.16",
-      "path": "OS - 9.16.md"
-    },
-    {
-      "basename": "Projects",
-      "path": "3. General/Ideas/Projects.md"
-    },
-    {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md"
-    },
-    {
-      "basename": "OS - 9.15",
-      "path": "OS - 9.15.md"
+      "basename": "Setting up MariaDB and Dbeaver",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Setting up MariaDB and Dbeaver.md"
     },
     {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
     {
-      "basename": "How to Get Irish Driver's License",
-      "path": "3. General/Notes/How to Get Irish Driver's License.md"
+      "basename": "$ Databases 1",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "OS - 9.16",
+      "path": "OS - 9.16.md"
     },
     {
       "basename": "conflict-files-obsidian-git",
       "path": "conflict-files-obsidian-git.md"
+    },
+    {
+      "basename": "OS2 Potential Exam Questions",
+      "path": "OS2 Potential Exam Questions.md"
+    },
+    {
+      "basename": "Relational Databases",
+      "path": "Relational Databases.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "SQL.md"
+    },
+    {
+      "basename": "DB1 Databases 1",
+      "path": "6. Templates/DB1 Databases 1.md"
+    },
+    {
+      "basename": "Projects",
+      "path": "3. General/Ideas/Projects.md"
+    },
+    {
+      "basename": "OS - 9.15",
+      "path": "OS - 9.15.md"
+    },
+    {
+      "basename": "How to Get Irish Driver's License",
+      "path": "3. General/Notes/How to Get Irish Driver's License.md"
     },
     {
       "basename": "Games to Play",
@@ -175,30 +199,6 @@
     {
       "basename": "2025.9.1 - 18.28pm",
       "path": "Ink/Writing/2025.9.1 - 18.28pm.writing"
-    },
-    {
-      "basename": "Untitled",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Mathematics 2/Untitled.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "7. UNSORTED/Untitled.md"
-    },
-    {
-      "basename": "Driving Theory Test",
-      "path": "3. General/Notes/Driving Theory Test.md"
-    },
-    {
-      "basename": "Rechargeable Battery Datasheet",
-      "path": "3. General/Misc/Rechargeable Battery Datasheet.md"
-    },
-    {
-      "basename": "Skyrim - The End",
-      "path": "3. General/Misc/Skyrim - The End.md"
-    },
-    {
-      "basename": "Socrates",
-      "path": "3. General/Misc/Socrates.md"
     }
   ],
   "omittedPaths": [],
