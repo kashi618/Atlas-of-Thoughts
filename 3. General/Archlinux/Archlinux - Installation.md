@@ -33,7 +33,7 @@ station {WifiAdapter} connect {ssid}
 ``` bash
 timedatectl
 ```
-
+- If `System clock synchronized: no`, then  use `timedatectl set-ntp true`
 ## wipe disk partition
 ``` bash
 gdisk /dev/{DiskName}
@@ -42,7 +42,6 @@ x
 
 z
 ```
-
 
 ## partition disk
 ``` bash
@@ -84,6 +83,12 @@ mount --mkdir /dev/{Part.1} /mnt/boot
 mount --mkdir /dev/{Part.4} /mnt/home
 ```
 - Use lsblk to check paths
+```
+Partition 1 = /mnt/boot
+Partition 2 = [SWAP]
+Partition 3 = /mnt
+Partition 4 = /mnt/home
+```
 
 ## update pacman mirrorlist
 ``` bash
