@@ -145,6 +145,7 @@ nano /etc/locale.conf
 - Append "LANG=en_IE.UTF-8"
 - Append "LANG=en_US.UTF-8"
 
+**BOTTOM NOT NEEDED IF USING KITTY WITH HYPRLAND**
 ``` bash
 nano /etc/vconsole.conf
 ```
@@ -174,7 +175,7 @@ EDITOR=nano visudo
 ## pacman with 32bit support
 ``` bash
 nano /etc/pacman.conf
-pacman -Syuu
+pacman -Syu
 ```
 - Uncomment "Include = /etc/pacman.d/mirrorlist" under the heading "multilib"
 
@@ -185,7 +186,7 @@ bootctl install
 
 ``` bash
 nano /boot/loader/loader.conf
-	timeout 9999
+	timeout 999999
 	default arch-*
 ```
 
