@@ -10,6 +10,7 @@ aliases:
 | 1          | 99          | Reads value at address 99 |
 | 3          | 99          | Store value to address 99 |
 |            |             |                           |
+|            |             |                           |
 
 #### program to store 2 numbers
 

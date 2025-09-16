@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Von Neumann Architecture - Memory",
-      "path": "Von Neumann Architecture - Memory.md"
+      "basename": "Instruction Cycle (LMC_)",
+      "path": "Instruction Cycle (LMC_).md"
     },
     {
       "basename": "$ Operating Systems 2",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md"
     },
     {
-      "basename": "Von Neumann Architecture",
-      "path": "Von Neumann Architecture.md"
+      "basename": "Little Man Computer",
+      "path": "Little Man Computer.md"
+    },
+    {
+      "basename": "Opcode and Operand",
+      "path": "Opcode and Operand.md"
+    },
+    {
+      "basename": "OS - 9.16",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS - 9.16.md"
     },
     {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Von Neumann Architecture",
+      "path": "Von Neumann Architecture.md"
     },
     {
       "basename": "OS2 Potential Exam Questions",
@@ -23,10 +35,6 @@
     {
       "basename": "OLD Von Neumann Architecture",
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Computer Architecture and Technology/OLD Von Neumann Architecture.md"
-    },
-    {
-      "basename": "OS - 9.16",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS - 9.16.md"
     },
     {
       "basename": "Excel Errors",
@@ -191,14 +199,6 @@
     {
       "basename": "Library Template",
       "path": "6. Templates/Library Template.md"
-    },
-    {
-      "basename": "Shelley Parker-Chan - She Who Became the Sun",
-      "path": "Library/Shelley Parker-Chan - She Who Became the Sun.md"
-    },
-    {
-      "basename": "Otsuichi - ZOO",
-      "path": "Library/Otsuichi - ZOO.md"
     }
   ],
   "omittedPaths": [],

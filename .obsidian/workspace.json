@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "2b23cf86c72f7aa4",
+            "id": "b63a7d90f9cc8796",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,12 +51,12 @@
             }
           },
           {
-            "id": "16726216d55df053",
+            "id": "d7ab1098dbe5a9f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Von Neumann Architecture - Memory.md",
+                "file": "Instruction Cycle (LMC).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,11 +71,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Von Neumann Architecture - Memory"
+              "title": "Instruction Cycle (LMC)"
             }
           },
           {
-            "id": "557deca0f71514e1",
+            "id": "96a5572e00ea947b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Little Man Computer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Little Man Computer"
+            }
+          },
+          {
+            "id": "2b23cf86c72f7aa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS - 9.16.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "OS - 9.16"
+            }
+          },
+          {
+            "id": "5f740f7b36b4887e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opcode and Operand.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Opcode and Operand"
+            }
+          },
+          {
+            "id": "801ea3e996e0020b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -204,7 +276,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 346.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -329,15 +402,17 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "16726216d55df053",
+  "active": "d7ab1098dbe5a9f3",
   "lastOpenFiles": [
-    "Von Neumann Architecture - Memory.md",
+    "Instruction Cycle (LMC).md",
     "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md",
-    "Von Neumann Architecture.md",
+    "Little Man Computer.md",
+    "Opcode and Operand.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS - 9.16.md",
     "1. Home Page/Home.canvas",
+    "Von Neumann Architecture.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS2 Potential Exam Questions.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Computer Architecture and Technology/OLD Von Neumann Architecture.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS - 9.16.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Data Exploration/Excel Errors.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Computer Architecture and Technology/CPU.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS - 9.15.md",
@@ -359,8 +434,6 @@
     "3. General/Lists/Guitar Wishlist.md",
     "3. General/Gaming/Elden Ring Quest Guide.md",
     "3. General/Notes/Tossi Stuff.md",
-    "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
-    "3. General/Lists/Wishlist.md",
     "Ink/Drawing/2025.9.3 - 15.54pm.drawing",
     "Ink/Drawing/2025.9.3 - 15.54pm (2).drawing",
     "2. University/Algorithms/Searching Algorithms",
