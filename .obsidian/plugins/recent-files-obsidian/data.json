@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "Von Neumann Architecture",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Computer Architecture and Technology/Von Neumann Architecture.md"
+    },
+    {
+      "basename": "Excel Errors",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Data Exploration/Excel Errors.md"
+    },
+    {
+      "basename": "CPU",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Computer Architecture and Technology/CPU.md"
+    },
+    {
       "basename": "OS - 9.16",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS - 9.16.md"
     },
     {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md"
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "OS - 9.15",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS - 9.15.md"
     },
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
+      "basename": "Software Engineering 1 - 9-15",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Software Engineering 1 - 9-15.md"
     },
     {
       "basename": "Archlinux - Installation",
@@ -183,22 +199,6 @@
     {
       "basename": "CODE_OF_CONDUCT",
       "path": "CODE_OF_CONDUCT.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Agustina Bazterrica - Tender Is the Flesh",
-      "path": "Library/Agustina Bazterrica - Tender Is the Flesh.md"
-    },
-    {
-      "basename": "George R. R. Martin - A Clash of Kings",
-      "path": "Library/George R. R. Martin - A Clash of Kings.md"
-    },
-    {
-      "basename": "2025.9.1 - 18.28pm",
-      "path": "Ink/Writing/2025.9.1 - 18.28pm.writing"
     }
   ],
   "omittedPaths": [],

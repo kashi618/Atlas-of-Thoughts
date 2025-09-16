@@ -4,10 +4,6 @@
 Unified modelling language
 Object oriented analysis and design
 
-	''
-
-
-
 
 
 # See Also
