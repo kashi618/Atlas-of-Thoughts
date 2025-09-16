@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Von Neumann Architecture - Memory",
+      "path": "Von Neumann Architecture - Memory.md"
+    },
+    {
       "basename": "$ Operating Systems 2",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md"
     },
     {
       "basename": "Von Neumann Architecture",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Computer Architecture and Technology/Von Neumann Architecture.md"
+      "path": "Von Neumann Architecture.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "OS2 Potential Exam Questions",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS2 Potential Exam Questions.md"
+    },
+    {
+      "basename": "OLD Von Neumann Architecture",
+      "path": "2. University/TU856 Year 1/Modules/Semester 2/Computer Architecture and Technology/OLD Von Neumann Architecture.md"
+    },
+    {
+      "basename": "OS - 9.16",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS - 9.16.md"
     },
     {
       "basename": "Excel Errors",
@@ -15,14 +35,6 @@
     {
       "basename": "CPU",
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Computer Architecture and Technology/CPU.md"
-    },
-    {
-      "basename": "OS - 9.16",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS - 9.16.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "OS - 9.15",
@@ -43,10 +55,6 @@
     {
       "basename": "$ Databases 1",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md"
-    },
-    {
-      "basename": "OS2 Potential Exam Questions",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS2 Potential Exam Questions.md"
     },
     {
       "basename": "Relational Databases",
@@ -191,14 +199,6 @@
     {
       "basename": "Otsuichi - ZOO",
       "path": "Library/Otsuichi - ZOO.md"
-    },
-    {
-      "basename": "Yevgeny Zamyatin - We",
-      "path": "Library/Yevgeny Zamyatin - We.md"
-    },
-    {
-      "basename": "CODE_OF_CONDUCT",
-      "path": "CODE_OF_CONDUCT.md"
     }
   ],
   "omittedPaths": [],
