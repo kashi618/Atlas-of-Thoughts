@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "OS - 9.16",
+      "path": "OS - 9.16.md"
+    },
+    {
+      "basename": "Projects",
+      "path": "3. General/Ideas/Projects.md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "OS - 9.15",
+      "path": "OS - 9.15.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Socrates",
       "path": "3. General/Misc/Socrates.md"
-    },
-    {
-      "basename": "What to DO",
-      "path": "2. University/What to DO.md"
-    },
-    {
-      "basename": "Trading212 Tax",
-      "path": "3. General/Notes/Trading212 Tax.md"
-    },
-    {
-      "basename": "Horror Games",
-      "path": "3. General/Ideas/Horror Games.md"
-    },
-    {
-      "basename": "HACCAP",
-      "path": "3. General/Notes/HACCAP.md"
     }
   ],
   "omittedPaths": [],

@@ -1,0 +1,31 @@
+{
+  "selectedBackground": "backgrounds/castlebg-1.png",
+  "pets": [
+    {
+      "id": "pets/black-cat-1",
+      "type": "pets/black-cat",
+      "name": "a"
+    },
+    {
+      "id": "pets/ghost-1",
+      "type": "pets/ghost",
+      "name": "A"
+    },
+    {
+      "id": "pets/brown-cat-1",
+      "type": "pets/brown-cat",
+      "name": "A"
+    },
+    {
+      "id": "pets/pirate-cat-1",
+      "type": "pets/pirate-cat",
+      "name": "a"
+    }
+  ],
+  "nextPetIdCounters": {
+    "pets/black-cat": 2,
+    "pets/ghost": 2,
+    "pets/brown-cat": 2,
+    "pets/pirate-cat": 2
+  }
+}

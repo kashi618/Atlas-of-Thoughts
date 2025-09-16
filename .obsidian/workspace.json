@@ -16,8 +16,8 @@
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": -380,
-                  "y": -495,
+                  "x": -236.88179104477604,
+                  "y": -267.76845771144275,
                   "zoom": -0.4328707923661625
                 }
               },
@@ -25,8 +25,81 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "0b3ecbc8e9a9376d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Operating Systems 2"
+            }
+          },
+          {
+            "id": "6e6e458fd713d479",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS - 9.16.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "OS - 9.16"
+            }
+          },
+          {
+            "id": "b39d69daab312166",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS - 9.15.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "OS - 9.15"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -38,7 +111,7 @@
       {
         "id": "ff031eabd63b1eba",
         "type": "tabs",
-        "dimension": 74.59349593495935,
+        "dimension": 71.44308943089432,
         "children": [
           {
             "id": "0625646695eea1fe",
@@ -113,18 +186,18 @@
         ]
       },
       {
-        "id": "385932fdfb5100c1",
+        "id": "4eacda99a5c03865",
         "type": "tabs",
-        "dimension": 25.406504065040654,
+        "dimension": 28.556910569105693,
         "children": [
           {
-            "id": "fc97879c1a7d139b",
+            "id": "c2d781acb1078457",
             "type": "leaf",
             "state": {
               "type": "pet-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "pet-view"
+              "icon": "cat",
+              "title": "Pet view"
             }
           }
         ]
@@ -147,13 +220,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Home Page/Home.canvas",
+                "file": "OS - 9.16.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of OS - 9.16"
             }
           },
           {
@@ -230,7 +303,8 @@
               "title": "File properties for Home"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -251,18 +325,22 @@
       "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6e6e458fd713d479",
   "lastOpenFiles": [
+    "3. General/Ideas/Projects.md",
+    "OS - 9.16.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md",
+    "OS - 9.15.md",
+    "1. Home Page/Home.canvas",
     "3. General/Notes/How to Get Irish Driver's License.md",
     "conflict-files-obsidian-git.md",
     "Software Engineering 1 - 9-15.md",
-    "OS - 9.15.md",
     "6. Templates/SE1 Software Engineering 1.md",
     "6. Templates/OS2.md",
-    "1. Home Page/Home.canvas",
     "3. General/Lists/Games to Play.md",
     "3. General/Lists/Guitar Wishlist.md",
     "3. General/Gaming/Elden Ring Quest Guide.md",
@@ -287,9 +365,6 @@
     "2. University/PDF's",
     "3. General/Lists/Comp Sci to Learn.md",
     "3. General/Lists/GameDev ToDo List.md",
-    "3. General/Lists/Philosophy to Learn.md",
-    "3. General/Lists/Monster Can Flavours and Tierlist.md",
-    "3. General/Lists/Headphones & IEMs.md",
     "3. General/Lists/Library.base",
     "8. Other/Nietzsche.gif",
     "8. Other/obamna.gif",
