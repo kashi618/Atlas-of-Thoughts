@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "0f30b27acb176690",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "f2dfc056a4f8a742",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -17,8 +17,8 @@
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
                   "x": -380,
-                  "y": -495,
-                  "zoom": -1.4472978630014424
+                  "y": -457.5,
+                  "zoom": -0.07083248410464736
                 }
               },
               "pinned": true,
@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "b63a7d90f9cc8796",
+            "id": "40de0b705aae727f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md",
+                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,18 +47,18 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Operating Systems 2"
+              "title": "$ Object Oriented Programming"
             }
           },
           {
-            "id": "d7ab1098dbe5a9f3",
+            "id": "85579ada4a7d87b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruction Cycle (LMC).md",
+                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Programming Paradigms.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -71,103 +71,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Instruction Cycle (LMC)"
-            }
-          },
-          {
-            "id": "96a5572e00ea947b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Little Man Computer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Little Man Computer"
-            }
-          },
-          {
-            "id": "2b23cf86c72f7aa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS - 9.16.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "OS - 9.16"
-            }
-          },
-          {
-            "id": "5f740f7b36b4887e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Opcode and Operand.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Opcode and Operand"
-            }
-          },
-          {
-            "id": "801ea3e996e0020b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Von Neumann Architecture.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Von Neumann Architecture"
+              "title": "Programming Paradigms"
             }
           }
         ],
@@ -183,7 +87,7 @@
       {
         "id": "ff031eabd63b1eba",
         "type": "tabs",
-        "dimension": 72.05284552845528,
+        "dimension": 66.869918699187,
         "children": [
           {
             "id": "0625646695eea1fe",
@@ -209,7 +113,7 @@
             }
           },
           {
-            "id": "337a627bd4fd556b",
+            "id": "9385e4680500847d",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -260,7 +164,7 @@
       {
         "id": "02e44a70fbac7bb0",
         "type": "tabs",
-        "dimension": 27.947154471544714,
+        "dimension": 33.13008130081301,
         "children": [
           {
             "id": "c4e9cd6e9de148bb",
@@ -293,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. General/Archlinux/Archlinux - Installation.md",
+                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Programming Paradigms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Archlinux - Installation"
+              "title": "Outline of Programming Paradigms"
             }
           },
           {
@@ -402,38 +306,40 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "d7ab1098dbe5a9f3",
+  "active": "85579ada4a7d87b2",
   "lastOpenFiles": [
-    "Instruction Cycle (LMC).md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md",
-    "Little Man Computer.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Programming Paradigms.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Module Information.md",
+    "1. Home Page/Home.canvas",
+    "6. Templates/OOP Object Oriented Programming.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Software Engineering 1 - 9-17.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Hardware and Software Reliability.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/$ Software Engineering 1.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Pasted image 20250917124726.png",
+    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Pasted image 20250917124649.png",
+    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Pasted image 20250917124626.png",
+    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Software Engineering 1 - 9-15.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/asd211wqsad.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Von Neumann Architecture.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Opcode and Operand.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Little Man Computer.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Instruction Cycle (LMC).md",
+    "6. Templates/1005 Communications Template.md",
+    "6. Templates/SE1 Software Engineering 1.md",
+    "Software Engineering 1 - 9-17.md",
+    "Von Neumann Architecture.md",
     "Opcode and Operand.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS - 9.16.md",
-    "1. Home Page/Home.canvas",
-    "Von Neumann Architecture.md",
+    "Little Man Computer.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md",
+    "Instruction Cycle (LMC).md",
     "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS2 Potential Exam Questions.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Computer Architecture and Technology/OLD Von Neumann Architecture.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Data Exploration/Excel Errors.md",
-    "2. University/TU856 Year 1/Modules/Semester 2/Computer Architecture and Technology/CPU.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS - 9.15.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Software Engineering 1 - 9-15.md",
-    "3. General/Archlinux/Archlinux - Installation.md",
-    "conflict-files-obsidian-git.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/SQL.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md",
     "Ink/Drawing/2025.9.16 - 13.26pm.drawing",
     "Ink/Drawing",
     "Ink",
-    "6. Templates/DB1 Databases 1.md",
-    "3. General/Ideas/Projects.md",
-    "3. General/Ideas/Project ideas.md",
-    "3. General/Notes/How to Get Irish Driver's License.md",
-    "6. Templates/SE1 Software Engineering 1.md",
-    "6. Templates/OS2.md",
-    "3. General/Lists/Games to Play.md",
-    "3. General/Lists/Guitar Wishlist.md",
-    "3. General/Gaming/Elden Ring Quest Guide.md",
-    "3. General/Notes/Tossi Stuff.md",
     "Ink/Drawing/2025.9.3 - 15.54pm.drawing",
     "Ink/Drawing/2025.9.3 - 15.54pm (2).drawing",
     "2. University/Algorithms/Searching Algorithms",
@@ -448,9 +354,6 @@
     "2025-09-01-153453_hyprshot.png",
     "Excalidraw/Scripts/Downloaded/Invert colors.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
-    "Excalidraw/Scripts/Downloaded/Lighten background color.svg",
-    "Pasted image 20250521210715.png",
-    "Pasted image 20250608150344.png",
     "Untitled.canvas"
   ]
 }

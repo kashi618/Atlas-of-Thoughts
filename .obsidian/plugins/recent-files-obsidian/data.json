@@ -1,32 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "Instruction Cycle (LMC_)",
-      "path": "Instruction Cycle (LMC_).md"
+      "basename": "Programming Paradigms",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Programming Paradigms.md"
     },
     {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md"
+      "basename": "$ Object Oriented Programming",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md"
     },
     {
-      "basename": "Little Man Computer",
-      "path": "Little Man Computer.md"
-    },
-    {
-      "basename": "Opcode and Operand",
-      "path": "Opcode and Operand.md"
-    },
-    {
-      "basename": "OS - 9.16",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS - 9.16.md"
+      "basename": "Module Information",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Module Information.md"
     },
     {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
     {
-      "basename": "Von Neumann Architecture",
-      "path": "Von Neumann Architecture.md"
+      "basename": "OOP Object Oriented Programming",
+      "path": "6. Templates/OOP Object Oriented Programming.md"
+    },
+    {
+      "basename": "Software Engineering 1 - 9-17",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Software Engineering 1 - 9-17.md"
+    },
+    {
+      "basename": "Hardware and Software Reliability",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Hardware and Software Reliability.md"
+    },
+    {
+      "basename": "$ Software Engineering 1",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/$ Software Engineering 1.md"
+    },
+    {
+      "basename": "Software Engineering 1 - 9-15",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Software Engineering 1 - 9-15.md"
+    },
+    {
+      "basename": "1005 Communications Template",
+      "path": "6. Templates/1005 Communications Template.md"
+    },
+    {
+      "basename": "SE1 Software Engineering 1",
+      "path": "6. Templates/SE1 Software Engineering 1.md"
+    },
+    {
+      "basename": "OS - 9.16",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS - 9.16.md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "Instruction Cycle (LMC_)",
+      "path": "Instruction Cycle (LMC_).md"
     },
     {
       "basename": "OS2 Potential Exam Questions",
@@ -47,10 +75,6 @@
     {
       "basename": "OS - 9.15",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS - 9.15.md"
-    },
-    {
-      "basename": "Software Engineering 1 - 9-15",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Software Engineering 1 - 9-15.md"
     },
     {
       "basename": "Archlinux - Installation",
@@ -175,30 +199,6 @@
     {
       "basename": "Headphones & IEMs",
       "path": "3. General/Lists/Headphones & IEMs.md"
-    },
-    {
-      "basename": "Library",
-      "path": "3. General/Lists/Library.base"
-    },
-    {
-      "basename": "obamna",
-      "path": "8. Other/obamna.gif"
-    },
-    {
-      "basename": "explosion",
-      "path": "8. Other/explosion.gif"
-    },
-    {
-      "basename": "Nietzsche",
-      "path": "8. Other/Nietzsche.gif"
-    },
-    {
-      "basename": "Descartes",
-      "path": "8. Other/Descartes.gif"
-    },
-    {
-      "basename": "Library Template",
-      "path": "6. Templates/Library Template.md"
     }
   ],
   "omittedPaths": [],
