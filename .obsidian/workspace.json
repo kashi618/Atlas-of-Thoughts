@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Templates/WD2 Web Development 2.md",
+                "file": "6. Templates/OOperating Systems.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "WD2 Web Development 2"
+              "title": "OOperating Systems"
             }
           }
         ],
@@ -283,8 +283,8 @@
   },
   "active": "89be79d862b14506",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Modules/Semester 1/Web Development 2/$ Web Development 2.md",
     "6. Templates/WD2 Web Development 2.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Web Development 2/$ Web Development 2.md",
     "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Programming Paradigms.md",

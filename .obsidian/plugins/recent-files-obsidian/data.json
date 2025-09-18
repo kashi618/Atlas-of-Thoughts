@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "OOperating Systems",
+      "path": "6. Templates/OOperating Systems.md"
+    },
+    {
       "basename": "WD2 Web Development 2",
       "path": "6. Templates/WD2 Web Development 2.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "GameDev ToDo List",
       "path": "3. General/Lists/GameDev ToDo List.md"
-    },
-    {
-      "basename": "Philosophy to Learn",
-      "path": "3. General/Lists/Philosophy to Learn.md"
     }
   ],
   "omittedPaths": [],
