@@ -31,7 +31,8 @@
 - Heavy Rain
 - Dead Space 2
 - Dead Space Remake
-
+- Final Fantasy 16
+- Final Fantasy 15
 
 ### PS4/5
 - Bloodborne (can be emulated)
