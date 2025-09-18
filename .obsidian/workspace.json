@@ -49,9 +49,33 @@
               "icon": "lucide-file",
               "title": "Games to Play"
             }
+          },
+          {
+            "id": "33ad420728a60dbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -281,8 +305,22 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "e1e06f4f89639ab2",
+  "active": "33ad420728a60dbf",
   "lastOpenFiles": [
+    "3. General/Lists/Games to Play.md",
+    "conflict-files-obsidian-git.md",
+    "6. Templates/WD2 Web Development 2.md",
+    "6. Templates/OS1 Operating Systems 1.md",
+    "6. Templates/OOP Object Oriented Programming.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Software Engineering 1 - 9-17.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Pasted image 20250917124726.png",
+    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Pasted image 20250917124649.png",
+    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Pasted image 20250917124626.png",
+    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Hardware and Software Reliability.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Von Neumann Architecture.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Opcode and Operand.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Little Man Computer.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Instruction Cycle (LMC).md",
     "1. Home Page/Home.canvas",
     "Fetch Execute Cycle.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md",
@@ -297,21 +335,11 @@
     "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS - 9.15.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Software Engineering 1 - 9-15.md",
     "3. General/Archlinux/Archlinux - Installation.md",
-    "conflict-files-obsidian-git.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/SQL.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md",
     "Ink/Drawing/2025.9.16 - 13.26pm.drawing",
     "Ink/Drawing",
     "Ink",
-    "6. Templates/DB1 Databases 1.md",
-    "3. General/Ideas/Projects.md",
-    "3. General/Ideas/Project ideas.md",
-    "3. General/Notes/How to Get Irish Driver's License.md",
-    "6. Templates/SE1 Software Engineering 1.md",
-    "6. Templates/OS2.md",
-    "3. General/Lists/Games to Play.md",
-    "3. General/Lists/Guitar Wishlist.md",
-    "3. General/Gaming/Elden Ring Quest Guide.md",
     "Ink/Drawing/2025.9.3 - 15.54pm.drawing",
     "Ink/Drawing/2025.9.3 - 15.54pm (2).drawing",
     "2. University/Algorithms/Searching Algorithms",
@@ -326,9 +354,6 @@
     "2025-09-01-153453_hyprshot.png",
     "Excalidraw/Scripts/Downloaded/Invert colors.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
-    "Excalidraw/Scripts/Downloaded/Lighten background color.svg",
-    "Pasted image 20250521210715.png",
-    "Pasted image 20250608150344.png",
     "Untitled.canvas"
   ]
 }
