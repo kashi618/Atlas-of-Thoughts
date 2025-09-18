@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instruction Cycle (LMC).md",
+                "file": "Fetch Execute Cycle.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,7 +71,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Instruction Cycle (LMC)"
+              "title": "Fetch Execute Cycle"
             }
           },
           {
@@ -404,7 +404,7 @@
   },
   "active": "d7ab1098dbe5a9f3",
   "lastOpenFiles": [
-    "Instruction Cycle (LMC).md",
+    "Fetch Execute Cycle.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md",
     "Little Man Computer.md",
     "Opcode and Operand.md",

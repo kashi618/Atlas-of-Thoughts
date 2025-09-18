@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Fetch Execute Cycle",
+      "path": "Fetch Execute Cycle.md"
+    },
+    {
       "basename": "Instruction Cycle (LMC_)",
       "path": "Instruction Cycle (LMC_).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Descartes",
       "path": "8. Other/Descartes.gif"
-    },
-    {
-      "basename": "Library Template",
-      "path": "6. Templates/Library Template.md"
     }
   ],
   "omittedPaths": [],
