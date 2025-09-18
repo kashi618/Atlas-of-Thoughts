@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Programming Paradigms",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Programming Paradigms.md"
+      "basename": "$ Web Development 2",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Web Development 2/$ Web Development 2.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "$ Object Oriented Programming",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md"
     },
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
+      "basename": "Programming Paradigms",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Programming Paradigms.md"
     },
     {
       "basename": "Module Information",
@@ -195,10 +199,6 @@
     {
       "basename": "Monster Can Flavours and Tierlist",
       "path": "3. General/Lists/Monster Can Flavours and Tierlist.md"
-    },
-    {
-      "basename": "Headphones & IEMs",
-      "path": "3. General/Lists/Headphones & IEMs.md"
     }
   ],
   "omittedPaths": [],
