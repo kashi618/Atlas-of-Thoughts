@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0f30b27acb176690",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f2dfc056a4f8a742",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -17,7 +17,7 @@
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
                   "x": -380,
-                  "y": -36.49919999999996,
+                  "y": -340,
                   "zoom": -0.07083248410464736
                 }
               },
@@ -27,14 +27,14 @@
             }
           },
           {
-            "id": "40de0b705aae727f",
+            "id": "89be79d862b14506",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
+                "file": "6. Templates/WD2 Web Development 2.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -47,59 +47,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Object Oriented Programming"
-            }
-          },
-          {
-            "id": "214490e4b6af9508",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Modules/Semester 1/Web Development 2/$ Web Development 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ Web Development 2"
-            }
-          },
-          {
-            "id": "957ce7c8f81144cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Modules/Semester 1/Web Development 2/$ Web Development 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ Web Development 2"
+              "title": "WD2 Web Development 2"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -329,10 +281,11 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "957ce7c8f81144cc",
+  "active": "89be79d862b14506",
   "lastOpenFiles": [
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Semester 1/Web Development 2/$ Web Development 2.md",
+    "6. Templates/WD2 Web Development 2.md",
+    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Programming Paradigms.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Module Information.md",
