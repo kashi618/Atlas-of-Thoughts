@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Programming Paradigms.md",
+                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,11 +47,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Programming Paradigms"
+              "title": "$ Object Oriented Programming"
+            }
+          },
+          {
+            "id": "c60d69127504e45e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Java.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Java"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Programming Paradigms.md",
+                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Java.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Programming Paradigms"
+              "title": "Outline of Java"
             }
           },
           {
@@ -281,9 +305,11 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "fb87dc21804c0902",
+  "active": "c60d69127504e45e",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Programming Paradigms.md",
     "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/$ Software Engineering 1.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Software Engineering 1 - 9-15.md",
@@ -303,7 +329,6 @@
     "conflict-files-obsidian-git.md",
     "Fetch Execute Cycle.md",
     "2. University/TU856 Year 1/Modules/Programming/Data Types - C.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Programming Paradigms.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Module Information.md",
     "6. Templates/M2 Mathematics 2.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Mathematics 2/$ Mathematics 2.md",

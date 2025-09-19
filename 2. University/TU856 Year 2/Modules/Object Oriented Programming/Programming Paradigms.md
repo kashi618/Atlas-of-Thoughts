@@ -22,7 +22,7 @@ aliases:
 Bash scripts
 
 #### Procedural
-- A subset of imperative, but uses functions to organize and reuse logic
+- A subset of imperative, but uses functions/procedures to organize and reuse logic. 
 
 **Advantages**
 - Step by step execution is easy to understand

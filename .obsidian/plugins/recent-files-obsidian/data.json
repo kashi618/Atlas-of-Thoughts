@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Programming Paradigms",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Programming Paradigms.md"
+      "basename": "Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Java.md"
     },
     {
       "basename": "$ Object Oriented Programming",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md"
+    },
+    {
+      "basename": "Programming Paradigms",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Programming Paradigms.md"
     },
     {
       "basename": "Home",
@@ -195,10 +199,6 @@
     {
       "basename": "9. Bases",
       "path": "9. Bases.md"
-    },
-    {
-      "basename": "Algorithms",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/Algorithms.md"
     }
   ],
   "omittedPaths": [],
