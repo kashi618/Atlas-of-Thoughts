@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "$ Web Development 2",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Web Development 2/$ Web Development 2.md"
+      "basename": "Relational Databases",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md"
+    },
+    {
+      "basename": "$ Databases 1",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md"
+    },
+    {
+      "basename": "Data Types - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Data Types - C.md"
     },
     {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Programming Paradigms",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Programming Paradigms.md"
+    },
+    {
+      "basename": "Module Information",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Module Information.md"
+    },
+    {
+      "basename": "M2 Mathematics 2",
+      "path": "6. Templates/M2 Mathematics 2.md"
+    },
+    {
+      "basename": "$ Mathematics 2",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Mathematics 2/$ Mathematics 2.md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "Instruction Cycle (LMC)",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Instruction Cycle (LMC).md"
+    },
+    {
+      "basename": "$ Web Development 2",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Web Development 2/$ Web Development 2.md"
     },
     {
       "basename": "OS1 Operating Systems 1",
@@ -19,14 +55,6 @@
     {
       "basename": "$ Object Oriented Programming",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md"
-    },
-    {
-      "basename": "Programming Paradigms",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Programming Paradigms.md"
-    },
-    {
-      "basename": "Module Information",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Module Information.md"
     },
     {
       "basename": "OOP Object Oriented Programming",
@@ -61,10 +89,6 @@
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS - 9.16.md"
     },
     {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md"
-    },
-    {
       "basename": "Instruction Cycle (LMC_)",
       "path": "Instruction Cycle (LMC_).md"
     },
@@ -95,14 +119,6 @@
     {
       "basename": "Setting up MariaDB and Dbeaver",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Setting up MariaDB and Dbeaver.md"
-    },
-    {
-      "basename": "$ Databases 1",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md"
-    },
-    {
-      "basename": "Relational Databases",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md"
     },
     {
       "basename": "SQL",
@@ -183,22 +199,6 @@
     {
       "basename": "Bubblesort - O(n²)",
       "path": "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n²).md"
-    },
-    {
-      "basename": "Functions - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Functions - C.md"
-    },
-    {
-      "basename": "Class 1 - Introduction",
-      "path": "2. University/PDF's/(CMPU 1001) Algorithm Design and Problem Solving/Class 1 - Introduction.pdf"
-    },
-    {
-      "basename": "Comp Sci to Learn",
-      "path": "3. General/Lists/Comp Sci to Learn.md"
-    },
-    {
-      "basename": "GameDev ToDo List",
-      "path": "3. General/Lists/GameDev ToDo List.md"
     }
   ],
   "omittedPaths": [],

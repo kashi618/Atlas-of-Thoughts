@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "c01b40c09682c342",
+            "id": "24cd6ab3e61a2398",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Semester 1/Web Development 2/$ Web Development 2.md",
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,11 +47,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Web Development 2"
+              "title": "$ Databases 1"
+            }
+          },
+          {
+            "id": "1f3b2d9cf487a366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Relational Databases"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 346.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -172,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Semester 1/Web Development 2/$ Web Development 2.md",
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of $ Web Development 2"
+              "title": "Outline of Relational Databases"
             }
           },
           {
@@ -259,8 +284,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5,
-    "collapsed": true
+    "width": 343.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,15 +305,21 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "c01b40c09682c342",
+  "active": "1f3b2d9cf487a366",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md",
+    "2. University/TU856 Year 1/Modules/Programming/Data Types - C.md",
     "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Programming Paradigms.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Module Information.md",
+    "6. Templates/M2 Mathematics 2.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Mathematics 2/$ Mathematics 2.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Instruction Cycle (LMC).md",
     "2. University/TU856 Year 2/Modules/Semester 1/Web Development 2/$ Web Development 2.md",
     "6. Templates/OS1 Operating Systems 1.md",
     "6. Templates/WD2 Web Development 2.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Programming Paradigms.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Module Information.md",
     "6. Templates/OOP Object Oriented Programming.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Software Engineering 1 - 9-17.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Hardware and Software Reliability.md",
@@ -302,16 +332,11 @@
     "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Von Neumann Architecture.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Opcode and Operand.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Little Man Computer.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Instruction Cycle (LMC).md",
     "6. Templates/1005 Communications Template.md",
     "6. Templates/SE1 Software Engineering 1.md",
     "Software Engineering 1 - 9-17.md",
     "Von Neumann Architecture.md",
     "Opcode and Operand.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS - 9.16.md",
-    "Little Man Computer.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md",
-    "Instruction Cycle (LMC).md",
     "Ink/Drawing/2025.9.16 - 13.26pm.drawing",
     "Ink/Drawing",
     "Ink",
