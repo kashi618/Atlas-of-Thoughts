@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Relational Databases",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md"
+      "basename": "Database Management System (DBMS)",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Database Management System (DBMS).md"
     },
     {
       "basename": "$ Databases 1",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md"
     },
     {
+      "basename": "Primary and Foreign Keys",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Primary and Foreign Keys.md"
+    },
+    {
+      "basename": "Relational Databases",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md"
+    },
+    {
       "basename": "PostgreSQL",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL.md"
     },
     {
-      "basename": "Data Types - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Data Types - C.md"
+      "basename": "ACID Model",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/ACID Model.md"
     },
     {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Data Types - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Data Types - C.md"
     },
     {
       "basename": "Programming Paradigms",
@@ -187,14 +199,6 @@
     {
       "basename": "$N.A Mergesort - O(n log n)",
       "path": "2. University/Algorithms/Sorting Algorithms/$N.A Mergesort - O(n log n).md"
-    },
-    {
-      "basename": "Insertion Sort - O(n²)",
-      "path": "2. University/Algorithms/Sorting Algorithms/Insertion Sort - O(n²).md"
-    },
-    {
-      "basename": "Selection Sort - O(n²)",
-      "path": "2. University/Algorithms/Sorting Algorithms/Selection Sort - O(n²).md"
     }
   ],
   "omittedPaths": [],

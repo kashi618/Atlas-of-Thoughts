@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -380,
                   "y": -340,
-                  "zoom": -0.07083248410464736
+                  "zoom": -1.6745315474073894
                 }
               },
               "pinned": true,
@@ -27,7 +27,79 @@
             }
           },
           {
-            "id": "24cd6ab3e61a2398",
+            "id": "29dfdff6993905b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Databases 1"
+            }
+          },
+          {
+            "id": "0c3c69d62b21a858",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Database Management System (DBMS).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Database Management System (DBMS)"
+            }
+          },
+          {
+            "id": "2f8119e5d4613a77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Primary and Foreign Keys.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Primary and Foreign Keys"
+            }
+          },
+          {
+            "id": "c376f36774a27dc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,33 +121,9 @@
               "icon": "lucide-file",
               "title": "Relational Databases"
             }
-          },
-          {
-            "id": "6601ba9587b28913",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "PostgreSQL"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,13 +245,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md",
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Database Management System (DBMS).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Relational Databases"
+              "title": "Outline of Database Management System (DBMS)"
             }
           },
           {
@@ -305,16 +353,19 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "24cd6ab3e61a2398",
+  "active": "0c3c69d62b21a858",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Database Management System (DBMS).md",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Primary and Foreign Keys.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/ACID Model.md",
+    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Pasted image 20250919101458.png",
     "conflict-files-obsidian-git.md",
     "Fetch Execute Cycle.md",
     "2. University/TU856 Year 1/Modules/Programming/Data Types - C.md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Programming Paradigms.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Module Information.md",
     "6. Templates/M2 Mathematics 2.md",
@@ -335,9 +386,6 @@
     "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Software Engineering 1 - 9-15.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/asd211wqsad.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Von Neumann Architecture.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Opcode and Operand.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Little Man Computer.md",
-    "6. Templates/1005 Communications Template.md",
     "Ink/Drawing/2025.9.16 - 13.26pm.drawing",
     "Ink/Drawing",
     "Ink",
