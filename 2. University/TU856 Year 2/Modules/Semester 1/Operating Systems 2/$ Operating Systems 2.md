@@ -4,6 +4,6 @@
 ## Von Neumann Architecture
 [[Von Neumann Architecture]]
 [[Opcode and Operand]]
-[[Instruction Cycle (LMC)]]
+[[Fetch Execute Cycle]]
 
 [[OS2 Potential Exam Questions]] 

@@ -73,9 +73,33 @@
               "icon": "lucide-file",
               "title": "Relational Databases"
             }
+          },
+          {
+            "id": "5b57b2b0a2e9e60b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Relational Databases"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -305,8 +329,11 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "1f3b2d9cf487a366",
+  "active": "5b57b2b0a2e9e60b",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md",
+    "conflict-files-obsidian-git.md",
+    "Fetch Execute Cycle.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md",
     "2. University/TU856 Year 1/Modules/Programming/Data Types - C.md",
     "1. Home Page/Home.canvas",
@@ -334,9 +361,6 @@
     "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Little Man Computer.md",
     "6. Templates/1005 Communications Template.md",
     "6. Templates/SE1 Software Engineering 1.md",
-    "Software Engineering 1 - 9-17.md",
-    "Von Neumann Architecture.md",
-    "Opcode and Operand.md",
     "Ink/Drawing/2025.9.16 - 13.26pm.drawing",
     "Ink/Drawing",
     "Ink",

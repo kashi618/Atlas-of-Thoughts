@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Relational Databases",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Selection Sort - O(n²)",
       "path": "2. University/Algorithms/Sorting Algorithms/Selection Sort - O(n²).md"
-    },
-    {
-      "basename": "Bubblesort - O(n²)",
-      "path": "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n²).md"
     }
   ],
   "omittedPaths": [],
