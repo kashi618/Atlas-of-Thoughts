@@ -12,7 +12,7 @@ aliases:
 - Any constraints on the data each column contains
 
 ## Process
-### 1. Drop tables
+### 1. Dropping Tables
 - Dropping tables before defining them helps avoid the "Table Already Exists" error, and also helps completely reset an existing one.
 ```sql showlinenumbers
 --Drop the table movies and actors
@@ -41,8 +41,8 @@ CREATE TABLE actors (
 );
 ```
 
-### 3. Define a primary key (PK)
-There are two main ways to define a primary key
+### 3. Defining a Primary Key (PK) and Foreign Key (FK)
+There are two main ways to define a primary key:
 
 1. **Column Level**
 ```sql showlinenumbers {2}
@@ -61,9 +61,38 @@ CREATE TABLE actor(
 );
 ```
 
-### 3.1 Compound/composite primary key
+### 3.1 Primary Key Constraint
+A rule that enforces uniqueness and prevents null values on a column. To enforce this rule, PostgreSQL automatically creates a unique index on that column
+
+- The code below creates a constraint primary key called `actors_pk` using the `actorID` attribute
 ```sql showlinenumbers
-CREATE TABLE 
+CREATE TABLE actors (
+    actorID SERIAL,
+    actorName VARCHAR(30),
+    CONSTRAINT actors_pk PRIMARY KEY (actorID)
+);
+```
+
+### 3.2 Compound/composite primary key
+Currently we have a table for movies, and a table for actors. Now we want to make another table that shows the cast of actors for each movie. If we only use foreign keys, then each movie will have duplicates, due to the `movieID` being counted and the `actorID` being counted aswell.
+
+| movieID | actorID | rolePlayed          |
+| :---    | :---    | :---                |
+| 101     | 201     | Tony Stark          |
+| 101     | 201     | Tony Stark          |
+| 101     | 201     | Iron Man            |
+| 101     | 202     | Pepper Potts        |
+| 102     | 201     | Sherlock Holmes     |
+
+
+- In PostgreSQL, we fix this using a compound primary key that combines the `movieID` and `actorID`
+```sql showlinenumbers {5}
+CREATE TABLE movieCast(
+	movieID SERIAL,
+	actorID SERIAL,
+	rolePlayed VARCHAR(50),
+	PRIMARY KEY (movieID, actorID)
+);
 ```
 
 

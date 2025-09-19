@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -221,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL.md",
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PostgreSQL"
+              "title": "Outline of PostgreSQL - Creating Tables - IMDb Example"
             }
           },
           {
@@ -330,15 +330,15 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "4d76971a86043564",
+  "active": "a81a0e0a5e1d1895",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL - Inserting Data - IMDb Example.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Primary and Foreign Keys.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL - Inserting Data - IMDb Example.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md",
+    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Database Management System (DBMS).md",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Pasted image 20250919124610.png",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/2025-09-19-101452_hyprshot.png",
