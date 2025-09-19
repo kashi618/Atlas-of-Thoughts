@@ -39,41 +39,8 @@ Used to manipulate the table
 | DELETE FROM | Remove data from existing table   |
 | SELECT      | Retrives data from existing table |
 
-## Creating a Table (IMBD)
-
-
-#Ada-Lovelace 
-
-
-
-
-
-#### 4. Insert data
-```
-INSERT INTO actors values
-```
-
-### Compound Primary Key
-What if we decide that we have more than 1 primary keys, then we can use a compound primary key
-```sql
-CREATE TABLE movieCast(
-	movieID SERIAL,
-	actorID SERIAL,
-	roleplayed VARCHAR950),
-	PRIMARY KEY (movieID, actorID)
-)
-```
-
-### Foreign Keys
-
-
-### Partial and Full Insertion
-**Partial Insertion**
-when you insert data into specific attributes (if you don't have data for all attributes)
-
-**Full Insertion**
-When you insert data into each attribute
-
 
 # See Also
 [[$ Databases 1]]
+[[PostgreSQL - Creating Tables - IMDb Example]]
+[[PostgreSQL - Inserting Data - IMDb Example]]

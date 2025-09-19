@@ -11,15 +11,18 @@ aliases:
 - Size of each column
 - Any constraints on the data each column contains
 
-## Process
+## IMDb Example
 ### 1. Dropping Tables
-- Dropping tables before defining them helps avoid the "Table Already Exists" error, and also helps completely reset an existing one.
+- When making a SQL script, dropping tables at the start of the script helps clear out any old versions of our tables. (if we are testing, etc)
+- However, the `DROP TABLE tableName` gives an error if no such table exists. Therefore, we use the `DROP TABLE IF EXISTS tableName` command.
+- When dropping tables, you must drop them in the order they were created. If we drop a table that contains a column that is a foreign key in another table, we will get an error message. (drop movieCast > drop actors > drop movies)
 ```sql showlinenumbers
 --Drop the table movies and actors
 DROP TABLE IF EXISTS movies; --Information about the movie
 DROP TABLE IF EXISTS actors; --Information about actors
 DROP TABLE IF EXISTS movieCast; --List movie with actors and roles
 ```
+
 
 ### 2. Create table with attributes
 For this example, we will create 2 tables. One to store information about each movie, and one to store information about each actor. 
@@ -65,7 +68,7 @@ CREATE TABLE actor(
 A rule that enforces uniqueness and prevents null values on a column. To enforce this rule, PostgreSQL automatically creates a unique index on that column
 
 - The code below creates a constraint primary key called `actors_pk` using the `actorID` attribute
-```sql showlinenumbers
+```sql showlinenumbers {4}
 CREATE TABLE actors (
     actorID SERIAL,
     actorName VARCHAR(30),
@@ -73,28 +76,63 @@ CREATE TABLE actors (
 );
 ```
 
-### 3.2 Compound/composite primary key
-Currently we have a table for movies, and a table for actors. Now we want to make another table that shows the cast of actors for each movie. If we only use foreign keys, then each movie will have duplicates, due to the `movieID` being counted and the `actorID` being counted aswell.
+### 3.2 Compound Primary key
+For the movieCast table, if we use the primary key `movieID` and `actorID`, then there could be duplicates. To fix this, we can use a compound primary key, that uses `movieID` and `actorID`
 
-| movieID | actorID | rolePlayed          |
-| :---    | :---    | :---                |
-| 101     | 201     | Tony Stark          |
-| 101     | 201     | Tony Stark          |
-| 101     | 201     | Iron Man            |
-| 101     | 202     | Pepper Potts        |
-| 102     | 201     | Sherlock Holmes     |
+**Example: Without a compound primary key, this would be valid, despite the duplications**
 
+| movieID | actorID | rolePlayed      |
+| :------ | :------ | :-------------- |
+| 101     | 201     | Tony Stark      |
+| 101     | 201     | Tony Stark      |
+| 101     | 201     | Iron Man        |
+| 101     | 202     | Pepper Potts    |
+| 102     | 201     | Sherlock Holmes |
 
-- In PostgreSQL, we fix this using a compound primary key that combines the `movieID` and `actorID`
-```sql showlinenumbers {5}
+- This is how to create a compound key
+```sql showlinenumbers {7}
 CREATE TABLE movieCast(
-	movieID SERIAL,
-	actorID SERIAL,
-	rolePlayed VARCHAR(50),
-	PRIMARY KEY (movieID, actorID)
+    movieID INTEGER NOT NULL,
+    actorID INTEGER NOT NULL,
+    rolePlayed VARCHAR(50),
+    
+    -- The Compound Primary Key (Prevents duplicates)
+    PRIMARY KEY (movieID, actorID),
 );
 ```
 
+### 3.3 Defining Foreign Key
+We can use a foreign key to link the `movieCast` table to the `actors` table and `movies` table like this
+```sql showlinenumbers {10,11}
+CREATE TABLE movieCast(
+    movieID INTEGER NOT NULL,
+    actorID INTEGER NOT NULL,
+    rolePlayed VARCHAR(50),
+    
+    -- The Compound Primary Key (Prevents duplicates)
+    PRIMARY KEY (movieID, actorID),
+    
+    -- The Foreign Keys (Ensure valid references)
+    FOREIGN KEY (movieID) REFERENCES Movies(movieID),
+    FOREIGN KEY (actorID) REFERENCES Actors(actorID)
+);
+```
+
+Same thing but with constraints
+```sql
+CREATE TABLE movieCast(
+    movieID INTEGER NOT NULL,
+    actorID INTEGER NOT NULL,
+    rolePlayed VARCHAR(50),
+    
+    -- The Compound Primary Key (Prevents duplicates)
+    CONSTRAINT moviecast_pk PRIMARY KEY (movieID, actorID),
+    
+    -- The Foreign Keys (Ensure valid references)
+    CONSTRAINT moviecast_movie_fk FOREIGN KEY (movieID) REFERENCES Movies(movieID),
+    CONSTRAINT moviecast_actor_fk FOREIGN KEY (actorID) REFERENCES Actors(actorID)
+);
+```
 
 
 # See Also
