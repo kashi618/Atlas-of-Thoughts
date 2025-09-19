@@ -58,7 +58,7 @@
               "state": {
                 "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,

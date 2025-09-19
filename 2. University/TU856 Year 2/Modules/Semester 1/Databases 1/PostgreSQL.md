@@ -39,7 +39,7 @@ nice
 ## What is a Table?
 - Object used for storing data in a database
 
-## Creating a Table
+## Creating a Table (IMBD)
 ### Table Requirements
 - Table name
 - Name of each column
@@ -48,36 +48,71 @@ nice
 - Any constraints on the data each column contains
 
 ### Process to Create a Table
-1. Drop tables
+#### 1. Drop tables
 ```sql
 --Drop the table movies and actors
 DROP TABLE IF EXISTS movies;
 DROP TABLE IF EXISTS actors;
 ```
 
-2. Create table with "movieID" as primary key
+#### 2. Create table with attributes
 ```sql
---One way to set primary key
-CREATE TABLE actors (
-	movieID TEXT PRIMARY KEY,
-	movieTitle TEXT,
-	relearYear INT,
-	director TEXT,
-	budget numeric(8, 2),
-	profit numeric(8, 2)
-);
-
---Another way to set primary key
-CREATE TABLE actors (
+CREATE TABLE movies (
 	movieID TEXT,
 	movieTitle TEXT,
 	relearYear INT,
 	director TEXT,
-	budget numeric(8, 2),
-	profit numeric(8, 2),
-	PRIMARY KEY(movieID)
+	budget numeric(8, 2), --8 digits with 
+	profit numeric(8, 2)  --2 decimal places
+);
+
+CREATE TABLE actors (
+	actorID SERIAL,
+	actorName TEXT
 );
 ```
+
+#### 3. Define a primary key
+**Column Level**
+```sql
+CREATE TABLE actor(
+	actorID SERIAL PRIMARY KEY,
+	actorName VARCHAR(30)
+);;
+```
+
+**Table Level**
+```sql {4}
+CREATE TABLE actor(
+	actorID SERIAL,
+	actorName VARCHAR(30),
+	PRIMARY KEY (actorID)
+);
+```
+
+
+#### 4. Insert data
+```
+INSERT INTO actors values
+```
+
+### Compound Primary Key
+What if we decide that movieID and actorID are unique, we can use a compound primary key. In this case, it
+```sql
+CREATE TABLE movieCast(
+	movieID SERIAL,
+	actorID SERIAL,
+	roleplayed VARCHAR950),
+	PRIMARY KEY (movieID, actorID)
+)
+```
+
+### Partial and Full Insertion
+**Partial Insertion**
+when you insert data into specific attributes (if you don't have data for all attributes)
+
+**Full Insertion**
+When you insert data into each attribute
 
 
 # See Also
