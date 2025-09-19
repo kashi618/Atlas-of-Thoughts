@@ -15,11 +15,14 @@ aliases:
 - Durability
 
 ### Primary Key
+Unique key used to identify rows
 - Is unique
 - Does not change
 - Not NULL
 
-### Foreign Keys Rules
+### Foreign Key
+They are used to define relationships between tables
+
 - Does not need to be unique
 - Does not need to contain value
 

@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md",
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Databases 1"
+              "title": "Relational Databases"
             }
           },
           {
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL.md",
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PostgreSQL"
+              "title": "Outline of Relational Databases"
             }
           },
           {
@@ -284,7 +284,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 246.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -305,11 +305,11 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "6601ba9587b28913",
+  "active": "24cd6ab3e61a2398",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Pasted image 20250919101458.png",
     "conflict-files-obsidian-git.md",
     "Fetch Execute Cycle.md",

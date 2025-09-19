@@ -51,8 +51,9 @@ nice
 #### 1. Drop tables
 ```sql
 --Drop the table movies and actors
-DROP TABLE IF EXISTS movies;
-DROP TABLE IF EXISTS actors;
+DROP TABLE IF EXISTS movies; --Information about the movie
+DROP TABLE IF EXISTS actors; --Information about actors
+DROP TABLE IF EXISTS movieCast; --List movie with actors and roles
 ```
 
 #### 2. Create table with attributes
@@ -97,7 +98,7 @@ INSERT INTO actors values
 ```
 
 ### Compound Primary Key
-What if we decide that movieID and actorID are unique, we can use a compound primary key. In this case, it
+What if we decide that we have more than 1 primary keys, then we can use a compound primary key
 ```sql
 CREATE TABLE movieCast(
 	movieID SERIAL,
@@ -106,6 +107,9 @@ CREATE TABLE movieCast(
 	PRIMARY KEY (movieID, actorID)
 )
 ```
+
+### Foreign Keys
+
 
 ### Partial and Full Insertion
 **Partial Insertion**
