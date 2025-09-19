@@ -3,7 +3,7 @@
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
   "strictLineBreaks": false,
-  "vimMode": true,
+  "vimMode": false,
   "showUnsupportedFiles": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "./",

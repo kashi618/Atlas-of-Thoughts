@@ -18,6 +18,18 @@ nice
 ```
 
 
+| Data Type                      | Description                                           |
+| ------------------------------ | ----------------------------------------------------- |
+| INTEGER                        | 32-bit signed integer                                 |
+| BIGINT                         | 64-bit signed integer                                 |
+| CHAR(n)                        | Fixed length string of EXACT n length characters      |
+| VARCHAR(n)                     | Variable length string of MAX n length characters     |
+| TEXT                           | Variable length string without max length             |
+| TIMESTAMP                      | Date and time, including fractional seconds           |
+| DATE                           | Date without time component                           |
+| BOOLEAN                        | Represents true or false values                       |
+| DECIMAL(p, s) or NUMERIC(p, s) | Fixed point number with p digits and s decimal places |
+
 ## DDL and DML
 
 ### Data Definition Language (DDL)

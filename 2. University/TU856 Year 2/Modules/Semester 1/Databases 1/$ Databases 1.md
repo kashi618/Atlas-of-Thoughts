@@ -8,7 +8,7 @@ aliases:
 - [[Database Management System (DBMS)]]
 - [[Primary and Foreign Keys]]
 
-## PostgreSQL
+## SQL
 - [[PostgreSQL]]
 	- [[PostgreSQL - Creating Tables - IMDb Example]]
 	- [[PostgreSQL - Inserting Data - IMDb Example]]

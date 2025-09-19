@@ -25,8 +25,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "ac8e171c35f720ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Web Development 2/$ Web Development 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Web Development 2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -148,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Home Page/Home.canvas",
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Web Development 2/$ Web Development 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of $ Web Development 2"
             }
           },
           {
@@ -235,7 +259,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,21 +281,21 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ac8e171c35f720ab",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL - Inserting Data - IMDb Example.md",
     "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/ACID Model.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL - Inserting Data - IMDb Example.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Primary and Foreign Keys.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Database Management System (DBMS).md",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Pasted image 20250919124610.png",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/2025-09-19-101452_hyprshot.png",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Pasted image 20250919101458.png",
     "3. General/Notes/How to use Obsidian.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/ACID Model.md",
     "conflict-files-obsidian-git.md",
     "Fetch Execute Cycle.md",
     "2. University/TU856 Year 1/Modules/Programming/Data Types - C.md",

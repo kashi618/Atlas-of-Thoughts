@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "$ Web Development 2",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Web Development 2/$ Web Development 2.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
     {
-      "basename": "PostgreSQL - Creating Tables - IMDb Example",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md"
-    },
-    {
       "basename": "PostgreSQL",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL.md"
+    },
+    {
+      "basename": "$ Databases 1",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md"
+    },
+    {
+      "basename": "ACID Model",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/ACID Model.md"
+    },
+    {
+      "basename": "PostgreSQL - Creating Tables - IMDb Example",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md"
     },
     {
       "basename": "PostgreSQL - Inserting Data - IMDb Example",
@@ -25,10 +37,6 @@
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md"
     },
     {
-      "basename": "$ Databases 1",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md"
-    },
-    {
       "basename": "Database Management System (DBMS)",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Database Management System (DBMS).md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "How to use Obsidian",
       "path": "3. General/Notes/How to use Obsidian.md"
-    },
-    {
-      "basename": "ACID Model",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/ACID Model.md"
     },
     {
       "basename": "Data Types - C",
@@ -71,10 +75,6 @@
     {
       "basename": "Instruction Cycle (LMC)",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Instruction Cycle (LMC).md"
-    },
-    {
-      "basename": "$ Web Development 2",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Web Development 2/$ Web Development 2.md"
     },
     {
       "basename": "OS1 Operating Systems 1",
