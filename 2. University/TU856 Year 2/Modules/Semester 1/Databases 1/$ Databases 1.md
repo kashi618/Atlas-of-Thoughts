@@ -1,3 +1,3 @@
 [[Relational Databases]]
 
-[[SQL]]
+[[PostgreSQL]]

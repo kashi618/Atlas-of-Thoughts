@@ -51,12 +51,12 @@
             }
           },
           {
-            "id": "1f3b2d9cf487a366",
+            "id": "6601ba9587b28913",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md",
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,35 +71,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Relational Databases"
-            }
-          },
-          {
-            "id": "5b57b2b0a2e9e60b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "PostgreSQL"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of PostgreSQL"
             }
           },
           {
@@ -329,12 +305,14 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "5b57b2b0a2e9e60b",
+  "active": "6601ba9587b28913",
   "lastOpenFiles": [
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Pasted image 20250919101458.png",
     "conflict-files-obsidian-git.md",
     "Fetch Execute Cycle.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md",
     "2. University/TU856 Year 1/Modules/Programming/Data Types - C.md",
     "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Programming Paradigms.md",
@@ -360,7 +338,6 @@
     "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Opcode and Operand.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Little Man Computer.md",
     "6. Templates/1005 Communications Template.md",
-    "6. Templates/SE1 Software Engineering 1.md",
     "Ink/Drawing/2025.9.16 - 13.26pm.drawing",
     "Ink/Drawing",
     "Ink",
@@ -377,7 +354,6 @@
     "9. Bases",
     "2025-09-01-153453_hyprshot.png",
     "Excalidraw/Scripts/Downloaded/Invert colors.svg",
-    "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
     "Untitled.canvas"
   ]
 }

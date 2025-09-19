@@ -3,21 +3,28 @@ tags:
   - Databases1
 aliases:
 ---
-ACID MODEL
+
+![[Pasted image 20250919101458.png]]
+
+
+
+### ACID MODEL
 - Atomicity
 - Consistency
 - Isolation
 - Durability
 
-Primary Key Rules
-- Needs to be unique (no duplicates)
-- Needs to contain a value
+### Primary Key
+- Is unique
+- Does not change
+- Not NULL
 
-Foreign Keys Rules
+### Foreign Keys Rules
 - Does not need to be unique
 - Does not need to contain value
 
-Metadata
+
+### Metadata
 Describes characteristics of the data, stored in a particular column
 
 
