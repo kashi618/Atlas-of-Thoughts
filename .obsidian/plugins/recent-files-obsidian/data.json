@@ -1,32 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Database Management System (DBMS)",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Database Management System (DBMS).md"
+      "basename": "PostgreSQL",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL.md"
+    },
+    {
+      "basename": "PostgreSQL - Inserting Data - IMDb Example",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL - Inserting Data - IMDb Example.md"
+    },
+    {
+      "basename": "PostgreSQL - Creating Tables - IMDb Example",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md"
     },
     {
       "basename": "$ Databases 1",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md"
     },
     {
-      "basename": "Primary and Foreign Keys",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Primary and Foreign Keys.md"
-    },
-    {
       "basename": "Relational Databases",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md"
     },
     {
-      "basename": "PostgreSQL",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL.md"
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Primary and Foreign Keys",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Primary and Foreign Keys.md"
+    },
+    {
+      "basename": "Database Management System (DBMS)",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Database Management System (DBMS).md"
+    },
+    {
+      "basename": "Pasted image 20250919124610",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Pasted image 20250919124610.png"
+    },
+    {
+      "basename": "How to use Obsidian",
+      "path": "3. General/Notes/How to use Obsidian.md"
     },
     {
       "basename": "ACID Model",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/ACID Model.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Data Types - C",
@@ -183,22 +199,6 @@
     {
       "basename": "Algorithms",
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/Algorithms.md"
-    },
-    {
-      "basename": "$ Algorithm Design",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/$ Algorithm Design.md"
-    },
-    {
-      "basename": "Binary Search",
-      "path": "2. University/Algorithms/Searching Algorithms/Binary Search.md"
-    },
-    {
-      "basename": "Linear Search",
-      "path": "2. University/Algorithms/Searching Algorithms/Linear Search.md"
-    },
-    {
-      "basename": "$N.A Mergesort - O(n log n)",
-      "path": "2. University/Algorithms/Sorting Algorithms/$N.A Mergesort - O(n log n).md"
     }
   ],
   "omittedPaths": [],

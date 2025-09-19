@@ -27,14 +27,14 @@
             }
           },
           {
-            "id": "29dfdff6993905b9",
+            "id": "4d76971a86043564",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md",
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -47,16 +47,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Databases 1"
+              "title": "PostgreSQL"
             }
           },
           {
-            "id": "0c3c69d62b21a858",
+            "id": "865a24163a2d2aa1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Database Management System (DBMS).md",
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL - Inserting Data - IMDb Example.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,18 +71,18 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Database Management System (DBMS)"
+              "title": "PostgreSQL - Inserting Data - IMDb Example"
             }
           },
           {
-            "id": "2f8119e5d4613a77",
+            "id": "a81a0e0a5e1d1895",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Primary and Foreign Keys.md",
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -95,35 +95,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Primary and Foreign Keys"
-            }
-          },
-          {
-            "id": "c376f36774a27dc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Relational Databases"
+              "title": "PostgreSQL - Creating Tables - IMDb Example"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Database Management System (DBMS).md",
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Database Management System (DBMS)"
+              "title": "Outline of PostgreSQL"
             }
           },
           {
@@ -332,7 +308,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -353,16 +330,21 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "0c3c69d62b21a858",
+  "active": "4d76971a86043564",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Database Management System (DBMS).md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Primary and Foreign Keys.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL - Inserting Data - IMDb Example.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/ACID Model.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md",
     "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Primary and Foreign Keys.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Database Management System (DBMS).md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Pasted image 20250919124610.png",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/2025-09-19-101452_hyprshot.png",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Pasted image 20250919101458.png",
+    "3. General/Notes/How to use Obsidian.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/ACID Model.md",
     "conflict-files-obsidian-git.md",
     "Fetch Execute Cycle.md",
     "2. University/TU856 Year 1/Modules/Programming/Data Types - C.md",
@@ -383,9 +365,6 @@
     "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Pasted image 20250917124726.png",
     "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Pasted image 20250917124649.png",
     "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Pasted image 20250917124626.png",
-    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Software Engineering 1 - 9-15.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/asd211wqsad.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Von Neumann Architecture.md",
     "Ink/Drawing/2025.9.16 - 13.26pm.drawing",
     "Ink/Drawing",
     "Ink",
@@ -400,8 +379,6 @@
     "8. Other/Descartes.gif",
     "8. Other/explosion.gif",
     "9. Bases",
-    "2025-09-01-153453_hyprshot.png",
-    "Excalidraw/Scripts/Downloaded/Invert colors.svg",
     "Untitled.canvas"
   ]
 }

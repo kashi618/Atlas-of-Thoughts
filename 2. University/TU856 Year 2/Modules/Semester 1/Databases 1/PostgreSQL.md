@@ -3,7 +3,7 @@ tags:
   - Databases1
 aliases:
 ---
-Commenting
+## How to Comment
 - Single Line
 ```SQL
 --Cool Comment
@@ -20,14 +20,17 @@ nice
 
 ## DDL and DML
 
-**DDL**
+### Data Definition Language (DDL)
+Used to define, modify, and delete tables
 
 | Command      | Definition                                                  |
 | ------------ | ----------------------------------------------------------- |
 | CREATE TABLE | Defines a new table and its columns                         |
 | ALTER TABLE  | Modifies existing table structure (adding/removing columns) |
 | DROP TABLE   | Deletes existing table and its data                         |
-**DML**
+i
+### Data Manipulation Language (DML)
+Used to manipulate the table
 
 | Command     | Definition                        |
 | ----------- | --------------------------------- |
@@ -36,60 +39,13 @@ nice
 | DELETE FROM | Remove data from existing table   |
 | SELECT      | Retrives data from existing table |
 
-## What is a Table?
-- Object used for storing data in a database
-
 ## Creating a Table (IMBD)
-### Table Requirements
-- Table name
-- Name of each column
-- Data type of each column
-- Size of each column
-- Any constraints on the data each column contains
 
-### Process to Create a Table
-#### 1. Drop tables
-```sql
---Drop the table movies and actors
-DROP TABLE IF EXISTS movies; --Information about the movie
-DROP TABLE IF EXISTS actors; --Information about actors
-DROP TABLE IF EXISTS movieCast; --List movie with actors and roles
-```
 
-#### 2. Create table with attributes
-```sql
-CREATE TABLE movies (
-	movieID TEXT,
-	movieTitle TEXT,
-	relearYear INT,
-	director TEXT,
-	budget numeric(8, 2), --8 digits with 
-	profit numeric(8, 2)  --2 decimal places
-);
+#Ada-Lovelace 
 
-CREATE TABLE actors (
-	actorID SERIAL,
-	actorName TEXT
-);
-```
 
-#### 3. Define a primary key
-**Column Level**
-```sql
-CREATE TABLE actor(
-	actorID SERIAL PRIMARY KEY,
-	actorName VARCHAR(30)
-);;
-```
 
-**Table Level**
-```sql {4}
-CREATE TABLE actor(
-	actorID SERIAL,
-	actorName VARCHAR(30),
-	PRIMARY KEY (actorID)
-);
-```
 
 
 #### 4. Insert data
