@@ -10,21 +10,86 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -380,
+                  "y": -340,
+                  "zoom": -0.07083248410464736
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "7dd3d9182c3115c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/$ Software Engineering 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Software Engineering 1"
+            }
+          },
+          {
+            "id": "3e5bb42f5a5d3e9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Use Cases and Scenarios.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Use Cases and Scenarios"
+            }
+          },
+          {
+            "id": "10721380b3f9f8c7",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://drive.google.com/file/d/1pOmnuGFElqT72bJYHbpYChy_Ioxc2aFg/view",
+                "title": "Use-cases.pdf - Google Drive",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Use-cases.pdf - Google Drive"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +173,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "02e44a70fbac7bb0",
@@ -254,15 +320,28 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3e5bb42f5a5d3e9e",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Use Cases and Scenarios.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/$ Software Engineering 1.md",
+    "2. University/TU856 Year 1/Modules/Programming/Structures - Structure Pointers - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md",
+    "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Module Information.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Opcode and Operand.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Von Neumann Architecture.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Hardware and Software Reliability.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Software Engineering 1 9-17.md",
+    "6. Templates/M2 Mathematics 2.md",
+    "6. Templates/OOP Object Oriented programming.md",
+    "6. Templates/OS1 Operating Systems 1.md",
+    "6. Templates/WD2 Web Development.md",
+    "Fetch Execute Cycle.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md",
     "conflict-files-obsidian-git.md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Programming Paradigms.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/$ Software Engineering 1.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Software Engineering 1 - 9-15.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Web Development 2/$ Web Development 2.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL.md",
@@ -270,21 +349,9 @@
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/ACID Model.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL - Inserting Data - IMDb Example.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Primary and Foreign Keys.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Database Management System (DBMS).md",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Pasted image 20250919124610.png",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/2025-09-19-101452_hyprshot.png",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Pasted image 20250919101458.png",
-    "3. General/Notes/How to use Obsidian.md",
-    "Fetch Execute Cycle.md",
-    "2. University/TU856 Year 1/Modules/Programming/Data Types - C.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Module Information.md",
-    "6. Templates/M2 Mathematics 2.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Mathematics 2/$ Mathematics 2.md",
-    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Instruction Cycle (LMC).md",
-    "6. Templates/OS1 Operating Systems 1.md",
-    "6. Templates/WD2 Web Development 2.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Pasted image 20250917124726.png",
     "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Pasted image 20250917124649.png",
     "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Pasted image 20250917124626.png",
