@@ -9,7 +9,9 @@ aliases:
 
 ## Basics
 - Every program starts in a class
-- 
+
+## Convention
+- Class names begin with capital
 
  
 # See Also
