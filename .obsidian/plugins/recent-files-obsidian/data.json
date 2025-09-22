@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Structures - Anatomy - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Structures - Anatomy - C.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "Structures - Creating Structures - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Structures - Creating Structures - C.md"
+    },
+    {
+      "basename": "Structures - Structure Pointers - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Structures - Structure Pointers - C.md"
+    },
+    {
+      "basename": "Structures - Passing to Functions - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Structures - Passing to Functions - C.md"
+    },
+    {
+      "basename": "Strings - About Strings and String Anatomy - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Strings - About Strings and String Anatomy - C.md"
+    },
+    {
+      "basename": "Dynamic Memory Allocation - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Dynamic Memory Allocation - C.md"
+    },
+    {
+      "basename": "$UNFINISHED Programming Pitfalls - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/$UNFINISHED Programming Pitfalls - C.md"
+    },
+    {
+      "basename": "Programming Paradigms",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Programming Paradigms.md"
+    },
+    {
+      "basename": "Module Information",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Module Information.md"
+    },
+    {
       "basename": "conflict-files-obsidian-git",
       "path": "conflict-files-obsidian-git.md"
     },
@@ -19,14 +59,6 @@
     {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
-    },
-    {
-      "basename": "Programming Paradigms",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Programming Paradigms.md"
-    },
-    {
-      "basename": "Module Information",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Module Information.md"
     },
     {
       "basename": "M2 Mathematics 2",
@@ -167,38 +199,6 @@
     {
       "basename": "2025.9.3 - 15.54pm (2)",
       "path": "Ink/Drawing/2025.9.3 - 15.54pm (2).drawing"
-    },
-    {
-      "basename": "9. Bases",
-      "path": "9. Bases.md"
-    },
-    {
-      "basename": "Algorithms",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/Algorithms.md"
-    },
-    {
-      "basename": "$ Algorithm Design",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Algorithm Design and Problem Solving/$ Algorithm Design.md"
-    },
-    {
-      "basename": "Binary Search",
-      "path": "2. University/Algorithms/Searching Algorithms/Binary Search.md"
-    },
-    {
-      "basename": "Linear Search",
-      "path": "2. University/Algorithms/Searching Algorithms/Linear Search.md"
-    },
-    {
-      "basename": "$N.A Mergesort - O(n log n)",
-      "path": "2. University/Algorithms/Sorting Algorithms/$N.A Mergesort - O(n log n).md"
-    },
-    {
-      "basename": "Insertion Sort - O(n²)",
-      "path": "2. University/Algorithms/Sorting Algorithms/Insertion Sort - O(n²).md"
-    },
-    {
-      "basename": "Selection Sort - O(n²)",
-      "path": "2. University/Algorithms/Sorting Algorithms/Selection Sort - O(n²).md"
     }
   ],
   "omittedPaths": [],

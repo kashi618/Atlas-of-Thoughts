@@ -1,55 +1,53 @@
 {
   "main": {
-    "id": "3d1ea8d64dabd9f1",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "70e09ead894e0de8",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "4895439786fb2328",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "1. Home Page/Home.canvas",
+                "viewState": {
+                  "x": -448.1820172052664,
+                  "y": -294.0903818389445,
+                  "zoom": -0.9041546472310057
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
             }
           },
           {
-            "id": "8d5731166ca137d1",
+            "id": "ddba2aea23cf7cfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese Communist Party.md",
-                "mode": "source",
+                "file": "2. University/TU856 Year 1/Modules/Programming/Structures - Anatomy - C.md",
+                "mode": "preview",
+                "source": false,
                 "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "641f5e55937e1850",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "37b6d0f7644a0861",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1a5c84801ddc4beb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Structures - Anatomy - C"
             }
           }
         ],
@@ -67,7 +65,9 @@
         "type": "leaf",
         "state": {
           "type": "recent-files",
-          "state": {}
+          "state": {},
+          "icon": "clock",
+          "title": "Recent Files"
         }
       },
       {
@@ -76,8 +76,11 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
-          }
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -86,8 +89,15 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#Phenomenon"
-          }
+            "query": "tag:#Phenomenon",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -97,8 +107,12 @@
           "type": "tag",
           "state": {
             "sortOrder": "frequency",
-            "useHierarchy": true
-          }
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -110,7 +124,9 @@
             "sortOrder": "frequency",
             "showSearch": false,
             "searchQuery": ""
-          }
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
         }
       },
       {
@@ -118,11 +134,23 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "da651cdda95aae8f",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {},
+          "icon": "sheets-in-box",
+          "title": "File Tree"
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 6
   },
   "right": {
     "id": "a85ce35d363b07c7",
@@ -133,7 +161,9 @@
         "type": "leaf",
         "state": {
           "type": "calendar",
-          "state": {}
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "calendar"
         }
       },
       {
@@ -142,7 +172,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Chinese Communist Party.md",
+            "file": "2. University/TU856 Year 1/Modules/Programming/Structures - Anatomy - C.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -150,7 +180,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -159,10 +191,11 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Chinese Communist Party.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -171,8 +204,12 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Chinese Communist Party.md"
-          }
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       },
       {
@@ -180,7 +217,9 @@
         "type": "leaf",
         "state": {
           "type": "git-history-view",
-          "state": {}
+          "state": {},
+          "icon": "history",
+          "title": "History"
         }
       }
     ],
@@ -188,44 +227,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "random-note:Open random note": false,
-      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "widgets:Add widget": false,
+      "homepage:Open homepage": false,
+      "obsidian-git:Open Git source control": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8d5731166ca137d1",
+  "active": "ddba2aea23cf7cfc",
   "lastOpenFiles": [
+    "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md",
+    "2. University/TU856 Year 1/Modules/Programming/Structures - Creating Structures - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Structures - Structure Pointers - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Structures - Passing to Functions - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Strings - About Strings and String Anatomy - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Dynamic Memory Allocation - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/$UNFINISHED Programming Pitfalls - C.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Programming Paradigms.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Module Information.md",
+    "1. Home Page/Home.canvas",
+    "Fetch Execute Cycle.md",
+    "6. Templates/WD2 Web Development 2.md",
+    "6. Templates/OS1 Operating Systems 1.md",
+    "6. Templates/OOP Object Oriented Programming.md",
+    "6. Templates/M2 Mathematics 2.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Web Development 2/$ Web Development 2.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Software Engineering 1 - 9-17.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Pasted image 20250917124726.png",
+    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Pasted image 20250917124649.png",
+    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Pasted image 20250917124626.png",
+    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Hardware and Software Reliability.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Von Neumann Architecture.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Opcode and Operand.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Little Man Computer.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Instruction Cycle (LMC).md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Mathematics 2/$ Mathematics 2.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS - 9.16.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS - 9.15.md",
     "Unsorted/3) Resource/Communism.md",
-    "Chinese Communist Party.md",
-    "Utopia.md",
-    "Unsorted/3) Resource/Abolition.md",
-    "TU856 - Computer Science.md",
-    "Notes/CMPU 1025 - Programming 1 (Sem. 1).md",
-    "Notes/CMPU 1005  - Communications.md",
-    "Notes/CMPU 1025 - Sep 16th 2024.md",
-    "Notes/CMPU 1012 - IT Fundamentals.md",
-    "Notes/CMPU 1024 - Program Design.md",
-    "Notes/CMPU 1031 - Web Development 1.md",
-    "Notes/CMPU 1018 - Mathematics 1.md",
-    "Notes/2) Area/TV Shows & Movies & Anime & Manga.md",
-    "Notes/2) Area/$ Area Sorted $.md",
-    "Flight.md",
     "TEMP",
-    "Notes/2) Area/Weird Animals.md",
-    "Notes/2) Area/Books.md",
-    "Notes/2) Area/辣子鸡 - Sichuan Spicy Chicken.md",
-    "Notes/2) Area/Cheeses.md",
-    "$ Masterlist $.md",
-    "ToDo list.md",
-    "PARA/2) Area/GameDev ToDo List.md",
-    "Leaving Cert Study List.md",
-    "PARA/2) Area/Dark Souls Remastered Quest Guide.md",
-    "PARA/2) Area/$ Area Masterlist $.md",
-    "PARA/2) Area/$ Area Sorted $.md",
     "Templates/3) Resource",
     "Templates/1) Project",
     "Templates",
