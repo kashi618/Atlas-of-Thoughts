@@ -93,8 +93,12 @@ A relationship is a link or an association between two entities which is meaning
 To define a relationship, we must first:
 - Define the type and optionality of each relationship. Does it have to exist for all instances?
 - Define the cardinality/complexity/degree of these relationships
-Check [[]]
+Check [[Entity Relationship Diagram - Types of Relationships]]
 
+**Example**
+
+![[Pasted image 20250923130132.png]]
 # See Also
 [[$ Databases 1]]
-	
+[[Entity Relationship Diagram (ERD)]]
+[[Entity Relationship Diagram - Types of Relationships]]

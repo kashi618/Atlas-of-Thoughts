@@ -9,11 +9,11 @@ aliases:
 - [[Primary and Foreign Keys]]
 
 
-### Data Models and Entity Relat
+### Data Models and Entity Relationships Models
 - [[Data Models]]
-	- [[Data Models - Entity Relationship Model (ERD)]]
-	- [[Data models - Creating an Entity Relationship Model (ERD)]]
-	- [[]]
+- [[Entity Relationship Diagram (ERD)]]
+- [[Entity Relationship Diagram -  How to Create]]
+- [[Entity Relationship Diagram - Types of Relationships]]
 
 ## SQL
 - [[PostgreSQL]]
