@@ -27,6 +27,30 @@
             }
           },
           {
+            "id": "bb9c62b6fe5d60ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Databases 1"
+            }
+          },
+          {
             "id": "bfad931539dbfd45",
             "type": "leaf",
             "state": {
@@ -48,30 +72,6 @@
               },
               "icon": "lucide-file",
               "title": "Data models - Creating an Entity Relationship Model (ERD)"
-            }
-          },
-          {
-            "id": "bb9c62b6fe5d60ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Data Models - Entity Relationship Model (ERD).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Data Models - Entity Relationship Model (ERD)"
             }
           },
           {
@@ -221,13 +221,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Data models - Creating an Entity Relationship Model (ERD).md",
+                "file": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Data models - Creating an Entity Relationship Model (ERD)"
+              "title": "Outline of $ Databases 1"
             }
           },
           {
@@ -308,7 +308,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -329,17 +330,17 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "bfad931539dbfd45",
+  "active": "bb9c62b6fe5d60ba",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Data Models - Entity Relationship Model (ERD).md",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Data models - Creating an Entity Relationship Model (ERD).md",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md",
+    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Data Models - Entity Relationship Model (ERD).md",
+    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Pasted image 20250923111756.png",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Pasted image 20250923111737.png",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Pasted image 20250923111736.png",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Data Models.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Pasted image 20250923111432.png",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL - Inserting Data - IMDb Example.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md",
@@ -361,7 +362,6 @@
     "conflict-files-obsidian-git.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Programming Paradigms.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Pasted image 20250919124610.png",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/2025-09-19-101452_hyprshot.png",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Pasted image 20250919101458.png",

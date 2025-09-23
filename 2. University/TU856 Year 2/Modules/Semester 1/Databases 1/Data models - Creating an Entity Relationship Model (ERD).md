@@ -70,18 +70,30 @@ Each Competition has a:
 
 
 ### 3. Entity Constraints
-Identify relevant vlaue constraints on the attributes, andensure that whoever uses the data can be confident the data will be consistent
+Identify relevant value constraints on the attributes, and ensure that whoever uses the data can be confident the data will be consistent
+
+For each entity,
+- Identify which attribute will uniquely identify it (primary key), with these 3 rules
+	1. Value cannot change
+	2. Value cannot be null
+	3. Value must be unique
 
 #### Example
-Each council must have a unique numeric ID
-- Unique numeric ID
+Each council must have:
+- **Unique numeric ID**
 
 Each competition must have :
-- Unique numeric ID
+- **Unique numeric ID**
 
 Each team must have:
-- Unique numeric ID
+- **Unique numeric ID**
 
+### 4. Define the Relationships
+A relationship is a link or an association between two entities which is meaningful for the organisation. 
+To define a relationship, we must first:
+- Define the type and optionality of each relationship. Does it have to exist for all instances?
+- Define the cardinality/complexity/degree of these relationships
+Check [[]]
 
 # See Also
 [[$ Databases 1]]
