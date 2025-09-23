@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 1/Modules/Programming/Pointer to Pointer - C.md",
+                "file": "2. University/TU856 Year 1/Modules/Programming/Double Pointer - C.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pointer to Pointer - C"
+              "title": "Double Pointer - C"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/TU856 Year 1/Modules/Programming/Pointer to Pointer - C.md",
+                "file": "2. University/TU856 Year 1/Modules/Programming/Double Pointer - C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pointer to Pointer - C"
+              "title": "Outline of Double Pointer - C"
             }
           },
           {
@@ -264,7 +264,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md",
-    "2. University/TU856 Year 1/Modules/Programming/Pointer to Pointer - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Double Pointer - C.md",
     "2. University/TU856 Year 1/Modules/Programming/Subscript and Pointer Notation - C.md",
     "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Entity Relationship Diagram -  How to Create.md",
