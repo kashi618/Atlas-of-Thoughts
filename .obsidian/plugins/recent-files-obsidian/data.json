@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "$ Databases 1",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md"
+    },
+    {
+      "basename": "PostgreSQL",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL.md"
+    },
+    {
+      "basename": "PostgreSQL - Inserting Data - IMDb Example",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL - Inserting Data - IMDb Example.md"
+    },
+    {
+      "basename": "PostgreSQL - Creating Tables - IMDb Example",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -19,10 +39,6 @@
     {
       "basename": "$ C - Programming Language",
       "path": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md"
-    },
-    {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md"
     },
     {
       "basename": "conflict-files-obsidian-git",
@@ -49,24 +65,8 @@
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Web Development 2/$ Web Development 2.md"
     },
     {
-      "basename": "PostgreSQL",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL.md"
-    },
-    {
-      "basename": "$ Databases 1",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md"
-    },
-    {
       "basename": "ACID Model",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/ACID Model.md"
-    },
-    {
-      "basename": "PostgreSQL - Creating Tables - IMDb Example",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md"
-    },
-    {
-      "basename": "PostgreSQL - Inserting Data - IMDb Example",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/PostgreSQL - Inserting Data - IMDb Example.md"
     },
     {
       "basename": "Primary and Foreign Keys",

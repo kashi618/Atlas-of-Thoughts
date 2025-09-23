@@ -7,5 +7,7 @@
   "showUnsupportedFiles": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "./",
-  "spellcheck": true
+  "spellcheck": true,
+  "defaultViewMode": "preview",
+  "livePreview": false
 }
