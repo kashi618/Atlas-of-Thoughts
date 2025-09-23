@@ -18,78 +18,15 @@
                 "viewState": {
                   "x": -380,
                   "y": -340,
-                  "zoom": -0.07083248410464736
+                  "zoom": -1.4472978630014424
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "7dd3d9182c3115c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/$ Software Engineering 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ Software Engineering 1"
-            }
-          },
-          {
-            "id": "3e5bb42f5a5d3e9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Use Cases and Scenarios.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Use Cases and Scenarios"
-            }
-          },
-          {
-            "id": "10721380b3f9f8c7",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://drive.google.com/file/d/1pOmnuGFElqT72bJYHbpYChy_Ioxc2aFg/view",
-                "title": "Use-cases.pdf - Google Drive",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Use-cases.pdf - Google Drive"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,8 +110,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "02e44a70fbac7bb0",
@@ -320,7 +256,7 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "10721380b3f9f8c7",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Use Cases and Scenarios.md",
     "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/$ Software Engineering 1.md",

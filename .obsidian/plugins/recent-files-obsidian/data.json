@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Use Cases and Scenarios",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Use Cases and Scenarios.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "$ C - Programming Language",
       "path": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "$ Operating Systems 2",
