@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Pointer to Pointer - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Pointer to Pointer - C.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "Subscript and Pointer Notation - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Subscript and Pointer Notation - C.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Entity Relationship Diagram -  How to Create",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Entity Relationship Diagram -  How to Create.md"
+    },
+    {
+      "basename": "Entity Relationship Diagram - Types of Relationships",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Entity Relationship Diagram - Types of Relationships.md"
     },
     {
       "basename": "Pasted image 20250923130132",
@@ -15,14 +35,6 @@
     {
       "basename": "Entity Relationship Diagram (ERD)",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Entity Relationship Diagram (ERD).md"
-    },
-    {
-      "basename": "Entity Relationship Diagram - Types of Relationships",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Entity Relationship Diagram - Types of Relationships.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Data Models",
@@ -55,10 +67,6 @@
     {
       "basename": "Structures - Structure Pointers - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Structures - Structure Pointers - C.md"
-    },
-    {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md"
     },
     {
       "basename": "conflict-files-obsidian-git",
@@ -191,14 +199,6 @@
     {
       "basename": "Wishlist",
       "path": "3. General/Lists/Wishlist.md"
-    },
-    {
-      "basename": "2025.9.3 - 15.54pm (2)",
-      "path": "Ink/Drawing/2025.9.3 - 15.54pm (2).drawing"
-    },
-    {
-      "basename": "9. Bases",
-      "path": "9. Bases.md"
     }
   ],
   "omittedPaths": [],

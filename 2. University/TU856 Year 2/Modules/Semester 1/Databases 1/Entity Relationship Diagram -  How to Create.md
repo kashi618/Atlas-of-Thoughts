@@ -96,8 +96,8 @@ To define a relationship, we must first:
 Check [[Entity Relationship Diagram - Types of Relationships]]
 
 **Example**
-
 ![[Pasted image 20250923130132.png]]
+
 # See Also
 [[$ Databases 1]]
 [[Entity Relationship Diagram (ERD)]]

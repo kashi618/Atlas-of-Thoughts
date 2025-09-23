@@ -29,7 +29,7 @@ Multiple records in table A can relate to multiple records in B, and vice versa.
 **Example**
 Students can enrol in multiple courses, and each course can have multiple students enrolled.
 
-
+![[Pasted image 20250923130207.png]]
 
 # See Also
 [[$ Databases 1]]

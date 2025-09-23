@@ -48,6 +48,7 @@ aliases: []
 - [[Pointers - C]]
 - [[Dereference Operators - C]]
 - [[Subscript and Pointer Notation - C]]
+- [[Pointer to Pointer - C]]
 
 **Dynamic Memory Allocation**
 - [[Dynamic Memory Allocation - C]]
