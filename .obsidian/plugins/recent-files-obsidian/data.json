@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Data models - Creating an Entity Relationship Model (ERD)",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Data models - Creating an Entity Relationship Model (ERD).md"
+    },
+    {
+      "basename": "Data Models - Entity Relationship Model (ERD)",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Data Models - Entity Relationship Model (ERD).md"
+    },
+    {
       "basename": "$ Databases 1",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md"
+    },
+    {
+      "basename": "Data Models",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Data Models.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "PostgreSQL",
@@ -19,10 +35,6 @@
     {
       "basename": "$ Operating Systems 2",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Use Cases and Scenarios",
