@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Classes and Objects - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Classes and Objects - Java.md"
+    },
+    {
       "basename": "$ Object Oriented Programming",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md"
     },
     {
-      "basename": "Classes and Objects - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Classes and Objects - Java.md"
+      "basename": "Pascal Case",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Pascal Case.md"
+    },
+    {
+      "basename": "Packages - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Packages - Java.md"
+    },
+    {
+      "basename": "Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Java.md"
+    },
+    {
+      "basename": "OOPJ Object Oriented programming",
+      "path": "6. Templates/OOPJ Object Oriented programming.md"
+    },
+    {
+      "basename": "OOP Object Oriented programming",
+      "path": "6. Templates/OOP Object Oriented programming.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "Data Types - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Data Types - C.md"
+    },
+    {
+      "basename": "Order of Code - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Order of Code - C.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Untitled",
@@ -17,16 +53,8 @@
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/$ Operating Systems 1.md"
     },
     {
-      "basename": "Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Java.md"
-    },
-    {
       "basename": "$ Software Engineering 1",
       "path": "2. University/TU856 Year 2/Modules/Software Engineering 1/$ Software Engineering 1.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Software Engineering 1 - 9-24",
@@ -39,10 +67,6 @@
     {
       "basename": "Pointer to Pointer - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Pointer to Pointer - C.md"
-    },
-    {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md"
     },
     {
       "basename": "Subscript and Pointer Notation - C",
@@ -137,10 +161,6 @@
       "path": "3. General/Notes/How to use Obsidian.md"
     },
     {
-      "basename": "Data Types - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Data Types - C.md"
-    },
-    {
       "basename": "1005 Communications Template",
       "path": "6. Templates/1005 Communications Template.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Archlinux - Installation",
       "path": "3. General/Archlinux/Archlinux - Installation.md"
-    },
-    {
-      "basename": "Setting up MariaDB and Dbeaver",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/Setting up MariaDB and Dbeaver.md"
-    },
-    {
-      "basename": "DB1 Databases 1",
-      "path": "6. Templates/DB1 Databases 1.md"
-    },
-    {
-      "basename": "Projects",
-      "path": "3. General/Ideas/Projects.md"
-    },
-    {
-      "basename": "How to Get Irish Driver's License",
-      "path": "3. General/Notes/How to Get Irish Driver's License.md"
-    },
-    {
-      "basename": "Games to Play",
-      "path": "3. General/Lists/Games to Play.md"
     }
   ],
   "omittedPaths": [],

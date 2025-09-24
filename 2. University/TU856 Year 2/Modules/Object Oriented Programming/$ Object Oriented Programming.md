@@ -1,10 +1,12 @@
 ## General
 [[Module Information]]
 [[Programming Paradigms]]
+[[Pascal Case]]
 
 
 ## Java
 [[Java]]
+[[Packages - Java]]
 [[Classes and Objects - Java]]
 
 

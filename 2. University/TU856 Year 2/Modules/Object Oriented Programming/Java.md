@@ -1,6 +1,7 @@
 ---
 tags:
   - Operating-Systems
+  - Java
 aliases:
 ---
 **Advantages**

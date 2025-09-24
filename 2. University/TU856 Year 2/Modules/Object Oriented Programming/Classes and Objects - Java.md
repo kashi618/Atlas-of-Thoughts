@@ -1,18 +1,63 @@
 ---
 tags:
   - Object-Oriented-Programming
+  - Java
 aliases:
 ---
-## What is a Class?
+## What are Classes and Objects?
 - A Class is s blueprint which individual objects are created 
 - Every class has its *methods* and *attributes* that can be accessed and manipulated through the objects
-
+- 
 - A class is just a template, that allows you to instantiate (create) objects
+- To use a class, we can create an object. Each object contains a state, and a behaviour.
 
-### Example
-A book can be a class, and contain objects such as a book title, author, and price.
-Another example of a class could be a student. The student objects could be their name, ID, and email.
 
+
+### Example 1
+#### Class
+```java showlinenumbers
+public class DOGE {
+
+
+}
+```
+
+#### Objects
+**Characteristics**
+- Breed
+- Gender
+- Age
+
+**Behaviour**
+- playing()
+- barking()
+
+### Example 2 (about dogs)
+
+#### Class
+```java showlinenumbers
+public class DOGE {
+
+}
+```
+
+#### Objects
+**Characteristics**
+- Colour
+- Make
+- Model
+- HP
+
+**Behaviour**
+- driving()
+- parking()
+
+
+## Creating Classes
+
+```java
+
+```
 
 
 # See Also
