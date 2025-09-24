@@ -258,21 +258,21 @@
       "key": "N"
     }
   ],
-  "editor:toggle-checklist-status": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "M"
-    }
-  ],
   "editor:insert-wikilink": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "L"
+    }
+  ],
+  "editor:toggle-checklist-status": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
     }
   ]
 }
