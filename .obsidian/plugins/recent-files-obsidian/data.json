@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Games to Play",
+      "path": "3. General/Lists/Games to Play.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Structures - Anatomy - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Structures - Anatomy - C.md"
+    },
+    {
       "basename": "Classes and Objects - Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Classes and Objects - Java.md"
     },
@@ -39,10 +51,6 @@
     {
       "basename": "Order of Code - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Order of Code - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Untitled",
@@ -191,14 +199,6 @@
     {
       "basename": "CPU",
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Computer Architecture and Technology/CPU.md"
-    },
-    {
-      "basename": "OS - 9.15",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/OS - 9.15.md"
-    },
-    {
-      "basename": "Archlinux - Installation",
-      "path": "3. General/Archlinux/Archlinux - Installation.md"
     }
   ],
   "omittedPaths": [],
