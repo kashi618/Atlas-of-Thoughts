@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -380,
                   "y": -340,
-                  "zoom": -0.04866515875876085
+                  "zoom": -0.32126361569811274
                 }
               },
               "pinned": true,
@@ -27,31 +27,7 @@
             }
           },
           {
-            "id": "4f362ff6edc44131",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ Object Oriented Programming"
-            }
-          },
-          {
-            "id": "eb4739190ad80019",
+            "id": "686102e5408f7ee2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -75,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -304,11 +280,13 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "eb4739190ad80019",
+  "active": "686102e5408f7ee2",
   "lastOpenFiles": [
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Pascal Case.md",
+    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Classes and Objects - Java.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Constructor - Java.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Pascal Case.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Packages - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Java.md",
     "6. Templates/OOPJ Object Oriented programming.md",
@@ -316,7 +294,6 @@
     "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md",
     "2. University/TU856 Year 1/Modules/Programming/Data Types - C.md",
     "2. University/TU856 Year 1/Modules/Programming/Order of Code - C.md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Untitled.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/$ Operating Systems 1.md",
     "2. University/TU856 Year 2/Modules/Software Engineering 1/$ Software Engineering 1.md",
@@ -340,8 +317,6 @@
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20250923111432.png",
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL.md",
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Inserting Data - IMDb Example.md",
-    "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20250919124610.png",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/2025-09-19-101452_hyprshot.png",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Pasted image 20250919101458.png",

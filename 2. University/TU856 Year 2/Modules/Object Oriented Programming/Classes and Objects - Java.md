@@ -13,17 +13,13 @@ aliases:
 
 
 
-### Example 1
+### Example 1 (about dogs)
 #### Class
-```java showlinenumbers
-public class DOGE {
+**Dog**
 
 
-}
-```
-
-#### Objects
-**Characteristics**
+### Objects
+- **Characteristics**
 - Breed
 - Gender
 - Age
@@ -32,14 +28,10 @@ public class DOGE {
 - playing()
 - barking()
 
-### Example 2 (about dogs)
-
+### Example 2 (about cars)
 #### Class
-```java showlinenumbers
-public class DOGE {
+**Care**
 
-}
-```
 
 #### Objects
 **Characteristics**
@@ -51,13 +43,6 @@ public class DOGE {
 **Behaviour**
 - driving()
 - parking()
-
-
-## Creating Classes
-
-```java
-
-```
 
 
 # See Also

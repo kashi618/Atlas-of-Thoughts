@@ -9,6 +9,14 @@
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md"
     },
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Constructor - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Constructor - Java.md"
+    },
+    {
       "basename": "Pascal Case",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Pascal Case.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "Order of Code - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Order of Code - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Untitled",
@@ -195,10 +199,6 @@
     {
       "basename": "OS - 9.15",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/OS - 9.15.md"
-    },
-    {
-      "basename": "Archlinux - Installation",
-      "path": "3. General/Archlinux/Archlinux - Installation.md"
     }
   ],
   "omittedPaths": [],
