@@ -13,28 +13,12 @@ aliases:
 - Constructor
 - Comments
 
-```java showlinenumbers
-// Class name "Car"
-public class Car {
-
-	/* 
-	Attributes (a type of variable)
-		- access modifier -> (public, private, protected)
-		- data type       -> type of variable (int, String, etc)
-		- attribute name  -> vairable name (camelCase)
-	*/
-	private String model;
-	private int year;
-	public double price;
-}
-```
-
-### Attributes
+## Attributes
 An attribute is a type of variable
 
 **Access modifier**
 Controls the accessibility/scope of the attribute
-- ``
+- `private`, `public`, `protected`
 
 **Data type**
 The data type of the attribute
@@ -43,15 +27,39 @@ The data type of the attribute
 **Attribute name**
 The name of the attribute
 
-
+### Example
 
 ```java showlinenumbers
 // Class named Car
 public class Car {
-	private String model;
-	private int year;
-	public  double price;
 
+	// Access modifier  private
+	// Data type        String 
+	// Name             model
+	private String model;
+	
+	// Access modifier  private
+	// Data type        int 
+	// Name             year
+	private int year;
+	
+	// Access modifier  public
+	// Data type        double
+	// Name             price
+	public  double price;
+}
+```
+
+
+## Methods
+A method is a type qof function in Java/OOP.
+In java various methods can have the same name, if their method signature is different.
+
+### Method Signature
+Method signature is the **method name**, the **number**, and the **type of parameters** of a method. it does NOT contain the return type!!!
+```java
+public int addNumbers(int a, int b) {
+	// code...
 }
 ```
 
