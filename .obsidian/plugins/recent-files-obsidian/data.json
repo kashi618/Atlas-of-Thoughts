@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -127,10 +131,6 @@
     {
       "basename": "Structures - Structure Pointers - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Structures - Structure Pointers - C.md"
-    },
-    {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
     },
     {
       "basename": "Programming Paradigms",

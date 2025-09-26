@@ -33,8 +33,11 @@
 - Dead Space Remake
 - Final Fantasy 16
 - Final Fantasy 15
-
-### PS4/5
+- Silent Hill F
+- Silent Hill 1
+- Silent Hill 2
+- Silent Hill 3
+- Silent Hill 4
 - Bloodborne (can be emulated)
 - Shadow of the Colossus
 - Death Stranding 2
