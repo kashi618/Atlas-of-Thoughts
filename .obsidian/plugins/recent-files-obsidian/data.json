@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
+      "basename": "Physical and Logical Design",
+      "path": "2. University/TU856 Year 2/Modules/Databases 1/Physical and Logical Design.md"
+    },
+    {
+      "basename": "$ Databases 1",
+      "path": "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md"
     },
     {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
     },
     {
       "basename": "Archlinux - Installation",
@@ -95,10 +103,6 @@
     {
       "basename": "Pasted image 20250923130132",
       "path": "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20250923130132.png"
-    },
-    {
-      "basename": "$ Databases 1",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md"
     },
     {
       "basename": "Entity Relationship Diagram (ERD)",
@@ -195,10 +199,6 @@
     {
       "basename": "Excel Errors",
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Data Exploration/Excel Errors.md"
-    },
-    {
-      "basename": "CPU",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Computer Architecture and Technology/CPU.md"
     }
   ],
   "omittedPaths": [],

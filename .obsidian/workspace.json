@@ -25,8 +25,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "1ef161981c5a379f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Databases 1/Physical and Logical Design.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Physical and Logical Design"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 346.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -147,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Home Page/Home.canvas",
+                "file": "2. University/TU856 Year 2/Modules/Databases 1/Physical and Logical Design.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Physical and Logical Design"
             }
           },
           {
@@ -255,10 +281,12 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "1ef161981c5a379f",
   "lastOpenFiles": [
-    "3. General/Archlinux/Archlinux - Installation.md",
+    "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md",
+    "2. University/TU856 Year 2/Modules/Databases 1/Physical and Logical Design.md",
     "1. Home Page/Home.canvas",
+    "3. General/Archlinux/Archlinux - Installation.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Classes and Objects - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Constructor - Java.md",
@@ -284,7 +312,6 @@
     "2. University/TU856 Year 2/Modules/Databases 1/Entity Relationship Diagram - Types of Relationships.md",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20250923130207.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20250923130132.png",
-    "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md",
     "2. University/TU856 Year 2/Modules/Databases 1/Entity Relationship Diagram (ERD).md",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20250923111756.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20250923111737.png",
@@ -292,7 +319,6 @@
     "2. University/TU856 Year 2/Modules/Databases 1/Data Models.md",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20250923111432.png",
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL.md",
-    "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Inserting Data - IMDb Example.md",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20250919124610.png",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/2025-09-19-101452_hyprshot.png",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Pasted image 20250919101458.png",

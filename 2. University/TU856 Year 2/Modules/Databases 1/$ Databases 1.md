@@ -8,6 +8,8 @@ aliases:
 - [[Database Management System (DBMS)]]
 - [[Primary and Foreign Keys]]
 
+- [[Physical and Logical Design]]
+
 
 ### Data Models and Entity Relationships Models
 - [[Data Models]]
