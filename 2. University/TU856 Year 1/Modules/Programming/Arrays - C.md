@@ -85,3 +85,4 @@ for (int i=0; i<SIZE; i++) {
 # See Also
 [[$ C - Programming Language]]
 [[Functions - C]] (Passing)
+[[Arrays - Multi-Dimensional Arrays - C]]

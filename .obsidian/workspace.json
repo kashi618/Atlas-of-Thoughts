@@ -32,8 +32,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 1/Modules/Programming/Subscript and Pointer Notation - C.md",
-                "mode": "source",
+                "file": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Subscript and Pointer Notation - C"
+              "title": "$ C - Programming Language"
             }
           }
         ],
@@ -135,8 +135,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "02e44a70fbac7bb0",
@@ -284,9 +283,12 @@
   },
   "active": "e23eba56dbc4a0f3",
   "lastOpenFiles": [
-    "2. University/TU856 Year 1/Modules/Programming/Arrays - Multi-Dimensional Arrays - C.md",
-    "2. University/TU856 Year 1/Modules/Programming/Subscript and Pointer Notation - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Keyboard Output - C.md",
     "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md",
+    "2. University/TU856 Year 1/Modules/Programming/Variables - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Arrays - Multi-Dimensional Arrays - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Arrays - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Subscript and Pointer Notation - C.md",
     "2. University/TU856 Year 1/Modules/Programming/Pasted image 20250929101751.png",
     "2. University/TU856 Year 1/Modules/Programming/2025-09-29-101737_hyprshot.png",
     "2. University/TU856 Year 1/Modules/Programming/Double Pointer - C.md",
@@ -310,12 +312,9 @@
     "2. University/TU856 Year 1/Modules/Programming/Order of Code - C.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Untitled.md",
     "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/$ Operating Systems 1.md",
-    "2. University/TU856 Year 2/Modules/Software Engineering 1/$ Software Engineering 1.md",
     "2. University/PDF's/Beej's Guide to Network Concepts.pdf",
     "2. University/PDF's/Software Engineering - Ian Sommerville.pdf",
-    "2. University/TU856 Year 2/Modules/Software Engineering 1/Software Engineering 1 - 9-24.md",
     "2. University/TU856 Year 2/Exam Papers",
-    "2. University/TU856 Year 2/Modules/Semester 1/Untitled.md",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20250923130207.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20250923130132.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20250923111756.png",

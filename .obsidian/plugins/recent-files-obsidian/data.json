@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Subscript and Pointer Notation - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Subscript and Pointer Notation - C.md"
+      "basename": "$ C - Programming Language",
+      "path": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "Keyboard Output - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Keyboard Output - C.md"
+    },
+    {
+      "basename": "Variables - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Variables - C.md"
     },
     {
       "basename": "Arrays - Multi-Dimensional Arrays - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Arrays - Multi-Dimensional Arrays - C.md"
     },
     {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md"
+      "basename": "Arrays - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Arrays - C.md"
+    },
+    {
+      "basename": "Subscript and Pointer Notation - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Subscript and Pointer Notation - C.md"
     },
     {
       "basename": "Double Pointer - C",
@@ -187,18 +199,6 @@
     {
       "basename": "How to use Obsidian",
       "path": "3. General/Notes/How to use Obsidian.md"
-    },
-    {
-      "basename": "1005 Communications Template",
-      "path": "6. Templates/1005 Communications Template.md"
-    },
-    {
-      "basename": "SE1 Software Engineering 1",
-      "path": "6. Templates/SE1 Software Engineering 1.md"
-    },
-    {
-      "basename": "OS - 9.16",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/OS - 9.16.md"
     }
   ],
   "omittedPaths": [],
