@@ -12,7 +12,8 @@
 		{"id":"7fe341e40aaf4993","type":"file","file":"8. Other/explosion.gif","x":252,"y":-549,"width":108,"height":108},
 		{"id":"861b7282a9e6b63e","type":"file","file":"8. Other/obamna.gif","x":46,"y":-549,"width":108,"height":108},
 		{"id":"7f0b5e7f0c05f22c","type":"text","text":"## Shortuts / Hotkeys\n\n| Shortcut |     |\n| -------- | --- |\n|          |     |\n","x":-1120,"y":-390,"width":520,"height":310},
-		{"id":"1434ea15c85acddd","x":-600,"y":-390,"width":440,"height":310,"type":"text","text":"[[$ Web Development 2]]\n\n[[$ Databases 1]]\n\n[[$ Operating Systems 2]]\n\n[[$ Object Oriented Programming]]\n\n[[$ Software Engineering 1]]\n\n[[$ Mathematics 2]]"}
+		{"id":"1434ea15c85acddd","type":"text","text":"[[$ Web Development 2]]\n\n[[$ Databases 1]]\n\n[[$ Operating Systems 2]]\n\n[[$ Object Oriented Programming]]\n\n[[$ Software Engineering 1]]\n\n[[$ Mathematics 2]]","x":-600,"y":-390,"width":440,"height":310},
+		{"id":"06c57e663c8b1a5f","x":-160,"y":-390,"width":520,"height":310,"type":"text","text":"Cao Dong Mei You Pai Dui\n- Da Feng Chui\n- Zai\n- Jiu Gui"}
 	],
 	"edges":[]
 }

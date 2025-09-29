@@ -2,7 +2,7 @@
 [[Module Information]]
 [[Programming Paradigms]]
 [[Pascal Case]]
-
+[[Primitive Data Types]] ! WRITE MORE
 
 ## Java
 [[Java]]
