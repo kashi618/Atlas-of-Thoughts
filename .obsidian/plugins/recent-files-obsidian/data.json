@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Von Neumann Architecture",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Von Neumann Architecture.md"
+    },
+    {
+      "basename": "OS2 Potential Exam Questions",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS2 Potential Exam Questions.md"
+    },
+    {
+      "basename": "Opcode and Operand",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Opcode and Operand.md"
+    },
+    {
+      "basename": "Little Man Computer",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Little Man Computer.md"
+    },
+    {
+      "basename": "Instruction Cycle (LMC)",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Instruction Cycle (LMC).md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "conflict-files-obsidian-git",
       "path": "conflict-files-obsidian-git.md"
     },
     {
       "basename": "Games to Play",
       "path": "3. General/Lists/Games to Play.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Fetch Execute Cycle",
@@ -21,16 +45,8 @@
       "path": "Instruction Cycle (LMC_).md"
     },
     {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md"
-    },
-    {
       "basename": "OS - 9.16",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS - 9.16.md"
-    },
-    {
-      "basename": "OS2 Potential Exam Questions",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS2 Potential Exam Questions.md"
     },
     {
       "basename": "OLD Von Neumann Architecture",
@@ -183,14 +199,6 @@
     {
       "basename": "explosion",
       "path": "8. Other/explosion.gif"
-    },
-    {
-      "basename": "Nietzsche",
-      "path": "8. Other/Nietzsche.gif"
-    },
-    {
-      "basename": "Descartes",
-      "path": "8. Other/Descartes.gif"
     }
   ],
   "omittedPaths": [],
