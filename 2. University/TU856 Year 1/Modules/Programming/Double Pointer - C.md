@@ -6,6 +6,9 @@ aliases:
 A pointer that points to another pointer
 
 ## Creating a Double Pointer
+`datatype **pointername;`
+
+
 ```c showlinenumbers
 // Intger storing the value 3
 int i   = 3;

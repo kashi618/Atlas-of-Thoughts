@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Subscript and Pointer Notation - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Subscript and Pointer Notation - C.md"
+    },
+    {
+      "basename": "Arrays - Multi-Dimensional Arrays - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Arrays - Multi-Dimensional Arrays - C.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "Double Pointer - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Double Pointer - C.md"
+    },
+    {
+      "basename": "Structures - Creating Structures - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Structures - Creating Structures - C.md"
+    },
+    {
+      "basename": "If Statements- C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/If Statements- C.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
       "basename": "Creating Classes - Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Creating Classes - Java.md"
     },
@@ -15,10 +47,6 @@
     {
       "basename": "Classes and Objects - Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Classes and Objects - Java.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Physical and Logical Design",
@@ -57,10 +85,6 @@
       "path": "6. Templates/OOP Object Oriented programming.md"
     },
     {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md"
-    },
-    {
       "basename": "Data Types - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Data Types - C.md"
     },
@@ -85,16 +109,8 @@
       "path": "2. University/TU856 Year 2/Modules/Software Engineering 1/Software Engineering 1 - 9-24.md"
     },
     {
-      "basename": "Double Pointer - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Double Pointer - C.md"
-    },
-    {
       "basename": "Pointer to Pointer - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Pointer to Pointer - C.md"
-    },
-    {
-      "basename": "Subscript and Pointer Notation - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Subscript and Pointer Notation - C.md"
     },
     {
       "basename": "Entity Relationship Diagram -  How to Create",
@@ -127,10 +143,6 @@
     {
       "basename": "PostgreSQL - Creating Tables - IMDb Example",
       "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md"
-    },
-    {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
     },
     {
       "basename": "Use Cases and Scenarios",
@@ -187,18 +199,6 @@
     {
       "basename": "OS - 9.16",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/OS - 9.16.md"
-    },
-    {
-      "basename": "Instruction Cycle (LMC_)",
-      "path": "Instruction Cycle (LMC_).md"
-    },
-    {
-      "basename": "OS2 Potential Exam Questions",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/OS2 Potential Exam Questions.md"
-    },
-    {
-      "basename": "OLD Von Neumann Architecture",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Computer Architecture and Technology/OLD Von Neumann Architecture.md"
     }
   ],
   "omittedPaths": [],

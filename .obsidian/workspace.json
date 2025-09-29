@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -380,
                   "y": -340,
-                  "zoom": 0
+                  "zoom": -0.06897214207911952
                 }
               },
               "pinned": true,
@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "6813e9ac65467007",
+            "id": "e23eba56dbc4a0f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
+                "file": "2. University/TU856 Year 1/Modules/Programming/Subscript and Pointer Notation - C.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,59 +47,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Object Oriented Programming"
-            }
-          },
-          {
-            "id": "62ccdb2eacbed4a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Creating Classes - Java.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Creating Classes - Java"
-            }
-          },
-          {
-            "id": "d1f9234e98bfc899",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Classes and Objects - Java.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Classes and Objects - Java"
+              "title": "Subscript and Pointer Notation - C"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +135,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "02e44a70fbac7bb0",
@@ -204,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -221,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Creating Classes - Java.md",
+                "file": "2. University/TU856 Year 1/Modules/Programming/Double Pointer - C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Creating Classes - Java"
+              "title": "Outline of Double Pointer - C"
             }
           },
           {
@@ -308,7 +260,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 246.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -329,13 +282,22 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "62ccdb2eacbed4a5",
+  "active": "e23eba56dbc4a0f3",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
+    "2. University/TU856 Year 1/Modules/Programming/Arrays - Multi-Dimensional Arrays - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Subscript and Pointer Notation - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md",
+    "2. University/TU856 Year 1/Modules/Programming/Pasted image 20250929101751.png",
+    "2. University/TU856 Year 1/Modules/Programming/2025-09-29-101737_hyprshot.png",
+    "2. University/TU856 Year 1/Modules/Programming/Double Pointer - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/Structures - Creating Structures - C.md",
+    "2. University/TU856 Year 1/Modules/Programming/If Statements- C.md",
+    "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Creating Classes - Java.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Constructor - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Classes and Objects - Java.md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Databases 1/Physical and Logical Design.md",
     "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md",
     "3. General/Archlinux/Archlinux - Installation.md",
@@ -344,7 +306,6 @@
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Java.md",
     "6. Templates/OOPJ Object Oriented programming.md",
     "6. Templates/OOP Object Oriented programming.md",
-    "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md",
     "2. University/TU856 Year 1/Modules/Programming/Data Types - C.md",
     "2. University/TU856 Year 1/Modules/Programming/Order of Code - C.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Untitled.md",
@@ -355,22 +316,14 @@
     "2. University/TU856 Year 2/Modules/Software Engineering 1/Software Engineering 1 - 9-24.md",
     "2. University/TU856 Year 2/Exam Papers",
     "2. University/TU856 Year 2/Modules/Semester 1/Untitled.md",
-    "2. University/TU856 Year 1/Modules/Programming/Double Pointer - C.md",
-    "2. University/TU856 Year 1/Modules/Programming/Subscript and Pointer Notation - C.md",
-    "2. University/TU856 Year 2/Modules/Databases 1/Entity Relationship Diagram -  How to Create.md",
-    "2. University/TU856 Year 2/Modules/Databases 1/Entity Relationship Diagram - Types of Relationships.md",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20250923130207.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20250923130132.png",
-    "2. University/TU856 Year 2/Modules/Databases 1/Entity Relationship Diagram (ERD).md",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20250923111756.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20250923111737.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20250923111736.png",
-    "2. University/TU856 Year 2/Modules/Databases 1/Data Models.md",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20250923111432.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20250919124610.png",
     "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/2025-09-19-101452_hyprshot.png",
-    "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Pasted image 20250919101458.png",
-    "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Pasted image 20250917124726.png",
     "Ink/Drawing/2025.9.16 - 13.26pm.drawing",
     "Ink/Drawing",
     "Ink",
