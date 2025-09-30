@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
+      "basename": "PostgreSQL - Inserting Data",
+      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Inserting Data.md"
+    },
+    {
+      "basename": "$ Databases 1",
+      "path": "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md"
+    },
+    {
+      "basename": "Entity Relationship Diagram - Types of Relationships",
+      "path": "2. University/TU856 Year 2/Modules/Databases 1/Entity Relationship Diagram - Types of Relationships.md"
     },
     {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
     },
     {
       "basename": "$ Object Oriented Programming",
@@ -63,10 +75,6 @@
     {
       "basename": "Physical and Logical Design",
       "path": "2. University/TU856 Year 2/Modules/Databases 1/Physical and Logical Design.md"
-    },
-    {
-      "basename": "$ Databases 1",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md"
     },
     {
       "basename": "conflict-files-obsidian-git",
@@ -129,10 +137,6 @@
       "path": "2. University/TU856 Year 2/Modules/Databases 1/Entity Relationship Diagram -  How to Create.md"
     },
     {
-      "basename": "Entity Relationship Diagram - Types of Relationships",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/Entity Relationship Diagram - Types of Relationships.md"
-    },
-    {
       "basename": "Pasted image 20250923130132",
       "path": "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20250923130132.png"
     },
@@ -147,10 +151,6 @@
     {
       "basename": "PostgreSQL",
       "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL.md"
-    },
-    {
-      "basename": "PostgreSQL - Inserting Data - IMDb Example",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Inserting Data - IMDb Example.md"
     },
     {
       "basename": "PostgreSQL - Creating Tables - IMDb Example",

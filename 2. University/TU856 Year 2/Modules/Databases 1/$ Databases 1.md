@@ -11,16 +11,18 @@ aliases:
 - [[Physical and Logical Design]]
 
 
-### Data Models and Entity Relationships Models
+## Data Models and Entity Relationships Models
 - [[Data Models]]
 - [[Entity Relationship Diagram (ERD)]]
 - [[Entity Relationship Diagram -  How to Create]]
 - [[Entity Relationship Diagram - Types of Relationships]]
 
+
 ## SQL
 - [[PostgreSQL]]
 	- [[PostgreSQL - Creating Tables - IMDb Example]]
-	- [[PostgreSQL - Inserting Data - IMDb Example]]
+	- [[PostgreSQL - Inserting]]
+
 
 ## Misc
 [[ACID Model]]
