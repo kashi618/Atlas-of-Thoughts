@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "PostgreSQL - Inserting Data",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Inserting Data.md"
+      "basename": "PostgreSQL - Adding & Renaming Columns",
+      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Adding & Renaming Columns.md"
     },
     {
       "basename": "$ Databases 1",
       "path": "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md"
     },
     {
-      "basename": "Entity Relationship Diagram - Types of Relationships",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/Entity Relationship Diagram - Types of Relationships.md"
+      "basename": "PostgreSQL - Creating Tables - IMDb Example",
+      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md"
+    },
+    {
+      "basename": "PostgreSQL - Inserting Values (rows)",
+      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Inserting Values (rows).md"
     },
     {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "SQL Datatypes",
+      "path": "2. University/TU856 Year 2/Modules/Databases 1/SQL Datatypes.md"
+    },
+    {
+      "basename": "Entity Relationship Diagram - Types of Relationships",
+      "path": "2. University/TU856 Year 2/Modules/Databases 1/Entity Relationship Diagram - Types of Relationships.md"
     },
     {
       "basename": "$ Operating Systems 2",
@@ -153,10 +165,6 @@
       "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL.md"
     },
     {
-      "basename": "PostgreSQL - Creating Tables - IMDb Example",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md"
-    },
-    {
       "basename": "Use Cases and Scenarios",
       "path": "2. University/TU856 Year 2/Modules/Software Engineering 1/Use Cases and Scenarios.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Database Management System (DBMS)",
       "path": "2. University/TU856 Year 2/Modules/Databases 1/Database Management System (DBMS).md"
-    },
-    {
-      "basename": "Pasted image 20250919124610",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20250919124610.png"
-    },
-    {
-      "basename": "How to use Obsidian",
-      "path": "3. General/Notes/How to use Obsidian.md"
     }
   ],
   "omittedPaths": [],

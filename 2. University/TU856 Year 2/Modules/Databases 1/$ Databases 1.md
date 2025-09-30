@@ -16,13 +16,13 @@ aliases:
 - [[Entity Relationship Diagram (ERD)]]
 - [[Entity Relationship Diagram -  How to Create]]
 - [[Entity Relationship Diagram - Types of Relationships]]
-
+- [[SQL Datatypes]]
 
 ## SQL
 - [[PostgreSQL]]
 	- [[PostgreSQL - Creating Tables - IMDb Example]]
-	- [[PostgreSQL - Inserting]]
-
+	- [[PostgreSQL - Inserting Values (rows)]]
+	- [[PostgreSQL - ALTER TABLE (add  rename remove columns]]
 
 ## Misc
 [[ACID Model]]

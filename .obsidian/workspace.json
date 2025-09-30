@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "ad5158c7ed1978ff",
+            "id": "8e0bf5fe780eaa98",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,14 +51,14 @@
             }
           },
           {
-            "id": "8e0bf5fe780eaa98",
+            "id": "1d97a76accf075fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Inserting.md",
+                "file": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - ALTER TABLE (add  rename remove columns.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -71,7 +71,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PostgreSQL - Inserting"
+              "title": "PostgreSQL - ALTER TABLE (add  rename remove columns"
             }
           }
         ],
@@ -89,16 +89,6 @@
         "type": "tabs",
         "dimension": 66.869918699187,
         "children": [
-          {
-            "id": "0625646695eea1fe",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
-            }
-          },
           {
             "id": "6067b0fd6fbf0ef1",
             "type": "leaf",
@@ -305,13 +295,16 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "8e0bf5fe780eaa98",
+  "active": "1d97a76accf075fc",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Inserting.md",
+    "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - ALTER TABLE (add  rename remove columns.md",
     "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md",
+    "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md",
+    "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Inserting Values (rows).md",
+    "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Modules/Databases 1/SQL Datatypes.md",
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Inserting Data - IMDb Example.md",
     "2. University/TU856 Year 2/Modules/Databases 1/Entity Relationship Diagram - Types of Relationships.md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
     "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md",
@@ -333,9 +326,6 @@
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Pascal Case.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Packages - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Java.md",
-    "6. Templates/OOPJ Object Oriented programming.md",
-    "6. Templates/OOP Object Oriented programming.md",
-    "2. University/TU856 Year 1/Modules/Programming/Data Types - C.md",
     "2. University/PDF's/Beej's Guide to Network Concepts.pdf",
     "2. University/PDF's/Software Engineering - Ian Sommerville.pdf",
     "2. University/TU856 Year 2/Exam Papers",
