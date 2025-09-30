@@ -32,8 +32,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - ALTER TABLE (add  rename remove columns.md",
-                "mode": "source",
+                "file": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PostgreSQL - ALTER TABLE (add  rename remove columns"
+              "title": "PostgreSQL - Creating Tables - IMDb Example"
             }
           },
           {
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -295,17 +295,17 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "7abc5325fd68078f",
+  "active": "1d97a76accf075fc",
   "lastOpenFiles": [
-    "1. Home Page/Home.canvas",
-    "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - ALTER TABLE (add  rename remove columns.md",
     "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md",
+    "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - ALTER TABLE (add  rename remove columns.md",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
+    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md",
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Inserting Values (rows).md",
     "2. University/TU856 Year 2/Modules/Databases 1/SQL Datatypes.md",
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Inserting Data - IMDb Example.md",
     "2. University/TU856 Year 2/Modules/Databases 1/Entity Relationship Diagram - Types of Relationships.md",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
     "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md",
     "2. University/TU856 Year 1/Modules/Programming/Keyboard Output - C.md",
