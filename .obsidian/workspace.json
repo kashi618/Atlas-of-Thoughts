@@ -27,14 +27,14 @@
             }
           },
           {
-            "id": "1d97a76accf075fc",
+            "id": "36756c26a7a69423",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md",
+                "file": "2. University/TU856 Year 2/Modules/Software Engineering 1/$ Software Engineering 1.md",
                 "mode": "preview",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -47,11 +47,25 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PostgreSQL - Creating Tables - IMDb Example"
+              "title": "$ Software Engineering 1"
+            }
+          },
+          {
+            "id": "b1fde39869c0033c",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://dn790001.ca.archive.org/0/items/bme-vik-konyvek/Software%20Engineering%20-%20Ian%20Sommerville.pdf",
+                "title": "dn790001.ca.archive.org/0/items/bme-vik-konyvek/Software Engineering - Ian Sommerville.pdf",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "dn790001.ca.archive.org/0/items/bme-vik-konyvek/Software Engineering - Ian Sommerville.pdf"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -271,13 +285,18 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "1d97a76accf075fc",
+  "active": "b1fde39869c0033c",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
+    "2. University/TU856 Year 2/Modules/Software Engineering 1/$ Software Engineering 1.md",
+    "2. University/TU856 Year 2/Modules/Software Engineering 1/Use Cases and Scenarios.md",
+    "2. University/TU856 Year 2/Modules/Software Engineering 1/Hardware and Software Reliability.md",
+    "2. University/TU856 Year 2/Modules/Software Engineering 1/Software Engineering 1 - 9-24.md",
+    "2. University/TU856 Year 2/Modules/Software Engineering 1/Software Engineering 1 - 9-15.md",
+    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
     "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md",
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - ALTER TABLE (add  rename remove columns.md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Inserting Values (rows).md",
     "2. University/TU856 Year 2/Modules/Databases 1/SQL Datatypes.md",
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Inserting Data - IMDb Example.md",
@@ -297,10 +316,6 @@
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Creating Classes - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Constructor - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Classes and Objects - Java.md",
-    "2. University/TU856 Year 2/Modules/Databases 1/Physical and Logical Design.md",
-    "3. General/Archlinux/Archlinux - Installation.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Pascal Case.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Packages - Java.md",
     "2. University/PDF's/Beej's Guide to Network Concepts.pdf",
     "2. University/PDF's/Software Engineering - Ian Sommerville.pdf",
     "2. University/TU856 Year 2/Exam Papers",

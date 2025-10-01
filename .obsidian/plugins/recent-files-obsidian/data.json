@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "$ Software Engineering 1",
+      "path": "2. University/TU856 Year 2/Modules/Software Engineering 1/$ Software Engineering 1.md"
+    },
+    {
+      "basename": "Use Cases and Scenarios",
+      "path": "2. University/TU856 Year 2/Modules/Software Engineering 1/Use Cases and Scenarios.md"
+    },
+    {
+      "basename": "Hardware and Software Reliability",
+      "path": "2. University/TU856 Year 2/Modules/Software Engineering 1/Hardware and Software Reliability.md"
+    },
+    {
+      "basename": "Software Engineering 1 - 9-24",
+      "path": "2. University/TU856 Year 2/Modules/Software Engineering 1/Software Engineering 1 - 9-24.md"
+    },
+    {
+      "basename": "Software Engineering 1 - 9-15",
+      "path": "2. University/TU856 Year 2/Modules/Software Engineering 1/Software Engineering 1 - 9-15.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "PostgreSQL - Creating Tables - IMDb Example",
       "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md"
     },
@@ -15,10 +39,6 @@
     {
       "basename": "PostgreSQL - ALTER TABLE (add  rename remove columns",
       "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - ALTER TABLE (add  rename remove columns.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "PostgreSQL - Inserting Values (rows)",
@@ -133,14 +153,6 @@
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/$ Operating Systems 1.md"
     },
     {
-      "basename": "$ Software Engineering 1",
-      "path": "2. University/TU856 Year 2/Modules/Software Engineering 1/$ Software Engineering 1.md"
-    },
-    {
-      "basename": "Software Engineering 1 - 9-24",
-      "path": "2. University/TU856 Year 2/Modules/Software Engineering 1/Software Engineering 1 - 9-24.md"
-    },
-    {
       "basename": "Pointer to Pointer - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Pointer to Pointer - C.md"
     },
@@ -165,20 +177,12 @@
       "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL.md"
     },
     {
-      "basename": "Use Cases and Scenarios",
-      "path": "2. University/TU856 Year 2/Modules/Software Engineering 1/Use Cases and Scenarios.md"
-    },
-    {
       "basename": "Structures - Structure Pointers - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Structures - Structure Pointers - C.md"
     },
     {
       "basename": "Programming Paradigms",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Programming Paradigms.md"
-    },
-    {
-      "basename": "Software Engineering 1 - 9-15",
-      "path": "2. University/TU856 Year 2/Modules/Software Engineering 1/Software Engineering 1 - 9-15.md"
     },
     {
       "basename": "$ Web Development 2",
@@ -195,10 +199,6 @@
     {
       "basename": "Relational Databases",
       "path": "2. University/TU856 Year 2/Modules/Databases 1/Relational Databases.md"
-    },
-    {
-      "basename": "Database Management System (DBMS)",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/Database Management System (DBMS).md"
     }
   ],
   "omittedPaths": [],
