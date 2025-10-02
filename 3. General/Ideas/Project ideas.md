@@ -1,2 +1,3 @@
 - Sound board (systemwide keybindings), possibly through calling a command through cli. Linux)
 - App using google maps as backend to get you from point a to point b, whilst also adding and planning fun spots and activities along the way
+- Googles removing the need to blink

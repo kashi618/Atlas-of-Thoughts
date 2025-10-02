@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Transmission Control Protocol (TCP)",
-      "path": "2. University/TU856 Year 2/Modules/Web Development 2/Transmission Control Protocol (TCP).md"
+      "basename": "Basic PHP Syntax",
+      "path": "2. University/TU856 Year 2/Modules/Web Development 2/Basic PHP Syntax.md"
+    },
+    {
+      "basename": "PHP",
+      "path": "2. University/TU856 Year 2/Modules/Web Development 2/PHP.md"
     },
     {
       "basename": "$ Web Development 2",
       "path": "2. University/TU856 Year 2/Modules/Web Development 2/$ Web Development 2.md"
+    },
+    {
+      "basename": "Project ideas",
+      "path": "3. General/Ideas/Project ideas.md"
+    },
+    {
+      "basename": "Transmission Control Protocol (TCP)",
+      "path": "2. University/TU856 Year 2/Modules/Web Development 2/Transmission Control Protocol (TCP).md"
     },
     {
       "basename": "IP Address",
@@ -187,18 +199,6 @@
     {
       "basename": "Pasted image 20250923130132",
       "path": "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20250923130132.png"
-    },
-    {
-      "basename": "Entity Relationship Diagram (ERD)",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/Entity Relationship Diagram (ERD).md"
-    },
-    {
-      "basename": "Data Models",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/Data Models.md"
-    },
-    {
-      "basename": "PostgreSQL",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL.md"
     }
   ],
   "omittedPaths": [],
