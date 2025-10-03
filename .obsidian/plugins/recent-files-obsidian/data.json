@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Bubblesort - O(n²)",
+      "path": "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n²).md"
+    },
+    {
       "basename": "Basic PHP Syntax",
       "path": "2. University/TU856 Year 2/Modules/Web Development 2/Basic PHP Syntax.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "$ Operating Systems 1",
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Operating Systems 1/$ Operating Systems 1.md"
-    },
-    {
-      "basename": "Pointer to Pointer - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Pointer to Pointer - C.md"
     }
   ],
   "omittedPaths": [],
