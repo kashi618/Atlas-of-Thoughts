@@ -27,6 +27,54 @@
             }
           },
           {
+            "id": "77d50ded28182479",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "$ Mathematics 2.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Mathematics 2"
+            }
+          },
+          {
+            "id": "81fdcdb464ebdae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hill Digraph Cipher.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Hill Digraph Cipher"
+            }
+          },
+          {
             "id": "03230ced136a4818",
             "type": "leaf",
             "state": {
@@ -353,10 +401,13 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "b0ac3d76c8f67580",
+  "active": "81fdcdb464ebdae7",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Modules/Web Development 2/PHP.md",
+    "Hill Digraph Cipher.md",
+    "$ Mathematics 2.md",
+    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Web Development 2/Basic PHP Syntax.md",
+    "2. University/TU856 Year 2/Modules/Web Development 2/PHP.md",
     "2. University/TU856 Year 2/Modules/Web Development 2/$ Web Development 2.md",
     "3. General/Ideas/Project ideas.md",
     "2. University/TU856 Year 2/Modules/Web Development 2/Transmission Control Protocol (TCP).md",
@@ -365,7 +416,6 @@
     "2. University/TU856 Year 2/Modules/Web Development 2/Interent Protocols.md",
     "2. University/TU856 Year 2/Modules/Web Development 2/Internet Protocol (IP).md",
     "2. University/TU856 Year 2/Modules/Web Development 2/The Internet.md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
     "2. University/TU856 Year 2/Modules/Software Engineering 1/$ Software Engineering 1.md",
     "2. University/TU856 Year 2/Modules/Software Engineering 1/Use Cases and Scenarios.md",
@@ -381,8 +431,6 @@
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Inserting Data - IMDb Example.md",
     "2. University/TU856 Year 2/Modules/Databases 1/Entity Relationship Diagram - Types of Relationships.md",
     "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md",
-    "2. University/TU856 Year 1/Modules/Programming/Keyboard Output - C.md",
-    "2. University/TU856 Year 1/Modules/Programming/Variables - C.md",
     "2. University/TU856 Year 1/Modules/Programming/Pasted image 20250929101751.png",
     "2. University/TU856 Year 1/Modules/Programming/2025-09-29-101737_hyprshot.png",
     "2. University/PDF's/Beej's Guide to Network Concepts.pdf",

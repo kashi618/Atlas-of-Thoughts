@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Hill Digraph Cipher",
+      "path": "Hill Digraph Cipher.md"
+    },
+    {
+      "basename": "$ Mathematics 2",
+      "path": "$ Mathematics 2.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Basic PHP Syntax",
       "path": "2. University/TU856 Year 2/Modules/Web Development 2/Basic PHP Syntax.md"
     },
@@ -35,10 +47,6 @@
     {
       "basename": "The Internet",
       "path": "2. University/TU856 Year 2/Modules/Web Development 2/The Internet.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "$ Object Oriented Programming",
@@ -191,14 +199,6 @@
     {
       "basename": "Pointer to Pointer - C",
       "path": "2. University/TU856 Year 1/Modules/Programming/Pointer to Pointer - C.md"
-    },
-    {
-      "basename": "Entity Relationship Diagram -  How to Create",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/Entity Relationship Diagram -  How to Create.md"
-    },
-    {
-      "basename": "Pasted image 20250923130132",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20250923130132.png"
     }
   ],
   "omittedPaths": [],
