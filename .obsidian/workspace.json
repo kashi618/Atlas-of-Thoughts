@@ -17,7 +17,7 @@
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
                   "x": -380,
-                  "y": -289.2718556701031,
+                  "y": -290,
                   "zoom": -0.06897214207911952
                 }
               },
@@ -27,85 +27,13 @@
             }
           },
           {
-            "id": "77d50ded28182479",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "$ Mathematics 2.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ Mathematics 2"
-            }
-          },
-          {
-            "id": "81fdcdb464ebdae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hill Digraph Cipher.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Hill Digraph Cipher"
-            }
-          },
-          {
-            "id": "03230ced136a4818",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Modules/Web Development 2/$ Web Development 2.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ Web Development 2"
-            }
-          },
-          {
-            "id": "b0ac3d76c8f67580",
+            "id": "6a9123e6f01329d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2. University/TU856 Year 2/Modules/Web Development 2/Basic PHP Syntax.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -121,57 +49,9 @@
               "icon": "lucide-file",
               "title": "Basic PHP Syntax"
             }
-          },
-          {
-            "id": "5edbdb5d9353a429",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Modules/Web Development 2/PHP.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "PHP"
-            }
-          },
-          {
-            "id": "0a482daff5177ff3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Modules/Web Development 2/Transmission Control Protocol (TCP).md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Transmission Control Protocol (TCP)"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -401,14 +281,14 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "81fdcdb464ebdae7",
+  "active": "6a9123e6f01329d4",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Modules/Web Development 2/$ Web Development 2.md",
+    "1. Home Page/Home.canvas",
     "Hill Digraph Cipher.md",
     "$ Mathematics 2.md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Web Development 2/Basic PHP Syntax.md",
     "2. University/TU856 Year 2/Modules/Web Development 2/PHP.md",
-    "2. University/TU856 Year 2/Modules/Web Development 2/$ Web Development 2.md",
     "3. General/Ideas/Project ideas.md",
     "2. University/TU856 Year 2/Modules/Web Development 2/Transmission Control Protocol (TCP).md",
     "2. University/TU856 Year 2/Modules/Web Development 2/IP Address.md",
@@ -430,7 +310,6 @@
     "2. University/TU856 Year 2/Modules/Databases 1/SQL Datatypes.md",
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Inserting Data - IMDb Example.md",
     "2. University/TU856 Year 2/Modules/Databases 1/Entity Relationship Diagram - Types of Relationships.md",
-    "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md",
     "2. University/TU856 Year 1/Modules/Programming/Pasted image 20250929101751.png",
     "2. University/TU856 Year 1/Modules/Programming/2025-09-29-101737_hyprshot.png",
     "2. University/PDF's/Beej's Guide to Network Concepts.pdf",
