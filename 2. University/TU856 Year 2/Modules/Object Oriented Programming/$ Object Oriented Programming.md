@@ -10,10 +10,11 @@
 [[Classes and Objects - Java]]
 [[??Constructor - Java]]
 [[Creating Classes - Java]]
+[[Encapsulation]]
 
 
 - [ ] Constructor
-- [ ] Encapsulation
+- [x] Encapsulation
 - [ ] Polymorphism
 - [ ] Inheritance
 - [x] Classes
