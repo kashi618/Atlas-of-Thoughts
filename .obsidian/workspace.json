@@ -32,9 +32,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md",
-                "mode": "preview",
-                "source": true,
+                "file": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - SELECT (accessing data).md",
+                "mode": "source",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Databases 1"
+              "title": "PostgreSQL - SELECT (accessing data)"
             }
           }
         ],
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md",
+                "file": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - SELECT (accessing data).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of $ Databases 1"
+              "title": "Outline of PostgreSQL - SELECT (accessing data)"
             }
           },
           {
@@ -285,9 +285,9 @@
   },
   "active": "4aaec89408e9df22",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md",
     "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md",
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - SELECT (accessing data).md",
-    "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Fetch Execute Cycle.md",
     "2. University/TU856 Year 2/Modules/Mathematics 2",
     "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher.md",
