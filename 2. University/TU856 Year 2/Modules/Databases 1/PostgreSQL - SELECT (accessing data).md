@@ -48,7 +48,10 @@ Select movieTitle,director FROM movies WHERE movieID > 2 AND director='Christoph
 | ----------- | ----------------- |
 | Oppenheimer | Christopher Nolan |
 
+## BETWEEN Operator
+```sql showlinenumber
 
+```
 
 # See Also
 [[$ Databases 1]]
