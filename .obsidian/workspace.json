@@ -32,8 +32,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - SELECT (accessing data).md",
-                "mode": "source",
+                "file": "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PostgreSQL - SELECT (accessing data)"
+              "title": "$ Databases 1"
             }
           }
         ],
@@ -157,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 346.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -173,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. General/Archlinux/Archlinux - Installation.md",
+                "file": "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Archlinux - Installation"
+              "title": "Outline of $ Databases 1"
             }
           },
           {
@@ -284,12 +285,12 @@
   },
   "active": "4aaec89408e9df22",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md",
+    "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - SELECT (accessing data).md",
     "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Fetch Execute Cycle.md",
-    "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md",
     "2. University/TU856 Year 2/Modules/Mathematics 2",
     "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher.md",
-    "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - SELECT (accessing data).md",
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Inserting Values (rows).md",
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md",
     "2. University/TU856 Year 2/Modules/Databases 1/Entity Relationship Diagram (ERD).md",
