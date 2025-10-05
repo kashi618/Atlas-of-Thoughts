@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Hardware and Software Reliability",
+      "path": "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Hardware and Software Reliability.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Von Neumann Architecture",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Von Neumann Architecture.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "$ Operating Systems 2",
       "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "conflict-files-obsidian-git",
@@ -195,10 +199,6 @@
     {
       "basename": "obamna",
       "path": "8. Other/obamna.gif"
-    },
-    {
-      "basename": "explosion",
-      "path": "8. Other/explosion.gif"
     }
   ],
   "omittedPaths": [],
