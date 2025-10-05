@@ -12,6 +12,7 @@ aliases: []
 - [[Scope - C]]
 - [[K.I.S.S]]
 - [[Variable Naming Schemes]]
+- [[Subscript and Pointer Notation - C]] **IMPORTANT !!**
 
 **Data Structures and Variables**
 - [[Variables - C]] | **Creating Variables**
@@ -47,7 +48,7 @@ aliases: []
 **Pointers**
 - [[Pointers - C]]
 - [[Dereference Operators - C]]
-- [[Subscript and Pointer Notation - C]]
+- [[Double Pointer - C]]
 
 **Dynamic Memory Allocation**
 - [[Dynamic Memory Allocation - C]]

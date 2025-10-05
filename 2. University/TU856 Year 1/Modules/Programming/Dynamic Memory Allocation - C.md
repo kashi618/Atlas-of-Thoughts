@@ -8,7 +8,7 @@ DMA is used when you want to create an array at the runtime of a program (whilst
 ## Allocating Memory
 There are 2 main functions used to allocate memory. They are very similar, however `calloc()` is often favoured.
 - `malloc()`
-  This function allocates memory, but does not initialize it
+  This function allocates memory, however random data is contained inside
 - `calloc()`
   This function allocates memory, and initializes all values to zero
 
@@ -44,10 +44,10 @@ int main(void) {
 	size = 10;
 	type = sizeof(int);
 	
-	// Step 2.1, call the calloc function
+	// Step 2, call the calloc function
 	arrPtr = calloc(size, type);
 	
-	// step 2.2, call the malloc function
+	// step 2.1, call the malloc function
   //arrPtr = malloc(size*type);
 	
 	// Step 3, We check if calloc is successfull

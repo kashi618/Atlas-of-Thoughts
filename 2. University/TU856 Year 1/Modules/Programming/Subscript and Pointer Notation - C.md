@@ -19,6 +19,22 @@ This accesses elements in the array by [[Dereference Operators - C|dereferencing
 
 `*(array_name + i)`
 
+
+## Multi-Dimensional Arrays
+![[Pasted image 20250929101751.png]]
+
+
+**Subscript**
+`multiArray[2][2]`
+- Points to row 2 col 2
+
+**Pointer**
+`*( *(multiArray+1) + 1);`
+- Points to row 2 col 2
+- Inner brackets specify which array (row) it dereferences
+- Outer brackets specify which element (col) it dereferences
+- **NOTE:** It is 1, because 0 would be row 0 col 0
+
 # See Also
 [[$ C - Programming Language]]
 [[Dereference Operators - C]]

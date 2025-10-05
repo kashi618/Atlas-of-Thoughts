@@ -6,5 +6,8 @@
   "vimMode": true,
   "showUnsupportedFiles": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "spellcheck": true,
+  "defaultViewMode": "preview",
+  "livePreview": false
 }

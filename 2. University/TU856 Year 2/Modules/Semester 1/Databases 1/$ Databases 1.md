@@ -1,3 +1,0 @@
-[[Relational Databases]]
-
-[[SQL]]

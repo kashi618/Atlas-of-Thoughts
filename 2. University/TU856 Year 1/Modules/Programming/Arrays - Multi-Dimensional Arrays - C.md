@@ -8,7 +8,11 @@ aliases:
 - Similar to regular/1D arrays, multi-dimensional arrays also store a contiguous piece of data in memory
 - However, instead of only one index number, it can have multiple. This can be used to created nested arrays.
 
+
 ## 2D Arrays
+![[Pasted image 20250929101751.png]]
+
+
 A 2D array can be initialized as follows:
 `dataType arrayName[rows][columns]`
 - In 2D arrays, we have initialize both a size for its rows and its columns
@@ -78,3 +82,4 @@ A 3D array would work in the same way as a 2D array, just with an extra index nu
 # See Also
 [[$ C - Programming Language]]
 [[Arrays - C]]
+[[Subscript and Pointer Notation - C]]

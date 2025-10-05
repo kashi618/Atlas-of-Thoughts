@@ -1,36 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Hardware and Software Reliability",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Hardware and Software Reliability.md"
-    },
-    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
-    },
-    {
-      "basename": "Von Neumann Architecture",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Von Neumann Architecture.md"
-    },
-    {
-      "basename": "OS2 Potential Exam Questions",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS2 Potential Exam Questions.md"
-    },
-    {
-      "basename": "Opcode and Operand",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Opcode and Operand.md"
-    },
-    {
-      "basename": "Little Man Computer",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Little Man Computer.md"
-    },
-    {
-      "basename": "Instruction Cycle (LMC)",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/Instruction Cycle (LMC).md"
-    },
-    {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/$ Operating Systems 2.md"
     },
     {
       "basename": "conflict-files-obsidian-git",
@@ -49,10 +21,6 @@
       "path": "Instruction Cycle (LMC_).md"
     },
     {
-      "basename": "OS - 9.16",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS - 9.16.md"
-    },
-    {
       "basename": "OLD Von Neumann Architecture",
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Computer Architecture and Technology/OLD Von Neumann Architecture.md"
     },
@@ -65,32 +33,8 @@
       "path": "2. University/TU856 Year 1/Modules/Semester 2/Computer Architecture and Technology/CPU.md"
     },
     {
-      "basename": "OS - 9.15",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Operating Systems 2/OS - 9.15.md"
-    },
-    {
-      "basename": "Software Engineering 1 - 9-15",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Software Engineering 1 - 9-15.md"
-    },
-    {
       "basename": "Archlinux - Installation",
       "path": "3. General/Archlinux/Archlinux - Installation.md"
-    },
-    {
-      "basename": "Setting up MariaDB and Dbeaver",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Setting up MariaDB and Dbeaver.md"
-    },
-    {
-      "basename": "$ Databases 1",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/$ Databases 1.md"
-    },
-    {
-      "basename": "Relational Databases",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/Relational Databases.md"
-    },
-    {
-      "basename": "SQL",
-      "path": "2. University/TU856 Year 2/Modules/Semester 1/Databases 1/SQL.md"
     },
     {
       "basename": "DB1 Databases 1",
