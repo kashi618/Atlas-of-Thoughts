@@ -32,8 +32,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md",
-                "mode": "preview",
+                "file": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - SELECT (accessing data).md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Databases 1"
+              "title": "PostgreSQL - SELECT (accessing data)"
             }
           }
         ],
@@ -135,7 +135,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "02e44a70fbac7bb0",
@@ -283,10 +284,20 @@
   },
   "active": "4aaec89408e9df22",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
     "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/Fetch Execute Cycle.md",
+    "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md",
+    "2. University/TU856 Year 2/Modules/Mathematics 2",
+    "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher.md",
+    "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - SELECT (accessing data).md",
+    "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Inserting Values (rows).md",
+    "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md",
+    "2. University/TU856 Year 2/Modules/Databases 1/Entity Relationship Diagram (ERD).md",
+    "2. University/TU856 Year 2/Modules/Databases 1/Entity Relationship Diagram -  How to Create.md",
+    "2. University/TU856 Year 2/Modules/Databases 1/Entity Relationship Diagram - Types of Relationships.md",
+    "2. University/TU856 Year 2/Modules/Databases 1/ACID Model.md",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
     "1. Home Page/Home.canvas",
-    "Hill Digraph Cipher.md",
     "6. Templates/WD2 Web Development.md",
     "6. Templates/OOPJ Object Oriented programming.md",
     "6. Templates/OOP Object Oriented programming.md",
@@ -304,16 +315,7 @@
     "2. University/TU856 Year 2/Modules/Software Engineering 2/Untitled.md",
     "2. University/TU856 Year 2/Modules/Software Engineering 2",
     "2. University/TU856 Year 2/Modules/Software Engineering 1/Use Cases and Scenarios.md",
-    "2. University/TU856 Year 2/Modules/Software Engineering 1/Software Engineering 1 9-17.md",
-    "2. University/TU856 Year 2/Modules/Software Engineering 1/Software Engineering 1 - 9-24.md",
-    "2. University/TU856 Year 2/Modules/Software Engineering 1/Software Engineering 1 - 9-15.md",
-    "2. University/TU856 Year 2/Modules/Software Engineering 1/Hardware and Software Reliability.md",
-    "2. University/TU856 Year 2/Modules/Software Engineering 1/$ Software Engineering 1.md",
     "2. University/TU856 Year 2/Modules/Software Engineering 1",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/Von Neumann Architecture.md",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/Opcode and Operand.md",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/OS2 Potential Exam Questions.md",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/OS - 9.16.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2",
     "2. University/TU856 Year 2/Modules/Legal and Professional Issues",
     "2. University/TU856 Year 2/Modules/Human Computer Interaction",
@@ -328,7 +330,6 @@
     "2. University/TU856 Year 2/Modules/Data Communications",
     "2. University/TU856 Year 2/Modules/Algorithms & Data Structures",
     "2. University/TU856 Year 1/Modules/Programming/Pasted image 20250929101751.png",
-    "2. University/PDF's/Software Engineering - Ian Sommerville.pdf",
     "2. University/TU856 Year 2/Modules/Semester 1/Software Engineering 1/Pasted image 20250917124726.png",
     "Untitled.canvas"
   ]

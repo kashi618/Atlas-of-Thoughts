@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "PostgreSQL - SELECT (accessing data)",
+      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - SELECT (accessing data).md"
+    },
+    {
       "basename": "$ Databases 1",
       "path": "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md"
+    },
+    {
+      "basename": "Fetch Execute Cycle",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Fetch Execute Cycle.md"
+    },
+    {
+      "basename": "$ Mathematics 2",
+      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md"
+    },
+    {
+      "basename": "Hill Digraph Cipher",
+      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher.md"
+    },
+    {
+      "basename": "PostgreSQL - Inserting Values (rows)",
+      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Inserting Values (rows).md"
+    },
+    {
+      "basename": "PostgreSQL - Creating Tables - IMDb Example",
+      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md"
+    },
+    {
+      "basename": "Entity Relationship Diagram (ERD)",
+      "path": "2. University/TU856 Year 2/Modules/Databases 1/Entity Relationship Diagram (ERD).md"
+    },
+    {
+      "basename": "Entity Relationship Diagram -  How to Create",
+      "path": "2. University/TU856 Year 2/Modules/Databases 1/Entity Relationship Diagram -  How to Create.md"
+    },
+    {
+      "basename": "Entity Relationship Diagram - Types of Relationships",
+      "path": "2. University/TU856 Year 2/Modules/Databases 1/Entity Relationship Diagram - Types of Relationships.md"
+    },
+    {
+      "basename": "ACID Model",
+      "path": "2. University/TU856 Year 2/Modules/Databases 1/ACID Model.md"
     },
     {
       "basename": "$ Operating Systems 2",
@@ -19,10 +59,6 @@
     {
       "basename": "Games to Play",
       "path": "3. General/Lists/Games to Play.md"
-    },
-    {
-      "basename": "Fetch Execute Cycle",
-      "path": "Fetch Execute Cycle.md"
     },
     {
       "basename": "Instruction Cycle (LMC_)",

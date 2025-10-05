@@ -2,7 +2,7 @@
   "accentColor": "#f792cd",
   "baseFontSize": 16,
   "theme": "obsidian",
-  "textFontFamily": "Open Sauce One",
+  "textFontFamily": "Open Sauce One,JetBrainsMono Nerd Font",
   "enabledCssSnippets": [
     "canvas",
     "style",
@@ -11,7 +11,7 @@
   "baseFontSizeAction": false,
   "cssTheme": "Tokyo Night",
   "translucency": false,
-  "interfaceFontFamily": "",
-  "monospaceFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
   "showRibbon": false
 }

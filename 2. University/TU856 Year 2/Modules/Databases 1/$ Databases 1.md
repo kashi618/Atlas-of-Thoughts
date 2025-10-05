@@ -23,6 +23,7 @@ aliases:
 	- [[PostgreSQL - Creating Tables - IMDb Example]]
 	- [[PostgreSQL - Inserting Values (rows)]]
 	- [[PostgreSQL - ALTER TABLE (add  rename remove columns]]
+	- [[PostgreSQL - SELECT (accessing data)]]
 
 ## Misc
 [[ACID Model]]
