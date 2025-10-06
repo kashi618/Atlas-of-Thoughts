@@ -6,6 +6,9 @@
 [[Opcode and Operand]]
 [[Fetch Execute Cycle]]
 
+## Dynamic Data Structures
+- [[Linked Lists]]
+- 
 
 
 [[OS2 Potential Exam Questions]] 

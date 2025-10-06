@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -380,
                   "y": -290,
-                  "zoom": -0.06897214207911952
+                  "zoom": -0.04866515875876085
                 }
               },
               "pinned": true,
@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "dd71cb65768c987c",
+            "id": "faaaa12ab7c2c213",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
+                "file": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,10 +47,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Object Oriented Programming"
+              "title": "$ Operating Systems 2"
+            }
+          },
+          {
+            "id": "2e39bbb71786d586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Linked Lists"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 346.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -264,7 +290,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "graph:Open graph view": false,
@@ -280,15 +305,17 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "2e39bbb71786d586",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
+    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Fetch Execute Cycle.md",
     "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher.md",
     "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md",
     "2. University/TU856 Year 2/Modules/Mathematics 2",
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - SELECT (accessing data).md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
-    "1. Home Page/Home.canvas",
     "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n²).md",
     "2. University/TU856 Year 2/Modules/Web Development 2/Basic PHP Syntax.md",
     "2. University/TU856 Year 2/Modules/Web Development 2/$ Web Development 2.md",
@@ -308,9 +335,7 @@
     "2. University/TU856 Year 2/Modules/Software Engineering 1/Software Engineering 1 - 9-24.md",
     "2. University/TU856 Year 2/Modules/Software Engineering 1/Software Engineering 1 - 9-15.md",
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
     "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md",
-    "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - ALTER TABLE (add  rename remove columns.md",
     "2. University/TU856 Year 1/Modules/Programming/Pasted image 20250929101751.png",
     "2. University/TU856 Year 1/Modules/Programming/2025-09-29-101737_hyprshot.png",
     "2. University/PDF's/Beej's Guide to Network Concepts.pdf",
