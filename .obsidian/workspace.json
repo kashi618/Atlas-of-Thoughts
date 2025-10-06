@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -380,
                   "y": -290,
-                  "zoom": -0.04866515875876085
+                  "zoom": -1.4424727914774615
                 }
               },
               "pinned": true,
@@ -27,38 +27,14 @@
             }
           },
           {
-            "id": "faaaa12ab7c2c213",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ Operating Systems 2"
-            }
-          },
-          {
-            "id": "2e39bbb71786d586",
+            "id": "015ff11964f9cb99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -75,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -305,11 +281,11 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "2e39bbb71786d586",
+  "active": "015ff11964f9cb99",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
     "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Fetch Execute Cycle.md",
     "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher.md",
     "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md",
@@ -335,7 +311,6 @@
     "2. University/TU856 Year 2/Modules/Software Engineering 1/Software Engineering 1 - 9-24.md",
     "2. University/TU856 Year 2/Modules/Software Engineering 1/Software Engineering 1 - 9-15.md",
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md",
-    "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md",
     "2. University/TU856 Year 1/Modules/Programming/Pasted image 20250929101751.png",
     "2. University/TU856 Year 1/Modules/Programming/2025-09-29-101737_hyprshot.png",
     "2. University/PDF's/Beej's Guide to Network Concepts.pdf",

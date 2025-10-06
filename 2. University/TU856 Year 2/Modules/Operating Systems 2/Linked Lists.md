@@ -26,15 +26,37 @@ struct ListNode {
 
 **Using the node struct**
 ```c showlinenumbers
+#include <stdio.h>
+#include <stdlib.h>
+
+// Creating Linked list Struct
 struct ListNode {
 	char data;                // Variable to store data
 	struct ListNode *nextPtr; // Pointer to next node
 } typedef ListNode ListNode;
 
-
+// Main Function
 int main(void) {
-	ListNode*
-
+	char value;
+	 
+	// Create a new node
+	ListNode* node = malloc(sizeof(ListNode));
+	
+	// Get character
+	printf("Enter a char: ");
+	scanf("%c", &value);
+	
+	// Assign value to node (and check if malloc successfull)
+	if (node != NULL) {
+		node -> data = value;
+		
+		// End linked list, by setting next node to NULL
+		node -> nextPtr = NULL;
+	}
+	
+	// Free node
+	free(node);
+	return 0;
 }
 ```
 
