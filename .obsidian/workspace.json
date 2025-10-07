@@ -25,8 +25,57 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "c7aacdf58432df76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Databases 1"
+            }
+          },
+          {
+            "id": "718ac826c6ad2ebd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - JOINS (combine data multiple table).md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PostgreSQL - JOINS (combine data multiple table)"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Home Page/Home.canvas",
+                "file": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - JOINS (combine data multiple table).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of PostgreSQL - JOINS (combine data multiple table)"
             }
           },
           {
@@ -254,12 +303,13 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "718ac826c6ad2ebd",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - JOINS.md",
-    "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251007114405.png",
     "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md",
+    "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - JOINS (combine data multiple table).md",
+    "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - JOINS (combine data multiple table).md",
     "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251007114405.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251007113640.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251007111330.png",
     "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md",
@@ -286,7 +336,6 @@
     "2. University/TU856 Year 2/Modules/Web Development 2/IP Address.md",
     "2. University/TU856 Year 2/Modules/Web Development 2/Pasted image 20251002123333.png",
     "2. University/TU856 Year 2/Modules/Web Development 2/Interent Protocols.md",
-    "2. University/TU856 Year 2/Modules/Web Development 2/Internet Protocol (IP).md",
     "2. University/TU856 Year 1/Modules/Programming/Pasted image 20250929101751.png",
     "2. University/TU856 Year 1/Modules/Programming/2025-09-29-101737_hyprshot.png",
     "2. University/PDF's/Beej's Guide to Network Concepts.pdf",

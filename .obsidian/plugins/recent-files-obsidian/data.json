@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
-    },
-    {
-      "basename": "PostgreSQL - JOINS",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - JOINS.md"
+      "basename": "PostgreSQL - JOINS (combines",
+      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - JOINS (combines.md"
     },
     {
       "basename": "$ Databases 1",
       "path": "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "obamna",
@@ -195,10 +195,6 @@
     {
       "basename": "Class 1 - Introduction",
       "path": "2. University/PDF's/(CMPU 1001) Algorithm Design and Problem Solving/Class 1 - Introduction.pdf"
-    },
-    {
-      "basename": "Comp Sci to Learn",
-      "path": "3. General/Lists/Comp Sci to Learn.md"
     }
   ],
   "omittedPaths": [],
