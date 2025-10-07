@@ -28,8 +28,12 @@ missing week 3 i think
 	- [[PostgreSQL - Inserting Values (rows)]]
 	- [[PostgreSQL - ALTER TABLE (add  rename remove columns]]
 	- [[PostgreSQL - SELECT (accessing data)]]
+	
+	- [[PostgreSQL - LIKE (return row with specified values)]]
+	- [[PostgreSQL - JOINS (combine data multiple table)]]
 
-	- [[PostgreSQL - JOINS]]
+
+
 ## Misc
 [[ACID Model]]
 

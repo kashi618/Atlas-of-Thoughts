@@ -2,7 +2,7 @@
   "accentColor": "#f792cd",
   "baseFontSize": 16,
   "theme": "obsidian",
-  "textFontFamily": "Open Sauce One,JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font",
   "enabledCssSnippets": [
     "canvas",
     "style",
