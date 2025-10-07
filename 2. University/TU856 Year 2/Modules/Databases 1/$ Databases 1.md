@@ -3,6 +3,10 @@ tags:
   - Databases1
 aliases:
 ---
+
+missing week 3 i think
+
+
 ## General
 - [[Relational Databases]]
 - [[Database Management System (DBMS)]]
@@ -25,6 +29,7 @@ aliases:
 	- [[PostgreSQL - ALTER TABLE (add  rename remove columns]]
 	- [[PostgreSQL - SELECT (accessing data)]]
 
+	- [[PostgreSQL - JOINS]]
 ## Misc
 [[ACID Model]]
 

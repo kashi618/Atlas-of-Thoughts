@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "PostgreSQL - JOINS",
+      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - JOINS.md"
+    },
+    {
+      "basename": "$ Databases 1",
+      "path": "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "obamna",
+      "path": "8. Other/obamna.gif"
+    },
+    {
+      "basename": "explosion",
+      "path": "8. Other/explosion.gif"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "Structures - Passing to Functions - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Structures - Passing to Functions - C.md"
+    },
+    {
+      "basename": "Structures - Structure Arrays - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Structures - Structure Arrays - C.md"
+    },
+    {
+      "basename": "Structures - Anatomy - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Structures - Anatomy - C.md"
+    },
+    {
+      "basename": "Ampersand - C",
+      "path": "2. University/TU856 Year 1/Modules/Programming/Ampersand - C.md"
     },
     {
       "basename": "Linked Lists",
@@ -15,10 +51,6 @@
     {
       "basename": "PostgreSQL - SELECT (accessing data)",
       "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - SELECT (accessing data).md"
-    },
-    {
-      "basename": "$ Databases 1",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md"
     },
     {
       "basename": "$ Mathematics 2",
@@ -167,30 +199,6 @@
     {
       "basename": "Comp Sci to Learn",
       "path": "3. General/Lists/Comp Sci to Learn.md"
-    },
-    {
-      "basename": "GameDev ToDo List",
-      "path": "3. General/Lists/GameDev ToDo List.md"
-    },
-    {
-      "basename": "Philosophy to Learn",
-      "path": "3. General/Lists/Philosophy to Learn.md"
-    },
-    {
-      "basename": "Monster Can Flavours and Tierlist",
-      "path": "3. General/Lists/Monster Can Flavours and Tierlist.md"
-    },
-    {
-      "basename": "Headphones & IEMs",
-      "path": "3. General/Lists/Headphones & IEMs.md"
-    },
-    {
-      "basename": "Library",
-      "path": "3. General/Lists/Library.base"
-    },
-    {
-      "basename": "obamna",
-      "path": "8. Other/obamna.gif"
     }
   ],
   "omittedPaths": [],
