@@ -1,20 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Lab3",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Lab3.md"
+      "basename": "Linked Lists - Inserting Nodes (C)",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Inserting Nodes (C).md"
     },
     {
-      "basename": "PostgreSQL - JOINS (combine data multiple table)",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - JOINS (combine data multiple table).md"
+      "basename": "Linked Lists - Creating Nodes (C)",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Creating Nodes (C).md"
+    },
+    {
+      "basename": "Linked Lists - Nodes",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Nodes.md"
+    },
+    {
+      "basename": "Linked Lists",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Fetch Execute Cycle",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Fetch Execute Cycle.md"
     },
     {
       "basename": "$ Databases 1",
       "path": "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md"
     },
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
+      "basename": "PostgreSQL - LIKE (filter with specified values)",
+      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - LIKE (filter with specified values).md"
+    },
+    {
+      "basename": "$ Object Oriented Programming",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md"
+    },
+    {
+      "basename": "??Constructor - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Constructor - Java.md"
+    },
+    {
+      "basename": "Lab3",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Lab3.md"
+    },
+    {
+      "basename": "PostgreSQL - JOINS (combine data multiple table)",
+      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - JOINS (combine data multiple table).md"
     },
     {
       "basename": "obamna",
@@ -45,24 +81,12 @@
       "path": "2. University/TU856 Year 1/Modules/Programming/Ampersand - C.md"
     },
     {
-      "basename": "Linked Lists",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md"
-    },
-    {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
-    },
-    {
       "basename": "PostgreSQL - SELECT (accessing data)",
       "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - SELECT (accessing data).md"
     },
     {
       "basename": "$ Mathematics 2",
       "path": "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md"
-    },
-    {
-      "basename": "Fetch Execute Cycle",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Fetch Execute Cycle.md"
     },
     {
       "basename": "Hill Digraph Cipher",
@@ -175,30 +199,6 @@
     {
       "basename": "Linear Search",
       "path": "2. University/Algorithms/Searching Algorithms/Linear Search.md"
-    },
-    {
-      "basename": "$N.A Mergesort - O(n log n)",
-      "path": "2. University/Algorithms/Sorting Algorithms/$N.A Mergesort - O(n log n).md"
-    },
-    {
-      "basename": "Insertion Sort - O(n²)",
-      "path": "2. University/Algorithms/Sorting Algorithms/Insertion Sort - O(n²).md"
-    },
-    {
-      "basename": "Selection Sort - O(n²)",
-      "path": "2. University/Algorithms/Sorting Algorithms/Selection Sort - O(n²).md"
-    },
-    {
-      "basename": "Bubblesort - O(n²)",
-      "path": "2. University/Algorithms/Sorting Algorithms/Bubblesort - O(n²).md"
-    },
-    {
-      "basename": "Functions - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Functions - C.md"
-    },
-    {
-      "basename": "Class 1 - Introduction",
-      "path": "2. University/PDF's/(CMPU 1001) Algorithm Design and Problem Solving/Class 1 - Introduction.pdf"
     }
   ],
   "omittedPaths": [],

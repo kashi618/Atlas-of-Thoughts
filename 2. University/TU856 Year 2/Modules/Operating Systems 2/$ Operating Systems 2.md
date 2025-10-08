@@ -8,6 +8,8 @@
 
 ## Dynamic Data Structures
 - [[Linked Lists]]
+- [[Linked Lists - Creating Nodes (C)]]
+- [[Linked Lists - Inserting Nodes (C)]]
 - 
 
 
