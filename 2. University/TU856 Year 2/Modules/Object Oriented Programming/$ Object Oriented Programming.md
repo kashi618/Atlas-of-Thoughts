@@ -12,11 +12,14 @@
 [[Creating Classes - Java]]
 [[Encapsulation]]
 
+`ew` puts object in heap memory, meaning the scope exists outside of the class
+String are immutable, reassigning makes a new object
 
 - [ ] Constructor
 - [x] Encapsulation
 - [ ] Polymorphism
 - [ ] Inheritance
+- [ ] Abstraction
 - [x] Classes
 - [x] Objects
 

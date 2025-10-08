@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Linked Lists - Inserting Nodes (C)",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Inserting Nodes (C).md"
+      "basename": "$ Object Oriented Programming",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "OS2 Potential Exam Questions",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/OS2 Potential Exam Questions.md"
     },
     {
       "basename": "Linked Lists - Creating Nodes (C)",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Creating Nodes (C).md"
+    },
+    {
+      "basename": "Linked Lists - Inserting Nodes (C)",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Inserting Nodes (C).md"
     },
     {
       "basename": "Linked Lists - Nodes",
@@ -15,14 +31,6 @@
     {
       "basename": "Linked Lists",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md"
-    },
-    {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Fetch Execute Cycle",
@@ -35,10 +43,6 @@
     {
       "basename": "PostgreSQL - LIKE (filter with specified values)",
       "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - LIKE (filter with specified values).md"
-    },
-    {
-      "basename": "$ Object Oriented Programming",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md"
     },
     {
       "basename": "??Constructor - Java",
@@ -195,10 +199,6 @@
     {
       "basename": "Binary Search",
       "path": "2. University/Algorithms/Searching Algorithms/Binary Search.md"
-    },
-    {
-      "basename": "Linear Search",
-      "path": "2. University/Algorithms/Searching Algorithms/Linear Search.md"
     }
   ],
   "omittedPaths": [],

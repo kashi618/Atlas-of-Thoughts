@@ -67,8 +67,12 @@ void insert(ListNode **sPtr, char value) {
 		}
 		// Case for inserting between prevPtr and currPtr
 		else {
-			prevPtr=>nez
+			prevPtr=->nextPtr = newPtr;
+			newPtr->nextPtr = currPtr;
 		}
+	}
+	else {
+		printf("Memory not available");
 	}
 }
 ```

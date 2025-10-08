@@ -10,6 +10,7 @@
 - [[Linked Lists]]
 - [[Linked Lists - Creating Nodes (C)]]
 - [[Linked Lists - Inserting Nodes (C)]]
+- [[Linked Lists - Deleting Nodes (C)]]
 - 
 
 

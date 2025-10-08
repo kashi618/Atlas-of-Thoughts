@@ -14,7 +14,7 @@
 		{"id":"06c57e663c8b1a5f","type":"text","text":"Cao Dong Mei You Pai Dui\n- Da Feng Chui\n- Zai\n- Jiu Gui\n\nPapun band\n\nTizzy bac","x":-160,"y":-390,"width":600,"height":410},
 		{"id":"7fe341e40aaf4993","type":"file","file":"8. Other/explosion.gif","x":332,"y":-548,"width":108,"height":108},
 		{"id":"861b7282a9e6b63e","type":"file","file":"8. Other/obamna.gif","x":86,"y":-548,"width":108,"height":108},
-		{"id":"1434ea15c85acddd","type":"text","text":"[[$ Web Development 2]]\n\n[[$ Databases 1]]\n\n[[$ Operating Systems 2]]\n\n[[$ Object Oriented Programming]]\n\n[[$ Software Engineering 1]]\n\n[[$ Mathematics 2]]","x":-600,"y":-390,"width":440,"height":283}
+		{"id":"1434ea15c85acddd","type":"text","text":"[[$ Web Development 2]]\n\n[[$ Databases 1]]\n\n[[$ Operating Systems 2]]\n\n[[$ Object Oriented Programming]]\n\n[[$ Software Engineering 1]]\n\n[[$ Mathematics 2]]n","x":-600,"y":-390,"width":440,"height":283}
 	],
 	"edges":[]
 }
