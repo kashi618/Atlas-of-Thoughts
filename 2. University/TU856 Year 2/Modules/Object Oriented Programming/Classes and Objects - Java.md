@@ -17,41 +17,5 @@ A blueprint/template for creating objects. It defines two things:
 2. Methods
 
 
-
-
-## Examples
-
-### Example 1 (about dogs)
-#### Class
-**Dog**
-
-
-#### Objects
-- **Characteristics**
-- Breed
-- Gender
-- Age
-
-**Behaviour**
-- playing()
-- barking()
-
-### Example 2 (about cars)
-#### Class
-**Care**
-
-
-#### Objects
-**Characteristics**
-- Colour
-- Make
-- Model
-- HP
-
-**Behaviour**
-- driving()
-- parking()
-
-
 # See Also
 [[$ Object Oriented Programming]]

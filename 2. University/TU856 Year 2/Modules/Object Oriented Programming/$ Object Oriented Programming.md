@@ -10,7 +10,11 @@
 [[Classes and Objects - Java]]
 [[??Constructor - Java]]
 [[Creating Classes - Java]]
-[[Encapsulation]]
+
+[[Encapsulation - Java]]
+[[Methods - Java]]
+
+
 
 `new` puts object in heap memory, meaning the scope exists outside of the class
 String are immutable, reassigning makes a new object
