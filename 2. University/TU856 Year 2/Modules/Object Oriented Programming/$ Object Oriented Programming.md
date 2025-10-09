@@ -12,7 +12,7 @@
 [[Creating Classes - Java]]
 [[Encapsulation]]
 
-`ew` puts object in heap memory, meaning the scope exists outside of the class
+`new` puts object in heap memory, meaning the scope exists outside of the class
 String are immutable, reassigning makes a new object
 
 - [ ] Constructor
@@ -21,7 +21,7 @@ String are immutable, reassigning makes a new object
 - [ ] Inheritance
 - [ ] Abstraction
 - [x] Classes
-- [x] Objects
+- [x] Objectsxzz
 
 # See Also
 [[$ Object Oriented Programming]]
