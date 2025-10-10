@@ -255,8 +255,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "45faf731fac48a99",
@@ -403,7 +402,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "afa409a84e75fce7",
+  "active": "f6365b2ef9f1c32f",
   "lastOpenFiles": [
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Creating Classes - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
