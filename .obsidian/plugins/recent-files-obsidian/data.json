@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "$ Object Oriented Programming",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md"
+    },
+    {
+      "basename": "??Constructor - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Constructor - Java.md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Classes - Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Classes - Java.md"
     },
@@ -29,20 +45,12 @@
       "path": "2. University/TU856 Year 1/Modules/Operating Systems 1/!! Monolithic Systems.md"
     },
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
-    },
-    {
       "basename": "What are Classes and Objects - Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/What are Classes and Objects - Java.md"
     },
     {
       "basename": "Attributes - Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Attributes - Java.md"
-    },
-    {
-      "basename": "$ Object Oriented Programming",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md"
     },
     {
       "basename": "Method Overloading - Java",
@@ -67,10 +75,6 @@
     {
       "basename": "Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Java.md"
-    },
-    {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
     },
     {
       "basename": "OS2 Potential Exam Questions",
@@ -103,10 +107,6 @@
     {
       "basename": "PostgreSQL - LIKE (filter with specified values)",
       "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - LIKE (filter with specified values).md"
-    },
-    {
-      "basename": "??Constructor - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Constructor - Java.md"
     },
     {
       "basename": "Lab3",
@@ -203,5 +203,6 @@
   ],
   "omittedPaths": [],
   "omittedTags": [],
+  "updateOn": "file-open",
   "omitBookmarks": false
 }

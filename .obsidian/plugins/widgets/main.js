@@ -23540,7 +23540,8 @@ var Clock = ({ settings }) => {
   const [amPm, setAmPm] = React.useState((0, import_obsidian.moment)().format("A"));
   React.useEffect(() => {
     const clockInterval = setInterval(() => {
-      const timeFormat = settings.format === "12hr" ? "hh:mm:ss" : "HH:mm:ss";
+      const hideSeconds = settings.hideSeconds ? settings.hideSeconds !== "false" : false;
+      const timeFormat = settings.format === "12hr" ? hideSeconds ? "hh:mm a" : "hh:mm:ss a" : hideSeconds ? "HH:mm" : "HH:mm:ss";
       setAmPm((0, import_obsidian.moment)().format("A"));
       setTime((0, import_obsidian.moment)().format(timeFormat));
       setDate((0, import_obsidian.moment)().format("dddd, MMMM DD, YYYY"));
@@ -23555,7 +23556,8 @@ var Clock_default = Clock;
 Clock.defaultProps = {
   settings: {
     type: "clock",
-    format: "24hr"
+    format: "24hr",
+    hideSeconds: null
   }
 };
 
@@ -23563,17 +23565,26 @@ Clock.defaultProps = {
 var import_react = __toESM(require_react());
 var import_obsidian2 = require("obsidian");
 var Countdown = ({
-  settings: { date, to, completedLabel }
+  settings: { date, to, completedLabel, show }
 }) => {
   const [countdown, setCountdown] = (0, import_react.useState)({
+    years: 0,
     days: 0,
     hours: 0,
     minutes: 0,
     seconds: 0
   });
   const [invalidDate, setInvalidDate] = (0, import_react.useState)(null);
+  const showItems = (show == null ? void 0 : show.split(",").map((item) => item.trim())) || [];
+  const showState = {
+    years: show ? showItems.includes("years") : true,
+    days: show ? showItems.includes("days") : true,
+    hours: show ? showItems.includes("hours") : true,
+    minutes: show ? showItems.includes("minutes") : true,
+    seconds: show ? showItems.includes("seconds") : true
+  };
   (0, import_react.useEffect)(() => {
-    const dateRegex = /^(\+)(\d+)([smhd])$/;
+    const dateRegex = /^(\+)(\d+)([smhdy])$/;
     const dateMatch = date.match(dateRegex);
     let endTime;
     if (dateMatch) {
@@ -23593,6 +23604,9 @@ var Countdown = ({
         case "d":
           endTime.add(parseInt(value), "days");
           break;
+        case "y":
+          endTime.add(parseInt(value), "years");
+          break;
       }
     } else {
       endTime = (0, import_obsidian2.moment)(`${date}`);
@@ -23608,11 +23622,12 @@ var Countdown = ({
         setInvalidDate(completedLabel || "Completed! \u{1F389}");
         return;
       }
-      const days = Math.floor(diffInSeconds / 86400);
+      const years = Math.floor(diffInSeconds / 31536e3);
+      const days = Math.floor(diffInSeconds % 31536e3 / 86400);
       const hours = Math.floor(diffInSeconds % 86400 / 3600);
       const minutes = Math.floor(diffInSeconds % 3600 / 60);
       const seconds = Math.floor(diffInSeconds % 60);
-      setCountdown({ days, hours, minutes, seconds });
+      setCountdown({ years, days, hours, minutes, seconds });
     }, 1e3);
     return () => {
       clearInterval(clockInterval);
@@ -23621,7 +23636,7 @@ var Countdown = ({
   if (invalidDate) {
     return /* @__PURE__ */ import_react.default.createElement(import_react.default.Fragment, null, /* @__PURE__ */ import_react.default.createElement("div", { className: "Countdown_Container" }, /* @__PURE__ */ import_react.default.createElement("div", { className: "Countdown_Item" }, /* @__PURE__ */ import_react.default.createElement("h3", null, invalidDate))), /* @__PURE__ */ import_react.default.createElement("div", { className: "Countdown_To" }, to));
   }
-  return /* @__PURE__ */ import_react.default.createElement(import_react.default.Fragment, null, /* @__PURE__ */ import_react.default.createElement("div", { className: "Countdown_Container" }, /* @__PURE__ */ import_react.default.createElement("div", { className: "Countdown_Item" }, /* @__PURE__ */ import_react.default.createElement("h3", null, countdown.days), /* @__PURE__ */ import_react.default.createElement("small", null, "days")), /* @__PURE__ */ import_react.default.createElement("div", { className: "Countdown_Item" }, /* @__PURE__ */ import_react.default.createElement("h3", null, countdown.hours), /* @__PURE__ */ import_react.default.createElement("small", null, "hours")), /* @__PURE__ */ import_react.default.createElement("div", { className: "Countdown_Item" }, /* @__PURE__ */ import_react.default.createElement("h3", null, countdown.minutes), /* @__PURE__ */ import_react.default.createElement("small", null, "minutes")), /* @__PURE__ */ import_react.default.createElement("div", { className: "Countdown_Item" }, /* @__PURE__ */ import_react.default.createElement("h3", null, countdown.seconds), /* @__PURE__ */ import_react.default.createElement("small", null, "seconds"))), /* @__PURE__ */ import_react.default.createElement("div", { className: "Countdown_To" }, to));
+  return /* @__PURE__ */ import_react.default.createElement(import_react.default.Fragment, null, /* @__PURE__ */ import_react.default.createElement("div", { className: "Countdown_Container" }, showState.years && /* @__PURE__ */ import_react.default.createElement("div", { className: "Countdown_Item" }, /* @__PURE__ */ import_react.default.createElement("h3", null, countdown.years), /* @__PURE__ */ import_react.default.createElement("small", null, "years")), showState.days && /* @__PURE__ */ import_react.default.createElement("div", { className: "Countdown_Item" }, /* @__PURE__ */ import_react.default.createElement("h3", null, countdown.days), /* @__PURE__ */ import_react.default.createElement("small", null, "days")), showState.hours && /* @__PURE__ */ import_react.default.createElement("div", { className: "Countdown_Item" }, /* @__PURE__ */ import_react.default.createElement("h3", null, countdown.hours), /* @__PURE__ */ import_react.default.createElement("small", null, "hours")), showState.minutes && /* @__PURE__ */ import_react.default.createElement("div", { className: "Countdown_Item" }, /* @__PURE__ */ import_react.default.createElement("h3", null, countdown.minutes), /* @__PURE__ */ import_react.default.createElement("small", null, "minutes")), showState.seconds && /* @__PURE__ */ import_react.default.createElement("div", { className: "Countdown_Item" }, /* @__PURE__ */ import_react.default.createElement("h3", null, countdown.seconds), /* @__PURE__ */ import_react.default.createElement("small", null, "seconds"))), /* @__PURE__ */ import_react.default.createElement("div", { className: "Countdown_To" }, to));
 };
 var Countdown_default = Countdown;
 
@@ -23635,7 +23650,7 @@ var Quote_default = Quote;
 // src/Counter/index.tsx
 var import_react2 = __toESM(require_react());
 var Counter = ({ settings, helperFunctions, leafId }) => {
-  const [count, setCount] = (0, import_react2.useState)(0);
+  const [count, setCount] = (0, import_react2.useState)(parseInt(settings.startValue || "0"));
   (0, import_react2.useEffect)(() => {
     helperFunctions.readFromDataJson().then((data) => {
       let path;
@@ -23655,17 +23670,20 @@ var Counter = ({ settings, helperFunctions, leafId }) => {
   }, []);
   const increment = () => {
     const currentCount = count;
-    setCount(currentCount + 1);
-    writeToDataJson(currentCount + 1);
+    const increment2 = parseInt(settings.increment || "1");
+    setCount(currentCount + increment2);
+    writeToDataJson(currentCount + increment2);
   };
   const decrement = () => {
     const currentCount = count;
-    setCount(currentCount - 1);
-    writeToDataJson(currentCount - 1);
+    const decrement2 = parseInt(settings.increment || "1");
+    setCount(currentCount - decrement2);
+    writeToDataJson(currentCount - decrement2);
   };
   const reset = () => {
-    setCount(0);
-    writeToDataJson(0);
+    const startValue = parseInt(settings.startValue || "0");
+    setCount(startValue);
+    writeToDataJson(startValue);
   };
   const writeToDataJson = (value) => {
     helperFunctions.readFromDataJson().then((data) => {
@@ -23683,6 +23701,14 @@ var Counter = ({ settings, helperFunctions, leafId }) => {
     });
   };
   return /* @__PURE__ */ import_react2.default.createElement("div", { className: "Counter__container" }, /* @__PURE__ */ import_react2.default.createElement("div", { className: "Counter__counter" }, /* @__PURE__ */ import_react2.default.createElement("button", { onClick: decrement }, "-"), count, /* @__PURE__ */ import_react2.default.createElement("button", { onClick: increment }, "+"), /* @__PURE__ */ import_react2.default.createElement("button", { onClick: reset }, "Reset")), /* @__PURE__ */ import_react2.default.createElement("div", { className: "Counter__text" }, settings.text));
+};
+Counter.defaultProps = {
+  settings: {
+    text: "Count",
+    id: "",
+    increment: "1",
+    startValue: "0"
+  }
 };
 var Counter_default = Counter;
 
@@ -23818,6 +23844,32 @@ var Config = ({ setState, state }) => {
         });
       }
     }
+  ), /* @__PURE__ */ import_react3.default.createElement("br", null), /* @__PURE__ */ import_react3.default.createElement("br", null), /* @__PURE__ */ import_react3.default.createElement("label", null, "Increment"), /* @__PURE__ */ import_react3.default.createElement("br", null), /* @__PURE__ */ import_react3.default.createElement(
+    "input",
+    {
+      type: "number",
+      value: state.increment,
+      onChange: (ev) => {
+        const increment = ev.target.value;
+        setState({
+          ...state,
+          increment
+        });
+      }
+    }
+  ), /* @__PURE__ */ import_react3.default.createElement("br", null), /* @__PURE__ */ import_react3.default.createElement("br", null), /* @__PURE__ */ import_react3.default.createElement("label", null, "Start Value"), /* @__PURE__ */ import_react3.default.createElement("br", null), /* @__PURE__ */ import_react3.default.createElement(
+    "input",
+    {
+      type: "number",
+      value: state.startValue,
+      onChange: (ev) => {
+        const startValue = ev.target.value;
+        setState({
+          ...state,
+          startValue
+        });
+      }
+    }
   )), state.type === "clock" && /* @__PURE__ */ import_react3.default.createElement("div", { className: "WidgetConfig__input-group" }, /* @__PURE__ */ import_react3.default.createElement("label", null, "Time Format"), /* @__PURE__ */ import_react3.default.createElement("br", null), /* @__PURE__ */ import_react3.default.createElement(
     "select",
     {
@@ -23832,6 +23884,19 @@ var Config = ({ setState, state }) => {
     },
     /* @__PURE__ */ import_react3.default.createElement("option", { value: "12hr" }, "12 Hour"),
     /* @__PURE__ */ import_react3.default.createElement("option", { value: "24hr" }, "24 Hour")
+  ), /* @__PURE__ */ import_react3.default.createElement("br", null), /* @__PURE__ */ import_react3.default.createElement("br", null), /* @__PURE__ */ import_react3.default.createElement("label", null, "Hide Seconds"), /* @__PURE__ */ import_react3.default.createElement("br", null), /* @__PURE__ */ import_react3.default.createElement(
+    "input",
+    {
+      type: "checkbox",
+      checked: state.hideSeconds === "true",
+      onChange: (ev) => {
+        const hideSeconds = ev.target.checked ? "true" : "false";
+        setState({
+          ...state,
+          hideSeconds
+        });
+      }
+    }
   )), state.type === "countdown" && /* @__PURE__ */ import_react3.default.createElement(import_react3.default.Fragment, null, /* @__PURE__ */ import_react3.default.createElement("div", { className: "WidgetConfig__input-group" }, /* @__PURE__ */ import_react3.default.createElement("label", null, "Date"), /* @__PURE__ */ import_react3.default.createElement("br", null), /* @__PURE__ */ import_react3.default.createElement(
     "input",
     {
@@ -23920,7 +23985,10 @@ var WidgetView = class extends import_obsidian4.ItemView {
       quote: "",
       text: "",
       to: "",
-      isEditing: true
+      isEditing: true,
+      hideSeconds: null,
+      increment: "1",
+      startValue: "0"
     };
     this.leaf = leaf;
     this.helperFunctions = helperFunctions;
