@@ -7,13 +7,19 @@
 ## Java
 [[Java]]
 [[Packages - Java]]
-[[Classes and Objects - Java]]
+
 [[??Constructor - Java]]
 [[Creating Classes - Java]]
 
 [[Encapsulation - Java]]
-[[Methods - Java]]
 
+[[Methods - Java]]
+- [[Method Overloading - Java]]
+
+
+[[What are Classes and Objects - Java]]
+- [[Classes - Java]]
+- [[Attributes - Java]]
 
 
 `new` puts object in heap memory, meaning the scope exists outside of the class

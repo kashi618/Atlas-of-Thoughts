@@ -1,20 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "Methods - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Methods - Java.md"
+      "basename": "Classes - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Classes - Java.md"
+    },
+    {
+      "basename": "Structured and Unstructured Data",
+      "path": "2. University/TU856 Year 1/Modules/Data Exploration/Structured and Unstructured Data.md"
+    },
+    {
+      "basename": "Excel Errors",
+      "path": "2. University/TU856 Year 1/Modules/Data Exploration/Excel Errors.md"
+    },
+    {
+      "basename": "Selection Sort",
+      "path": "2. University/TU856 Year 1/Modules/Algorithm Design and Problem Solving/Selection Sort.md"
+    },
+    {
+      "basename": "Traffic Lights",
+      "path": "2. University/TU856 Year 1/Modules/Microprocessor Systems/Traffic Lights.md"
+    },
+    {
+      "basename": "Turn On Output Port",
+      "path": "2. University/TU856 Year 1/Modules/Microprocessor Systems/Turn On Output Port.md"
+    },
+    {
+      "basename": "!! Monolithic Systems",
+      "path": "2. University/TU856 Year 1/Modules/Operating Systems 1/!! Monolithic Systems.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "What are Classes and Objects - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/What are Classes and Objects - Java.md"
+    },
+    {
+      "basename": "Attributes - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Attributes - Java.md"
     },
     {
       "basename": "$ Object Oriented Programming",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md"
     },
     {
-      "basename": "Encapsulation - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Encapsulation - Java.md"
+      "basename": "Method Overloading - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Method Overloading - Java.md"
     },
     {
-      "basename": "Classes and Objects - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Classes and Objects - Java.md"
+      "basename": "Methods - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Methods - Java.md"
+    },
+    {
+      "basename": "Encapsulation - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Encapsulation - Java.md"
     },
     {
       "basename": "Creating Classes - Java",
@@ -27,10 +67,6 @@
     {
       "basename": "Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Java.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "$ Operating Systems 2",
@@ -158,47 +194,11 @@
     },
     {
       "basename": "OLD Von Neumann Architecture",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Computer Architecture and Technology/OLD Von Neumann Architecture.md"
-    },
-    {
-      "basename": "Excel Errors",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Data Exploration/Excel Errors.md"
+      "path": "2. University/TU856 Year 1/Modules/Computer Architecture and Technology/OLD Von Neumann Architecture.md"
     },
     {
       "basename": "CPU",
-      "path": "2. University/TU856 Year 1/Modules/Semester 2/Computer Architecture and Technology/CPU.md"
-    },
-    {
-      "basename": "Archlinux - Installation",
-      "path": "3. General/Archlinux/Archlinux - Installation.md"
-    },
-    {
-      "basename": "DB1 Databases 1",
-      "path": "6. Templates/DB1 Databases 1.md"
-    },
-    {
-      "basename": "Projects",
-      "path": "3. General/Ideas/Projects.md"
-    },
-    {
-      "basename": "How to Get Irish Driver's License",
-      "path": "3. General/Notes/How to Get Irish Driver's License.md"
-    },
-    {
-      "basename": "Guitar Wishlist",
-      "path": "3. General/Lists/Guitar Wishlist.md"
-    },
-    {
-      "basename": "Elden Ring Quest Guide",
-      "path": "3. General/Gaming/Elden Ring Quest Guide.md"
-    },
-    {
-      "basename": "Tossi Stuff",
-      "path": "3. General/Notes/Tossi Stuff.md"
-    },
-    {
-      "basename": "TV Shows & Movies & Anime & Manga",
-      "path": "3. General/Lists/TV Shows & Movies & Anime & Manga.md"
+      "path": "2. University/TU856 Year 1/Modules/Computer Architecture and Technology/CPU.md"
     }
   ],
   "omittedPaths": [],

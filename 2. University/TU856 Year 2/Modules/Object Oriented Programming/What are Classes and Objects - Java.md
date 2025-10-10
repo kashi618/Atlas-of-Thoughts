@@ -4,7 +4,6 @@ tags:
   - Java
 aliases:
 ---
-## What are Classes and Objects?
 - A Class is s blueprint which individual objects are created 
 - Every class has its *methods* and *attributes* that can be accessed and manipulated through the objects
 

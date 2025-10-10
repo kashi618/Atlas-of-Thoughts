@@ -10,6 +10,8 @@ allowing for greater security and simplifying data hiding"
 
 This can be applied to classes, methods, and attributes.
 
+They are called access modifiers.
+
 ## Advantages
 - Gives data protection
 	- setters (for example, invalid age)
@@ -20,12 +22,12 @@ This can be applied to classes, methods, and attributes.
 ## Encapsulation on Attributes and Methods
 ### Visibility Levels
 
-| Modifier  | Visibility                              |
-| --------- | --------------------------------------- |
-| public    | Can be accessed EVERYWHERE              |
-| protected | Only in the same package and subclasses |
-| default   | Only in the same package                |
-| private   | Only in the class                       |
+| Access Modifier | Visibility                              |
+| --------------- | --------------------------------------- |
+| public          | Can be accessed EVERYWHERE              |
+| protected       | Only in the same package and subclasses |
+| default         | Only in the same package                |
+| private         | Only in the class                       |
 
 ### Public Attributes
 Public attributes can be accessed outside of its class. This means that any value can be set, **bad data**.
