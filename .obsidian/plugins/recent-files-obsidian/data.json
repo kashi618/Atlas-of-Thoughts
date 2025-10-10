@@ -5,8 +5,32 @@
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md"
     },
     {
-      "basename": "??Constructor - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Constructor - Java.md"
+      "basename": "Creating Classes - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Creating Classes - Java.md"
+    },
+    {
+      "basename": "Classes - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Classes - Java.md"
+    },
+    {
+      "basename": "Constructor - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Constructor - Java.md"
+    },
+    {
+      "basename": "??Override - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Override - Java.md"
+    },
+    {
+      "basename": "??This - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??This - Java.md"
+    },
+    {
+      "basename": "??Object() Class - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Object() Class - Java.md"
+    },
+    {
+      "basename": "Inheritance - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Inheritance - Java.md"
     },
     {
       "basename": "$ Operating Systems 2",
@@ -15,10 +39,6 @@
     {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
-    },
-    {
-      "basename": "Classes - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Classes - Java.md"
     },
     {
       "basename": "Structured and Unstructured Data",
@@ -63,10 +83,6 @@
     {
       "basename": "Encapsulation - Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Encapsulation - Java.md"
-    },
-    {
-      "basename": "Creating Classes - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Creating Classes - Java.md"
     },
     {
       "basename": "Packages - Java",
@@ -183,22 +199,6 @@
     {
       "basename": "conflict-files-obsidian-git",
       "path": "conflict-files-obsidian-git.md"
-    },
-    {
-      "basename": "Games to Play",
-      "path": "3. General/Lists/Games to Play.md"
-    },
-    {
-      "basename": "Instruction Cycle (LMC_)",
-      "path": "Instruction Cycle (LMC_).md"
-    },
-    {
-      "basename": "OLD Von Neumann Architecture",
-      "path": "2. University/TU856 Year 1/Modules/Computer Architecture and Technology/OLD Von Neumann Architecture.md"
-    },
-    {
-      "basename": "CPU",
-      "path": "2. University/TU856 Year 1/Modules/Computer Architecture and Technology/CPU.md"
     }
   ],
   "omittedPaths": [],

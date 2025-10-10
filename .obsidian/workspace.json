@@ -49,6 +49,126 @@
               "icon": "lucide-file",
               "title": "$ Object Oriented Programming"
             }
+          },
+          {
+            "id": "003ada3d0eb8bdc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Override - Java.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "??Override - Java"
+            }
+          },
+          {
+            "id": "4fe324c6d09262ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??This - Java.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "??This - Java"
+            }
+          },
+          {
+            "id": "4bff2e4aa23a74f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Object() Class - Java.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "??Object() Class - Java"
+            }
+          },
+          {
+            "id": "2ebc1b20192ccca3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Inheritance - Java.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Inheritance - Java"
+            }
+          },
+          {
+            "id": "cd05b0102a268560",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Inheritance - Java.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Inheritance - Java"
+            }
           }
         ],
         "currentTab": 1
@@ -135,7 +255,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "45faf731fac48a99",
@@ -249,17 +370,18 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1. Home Page/Home.canvas"
+                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for $ Object Oriented Programming"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 519.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,12 +403,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3818504df7a8120f",
+  "active": "afa409a84e75fce7",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Constructor - Java.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Creating Classes - Java.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Classes - Java.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Constructor - Java.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Override - Java.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/??This - Java.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Object() Class - Java.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Inheritance - Java.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
     "1. Home Page/Home.canvas",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Classes - Java.md",
     "2. University/TU856 Year 1/Modules/Data Exploration/Structured and Unstructured Data.md",
     "2. University/TU856 Year 1/Modules/Data Exploration/Excel Errors.md",
     "2. University/TU856 Year 1/Modules/Algorithm Design and Problem Solving/Selection Sort.md",
@@ -295,22 +423,16 @@
     "2. University/TU856 Year 1/Modules/Operating Systems 1/!! Monolithic Systems.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/What are Classes and Objects - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Attributes - Java.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Method Overloading - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Methods - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Encapsulation - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Pasted image 20251009124000.png",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Creating Classes - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Packages - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Java.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/OS2 Potential Exam Questions.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Creating Nodes (C).md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Inserting Nodes (C).md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Nodes.md",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/Fetch Execute Cycle.md",
-    "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md",
-    "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - LIKE (filter with specified values).md",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251007114405.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251007113640.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251007111330.png",
