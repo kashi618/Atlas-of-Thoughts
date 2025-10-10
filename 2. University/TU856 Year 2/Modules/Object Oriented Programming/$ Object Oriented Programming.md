@@ -21,9 +21,15 @@
 - [[Classes - Java]] && [[Creating Classes - Java]] duplicate (merge)
 - [[Attributes - Java]]
 
-[[Inheritance - Java]]
+[[Arrays of Objects - Java]]
+
+ [[Inheritance - Java]]
 - [[??Object() Class - Java]]
 - [[Extends - Java]] Could merge into inheritance. Maybe use inheritance for theory, and this for syntax
+- [[??Super - Java]]
+
+[[??Polymorphism - Java]]
+
 
 [[??Override - Java]]
 
