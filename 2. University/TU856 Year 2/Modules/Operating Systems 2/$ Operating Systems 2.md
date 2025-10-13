@@ -14,4 +14,6 @@
 - 
 
 
+[[??Heap and Stack Memory]]
+
 [[OS2 Potential Exam Questions]] 
