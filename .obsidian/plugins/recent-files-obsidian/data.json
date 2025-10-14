@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Stacks",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks.md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Inheritance - Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Inheritance - Java.md"
-    },
-    {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
     },
     {
       "basename": "Creating Classes - Java",
@@ -195,10 +199,6 @@
     {
       "basename": "ACID Model",
       "path": "2. University/TU856 Year 2/Modules/Databases 1/ACID Model.md"
-    },
-    {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
     }
   ],
   "omittedPaths": [],

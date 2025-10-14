@@ -13,6 +13,7 @@
 - [[Linked Lists - Deleting Nodes (C)]]
 - 
 
+- [[Stacks]]
 
 [[??Heap and Stack Memory]]
 
