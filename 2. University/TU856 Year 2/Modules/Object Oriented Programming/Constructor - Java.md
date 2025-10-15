@@ -21,8 +21,8 @@ class Vehicle {
 }
 ```
 
-**Note:** java allows multiple methods/constructors with the same name. Please see [[??Method Overloading - Java|method overloading]].
+**Note:** java allows multiple methods/constructors with the same name. Please see [[Method Overloading - Java]].
 
 # See Also
 [[$ Object Oriented Programming]]
-[[??Method Overloading - Java]]
+[[Method Overloading - Java]]
