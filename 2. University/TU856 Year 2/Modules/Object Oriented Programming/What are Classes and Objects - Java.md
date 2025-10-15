@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 ## Classes
-- A Class is s blueprint which individual objects are created 
+- A Class is s blueprint which allows o
 - Every class has its *methods* and *attributes* that can be accessed and manipulated through the objects
 
 - A class is just a template, that allows you to instantiate (create) objects

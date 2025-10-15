@@ -4,16 +4,14 @@ tags:
   - Java
 aliases:
 ---
-**Advantages**
-- Portable and scalable
-- Write once run anywhere. Don't need to compile for each operating system
+## What is Java?
+- Object oriented programming language
+- Platform independent. "Write once, run anywhere"
+- Code compiled into bytecode, which can be understood by the JVM (java virtual machine)
 
-## Basics
-- Every program starts in a class
-
-## Convention
-- Class names begin with capital
-
+## Conventions
+- Class names and files begin with capital
+- Individual variables start lowercase
  
 # See Also
-[[$ Operating Systems 1]]  
+[[$ Object Oriented Programming]]  
