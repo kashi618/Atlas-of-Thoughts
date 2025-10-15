@@ -6,20 +6,23 @@
 
 ## Java
 [[Java]]
+
 ## Java Core Concepts
 [[Packages - Java]]
-[[Constructor - Java]]
+
 
 [[??This - Java]]
 
 [[Encapsulation - Java]]
 
-[[Methods - Java]]
-- [[Method Overloading - Java]]
-
 [[What are Classes and Objects - Java]]
 - [[Classes - Java]] && [[Creating Classes - Java]] duplicate (merge)
 - [[Attributes - Java]]
+
+[[Methods - Java]]
+- [[Constructor - Java]]
+- [[Method Overloading - Java]]
+
 
 [[Arrays of Objects - Java]]
 

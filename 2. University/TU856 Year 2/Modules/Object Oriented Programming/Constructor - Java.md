@@ -4,9 +4,25 @@ tags:
   - Java
 aliases:
 ---
-A method that allows you to "construct" and initialize the attributes in a class. 
+A method that allows you to "construct" and initialize the attributes of a class. 
+```java showlinenumbers
+class Vehicle {
+	String model;
+	String engineType;
+	int horsePower;
+	
+	// --- Constructor --- //
+	public void Vehicle(String model, String engineType, int horsePower) {
+		this.model      = model;
+		this.engineType = engineType;
+		this.horsePower = horsepower;
+	}
+	// --- Constructor --- //
+}
+```
 
-If the attributes are private, then it would be the getters and setters.
+**Note:** java allows multiple methods/constructors with the same name. Please see [[??Method Overloading - Java|method overloading]].
 
 # See Also
 [[$ Object Oriented Programming]]
+[[??Method Overloading - Java]]

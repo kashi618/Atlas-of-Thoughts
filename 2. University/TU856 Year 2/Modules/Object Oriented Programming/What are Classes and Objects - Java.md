@@ -4,6 +4,7 @@ tags:
   - Java
 aliases:
 ---
+## Classes
 - A Class is s blueprint which individual objects are created 
 - Every class has its *methods* and *attributes* that can be accessed and manipulated through the objects
 
@@ -14,6 +15,8 @@ aliases:
 A blueprint/template for creating objects. It defines two things:
 1. Attributes
 2. Methods
+
+## Objects
 
 
 # See Also

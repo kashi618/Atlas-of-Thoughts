@@ -1,7 +1,3 @@
-
-
-
-
 ---
 tags:
   - Object-Oriented-Programming
