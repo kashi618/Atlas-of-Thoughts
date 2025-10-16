@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Hill Digraph Cipher - Decrypting",
+      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Decrypting.md"
+    },
+    {
       "basename": "$ Mathematics 2",
       "path": "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md"
+    },
+    {
+      "basename": "Hill Digraph Cipher - Encrypting",
+      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Encrypting.md"
     },
     {
       "basename": "Diophantine Equations",
@@ -191,14 +199,6 @@
     {
       "basename": "Lab3",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Lab3.md"
-    },
-    {
-      "basename": "PostgreSQL - JOINS (combine data multiple table)",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - JOINS (combine data multiple table).md"
-    },
-    {
-      "basename": "obamna",
-      "path": "8. Other/obamna.gif"
     }
   ],
   "omittedPaths": [],

@@ -6,7 +6,8 @@
 
 [[FLT]]
 
-[[Hill Digraph Cipher]]
+[[Hill Digraph Cipher - Encrypting]]
+[[Hill Digraph Cipher - Decrypting]]
 
 [[Chinese Remainder Theorem]]
 [[Hill Digraph Cipher]]
