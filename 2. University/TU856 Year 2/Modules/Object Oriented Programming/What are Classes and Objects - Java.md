@@ -5,18 +5,17 @@ tags:
 aliases:
 ---
 ## Classes
-- A Class is s blueprint which allows o
-- Every class has its *methods* and *attributes* that can be accessed and manipulated through the objects
+- A blueprint that defines properties and behaviours of an entity.
+[[Basic Class Template - Java|How to create a class]]
 
-- A class is just a template, that allows you to instantiate (create) objects
-- To use a class, we can create an object. Each object contains a state, and a behaviour.
-
-**Classes**
-A blueprint/template for creating objects. It defines two things:
-1. Attributes
-2. Methods
+### Common Characteristics
+- Attributes
+- Constructors
+- Methods
+- Getters and Setters
 
 ## Objects
+A specific instance created from a class.
 
 
 # See Also

@@ -11,23 +11,28 @@
 
 ### Classes and Objects
 [[What are Classes and Objects - Java]]
-- [[Classes - Java]] && [[Creating Classes - Java]] duplicate (merge)
+- [[Basic Class Template - Java]]
 - [[Attributes - Java]]
 
-### Methods and Constructors
-[[Methods - Java]]
+- [[Methods - Java]]
+	- [[Method Signature - Java]]
 - [[Constructor - Java]]
 - [[Method Overloading - Java]]
 
 ### Arrays
 [[??Arrays of Objects - Java]]
 
+
+
 ### Encapsulation
 [[??This - Java]]
 [[??Encapsulation - Java]]
 
 
-### Inheritance and Polymorphism
+### Inheritance
+
+### Polymorphism
+
 [[??Override - Java]]
 
  
