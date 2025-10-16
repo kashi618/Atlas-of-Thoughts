@@ -7,14 +7,45 @@ aliases:
 
 ## Instructions
 
-Decrypt the cipher text `WBOK` using the matrix $\begin{bmatrix}3&2\\2&1\end{bmatrix}$
+Decrypt the cipher text `WKFT` using the matrix $A=\begin{bmatrix}4&1\\3&2\end{bmatrix}$
+
 
 ### Step 1 find det(A) and adj(A)
-$det(A) = (3)(1)-(2)(2) = -1$
+$det(A) = \frac{1}{(4)(2)-(1)(3)} = -1$
 
 - Multiply (top left)(bottom right) - (top right)(bottom left)
 
-$adj(A)=\begin{bmatrix}1&-2\\-2&3\end{bmatrix}$
+$adj(A)=\begin{bmatrix}2&-1\\-3&4\end{bmatrix}$
+
+- Swap top left and top right, swap signs on top right and bottom left
+
+### Step 2 Find the inverse
+$A^{-1}=det(A)*adj(A)$
+
+$A^{-1}=\frac{1}{5}\begin{bmatrix}2&-1\\-3&4\end{bmatrix}$
+
+However, fractions do not work in modulo number systems. Therefore, we need to find the inverse of $5^{-1}$ first.
+
+**We can use extended euclidean algorithm:**
+$26=5(5)+1$
+$1(26)-5(5)=1$
+$-5(5)=1$
+
+Inverse is $-5≡21$, therefore
+
+$A^{-1}=21\begin{bmatrix}2&-1\\-3&4\end{bmatrix}=\begin{bmatrix}42&-21\\-63&84\end{bmatrix}$
+
+$\begin{bmatrix}42&-21\\-63&84\end{bmatrix}≡\begin{bmatrix}16&5\\15&6\end{bmatrix}(mod\>26)$
+
+### Step 3 Multiply cipher text by matrix
+a b c d e f g h i j k. l. m. n. o. p. q. r. s. t. u. v. w. x. y. z.
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+
+`WKFT` = 22 10 5 19 -> $\begin{bmatrix}22&5\\10&19\end{bmatrix}$
+
+
+
+$A⋅A^{-1}=1(mod\>n)$
 
 # See Also
 [[$ Object Oriented Programming]]
