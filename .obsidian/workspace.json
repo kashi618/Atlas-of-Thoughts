@@ -10,21 +10,72 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -380,
+                  "y": -260,
+                  "zoom": -0.2170707810682534
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "f1bf1f97498af55c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Mathematics 2"
+            }
+          },
+          {
+            "id": "e75b014ed0548dbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Mathematics 2/Diophantine Equations.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Diophantine Equations"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,8 +305,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f1bf1f97498af55c",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Modules/Mathematics 2/Diophantine Equations.md",
+    "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md",
+    "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 1/Modules/Microprocessor Systems/Mathematics/Euclidean Algorithm 1.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Constructors - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Methods - Java.md",
@@ -263,7 +318,6 @@
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Method Signature - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/What are Classes and Objects - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Classes - Java.md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Abstraction - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Packages - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Java.md",
@@ -279,10 +333,6 @@
     "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Override - Java.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Object() Class - Java.md",
-    "2. University/TU856 Year 1/Modules/Data Exploration/Structured and Unstructured Data.md",
-    "2. University/TU856 Year 1/Modules/Data Exploration/Excel Errors.md",
-    "2. University/TU856 Year 1/Modules/Algorithm Design and Problem Solving/Selection Sort.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Pasted image 20251009124000.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251007114405.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251007113640.png",

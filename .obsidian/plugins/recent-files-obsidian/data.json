@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "$ Mathematics 2",
+      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md"
+    },
+    {
+      "basename": "Diophantine Equations",
+      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Diophantine Equations.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Euclidean Algorithm 1",
+      "path": "2. University/TU856 Year 1/Modules/Microprocessor Systems/Mathematics/Euclidean Algorithm 1.md"
+    },
+    {
       "basename": "Constructors - Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Constructors - Java.md"
     },
@@ -23,10 +39,6 @@
     {
       "basename": "What are Classes and Objects - Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/What are Classes and Objects - Java.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "??Abstraction - Java",
@@ -187,18 +199,6 @@
     {
       "basename": "PostgreSQL - SELECT (accessing data)",
       "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - SELECT (accessing data).md"
-    },
-    {
-      "basename": "$ Mathematics 2",
-      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md"
-    },
-    {
-      "basename": "Hill Digraph Cipher",
-      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher.md"
-    },
-    {
-      "basename": "PostgreSQL - Inserting Values (rows)",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Inserting Values (rows).md"
     }
   ],
   "omittedPaths": [],
