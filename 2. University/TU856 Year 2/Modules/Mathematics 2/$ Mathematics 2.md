@@ -1,6 +1,13 @@
+
 [[Diophantine Equations]]
+- Can be used for finding inverse of a modulo number
 
-[[Inverse Numbers - Mathematics 2]]
+[[Fast Exponentiation]]
 
+[[FLT]]
+
+[[Hill Digraph Cipher]]
+
+[[Chinese Remainder Theorem]]
 [[Hill Digraph Cipher]]
 

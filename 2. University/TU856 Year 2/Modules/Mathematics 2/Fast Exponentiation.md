@@ -3,8 +3,7 @@ tags:
   - Mathematics-2
 aliases:
 ---
-The inverse of an integer is an integer $x$ such that
-$ax≡b(mod/n)$
+Quick way to find powers of an integer
 
 # See Also
 [[$ Mathematics 2]]
