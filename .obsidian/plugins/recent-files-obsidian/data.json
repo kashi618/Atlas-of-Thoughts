@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "$ Mathematics 2",
+      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md"
+    },
+    {
+      "basename": "Fermat's Little Theorum",
+      "path": "2. University/TU856 Year 1/Modules/Mathematics/Fermat's Little Theorum.md"
+    },
+    {
       "basename": "Hill Digraph Cipher - Decrypting",
       "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Decrypting.md"
     },
     {
       "basename": "Hill Digraph Cipher - Encrypting",
       "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Encrypting.md"
-    },
-    {
-      "basename": "$ Mathematics 2",
-      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md"
     },
     {
       "basename": "Diophantine Equations",
@@ -27,10 +31,6 @@
     {
       "basename": "Euclidean Algorithm 1",
       "path": "2. University/TU856 Year 1/Modules/Mathematics/Euclidean Algorithm 1.md"
-    },
-    {
-      "basename": "Fermat's Little Theorum",
-      "path": "2. University/TU856 Year 1/Modules/Mathematics/Fermat's Little Theorum.md"
     },
     {
       "basename": "Lowest Common Multiple",
@@ -195,10 +195,6 @@
     {
       "basename": "PostgreSQL - LIKE (filter with specified values)",
       "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - LIKE (filter with specified values).md"
-    },
-    {
-      "basename": "Lab3",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Lab3.md"
     }
   ],
   "omittedPaths": [],

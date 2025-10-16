@@ -1,10 +1,8 @@
 ---
 tags:
-  - Object-Oriented-Programming
-  - Java
+  - Mathematics-2
 aliases:
 ---
-
 ## Instructions
 
 Decrypt the cipher text `WKFT` using the matrix $A=\begin{bmatrix}4&1\\3&2\end{bmatrix}$
@@ -41,11 +39,14 @@ $\begin{bmatrix}42&-21\\-63&84\end{bmatrix}≡\begin{bmatrix}16&5\\15&6\end{bmat
 a b c d e f g h i j k. l. m. n. o. p. q. r. s. t. u. v. w. x. y. z.
 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
 
-`WKFT` = 22 10 5 19 -> $\begin{bmatrix}22&5\\10&19\end{bmatrix}$
+`WKFT` = 22 10 5 19 -> $\begin{bmatrix}22\\10\end{bmatrix}AND\begin{bmatrix}5\\19\end{bmatrix}$
 
 
+$\begin{bmatrix}16&5\\15&6\end{bmatrix}\begin{bmatrix}22\\10\end{bmatrix}=\begin{bmatrix}12\\0\end{bmatrix}\to \begin{bmatrix}M\\A\end{bmatrix}$
 
-$A⋅A^{-1}=1(mod\>n)$
+$\begin{bmatrix}16&5\\15&6\end{bmatrix}\begin{bmatrix}5\\19\end{bmatrix}=\begin{bmatrix}19\\7\end{bmatrix}\to \begin{bmatrix}T\\H\end{bmatrix}$
+
+Decrypted text = MATH
 
 # See Also
-[[$ Object Oriented Programming]]
+[[$ Mathematics 2]]
