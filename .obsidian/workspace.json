@@ -123,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -246,13 +246,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Method Signature - Java.md",
+                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Methods - Java.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Method Signature - Java"
+              "title": "Outline of Methods - Java"
             }
           },
           {
@@ -323,10 +323,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Method Signature - Java.md"
+                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Methods - Java.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Method Signature - Java"
+              "title": "File properties for Methods - Java"
             }
           }
         ]
@@ -355,10 +355,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "62a08f774ae6ff76",
+  "active": "b247fcf2664c4def",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Method Signature - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Method Signature - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Methods - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Basic Class Template - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/What are Classes and Objects - Java.md",
