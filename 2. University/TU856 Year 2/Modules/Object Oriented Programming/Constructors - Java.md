@@ -4,7 +4,7 @@ tags:
   - Java
 aliases:
 ---
-A method that allows you to "construct" and initialize the attributes of a class. 
+A type method that allows you to "construct" and initialize the attributes of a class. 
 ```java showlinenumbers
 class Vehicle {
 	String model;

@@ -8,7 +8,7 @@ aliases:
 ## Example Car Class
 **Anatomy**
 - [[Attributes - Java|Attributes]]
-- [[Constructor - Java|Constructor(s)]]
+- [[Constructors - Java|Constructor(s)]]
 - [[Methods - Java|Method(s)]]
 
 

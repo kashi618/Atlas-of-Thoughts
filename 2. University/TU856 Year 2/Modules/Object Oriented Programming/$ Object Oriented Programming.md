@@ -16,7 +16,7 @@
 
 - [[Methods - Java]]
 	- [[Method Signature - Java]]
-- [[Constructor - Java]]
+- [[Constructors - Java]]
 - [[Method Overloading - Java]]
 
 ### Arrays
