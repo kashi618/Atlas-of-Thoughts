@@ -20,12 +20,12 @@ Solutions only exist if $243x+192y=gcd(243,198)$, which in this case is true
 
 2. Find X and Y using [[Euclidean Algorithm 2]]
 
-Rough work taken from above:
+**Rough work taken from above:**
 $243 - 1(198) = 45$
 $198 - 4(45) = 18$
 $45 - 2(18) = 9$
 
-Extended Euclidean Algorithm
+**Extended Euclidean Algorithm**
 $1(45) - 2(18) = 9$
 $1(45) - 2(198 - 4(45)) = 9$
 $9(45) - 2(198) = 9$

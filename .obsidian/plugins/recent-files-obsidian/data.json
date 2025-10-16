@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Inverse Numbers - Mathematics 2",
+      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Inverse Numbers - Mathematics 2.md"
+    },
+    {
       "basename": "$ Mathematics 2",
       "path": "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md"
+    },
+    {
+      "basename": "Inverse Numbers",
+      "path": "2. University/TU856 Year 1/Modules/Mathematics/Inverse Numbers.md"
+    },
+    {
+      "basename": "Euclidean Algorithm 1",
+      "path": "2. University/TU856 Year 1/Modules/Mathematics/Euclidean Algorithm 1.md"
+    },
+    {
+      "basename": "Fermat's Little Theorum",
+      "path": "2. University/TU856 Year 1/Modules/Mathematics/Fermat's Little Theorum.md"
+    },
+    {
+      "basename": "Lowest Common Multiple",
+      "path": "2. University/TU856 Year 1/Modules/Mathematics/Lowest Common Multiple.md"
+    },
+    {
+      "basename": "Negative Modulus Numbers",
+      "path": "2. University/TU856 Year 1/Modules/Mathematics/Negative Modulus Numbers.md"
+    },
+    {
+      "basename": "Adding and Subtracting Matrices",
+      "path": "2. University/TU856 Year 1/Modules/Mathematics/Adding and Subtracting Matrices.md"
+    },
+    {
+      "basename": "Inverse of Modular Number",
+      "path": "2. University/TU856 Year 1/Modules/Mathematics/Inverse of Modular Number.md"
     },
     {
       "basename": "Diophantine Equations",
@@ -11,10 +43,6 @@
     {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
-    },
-    {
-      "basename": "Euclidean Algorithm 1",
-      "path": "2. University/TU856 Year 1/Modules/Microprocessor Systems/Mathematics/Euclidean Algorithm 1.md"
     },
     {
       "basename": "Constructors - Java",
@@ -171,34 +199,6 @@
     {
       "basename": "obamna",
       "path": "8. Other/obamna.gif"
-    },
-    {
-      "basename": "explosion",
-      "path": "8. Other/explosion.gif"
-    },
-    {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md"
-    },
-    {
-      "basename": "Structures - Passing to Functions - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Structures - Passing to Functions - C.md"
-    },
-    {
-      "basename": "Structures - Structure Arrays - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Structures - Structure Arrays - C.md"
-    },
-    {
-      "basename": "Structures - Anatomy - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Structures - Anatomy - C.md"
-    },
-    {
-      "basename": "Ampersand - C",
-      "path": "2. University/TU856 Year 1/Modules/Programming/Ampersand - C.md"
-    },
-    {
-      "basename": "PostgreSQL - SELECT (accessing data)",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - SELECT (accessing data).md"
     }
   ],
   "omittedPaths": [],

@@ -27,13 +27,13 @@
             }
           },
           {
-            "id": "f1bf1f97498af55c",
+            "id": "20531cabcea791de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -51,13 +51,13 @@
             }
           },
           {
-            "id": "e75b014ed0548dbd",
+            "id": "10dbf69b24b98289",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Mathematics 2/Diophantine Equations.md",
-                "mode": "source",
+                "file": "2. University/TU856 Year 2/Modules/Mathematics 2/Inverse Numbers - Mathematics 2.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -71,11 +71,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Diophantine Equations"
+              "title": "Inverse Numbers - Mathematics 2"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -305,12 +305,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f1bf1f97498af55c",
+  "active": "10dbf69b24b98289",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Modules/Mathematics 2/Diophantine Equations.md",
+    "2. University/TU856 Year 2/Modules/Mathematics 2/Inverse Numbers - Mathematics 2.md",
     "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md",
+    "2. University/TU856 Year 1/Modules/Mathematics/Inverse Numbers.md",
+    "2. University/TU856 Year 1/Modules/Mathematics/Euclidean Algorithm 1.md",
+    "2. University/TU856 Year 1/Modules/Mathematics/Fermat's Little Theorum.md",
+    "2. University/TU856 Year 1/Modules/Mathematics/Lowest Common Multiple.md",
+    "2. University/TU856 Year 1/Modules/Mathematics/Negative Modulus Numbers.md",
+    "2. University/TU856 Year 1/Modules/Mathematics/Adding and Subtracting Matrices.md",
+    "2. University/TU856 Year 1/Modules/Mathematics/Inverse of Modular Number.md",
+    "2. University/TU856 Year 2/Modules/Mathematics 2/Diophantine Equations.md",
     "1. Home Page/Home.canvas",
-    "2. University/TU856 Year 1/Modules/Microprocessor Systems/Mathematics/Euclidean Algorithm 1.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Constructors - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Methods - Java.md",
@@ -327,12 +334,6 @@
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Method Overloading - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Extends - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Arrays of Objects - Java.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/??This - Java.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Method Overloading - Java.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Inheritance - Java.md",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Override - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Pasted image 20251009124000.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251007114405.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251007113640.png",
