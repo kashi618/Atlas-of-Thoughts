@@ -3,6 +3,8 @@ tags:
   - Mathematics-2
 aliases:
 ---
+## Instructions
+
 Encrypt the plain text `SHOE` using the matrix $\begin{bmatrix}4&3\\2&1\end{bmatrix}$
 
 ### Step 1 Break plain text into groups of 2

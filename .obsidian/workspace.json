@@ -58,7 +58,7 @@
               "state": {
                 "file": "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Decrypting.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -81,7 +81,7 @@
               "type": "markdown",
               "state": {
                 "file": "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Encrypting.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -356,9 +356,9 @@
   },
   "active": "9c48a244f3b314b4",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Encrypting.md",
     "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Decrypting.md",
     "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md",
-    "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Encrypting.md",
     "2. University/TU856 Year 2/Modules/Mathematics 2/Diophantine Equations.md",
     "2. University/TU856 Year 2/Modules/Mathematics 2/Fast Exponentiation.md",
     "2. University/TU856 Year 2/Modules/Mathematics 2/Inverse Numbers - Mathematics 2.md",
