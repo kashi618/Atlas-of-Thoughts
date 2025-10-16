@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "$ Mathematics 2",
       "path": "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "Inverse of Modular Number",
       "path": "2. University/TU856 Year 1/Modules/Mathematics/Inverse of Modular Number.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Constructors - Java",
