@@ -2,8 +2,6 @@
 [[Module Information]]
 [[Programming Paradigms]]
 [[Pascal Case]]
-[[Primitive Data Types]] ! WRITE MORE
-
 ## Java
 [[Java]]
 
@@ -13,13 +11,13 @@
 [[What are Classes and Objects - Java]]
 - [[Basic Class Template - Java]]
 - [[Attributes - Java]]
-	- [[Primitive Data Types - Java]]
+	- [[Data Types - Java]]
 
 - [[Methods - Java]]
 	- [[Method Signature - Java]]
 - [[Constructors - Java]]
 - [[Method Overloading - Java]]
-
+- [[Instantiating Objects - Java]]
 ### Arrays
 [[??Arrays of Objects - Java]]
 

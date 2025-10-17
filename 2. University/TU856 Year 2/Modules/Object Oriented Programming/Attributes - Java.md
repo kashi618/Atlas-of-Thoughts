@@ -12,6 +12,7 @@ Attributes are variables that are declared inside of a class
 accessModifier dataType variableName;
 ```
 
+**Example**
 ```java showlinenumbers
 public class Student{
 	// ----- Attributes ----- //
@@ -20,6 +21,8 @@ public class Student{
 	private String PPSN;
 }
 ```
+
+- `String` in java is a class, therefore it starts with a capital. View [[Data Types - Java]] for more information
 
 # See Also
 [[$ Object Oriented Programming]]
