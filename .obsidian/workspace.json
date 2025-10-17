@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -380,
                   "y": -260,
-                  "zoom": -0.2170707810682534
+                  "zoom": -1.068790773665921
                 }
               },
               "pinned": true,
@@ -27,31 +27,7 @@
             }
           },
           {
-            "id": "f9418fd443032454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ Object Oriented Programming"
-            }
-          },
-          {
-            "id": "e1079cad6bef97eb",
+            "id": "a5a84772c7c4b264",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -305,10 +281,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f9418fd443032454",
+  "active": "a5a84772c7c4b264",
   "lastOpenFiles": [
-    "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/What are Classes and Objects - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Packages - Java.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Java.md",
+    "3. General/Misc/Tattoos.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Method Signature - Java.md",
+    "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Methods - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Abstraction - Java.md",
     "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md",
     "2. University/TU856 Year 2/Modules/Mathematics 2/Diophantine Equations.md",
@@ -325,13 +307,8 @@
     "2. University/TU856 Year 1/Modules/Mathematics/Adding and Subtracting Matrices.md",
     "2. University/TU856 Year 1/Modules/Mathematics/Inverse of Modular Number.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Constructors - Java.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Methods - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Basic Class Template - Java.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Method Signature - Java.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/What are Classes and Objects - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Classes - Java.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Packages - Java.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Polymorphism - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Pasted image 20251009124000.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251007114405.png",
