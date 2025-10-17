@@ -7,7 +7,9 @@ aliases:
 Encapsulation is a core concept in Java and OOP. It essentially allows you to bundle variables and methods inside of one single unit, called a class. 
 What does this do?
 - Data hiding. Disables outside access to attributes in a class
-- Gatekeeping.
+- Gatekeeping. Allows you to 
+
+
 "Encapsulation is a way to bundle coding pieces together, allowing for greater security and simplifying data hiding"
 
 This can be applied to classes, methods, and attributes.
