@@ -11,6 +11,8 @@ Attributes are variables that are declared inside of a class
 ```java showlinenumbers
 accessModifier dataType variableName;
 ```
+- [[??Encapsulation - Java|More on access modifiers here]]
+- [[Data Types - Java|More on datatypes here]]
 
 **Example**
 ```java showlinenumbers

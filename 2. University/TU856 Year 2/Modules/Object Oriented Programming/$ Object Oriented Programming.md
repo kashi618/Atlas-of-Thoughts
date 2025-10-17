@@ -16,8 +16,10 @@
 - [[Methods - Java]]
 	- [[Method Signature - Java]]
 - [[Constructors - Java]]
+	- [[this - Java]]
 - [[Method Overloading - Java]]
 - [[Instantiating Objects - Java]]
+	- [[new - Java]]
 ### Arrays
 [[??Arrays of Objects - Java]]
 

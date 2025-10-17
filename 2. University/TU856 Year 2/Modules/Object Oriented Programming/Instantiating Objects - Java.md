@@ -28,16 +28,19 @@ public class Student {
 ```
 
 **Instantiating Student object**
-```java showlinenumbers
+```java showlinenumbers {3-4,6-7}
 public class Control {
 	public static void(String[] args) {
 		// Instantiating a new object of class Student called student1
 		Student student1 = new Student();
 		
 		// Another Student object, but with parameters
-		Student student2 = new Student(ABC123, "John Doe", 34);
+		Student student2 = new Student(ABC123, "John Doe", 23);
 	}
 }
 ```
+- [[new - Java]]
+
+
 # See Also
 [[$ Object Oriented Programming]]
