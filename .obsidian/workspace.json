@@ -33,8 +33,8 @@
               "type": "markdown",
               "state": {
                 "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
-                "mode": "preview",
-                "source": true,
+                "mode": "source",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -49,9 +49,57 @@
               "icon": "lucide-file",
               "title": "$ Object Oriented Programming"
             }
+          },
+          {
+            "id": "590eb52767079eb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Attributes - Java.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Attributes - Java"
+            }
+          },
+          {
+            "id": "c975d72c91f307a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Primitive Data Types - Java.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Primitive Data Types - Java"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 346.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -281,8 +330,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f6365b2ef9f1c32f",
+  "active": "590eb52767079eb1",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Primitive Data Types - Java.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Attributes - Java.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Basic Class Template - Java.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Methods - Java.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Method Overloading - Java.md",
+    "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Constructors - Java.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Method Signature - Java.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/What are Classes and Objects - Java.md",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 1/W1OOP_Overview.pdf",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 1/W1 programming Paradigmn S2 2025.pdf",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 1/Characteristics and Fundamentals of Java.pdf",
@@ -293,15 +352,9 @@
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 3/W3_2_Strings.pdf",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 3/W3_1_Encapsulation lecturer.pdf",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 2/W2_2 Methods.pdf",
-    "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 2/3.Going deeper with Objects Week2.pdf",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/What are Classes and Objects - Java.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Packages - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Java.md",
     "3. General/Misc/Tattoos.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Method Signature - Java.md",
-    "1. Home Page/Home.canvas",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Methods - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Abstraction - Java.md",
     "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md",
     "2. University/TU856 Year 2/Modules/Mathematics 2/Diophantine Equations.md",
@@ -316,10 +369,6 @@
     "2. University/TU856 Year 1/Modules/Mathematics/Lowest Common Multiple.md",
     "2. University/TU856 Year 1/Modules/Mathematics/Negative Modulus Numbers.md",
     "2. University/TU856 Year 1/Modules/Mathematics/Adding and Subtracting Matrices.md",
-    "2. University/TU856 Year 1/Modules/Mathematics/Inverse of Modular Number.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Constructors - Java.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Basic Class Template - Java.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Classes - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Pasted image 20251009124000.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251007114405.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251007113640.png",

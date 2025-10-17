@@ -4,7 +4,7 @@ tags:
   - Java
 aliases:
 ---
-A type method that allows you to "construct" and initialize the attributes of a class. 
+A type of method that allows you to "construct" and initialize the attributes of a class. 
 ```java showlinenumbers
 class Vehicle {
 	String model;
@@ -12,7 +12,7 @@ class Vehicle {
 	int horsePower;
 	
 	// --- Constructor --- //
-	public void Vehicle(String model, String engineType, int horsePower) {
+	public Vehicle(String model, String engineType, int horsePower) {
 		this.model      = model;
 		this.engineType = engineType;
 		this.horsePower = horsepower;
@@ -22,6 +22,7 @@ class Vehicle {
 ```
 
 **Note:** java allows multiple methods/constructors with the same name. Please see [[Method Overloading - Java]].
+**Note2:** constructors do NOT need any return types. Not even a `void`.
 
 # See Also
 [[$ Object Oriented Programming]]

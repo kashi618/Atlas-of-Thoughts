@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Attributes - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Attributes - Java.md"
+    },
+    {
       "basename": "$ Object Oriented Programming",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md"
+    },
+    {
+      "basename": "Primitive Data Types - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Primitive Data Types - Java.md"
+    },
+    {
+      "basename": "Basic Class Template - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Basic Class Template - Java.md"
+    },
+    {
+      "basename": "Methods - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Methods - Java.md"
+    },
+    {
+      "basename": "Method Overloading - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Method Overloading - Java.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Constructors - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Constructors - Java.md"
+    },
+    {
+      "basename": "Method Signature - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Method Signature - Java.md"
     },
     {
       "basename": "What are Classes and Objects - Java",
@@ -19,18 +51,6 @@
     {
       "basename": "Tattoos",
       "path": "3. General/Misc/Tattoos.md"
-    },
-    {
-      "basename": "Method Signature - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Method Signature - Java.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
-    },
-    {
-      "basename": "Methods - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Methods - Java.md"
     },
     {
       "basename": "??Abstraction - Java",
@@ -85,14 +105,6 @@
       "path": "2. University/TU856 Year 1/Modules/Mathematics/Inverse of Modular Number.md"
     },
     {
-      "basename": "Constructors - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Constructors - Java.md"
-    },
-    {
-      "basename": "Basic Class Template - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Basic Class Template - Java.md"
-    },
-    {
       "basename": "??Polymorphism - Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Polymorphism - Java.md"
     },
@@ -103,10 +115,6 @@
     {
       "basename": "??Encapsulation - Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Encapsulation - Java.md"
-    },
-    {
-      "basename": "Method Overloading - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Method Overloading - Java.md"
     },
     {
       "basename": "??Extends - Java",
@@ -165,10 +173,6 @@
       "path": "2. University/TU856 Year 1/Modules/Operating Systems 1/!! Monolithic Systems.md"
     },
     {
-      "basename": "Attributes - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Attributes - Java.md"
-    },
-    {
       "basename": "OS2 Potential Exam Questions",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/OS2 Potential Exam Questions.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "$ Databases 1",
       "path": "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md"
-    },
-    {
-      "basename": "PostgreSQL - LIKE (filter with specified values)",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - LIKE (filter with specified values).md"
     }
   ],
   "omittedPaths": [],

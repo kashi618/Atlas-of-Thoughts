@@ -13,6 +13,7 @@
 [[What are Classes and Objects - Java]]
 - [[Basic Class Template - Java]]
 - [[Attributes - Java]]
+	- [[Primitive Data Types - Java]]
 
 - [[Methods - Java]]
 	- [[Method Signature - Java]]
