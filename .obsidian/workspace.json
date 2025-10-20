@@ -16,42 +16,17 @@
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": -427.4312873127361,
-                  "y": -150.41529861149513,
-                  "zoom": -0.7905714304665955
+                  "x": -380,
+                  "y": -260,
+                  "zoom": -0.2170707810682534
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "d3c632a5c5ca28a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "TV Shows & Movies & Anime & Manga"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -281,10 +256,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d3c632a5c5ca28a0",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "1. Home Page/Home.canvas",
     "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
+    "3. General/Lists/GameDev ToDo List.md",
+    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Encapsulation - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Attributes - Java.md",

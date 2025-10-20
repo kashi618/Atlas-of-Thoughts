@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "TV Shows & Movies & Anime & Manga",
       "path": "3. General/Lists/TV Shows & Movies & Anime & Manga.md"
     },
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
+      "basename": "GameDev ToDo List",
+      "path": "3. General/Lists/GameDev ToDo List.md"
     },
     {
       "basename": "PostgreSQL - Creating Tables - IMDb Example",
@@ -195,10 +199,6 @@
     {
       "basename": "OS2 Potential Exam Questions",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/OS2 Potential Exam Questions.md"
-    },
-    {
-      "basename": "Linked Lists - Creating Nodes (C)",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Creating Nodes (C).md"
     }
   ],
   "omittedPaths": [],
