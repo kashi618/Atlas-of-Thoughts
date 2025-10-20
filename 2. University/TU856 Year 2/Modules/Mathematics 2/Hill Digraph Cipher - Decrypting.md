@@ -48,5 +48,7 @@ $\begin{bmatrix}16&5\\15&6\end{bmatrix}\begin{bmatrix}5\\19\end{bmatrix}=\begin{
 
 Decrypted text = MATH
 
+## Notes
+- You can use 2x2 OR 2x1 matrices to decode. Its only that the rows has to be the same.
 # See Also
 [[$ Mathematics 2]]

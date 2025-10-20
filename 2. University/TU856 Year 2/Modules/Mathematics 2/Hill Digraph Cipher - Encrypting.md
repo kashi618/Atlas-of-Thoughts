@@ -31,5 +31,12 @@ $\begin{bmatrix}111&82\\43&32\end{bmatrix}\to\begin{bmatrix}7&4\\17&6\end{bmatri
 ### Step 4 Convert back into leters
 
 $\begin{bmatrix}7&4\\17&6\end{bmatrix}\to \begin{bmatrix}H&E\\R&G\end{bmatrix}\to HREG$
+
+
+## Notes
+- You can encode using 2x1 matrices OR 4x4 matrices. They do not matter. You only need to make sure the rows are the same.
+- If the amount of characters to encode is odd, then you will need to include an `x` as the last letter.
+
+
 # See Also
 [[$ Mathematics 2]]

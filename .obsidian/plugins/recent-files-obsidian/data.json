@@ -1,32 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "$ Object Oriented Programming",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md"
+      "basename": "JDK JRE JVM - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/JDK JRE JVM - Java.md"
     },
     {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
     {
-      "basename": "??Abstraction - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Abstraction - Java.md"
+      "basename": "$ Java - Programming Language",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Java - Programming Language.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Java.md"
+    },
+    {
+      "basename": "Getters and Setters - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Getters and Setters - Java.md"
     },
     {
       "basename": "$ Mathematics 2",
       "path": "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md"
     },
     {
-      "basename": "Diophantine Equations",
-      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Diophantine Equations.md"
+      "basename": "Access Modifiers - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Access Modifiers - Java.md"
     },
     {
       "basename": "Hill Digraph Cipher - Encrypting",
       "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Encrypting.md"
-    },
-    {
-      "basename": "Fermat's Little Theorum",
-      "path": "2. University/TU856 Year 1/Modules/Mathematics/Fermat's Little Theorum.md"
     },
     {
       "basename": "Hill Digraph Cipher - Decrypting",
@@ -35,6 +43,26 @@
     {
       "basename": "Fast Exponentiation",
       "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Fast Exponentiation.md"
+    },
+    {
+      "basename": "Encapsulation - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Encapsulation - Java.md"
+    },
+    {
+      "basename": "??Encapsulation - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Encapsulation - Java.md"
+    },
+    {
+      "basename": "??Abstraction - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Abstraction - Java.md"
+    },
+    {
+      "basename": "Diophantine Equations",
+      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Diophantine Equations.md"
+    },
+    {
+      "basename": "Fermat's Little Theorum",
+      "path": "2. University/TU856 Year 1/Modules/Mathematics/Fermat's Little Theorum.md"
     },
     {
       "basename": "Inverse Numbers",
@@ -85,20 +113,12 @@
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Packages - Java.md"
     },
     {
-      "basename": "Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Java.md"
-    },
-    {
       "basename": "??Polymorphism - Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Polymorphism - Java.md"
     },
     {
       "basename": "??Casting Objects - Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Casting Objects - Java.md"
-    },
-    {
-      "basename": "??Encapsulation - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Encapsulation - Java.md"
     },
     {
       "basename": "Method Overloading - Java",
@@ -179,22 +199,6 @@
     {
       "basename": "Linked Lists - Nodes",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Nodes.md"
-    },
-    {
-      "basename": "Linked Lists",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md"
-    },
-    {
-      "basename": "Fetch Execute Cycle",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Fetch Execute Cycle.md"
-    },
-    {
-      "basename": "$ Databases 1",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md"
-    },
-    {
-      "basename": "PostgreSQL - LIKE (filter with specified values)",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - LIKE (filter with specified values).md"
     }
   ],
   "omittedPaths": [],

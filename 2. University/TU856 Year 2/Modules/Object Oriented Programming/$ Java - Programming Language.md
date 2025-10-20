@@ -6,8 +6,8 @@
 
 ## Java
 [[Java]]
-
 [[Packages - Java]]
+[[JDK JRE JVM - Java]]
 
 ### Classes and Objects
 [[What are Classes and Objects - Java]]
@@ -25,11 +25,18 @@
 
 
 ### Encapsulation
-[[??This - Java]]
+[[Encapsulation - Java]]
+[[Access Modifiers - Java]]
+[[Getters and Setters - Java2]]
+
+
 [[??Encapsulation - Java]]
+
+[[??This - Java]]
 
 
 ### Inheritance
+
 
 ### Polymorphism
 
@@ -51,13 +58,13 @@
 `new` puts object in heap memory, meaning the scope exists outside of the class
 String are immutable, reassigning makes a new object
 
-- [ ] Constructor
+- [x] Constructor
 - [x] Encapsulation
-- [ ] Polymorphism
-- [ ] Inheritance
+- [x] Polymorphism
+- [x] Inheritance
 - [ ] Abstraction
 - [x] Classes
 - [x] Objectsxzz
 
 # See Also
-[[$ Object Oriented Programming]]
+[[$ Java - Programming Language]]

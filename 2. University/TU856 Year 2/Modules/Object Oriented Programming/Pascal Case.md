@@ -17,4 +17,4 @@ public class OhMyGod{
 ```
 
 # See Also
-[[$ Object Oriented Programming]]
+[[$ Java - Programming Language]]

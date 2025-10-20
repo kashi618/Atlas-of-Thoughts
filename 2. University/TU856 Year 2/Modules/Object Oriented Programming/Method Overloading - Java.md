@@ -46,4 +46,4 @@ public class maths {
 ```
 
 # See Also
-[[$ Object Oriented Programming]]
+[[$ Java - Programming Language]]

@@ -36,5 +36,5 @@ public class student extends person {
 ```
 
 # See Also
-[[$ Object Oriented Programming]]
+[[$ Java - Programming Language]]
 [[??Extends - Java]]

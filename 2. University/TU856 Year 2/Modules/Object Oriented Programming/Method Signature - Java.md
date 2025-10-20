@@ -22,5 +22,5 @@ startCat(String model)
 ```
 
 # See Also
-[[$ Object Oriented Programming]]
+[[$ Java - Programming Language]]
 [[Methods - Java]]

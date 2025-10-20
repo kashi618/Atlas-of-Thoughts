@@ -5,8 +5,6 @@ tags:
 aliases:
 ---
 
-"Encapsulation is a way to bundle coding pieces together,  
-allowing for greater security and simplifying data hiding"
 
 This can be applied to classes, methods, and attributes.
 
@@ -53,4 +51,4 @@ private addFunds(int amount);
 
 
 # See Also
-[[$ Object Oriented Programming]]
+[[$ Java - Programming Language]]
