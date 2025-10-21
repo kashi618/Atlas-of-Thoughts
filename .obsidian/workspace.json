@@ -16,9 +16,9 @@
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": -380,
-                  "y": -260,
-                  "zoom": -0.2170707810682534
+                  "x": -416.1582795649284,
+                  "y": -169.10345596931333,
+                  "zoom": -0.4697786983131522
                 }
               },
               "pinned": true,
@@ -131,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 346.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -258,9 +259,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "1. Home Page/Home.canvas",
     "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
     "3. General/Lists/GameDev ToDo List.md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Encapsulation - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Attributes - Java.md",
@@ -294,7 +295,6 @@
     "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Encrypting.md",
     "2. University/TU856 Year 1/Modules/Mathematics/Fermat's Little Theorum.md",
     "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher.md",
-    "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Decrypting.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Pasted image 20251009124000.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251007114405.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251007113640.png",
