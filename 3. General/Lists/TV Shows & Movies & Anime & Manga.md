@@ -98,6 +98,7 @@ The Imitation Game
 | 流浪地球 (Wandering Earth)                                     | Amazing         |                          |
 | 鉄男 (Tetsuo: The Iron Man)                                  | Good            |                          |
 | Pirates of the Caribbean: Tales of the Code: Wedlocked     | Meh             |                          |
+| Scream (1995)                                              | Amazing         |                          |
 
 ---
 
