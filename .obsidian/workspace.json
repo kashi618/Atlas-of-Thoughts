@@ -10,18 +10,16 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": -380,
-                  "y": -260,
-                  "zoom": -0.19676379774789465
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
@@ -131,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -259,8 +256,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "1. Home Page/Home.canvas",
+    "conflict-files-obsidian-git.md",
     "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md",
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Creating Functions.md",
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Other Useful Functions.md",
