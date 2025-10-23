@@ -78958,6 +78958,36 @@
     "version": "0.7.0",
     "codepoints": [
       {
+        "firstUsed": "2025-10-23T11:10:24.465Z",
+        "lastUsed": "2025-10-23T11:10:24.465Z",
+        "useCount": 1,
+        "codepoint": "⁹"
+      },
+      {
+        "firstUsed": "2025-10-23T11:10:16.036Z",
+        "lastUsed": "2025-10-23T11:10:16.036Z",
+        "useCount": 1,
+        "codepoint": "⁷"
+      },
+      {
+        "firstUsed": "2025-10-23T11:09:54.044Z",
+        "lastUsed": "2025-10-23T11:09:54.044Z",
+        "useCount": 1,
+        "codepoint": "²"
+      },
+      {
+        "firstUsed": "2025-10-23T11:08:35.210Z",
+        "lastUsed": "2025-10-23T11:08:37.918Z",
+        "useCount": 2,
+        "codepoint": "⁴"
+      },
+      {
+        "firstUsed": "2025-10-23T11:08:28.365Z",
+        "lastUsed": "2025-10-23T11:08:28.365Z",
+        "useCount": 1,
+        "codepoint": "⁶"
+      },
+      {
         "firstUsed": "2025-10-23T11:06:26.961Z",
         "lastUsed": "2025-10-23T11:06:26.961Z",
         "useCount": 1,
@@ -78965,8 +78995,8 @@
       },
       {
         "firstUsed": "2025-10-23T11:06:22.141Z",
-        "lastUsed": "2025-10-23T11:06:22.141Z",
-        "useCount": 1,
+        "lastUsed": "2025-10-23T11:09:43.842Z",
+        "useCount": 2,
         "codepoint": "¹"
       },
       {
@@ -78989,8 +79019,8 @@
       },
       {
         "firstUsed": "2025-10-16T18:57:59.685Z",
-        "lastUsed": "2025-10-20T11:14:39.611Z",
-        "useCount": 5,
+        "lastUsed": "2025-10-23T11:34:37.005Z",
+        "useCount": 18,
         "codepoint": "≡"
       },
       {

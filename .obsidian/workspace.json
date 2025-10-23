@@ -27,14 +27,38 @@
             }
           },
           {
-            "id": "20a9d3c978b99fae",
+            "id": "e99fa2e1a73268f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Mathematics 2/Chinese Remainder Theorem.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Chinese Remainder Theorem"
+            }
+          },
+          {
+            "id": "380167f9928919bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2. University/TU856 Year 2/Modules/Mathematics 2/Fast Exponentiation.md",
-                "mode": "source",
-                "source": true,
+                "mode": "preview",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -48,30 +72,6 @@
               },
               "icon": "lucide-file",
               "title": "Fast Exponentiation"
-            }
-          },
-          {
-            "id": "e99fa2e1a73268f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Modules/Mathematics 2/Diophantine Equations.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Diophantine Equations"
             }
           }
         ],
@@ -305,14 +305,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "20a9d3c978b99fae",
+  "active": "e99fa2e1a73268f0",
   "lastOpenFiles": [
     "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md",
-    "2. University/TU856 Year 2/Modules/Mathematics 2/Fast Exponentiation.md",
-    "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Decrypting.md",
     "2. University/TU856 Year 2/Modules/Mathematics 2/Diophantine Equations.md",
+    "2. University/TU856 Year 2/Modules/Mathematics 2/Fast Exponentiation.md",
+    "2. University/TU856 Year 2/Modules/Mathematics 2/Modular Exponentiation.md",
     "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Encrypting.md",
+    "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Decrypting.md",
     "2. University/TU856 Year 1/Modules/Mathematics/Fermat's Little Theorum.md",
     "3. General/Lists/Vinyl Wishlist.md",
     "conflict-files-obsidian-git.md",
@@ -320,7 +321,6 @@
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Creating Functions.md",
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Other Useful Functions.md",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251021114121.png",
-    "2. University/TU856 Year 2/Modules/Mathematics 2/Modular Exponentiation.md",
     "2. University/TU856 Year 2/Modules/Mathematics 2/Chinese Remainder Theorem.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Encapsulation - Java.md",
     "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md",
@@ -344,7 +344,6 @@
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Getters and Setters - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Access Modifiers - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Encapsulation - Java.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Abstraction - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Pasted image 20251009124000.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251007114405.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251007113640.png",

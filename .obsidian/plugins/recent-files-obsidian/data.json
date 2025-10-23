@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Fast Exponentiation",
-      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Fast Exponentiation.md"
+      "basename": "Chinese Remainder Theorem",
+      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Chinese Remainder Theorem.md"
     },
     {
       "basename": "$ Mathematics 2",
       "path": "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md"
     },
     {
-      "basename": "Hill Digraph Cipher - Decrypting",
-      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Decrypting.md"
-    },
-    {
       "basename": "Diophantine Equations",
       "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Diophantine Equations.md"
+    },
+    {
+      "basename": "Fast Exponentiation",
+      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Fast Exponentiation.md"
+    },
+    {
+      "basename": "Modular Exponentiation",
+      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Modular Exponentiation.md"
     },
     {
       "basename": "Home",
@@ -23,6 +27,10 @@
     {
       "basename": "Hill Digraph Cipher - Encrypting",
       "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Encrypting.md"
+    },
+    {
+      "basename": "Hill Digraph Cipher - Decrypting",
+      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Decrypting.md"
     },
     {
       "basename": "Fermat's Little Theorum",
@@ -43,14 +51,6 @@
     {
       "basename": "PostgreSQL - Other Useful Functions",
       "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Other Useful Functions.md"
-    },
-    {
-      "basename": "Modular Exponentiation",
-      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Modular Exponentiation.md"
-    },
-    {
-      "basename": "Chinese Remainder Theorem",
-      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Chinese Remainder Theorem.md"
     },
     {
       "basename": "??Encapsulation - Java",
