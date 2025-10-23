@@ -78958,6 +78958,18 @@
     "version": "0.7.0",
     "codepoints": [
       {
+        "firstUsed": "2025-10-23T11:06:26.961Z",
+        "lastUsed": "2025-10-23T11:06:26.961Z",
+        "useCount": 1,
+        "codepoint": "⁰"
+      },
+      {
+        "firstUsed": "2025-10-23T11:06:22.141Z",
+        "lastUsed": "2025-10-23T11:06:22.141Z",
+        "useCount": 1,
+        "codepoint": "¹"
+      },
+      {
         "firstUsed": "2025-10-16T22:57:38.913Z",
         "lastUsed": "2025-10-16T22:57:38.913Z",
         "useCount": 1,
