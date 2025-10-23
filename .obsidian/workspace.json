@@ -10,48 +10,21 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": -380,
-                  "y": -260,
-                  "zoom": -0.2170707810682534
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "1d13fc71dcf3c45f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. General/Lists/Vinyl Wishlist.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Vinyl Wishlist"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -281,10 +254,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1d13fc71dcf3c45f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "1. Home Page/Home.canvas",
     "3. General/Lists/Vinyl Wishlist.md",
+    "1. Home Page/Home.canvas",
     "conflict-files-obsidian-git.md",
     "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md",
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Creating Functions.md",
