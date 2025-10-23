@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Vinyl Wishlist",
-      "path": "3. General/Lists/Vinyl Wishlist.md"
-    },
-    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Fermat's Little Theorum",
+      "path": "2. University/TU856 Year 1/Modules/Mathematics/Fermat's Little Theorum.md"
+    },
+    {
+      "basename": "$ Mathematics 2",
+      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md"
+    },
+    {
+      "basename": "Vinyl Wishlist",
+      "path": "3. General/Lists/Vinyl Wishlist.md"
     },
     {
       "basename": "$ Databases 1",
@@ -27,14 +35,6 @@
     {
       "basename": "Modular Exponentiation",
       "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Modular Exponentiation.md"
-    },
-    {
-      "basename": "$ Mathematics 2",
-      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md"
-    },
-    {
-      "basename": "Fermat's Little Theorum",
-      "path": "2. University/TU856 Year 1/Modules/Mathematics/Fermat's Little Theorum.md"
     },
     {
       "basename": "Chinese Remainder Theorem",

@@ -10,16 +10,18 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -380,
+                  "y": -260,
+                  "zoom": -0.2170707810682534
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
@@ -256,8 +258,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "3. General/Lists/Vinyl Wishlist.md",
+    "2. University/TU856 Year 1/Modules/Mathematics/Fermat's Little Theorum.md",
+    "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md",
     "1. Home Page/Home.canvas",
+    "3. General/Lists/Vinyl Wishlist.md",
     "conflict-files-obsidian-git.md",
     "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md",
     "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Creating Functions.md",
@@ -265,8 +269,6 @@
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251021114121.png",
     "2. University/TU856 Year 2/Modules/Mathematics 2/Fast Exponentiation.md",
     "2. University/TU856 Year 2/Modules/Mathematics 2/Modular Exponentiation.md",
-    "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md",
-    "2. University/TU856 Year 1/Modules/Mathematics/Fermat's Little Theorum.md",
     "2. University/TU856 Year 2/Modules/Mathematics 2/Chinese Remainder Theorem.md",
     "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Encrypting.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Encapsulation - Java.md",
