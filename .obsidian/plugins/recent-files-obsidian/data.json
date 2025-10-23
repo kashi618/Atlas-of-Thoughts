@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Chinese Remainder Theorem",
-      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Chinese Remainder Theorem.md"
-    },
-    {
       "basename": "$ Mathematics 2",
       "path": "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Chinese Remainder Theorem",
+      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Chinese Remainder Theorem.md"
     },
     {
       "basename": "Diophantine Equations",
@@ -19,10 +23,6 @@
     {
       "basename": "Modular Exponentiation",
       "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Modular Exponentiation.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Hill Digraph Cipher - Encrypting",
