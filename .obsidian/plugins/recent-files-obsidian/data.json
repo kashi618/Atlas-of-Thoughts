@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Hill Digraph Cipher - Decrypting",
+      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Decrypting.md"
+    },
+    {
       "basename": "$ Mathematics 2",
       "path": "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md"
     },
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
+      "basename": "Modular Exponentiation",
+      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Modular Exponentiation.md"
+    },
+    {
+      "basename": "Fast Exponentiation",
+      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Fast Exponentiation.md"
+    },
+    {
+      "basename": "Incongruent Solutions",
+      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Incongruent Solutions.md"
+    },
+    {
+      "basename": "Hill Digraph Cipher - Encrypting",
+      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Encrypting.md"
     },
     {
       "basename": "Chinese Remainder Theorem",
@@ -15,22 +35,6 @@
     {
       "basename": "Diophantine Equations",
       "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Diophantine Equations.md"
-    },
-    {
-      "basename": "Fast Exponentiation",
-      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Fast Exponentiation.md"
-    },
-    {
-      "basename": "Modular Exponentiation",
-      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Modular Exponentiation.md"
-    },
-    {
-      "basename": "Hill Digraph Cipher - Encrypting",
-      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Encrypting.md"
-    },
-    {
-      "basename": "Hill Digraph Cipher - Decrypting",
-      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Decrypting.md"
     },
     {
       "basename": "Fermat's Little Theorum",
@@ -195,10 +199,6 @@
     {
       "basename": "Traffic Lights",
       "path": "2. University/TU856 Year 1/Modules/Microprocessor Systems/Traffic Lights.md"
-    },
-    {
-      "basename": "Turn On Output Port",
-      "path": "2. University/TU856 Year 1/Modules/Microprocessor Systems/Turn On Output Port.md"
     }
   ],
   "omittedPaths": [],
