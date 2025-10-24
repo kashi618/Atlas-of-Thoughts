@@ -12,14 +12,17 @@
 - [[Basic Class Template - Java]]
 - [[Attributes - Java]]
 	- [[Data Types - Java]]
+	- [[]]
 
 - [[Methods - Java]]
 	- [[Method Signature - Java]]
+	- [[Method Overloading - Java]]
 - [[Constructors - Java]]
 	- [[this - Java]]
-- [[Method Overloading - Java]]
+
 - [[Instantiating Objects - Java]]
 	- [[new - Java]]
+
 ### Arrays
 [[??Arrays of Objects - Java]]
 
@@ -56,8 +59,15 @@
 ### Abstraction
 [[??Abstraction - Java]]
 
+
+### JavaDoc
+[[JavaDock]]
+
+
 `new` puts object in heap memory, meaning the scope exists outside of the class
 String are immutable, reassigning makes a new object
+
+
 
 - [x] Constructor
 - [x] Encapsulation

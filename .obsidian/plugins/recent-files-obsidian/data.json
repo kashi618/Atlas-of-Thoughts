@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "$ Java - Programming Language",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Java - Programming Language.md"
+    },
+    {
+      "basename": "JavaDock",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/JavaDock.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "JDK JRE JVM - Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/JDK JRE JVM - Java.md"
-    },
-    {
-      "basename": "$ Java - Programming Language",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Java - Programming Language.md"
     },
     {
       "basename": "Java",
@@ -195,10 +199,6 @@
     {
       "basename": "Structured and Unstructured Data",
       "path": "2. University/TU856 Year 1/Modules/Data Exploration/Structured and Unstructured Data.md"
-    },
-    {
-      "basename": "Excel Errors",
-      "path": "2. University/TU856 Year 1/Modules/Data Exploration/Excel Errors.md"
     }
   ],
   "omittedPaths": [],
