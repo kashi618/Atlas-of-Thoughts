@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Philosophy to Learn",
+      "path": "3. General/Lists/Philosophy to Learn.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Library",
+      "path": "3. General/Misc/Library.md"
     },
     {
       "basename": "Hill Digraph Cipher - Decrypting",
@@ -191,14 +199,6 @@
     {
       "basename": "Excel Errors",
       "path": "2. University/TU856 Year 1/Modules/Data Exploration/Excel Errors.md"
-    },
-    {
-      "basename": "Selection Sort",
-      "path": "2. University/TU856 Year 1/Modules/Algorithm Design and Problem Solving/Selection Sort.md"
-    },
-    {
-      "basename": "Traffic Lights",
-      "path": "2. University/TU856 Year 1/Modules/Microprocessor Systems/Traffic Lights.md"
     }
   ],
   "omittedPaths": [],
