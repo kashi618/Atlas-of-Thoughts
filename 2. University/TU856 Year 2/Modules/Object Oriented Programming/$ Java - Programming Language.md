@@ -33,7 +33,7 @@
 ### Encapsulation
 [[Encapsulation - Java]]
 [[Access Modifiers - Java]]
-[[Getters and Setters - Java2]]
+[[Getters & Setters And Gatekeeping - Java]]
 
 
 [[??Encapsulation - Java]]

@@ -5,12 +5,16 @@
       "path": "1. Home Page/Home.canvas"
     },
     {
-      "basename": "Factory Methods - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Factory Methods - Java.md"
+      "basename": "Getters & Setters And Gatekeeping - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Getters & Setters And Gatekeeping - Java.md"
     },
     {
       "basename": "$ Java - Programming Language",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Java - Programming Language.md"
+    },
+    {
+      "basename": "Factory Methods - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Factory Methods - Java.md"
     },
     {
       "basename": "Static - Java",
@@ -195,10 +199,6 @@
     {
       "basename": "Stacks",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks.md"
-    },
-    {
-      "basename": "??Override - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Override - Java.md"
     }
   ],
   "omittedPaths": [],
