@@ -10,48 +10,21 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": -380,
-                  "y": -260,
-                  "zoom": -0.2170707810682534
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "98e7c3b15a771349",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Java - Programming Language.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ Java - Programming Language"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -173,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Java - Programming Language.md",
+                "file": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Factory Methods - Java.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of $ Java - Programming Language"
+              "title": "Outline of Factory Methods - Java"
             }
           },
           {
@@ -260,7 +232,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 519.5
+    "width": 519.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,10 +254,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "98e7c3b15a771349",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/JavaDock.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Factory Methods - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Java - Programming Language.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Static - Java.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/JavaDock.md",
     "1. Home Page/Home.canvas",
     "3. General/Lists/Philosophy to Learn.md",
     "3. General/Misc/Library.md",
@@ -309,7 +284,6 @@
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/this - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/new - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Instantiating Objects - Java.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Data Types - Java.md",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 4/W4 inheritance.pdf",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 4/W4 Tutorial.pdf",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 4/W4 Scanner and references.pdf",
@@ -320,7 +294,6 @@
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 2/3.Going deeper with Objects Week2.pdf",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 2/2. Lecture Getting Started with Objects Week2_1.pdf",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 1/W1OOP_Overview.pdf",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Pasted image 20251009124000.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251007114405.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251007113640.png",

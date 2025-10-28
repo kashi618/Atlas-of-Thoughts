@@ -7,16 +7,18 @@
 [[Packages - Java]]
 [[JDK JRE JVM - Java]]
 
-### Classes and Objects
+### Classes and Objects (and attributes & methods!)
 [[What are Classes and Objects - Java]]
 - [[Basic Class Template - Java]]
 - [[Attributes - Java]]
 	- [[Data Types - Java]]
-	- [[]]
+	- [[Static - Java]]
 
 - [[Methods - Java]]
 	- [[Method Signature - Java]]
 	- [[Method Overloading - Java]]
+	- [[Factory Methods - Java]]
+
 - [[Constructors - Java]]
 	- [[this - Java]]
 

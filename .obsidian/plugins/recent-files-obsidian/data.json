@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Factory Methods - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Factory Methods - Java.md"
+    },
+    {
       "basename": "$ Java - Programming Language",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Java - Programming Language.md"
     },
     {
-      "basename": "JavaDock",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/JavaDock.md"
+      "basename": "Static - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Static - Java.md"
     },
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
+      "basename": "JavaDock",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/JavaDock.md"
     },
     {
       "basename": "Philosophy to Learn",
@@ -191,14 +199,6 @@
     {
       "basename": "??Override - Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Override - Java.md"
-    },
-    {
-      "basename": "??Object() Class - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Object() Class - Java.md"
-    },
-    {
-      "basename": "Structured and Unstructured Data",
-      "path": "2. University/TU856 Year 1/Modules/Data Exploration/Structured and Unstructured Data.md"
     }
   ],
   "omittedPaths": [],
