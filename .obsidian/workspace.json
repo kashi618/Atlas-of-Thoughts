@@ -10,21 +10,48 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -380,
+                  "y": -260,
+                  "zoom": -0.19676379774789465
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "d2306571e2530dd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TV Shows & Movies & Anime & Manga"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,11 +281,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d2306571e2530dd1",
   "lastOpenFiles": [
+    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Getters & Setters And Gatekeeping - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Java - Programming Language.md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Factory Methods - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Static - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/JavaDock.md",
@@ -283,7 +310,6 @@
     "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/JDK JRE JVM - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/this - Java.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/new - Java.md",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 4/W4 inheritance.pdf",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 4/W4 Tutorial.pdf",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 4/W4 Scanner and references.pdf",
