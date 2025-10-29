@@ -78958,27 +78958,45 @@
     "version": "0.7.0",
     "codepoints": [
       {
-        "firstUsed": "2025-10-17T21:56:35.459Z",
-        "lastUsed": "2025-10-17T21:56:35.459Z",
+        "firstUsed": "2025-10-23T11:10:24.465Z",
+        "lastUsed": "2025-10-23T11:10:24.465Z",
         "useCount": 1,
-        "codepoint": "⁴"
+        "codepoint": "⁹"
       },
       {
-        "firstUsed": "2025-10-17T21:55:30.867Z",
-        "lastUsed": "2025-10-17T21:55:30.867Z",
+        "firstUsed": "2025-10-23T11:10:16.036Z",
+        "lastUsed": "2025-10-23T11:10:16.036Z",
+        "useCount": 1,
+        "codepoint": "⁷"
+      },
+      {
+        "firstUsed": "2025-10-23T11:09:54.044Z",
+        "lastUsed": "2025-10-23T11:09:54.044Z",
         "useCount": 1,
         "codepoint": "²"
       },
       {
-        "firstUsed": "2025-10-17T21:53:34.909Z",
-        "lastUsed": "2025-10-17T21:56:30.942Z",
+        "firstUsed": "2025-10-23T11:08:35.210Z",
+        "lastUsed": "2025-10-23T11:08:37.918Z",
         "useCount": 2,
+        "codepoint": "⁴"
+      },
+      {
+        "firstUsed": "2025-10-23T11:08:28.365Z",
+        "lastUsed": "2025-10-23T11:08:28.365Z",
+        "useCount": 1,
         "codepoint": "⁶"
       },
       {
-        "firstUsed": "2025-10-17T21:53:27.203Z",
-        "lastUsed": "2025-10-17T21:53:27.203Z",
+        "firstUsed": "2025-10-23T11:06:26.961Z",
+        "lastUsed": "2025-10-23T11:06:26.961Z",
         "useCount": 1,
+        "codepoint": "⁰"
+      },
+      {
+        "firstUsed": "2025-10-23T11:06:22.141Z",
+        "lastUsed": "2025-10-23T11:09:43.842Z",
+        "useCount": 2,
         "codepoint": "¹"
       },
       {
@@ -79001,20 +79019,20 @@
       },
       {
         "firstUsed": "2025-10-16T18:57:59.685Z",
-        "lastUsed": "2025-10-16T22:58:09.906Z",
-        "useCount": 4,
+        "lastUsed": "2025-10-23T11:42:39.116Z",
+        "useCount": 19,
         "codepoint": "≡"
       },
       {
         "firstUsed": "2025-10-02T11:26:55.707Z",
-        "lastUsed": "2025-10-17T21:54:16.367Z",
-        "useCount": 2,
+        "lastUsed": "2025-10-02T11:26:55.707Z",
+        "useCount": 1,
         "codepoint": "⁸"
       },
       {
         "firstUsed": "2025-10-02T11:26:47.103Z",
-        "lastUsed": "2025-10-17T21:55:27.408Z",
-        "useCount": 2,
+        "lastUsed": "2025-10-02T11:26:47.103Z",
+        "useCount": 1,
         "codepoint": "³"
       },
       {
@@ -79025,8 +79043,8 @@
       },
       {
         "firstUsed": "2025-09-02T22:30:28.553Z",
-        "lastUsed": "2025-10-17T21:55:49.128Z",
-        "useCount": 3,
+        "lastUsed": "2025-09-02T22:30:28.553Z",
+        "useCount": 1,
         "codepoint": "№"
       }
     ]

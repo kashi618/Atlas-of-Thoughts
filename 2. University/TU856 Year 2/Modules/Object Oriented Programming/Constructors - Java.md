@@ -31,5 +31,5 @@ class Vehicle {
 - View [[this - Java]], as this allows attributes and constructor parameters to have the same name
 
 # See Also
-[[$ Object Oriented Programming]]
+[[$ Java - Programming Language]]
 [[Method Overloading - Java]]

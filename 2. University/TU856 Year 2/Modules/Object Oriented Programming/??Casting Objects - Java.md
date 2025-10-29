@@ -28,4 +28,4 @@ Student s1 = (student) p1;
 ```
 
 # See Also
-[[$ Object Oriented Programming]]
+[[$ Java - Programming Language]]

@@ -12,6 +12,9 @@ aliases:
 ## Conventions
 - Class names and files begin with capital
 - Individual variables start lowercase
- 
+
+## Features/Components of Java
+- [[JDK JRE JVM - Java]]
+
 # See Also
-[[$ Object Oriented Programming]]  
+[[$ Java - Programming Language]]  

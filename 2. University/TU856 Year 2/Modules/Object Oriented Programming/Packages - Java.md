@@ -7,4 +7,4 @@ aliases:
 A "folder" that contains java files, used to group related classes togethor.
 
 # See Also
-[[$ Object Oriented Programming]]
+[[$ Java - Programming Language]]

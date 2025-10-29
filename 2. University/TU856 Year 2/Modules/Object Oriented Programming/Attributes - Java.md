@@ -27,4 +27,4 @@ public class Student{
 - `String` in java is a class, therefore it starts with a capital. View [[Data Types - Java]] for more information
 
 # See Also
-[[$ Object Oriented Programming]]
+[[$ Java - Programming Language]]

@@ -1,112 +1,124 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
-    },
-    {
       "basename": "TV Shows & Movies & Anime & Manga",
       "path": "3. General/Lists/TV Shows & Movies & Anime & Manga.md"
     },
     {
-      "basename": "GameDev ToDo List",
-      "path": "3. General/Lists/GameDev ToDo List.md"
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
     },
     {
-      "basename": "PostgreSQL - Creating Tables - IMDb Example",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md"
+      "basename": "Getters & Setters And Gatekeeping - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Getters & Setters And Gatekeeping - Java.md"
     },
     {
-      "basename": "??Encapsulation - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Encapsulation - Java.md"
+      "basename": "$ Java - Programming Language",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Java - Programming Language.md"
     },
     {
-      "basename": "Attributes - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Attributes - Java.md"
+      "basename": "Factory Methods - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Factory Methods - Java.md"
     },
     {
-      "basename": "$ Object Oriented Programming",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Object Oriented Programming.md"
+      "basename": "Static - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Static - Java.md"
     },
     {
-      "basename": "new - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/new - Java.md"
+      "basename": "JavaDock",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/JavaDock.md"
     },
     {
-      "basename": "this - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/this - Java.md"
+      "basename": "Philosophy to Learn",
+      "path": "3. General/Lists/Philosophy to Learn.md"
     },
     {
-      "basename": "Instantiating Objects - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Instantiating Objects - Java.md"
-    },
-    {
-      "basename": "Constructors - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Constructors - Java.md"
-    },
-    {
-      "basename": "Method Overloading - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Method Overloading - Java.md"
-    },
-    {
-      "basename": "Data Types - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Data Types - Java.md"
-    },
-    {
-      "basename": "Basic Class Template - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Basic Class Template - Java.md"
-    },
-    {
-      "basename": "Methods - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Methods - Java.md"
-    },
-    {
-      "basename": "Method Signature - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Method Signature - Java.md"
-    },
-    {
-      "basename": "What are Classes and Objects - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/What are Classes and Objects - Java.md"
-    },
-    {
-      "basename": "Packages - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Packages - Java.md"
-    },
-    {
-      "basename": "Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Java.md"
-    },
-    {
-      "basename": "Tattoos",
-      "path": "3. General/Misc/Tattoos.md"
-    },
-    {
-      "basename": "??Abstraction - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Abstraction - Java.md"
-    },
-    {
-      "basename": "$ Mathematics 2",
-      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md"
-    },
-    {
-      "basename": "Diophantine Equations",
-      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Diophantine Equations.md"
-    },
-    {
-      "basename": "Hill Digraph Cipher - Encrypting",
-      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Encrypting.md"
-    },
-    {
-      "basename": "Fermat's Little Theorum",
-      "path": "2. University/TU856 Year 1/Modules/Mathematics/Fermat's Little Theorum.md"
+      "basename": "Library",
+      "path": "3. General/Misc/Library.md"
     },
     {
       "basename": "Hill Digraph Cipher - Decrypting",
       "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Decrypting.md"
     },
     {
+      "basename": "$ Mathematics 2",
+      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md"
+    },
+    {
+      "basename": "Modular Exponentiation",
+      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Modular Exponentiation.md"
+    },
+    {
       "basename": "Fast Exponentiation",
       "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Fast Exponentiation.md"
+    },
+    {
+      "basename": "Incongruent Solutions",
+      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Incongruent Solutions.md"
+    },
+    {
+      "basename": "Hill Digraph Cipher - Encrypting",
+      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Encrypting.md"
+    },
+    {
+      "basename": "Chinese Remainder Theorem",
+      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Chinese Remainder Theorem.md"
+    },
+    {
+      "basename": "Diophantine Equations",
+      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Diophantine Equations.md"
+    },
+    {
+      "basename": "Fermat's Little Theorum",
+      "path": "2. University/TU856 Year 1/Modules/Mathematics/Fermat's Little Theorum.md"
+    },
+    {
+      "basename": "Vinyl Wishlist",
+      "path": "3. General/Lists/Vinyl Wishlist.md"
+    },
+    {
+      "basename": "$ Databases 1",
+      "path": "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md"
+    },
+    {
+      "basename": "PostgreSQL - Creating Functions",
+      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Creating Functions.md"
+    },
+    {
+      "basename": "PostgreSQL - Other Useful Functions",
+      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Other Useful Functions.md"
+    },
+    {
+      "basename": "??Encapsulation - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Encapsulation - Java.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "JDK JRE JVM - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/JDK JRE JVM - Java.md"
+    },
+    {
+      "basename": "Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Java.md"
+    },
+    {
+      "basename": "Getters and Setters - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Getters and Setters - Java.md"
+    },
+    {
+      "basename": "Access Modifiers - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Access Modifiers - Java.md"
+    },
+    {
+      "basename": "Encapsulation - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Encapsulation - Java.md"
+    },
+    {
+      "basename": "??Abstraction - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Abstraction - Java.md"
     },
     {
       "basename": "Inverse Numbers",
@@ -133,12 +145,40 @@
       "path": "2. University/TU856 Year 1/Modules/Mathematics/Inverse of Modular Number.md"
     },
     {
+      "basename": "Constructors - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Constructors - Java.md"
+    },
+    {
+      "basename": "Methods - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Methods - Java.md"
+    },
+    {
+      "basename": "Basic Class Template - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Basic Class Template - Java.md"
+    },
+    {
+      "basename": "Method Signature - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Method Signature - Java.md"
+    },
+    {
+      "basename": "What are Classes and Objects - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/What are Classes and Objects - Java.md"
+    },
+    {
+      "basename": "Packages - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Packages - Java.md"
+    },
+    {
       "basename": "??Polymorphism - Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Polymorphism - Java.md"
     },
     {
       "basename": "??Casting Objects - Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Casting Objects - Java.md"
+    },
+    {
+      "basename": "Method Overloading - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Method Overloading - Java.md"
     },
     {
       "basename": "??Extends - Java",
@@ -159,46 +199,6 @@
     {
       "basename": "$ Operating Systems 2",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
-    },
-    {
-      "basename": "Stacks",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks.md"
-    },
-    {
-      "basename": "??Override - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Override - Java.md"
-    },
-    {
-      "basename": "??Object() Class - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Object() Class - Java.md"
-    },
-    {
-      "basename": "Structured and Unstructured Data",
-      "path": "2. University/TU856 Year 1/Modules/Data Exploration/Structured and Unstructured Data.md"
-    },
-    {
-      "basename": "Excel Errors",
-      "path": "2. University/TU856 Year 1/Modules/Data Exploration/Excel Errors.md"
-    },
-    {
-      "basename": "Selection Sort",
-      "path": "2. University/TU856 Year 1/Modules/Algorithm Design and Problem Solving/Selection Sort.md"
-    },
-    {
-      "basename": "Traffic Lights",
-      "path": "2. University/TU856 Year 1/Modules/Microprocessor Systems/Traffic Lights.md"
-    },
-    {
-      "basename": "Turn On Output Port",
-      "path": "2. University/TU856 Year 1/Modules/Microprocessor Systems/Turn On Output Port.md"
-    },
-    {
-      "basename": "!! Monolithic Systems",
-      "path": "2. University/TU856 Year 1/Modules/Operating Systems 1/!! Monolithic Systems.md"
-    },
-    {
-      "basename": "OS2 Potential Exam Questions",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/OS2 Potential Exam Questions.md"
     }
   ],
   "omittedPaths": [],

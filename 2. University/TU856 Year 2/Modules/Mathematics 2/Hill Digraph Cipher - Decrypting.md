@@ -29,7 +29,8 @@ $26=5(5)+1$
 $1(26)-5(5)=1$
 $-5(5)=1$
 
-Inverse is $-5≡21$, therefore
+Inverse is -5, which is congruent to 21mod26. (-5+26 = 21).
+Therefore,m
 
 $A^{-1}=21\begin{bmatrix}2&-1\\-3&4\end{bmatrix}=\begin{bmatrix}42&-21\\-63&84\end{bmatrix}$
 
@@ -48,5 +49,7 @@ $\begin{bmatrix}16&5\\15&6\end{bmatrix}\begin{bmatrix}5\\19\end{bmatrix}=\begin{
 
 Decrypted text = MATH
 
+## Notes
+- You can use 2x2 OR 2x1 matrices to decode. Its only that the rows has to be the same.
 # See Also
 [[$ Mathematics 2]]

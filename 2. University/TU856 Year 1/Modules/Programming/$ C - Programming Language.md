@@ -81,3 +81,6 @@ aliases: []
 
 **Programming Pitfalls**
 [[$UNFINISHED Programming Pitfalls - C]]
+
+**Now that your done, go study java !**
+[[$ Java - Programming Language]]

@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"41eee63e74c76ae9","x":-590,"y":-73,"width":250,"height":60,"type":"text","text":""},
 		{"id":"58a23dcd0af29ebf","type":"text","text":"```widgets\ntype: clock\nformat: \"12hr\" | \"24hr\"\n```\n","x":-600,"y":-600,"width":440,"height":210},
 		{"id":"8dbd3f3c23811b1e","type":"file","file":"8. Other/explosion.gif","x":-708,"y":-548,"width":108,"height":108},
 		{"id":"26b7c4d2c9d0ae8b","type":"file","file":"8. Other/explosion.gif","x":-160,"y":-549,"width":108,"height":108},
@@ -14,8 +15,7 @@
 		{"id":"06c57e663c8b1a5f","type":"text","text":"Cao Dong Mei You Pai Dui\n- Da Feng Chui\n- Zai\n- Jiu Gui\nPapun band\nTizzy Nac\nLeah Dou\nIDKHow/Brobecks\nTaoPaoJiHua","x":-160,"y":-390,"width":600,"height":410},
 		{"id":"7fe341e40aaf4993","type":"file","file":"8. Other/explosion.gif","x":332,"y":-548,"width":108,"height":108},
 		{"id":"861b7282a9e6b63e","type":"file","file":"8. Other/obamna.gif","x":86,"y":-548,"width":108,"height":108},
-		{"id":"1434ea15c85acddd","type":"text","text":"[[$ Web Development 2]]\n\n[[$ Databases 1]]\n\n[[$ Operating Systems 2]]\n\n[[$ Object Oriented Programming]]\n\n[[$ Software Engineering 1]]\n\n[[$ Mathematics 2]]","x":-600,"y":-390,"width":440,"height":283},
-		{"id":"1ccdc1efeea8401a","x":-600,"y":-107,"width":400,"height":307,"type":"text","text":"Vinyl Wishlist\n- Tears for Fears - Songs from the Big Chair\n\t  - Collecter's Coke Bottle Clear Edition\n\t  - Releasing November 14\n  - Amy Winehouse - Back to Black\n  - "}
+		{"id":"1434ea15c85acddd","type":"text","text":"[[$ Web Development 2]]\n\n[[$ Databases 1]]\n\n[[$ Operating Systems 2]]\n\n[[$ Java - Programming Language]]\n\n[[$ Software Engineering 1]]\n\n[[$ Mathematics 2]]n","x":-600,"y":-390,"width":440,"height":283}
 	],
 	"edges":[]
 }

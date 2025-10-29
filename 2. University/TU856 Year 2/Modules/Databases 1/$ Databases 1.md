@@ -31,8 +31,8 @@ missing week 3 i think
 	
 	- [[PostgreSQL - LIKE (filter with specified values)]]
 	- [[PostgreSQL - JOINS (combine data multiple table)]]
-
-
+	- [[PostgreSQL - Other Useful Functions]]
+	- [[PostgreSQL - Creating Functions]]
 
 ## Misc
 [[ACID Model]]

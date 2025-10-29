@@ -16,9 +16,9 @@
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": -416.1582795649284,
-                  "y": -169.10345596931333,
-                  "zoom": -0.4697786983131522
+                  "x": -380,
+                  "y": -200,
+                  "zoom": -0.9605580946298504
                 }
               },
               "pinned": true,
@@ -131,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -259,6 +258,22 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "3. General/Lists/Vinyl Wishlist.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Static - Java.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/JavaDock.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/JDK JRE JVM - Java.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Getters and Setters - Java.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Getters & Setters And Gatekeeping - Java.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Factory Methods - Java.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Encapsulation - Java.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Access Modifiers - Java.md",
+    "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Java - Programming Language.md",
+    "2. University/TU856 Year 2/Modules/Mathematics 2/Modular Exponentiation.md",
+    "2. University/TU856 Year 2/Modules/Mathematics 2/Incongruent Solutions.md",
+    "2. University/TU856 Year 2/Modules/Mathematics 2/Chinese Remainder Theorem.md",
+    "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Other Useful Functions.md",
+    "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Creating Functions.md",
+    "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251021114121.png",
     "1. Home Page/Home.canvas",
     "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
     "3. General/Lists/GameDev ToDo List.md",
@@ -271,11 +286,6 @@
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Instantiating Objects - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Constructors - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Method Overloading - Java.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Data Types - Java.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Basic Class Template - Java.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Methods - Java.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Method Signature - Java.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/What are Classes and Objects - Java.md",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 1/W1OOP_Overview.pdf",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 1/W1 programming Paradigmn S2 2025.pdf",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 1/Characteristics and Fundamentals of Java.pdf",
@@ -286,15 +296,6 @@
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 3/W3_2_Strings.pdf",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 3/W3_1_Encapsulation lecturer.pdf",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 2/W2_2 Methods.pdf",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Packages - Java.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Java.md",
-    "3. General/Misc/Tattoos.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Abstraction - Java.md",
-    "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md",
-    "2. University/TU856 Year 2/Modules/Mathematics 2/Diophantine Equations.md",
-    "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Encrypting.md",
-    "2. University/TU856 Year 1/Modules/Mathematics/Fermat's Little Theorum.md",
-    "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Pasted image 20251009124000.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251007114405.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251007113640.png",
@@ -304,7 +305,6 @@
     "2. University/TU856 Year 1/Modules/Programming/2025-09-29-101737_hyprshot.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20250923130207.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20250923130132.png",
-    "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20250923111756.png",
     "Untitled.canvas"
   ]
 }
