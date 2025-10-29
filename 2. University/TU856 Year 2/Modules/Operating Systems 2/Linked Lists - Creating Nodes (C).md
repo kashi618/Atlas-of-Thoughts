@@ -14,7 +14,6 @@ struct ListNode {
 ```
 - Datatype for `value` can be anything
 - `struct ListNode *nextPtr` stores the address of a `ListNode`. Basically, it can store the memory address of a node.
-- 
 
 **Using the node struct**
 ```c showlinenumbers
