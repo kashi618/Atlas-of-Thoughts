@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Queue - FIFO",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - FIFO.md"
+    },
+    {
+      "basename": "Stacks - LIFO",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - LIFO.md"
+    },
+    {
+      "basename": "Linked Lists",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -13,16 +29,8 @@
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Inserting Nodes (C).md"
     },
     {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
-    },
-    {
       "basename": "Linked Lists - Creating Nodes (C)",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Creating Nodes (C).md"
-    },
-    {
-      "basename": "Linked Lists",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md"
     },
     {
       "basename": "TV Shows & Movies & Anime & Manga",
@@ -191,14 +199,6 @@
     {
       "basename": "??Polymorphism - Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Polymorphism - Java.md"
-    },
-    {
-      "basename": "??Casting Objects - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Casting Objects - Java.md"
-    },
-    {
-      "basename": "Method Overloading - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Method Overloading - Java.md"
     }
   ],
   "omittedPaths": [],

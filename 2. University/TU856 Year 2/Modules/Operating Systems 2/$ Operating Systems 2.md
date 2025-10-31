@@ -11,9 +11,18 @@
 - [[Linked Lists - Creating Nodes (C)]]
 - [[Linked Lists - Inserting Nodes (C)]]
 - [[Linked Lists - Deleting Nodes (C)]]
-- 
 
-- [[Stacks]]
+- [[Stacks - LIFO]]
+- [[Stacks - Creating Nodes (C)]]
+- [[Stacks - Inserting Nodes (C)]]
+- [[Stacks - Deleting Nodes (C)]]
+
+- [[Queue - FIFO]]
+- [[Queue - Creating Nodes (C)]]
+- [[Queue - Inserting Nodes (C)]]
+- [[Queue - Deleting Nodes (C)]]
+
+
 
 [[??Heap and Stack Memory]]
 

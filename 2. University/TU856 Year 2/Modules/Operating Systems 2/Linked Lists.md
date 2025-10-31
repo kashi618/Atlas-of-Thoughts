@@ -13,5 +13,9 @@ In a linked list, a node has two parts:
 1. One for containing data
 2. A pointer to another node
 
+## Unique Properties
+- Nodes can be created and deleted from **any** position in the list, if you have a reference
+
+
 # See Also
 [[$ Operating Systems 2]]
