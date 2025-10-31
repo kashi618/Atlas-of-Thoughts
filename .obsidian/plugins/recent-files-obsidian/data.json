@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "OS - 9.16",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/OS - 9.16.md"
+    },
+    {
+      "basename": "OS - 9.15",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/OS - 9.15.md"
+    },
+    {
       "basename": "Queue - FIFO",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - FIFO.md"
     },
@@ -11,14 +31,6 @@
     {
       "basename": "Linked Lists",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md"
-    },
-    {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Linked Lists - Deleting Nodes (C)",
@@ -187,18 +199,6 @@
     {
       "basename": "Method Signature - Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Method Signature - Java.md"
-    },
-    {
-      "basename": "What are Classes and Objects - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/What are Classes and Objects - Java.md"
-    },
-    {
-      "basename": "Packages - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Packages - Java.md"
-    },
-    {
-      "basename": "??Polymorphism - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Polymorphism - Java.md"
     }
   ],
   "omittedPaths": [],
