@@ -47,6 +47,8 @@ int main(void) {
 	return 0;
 }
 ```
+- [[Queue - dequeue() - C]]
+- [[Queue - enqueue() - C]]
 
 # See Also
 [[$ Operating Systems 2]]

@@ -14,33 +14,34 @@ When adding a node into a queue, it is added to the end of the queue, the tailPt
    
    Case 2: Queue is NOT empty
    - tailPtr (last node) will point to the new node
-4. 
+4. Set tailPtr as the new node
 
 
 
 ## enqueue() function
-```c showlinenumbers
+```c showlinenumbers {2-3, 6-8, 11-14, 16-20} {22-23}
 void enqueue(QueueNode* *headPtr, QueueNode* *tailPtr, int value) {
-	// Create new node
+	// 1. Create new node
 	QueueNode* newPtr = malloc(sizeof(QueueNode));
 	
 	if (newPtr != NULL) {
-		// Set node attributes
+		// 2. Set node attributes
 		newPtr->data = value;
 		newPtr->nextPtr = NULL;
 		
 		
-		// if queue is empty, insert node at head
+		// 3.1 if queue is empty, insert node at head
 		if (*headPtr == NULL) {
 			*headPtr = newPtr;
 		}
-		// if the queue isn't empty (tailPtr currently points at a node)
+		
+		// 3.2 if the queue isn't empty (tailPtr currently points at a node)
 		// set the last node to point to the new node (*tailPtr is the last node)
 		else {
 			(*tailPtr)->nextPtr = newPtr;
 		}
 		
-		// Set newPtr as the new tailPtr
+		// 4. Set newPtr as the new tailPtr
 		*tPtr = newPtr;
 	}
 	else {
@@ -51,3 +52,5 @@ void enqueue(QueueNode* *headPtr, QueueNode* *tailPtr, int value) {
 
 # See Also
 [[$ Operating Systems 2]]
+[[Queue - FIFO]]
+[[Queue - dequeue() - C]]

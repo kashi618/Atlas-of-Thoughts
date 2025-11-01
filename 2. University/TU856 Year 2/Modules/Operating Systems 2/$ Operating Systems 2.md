@@ -7,15 +7,18 @@
 [[Fetch Execute Cycle]]
 
 ## Dynamic Data Structures
+**Linked Lists**
 - [[Linked Lists]]
-- [[Linked Lists - Creating Nodes (C)]]
+- [[Linked Lists - Creating Nodes - C]]
 - [[Linked Lists - Inserting Nodes (C)]]
-- [[Linked Lists - Deleting Nodes (C)]]
+- [[Linked Lists - Deleting Nodes - C]]
 
+**Stacks**
 - [[Stacks - LIFO]]
 - [[Stacks - pop() - C]]
 - [[Stacks - push() - C]]
 
+**Queues**
 - [[Queue - FIFO]]
 - [[Queue - enqueue() - C]]
 - [[Queue - dequeue() - C]]

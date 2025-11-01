@@ -12,16 +12,17 @@ When adding a node onto a stack, it should point to the topPtr
 3. Set topPtr to the new node created
 
 ## push() function
-```c showlinenumbers
+```c showlinenumbers {2-3, 6-8, 10-11}
 void push(StackNode* *topPtr, int value) {
-	// Create new node
+	// 1. Create new node
 	StackNode* newPtr = malloc(sizeof(StackNode));
 	
 	if (newPtr != NULL) {
-		// Set node attributes
+		// 2. Set node attributes
 		newPtr->data = value;
 		newPtr-nextPtr = *topPtr;
-		// Let topPtr point to new node 
+		
+		// 3. Let topPtr point to new node 
 		*topPtr = newPtr;
 	}
 	else {
