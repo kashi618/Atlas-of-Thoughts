@@ -5,6 +5,14 @@
       "path": "1. Home Page/Home.canvas"
     },
     {
+      "basename": "Archlinux - Installation",
+      "path": "3. General/Archlinux/Archlinux - Installation.md"
+    },
+    {
+      "basename": "Archlinux - Adding Drives",
+      "path": "3. General/Archlinux/Archlinux - Adding Drives.md"
+    },
+    {
       "basename": "Untitled",
       "path": "Untitled.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Methods - Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Methods - Java.md"
-    },
-    {
-      "basename": "Basic Class Template - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Basic Class Template - Java.md"
-    },
-    {
-      "basename": "Method Signature - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Method Signature - Java.md"
     }
   ],
   "omittedPaths": [],
