@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Queue - FIFO",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - FIFO.md"
+    },
+    {
       "basename": "Stacks - LIFO",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - LIFO.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "OS - 9.15",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/OS - 9.15.md"
-    },
-    {
-      "basename": "Queue - FIFO",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - FIFO.md"
     },
     {
       "basename": "Linked Lists",
