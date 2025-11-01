@@ -21,7 +21,7 @@ void push(StackNode* *topPtr, int value) {
 		// Set node attributes
 		newPtr->data = value;
 		newPtr-nextPtr = *topPtr;
-		// Change address of topPtr to new node created
+		// Let topPtr point to new node 
 		*topPtr = newPtr;
 	}
 	else {

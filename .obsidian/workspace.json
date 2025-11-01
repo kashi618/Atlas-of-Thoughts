@@ -350,7 +350,7 @@
                   "state": {
                     "file": "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - enqueue() - C.md",
                     "mode": "source",
-                    "source": true,
+                    "source": false,
                     "backlinks": true,
                     "backlinkOpts": {
                       "collapseAll": false,
@@ -395,9 +395,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 716,
+        "x": 854,
         "y": 40,
-        "width": 1193,
+        "width": 1055,
         "height": 1029,
         "maximize": false,
         "zoom": 0
