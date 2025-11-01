@@ -11,6 +11,7 @@ aliases:
 ## Unique Properties
 - Nodes can be created and deleted from **any** position in the list, if you have a reference
 
+## Structure
 
 # See Also
 [[$ Operating Systems 2]]
