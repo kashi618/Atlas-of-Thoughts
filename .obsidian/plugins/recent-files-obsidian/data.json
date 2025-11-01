@@ -13,8 +13,32 @@
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
     },
     {
+      "basename": "Stacks - push() - C",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - push() - C.md"
+    },
+    {
+      "basename": "Stacks - pop() - C",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - pop() - C.md"
+    },
+    {
+      "basename": "Linked Lists - Inserting Nodes (C)",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Inserting Nodes (C).md"
+    },
+    {
+      "basename": "Queue - enqueue() - C",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - enqueue() - C.md"
+    },
+    {
+      "basename": "Queue - dequeue() - C",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - dequeue() - C.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Linked Lists",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md"
     },
     {
       "basename": "Archlinux - Installation",
@@ -37,16 +61,8 @@
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/OS - 9.15.md"
     },
     {
-      "basename": "Linked Lists",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md"
-    },
-    {
       "basename": "Linked Lists - Deleting Nodes (C)",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Deleting Nodes (C).md"
-    },
-    {
-      "basename": "Linked Lists - Inserting Nodes (C)",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Inserting Nodes (C).md"
     },
     {
       "basename": "Linked Lists - Creating Nodes (C)",
@@ -183,22 +199,6 @@
     {
       "basename": "Negative Modulus Numbers",
       "path": "2. University/TU856 Year 1/Modules/Mathematics/Negative Modulus Numbers.md"
-    },
-    {
-      "basename": "Adding and Subtracting Matrices",
-      "path": "2. University/TU856 Year 1/Modules/Mathematics/Adding and Subtracting Matrices.md"
-    },
-    {
-      "basename": "Inverse of Modular Number",
-      "path": "2. University/TU856 Year 1/Modules/Mathematics/Inverse of Modular Number.md"
-    },
-    {
-      "basename": "Constructors - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Constructors - Java.md"
-    },
-    {
-      "basename": "Methods - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Methods - Java.md"
     }
   ],
   "omittedPaths": [],
