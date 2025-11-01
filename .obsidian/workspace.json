@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -20,6 +21,7 @@
                   "zoom": -0.3022695691168942
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
@@ -257,8 +259,8 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "3. General/Archlinux/Archlinux - Installation.md",
-    "3. General/Archlinux/Archlinux - Adding Drives.md",
     "1. Home Page/Home.canvas",
+    "3. General/Archlinux/Archlinux - Adding Drives.md",
     "Untitled.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/OS - 9.16.md",
@@ -282,7 +284,6 @@
     "2. University/TU856 Year 2/Modules/Mathematics 2/Modular Exponentiation.md",
     "2. University/TU856 Year 2/Modules/Mathematics 2/Incongruent Solutions.md",
     "2. University/TU856 Year 2/Modules/Mathematics 2/Chinese Remainder Theorem.md",
-    "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Other Useful Functions.md",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251021114121.png",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 1/W1OOP_Overview.pdf",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 1/W1 programming Paradigmn S2 2025.pdf",
