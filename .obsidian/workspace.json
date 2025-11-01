@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md",
+                "file": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Linked Lists"
+              "title": "$ Operating Systems 2"
             }
           },
           {
@@ -196,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md",
+                "file": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Linked Lists"
+              "title": "Outline of $ Operating Systems 2"
             }
           },
           {
@@ -306,8 +306,8 @@
   },
   "active": "60b0ac7adf4c6892",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - LIFO.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - LIFO.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Creating Nodes - C.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Deleting Nodes - C.md",
