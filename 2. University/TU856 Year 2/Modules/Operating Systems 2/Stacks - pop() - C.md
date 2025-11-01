@@ -7,7 +7,7 @@ aliases:
 When removing a value from a stack, you only need to remove the uppermost one. ie, the topPtr.
 
 **To do this:**
-1. Set the topNode (where topPtr is pointing) to a tempPtr.
+1. Set the topPtr to tempPtr.
 2. Change the address that topPtr is pointing to, so that it points to the next node in the stack
 3. Free the tempPtr
 
@@ -22,7 +22,7 @@ int pop(StackNode* *topPtr) {
 	// Change address of topPtr to the next node
 	*topPtr = (*topPtr)->nextPtr;
 	
-	// Free tempPtr (top node in stack)
+	// Free tempPtr
 	free(tempPtr);
 	
 	return popValue;

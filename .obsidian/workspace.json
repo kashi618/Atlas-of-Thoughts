@@ -32,9 +32,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
+                "file": "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - push() - C.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Operating Systems 2"
+              "title": "Stacks - push() - C"
             }
           },
           {
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -390,29 +390,30 @@
                   "title": "Queue - dequeue() - C"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 164,
+        "x": 716,
         "y": 40,
-        "width": 200,
+        "width": 1193,
         "height": 1029,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "5889fb37bfc71115",
+  "active": "62fd57e769e605d0",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - push() - C.md",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - enqueue() - C.md",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - pop() - C.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - LIFO.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - FIFO.md",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - push() - C.md",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - pop() - C.md",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Inserting Nodes (C).md",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - enqueue() - C.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - dequeue() - C.md",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Inserting Nodes (C).md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - Inserting Nodes (C).md",
     "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md",

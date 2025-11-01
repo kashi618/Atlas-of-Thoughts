@@ -36,8 +36,13 @@ typedef struct stackNode StackNode
 int main(void) {
 	QueueNode* headPtr = NULL;
 	QueueNode* tailPtr = NULL;
-	int value;
 	
+	// Adding a node
+	int value = scanf("%d");
+	enqueue(&headPtr, &tailptr, value)
+	
+	// Removing a node
+	dequeue(&headPtr, &tailPtr);
 	
 	return 0;
 }
