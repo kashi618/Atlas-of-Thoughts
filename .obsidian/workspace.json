@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -380,
                   "y": -160,
-                  "zoom": -0.8057563678321269
+                  "zoom": -1.5905714304665957
                 }
               },
               "pinned": true,
@@ -27,13 +27,13 @@
             }
           },
           {
-            "id": "60b0ac7adf4c6892",
+            "id": "87b3cf076e61cc9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md",
-                "mode": "source",
+                "file": "3. General/Archlinux/Archlinux - Installation.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Linked Lists"
+              "title": "Archlinux - Installation"
             }
           }
         ],
@@ -282,65 +282,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "floating": {
-    "id": "f00e47ae6056314a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1c3c5021d74ef5e2",
-        "type": "window",
-        "children": [
-          {
-            "id": "b962c305edf0c3dd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e635bd43f7034bee",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - LIFO.md",
-                    "mode": "preview",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Stacks - LIFO"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 296,
-        "y": 11,
-        "width": 74,
-        "height": 1029,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e635bd43f7034bee",
+  "active": "87b3cf076e61cc9b",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md",
+    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - LIFO.md",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Creating Nodes - C.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Deleting Nodes - C.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - dequeue() - C.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - enqueue() - C.md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - push() - C.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - FIFO.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - pop() - C.md",
