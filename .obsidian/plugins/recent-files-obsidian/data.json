@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Stacks - LIFO",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - LIFO.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Queue - enqueue() - C",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - enqueue() - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Stacks - push() - C",
