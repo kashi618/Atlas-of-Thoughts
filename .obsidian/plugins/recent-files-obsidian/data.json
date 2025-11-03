@@ -5,6 +5,18 @@
       "path": "1. Home Page/Home.canvas"
     },
     {
+      "basename": "Stacks - pop() - C",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - pop() - C.md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "What to DO",
+      "path": "2. University/What to DO.md"
+    },
+    {
       "basename": "Archlinux - Installation",
       "path": "3. General/Archlinux/Archlinux - Installation.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Linked Lists",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md"
-    },
-    {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
     },
     {
       "basename": "Linked Lists - Creating Nodes - C",
@@ -43,10 +51,6 @@
     {
       "basename": "Queue - FIFO",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - FIFO.md"
-    },
-    {
-      "basename": "Stacks - pop() - C",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - pop() - C.md"
     },
     {
       "basename": "Linked Lists - Inserting Nodes (C)",
@@ -195,10 +199,6 @@
     {
       "basename": "Lowest Common Multiple",
       "path": "2. University/TU856 Year 1/Modules/Mathematics/Lowest Common Multiple.md"
-    },
-    {
-      "basename": "Negative Modulus Numbers",
-      "path": "2. University/TU856 Year 1/Modules/Mathematics/Negative Modulus Numbers.md"
     }
   ],
   "omittedPaths": [],
