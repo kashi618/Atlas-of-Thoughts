@@ -10,21 +10,48 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -380,
+                  "y": -160,
+                  "zoom": -0.2170707810682534
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "3bdb851d227eb3a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - LIFO.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Stacks - LIFO"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,11 +281,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3bdb851d227eb3a3",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - pop() - C.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
     "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - pop() - C.md",
     "2. University/What to DO.md",
     "3. General/Archlinux/Archlinux - Installation.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - LIFO.md",
