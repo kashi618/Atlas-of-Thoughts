@@ -63,7 +63,7 @@
 
 
 ### JavaDoc
-[[JavaDock]]
+[[JavaDoc]]
 
 
 `new` puts object in heap memory, meaning the scope exists outside of the class
