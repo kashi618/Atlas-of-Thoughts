@@ -59,6 +59,7 @@
 
 ### Abstraction
 [[??Abstraction - Java]]
+*cannot make obejct from abstract class, only reference
 
 
 ### JavaDoc
