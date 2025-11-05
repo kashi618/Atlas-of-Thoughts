@@ -38,7 +38,6 @@
 
 [[??Encapsulation - Java]]
 
-[[??This - Java]]
 
 
 ### Inheritance
@@ -65,10 +64,8 @@
 ### JavaDoc
 [[JavaDoc]]
 
-
-`new` puts object in heap memory, meaning the scope exists outside of the class
-String are immutable, reassigning makes a new object
-
+### Interfaces
+[[Interfaces - Java]]
 
 
 - [x] Constructor

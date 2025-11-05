@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Interfaces - Java",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Interfaces - Java.md"
+    },
+    {
+      "basename": "$ Java - Programming Language",
+      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Java - Programming Language.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "TV Shows & Movies & Anime & Manga",
+      "path": "3. General/Lists/TV Shows & Movies & Anime & Manga.md"
     },
     {
       "basename": "JavaDoc",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/JavaDoc.md"
     },
     {
-      "basename": "$ Java - Programming Language",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Java - Programming Language.md"
+      "basename": "Osamu Dazai- The Setting Sun",
+      "path": "Library/Osamu Dazai- The Setting Sun.md"
+    },
+    {
+      "basename": "Obsidian Keybinds",
+      "path": "1. Home Page/Obsidian Keybinds.md"
     },
     {
       "basename": "Stacks - LIFO",
@@ -79,10 +95,6 @@
     {
       "basename": "OS - 9.15",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/OS - 9.15.md"
-    },
-    {
-      "basename": "TV Shows & Movies & Anime & Manga",
-      "path": "3. General/Lists/TV Shows & Movies & Anime & Manga.md"
     },
     {
       "basename": "Getters & Setters And Gatekeeping - Java",
@@ -187,18 +199,6 @@
     {
       "basename": "??Abstraction - Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Abstraction - Java.md"
-    },
-    {
-      "basename": "Inverse Numbers",
-      "path": "2. University/TU856 Year 1/Modules/Mathematics/Inverse Numbers.md"
-    },
-    {
-      "basename": "Euclidean Algorithm 1",
-      "path": "2. University/TU856 Year 1/Modules/Mathematics/Euclidean Algorithm 1.md"
-    },
-    {
-      "basename": "Lowest Common Multiple",
-      "path": "2. University/TU856 Year 1/Modules/Mathematics/Lowest Common Multiple.md"
     }
   ],
   "omittedPaths": [],

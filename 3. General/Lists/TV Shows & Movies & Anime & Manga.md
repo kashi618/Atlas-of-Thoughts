@@ -38,69 +38,69 @@ The Imitation Game
 | Wednesday Season 1                       | Amazing         |
 | The Queen's Gambit                       |                 |
 
-| **Movies**                                                 | **MUST WATCH?** |                                                       |
-| ---------------------------------------------------------- | --------------- | ----------------------------------------------------- |
-| 1408                                                       | Good            |                                                       |
-| Beetlejuice Beetlejuice                                    | Good            |                                                       |
-| Dead Poets Society                                         | **MUST WATCH**  |                                                       |
-| Dead Silence                                               | Good            |                                                       |
-| Der Untergang (Downfall)                                   | **MUST WATCH**  |                                                       |
-| Die Welle (The Wave)                                       | **MUST WATCH**  |                                                       |
-| Elemental                                                  | Good            |                                                       |
-| Fantastic Planet                                           | Good            |                                                       |
-| Final Destination Bloodlines                               | Amazing         |                                                       |
-| Home Alone                                                 | N/A             |                                                       |
-| Home Alone 2: Lost in New York                             | N/A             |                                                       |
-| I.S.S                                                      | Good            |                                                       |
-| If Only                                                    | **MUST WATCH**  |                                                       |
-| In Time                                                    | Good (bad)      |                                                       |
-| Last Breath                                                | Good            |                                                       |
-| Nezha                                                      | Good            |                                                       |
-| Nezha 2                                                    | Good            |                                                       |
-| Now You See Me                                             | Amazing         |                                                       |
-| Oppenheimer                                                | **MUST WATCH**  |                                                       |
-| Paddington in Peru                                         | Good            |                                                       |
-| Pan's Labyrinth                                            | Amazing         |                                                       |
-| Pirates of the Caribbean: At World's End                   | **MUST WATCH**  |                                                       |
-| Pirates of the Caribbean: Curse of the Black Pearl         | **MUST WATCH**  |                                                       |
-| Pirates of the Caribbean: Dead Man's Chest                 | **MUST WATCH**  |                                                       |
-| Pirates of the Caribbean: Dead Men Tell No Tales           | Amazing         |                                                       |
-| Pirates of the Caribbean: On Stranger Tides                | **MUST WATCH**  |                                                       |
-| Ratatouille                                                | Amazing         |                                                       |
-| Rush Hour                                                  | Amazing         |                                                       |
-| Saw                                                        | **MUST WATCH**  | AMAZING                                               |
-| Saw II                                                     | Amazing         |                                                       |
-| Saw III                                                    | Good            |                                                       |
-| Saw IV                                                     | Good            | Dayum, those transitions                              |
-| Saw V                                                      | Good            |                                                       |
-| Scream VI                                                  | Good            |                                                       |
-| Shawshank Redemption                                       | **MUST WATCH**  | Amazing.                                              |
-| Sing Street                                                | Amazing         |                                                       |
-| Smosh: The Movie                                           | Meh             |                                                       |
-| Talk To Me                                                 | Amazing         |                                                       |
-| Tarot                                                      | Meh             |                                                       |
-| The Legend of 1900                                         | **MUST WATCH**  |                                                       |
-| The Lord of The Rings Extended: The Fellowship of the Ring | Amazing         |                                                       |
-| The Menu                                                   | Amazing         |                                                       |
-| The Platform                                               | **MUST WATCH**  |                                                       |
-| The Platform 2                                             | **MUST WATCH**  |                                                       |
-| The Purge                                                  | Good            |                                                       |
-| The Purge: Anarchy                                         | Meh             |                                                       |
-| Triangle                                                   | **MUST WATCH**  | Beautiful Timeloop                                    |
-| WALL-E                                                     | **MUST WATCH**  |                                                       |
-| Wonka                                                      | Good            |                                                       |
-| ハウス (House)                                                | meh             | wtf happened                                          |
-| 九品芝麻官  (Hail the Judge)                                    | Amazing         |                                                       |
-| 功夫 (Kungfu Hustle)                                         | **MUST WATCH**  | OG and Iconic                                         |
-| 回魂夜 (Out of the Dark)                                      | **MUST WATCH**  | Funniest shit i have seen                             |
-| 少林足球 (Shaolin Soccer)                                      | Amazing         |                                                       |
-| 抓娃娃 (Successor)                                            | Good            |                                                       |
-| 流浪地球 (Wandering Earth)                                     | Amazing         |                                                       |
-| 鉄男 (Tetsuo: The Iron Man)                                  | Good            | wtf happened                                          |
-| Pirates of the Caribbean: Tales of the Code: Wedlocked     | Meh             |                                                       |
-| Scream (1995)                                              | Amazing         | SO many references                                    |
-| Screan II                                                  | Amazing         | Just like scream 1. Cliche, satirical, funny as fuck. |
-|                                                            |                 |                                                       |
+| **Movies**                                                 | **MUST WATCH?** |                                                                        |
+| ---------------------------------------------------------- | --------------- | ---------------------------------------------------------------------- |
+| 1408                                                       | Good            |                                                                        |
+| Beetlejuice Beetlejuice                                    | Good            |                                                                        |
+| Dead Poets Society                                         | **MUST WATCH**  |                                                                        |
+| Dead Silence                                               | Good            |                                                                        |
+| Der Untergang (Downfall)                                   | **MUST WATCH**  |                                                                        |
+| Die Welle (The Wave)                                       | **MUST WATCH**  |                                                                        |
+| Elemental                                                  | Good            |                                                                        |
+| Fantastic Planet                                           | Good            |                                                                        |
+| Final Destination Bloodlines                               | Amazing         |                                                                        |
+| Home Alone                                                 | N/A             |                                                                        |
+| Home Alone 2: Lost in New York                             | N/A             |                                                                        |
+| I.S.S                                                      | Good            |                                                                        |
+| If Only                                                    | **MUST WATCH**  |                                                                        |
+| In Time                                                    | Good (bad)      |                                                                        |
+| Last Breath                                                | Good            |                                                                        |
+| Nezha                                                      | Good            |                                                                        |
+| Nezha 2                                                    | Good            |                                                                        |
+| Now You See Me                                             | Amazing         |                                                                        |
+| Oppenheimer                                                | **MUST WATCH**  |                                                                        |
+| Paddington in Peru                                         | Good            |                                                                        |
+| Pan's Labyrinth                                            | Amazing         |                                                                        |
+| Pirates of the Caribbean: At World's End                   | **MUST WATCH**  |                                                                        |
+| Pirates of the Caribbean: Curse of the Black Pearl         | **MUST WATCH**  |                                                                        |
+| Pirates of the Caribbean: Dead Man's Chest                 | **MUST WATCH**  |                                                                        |
+| Pirates of the Caribbean: Dead Men Tell No Tales           | Amazing         |                                                                        |
+| Pirates of the Caribbean: On Stranger Tides                | **MUST WATCH**  |                                                                        |
+| Ratatouille                                                | Amazing         |                                                                        |
+| Rush Hour                                                  | Amazing         |                                                                        |
+| Saw                                                        | **MUST WATCH**  | AMAZING                                                                |
+| Saw II                                                     | Amazing         |                                                                        |
+| Saw III                                                    | Good            |                                                                        |
+| Saw IV                                                     | Good            | Dayum, those transitions                                               |
+| Saw V                                                      | Good            |                                                                        |
+| Scream VI                                                  | Good            |                                                                        |
+| Shawshank Redemption                                       | **MUST WATCH**  | Amazing.                                                               |
+| Sing Street                                                | Amazing         |                                                                        |
+| Smosh: The Movie                                           | Meh             |                                                                        |
+| Talk To Me                                                 | Amazing         |                                                                        |
+| Tarot                                                      | Meh             |                                                                        |
+| The Legend of 1900                                         | **MUST WATCH**  |                                                                        |
+| The Lord of The Rings Extended: The Fellowship of the Ring | Amazing         |                                                                        |
+| The Menu                                                   | Amazing         |                                                                        |
+| The Platform                                               | **MUST WATCH**  |                                                                        |
+| The Platform 2                                             | **MUST WATCH**  |                                                                        |
+| The Purge                                                  | Good            |                                                                        |
+| The Purge: Anarchy                                         | Meh             |                                                                        |
+| Triangle                                                   | **MUST WATCH**  | Beautiful Timeloop                                                     |
+| WALL-E                                                     | **MUST WATCH**  |                                                                        |
+| Wonka                                                      | Good            |                                                                        |
+| ハウス (House)                                                | meh             | wtf happened                                                           |
+| 九品芝麻官  (Hail the Judge)                                    | Amazing         |                                                                        |
+| 功夫 (Kungfu Hustle)                                         | **MUST WATCH**  | OG and Iconic                                                          |
+| 回魂夜 (Out of the Dark)                                      | **MUST WATCH**  | Funniest shit i have seen                                              |
+| 少林足球 (Shaolin Soccer)                                      | Amazing         |                                                                        |
+| 抓娃娃 (Successor)                                            | Good            |                                                                        |
+| 流浪地球 (Wandering Earth)                                     | Amazing         |                                                                        |
+| 鉄男 (Tetsuo: The Iron Man)                                  | Good            | wtf happened                                                           |
+| Pirates of the Caribbean: Tales of the Code: Wedlocked     | Meh             |                                                                        |
+| Scream (1995)                                              | Amazing         | SO many references                                                     |
+| Screan II                                                  | Amazing         | Just like scream 1. Cliche, satirical, funny as fuck.                  |
+| One Battle After Another                                   | Good            | Leonardo Dicaprio Amazing. Sound design beautiful. But typical america |
 
 ---
 
