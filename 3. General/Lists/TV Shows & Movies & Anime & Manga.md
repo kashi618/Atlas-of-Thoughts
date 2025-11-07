@@ -99,8 +99,8 @@ The Imitation Game
 | 鉄男 (Tetsuo: The Iron Man)                                  | Good            | wtf happened                                          |
 | Pirates of the Caribbean: Tales of the Code: Wedlocked     | Meh             |                                                       |
 | Scream (1995)                                              | Amazing         | SO many references                                    |
-| Screan II                                                  | Amazing         | Just like scream 1. Cliche, satirical, funny as fuck. |
-|                                                            |                 |                                                       |
+| Scream II                                                  | Amazing         | Just like scream 1. Cliche, satirical, funny as fuck. |
+| Scream III                                                 | Good | A bit boring? But the detective kincaid was cool. The romance between Gale and Dewey was also nice. |
 
 ---
 
