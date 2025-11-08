@@ -14,7 +14,7 @@ It converts special comments into HTML documentation.
 ```java showlinenumbers
 /** This is a JavaDoc Comment */
 ```
-- JavaDoc comment must be placed immediately before the declaration of the class, interface, method/constructor, or public/protected field you are documenting.
+- JavaDoc comment must be placed immediately before the declaration of a class, interface, method/constructor, or public/protected field you are documenting.
 
 **JavaDoc Example**
 ```java showlinenumbers

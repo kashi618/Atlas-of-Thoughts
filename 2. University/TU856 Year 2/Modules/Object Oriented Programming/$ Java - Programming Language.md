@@ -38,7 +38,6 @@
 
 [[??Encapsulation - Java]]
 
-[[??This - Java]]
 
 
 ### Inheritance
@@ -60,15 +59,14 @@
 
 ### Abstraction
 [[??Abstraction - Java]]
+*cannot make obejct from abstract class, only reference
 
 
 ### JavaDoc
-[[JavaDock]]
+[[JavaDoc]]
 
-
-`new` puts object in heap memory, meaning the scope exists outside of the class
-String are immutable, reassigning makes a new object
-
+### Interfaces
+[[Interfaces - Java]]
 
 
 - [x] Constructor

@@ -6,6 +6,9 @@ aliases:
 A stack is a last in first out type structure.
 It uses the `push()` and `pop()` functions to add and delete a node form the stack.
 
+Can also be known as FILO, but LIFO is used more !
+
+
 ## Tips
 In a stack, both options `push()` and `pop()` happen at the top of the stack.
 
