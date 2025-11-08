@@ -101,6 +101,7 @@ The Imitation Game
 | Scream (1995)                                              | Amazing         | SO many references                                                     |
 | Screan II                                                  | Amazing         | Just like scream 1. Cliche, satirical, funny as fuck.                  |
 | One Battle After Another                                   | Good            | Leonardo Dicaprio Amazing. Sound design beautiful. But typical america |
+| Scream III                                                 | Good | A bit boring? But the detective kincaid was cool. The romance between Gale and Dewey was also nice. |
 
 ---
 
