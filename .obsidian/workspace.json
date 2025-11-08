@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -380,
                   "y": -160,
-                  "zoom": -0.8057563678321269
+                  "zoom": -1.1078998107050373
                 }
               },
               "pinned": true,
@@ -235,7 +235,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 519.5
+    "width": 519.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,10 +257,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f6365b2ef9f1c32f",
   "lastOpenFiles": [
-    "3. General/Archlinux/Archlinux - Installation.md",
+    "9. TEMP",
     "1. Home Page/Home.canvas",
+    "3. General/Archlinux/Archlinux - Installation.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - LIFO.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
