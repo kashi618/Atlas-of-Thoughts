@@ -10,18 +10,16 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": -380,
-                  "y": -160,
-                  "zoom": -1.1078998107050373
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
@@ -257,10 +255,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f6365b2ef9f1c32f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "9. TEMP",
     "1. Home Page/Home.canvas",
+    "9. TEMP",
     "3. General/Archlinux/Archlinux - Installation.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - LIFO.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md",
@@ -299,7 +297,6 @@
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 3/W3_Tutorial.pdf",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 3/W3_2_Strings.pdf",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 3/W3_1_Encapsulation lecturer.pdf",
-    "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 2/W2_2 Methods.pdf",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Pasted image 20251009124000.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251007114405.png",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251007113640.png",
