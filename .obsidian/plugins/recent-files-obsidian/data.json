@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "$ Java - Programming Language",
+      "path": "2. University/TU856 Year 2/Modules/Java/$ Java - Programming Language.md"
+    },
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Processes and Programs - OS2",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Processes and Programs - OS2.md"
     },
     {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
-    },
-    {
       "basename": "Processes - OS1",
       "path": "2. University/TU856 Year 1/Modules/Operating Systems 1/Unsorted Notes/Processes - OS1.md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
     },
     {
       "basename": "Heap and Stack Memory",
@@ -47,10 +59,6 @@
     {
       "basename": "processes - exec()",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/processes - exec().md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "C - Command Line Arguments in Main",
@@ -191,14 +199,6 @@
     {
       "basename": "Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Java.md"
-    },
-    {
-      "basename": "Getters and Setters - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Getters and Setters - Java.md"
-    },
-    {
-      "basename": "Access Modifiers - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Access Modifiers - Java.md"
     }
   ],
   "omittedPaths": [],
