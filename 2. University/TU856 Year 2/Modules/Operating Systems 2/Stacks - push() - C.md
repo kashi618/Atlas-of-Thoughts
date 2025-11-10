@@ -32,3 +32,5 @@ void push(StackNode* *topPtr, int value) {
 ```
 # See Also
 [[$ Operating Systems 2]]
+[[$ C - Programming Language]]
+[[Stacks]]

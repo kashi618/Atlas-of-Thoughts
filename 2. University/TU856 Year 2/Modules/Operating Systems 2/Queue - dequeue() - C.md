@@ -35,5 +35,6 @@ int dequeue(QueueNode* *headPtr, QueueNode* *tailPtr) {
 
 # See Also
 [[$ Operating Systems 2]]
+[[$ C - Programming Language]]
 [[Queue - FIFO]]
 [[Queue - enqueue() - C]]

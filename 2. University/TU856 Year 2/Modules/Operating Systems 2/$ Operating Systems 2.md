@@ -9,29 +9,31 @@
 ## Dynamic Data Structures
 **Linked Lists**
 - [[Linked Lists]]
-- [[Linked Lists - Creating Nodes - C]]
-- [[Linked Lists - Inserting Nodes (C)]]
-- [[Linked Lists - Deleting Nodes - C]]
+- [[Linked Lists - Creating Nodes - C]] Link
+- [[Linked Lists - Inserting Nodes - C]] Link
+- [[Linked Lists - Deleting Nodes - C]] Link
 
 **Stacks**
-- [[Stacks - LIFO]]
-- [[Stacks - pop() - C]]
-- [[Stacks - push() - C]]
+- [[Stacks - LIFO]]link with lifo
+- [[Stacks - pop() - C]] link with lifo
+- [[Stacks - push() - C]]link with lifo
 
 **Queues**
-- [[Queue - FIFO]]
-- [[Queue - enqueue() - C]]
-- [[Queue - dequeue() - C]]
+- [[Queue - FIFO]] Link with fifo
+- [[Queue - enqueue() - C]] Link with fifo
+- [[Queue - dequeue() - C]] Link with fifo
 
 ## Processes
 - [[Processes - OS1]]
 - [[Processes - OS2]]
 
-- [[processes - fork()]]
+- [[processes - fork()]] Seperate out wait() into [[Processes - wait()]]
+- [[Processes - wait()]]
 - [[processes - exec()]]
 
-- [[Processes - Specialized C]]
+- [[C - Command Line Arguments in Main]]
 
+`exit(1)`
 
 
 [[??Heap and Stack Memory]]

@@ -54,3 +54,5 @@ int main(void) {
 
 # See Also
 [[$ Operating Systems 2]]
+[[Linked Lists]]
+[[$ C - Programming Language]]

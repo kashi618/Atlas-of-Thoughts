@@ -78,3 +78,5 @@ void insert(ListNode **sPtr, char value) {
 ```
 # See Also
 [[$ Operating Systems 2]]
+[[Linked Lists]]
+[[$ C - Programming Language]]

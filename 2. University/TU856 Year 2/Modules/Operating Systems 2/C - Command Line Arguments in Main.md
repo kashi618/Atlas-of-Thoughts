@@ -1,6 +1,6 @@
 ---
 tags:
-  - OS2
+  - C
 aliases:
 ---
 
@@ -16,8 +16,9 @@ aliases:
 `argv[0]` is `cp`
 `argv[2]` is `file2`
 
+`argc[]` is 3
 
 
 # See Also
-[[$ Operating Systems 2]]
+[[$ C - Programming Language]]
 [[Processes - OS2]]

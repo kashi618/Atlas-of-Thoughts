@@ -52,5 +52,6 @@ void enqueue(QueueNode* *headPtr, QueueNode* *tailPtr, int value) {
 
 # See Also
 [[$ Operating Systems 2]]
+[[$ C - Programming Language]]
 [[Queue - FIFO]]
 [[Queue - dequeue() - C]]

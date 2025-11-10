@@ -4,11 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "51472daf766dd66c",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "9feb5d8f5687b7da",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. Home Page/Home.canvas",
+                "viewState": {
+                  "x": -380,
+                  "y": -160,
+                  "zoom": -0.9328131041469461
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "33456a9c5ff7fc74",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +51,12 @@
             }
           },
           {
-            "id": "25628aa91e1ec949",
+            "id": "f96a842959c12c5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
+                "file": "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - dequeue() - C.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,17 +71,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Operating Systems 2"
+              "title": "Queue - dequeue() - C"
             }
           },
           {
-            "id": "aa80094913d12bba",
+            "id": "465473385da4cee2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Operating Systems 2/Processes - Specialized C.md",
-                "mode": "source",
+                "file": "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - enqueue() - C.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,7 +95,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Processes - Specialized C"
+              "title": "Queue - enqueue() - C"
             }
           }
         ],
@@ -312,12 +331,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "aa80094913d12bba",
+  "active": "f96a842959c12c5e",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/Processes - Specialized C.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - enqueue() - C.md",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - pop() - C.md",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - push() - C.md",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Deleting Nodes - C.md",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Inserting Nodes - C.md",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Creating Nodes - C.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/processes - exec().md",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - dequeue() - C.md",
     "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/C - Command Line Arguments in Main.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/processes - fork().md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/fork() with wait().png",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Before and After fork().png",
@@ -327,14 +353,7 @@
     "3. General/Archlinux/Archlinux - Installation.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - LIFO.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Creating Nodes - C.md",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Deleting Nodes - C.md",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - dequeue() - C.md",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - enqueue() - C.md",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - push() - C.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - FIFO.md",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - pop() - C.md",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Inserting Nodes (C).md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - Inserting Nodes (C).md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Pasted image 20251101184326.png",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Pasted image 20251101184130.png",
@@ -346,7 +365,6 @@
     "3. General/Lists/Vinyl Wishlist.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/Static - Java.md",
     "2. University/TU856 Year 2/Modules/Object Oriented Programming/JavaDock.md",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/JDK JRE JVM - Java.md",
     "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251021114121.png",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 1/W1OOP_Overview.pdf",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 1/W1 programming Paradigmn S2 2025.pdf",
