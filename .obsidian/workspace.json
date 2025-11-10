@@ -10,18 +10,16 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": -380,
-                  "y": -160,
-                  "zoom": -1.5905714304665957
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
@@ -259,8 +257,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "1. Home Page/Home.canvas",
+    "conflict-files-obsidian-git.md",
     "2. University/TU856 Year 2/Modules/Java/$ Java - Programming Language.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Processes and Programs - OS2.md",
     "2. University/TU856 Year 1/Modules/Operating Systems 1/Unsorted Notes/Processes - OS1.md",
