@@ -9,23 +9,23 @@
 ## Dynamic Data Structures
 **Linked Lists**
 - [[Linked Lists]]
-- [[Linked Lists - Creating Nodes - C]] Link
-- [[Linked Lists - Inserting Nodes - C]] Link
-- [[Linked Lists - Deleting Nodes - C]] Link
+- [[Linked Lists - Creating Nodes - C]]
+- [[Linked Lists - Inserting Nodes - C]]
+- [[Linked Lists - Deleting Nodes - C]] !!! Empty
 
 **Stacks**
-- [[Stacks - LIFO]]link with lifo
-- [[Stacks - pop() - C]] link with lifo
-- [[Stacks - push() - C]]link with lifo
+- [[Stacks - LIFO]]
+- [[Stacks - pop() - C]]
+- [[Stacks - push() - C]]
 
 **Queues**
-- [[Queue - FIFO]] Link with fifo
-- [[Queue - enqueue() - C]] Link with fifo
-- [[Queue - dequeue() - C]] Link with fifo
+- [[Queue - FIFO]]
+- [[Queue - enqueue() - C]]
+- [[Queue - dequeue() - C]]
 
 ## Processes
 - [[Processes - OS1]]
-- [[Processes - OS2]]
+- [[Processes and Programs - OS2]]
 
 - [[processes - fork()]] Seperate out wait() into [[Processes - wait()]]
 - [[Processes - wait()]]
@@ -35,7 +35,9 @@
 
 `exit(1)`
 
+## Othjer
 
-[[??Heap and Stack Memory]]
+
+[[Heap and Stack Memory]]
 
 [[OS2 Potential Exam Questions]] 

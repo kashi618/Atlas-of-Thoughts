@@ -34,3 +34,4 @@ void push(StackNode* *topPtr, int value) {
 [[$ Operating Systems 2]]
 [[$ C - Programming Language]]
 [[Stacks]]
+[[Stacks - pop() - C]]

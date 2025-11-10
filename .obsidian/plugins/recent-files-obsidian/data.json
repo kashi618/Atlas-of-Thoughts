@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Processes and Programs - OS2",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Processes and Programs - OS2.md"
+    },
+    {
       "basename": "$ Operating Systems 2",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
     },
     {
-      "basename": "Queue - dequeue() - C",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - dequeue() - C.md"
+      "basename": "Processes - OS1",
+      "path": "2. University/TU856 Year 1/Modules/Operating Systems 1/Unsorted Notes/Processes - OS1.md"
     },
     {
-      "basename": "Queue - enqueue() - C",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - enqueue() - C.md"
+      "basename": "Heap and Stack Memory",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Heap and Stack Memory.md"
     },
     {
       "basename": "Stacks - pop() - C",
@@ -19,6 +23,14 @@
     {
       "basename": "Stacks - push() - C",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - push() - C.md"
+    },
+    {
+      "basename": "Queue - enqueue() - C",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - enqueue() - C.md"
+    },
+    {
+      "basename": "Queue - dequeue() - C",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - dequeue() - C.md"
     },
     {
       "basename": "Linked Lists - Deleting Nodes - C",
@@ -47,14 +59,6 @@
     {
       "basename": "processes - fork()",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/processes - fork().md"
-    },
-    {
-      "basename": "Processes - OS2",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Processes - OS2.md"
-    },
-    {
-      "basename": "Processes - OS1",
-      "path": "2. University/TU856 Year 1/Modules/Operating Systems 1/Unsorted Notes/Processes - OS1.md"
     },
     {
       "basename": "Archlinux - Installation",
@@ -195,10 +199,6 @@
     {
       "basename": "Access Modifiers - Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Access Modifiers - Java.md"
-    },
-    {
-      "basename": "Encapsulation - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Encapsulation - Java.md"
     }
   ],
   "omittedPaths": [],
