@@ -23,6 +23,15 @@
 - [[Queue - enqueue() - C]]
 - [[Queue - dequeue() - C]]
 
+## Processes
+- [[Processes - OS1]]
+- [[Processes - OS2]]
+
+- [[processes - fork()]]
+- [[processes - exec()]]
+
+- [[Processes - Specialized C]]
+
 
 
 [[??Heap and Stack Memory]]

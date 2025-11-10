@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Processes - Specialized C",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Processes - Specialized C.md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "processes - exec()",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/processes - exec().md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "processes - fork()",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/processes - fork().md"
+    },
+    {
+      "basename": "Processes - OS2",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Processes - OS2.md"
+    },
+    {
+      "basename": "Processes - OS1",
+      "path": "2. University/TU856 Year 1/Modules/Operating Systems 1/Unsorted Notes/Processes - OS1.md"
     },
     {
       "basename": "Archlinux - Installation",
@@ -15,10 +39,6 @@
     {
       "basename": "Linked Lists",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md"
-    },
-    {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
     },
     {
       "basename": "Linked Lists - Creating Nodes - C",
@@ -179,26 +199,6 @@
     {
       "basename": "Encapsulation - Java",
       "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Encapsulation - Java.md"
-    },
-    {
-      "basename": "??Abstraction - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Abstraction - Java.md"
-    },
-    {
-      "basename": "Inverse Numbers",
-      "path": "2. University/TU856 Year 1/Modules/Mathematics/Inverse Numbers.md"
-    },
-    {
-      "basename": "Euclidean Algorithm 1",
-      "path": "2. University/TU856 Year 1/Modules/Mathematics/Euclidean Algorithm 1.md"
-    },
-    {
-      "basename": "Lowest Common Multiple",
-      "path": "2. University/TU856 Year 1/Modules/Mathematics/Lowest Common Multiple.md"
-    },
-    {
-      "basename": "Negative Modulus Numbers",
-      "path": "2. University/TU856 Year 1/Modules/Mathematics/Negative Modulus Numbers.md"
     }
   ],
   "omittedPaths": [],
