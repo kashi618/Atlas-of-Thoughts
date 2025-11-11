@@ -16,7 +16,7 @@
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": -380,
+                  "x": -607.0358068614994,
                   "y": -160,
                   "zoom": -0.19676379774789465
                 }
@@ -74,7 +74,8 @@
               "title": "Threads - Creating"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -272,10 +273,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1. Home Page/Home.canvas"
+                "file": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for $ Operating Systems 2"
             }
           }
         ],
@@ -305,14 +306,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "2797f3d801bc598b",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/processes - fork().md",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Threads - Creating.md",
+    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Pasted image 20251111134815.png",
     "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md",
     "2. University/TU856 Year 1/Modules/Programming/Void Pointers - C.md",
-    "1. Home Page/Home.canvas",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
     "conflict-files-obsidian-git.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Pasted image 20251111132643.png",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Pasted image 20251111131737.png",
