@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Threads - Creating",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Threads - Creating.md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "Compiling Threads",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Compiling Threads.md"
+    },
+    {
+      "basename": "! Threads",
+      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/! Threads.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -19,10 +39,6 @@
     {
       "basename": "Processes - OS1",
       "path": "2. University/TU856 Year 1/Modules/Operating Systems 1/Unsorted Notes/Processes - OS1.md"
-    },
-    {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
     },
     {
       "basename": "Heap and Stack Memory",
@@ -183,22 +199,6 @@
     {
       "basename": "PostgreSQL - Other Useful Functions",
       "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Other Useful Functions.md"
-    },
-    {
-      "basename": "??Encapsulation - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Encapsulation - Java.md"
-    },
-    {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md"
-    },
-    {
-      "basename": "JDK JRE JVM - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/JDK JRE JVM - Java.md"
-    },
-    {
-      "basename": "Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Java.md"
     }
   ],
   "omittedPaths": [],
