@@ -32,7 +32,19 @@ int main(int argc, char *argv[]) {
 }
 ```
 ![[Pasted image 20251111132643.png]]
-- 
+
+## Thread Joining
+- pthread_join()
+- void ptr (just cuz\)
+
+Used to synchronize threads
+Lets say we create 2 threads. If the head/main thread finished first, then thread 1 and thread 2 will never run.
+- Similar to wait() in processes
+
+![[Pasted image 20251111134815.png]]
+First image has join
+second image doesnt have join()
+- You can see that in the first few cases, the parent thread finished, and is taken off the ready queue. Therefore, thread 1 and thread 2 is also removed from the ready queue.
 
 
 ## Requirements

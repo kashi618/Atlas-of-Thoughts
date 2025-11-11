@@ -79,6 +79,9 @@ aliases: []
 - [[Files - File Modes - C]]
 - [[Files - Reading and Writing to Files - C]]
 
+**Other**
+[[Void Pointers - C]]
+
 **Programming Pitfalls**
 [[$UNFINISHED Programming Pitfalls - C]]
 

@@ -74,8 +74,7 @@
               "title": "Threads - Creating"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -307,17 +305,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f5eb01210576b162",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/Threads - Creating.md",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/Pasted image 20251111134815.png",
+    "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md",
+    "2. University/TU856 Year 1/Modules/Programming/Void Pointers - C.md",
+    "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
+    "conflict-files-obsidian-git.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Pasted image 20251111132643.png",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Pasted image 20251111131737.png",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/Threads - Creating.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Compiling Threads.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/! Threads.md",
-    "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md",
-    "1. Home Page/Home.canvas",
-    "conflict-files-obsidian-git.md",
     "2. University/TU856 Year 2/Modules/Java/$ Java - Programming Language.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Processes and Programs - OS2.md",
     "2. University/TU856 Year 1/Modules/Operating Systems 1/Unsorted Notes/Processes - OS1.md",
@@ -337,7 +337,6 @@
     "2. University/TU856 Year 2/Modules/Java/Lab3.md",
     "2. University/TU856 Year 2/Modules/Java/JavaDoc.md",
     "2. University/TU856 Year 2/Modules/Java/Java.md",
-    "2. University/TU856 Year 2/Modules/Java/JDK JRE JVM - Java.md",
     "2. University/TU856 Year 2/Modules/Java",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/fork() with wait().png",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Before and After fork().png",
@@ -354,8 +353,6 @@
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 4/W4 Scanner and references.pdf",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 3/W3_Tutorial.pdf",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 3/W3_2_Strings.pdf",
-    "2. University/TU856 Year 2/Modules/Object Oriented Programming/Pasted image 20251009124000.png",
-    "2. University/TU856 Year 2/Modules/Databases 1/Pasted image 20251007114405.png",
     "Untitled.canvas"
   ]
 }
