@@ -5,6 +5,10 @@
       "path": "1. Home Page/Home.canvas"
     },
     {
+      "basename": "Obsidian Keybinds",
+      "path": "1. Home Page/Obsidian Keybinds.md"
+    },
+    {
       "basename": "$ Operating Systems 2",
       "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "$ C - Programming Language",
       "path": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md"
-    },
-    {
-      "basename": "JDK JRE JVM - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/JDK JRE JVM - Java.md"
     }
   ],
   "omittedPaths": [],
