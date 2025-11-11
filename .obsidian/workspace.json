@@ -73,9 +73,33 @@
               "icon": "lucide-file",
               "title": "Threads - Creating"
             }
+          },
+          {
+            "id": "6e8a428f50d254d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Modules/Java/Constructors - Java.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Constructors - Java"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -273,10 +297,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
+                "file": "2. University/TU856 Year 2/Modules/Java/Constructors - Java.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for $ Operating Systems 2"
+              "title": "File properties for Constructors - Java"
             }
           }
         ],
@@ -306,12 +330,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2797f3d801bc598b",
+  "active": "6e8a428f50d254d1",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/processes - fork().md",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
-    "2. University/TU856 Year 2/Modules/Operating Systems 2/Threads - Creating.md",
+    "2. University/TU856 Year 2/Modules/Java/$ Java - Programming Language.md",
     "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/processes - fork().md",
+    "2. University/TU856 Year 2/Modules/Operating Systems 2/Threads - Creating.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Pasted image 20251111134815.png",
     "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md",
     "2. University/TU856 Year 1/Modules/Programming/Void Pointers - C.md",
@@ -320,7 +345,6 @@
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Pasted image 20251111131737.png",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Compiling Threads.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/! Threads.md",
-    "2. University/TU856 Year 2/Modules/Java/$ Java - Programming Language.md",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Processes and Programs - OS2.md",
     "2. University/TU856 Year 1/Modules/Operating Systems 1/Unsorted Notes/Processes - OS1.md",
     "2. University/TU856 Year 2/Modules/Java/this - Java.md",
@@ -338,7 +362,6 @@
     "2. University/TU856 Year 2/Modules/Java/Method Overloading - Java.md",
     "2. University/TU856 Year 2/Modules/Java/Lab3.md",
     "2. University/TU856 Year 2/Modules/Java/JavaDoc.md",
-    "2. University/TU856 Year 2/Modules/Java/Java.md",
     "2. University/TU856 Year 2/Modules/Java",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/fork() with wait().png",
     "2. University/TU856 Year 2/Modules/Operating Systems 2/Before and After fork().png",
