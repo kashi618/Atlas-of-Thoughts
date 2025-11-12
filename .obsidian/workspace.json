@@ -10,21 +10,48 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
                   "x": -380,
-                  "y": -50,
-                  "zoom": -0.34900762894364656
+                  "y": 90,
+                  "zoom": -0.6007298165794729
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "374ba21d4645f1de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Java - Programming Language"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,9 +254,19 @@
               "icon": "lucide-info",
               "title": "File properties for Home"
             }
+          },
+          {
+            "id": "9a49605fd201f741",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -255,9 +292,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "374ba21d4645f1de",
   "lastOpenFiles": [
     "1. Home Page/Home.canvas",
+    "1. Home Page/Obsidian Keybinds.md",
+    "1. Home Page/Untitled.md",
+    "1. Home Page/Untitled 1.md",
+    "1. Home Page/Setup.md",
     "2. University/TU856 Year 1/Web Development/Text Boxes - JavaScript.md",
     "2. University/TU856 Year 1/Web Development/Tables - HTML.md",
     "2. University/TU856 Year 1/Web Development/Printing Variables - JavaScript.md",
@@ -280,10 +321,6 @@
     "2. University/TU856 Year 1/Programming/Switch Statement - C.md",
     "2. University/TU856 Year 1/Programming/Subscript and Pointer Notation - C.md",
     "2. University/TU856 Year 1/Programming/Structures - typedef Statement - C.md",
-    "2. University/TU856 Year 1/Programming/Structures - Structure Pointers - C.md",
-    "2. University/TU856 Year 1/Programming/Structures - Structure Arrays - C.md",
-    "2. University/TU856 Year 1/Programming/Structures - Passing to Functions - C.md",
-    "2. University/TU856 Year 1/Programming/Structures - Nested Structures - C.md",
     "2. University/TU856 Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/TU856 Year 1/Programming",
     "2. University/TU856 Year 1/Operating Systems 1/Unsorted Notes",

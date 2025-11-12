@@ -70,14 +70,10 @@
 ### Interfaces
 [[Interfaces - Java]]
 
+### Misc
 
-- [x] Constructor
-- [x] Encapsulation
-- [x] Polymorphism
-- [x] Inheritance
-- [ ] Abstraction
-- [x] Classes
-- [x] Objectsxzz
+
+
 
 # See Also
 [[$ Java - Programming Language]]
