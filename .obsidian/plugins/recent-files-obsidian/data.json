@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "$ Java - Programming Language",
+      "path": "2. University/TU856 Year 2/Java/$ Java - Programming Language.md"
+    },
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
+      "basename": "Encapsulation - Java",
+      "path": "2. University/TU856 Year 2/Java/Encapsulation - Java.md"
+    },
+    {
+      "basename": "??Encapsulation - Java",
+      "path": "2. University/TU856 Year 2/Java/??Encapsulation - Java.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "la la la ~~",
+      "path": "1. Home Page/la la la ~~.md"
+    },
+    {
+      "basename": "To Do",
+      "path": "1. Home Page/To Do.md"
+    },
+    {
+      "basename": "Applied Jobs",
+      "path": "1. Home Page/Applied Jobs.md"
+    },
+    {
+      "basename": "TU856-Year2",
+      "path": "1. Home Page/TU856-Year2.md"
     },
     {
       "basename": "Obsidian Keybinds",
@@ -10,11 +42,11 @@
     },
     {
       "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/$ Operating Systems 2.md"
+      "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
     },
     {
       "basename": "Before and After fork()",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Before and After fork().png"
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Before and After fork().png"
     },
     {
       "basename": "TV Shows & Movies & Anime & Manga",
@@ -22,63 +54,55 @@
     },
     {
       "basename": "processes - fork()",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/processes - fork().md"
-    },
-    {
-      "basename": "$ Java - Programming Language",
-      "path": "2. University/TU856 Year 2/Modules/Java/$ Java - Programming Language.md"
-    },
-    {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
+      "path": "2. University/TU856 Year 2/Operating Systems 2/processes - fork().md"
     },
     {
       "basename": "Processes and Programs - OS2",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Processes and Programs - OS2.md"
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Processes and Programs - OS2.md"
     },
     {
       "basename": "Processes - OS1",
-      "path": "2. University/TU856 Year 1/Modules/Operating Systems 1/Unsorted Notes/Processes - OS1.md"
+      "path": "2. University/TU856 Year 1/Operating Systems 1/Unsorted Notes/Processes - OS1.md"
     },
     {
       "basename": "Heap and Stack Memory",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Heap and Stack Memory.md"
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Heap and Stack Memory.md"
     },
     {
       "basename": "Stacks - pop() - C",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - pop() - C.md"
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Stacks - pop() - C.md"
     },
     {
       "basename": "Stacks - push() - C",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - push() - C.md"
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Stacks - push() - C.md"
     },
     {
       "basename": "Queue - enqueue() - C",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - enqueue() - C.md"
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Queue - enqueue() - C.md"
     },
     {
       "basename": "Queue - dequeue() - C",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - dequeue() - C.md"
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Queue - dequeue() - C.md"
     },
     {
       "basename": "Linked Lists - Deleting Nodes - C",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Deleting Nodes - C.md"
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Deleting Nodes - C.md"
     },
     {
       "basename": "Linked Lists - Inserting Nodes - C",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Inserting Nodes - C.md"
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Inserting Nodes - C.md"
     },
     {
       "basename": "Linked Lists - Creating Nodes - C",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists - Creating Nodes - C.md"
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Creating Nodes - C.md"
     },
     {
       "basename": "processes - exec()",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/processes - exec().md"
+      "path": "2. University/TU856 Year 2/Operating Systems 2/processes - exec().md"
     },
     {
       "basename": "C - Command Line Arguments in Main",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/C - Command Line Arguments in Main.md"
+      "path": "2. University/TU856 Year 2/Operating Systems 2/C - Command Line Arguments in Main.md"
     },
     {
       "basename": "Archlinux - Installation",
@@ -86,15 +110,15 @@
     },
     {
       "basename": "Stacks - LIFO",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - LIFO.md"
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Stacks - LIFO.md"
     },
     {
       "basename": "Linked Lists",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Linked Lists.md"
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Linked Lists.md"
     },
     {
       "basename": "Queue - FIFO",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/Queue - FIFO.md"
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Queue - FIFO.md"
     },
     {
       "basename": "Archlinux - Adding Drives",
@@ -106,27 +130,27 @@
     },
     {
       "basename": "OS - 9.16",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/OS - 9.16.md"
+      "path": "2. University/TU856 Year 2/Operating Systems 2/OS - 9.16.md"
     },
     {
       "basename": "OS - 9.15",
-      "path": "2. University/TU856 Year 2/Modules/Operating Systems 2/OS - 9.15.md"
+      "path": "2. University/TU856 Year 2/Operating Systems 2/OS - 9.15.md"
     },
     {
       "basename": "Getters & Setters And Gatekeeping - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Getters & Setters And Gatekeeping - Java.md"
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Getters & Setters And Gatekeeping - Java.md"
     },
     {
       "basename": "$ Java - Programming Language",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/$ Java - Programming Language.md"
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md"
     },
     {
       "basename": "Factory Methods - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Factory Methods - Java.md"
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Factory Methods - Java.md"
     },
     {
       "basename": "Static - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/Static - Java.md"
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Static - Java.md"
     },
     {
       "basename": "JavaDock",
@@ -142,63 +166,39 @@
     },
     {
       "basename": "Hill Digraph Cipher - Decrypting",
-      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Decrypting.md"
+      "path": "2. University/TU856 Year 2/Mathematics 2/Hill Digraph Cipher - Decrypting.md"
     },
     {
       "basename": "$ Mathematics 2",
-      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/$ Mathematics 2.md"
+      "path": "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md"
     },
     {
       "basename": "Modular Exponentiation",
-      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Modular Exponentiation.md"
+      "path": "2. University/TU856 Year 2/Mathematics 2/Modular Exponentiation.md"
     },
     {
       "basename": "Fast Exponentiation",
-      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Fast Exponentiation.md"
+      "path": "2. University/TU856 Year 2/Mathematics 2/Fast Exponentiation.md"
     },
     {
       "basename": "Incongruent Solutions",
-      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Incongruent Solutions.md"
+      "path": "2. University/TU856 Year 2/Mathematics 2/Incongruent Solutions.md"
     },
     {
       "basename": "Hill Digraph Cipher - Encrypting",
-      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Hill Digraph Cipher - Encrypting.md"
+      "path": "2. University/TU856 Year 2/Mathematics 2/Hill Digraph Cipher - Encrypting.md"
     },
     {
       "basename": "Chinese Remainder Theorem",
-      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Chinese Remainder Theorem.md"
+      "path": "2. University/TU856 Year 2/Mathematics 2/Chinese Remainder Theorem.md"
     },
     {
       "basename": "Diophantine Equations",
-      "path": "2. University/TU856 Year 2/Modules/Mathematics 2/Diophantine Equations.md"
+      "path": "2. University/TU856 Year 2/Mathematics 2/Diophantine Equations.md"
     },
     {
       "basename": "Fermat's Little Theorum",
-      "path": "2. University/TU856 Year 1/Modules/Mathematics/Fermat's Little Theorum.md"
-    },
-    {
-      "basename": "Vinyl Wishlist",
-      "path": "3. General/Lists/Vinyl Wishlist.md"
-    },
-    {
-      "basename": "$ Databases 1",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/$ Databases 1.md"
-    },
-    {
-      "basename": "PostgreSQL - Creating Functions",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Creating Functions.md"
-    },
-    {
-      "basename": "PostgreSQL - Other Useful Functions",
-      "path": "2. University/TU856 Year 2/Modules/Databases 1/PostgreSQL - Other Useful Functions.md"
-    },
-    {
-      "basename": "??Encapsulation - Java",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/??Encapsulation - Java.md"
-    },
-    {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/TU856 Year 1/Modules/Programming/$ C - Programming Language.md"
+      "path": "2. University/TU856 Year 1/Mathematics/Fermat's Little Theorum.md"
     }
   ],
   "omittedPaths": [],
