@@ -25,8 +25,6 @@
 - [[Instantiating Objects - Java]]
 	- [[new - Java]]
 
-### Arrays
-[[??Arrays of Objects - Java]]
 
 
 
@@ -41,7 +39,7 @@
 
 
 ### Inheritance
-
+[[Inheritance - Ja]]
 
 ### Polymorphism
 
@@ -67,6 +65,10 @@
 
 ### Interfaces
 [[Interfaces - Java]]
+
+
+### Arrays
+[[??Arrays of Objects - Java]]
 
 
 - [x] Constructor
