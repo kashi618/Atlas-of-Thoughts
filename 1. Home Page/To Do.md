@@ -1,0 +1,15 @@
+- Neovim Configuration
+- ~~Waybar Configuration~~
+	- ~~Wifi and Bluetooth modules~~
+	- ~~Pipewire audio module~~
+	- Constant Upgrade
+
+- Hyprshell Configuration
+- ~~FF7 Remake~~
+- Half life alyx
+- ~~Virtual Box on thinkpad~~
+- ~~Dual boot windows on main~~
+- AI to study
+	- Use to ask questions 
+- Obsidian shortkeys
+- waybar (wifi) add colour green yellow oragne red for signal strength

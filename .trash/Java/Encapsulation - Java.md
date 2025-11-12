@@ -26,7 +26,16 @@ Allows you to restrict access to attributes
 - Hides complexity and implements details
 	- Just call methods, no need to know the details
 
-## Where to Get Started?
+## Encapsulation Uses
+**Methods**
+Sometimes you want to encapsulate certain methods, to prevent missuse of them. 
+For example, if we had a method to add funds to a bank account, we want to keep this private.
+
+```java showlinenumbers
+private addFunds(int amount);
+```
+
+**Access Modifiers**
 [[Access Modifiers - Java]]
 Allows you to create public, private, and protected modifiers
 

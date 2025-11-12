@@ -25,8 +25,6 @@
 - [[Instantiating Objects - Java]]
 	- [[new - Java]]
 
-### Arrays
-[[??Arrays of Objects - Java]]
 
 
 
@@ -41,14 +39,14 @@
 
 
 ### Inheritance
-
+[[Inheritance - Java]]
 
 ### Polymorphism
 
 [[??Override - Java]]
 
  
- [[Inheritance - Java]]
+ [[! Inheritance - Java]]
 - [[??Object() Class - Java]]
 - [[??Extends - Java]] Could merge into inheritance. Maybe use inheritance for theory, and this for syntax
 - [[??Super - Java]]
@@ -67,6 +65,10 @@
 
 ### Interfaces
 [[Interfaces - Java]]
+
+
+### Arrays
+[[??Arrays of Objects - Java]]
 
 
 - [x] Constructor
