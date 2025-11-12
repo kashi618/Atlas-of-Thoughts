@@ -49,9 +49,33 @@
               "icon": "lucide-file",
               "title": "$ Java - Programming Language"
             }
+          },
+          {
+            "id": "02e40d0074273ed8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Object Oriented Programming/File Handling - Java.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "File Handling - Java"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -292,8 +316,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "374ba21d4645f1de",
+  "active": "02e40d0074273ed8",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Object Oriented Programming/File Handling - Java.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/Wrapper Classes - Java.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/\"==\" vs \".equals\" - Java.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/arrayLists - Java.md",
     "1. Home Page/Home.canvas",
     "1. Home Page/Obsidian Keybinds.md",
     "1. Home Page/Untitled.md",
@@ -317,10 +346,6 @@
     "2. University/TU856 Year 1/Programming/Void Pointers - C.md",
     "2. University/TU856 Year 1/Programming/Variables - C.md",
     "2. University/TU856 Year 1/Programming/Variable Naming Schemes.md",
-    "2. University/TU856 Year 1/Programming/Symbolic Names - C.md",
-    "2. University/TU856 Year 1/Programming/Switch Statement - C.md",
-    "2. University/TU856 Year 1/Programming/Subscript and Pointer Notation - C.md",
-    "2. University/TU856 Year 1/Programming/Structures - typedef Statement - C.md",
     "2. University/TU856 Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/TU856 Year 1/Programming",
     "2. University/TU856 Year 1/Operating Systems 1/Unsorted Notes",
