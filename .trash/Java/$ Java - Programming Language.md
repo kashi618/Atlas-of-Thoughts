@@ -39,14 +39,14 @@
 
 
 ### Inheritance
-[[Inheritance - Ja]]
+[[Inheritance - Java]]
 
 ### Polymorphism
 
 [[??Override - Java]]
 
  
- [[Inheritance - Java]]
+ [[! Inheritance - Java]]
 - [[??Object() Class - Java]]
 - [[??Extends - Java]] Could merge into inheritance. Maybe use inheritance for theory, and this for syntax
 - [[??Super - Java]]
