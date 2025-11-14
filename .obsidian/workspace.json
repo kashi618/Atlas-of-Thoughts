@@ -25,57 +25,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "051253128fd68550",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Object Oriented Programming/Inheritance - Java.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Inheritance - Java"
-            }
-          },
-          {
-            "id": "5fc5d4ce44ede74b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Object Oriented Programming/!Inheritance - Java.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "!Inheritance - Java"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,8 +99,19 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "6bbae945a88d5d2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "45faf731fac48a99",
@@ -296,11 +258,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5fc5d4ce44ede74b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Object Oriented Programming/!Inheritance - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Inheritance - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/!Inheritance - Java.md",
     "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Java/$ Java - Programming Language.md",
     "2. University/TU856 Year 2/Java/! Inheritance - Java.md",
