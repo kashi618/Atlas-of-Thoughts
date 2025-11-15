@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -18,88 +17,14 @@
                 "viewState": {
                   "x": -380,
                   "y": 90,
-                  "zoom": -0.7931690158142932
+                  "zoom": -0.6761723721971563
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "f73b66d7ce6b2ef8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ Mathematics 2"
-            }
-          },
-          {
-            "id": "bc76f5e39e8f13ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Mathematics 2/Fast Exponentiation.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Fast Exponentiation"
-            }
-          },
-          {
-            "id": "6af5176afc1810d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -331,10 +256,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6af5176afc1810d7",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Mathematics 2/Fast Exponentiation.md",
     "conflict-files-obsidian-git.md",
+    "2. University/TU856 Year 2/Mathematics 2/Fast Exponentiation.md",
     "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md",
     "2. University/TU856 Year 2/Mathematics 2/Hill Digraph Cipher - Encrypting.md",
     "2. University/TU856 Year 1/Mathematics/Euclidean Algorithm 2.md",
