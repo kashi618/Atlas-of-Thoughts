@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -20,11 +21,37 @@
                   "zoom": -0.6761723721971563
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "cc40397d9437d65d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Operating Systems 2/Programs, Processes, Threads - OS2.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Programs, Processes, Threads - OS2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,8 +283,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "cc40397d9437d65d",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
+    "1. Home Page/Home.canvas",
     "conflict-files-obsidian-git.md",
     "2. University/TU856 Year 2/Mathematics 2/Fast Exponentiation.md",
     "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md",
@@ -267,9 +296,7 @@
     "2. University/TU856 Year 1/Programming/$ C - Programming Language.md",
     "2. University/TU856 Year 1/Programming/Dynamic Memory Allocation - C.md",
     "2. University/TU856 Year 1/Programming/Structures - Anatomy - C.md",
-    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
     "2. University/TU856 Year 2/Operating Systems 2/Queue - enqueue() - C.md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Operating Systems 2/Programs, Processes, Threads - OS2.md",
     "2. University/TU856 Year 1/Operating Systems 1/Unsorted Notes/Processes - OS1.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Encapsulation - Java.md",
@@ -284,7 +311,6 @@
     "2. University/TU856 Year 2/Object Oriented Programming/!Inheritance - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Inheritance - Java.md",
     "2. University/TU856 Year 2/Java/$ Java - Programming Language.md",
-    "2. University/TU856 Year 2/Java/! Inheritance - Java.md",
     "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251111134815.png",
     "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251111132643.png",
     "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251111131737.png",
