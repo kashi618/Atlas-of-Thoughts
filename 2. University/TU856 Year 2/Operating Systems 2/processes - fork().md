@@ -40,4 +40,4 @@ Can be used with an `if-then-else` condition to synchronize parent processes exe
 
 # See Also
 [[$ Operating Systems 2]]
-[[Processes and Programs - OS2]]
+[[Programs, Processes, Threads - OS2]]

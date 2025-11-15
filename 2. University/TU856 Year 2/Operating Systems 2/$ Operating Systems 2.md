@@ -25,7 +25,7 @@
 
 ## Processes
 - [[Processes - OS1]]
-- [[Processes and Programs - OS2]]
+- [[Programs, Processes, Threads - OS2]]
 
 - [[processes - fork()]] Seperate out wait() into [[Processes - wait()]]
 - [[Processes - wait()]]
@@ -37,9 +37,11 @@
 
 - [[C - Command Line Arguments in Main]]
 
+- Thread Management
+
 `exit(1)`
 
-## Othjer
+## Other
 
 
 [[Heap and Stack Memory]]

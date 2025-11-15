@@ -75,7 +75,7 @@
 
 ### Misc
 [[Wrapper Classes - Java]]
-[["==" vs ".equals" - Java]]
+[[== vs .equals - Java]]
 
 
 
