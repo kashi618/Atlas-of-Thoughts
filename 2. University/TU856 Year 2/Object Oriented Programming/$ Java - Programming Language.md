@@ -25,9 +25,6 @@
 - [[Instantiating Objects - Java]]
 	- [[new - Java]]
 
-### Arrays
-[[??Arrays of Objects - Java]]
-
 
 
 ### Encapsulation
@@ -70,14 +67,17 @@
 ### Interfaces
 [[Interfaces - Java]]
 
+### Arrays
+[[arrayLists - Java]]
 
-- [x] Constructor
-- [x] Encapsulation
-- [x] Polymorphism
-- [x] Inheritance
-- [ ] Abstraction
-- [x] Classes
-- [x] Objectsxzz
+### File Handling
+[[File Handling - Java]]
+
+### Misc
+[[Wrapper Classes - Java]]
+[["==" vs ".equals" - Java]]
+
+
 
 # See Also
 [[$ Java - Programming Language]]

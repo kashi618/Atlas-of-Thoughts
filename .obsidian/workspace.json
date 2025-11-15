@@ -17,16 +17,89 @@
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
                   "x": -380,
-                  "y": -50,
-                  "zoom": -0.34900762894364656
+                  "y": 90,
+                  "zoom": -0.7931690158142932
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "f73b66d7ce6b2ef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Mathematics 2"
+            }
+          },
+          {
+            "id": "bc76f5e39e8f13ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Mathematics 2/Fast Exponentiation.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Fast Exponentiation"
+            }
+          },
+          {
+            "id": "6af5176afc1810d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -258,39 +331,39 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6af5176afc1810d7",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Mathematics 2/Fast Exponentiation.md",
+    "conflict-files-obsidian-git.md",
+    "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md",
+    "2. University/TU856 Year 2/Mathematics 2/Hill Digraph Cipher - Encrypting.md",
+    "2. University/TU856 Year 1/Mathematics/Euclidean Algorithm 2.md",
+    "2. University/TU856 Year 2/Mathematics 2/Diophantine Equations.md",
+    "2. University/TU856 Year 1/Programming/$ C - Programming Language.md",
+    "2. University/TU856 Year 1/Programming/Dynamic Memory Allocation - C.md",
+    "2. University/TU856 Year 1/Programming/Structures - Anatomy - C.md",
+    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Queue - enqueue() - C.md",
+    "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Operating Systems 2/Programs, Processes, Threads - OS2.md",
+    "2. University/TU856 Year 1/Operating Systems 1/Unsorted Notes/Processes - OS1.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/Encapsulation - Java.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/??Encapsulation - Java.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/Access Modifiers - Java.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/== vs .equals - Java.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/arrayLists - Java.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/Wrapper Classes - Java.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/File Handling - Java.md",
+    "1. Home Page/Setup.md",
     "2. University/TU856 Year 2/Object Oriented Programming/!Inheritance - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Inheritance - Java.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Java/$ Java - Programming Language.md",
     "2. University/TU856 Year 2/Java/! Inheritance - Java.md",
-    "conflict-files-obsidian-git.md",
-    "2. University/TU856 Year 2/Java/Encapsulation - Java.md",
-    "2. University/TU856 Year 2/Java/??Encapsulation - Java.md",
-    "1. Home Page/To Do.md",
-    "1. Home Page/la la la ~~.md",
-    "1. Home Page/TU856-Year2.md",
-    "1. Home Page/Applied Jobs.md",
-    "1. Home Page/Obsidian Keybinds.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Threads - Creating.md",
     "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251111134815.png",
     "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251111132643.png",
     "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251111131737.png",
-    "2. University/TU856 Year 2/Operating Systems 2/Compiling Threads.md",
-    "2. University/TU856 Year 2/Operating Systems 2/! Threads.md",
-    "2. University/TU856 Year 1/Programming/Void Pointers - C.md",
-    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
     "2. University/TU856 Year 2/Operating Systems 2/Before and After fork().png",
-    "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
-    "2. University/TU856 Year 2/Operating Systems 2/processes - fork().md",
-    "2. University/TU856 Year 2/Operating Systems 2/Processes and Programs - OS2.md",
-    "2. University/TU856 Year 1/Operating Systems 1/Unsorted Notes/Processes - OS1.md",
-    "2. University/TU856 Year 2/Java/this - Java.md",
-    "2. University/TU856 Year 2/Java/new - Java.md",
-    "2. University/TU856 Year 2/Java/What are Classes and Objects - Java.md",
-    "2. University/TU856 Year 2/Java/Untitled.md",
     "2. University/TU856 Year 2/Java/Pasted image 20251009124000.png",
     "2. University/TU856 Year 2/Java",
     "2. University/TU856 Year 2/Operating Systems 2/fork() with wait().png",
