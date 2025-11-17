@@ -16,42 +16,17 @@
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": -380,
-                  "y": 90,
-                  "zoom": -0.6761723721971563
+                  "x": -680,
+                  "y": -18.5,
+                  "zoom": -0.5646138553293537
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "cc40397d9437d65d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Operating Systems 2/Programs, Processes, Threads - OS2.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Programs, Processes, Threads - OS2"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,19 +38,16 @@
       {
         "id": "ff031eabd63b1eba",
         "type": "tabs",
-        "dimension": 70.6896551724138,
+        "dimension": 79.47813822284908,
         "children": [
           {
-            "id": "6067b0fd6fbf0ef1",
+            "id": "13a642ce82b34c7e",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
             }
           },
           {
@@ -84,18 +56,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "recent-files"
-            }
-          },
-          {
-            "id": "afa409a84e75fce7",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -109,12 +71,35 @@
             }
           },
           {
-            "id": "2f97cd0d4f1c4faf",
+            "id": "afa409a84e75fce7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "b2d070130b9294f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "41c5e166f0af7e1e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ComputerScience",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,24 +109,13 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "6bbae945a88d5d2e",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "file-tree-view"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "45faf731fac48a99",
         "type": "tabs",
-        "dimension": 29.310344827586206,
+        "dimension": 20.52186177715091,
         "children": [
           {
             "id": "ba6229f6c5111145",
@@ -149,8 +123,8 @@
             "state": {
               "type": "pet-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "pet-view"
+              "icon": "cat",
+              "title": "Pet view"
             }
           }
         ]
@@ -173,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/TU856 Year 2/Modules/Operating Systems 2/Stacks - LIFO.md",
+                "file": "1. Home Page/Home.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Stacks - LIFO"
+              "title": "Outline of Home"
             }
           },
           {
@@ -250,19 +224,17 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "1. Home Page/Home.canvas"
+                "file": "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for $ Java - Programming Language"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 519.5,
-    "collapsed": true
+    "width": 519.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,16 +248,26 @@
       "templater-obsidian:Templater": false,
       "widgets:Add widget": false,
       "omnisearch:Omnisearch": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-git:Open Git source control": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "cc40397d9437d65d",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
     "1. Home Page/Home.canvas",
+    "1. Home Page/Setup.md",
+    "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md",
+    "2. University/TU856 Year 2/Software Engineering 1/$ Software Engineering 1.md",
+    "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md",
+    "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
+    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Programs, Processes, Threads - OS2.md",
     "conflict-files-obsidian-git.md",
     "2. University/TU856 Year 2/Mathematics 2/Fast Exponentiation.md",
-    "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md",
     "2. University/TU856 Year 2/Mathematics 2/Hill Digraph Cipher - Encrypting.md",
     "2. University/TU856 Year 1/Mathematics/Euclidean Algorithm 2.md",
     "2. University/TU856 Year 2/Mathematics 2/Diophantine Equations.md",
@@ -293,20 +275,14 @@
     "2. University/TU856 Year 1/Programming/Dynamic Memory Allocation - C.md",
     "2. University/TU856 Year 1/Programming/Structures - Anatomy - C.md",
     "2. University/TU856 Year 2/Operating Systems 2/Queue - enqueue() - C.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Programs, Processes, Threads - OS2.md",
     "2. University/TU856 Year 1/Operating Systems 1/Unsorted Notes/Processes - OS1.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Encapsulation - Java.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
     "2. University/TU856 Year 2/Object Oriented Programming/??Encapsulation - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Access Modifiers - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/== vs .equals - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/arrayLists - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Wrapper Classes - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/File Handling - Java.md",
-    "1. Home Page/Setup.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/!Inheritance - Java.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/Inheritance - Java.md",
-    "2. University/TU856 Year 2/Java/$ Java - Programming Language.md",
     "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251111134815.png",
     "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251111132643.png",
     "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251111131737.png",

@@ -1,28 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "Programs, Processes, Threads - OS2",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Programs, Processes, Threads - OS2.md"
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
     },
     {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
+      "basename": "$ Java - Programming Language",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md"
+    },
+    {
+      "basename": "Applied Jobs",
+      "path": "1. Home Page/Applied Jobs.md"
+    },
+    {
+      "basename": "To Do",
+      "path": "1. Home Page/To Do.md"
+    },
+    {
+      "basename": "la la la ~~",
+      "path": "1. Home Page/la la la ~~.md"
+    },
+    {
+      "basename": "Setup",
+      "path": "1. Home Page/Setup.md"
     },
     {
       "basename": "TU856-Year2",
       "path": "1. Home Page/TU856-Year2.md"
     },
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
-    },
-    {
-      "basename": "Fast Exponentiation",
-      "path": "2. University/TU856 Year 2/Mathematics 2/Fast Exponentiation.md"
+      "basename": "Obsidian Keybinds",
+      "path": "1. Home Page/Obsidian Keybinds.md"
     },
     {
       "basename": "$ Mathematics 2",
       "path": "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md"
+    },
+    {
+      "basename": "$ Software Engineering 1",
+      "path": "2. University/TU856 Year 2/Software Engineering 1/$ Software Engineering 1.md"
+    },
+    {
+      "basename": "$ Web Development 2",
+      "path": "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md"
+    },
+    {
+      "basename": "$ Databases 1",
+      "path": "2. University/TU856 Year 2/Databases 1/$ Databases 1.md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "Programs, Processes, Threads - OS2",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Programs, Processes, Threads - OS2.md"
+    },
+    {
+      "basename": "Fast Exponentiation",
+      "path": "2. University/TU856 Year 2/Mathematics 2/Fast Exponentiation.md"
     },
     {
       "basename": "Hill Digraph Cipher - Encrypting",
@@ -57,16 +93,8 @@
       "path": "2. University/TU856 Year 1/Operating Systems 1/Unsorted Notes/Processes - OS1.md"
     },
     {
-      "basename": "Obsidian Keybinds",
-      "path": "1. Home Page/Obsidian Keybinds.md"
-    },
-    {
       "basename": "Encapsulation - Java",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/Encapsulation - Java.md"
-    },
-    {
-      "basename": "$ Java - Programming Language",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md"
     },
     {
       "basename": "??Encapsulation - Java",
@@ -87,18 +115,6 @@
     {
       "basename": "Inheritance - Java",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/Inheritance - Java.md"
-    },
-    {
-      "basename": "la la la ~~",
-      "path": "1. Home Page/la la la ~~.md"
-    },
-    {
-      "basename": "To Do",
-      "path": "1. Home Page/To Do.md"
-    },
-    {
-      "basename": "Applied Jobs",
-      "path": "1. Home Page/Applied Jobs.md"
     },
     {
       "basename": "Before and After fork()",
@@ -183,18 +199,6 @@
     {
       "basename": "Getters & Setters And Gatekeeping - Java",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/Getters & Setters And Gatekeeping - Java.md"
-    },
-    {
-      "basename": "Factory Methods - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Factory Methods - Java.md"
-    },
-    {
-      "basename": "Static - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Static - Java.md"
-    },
-    {
-      "basename": "JavaDock",
-      "path": "2. University/TU856 Year 2/Modules/Object Oriented Programming/JavaDock.md"
     }
   ],
   "omittedPaths": [],
