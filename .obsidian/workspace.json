@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -18,10 +17,9 @@
                 "viewState": {
                   "x": -680,
                   "y": -18.5,
-                  "zoom": -0.5646138553293537
+                  "zoom": -2.641077697630436
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
@@ -257,15 +255,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Programs, Processes, Threads - OS2.md",
     "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
     "1. Home Page/Setup.md",
     "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md",
     "2. University/TU856 Year 2/Software Engineering 1/$ Software Engineering 1.md",
     "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md",
     "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
     "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Programs, Processes, Threads - OS2.md",
     "conflict-files-obsidian-git.md",
     "2. University/TU856 Year 2/Mathematics 2/Fast Exponentiation.md",
     "2. University/TU856 Year 2/Mathematics 2/Hill Digraph Cipher - Encrypting.md",

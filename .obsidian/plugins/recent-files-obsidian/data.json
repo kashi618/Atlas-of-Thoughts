@@ -5,6 +5,10 @@
       "path": "1. Home Page/Home.canvas"
     },
     {
+      "basename": "Programs, Processes, Threads - OS2",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Programs, Processes, Threads - OS2.md"
+    },
+    {
       "basename": "$ Java - Programming Language",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "$ Operating Systems 2",
       "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
-    },
-    {
-      "basename": "Programs, Processes, Threads - OS2",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Programs, Processes, Threads - OS2.md"
     },
     {
       "basename": "Fast Exponentiation",
