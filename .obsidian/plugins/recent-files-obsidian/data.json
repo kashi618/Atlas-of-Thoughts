@@ -5,6 +5,18 @@
       "path": "1. Home Page/Home.canvas"
     },
     {
+      "basename": "$ Databases 1",
+      "path": "2. University/TU856 Year 2/Databases 1/$ Databases 1.md"
+    },
+    {
+      "basename": "PostgreSQL - concat Alternative",
+      "path": "2. University/TU856 Year 2/Databases 1/PostgreSQL - concat Alternative.md"
+    },
+    {
+      "basename": "PostgreSQL - Functions",
+      "path": "2. University/TU856 Year 2/Databases 1/PostgreSQL - Functions.md"
+    },
+    {
       "basename": "Programs, Processes, Threads - OS2",
       "path": "2. University/TU856 Year 2/Operating Systems 2/Programs, Processes, Threads - OS2.md"
     },
@@ -47,10 +59,6 @@
     {
       "basename": "$ Web Development 2",
       "path": "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md"
-    },
-    {
-      "basename": "$ Databases 1",
-      "path": "2. University/TU856 Year 2/Databases 1/$ Databases 1.md"
     },
     {
       "basename": "$ Operating Systems 2",
@@ -191,14 +199,6 @@
     {
       "basename": "OS - 9.16",
       "path": "2. University/TU856 Year 2/Operating Systems 2/OS - 9.16.md"
-    },
-    {
-      "basename": "OS - 9.15",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/OS - 9.15.md"
-    },
-    {
-      "basename": "Getters & Setters And Gatekeeping - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Getters & Setters And Gatekeeping - Java.md"
     }
   ],
   "omittedPaths": [],
