@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Probability P(A)",
+      "path": "2. University/TU856 Year 2/Mathematics 2/Probability P(A).md"
+    },
+    {
+      "basename": "$ Mathematics 2",
+      "path": "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md"
+    },
+    {
+      "basename": "A Compliment - A'",
+      "path": "2. University/TU856 Year 2/Mathematics 2/A Compliment - A'.md"
+    },
+    {
+      "basename": "Combinations and Permutations",
+      "path": "2. University/TU856 Year 2/Mathematics 2/Combinations and Permutations.md"
+    },
+    {
+      "basename": "Sample Space",
+      "path": "2. University/TU856 Year 2/Mathematics 2/Sample Space.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -47,10 +67,6 @@
     {
       "basename": "Obsidian Keybinds",
       "path": "1. Home Page/Obsidian Keybinds.md"
-    },
-    {
-      "basename": "$ Mathematics 2",
-      "path": "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md"
     },
     {
       "basename": "$ Software Engineering 1",
@@ -183,22 +199,6 @@
     {
       "basename": "Linked Lists",
       "path": "2. University/TU856 Year 2/Operating Systems 2/Linked Lists.md"
-    },
-    {
-      "basename": "Queue - FIFO",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Queue - FIFO.md"
-    },
-    {
-      "basename": "Archlinux - Adding Drives",
-      "path": "3. General/Archlinux/Archlinux - Adding Drives.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "OS - 9.16",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/OS - 9.16.md"
     }
   ],
   "omittedPaths": [],

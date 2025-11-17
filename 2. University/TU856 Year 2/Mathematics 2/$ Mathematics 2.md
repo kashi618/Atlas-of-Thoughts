@@ -1,4 +1,5 @@
 
+## Number Theory##
 **Inverse of a Modulo Number**
 [[Diophantine Equations]]
 
@@ -21,3 +22,9 @@
 
 **Finding unique solutions of $ax≡b(mod\>n)$**
 [[Incongruent Solutions]]
+
+## Probability and Statistics
+[[Sample Space]]
+[[Combinations and Permutations]]
+[[A Compliment - A']]
+[[Probability P(A)]]

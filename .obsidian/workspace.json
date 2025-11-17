@@ -25,8 +25,57 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "a265ad96f1c28ef0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Mathematics 2"
+            }
+          },
+          {
+            "id": "2fdcae030ff7cf70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Mathematics 2/Probability P(A).md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Probability P(A)"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 346.5,
+    "collapsed": true
   },
   "right": {
     "id": "a004b30a86264a3d",
@@ -147,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Home Page/Home.canvas",
+                "file": "2. University/TU856 Year 2/Mathematics 2/Probability P(A).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Probability P(A)"
             }
           },
           {
@@ -256,16 +306,20 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "2fdcae030ff7cf70",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Mathematics 2/Probability P(A).md",
+    "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md",
+    "2. University/TU856 Year 2/Mathematics 2/A Compliment - A'.md",
+    "2. University/TU856 Year 2/Mathematics 2/Combinations and Permutations.md",
+    "2. University/TU856 Year 2/Mathematics 2/Sample Space.md",
+    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
     "2. University/TU856 Year 2/Databases 1/PostgreSQL - concat Alternative.md",
     "2. University/TU856 Year 2/Databases 1/PostgreSQL - Functions.md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Operating Systems 2/Programs, Processes, Threads - OS2.md",
     "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
     "1. Home Page/Setup.md",
-    "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md",
     "2. University/TU856 Year 2/Software Engineering 1/$ Software Engineering 1.md",
     "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md",
     "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
@@ -281,10 +335,6 @@
     "2. University/TU856 Year 1/Operating Systems 1/Unsorted Notes/Processes - OS1.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Encapsulation - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/??Encapsulation - Java.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/Access Modifiers - Java.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/== vs .equals - Java.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/arrayLists - Java.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/Wrapper Classes - Java.md",
     "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251111134815.png",
     "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251111132643.png",
     "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251111131737.png",
