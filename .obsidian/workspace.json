@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -680,
                   "y": -18.5,
-                  "zoom": -2.641077697630436
+                  "zoom": -1.2555592852716473
                 }
               },
               "pinned": true,
@@ -234,7 +234,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 519.5
+    "width": 519.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,8 +258,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Operating Systems 2/Programs, Processes, Threads - OS2.md",
     "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Operating Systems 2/Programs, Processes, Threads - OS2.md",
     "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
     "1. Home Page/Setup.md",
     "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md",
