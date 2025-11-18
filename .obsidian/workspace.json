@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -18,10 +17,9 @@
                 "viewState": {
                   "x": -680,
                   "y": -18.5,
-                  "zoom": -1.2555592852716473
+                  "zoom": -1.4291586075234965
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
@@ -258,12 +256,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md",
     "2. University/TU856 Year 2/Mathematics 2/Properties of Probability Spaces.md",
     "2. University/TU856 Year 2/Mathematics 2/De Morgan's Law.md",
     "2. University/TU856 Year 2/Mathematics 2/Pasted image 20251118002653.png",
     "2. University/TU856 Year 2/Mathematics 2/A Compliment.md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Mathematics 2/Probability P(A).md",
     "2. University/TU856 Year 2/Mathematics 2/Combinations and Permutations.md",
     "2. University/TU856 Year 2/Mathematics 2/Sample Space.md",
