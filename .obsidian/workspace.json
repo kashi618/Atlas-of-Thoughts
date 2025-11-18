@@ -10,21 +10,144 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
                   "x": -680,
-                  "y": -18.5,
-                  "zoom": -1.4291586075234965
+                  "y": 185.186651719946,
+                  "zoom": -0.2625660743767063
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "26f3ad216975ba1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Mathematics 2"
+            }
+          },
+          {
+            "id": "75de1df8ac01d6dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Mathematics 2/Bernoulli Trials - Bernoulli Distribution.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bernoulli Trials - Bernoulli Distribution"
+            }
+          },
+          {
+            "id": "e3d9702675a26438",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Mathematics 2/Independent Events.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Independent Events"
+            }
+          },
+          {
+            "id": "397716752a4d988b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Operating Systems 2"
+            }
+          },
+          {
+            "id": "e93348bdca84865a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Operating Systems 2/Concurrent and Parallel Synchronization.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Concurrent and Parallel Synchronization"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -108,7 +231,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "45faf731fac48a99",
@@ -254,10 +378,20 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e93348bdca84865a",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251118105509.png",
+    "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251118105455.png",
+    "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251118105454.png",
+    "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251118105452.png",
+    "2. University/TU856 Year 2/Operating Systems 2/Concurrent and Parallel Synchronization.md",
+    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
     "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Mathematics 2/Independent Events.md",
+    "2. University/TU856 Year 2/Mathematics 2/Bernoulli Trials - Bernoulli Distribution.md",
     "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md",
+    "2. University/TU856 Year 2/Mathematics 2/Conditional Probability.md",
+    "2. University/TU856 Year 2/Mathematics 2/Diophantine Equations.md",
     "2. University/TU856 Year 2/Mathematics 2/Properties of Probability Spaces.md",
     "2. University/TU856 Year 2/Mathematics 2/De Morgan's Law.md",
     "2. University/TU856 Year 2/Mathematics 2/Pasted image 20251118002653.png",
@@ -273,16 +407,10 @@
     "1. Home Page/Setup.md",
     "2. University/TU856 Year 2/Software Engineering 1/$ Software Engineering 1.md",
     "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md",
-    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
     "conflict-files-obsidian-git.md",
     "2. University/TU856 Year 2/Mathematics 2/Fast Exponentiation.md",
     "2. University/TU856 Year 2/Mathematics 2/Hill Digraph Cipher - Encrypting.md",
     "2. University/TU856 Year 1/Mathematics/Euclidean Algorithm 2.md",
-    "2. University/TU856 Year 2/Mathematics 2/Diophantine Equations.md",
-    "2. University/TU856 Year 1/Programming/$ C - Programming Language.md",
-    "2. University/TU856 Year 1/Programming/Dynamic Memory Allocation - C.md",
-    "2. University/TU856 Year 1/Programming/Structures - Anatomy - C.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Queue - enqueue() - C.md",
     "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251111134815.png",
     "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251111132643.png",
     "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251111131737.png",
@@ -291,9 +419,6 @@
     "2. University/TU856 Year 2/Java",
     "2. University/TU856 Year 2/Operating Systems 2/fork() with wait().png",
     "9. TEMP",
-    "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251101184326.png",
-    "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251101184130.png",
-    "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251101163235.png",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 1/W1OOP_Overview.pdf",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 1/W1 programming Paradigmn S2 2025.pdf",
     "2. University/PDF's/CMPU 2016 - Object Oriented Programming/Week 1/Characteristics and Fundamentals of Java.pdf",

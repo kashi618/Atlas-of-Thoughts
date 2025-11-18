@@ -41,6 +41,10 @@
 
 `exit(1)`
 
+
+**Process and Thread Synchronization**
+[[Concurrent and Parallel Synchronization]]
+
 ## Other
 
 

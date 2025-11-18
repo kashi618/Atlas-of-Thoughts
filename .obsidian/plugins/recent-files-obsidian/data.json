@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Concurrent and Parallel Synchronization",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Concurrent and Parallel Synchronization.md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
     {
+      "basename": "Independent Events",
+      "path": "2. University/TU856 Year 2/Mathematics 2/Independent Events.md"
+    },
+    {
+      "basename": "Bernoulli Trials - Bernoulli Distribution",
+      "path": "2. University/TU856 Year 2/Mathematics 2/Bernoulli Trials - Bernoulli Distribution.md"
+    },
+    {
       "basename": "$ Mathematics 2",
       "path": "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md"
+    },
+    {
+      "basename": "Conditional Probability",
+      "path": "2. University/TU856 Year 2/Mathematics 2/Conditional Probability.md"
+    },
+    {
+      "basename": "Diophantine Equations",
+      "path": "2. University/TU856 Year 2/Mathematics 2/Diophantine Equations.md"
     },
     {
       "basename": "Properties of Probability Spaces",
@@ -89,10 +113,6 @@
       "path": "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md"
     },
     {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
-    },
-    {
       "basename": "Fast Exponentiation",
       "path": "2. University/TU856 Year 2/Mathematics 2/Fast Exponentiation.md"
     },
@@ -103,10 +123,6 @@
     {
       "basename": "Euclidean Algorithm 2",
       "path": "2. University/TU856 Year 1/Mathematics/Euclidean Algorithm 2.md"
-    },
-    {
-      "basename": "Diophantine Equations",
-      "path": "2. University/TU856 Year 2/Mathematics 2/Diophantine Equations.md"
     },
     {
       "basename": "$ C - Programming Language",
@@ -183,22 +199,6 @@
     {
       "basename": "Linked Lists - Deleting Nodes - C",
       "path": "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Deleting Nodes - C.md"
-    },
-    {
-      "basename": "Linked Lists - Inserting Nodes - C",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Inserting Nodes - C.md"
-    },
-    {
-      "basename": "Linked Lists - Creating Nodes - C",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Creating Nodes - C.md"
-    },
-    {
-      "basename": "processes - exec()",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/processes - exec().md"
-    },
-    {
-      "basename": "C - Command Line Arguments in Main",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/C - Command Line Arguments in Main.md"
     }
   ],
   "omittedPaths": [],
