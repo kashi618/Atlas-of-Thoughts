@@ -19,8 +19,9 @@ So to find this, we can convert it into something more manageable
 $F^{c}∩C^{c}=(F∪C)^{c}$
 ![[Pasted image 20251118002653.png|500]]
 
-$P(4)=\frac{4}{52}=\frac{1}{13}$
-$P(club)=\frac{12}{52}=\frac{3}{13}$
-$P_{4}$
+$P(four)=\frac{4}{52}=\frac{13}{52}$
+$P(club)=\frac{13}{52}=\frac{13}{52}$
+$P(four∪club)^{c}=1-(P(four)+P(club)-P(four∩club))$
+$1-\left( \frac{1}{13}+\frac{13}{52}-\frac{1}{52} \right)=1-\frac{4}{13}=\frac{9}{13}=0.6923$
 # See Also
 [[$ Mathematics 2]]

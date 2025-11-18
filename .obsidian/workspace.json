@@ -25,33 +25,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "f48766beff51c5d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Mathematics 2/De Morgan's Law.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "De Morgan's Law"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/TU856 Year 2/Mathematics 2/De Morgan's Law.md",
+                "file": "1. Home Page/Home.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of De Morgan's Law"
+              "title": "Outline of Home"
             }
           },
           {
@@ -281,12 +256,12 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "f48766beff51c5d1",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md",
-    "2. University/TU856 Year 2/Mathematics 2/Pasted image 20251118002653.png",
-    "2. University/TU856 Year 2/Mathematics 2/De Morgan's Law.md",
     "2. University/TU856 Year 2/Mathematics 2/Properties of Probability Spaces.md",
+    "2. University/TU856 Year 2/Mathematics 2/De Morgan's Law.md",
+    "2. University/TU856 Year 2/Mathematics 2/Pasted image 20251118002653.png",
     "2. University/TU856 Year 2/Mathematics 2/A Compliment.md",
     "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Mathematics 2/Probability P(A).md",
