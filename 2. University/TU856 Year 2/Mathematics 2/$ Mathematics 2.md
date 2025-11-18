@@ -1,5 +1,5 @@
 
-## Number Theory##
+## Number Theory
 **Inverse of a Modulo Number**
 [[Diophantine Equations]]
 

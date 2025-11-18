@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Concurrent and Parallel Synchronization",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Concurrent and Parallel Synchronization.md"
+      "basename": "Semaphores",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Semaphores.md"
     },
     {
       "basename": "$ Operating Systems 2",
       "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
     },
     {
+      "basename": "Wait and Signal",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Wait and Signal.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "$ Mathematics 2",
+      "path": "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md"
+    },
+    {
+      "basename": "Incongruent Solutions",
+      "path": "2. University/TU856 Year 2/Mathematics 2/Incongruent Solutions.md"
+    },
+    {
+      "basename": "Chinese Remainder Theorem",
+      "path": "2. University/TU856 Year 2/Mathematics 2/Chinese Remainder Theorem.md"
+    },
+    {
+      "basename": "De Morgan's Law",
+      "path": "2. University/TU856 Year 2/Mathematics 2/De Morgan's Law.md"
+    },
+    {
+      "basename": "Concurrent and Parallel Synchronization",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Concurrent and Parallel Synchronization.md"
     },
     {
       "basename": "Independent Events",
@@ -19,10 +43,6 @@
     {
       "basename": "Bernoulli Trials - Bernoulli Distribution",
       "path": "2. University/TU856 Year 2/Mathematics 2/Bernoulli Trials - Bernoulli Distribution.md"
-    },
-    {
-      "basename": "$ Mathematics 2",
-      "path": "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md"
     },
     {
       "basename": "Conditional Probability",
@@ -35,10 +55,6 @@
     {
       "basename": "Properties of Probability Spaces",
       "path": "2. University/TU856 Year 2/Mathematics 2/Properties of Probability Spaces.md"
-    },
-    {
-      "basename": "De Morgan's Law",
-      "path": "2. University/TU856 Year 2/Mathematics 2/De Morgan's Law.md"
     },
     {
       "basename": "Pasted image 20251118002653",
@@ -183,22 +199,6 @@
     {
       "basename": "Heap and Stack Memory",
       "path": "2. University/TU856 Year 2/Operating Systems 2/Heap and Stack Memory.md"
-    },
-    {
-      "basename": "Stacks - pop() - C",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Stacks - pop() - C.md"
-    },
-    {
-      "basename": "Stacks - push() - C",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Stacks - push() - C.md"
-    },
-    {
-      "basename": "Queue - dequeue() - C",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Queue - dequeue() - C.md"
-    },
-    {
-      "basename": "Linked Lists - Deleting Nodes - C",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Deleting Nodes - C.md"
     }
   ],
   "omittedPaths": [],
