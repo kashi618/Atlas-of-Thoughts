@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Probability P(A)",
-      "path": "2. University/TU856 Year 2/Mathematics 2/Probability P(A).md"
+      "basename": "De Morgan's Law",
+      "path": "2. University/TU856 Year 2/Mathematics 2/De Morgan's Law.md"
     },
     {
       "basename": "$ Mathematics 2",
       "path": "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md"
     },
     {
-      "basename": "A Compliment - A'",
-      "path": "2. University/TU856 Year 2/Mathematics 2/A Compliment - A'.md"
+      "basename": "Pasted image 20251118002653",
+      "path": "2. University/TU856 Year 2/Mathematics 2/Pasted image 20251118002653.png"
+    },
+    {
+      "basename": "Properties of Probability Spaces",
+      "path": "2. University/TU856 Year 2/Mathematics 2/Properties of Probability Spaces.md"
+    },
+    {
+      "basename": "A Compliment",
+      "path": "2. University/TU856 Year 2/Mathematics 2/A Compliment.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "TU856-Year2",
+      "path": "1. Home Page/TU856-Year2.md"
+    },
+    {
+      "basename": "Probability P(A)",
+      "path": "2. University/TU856 Year 2/Mathematics 2/Probability P(A).md"
     },
     {
       "basename": "Combinations and Permutations",
@@ -19,10 +39,6 @@
     {
       "basename": "Sample Space",
       "path": "2. University/TU856 Year 2/Mathematics 2/Sample Space.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "$ Databases 1",
@@ -59,10 +75,6 @@
     {
       "basename": "Setup",
       "path": "1. Home Page/Setup.md"
-    },
-    {
-      "basename": "TU856-Year2",
-      "path": "1. Home Page/TU856-Year2.md"
     },
     {
       "basename": "Obsidian Keybinds",
@@ -187,18 +199,6 @@
     {
       "basename": "C - Command Line Arguments in Main",
       "path": "2. University/TU856 Year 2/Operating Systems 2/C - Command Line Arguments in Main.md"
-    },
-    {
-      "basename": "Archlinux - Installation",
-      "path": "3. General/Archlinux/Archlinux - Installation.md"
-    },
-    {
-      "basename": "Stacks - LIFO",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Stacks - LIFO.md"
-    },
-    {
-      "basename": "Linked Lists",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Linked Lists.md"
     }
   ],
   "omittedPaths": [],

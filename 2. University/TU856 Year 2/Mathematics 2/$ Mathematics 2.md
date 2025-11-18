@@ -26,5 +26,7 @@
 ## Probability and Statistics
 [[Sample Space]]
 [[Combinations and Permutations]]
-[[A Compliment - A']]
+[[A Compliment]]
 [[Probability P(A)]]
+[[Properties of Probability Spaces]]
+[[De Morgan's Law]]
