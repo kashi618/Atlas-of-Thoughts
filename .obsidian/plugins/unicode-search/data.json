@@ -78958,6 +78958,24 @@
     "version": "0.7.0",
     "codepoints": [
       {
+        "firstUsed": "2025-11-18T00:09:53.993Z",
+        "lastUsed": "2025-11-18T00:09:53.993Z",
+        "useCount": 1,
+        "codepoint": "∅"
+      },
+      {
+        "firstUsed": "2025-11-18T00:09:27.197Z",
+        "lastUsed": "2025-11-18T10:32:31.530Z",
+        "useCount": 11,
+        "codepoint": "∩"
+      },
+      {
+        "firstUsed": "2025-11-18T00:07:44.184Z",
+        "lastUsed": "2025-11-18T00:32:06.755Z",
+        "useCount": 8,
+        "codepoint": "∪"
+      },
+      {
         "firstUsed": "2025-11-15T19:19:15.515Z",
         "lastUsed": "2025-11-15T19:19:15.515Z",
         "useCount": 1,

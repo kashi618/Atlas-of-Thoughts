@@ -23,7 +23,7 @@
 - [[Queue - enqueue() - C]]
 - [[Queue - dequeue() - C]]
 
-## Processes
+## Processes and Threads
 - [[Processes - OS1]]
 - [[Programs, Processes, Threads - OS2]]
 
@@ -40,6 +40,15 @@
 - Thread Management
 
 `exit(1)`
+
+
+### Inter Process Synchronization
+[[Concurrent and Parallel Synchronization]]
+
+[[Test and Set]]
+[[Wait and Signal]]
+[[Semaphores]]
+
 
 ## Other
 
