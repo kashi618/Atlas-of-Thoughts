@@ -24,14 +24,13 @@
 [[Incongruent Solutions]]
 
 ## Probability and Statistics
-![[Sample Space]]
-![[Combinations and Permutations]]
-![[A Compliment]]
-![[Probability P(A)]]
-![[Properties of Probability Spaces]]
-![[De Morgan's Law]]
-![[Conditional Probability]]
-![[Independent Events]]
-![[Bernoulli Trials - Bernoulli Distribution]]
-
-L: 0.77 N: 0.55
+[[Sample Space]]
+[[Combinations and Permutations]]
+[[A Compliment]]
+[[Probability P(A)]]
+[[Properties of Probability Spaces]]
+[[De Morgan's Law]]
+[[Conditional Probability]]
+[[Independent Events]]
+[[Bernoulli Trials - Bernoulli Distribution]]
+[[Predicate Logic]]

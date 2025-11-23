@@ -25,21 +25,13 @@
 - [[Instantiating Objects - Java]]
 	- [[new - Java]]
 
-
-
 ### Encapsulation
 [[Encapsulation - Java]]
 [[Access Modifiers - Java]]
 [[Getters & Setters And Gatekeeping - Java]]
 
-
-[[??Encapsulation - Java]]
-
-
-
 ### Inheritance
-[[!Inheritance - Java]]
-[[Inheritance - Java]]
+[[Inheritance - extends - Java]]
 
 
 ### Polymorphism
@@ -47,7 +39,7 @@
 [[??Override - Java]]
 
  
- [[!Inheritance - Java]]
+ [[Inheritance - extends - Java]]
 - [[??Object() Class - Java]]
 - [[??Extends - Java]] Could merge into inheritance. Maybe use inheritance for theory, and this for syntax
 - [[??Super - Java]]
@@ -58,7 +50,7 @@
 
 ### Abstraction
 [[??Abstraction - Java]]
-*cannot make obejct from abstract class, only reference
+*cannot make object from abstract class, only reference
 
 
 ### JavaDoc
@@ -75,7 +67,7 @@
 
 ### Misc
 [[Wrapper Classes - Java]]
-[[== vs .equals - Java]]
+[[equals vs == - Java]]
 
 
 
