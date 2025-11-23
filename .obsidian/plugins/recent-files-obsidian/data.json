@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "$ Java - Programming Language",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md"
+    },
+    {
+      "basename": "Inheritance - extends - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Inheritance - extends - Java.md"
+    },
+    {
+      "basename": "Applied Jobs",
+      "path": "1. Home Page/Applied Jobs.md"
+    },
+    {
+      "basename": "Encapsulation - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Encapsulation - Java.md"
+    },
+    {
+      "basename": "Setup",
+      "path": "1. Home Page/Setup.md"
+    },
+    {
+      "basename": "To Do",
+      "path": "1. Home Page/To Do.md"
+    },
+    {
+      "basename": "equals vs == - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/equals vs == - Java.md"
+    },
+    {
+      "basename": "Properties of Probability Spaces",
+      "path": "2. University/TU856 Year 2/Mathematics 2/Properties of Probability Spaces.md"
+    },
+    {
       "basename": "$ Mathematics 2",
       "path": "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md"
     },
@@ -9,12 +49,24 @@
       "path": "2. University/TU856 Year 2/Mathematics 2/Bernoulli Trials - Bernoulli Distribution.md"
     },
     {
-      "basename": "TU856-Year2",
-      "path": "1. Home Page/TU856-Year2.md"
+      "basename": "Independent Events",
+      "path": "2. University/TU856 Year 2/Mathematics 2/Independent Events.md"
     },
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
+      "basename": "Conditional Probability",
+      "path": "2. University/TU856 Year 2/Mathematics 2/Conditional Probability.md"
+    },
+    {
+      "basename": "De Morgan's Law",
+      "path": "2. University/TU856 Year 2/Mathematics 2/De Morgan's Law.md"
+    },
+    {
+      "basename": "Predicate Logic",
+      "path": "2. University/TU856 Year 2/Mathematics 2/Predicate Logic.md"
+    },
+    {
+      "basename": "TU856-Year2",
+      "path": "1. Home Page/TU856-Year2.md"
     }
   ],
   "omittedPaths": [],
