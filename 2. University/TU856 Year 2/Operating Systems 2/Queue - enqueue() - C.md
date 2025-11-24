@@ -42,7 +42,7 @@ void enqueue(QueueNode* *headPtr, QueueNode* *tailPtr, int value) {
 		}
 		
 		// 4. Set newPtr as the new tailPtr
-		*tPtr = newPtr;
+		*tailPtr = newPtr;
 	}
 	else {
 		printf("No memory available to create node");

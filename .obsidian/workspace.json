@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -680,
                   "y": -18.5,
-                  "zoom": -1.5439790095253547
+                  "zoom": -0.21966262858087568
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -224,9 +224,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Operating Systems 2/Queue - FIFO.md",
+    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Queue - enqueue() - C.md",
     "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Operating Systems 2/Concurrent and Parallel Synchronization.md",
-    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
     "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md",
     "2. University/TU856 Year 2/Operating Systems 2/Wait and Signal.md",
     "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
