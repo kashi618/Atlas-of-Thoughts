@@ -56,7 +56,7 @@
 
 ### JavaDoc
 [[JavaDoc]]
-[[JavaDoc - Syntax]]
+[[Writing JavaDocs]]
 
 ### Interfaces
 [[Interfaces - Java]]
@@ -70,7 +70,7 @@
 ### Misc
 [[Wrapper Classes - Java]]
 [[equals vs == - Java]]
-
+[[Coding Standards - Java]]
 
 
 # See Also

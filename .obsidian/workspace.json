@@ -32,9 +32,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
+                "file": "2. University/TU856 Year 2/Object Oriented Programming/Coding Standards - Java.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -47,35 +47,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Java - Programming Language"
-            }
-          },
-          {
-            "id": "8e6fc1cb6f8f563b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Object Oriented Programming/JavaDoc - Syntax.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "JavaDoc - Syntax"
+              "title": "Coding Standards - Java"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -307,15 +283,16 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "8e6fc1cb6f8f563b",
+  "active": "aef326077420efae",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Object Oriented Programming/JavaDoc - Syntax.md",
     "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/Coding Standards - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/JavaDoc.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/Writing JavaDocs.md",
+    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Object Oriented Programming/Implementing Inheritence - Extends - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Inheritance - extends - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/$ Operating Systems 2.md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Object Oriented Programming/!!!.md",
     "5. PDF's/Learning PHP, MySQL, JavaScript, CSS _ HTML5, Third Edition- A Step-by-Step Guide to Creating Dynamic Websites.pdf",
     "2. University/Textbooks/Software Engineering - Ian Sommerville.pdf",
@@ -350,7 +327,6 @@
     "2. University/TU856 Year 2/Mathematics 2/Properties of Probability Spaces.md",
     "2. University/TU856 Year 2/Mathematics 2/Pasted image 20251118002653.png",
     "2. University/TU856 Year 2/Mathematics 2/A Compliment.md",
-    "2. University/TU856 Year 2/Mathematics 2/Probability P(A).md",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251111134815.png",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251111132643.png",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251111131737.png",
