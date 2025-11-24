@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 ## What is Encapsulation?
-"Encapsulation is a way to bundle coding pieces together, allowing for greater security and simplifying data hiding"
+"Encapsulation is a way to bundle coding pieces together, allowing for greater security and simplifying data hiding.
 This can be applied to the follow:
 - Classes
 - Methods

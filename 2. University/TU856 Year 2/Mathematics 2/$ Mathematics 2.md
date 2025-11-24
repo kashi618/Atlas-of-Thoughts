@@ -33,3 +33,4 @@
 [[Conditional Probability]]
 [[Independent Events]]
 [[Bernoulli Trials - Bernoulli Distribution]]
+[[Predicate Logic]]
