@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -20,11 +21,37 @@
                   "zoom": -0.21966262858087568
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "c2cdd6f9295ed7a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Object Oriented Programming/!!!.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "!!!"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 416.5,
+    "collapsed": true
   },
   "right": {
     "id": "50297d24d0057534",
@@ -222,12 +250,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c2cdd6f9295ed7a9",
   "lastOpenFiles": [
+    "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Object Oriented Programming/!!!.md",
     "2. University/TU856 Year 2/Operating Systems 2/Queue - FIFO.md",
     "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
     "2. University/TU856 Year 2/Operating Systems 2/Queue - enqueue() - C.md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Operating Systems 2/Concurrent and Parallel Synchronization.md",
     "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md",
     "2. University/TU856 Year 2/Operating Systems 2/Wait and Signal.md",
