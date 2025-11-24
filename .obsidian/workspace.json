@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -21,37 +20,11 @@
                   "zoom": -0.6668736985077736
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "52a89f19a0467028",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ Mathematics 2"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +113,7 @@
       {
         "id": "45faf731fac48a99",
         "type": "tabs",
-        "dimension": 27.48478701825558,
+        "dimension": 27.484787018255577,
         "children": [
           {
             "id": "ba6229f6c5111145",
@@ -281,12 +254,15 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "52a89f19a0467028",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "1. Home Page/Home.canvas",
-    "2. University/TU856 Year 2/Mathematics 2/Bernoulli Trials - Bernoulli Distribution.md",
-    "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/!Inheritance - Java.md",
     "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
+    "2. University/TU856 Year 2/Operating Systems 2/! Threads.md",
+    "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md",
+    "2. University/TU856 Year 2/Mathematics 2/Bernoulli Trials - Bernoulli Distribution.md",
     "2. University/TU856 Year 2/Operating Systems 2/Semaphores.md",
     "2. University/TU856 Year 2/Operating Systems 2/Wait and Signal.md",
     "2. University/TU856 Year 2/Mathematics 2/Incongruent Solutions.md",
@@ -310,10 +286,8 @@
     "2. University/TU856 Year 2/Databases 1/PostgreSQL - concat Alternative.md",
     "2. University/TU856 Year 2/Databases 1/PostgreSQL - Functions.md",
     "2. University/TU856 Year 2/Operating Systems 2/Programs, Processes, Threads - OS2.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
     "1. Home Page/Setup.md",
     "2. University/TU856 Year 2/Software Engineering 1/$ Software Engineering 1.md",
-    "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md",
     "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251111134815.png",
     "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251111132643.png",
     "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251111131737.png",

@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "$ Java - Programming Language",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md"
+    },
+    {
+      "basename": "!Inheritance - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/!Inheritance - Java.md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "! Threads",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/! Threads.md"
+    },
+    {
       "basename": "$ Mathematics 2",
       "path": "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md"
     },
@@ -9,16 +29,8 @@
       "path": "1. Home Page/TU856-Year2.md"
     },
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
-    },
-    {
       "basename": "Bernoulli Trials - Bernoulli Distribution",
       "path": "2. University/TU856 Year 2/Mathematics 2/Bernoulli Trials - Bernoulli Distribution.md"
-    },
-    {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
     },
     {
       "basename": "Semaphores",
@@ -97,10 +109,6 @@
       "path": "2. University/TU856 Year 2/Operating Systems 2/Programs, Processes, Threads - OS2.md"
     },
     {
-      "basename": "$ Java - Programming Language",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md"
-    },
-    {
       "basename": "Applied Jobs",
       "path": "1. Home Page/Applied Jobs.md"
     },
@@ -177,10 +185,6 @@
       "path": "2. University/TU856 Year 2/Object Oriented Programming/== vs .equals - Java.md"
     },
     {
-      "basename": "!Inheritance - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/!Inheritance - Java.md"
-    },
-    {
       "basename": "Inheritance - Java",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/Inheritance - Java.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "processes - fork()",
       "path": "2. University/TU856 Year 2/Operating Systems 2/processes - fork().md"
-    },
-    {
-      "basename": "Heap and Stack Memory",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Heap and Stack Memory.md"
     }
   ],
   "omittedPaths": [],
