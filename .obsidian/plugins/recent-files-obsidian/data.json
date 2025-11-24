@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Concurrent and Parallel Synchronization",
       "path": "2. University/TU856 Year 2/Operating Systems 2/Concurrent and Parallel Synchronization.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "TU856-Year2",
       "path": "1. Home Page/TU856-Year2.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "CMPU 2017 | 2024-2025",
