@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -18,40 +17,14 @@
                 "viewState": {
                   "x": -1080,
                   "y": -409.5,
-                  "zoom": -0.6602352199668573
+                  "zoom": -1.9845516009113362
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "be8b17bc99416807",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,10 +221,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "be8b17bc99416807",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "1. Home Page/Home.canvas",
     "conflict-files-obsidian-git.md",
+    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Inheritance - extends - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/??Extends - Java.md",
