@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -680,
                   "y": -18.5,
-                  "zoom": -0.21966262858087568
+                  "zoom": -0.4870671855514973
                 }
               },
               "pinned": true,
@@ -27,15 +27,27 @@
             }
           },
           {
-            "id": "3b2fd93a2308c86d",
+            "id": "5921f24f9ab87db0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf"
+                "file": "2. University/TU856 Year 2/Operating Systems 2/Concurrent and Parallel Synchronization.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "CMPU 2017 | 2024-2025"
+              "icon": "lucide-file",
+              "title": "Concurrent and Parallel Synchronization"
             }
           }
         ],
@@ -53,16 +65,6 @@
         "type": "tabs",
         "dimension": 81.17932148626818,
         "children": [
-          {
-            "id": "0468fa48bfd97264",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
-            }
-          },
           {
             "id": "201ab2e5b6d9f745",
             "type": "leaf",
@@ -103,7 +105,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b5f3156b4083e9a4",
@@ -236,17 +239,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3b2fd93a2308c86d",
+  "active": "5921f24f9ab87db0",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Wait and Signal.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Concurrent and Parallel Synchronization.md",
+    "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
+    "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2019-2020.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2022-2023.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2023-2024.pdf",
-    "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2023-2024.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2024-2025.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2018-2019.pdf",
     "1. Home Page/TU856-Year2.md",
-    "1. Home Page/Home.canvas",
     "conflict-files-obsidian-git.md",
     "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Inheritance - extends - Java.md",
@@ -258,7 +266,6 @@
     "2. University/Lecture Slides",
     "2. University/Textbooks/Learning PHP, MySQL & JavaScript: A Step by Step Guide to Creating Dynamic Websites.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Web Development 2/CMPU 2022 | 2018-2019.pdf",
-    "2. University/TU856 Year 2/! Exam Papers/Web Development 2/CMPU2022.pdf",
     "2. University/TU856 Year 2/Mathematics 2/Properties of Probability Spaces.md",
     "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md",
     "2. University/TU856 Year 2/Mathematics 2/Bernoulli Trials - Bernoulli Distribution.md",
