@@ -16,17 +16,30 @@
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": -1080,
-                  "y": -409.5,
-                  "zoom": -1.9845516009113362
+                  "x": -680,
+                  "y": -18.5,
+                  "zoom": -0.21966262858087568
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "3b2fd93a2308c86d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CMPU 2017 | 2024-2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,10 +236,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3b2fd93a2308c86d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2019-2020.pdf",
+    "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2022-2023.pdf",
+    "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2023-2024.pdf",
+    "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf",
+    "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2023-2024.pdf",
+    "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2024-2025.pdf",
+    "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2018-2019.pdf",
+    "1. Home Page/TU856-Year2.md",
     "1. Home Page/Home.canvas",
+    "conflict-files-obsidian-git.md",
     "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Inheritance - extends - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/??Extends - Java.md",
@@ -238,12 +259,6 @@
     "2. University/Textbooks/Learning PHP, MySQL & JavaScript: A Step by Step Guide to Creating Dynamic Websites.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Web Development 2/CMPU 2022 | 2018-2019.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Web Development 2/CMPU2022.pdf",
-    "2. University/TU856 Year 2/! Exam Papers/Web Development 2/CMPU 2022 | 2019-2020.pdf",
-    "2. University/TU856 Year 2/! Exam Papers/Web Development 2/CMPU 2022 | 2022-2023.pdf",
-    "2. University/TU856 Year 2/! Exam Papers/Web Development 2/CMPU 2022.pdf",
-    "2. University/TU856 Year 2/! Exam Papers/Web Development 2/CMPU 2022 | 2023-2024.pdf",
-    "2. University/TU856 Year 2/! Exam Papers/Web Development 2/CMPU 2022 | 2024-2025.pdf",
-    "2. University/TU856 Year 2/! Exam Papers/Web Development 2",
     "2. University/TU856 Year 2/Mathematics 2/Properties of Probability Spaces.md",
     "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md",
     "2. University/TU856 Year 2/Mathematics 2/Bernoulli Trials - Bernoulli Distribution.md",

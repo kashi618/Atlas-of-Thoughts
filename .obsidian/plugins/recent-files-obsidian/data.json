@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "CMPU 2017 | 2024-2025",
+      "path": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf"
+    },
+    {
+      "basename": "CMPU 2017 | 2019-2020",
+      "path": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2019-2020.pdf"
+    },
+    {
+      "basename": "CMPU 2017 | 2022-2023",
+      "path": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2022-2023.pdf"
+    },
+    {
+      "basename": "CMPU 2017 | 2023-2024",
+      "path": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2023-2024.pdf"
+    },
+    {
+      "basename": "CMPU 2019 | 2023-2024",
+      "path": "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2023-2024.pdf"
+    },
+    {
+      "basename": "CMPU 2019 | 2024-2025",
+      "path": "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2024-2025.pdf"
+    },
+    {
+      "basename": "CMPU 2019 | 2018-2019",
+      "path": "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2018-2019.pdf"
+    },
+    {
+      "basename": "TU856-Year2",
+      "path": "1. Home Page/TU856-Year2.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Applied Jobs",
+      "path": "1. Home Page/Applied Jobs.md"
     },
     {
       "basename": "$ Java - Programming Language",
@@ -11,10 +47,6 @@
     {
       "basename": "Inheritance - extends - Java",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/Inheritance - extends - Java.md"
-    },
-    {
-      "basename": "Applied Jobs",
-      "path": "1. Home Page/Applied Jobs.md"
     },
     {
       "basename": "Encapsulation - Java",
@@ -59,10 +91,6 @@
     {
       "basename": "Predicate Logic",
       "path": "2. University/TU856 Year 2/Mathematics 2/Predicate Logic.md"
-    },
-    {
-      "basename": "TU856-Year2",
-      "path": "1. Home Page/TU856-Year2.md"
     }
   ],
   "omittedPaths": [],
