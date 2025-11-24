@@ -32,14 +32,15 @@
 
 ### Inheritance
 [[Inheritance - extends - Java]]
-
+[[Implementing Inheritence - Extends - Java]]
+[[!Super]]
+[[!@Override]]
 
 ### Polymorphism
 
 [[??Override - Java]]
 
- 
- [[Inheritance - extends - Java]]
+
 - [[??Object() Class - Java]]
 - [[??Extends - Java]] Could merge into inheritance. Maybe use inheritance for theory, and this for syntax
 - [[??Super - Java]]
@@ -55,6 +56,7 @@
 
 ### JavaDoc
 [[JavaDoc]]
+[[JavaDoc - Syntax]]
 
 ### Interfaces
 [[Interfaces - Java]]
