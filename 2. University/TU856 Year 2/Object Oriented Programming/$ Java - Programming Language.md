@@ -36,7 +36,7 @@
 [[!Super]]
 [[!@Override]]
 
-### Polymorphism
+### !Polymorphism
 
 [[??Override - Java]]
 
@@ -49,29 +49,30 @@
 
 [[??Casting Objects - Java]]
 
-### Abstraction
+### !Abstraction
 [[??Abstraction - Java]]
 *cannot make object from abstract class, only reference
 
 
-### JavaDoc
+### Other Important Information
+**JavaDoc**
 [[JavaDoc]]
 [[Writing JavaDocs]]
 
-### Interfaces
+**Interfaces**
 [[Interfaces - Java]]
 
-### Arrays
+**Arrays and ArrayLists**
 [[arrayLists - Java]]
 
-### File Handling
+**File Handings**
 [[File Handling - Java]]
 
 ### Misc
 [[Wrapper Classes - Java]]
 [[equals vs == - Java]]
 [[Coding Standards - Java]]
-
+[[What is an API?]]
 
 # See Also
 [[$ Java - Programming Language]]
