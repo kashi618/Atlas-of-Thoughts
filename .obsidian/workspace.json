@@ -18,64 +18,15 @@
                 "viewState": {
                   "x": -680,
                   "y": -18.5,
-                  "zoom": -0.21966262858087568
+                  "zoom": -0.1208543948743858
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "c2cdd6f9295ed7a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ Java - Programming Language"
-            }
-          },
-          {
-            "id": "88b9d030d54aae06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Object Oriented Programming/ArrayLists - Java.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ArrayLists - Java"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "50297d24d0057534",
@@ -274,7 +224,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "88b9d030d54aae06",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "2. University/TU856 Year 2/Object Oriented Programming/ArrayLists - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",

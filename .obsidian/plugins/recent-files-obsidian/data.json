@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "ArrayLists - Java",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/ArrayLists - Java.md"
     },
@@ -123,10 +127,6 @@
     {
       "basename": "Stacks",
       "path": "2. University/TU856 Year 2/Operating Systems 2/Stacks.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "自然 - Zi Ran",
