@@ -21,7 +21,7 @@ They are the Java class version of the 8primitive data types
 ## Why?
 Due to them being classes, each wrapper has its own methods, giving greater functionality
 
-Due to them being classes, they can also be used in [[Arrays and ArrayLists - Java]]
+Due to them being classes, they can also be used in [[Arrays vs ArrayLists - Java]]
 
 ## Notes
 - Remember that they are a class. This means, they store a reference (address) in memory of the object

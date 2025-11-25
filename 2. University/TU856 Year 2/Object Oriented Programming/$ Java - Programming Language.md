@@ -63,7 +63,8 @@
 [[Interfaces - Java]]
 
 **Arrays and ArrayLists**
-[[Arrays and ArrayLists - Java]]
+[[Arrays vs ArrayLists - Java]]
+[[ArrayLists - Java]]
 
 **File Handings**
 [[File Handling - Java]]

@@ -1,12 +1,128 @@
 {
   "recentFiles": [
     {
-      "basename": "Arrays and ArrayLists - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Arrays and ArrayLists - Java.md"
+      "basename": "ArrayLists - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/ArrayLists - Java.md"
     },
     {
       "basename": "$ Java - Programming Language",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md"
+    },
+    {
+      "basename": "Arrays vs ArrayLists - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Arrays vs ArrayLists - Java.md"
+    },
+    {
+      "basename": "Interfaces - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Interfaces - Java.md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "OS2 Potential Exam Questions",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/OS2 Potential Exam Questions.md"
+    },
+    {
+      "basename": "Pasted image 20251009124000",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Pasted image 20251009124000.png"
+    },
+    {
+      "basename": "Programming Paradigms",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Programming Paradigms.md"
+    },
+    {
+      "basename": "Pascal Case",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Pascal Case.md"
+    },
+    {
+      "basename": "Module Information",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Module Information.md"
+    },
+    {
+      "basename": "OS - 9.16",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/OS - 9.16.md"
+    },
+    {
+      "basename": "OS - 9.15",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/OS - 9.15.md"
+    },
+    {
+      "basename": "Opcode and Operand",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Opcode and Operand.md"
+    },
+    {
+      "basename": "Lab3",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Lab3.md"
+    },
+    {
+      "basename": "Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Java.md"
+    },
+    {
+      "basename": "Heap and Stack Memory",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Heap and Stack Memory.md"
+    },
+    {
+      "basename": "fork() with wait()",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/fork() with wait().png"
+    },
+    {
+      "basename": "Fetch Execute Cycle",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Fetch Execute Cycle.md"
+    },
+    {
+      "basename": "Constructors - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Constructors - Java.md"
+    },
+    {
+      "basename": "Concurrent and Parallel Synchronization",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Concurrent and Parallel Synchronization.md"
+    },
+    {
+      "basename": "Compiling Threads",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Compiling Threads.md"
+    },
+    {
+      "basename": "Coding Standards - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Coding Standards - Java.md"
+    },
+    {
+      "basename": "Before and After fork()",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Before and After fork().png"
+    },
+    {
+      "basename": "Attributes - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Attributes - Java.md"
+    },
+    {
+      "basename": "Access Modifiers - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Access Modifiers - Java.md"
+    },
+    {
+      "basename": "! Threads",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/! Threads.md"
+    },
+    {
+      "basename": "!!!",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/!!!.md"
+    },
+    {
+      "basename": "??Override - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/??Override - Java.md"
+    },
+    {
+      "basename": "Wrapper Classes - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Wrapper Classes - Java.md"
+    },
+    {
+      "basename": "What are Classes and Objects - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/What are Classes and Objects - Java.md"
+    },
+    {
+      "basename": "Stacks",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Stacks.md"
     },
     {
       "basename": "Home",
@@ -33,20 +149,8 @@
       "path": "3. General/道/樸/樸.朴 - Pu.md"
     },
     {
-      "basename": "!!!",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/!!!.md"
-    },
-    {
-      "basename": "Interfaces - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Interfaces - Java.md"
-    },
-    {
       "basename": "What is an API?",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/What is an API?.md"
-    },
-    {
-      "basename": "Coding Standards - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Coding Standards - Java.md"
     },
     {
       "basename": "JavaDoc",
@@ -65,28 +169,20 @@
       "path": "2. University/TU856 Year 2/Object Oriented Programming/Inheritance - extends - Java.md"
     },
     {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/$ Operating Systems 2.md"
-    },
-    {
       "basename": "Queue - FIFO",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Queue - FIFO.md"
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Queue - FIFO.md"
     },
     {
       "basename": "Queue - enqueue() - C",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Queue - enqueue() - C.md"
-    },
-    {
-      "basename": "Concurrent and Parallel Synchronization",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Concurrent and Parallel Synchronization.md"
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Queue - enqueue() - C.md"
     },
     {
       "basename": "Test and Set",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Test and Set.md"
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md"
     },
     {
       "basename": "Wait and Signal",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Wait and Signal.md"
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Wait and Signal.md"
     },
     {
       "basename": "$ Databases 1",
@@ -103,74 +199,6 @@
     {
       "basename": "CMPU 2017 | 2019-2020",
       "path": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2019-2020.pdf"
-    },
-    {
-      "basename": "CMPU 2017 | 2022-2023",
-      "path": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2022-2023.pdf"
-    },
-    {
-      "basename": "CMPU 2017 | 2023-2024",
-      "path": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2023-2024.pdf"
-    },
-    {
-      "basename": "CMPU 2019 | 2023-2024",
-      "path": "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2023-2024.pdf"
-    },
-    {
-      "basename": "CMPU 2019 | 2024-2025",
-      "path": "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2024-2025.pdf"
-    },
-    {
-      "basename": "CMPU 2019 | 2018-2019",
-      "path": "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2018-2019.pdf"
-    },
-    {
-      "basename": "Applied Jobs",
-      "path": "1. Home Page/Applied Jobs.md"
-    },
-    {
-      "basename": "Encapsulation - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Encapsulation - Java.md"
-    },
-    {
-      "basename": "Setup",
-      "path": "1. Home Page/Setup.md"
-    },
-    {
-      "basename": "To Do",
-      "path": "1. Home Page/To Do.md"
-    },
-    {
-      "basename": "equals vs == - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/equals vs == - Java.md"
-    },
-    {
-      "basename": "Properties of Probability Spaces",
-      "path": "2. University/TU856 Year 2/Mathematics 2/Properties of Probability Spaces.md"
-    },
-    {
-      "basename": "$ Mathematics 2",
-      "path": "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md"
-    },
-    {
-      "basename": "Bernoulli Trials - Bernoulli Distribution",
-      "path": "2. University/TU856 Year 2/Mathematics 2/Bernoulli Trials - Bernoulli Distribution.md"
-    },
-    {
-      "basename": "Independent Events",
-      "path": "2. University/TU856 Year 2/Mathematics 2/Independent Events.md"
-    },
-    {
-      "basename": "Conditional Probability",
-      "path": "2. University/TU856 Year 2/Mathematics 2/Conditional Probability.md"
-    },
-    {
-      "basename": "De Morgan's Law",
-      "path": "2. University/TU856 Year 2/Mathematics 2/De Morgan's Law.md"
-    },
-    {
-      "basename": "Predicate Logic",
-      "path": "2. University/TU856 Year 2/Mathematics 2/Predicate Logic.md"
     }
   ],
   "omittedPaths": [],
