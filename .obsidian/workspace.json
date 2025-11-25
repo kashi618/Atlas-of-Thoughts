@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "aef326077420efae",
+            "id": "6e3c5b4d6211944b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
+                "file": "2. University/TU856 Year 2/Object Oriented Programming/Arrays and ArrayLists - Java.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,31 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Java - Programming Language"
-            }
-          },
-          {
-            "id": "460e0bd6bad318e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Object Oriented Programming/!!!.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "!!!"
+              "title": "Arrays and ArrayLists - Java"
             }
           }
         ],
@@ -306,12 +282,19 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "aef326077420efae",
+  "active": "6e3c5b4d6211944b",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Object Oriented Programming/Interfaces - Java.md",
-    "1. Home Page/Home.canvas",
-    "2. University/TU856 Year 2/Object Oriented Programming/!!!.md",
     "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
+    "1. Home Page/Home.canvas",
+    "3. General/道/自然 - Zi Ran.md",
+    "3. General/道/無為 - Wu Wei.md",
+    "3. General/道/Taosim - Daosim.md",
+    "3. General/道/Start.md",
+    "3. General/道/樸/樸.朴 - Pu.md",
+    "3. General/道/樸",
+    "2. University/TU856 Year 2/Object Oriented Programming/!!!.md",
+    "3. General/道",
+    "2. University/TU856 Year 2/Object Oriented Programming/Interfaces - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/What is an API?.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Coding Standards - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/JavaDoc.md",
@@ -330,8 +313,6 @@
     "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2024-2025.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2023-2024.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2022-2023.pdf",
-    "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2019-2020.pdf",
-    "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2018-2019.pdf",
     "2. University/TU856 Year 2/Object Oriented Programming/!Inheritance - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/! Threads.md",
     "2. University/TU856 Year 2/Mathematics 2/$ Mathematics 2.md",
@@ -339,15 +320,10 @@
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Semaphores.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Wait and Signal.md",
     "2. University/TU856 Year 2/Mathematics 2/Incongruent Solutions.md",
-    "2. University/TU856 Year 2/Mathematics 2/Chinese Remainder Theorem.md",
-    "2. University/TU856 Year 2/Mathematics 2/De Morgan's Law.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Concurrent and Parallel Synchronization.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105509.png",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105455.png",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105454.png",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105452.png",
-    "2. University/TU856 Year 2/Mathematics 2/Independent Events.md",
-    "2. University/TU856 Year 2/Mathematics 2/Conditional Probability.md",
     "2. University/TU856 Year 2/Mathematics 2/Pasted image 20251118002653.png",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251111134815.png",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251111132643.png",
