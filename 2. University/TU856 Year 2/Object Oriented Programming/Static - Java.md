@@ -27,22 +27,15 @@ However, it also keeps track of how many students we have in total, by using the
 
 ### Static Methods
 ```java showlinenumbers
-class Math {
-	int number;
-		
-		
-	// Return 0 if even, 1 if odds
-	public static int oddEven(int num) {
-		if (num%2 == 0 ) {
-			return 0;
-		}
-		else {
-			return 1;
-		}
+public class Math {
+	public static int  sumNums(int a,int b) {
+		return a+b;
 	}
-
 }
 ```
+A static method allow you to use that method, on variables/objects from different classes.
+For example, the method `sumNums` can be used by objects of class Math. **BUT ALSO** on 
+
 This method tells the user if an inputted digit is odd or even.
 The method is static, which allows non class members of class Math to use this aswell.
 i.e. you don't need to do `Math num = new Math(i); math.oddEven(num);`

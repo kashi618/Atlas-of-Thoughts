@@ -4,8 +4,11 @@ tags:
   - Java
 aliases:
 ---
-
 ## How to Instantiate an Object
+To instantiate/create an object, you must first have a [[What are Classes and Objects - Java| Java Class]], and a [[Constructors - Java|Constructor]].
+
+
+
 **Example class Student**
 ```java showlinenumbers
 public class Student {

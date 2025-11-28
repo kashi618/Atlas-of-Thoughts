@@ -1,7 +1,6 @@
-## General
+## Module Information
 [[Module Information]]
-[[Programming Paradigms]]
-[[Pascal Case]]
+
 ## Java
 [[Java]]
 [[Packages - Java]]
@@ -28,7 +27,7 @@
 ### Encapsulation
 [[Encapsulation - Java]]
 [[Access Modifiers - Java]]
-[[Getters & Setters And Gatekeeping - Java]]
+[[Getters & Setters, And Gatekeeping - Java]]
 
 ### Inheritance
 [[Inheritance - extends - Java]]
@@ -54,7 +53,7 @@
 *cannot make object from abstract class, only reference
 
 
-### Other Important Information
+### Other Important Categories
 **JavaDoc**
 [[JavaDoc]]
 [[Writing JavaDocs]]
@@ -70,12 +69,13 @@
 [[File Handling - Java]]
 
 ### Misc
+[[Programming Paradigms]]
+[[Pascal Case]]
 [[Wrapper Classes - Java]]
-[[equals vs == - Java]]
+[[(.equals) vs (==) - Java]]
 [[Coding Standards - Java]]
 [[What is an API?]]
-
 [[Syntax and Semantics]]
-
+[[Java Pitfalls]]
 # See Also
 [[$ Java - Programming Language]]

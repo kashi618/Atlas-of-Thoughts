@@ -4,7 +4,9 @@ tags:
   - Java
 aliases:
 ---
-In java, methods in the same class can have the same name, provided that their [[Method Signature - Java|method signature]] is different.
+## What is Method Overloading
+Method overloading allows you to have class methods and constructors of the same name, provided that their [[Method Signature - Java|method signature]] is different.
+This allows you to specify different method behaviors, based on the parameters you send in.
 
 ## Valid Method Overloading
 All of these methods can exist and work in the same class

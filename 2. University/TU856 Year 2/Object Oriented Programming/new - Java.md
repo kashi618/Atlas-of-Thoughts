@@ -4,8 +4,10 @@ tags:
   - Java
 aliases:
 ---
+## What is new?
+`new` allows you to store an object inside of heap memory.
 
- When instantiating an object in java, you need to instantiate that object into heap memory. If you don't, then that object disappears when the constructor that called it ends.
+ When instantiating an object in java, you need to create the object inside of heap memory. If you don't, then that object disappears when the constructor that called it ends.
  In C, you would use malloc(). In java, you use the keyword `new`.
 
 **Example**

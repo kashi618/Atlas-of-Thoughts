@@ -26,9 +26,10 @@ class Vehicle {
 }
 ```
 
-- **Note:** java allows multiple methods/constructors with the same name. Please see [[Method Overloading - Java|method overloading]].
-- **Note2:** constructors do NOT need any return types. Not even a `void`.
-- View [[this - Java]], as this allows attributes and constructor parameters to have the same name
+- **Note:** Java allows **multiple methods/constructors** with the same name. Please see [[Method Overloading - Java|method overloading]].
+- **Note2:** constructors do **NOT** need any return types. Not even a `void`.
+- View [[this - Java]], as this allows **class attributes** and **constructor parameters** to have the same name
+
 
 # See Also
 [[$ Java - Programming Language]]

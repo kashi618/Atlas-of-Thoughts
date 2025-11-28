@@ -1,12 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "Syntax and Semantics",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Syntax and Semantics.md"
+      "basename": "Static - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Static - Java.md"
     },
     {
       "basename": "$ Java - Programming Language",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md"
+    },
+    {
+      "basename": "CMPU 2016 | 2024-2025",
+      "path": "2. University/TU856 Year 2/! Exam Papers/Object Oriented Programming/CMPU 2016 | 2024-2025.pdf"
+    },
+    {
+      "basename": "CMPU 2016 | 2023-2024",
+      "path": "2. University/TU856 Year 2/! Exam Papers/Object Oriented Programming/CMPU 2016 | 2023-2024.pdf"
+    },
+    {
+      "basename": "Interfaces - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Interfaces - Java.md"
+    },
+    {
+      "basename": "(.equals) vs (==) - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/(.equals) vs (==) - Java.md"
+    },
+    {
+      "basename": "Java Pitfalls",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Java Pitfalls.md"
+    },
+    {
+      "basename": "Encapsulation - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Encapsulation - Java.md"
+    },
+    {
+      "basename": "Access Modifiers - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Access Modifiers - Java.md"
+    },
+    {
+      "basename": "Getters & Setters, And Gatekeeping - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Getters & Setters, And Gatekeeping - Java.md"
+    },
+    {
+      "basename": "Method Overloading - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Method Overloading - Java.md"
+    },
+    {
+      "basename": "Syntax and Semantics",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Syntax and Semantics.md"
+    },
+    {
+      "basename": "Constructors - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Constructors - Java.md"
+    },
+    {
+      "basename": "new - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/new - Java.md"
+    },
+    {
+      "basename": "Instantiating Objects - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Instantiating Objects - Java.md"
     },
     {
       "basename": "Home",
@@ -43,10 +95,6 @@
     {
       "basename": "Arrays vs ArrayLists - Java",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/Arrays vs ArrayLists - Java.md"
-    },
-    {
-      "basename": "Interfaces - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Interfaces - Java.md"
     },
     {
       "basename": "OS2 Potential Exam Questions",
@@ -101,10 +149,6 @@
       "path": "2. University/TU856 Year 2/Operating Systems 2/Fetch Execute Cycle.md"
     },
     {
-      "basename": "Constructors - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Constructors - Java.md"
-    },
-    {
       "basename": "Concurrent and Parallel Synchronization",
       "path": "2. University/TU856 Year 2/Operating Systems 2/Concurrent and Parallel Synchronization.md"
     },
@@ -123,10 +167,6 @@
     {
       "basename": "Attributes - Java",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/Attributes - Java.md"
-    },
-    {
-      "basename": "Access Modifiers - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Access Modifiers - Java.md"
     },
     {
       "basename": "! Threads",
@@ -159,46 +199,6 @@
     {
       "basename": "無為 - Wu Wei",
       "path": "3. General/道/無為 - Wu Wei.md"
-    },
-    {
-      "basename": "Taosim - Daosim",
-      "path": "3. General/道/Taosim - Daosim.md"
-    },
-    {
-      "basename": "Start",
-      "path": "3. General/道/Start.md"
-    },
-    {
-      "basename": "樸.朴 - Pu",
-      "path": "3. General/道/樸/樸.朴 - Pu.md"
-    },
-    {
-      "basename": "What is an API?",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/What is an API?.md"
-    },
-    {
-      "basename": "JavaDoc",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/JavaDoc.md"
-    },
-    {
-      "basename": "Writing JavaDocs",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Writing JavaDocs.md"
-    },
-    {
-      "basename": "Implementing Inheritence - Extends - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Implementing Inheritence - Extends - Java.md"
-    },
-    {
-      "basename": "Inheritance - extends - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Inheritance - extends - Java.md"
-    },
-    {
-      "basename": "Queue - FIFO",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Queue - FIFO.md"
-    },
-    {
-      "basename": "Queue - enqueue() - C",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Queue - enqueue() - C.md"
     }
   ],
   "omittedPaths": [],

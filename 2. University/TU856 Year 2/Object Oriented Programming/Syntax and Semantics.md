@@ -8,7 +8,7 @@ aliases:
 Grammatical structure and rules of a language
 
 **Semantics**
-The Meaning of those words and 
+The meaning and behavior of a language
 
 # See Also
 [[$ Java - Programming Language]]
