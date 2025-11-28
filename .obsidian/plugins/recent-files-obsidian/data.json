@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
-    },
-    {
-      "basename": "WebDev2Proj",
-      "path": "2. University/TU856 Year 2/Web Development 2/WebDev2Proj.md"
+      "basename": "WebDev2 Project - Website Plan",
+      "path": "2. University/TU856 Year 2/Web Development 2/WebDev2 Project - Website Plan.md"
     },
     {
       "basename": "$ Web Development 2",
       "path": "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md"
+    },
+    {
+      "basename": "Project Brief",
+      "path": "2. University/TU856 Year 2/Web Development 2/Project Brief.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Test and Set",
@@ -195,10 +199,6 @@
     {
       "basename": "Wait and Signal",
       "path": "2. University/TU856 Year 2/Operating Systems 2/Wait and Signal.md"
-    },
-    {
-      "basename": "$ Databases 1",
-      "path": "2. University/TU856 Year 2/Databases 1/$ Databases 1.md"
     }
   ],
   "omittedPaths": [],

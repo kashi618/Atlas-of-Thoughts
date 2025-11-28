@@ -22,7 +22,8 @@ ca 50%
 - [[Basic PHP Syntax]]
 
 ## CA Project
-[[WebDev2Proj]]
+[[WebDev2 Project - Brief]]
+[[WebDev2 Project - Website Plan]]
 
 # See Also
 [[$ Web Development 2]]

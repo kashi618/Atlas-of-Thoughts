@@ -25,8 +25,81 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "b98e00625f5a45a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Web Development 2"
+            }
+          },
+          {
+            "id": "2661f4674368442e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Web Development 2/WebDev2 Project - Website Plan.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "WebDev2 Project - Website Plan"
+            }
+          },
+          {
+            "id": "fc8bf48b089a3cb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Web Development 2/Project Brief.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Project Brief"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,10 +297,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "2661f4674368442e",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Web Development 2/WebDev2Proj.md",
+    "2. University/TU856 Year 2/Web Development 2/WebDev2 Project - Website Plan.md",
     "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md",
+    "2. University/TU856 Year 2/Web Development 2/Project Brief.md",
     "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md",
     "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
@@ -255,7 +329,6 @@
     "2. University/TU856 Year 2/Object Oriented Programming/Coding Standards - Java.md",
     "2. University/TU856 Year 2/Operating Systems 2/Before and After fork().png",
     "2. University/TU856 Year 2/Object Oriented Programming/Attributes - Java.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/Access Modifiers - Java.md",
     "2. University/TU856 Year 2/Operating Systems 2",
     "3. General/道/樸",
     "3. General/道",
