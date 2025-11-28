@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -18,10 +17,9 @@
                 "viewState": {
                   "x": -680,
                   "y": -18.5,
-                  "zoom": -0.1208543948743858
+                  "zoom": -1.3082338252638903
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
@@ -226,6 +224,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Object Oriented Programming/ArrayLists - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Arrays vs ArrayLists - Java.md",
@@ -253,8 +253,6 @@
     "2. University/TU856 Year 2/Object Oriented Programming/Access Modifiers - Java.md",
     "2. University/TU856 Year 2/Operating Systems 2/! Threads.md",
     "2. University/TU856 Year 2/Object Oriented Programming/!!!.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/??Override - Java.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/Wrapper Classes - Java.md",
     "2. University/TU856 Year 2/Operating Systems 2",
     "3. General/道/樸",
     "3. General/道",
@@ -266,7 +264,6 @@
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251111132643.png",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251111131737.png",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2019-2020.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2022-2023.pdf",
