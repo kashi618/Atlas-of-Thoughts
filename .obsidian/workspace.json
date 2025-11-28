@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -20,11 +21,61 @@
                   "zoom": -1.3082338252638903
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "7847af0cc908dcdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Web Development 2"
+            }
+          },
+          {
+            "id": "3069d61a7db5fec7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Web Development 2/WebDev2Proj.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "WebDev2Proj"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,15 +273,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3069d61a7db5fec7",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "2. University/TU856 Year 2/Web Development 2/WebDev2Proj.md",
+    "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md",
     "1. Home Page/Home.canvas",
-    "2. University/TU856 Year 2/Object Oriented Programming/ArrayLists - Java.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md",
+    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
     "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
+    "Untitled 1.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/ArrayLists - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Arrays vs ArrayLists - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Interfaces - Java.md",
-    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
     "2. University/TU856 Year 2/Operating Systems 2/OS2 Potential Exam Questions.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Pasted image 20251009124000.png",
     "2. University/TU856 Year 2/Object Oriented Programming/Programming Paradigms.md",
@@ -251,8 +305,6 @@
     "2. University/TU856 Year 2/Operating Systems 2/Before and After fork().png",
     "2. University/TU856 Year 2/Object Oriented Programming/Attributes - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Access Modifiers - Java.md",
-    "2. University/TU856 Year 2/Operating Systems 2/! Threads.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/!!!.md",
     "2. University/TU856 Year 2/Operating Systems 2",
     "3. General/道/樸",
     "3. General/道",
