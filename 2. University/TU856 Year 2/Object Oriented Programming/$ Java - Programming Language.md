@@ -75,5 +75,7 @@
 [[Coding Standards - Java]]
 [[What is an API?]]
 
+[[Syntax and Semantics]]
+
 # See Also
 [[$ Java - Programming Language]]

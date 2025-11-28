@@ -10,29 +10,10 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1. Home Page/Home.canvas",
-                "viewState": {
-                  "x": -680,
-                  "y": -18.5,
-                  "zoom": -0.1208543948743858
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "b98e00625f5a45a0",
-            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md",
+                "file": "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Web Development 2"
+              "title": "$ Java - Programming Language"
             }
           },
           {
-            "id": "2661f4674368442e",
+            "id": "ca6bdb294a614bbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Web Development 2/WebDev2 Project - Website Plan.md",
+                "file": "2. University/TU856 Year 2/Object Oriented Programming/Syntax and Semantics.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -71,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "WebDev2 Project - Website Plan"
-            }
-          },
-          {
-            "id": "fc8bf48b089a3cb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Web Development 2/Project Brief.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Project Brief"
+              "title": "Syntax and Semantics"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +121,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "b5f3156b4083e9a4",
@@ -297,15 +254,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2661f4674368442e",
+  "active": "ca6bdb294a614bbd",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Web Development 2/WebDev2 Project - Website Plan.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/Syntax and Semantics.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
+    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md",
     "2. University/TU856 Year 2/Web Development 2/Project Brief.md",
-    "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Web Development 2/WebDev2 Project - Website Plan.md",
     "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md",
     "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
     "Untitled 1.md",
     "2. University/TU856 Year 2/Object Oriented Programming/ArrayLists - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Arrays vs ArrayLists - Java.md",
@@ -328,7 +286,6 @@
     "2. University/TU856 Year 2/Operating Systems 2/Compiling Threads.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Coding Standards - Java.md",
     "2. University/TU856 Year 2/Operating Systems 2/Before and After fork().png",
-    "2. University/TU856 Year 2/Object Oriented Programming/Attributes - Java.md",
     "2. University/TU856 Year 2/Operating Systems 2",
     "3. General/道/樸",
     "3. General/道",

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "WebDev2 Project - Website Plan",
-      "path": "2. University/TU856 Year 2/Web Development 2/WebDev2 Project - Website Plan.md"
+      "basename": "Syntax and Semantics",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Syntax and Semantics.md"
+    },
+    {
+      "basename": "$ Java - Programming Language",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "$ Web Development 2",
@@ -13,8 +21,8 @@
       "path": "2. University/TU856 Year 2/Web Development 2/Project Brief.md"
     },
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
+      "basename": "WebDev2 Project - Website Plan",
+      "path": "2. University/TU856 Year 2/Web Development 2/WebDev2 Project - Website Plan.md"
     },
     {
       "basename": "Test and Set",
@@ -23,10 +31,6 @@
     {
       "basename": "$ Operating Systems 2",
       "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
-    },
-    {
-      "basename": "$ Java - Programming Language",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md"
     },
     {
       "basename": "Untitled 1",
@@ -195,10 +199,6 @@
     {
       "basename": "Queue - enqueue() - C",
       "path": "2. University/TU856 Year 2/Operating Systems 2/Queue - enqueue() - C.md"
-    },
-    {
-      "basename": "Wait and Signal",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Wait and Signal.md"
     }
   ],
   "omittedPaths": [],
