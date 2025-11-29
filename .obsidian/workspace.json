@@ -54,30 +54,6 @@
               "icon": "lucide-file",
               "title": "Phingal Libraries Brief"
             }
-          },
-          {
-            "id": "81858a4d5d0f5663",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Web Development 2/Phingal Libraries Brief.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Phingal Libraries Brief"
-            }
           }
         ],
         "currentTab": 1
@@ -282,9 +258,9 @@
   },
   "active": "44a6f1faa5d915d1",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md",
     "2. University/TU856 Year 2/Web Development 2/Phingal Libraries - Website Plan.md",
     "2. University/TU856 Year 2/Web Development 2/Phingal Libraries Brief.md",
+    "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md",
     "2. University/TU856 Year 2/Web Development 2/WebDev2 Project - Brief.md",
     "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Encapsulation - Java.md",
