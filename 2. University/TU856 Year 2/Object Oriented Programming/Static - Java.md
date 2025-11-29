@@ -26,6 +26,10 @@ However, it also keeps track of how many students we have in total, by using the
 - Remember that `static`  is shared between each student object.
 
 ### Static Methods
+A static method allow you to use that method, on variables/objects from different classes.
+For example, the method `sumNums` can be used by objects of class Math. **BUT ALSO** on non related classes
+
+**Example**
 ```java showlinenumbers
 public class Math {
 	public static int  sumNums(int a,int b) {
@@ -33,13 +37,11 @@ public class Math {
 	}
 }
 ```
-A static method allow you to use that method, on variables/objects from different classes.
-For example, the method `sumNums` can be used by objects of class Math. **BUT ALSO** on 
-
-This method tells the user if an inputted digit is odd or even.
-The method is static, which allows non class members of class Math to use this aswell.
-i.e. you don't need to do `Math num = new Math(i); math.oddEven(num);`
-
+```java showlinenumbers
+int x = Math.sumNums(5, 10);
+int y = Math.sumNums(123, 321);
+```
+- Int `x` and `y` are NOT part of the `Math` class, but can still use the method `sumNums`
 
 # See Also
 [[$ Java - Programming Language]]

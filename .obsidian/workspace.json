@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Object Oriented Programming/Static - Java.md",
-                "mode": "source",
+                "file": "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Static - Java"
+              "title": "$ Java - Programming Language"
             }
           },
           {
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. University/TU856 Year 2/Object Oriented Programming/Static - Java.md",
+                "file": "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Static - Java"
+              "title": "Backlinks for $ Java - Programming Language"
             }
           },
           {
@@ -242,13 +242,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/TU856 Year 2/Object Oriented Programming/Static - Java.md",
+                "file": "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Static - Java"
+              "title": "Outline of $ Java - Programming Language"
             }
           }
         ],
@@ -281,6 +281,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Object Oriented Programming/Static - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
     "2. University/TU856 Year 2/! Exam Papers/Object Oriented Programming/CMPU 2016 | 2024-2025.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Object Oriented Programming/CMPU 2016 | 2023-2024.pdf",
