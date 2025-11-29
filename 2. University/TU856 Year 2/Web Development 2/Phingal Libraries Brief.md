@@ -23,7 +23,6 @@ The details must be as follows:
 3. Numeric only phone number, 10 digits in length
 
 ## Database Layout
-## Database
 **UserDetails**
 
 | Username (PK) | Password | FirstName | Surname | AddressLine      | AddressLineOther | City   | Telephone | Mobile    |
@@ -75,7 +74,7 @@ The details must be as follows:
 | ------------ | ------------- | ------------ |
 | 98234-029384 | joecrotty     | 11-Oct-2008  |
 | 9823-98345   | tommy100      | 10-Oct-2008  |
-- ISBN linked in ISBN in Books table
+- ISBN linked in ISBN in Books table1
 - Username linked to Username in UserDetails table
 
 ## Page Layout
