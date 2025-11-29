@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "PostgreSQL - ALTER TABLE (add  rename remove columns",
+      "path": "2. University/TU856 Year 2/Databases 1/PostgreSQL - ALTER TABLE (add  rename remove columns.md"
+    },
+    {
+      "basename": "$ Databases 1",
+      "path": "2. University/TU856 Year 2/Databases 1/$ Databases 1.md"
+    },
+    {
+      "basename": "PostgreSQL - Creating Tables - IMDb Example",
+      "path": "2. University/TU856 Year 2/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md"
+    },
+    {
       "basename": "Phingal Libraries Brief",
       "path": "2. University/TU856 Year 2/Web Development 2/Phingal Libraries Brief.md"
     },
@@ -187,14 +199,6 @@
     {
       "basename": "What are Classes and Objects - Java",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/What are Classes and Objects - Java.md"
-    },
-    {
-      "basename": "Stacks",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Stacks.md"
-    },
-    {
-      "basename": "自然 - Zi Ran",
-      "path": "3. General/道/自然 - Zi Ran.md"
     }
   ],
   "omittedPaths": [],

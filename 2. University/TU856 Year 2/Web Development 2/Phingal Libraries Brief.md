@@ -58,7 +58,7 @@ The details must be as follows:
 
 **Categories**
 
-| CategoryID (PK) | CatagoryDescription |
+| CategoryID (PK) | CategoryDescription |
 | --------------- | ------------------- |
 | 001             | Health              |
 | 002             | Business            |
