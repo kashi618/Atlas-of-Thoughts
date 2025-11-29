@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ Java - Programming Language"
-            }
-          },
-          {
-            "id": "123b75e2b8cfaea9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Object Oriented Programming/Java Pitfalls.md",
+                "file": "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,16 +28,40 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Java Pitfalls"
+              "title": "$ Web Development 2"
             }
           },
           {
-            "id": "9b0e8b64666bfff8",
+            "id": "44a6f1faa5d915d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Object Oriented Programming/Encapsulation - Java.md",
+                "file": "2. University/TU856 Year 2/Web Development 2/Phingal Libraries Brief.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Phingal Libraries Brief"
+            }
+          },
+          {
+            "id": "81858a4d5d0f5663",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Web Development 2/Phingal Libraries Brief.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -76,10 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Encapsulation - Java"
+              "title": "Phingal Libraries Brief"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,8 +144,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "b5f3156b4083e9a4",
@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "right": {
     "id": "50297d24d0057534",
@@ -181,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
+                "file": "2. University/TU856 Year 2/Web Development 2/Phingal Libraries Brief.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +192,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for $ Java - Programming Language"
+              "title": "Backlinks for Phingal Libraries Brief"
             }
           },
           {
@@ -242,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
+                "file": "2. University/TU856 Year 2/Web Development 2/Phingal Libraries Brief.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of $ Java - Programming Language"
+              "title": "Outline of Phingal Libraries Brief"
             }
           }
         ],
@@ -279,16 +280,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "44a6f1faa5d915d1",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Object Oriented Programming/Static - Java.md",
+    "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md",
+    "2. University/TU856 Year 2/Web Development 2/Phingal Libraries - Website Plan.md",
+    "2. University/TU856 Year 2/Web Development 2/Phingal Libraries Brief.md",
+    "2. University/TU856 Year 2/Web Development 2/WebDev2 Project - Brief.md",
     "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/Encapsulation - Java.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/Java Pitfalls.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/Static - Java.md",
     "2. University/TU856 Year 2/! Exam Papers/Object Oriented Programming/CMPU 2016 | 2024-2025.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Object Oriented Programming/CMPU 2016 | 2023-2024.pdf",
     "2. University/TU856 Year 2/Object Oriented Programming/Interfaces - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/(.equals) vs (==) - Java.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/Java Pitfalls.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/Encapsulation - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Access Modifiers - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Getters & Setters, And Gatekeeping - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Method Overloading - Java.md",
@@ -297,9 +302,6 @@
     "2. University/TU856 Year 2/Object Oriented Programming/new - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Instantiating Objects - Java.md",
     "1. Home Page/Home.canvas",
-    "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md",
-    "2. University/TU856 Year 2/Web Development 2/Project Brief.md",
-    "2. University/TU856 Year 2/Web Development 2/WebDev2 Project - Website Plan.md",
     "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md",
     "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
     "Untitled 1.md",
@@ -310,7 +312,6 @@
     "2. University/TU856 Year 2/Object Oriented Programming/Programming Paradigms.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Pascal Case.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Module Information.md",
-    "2. University/TU856 Year 2/Operating Systems 2/OS - 9.16.md",
     "2. University/TU856 Year 2/Operating Systems 2/fork() with wait().png",
     "2. University/TU856 Year 2/Operating Systems 2/Before and After fork().png",
     "2. University/TU856 Year 2/Operating Systems 2",

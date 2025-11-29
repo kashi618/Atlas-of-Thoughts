@@ -22,8 +22,8 @@ ca 50%
 - [[Basic PHP Syntax]]
 
 ## CA Project
-[[WebDev2 Project - Brief]]
-[[WebDev2 Project - Website Plan]]
+[[Phingal Libraries Brief]]
+[[Phingal Libraries - Website Plan]]
 
 # See Also
 [[$ Web Development 2]]
