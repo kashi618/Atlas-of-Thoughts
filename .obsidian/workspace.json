@@ -11,52 +11,20 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "1. Home Page/Home.canvas",
+                "viewState": {
+                  "x": -680,
+                  "y": -18.5,
+                  "zoom": -1.3082338252638903
                 }
               },
-              "icon": "lucide-file",
-              "title": "$ Web Development 2"
-            }
-          },
-          {
-            "id": "44a6f1faa5d915d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Web Development 2/Phingal Libraries Brief.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Phingal Libraries Brief"
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "50297d24d0057534",
@@ -256,10 +223,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "44a6f1faa5d915d1",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md",
     "2. University/TU856 Year 2/Web Development 2/Phingal Libraries Brief.md",
+    "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md",
     "2. University/TU856 Year 2/Databases 1/PostgreSQL - ALTER TABLE (add  rename remove columns.md",
     "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
     "2. University/TU856 Year 2/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md",
