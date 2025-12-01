@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -17,9 +18,10 @@
                 "viewState": {
                   "x": -680,
                   "y": -18.5,
-                  "zoom": -1.3082338252638903
+                  "zoom": -0.1208543948743858
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
@@ -225,6 +227,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "3. General/Archlinux/Archlinux - Helpful Commands.md",
+    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Web Development 2/Phingal Libraries Brief.md",
     "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md",
     "2. University/TU856 Year 2/Databases 1/PostgreSQL - ALTER TABLE (add  rename remove columns.md",
@@ -247,13 +251,11 @@
     "2. University/TU856 Year 2/Object Oriented Programming/Constructors - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/new - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Instantiating Objects - Java.md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md",
     "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
     "Untitled 1.md",
     "2. University/TU856 Year 2/Object Oriented Programming/ArrayLists - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Arrays vs ArrayLists - Java.md",
-    "2. University/TU856 Year 2/Operating Systems 2/OS2 Potential Exam Questions.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Pasted image 20251009124000.png",
     "2. University/TU856 Year 2/Operating Systems 2/fork() with wait().png",
     "2. University/TU856 Year 2/Operating Systems 2/Before and After fork().png",

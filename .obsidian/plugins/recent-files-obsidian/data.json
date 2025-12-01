@@ -5,6 +5,10 @@
       "path": "1. Home Page/Home.canvas"
     },
     {
+      "basename": "Archlinux - Helpful Commands",
+      "path": "3. General/Archlinux/Archlinux - Helpful Commands.md"
+    },
+    {
       "basename": "Phingal Libraries Brief",
       "path": "2. University/TU856 Year 2/Web Development 2/Phingal Libraries Brief.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Wrapper Classes - Java",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/Wrapper Classes - Java.md"
-    },
-    {
-      "basename": "What are Classes and Objects - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/What are Classes and Objects - Java.md"
     }
   ],
   "omittedPaths": [],

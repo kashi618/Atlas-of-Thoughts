@@ -31,3 +31,9 @@ pacman -Syu
 makepkg -sir
 ```
 
+## Other
+**Webcam viewer (includs IR)**
+```
+ffcam /dev/video0
+ffcam /dev/video2
+```
