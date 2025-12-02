@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Entity Relationship Diagram Concepts",
+      "path": "2. University/TU856 Year 2/Databases 1/Entity Relationship Diagram Concepts.md"
+    },
+    {
+      "basename": "$ Databases 1",
+      "path": "2. University/TU856 Year 2/Databases 1/$ Databases 1.md"
+    },
+    {
+      "basename": "Entity Relationship Diagram - Types of Relationships",
+      "path": "2. University/TU856 Year 2/Databases 1/Entity Relationship Diagram - Types of Relationships.md"
+    },
+    {
+      "basename": "Entity Relationship Diagram -  How to Create",
+      "path": "2. University/TU856 Year 2/Databases 1/Entity Relationship Diagram -  How to Create.md"
+    },
+    {
+      "basename": "SQL Datatypes",
+      "path": "2. University/TU856 Year 2/Databases 1/SQL Datatypes.md"
+    },
+    {
+      "basename": "Entity Relationship Diagram (ERD)",
+      "path": "2. University/TU856 Year 2/Databases 1/Entity Relationship Diagram (ERD).md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
     {
-      "basename": "Archlinux - Helpful Commands",
-      "path": "3. General/Archlinux/Archlinux - Helpful Commands.md"
+      "basename": "TU856-Year2",
+      "path": "1. Home Page/TU856-Year2.md"
     },
     {
       "basename": "Phingal Libraries Brief",
@@ -17,12 +41,12 @@
       "path": "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md"
     },
     {
-      "basename": "PostgreSQL - ALTER TABLE (add  rename remove columns",
-      "path": "2. University/TU856 Year 2/Databases 1/PostgreSQL - ALTER TABLE (add  rename remove columns.md"
+      "basename": "Archlinux - Helpful Commands",
+      "path": "3. General/Archlinux/Archlinux - Helpful Commands.md"
     },
     {
-      "basename": "$ Databases 1",
-      "path": "2. University/TU856 Year 2/Databases 1/$ Databases 1.md"
+      "basename": "PostgreSQL - ALTER TABLE (add  rename remove columns",
+      "path": "2. University/TU856 Year 2/Databases 1/PostgreSQL - ALTER TABLE (add  rename remove columns.md"
     },
     {
       "basename": "PostgreSQL - Creating Tables - IMDb Example",
@@ -175,30 +199,6 @@
     {
       "basename": "Coding Standards - Java",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/Coding Standards - Java.md"
-    },
-    {
-      "basename": "Before and After fork()",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Before and After fork().png"
-    },
-    {
-      "basename": "Attributes - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Attributes - Java.md"
-    },
-    {
-      "basename": "! Threads",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/! Threads.md"
-    },
-    {
-      "basename": "!!!",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/!!!.md"
-    },
-    {
-      "basename": "??Override - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/??Override - Java.md"
-    },
-    {
-      "basename": "Wrapper Classes - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Wrapper Classes - Java.md"
     }
   ],
   "omittedPaths": [],

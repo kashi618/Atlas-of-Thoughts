@@ -29,6 +29,10 @@ Multiple records in table A can relate to multiple records in B, and vice versa.
 **Example**
 Students can enrol in multiple courses, and each course can have multiple students enrolled.
 
+**THIS IS NOT GOOD**
+To resolve M:N, we can:
+- Create a relationship between values in the table
+- And replace the M:N relationship with two 1:M relationships
 ![[Pasted image 20250923130207.png]]
 
 # See Also

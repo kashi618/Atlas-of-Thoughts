@@ -18,6 +18,7 @@ missing week 3 i think
 ## Data Models and Entity Relationships Models
 - [[Data Models]]
 - [[Entity Relationship Diagram (ERD)]]
+- [[Entity Relationship Diagram Concepts]] **Important**
 - [[Entity Relationship Diagram -  How to Create]]
 - [[Entity Relationship Diagram - Types of Relationships]]
 - [[SQL Datatypes]]
