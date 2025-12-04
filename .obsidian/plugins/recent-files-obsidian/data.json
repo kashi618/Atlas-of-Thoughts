@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Entity Relationship Diagram Concepts",
       "path": "2. University/TU856 Year 2/Databases 1/Entity Relationship Diagram Concepts.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Entity Relationship Diagram (ERD)",
       "path": "2. University/TU856 Year 2/Databases 1/Entity Relationship Diagram (ERD).md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "TU856-Year2",

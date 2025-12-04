@@ -10,48 +10,21 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": -680,
-                  "y": -18.5,
-                  "zoom": -0.1208543948743858
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "82969e4a92da8726",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Databases 1/Entity Relationship Diagram Concepts.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Entity Relationship Diagram Concepts"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "50297d24d0057534",
@@ -251,12 +223,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "82969e4a92da8726",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Databases 1/Entity Relationship Diagram Concepts.md",
     "2. University/TU856 Year 2/Databases 1/Pasted image 20251202112407.png",
     "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
     "2. University/TU856 Year 2/Databases 1/Entity Relationship Diagram - Types of Relationships.md",
-    "2. University/TU856 Year 2/Databases 1/Entity Relationship Diagram Concepts.md",
     "2. University/TU856 Year 2/Databases 1/Entity Relationship Diagram -  How to Create.md",
     "2. University/TU856 Year 2/Databases 1/SQL Datatypes.md",
     "2. University/TU856 Year 2/Databases 1/Entity Relationship Diagram (ERD).md",
@@ -294,7 +266,6 @@
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105452.png",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251111134815.png",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251111132643.png",
-    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251111131737.png",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2",
     "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2019-2020.pdf",
