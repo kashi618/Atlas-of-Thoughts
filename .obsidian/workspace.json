@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -680,
                   "y": -18.5,
-                  "zoom": -1.3082338252638903
+                  "zoom": -0.5943611987234058
                 }
               },
               "pinned": true,
@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "121a8d31817bb3db",
+            "id": "5207ec53133cf99a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Web Development 2/Phingal Libraries Brief.md",
+                "file": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -47,11 +47,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Phingal Libraries Brief"
+              "title": "$ Operating Systems 2"
+            }
+          },
+          {
+            "id": "6db18f1a0252dfd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Operating Systems 2/Concurrent and Parallel Synchronization.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Concurrent and Parallel Synchronization"
+            }
+          },
+          {
+            "id": "693727311fb89029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Operating Systems 2/Threads.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Threads"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "right": {
     "id": "50297d24d0057534",
@@ -250,15 +299,70 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "121a8d31817bb3db",
+  "floating": {
+    "id": "24e1a59225974634",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d22da6c452f53697",
+        "type": "window",
+        "children": [
+          {
+            "id": "1e11e1be723bf1ee",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ae00916fada4f7e8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. University/TU856 Year 2/Operating Systems 2/!OS2.md",
+                    "mode": "preview",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "!OS2"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1113,
+        "y": 40,
+        "width": 796,
+        "height": 443,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "693727311fb89029",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Operating Systems 2/!OS2.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Threads.md",
+    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Concurrent and Parallel Synchronization.md",
+    "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Operating Systems 2/Thread Control Block - TCB.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/!!!.md",
+    "2. University/TU856 Year 2/Web Development 2/Phingal Libraries Brief.md",
     "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md",
     "2. University/TU856 Year 2/Web Development 2/Phingal Libraries - Website Plan.md",
     "2. University/TU856 Year 2/Web Development 2/PHP.md",
     "2. University/TU856 Year 2/Web Development 2/Pasted image 20251002123333.png",
     "2. University/TU856 Year 2/Web Development 2/Interent Protocols.md",
-    "1. Home Page/Home.canvas",
-    "2. University/TU856 Year 2/Web Development 2/Phingal Libraries Brief.md",
     "2. University/TU856 Year 2/Databases 1/Entity Relationship Diagram Concepts.md",
     "2. University/TU856 Year 2/Databases 1/Pasted image 20251202112407.png",
     "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
@@ -277,12 +381,6 @@
     "2. University/TU856 Year 2/! Exam Papers/Object Oriented Programming/CMPU 2016 | 2024-2025.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Object Oriented Programming/CMPU 2016 | 2023-2024.pdf",
     "2. University/TU856 Year 2/Object Oriented Programming/Interfaces - Java.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/(.equals) vs (==) - Java.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/Access Modifiers - Java.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/Getters & Setters, And Gatekeeping - Java.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/Method Overloading - Java.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/Syntax and Semantics.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/Constructors - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Pasted image 20251009124000.png",
     "2. University/TU856 Year 2/Operating Systems 2/fork() with wait().png",
     "2. University/TU856 Year 2/Operating Systems 2/Before and After fork().png",

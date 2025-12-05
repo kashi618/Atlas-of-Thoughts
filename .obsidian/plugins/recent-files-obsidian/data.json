@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Threads",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Threads.md"
+    },
+    {
+      "basename": "!OS2",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/!OS2.md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "Concurrent and Parallel Synchronization",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Concurrent and Parallel Synchronization.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Thread Control Block - TCB",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Thread Control Block - TCB.md"
+    },
+    {
+      "basename": "!!!",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/!!!.md"
+    },
+    {
       "basename": "Phingal Libraries Brief",
       "path": "2. University/TU856 Year 2/Web Development 2/Phingal Libraries Brief.md"
     },
@@ -23,10 +51,6 @@
     {
       "basename": "Interent Protocols",
       "path": "2. University/TU856 Year 2/Web Development 2/Interent Protocols.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Entity Relationship Diagram Concepts",
@@ -133,10 +157,6 @@
       "path": "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md"
     },
     {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
-    },
-    {
       "basename": "Untitled 1",
       "path": "Untitled 1.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Opcode and Operand",
       "path": "2. University/TU856 Year 2/Operating Systems 2/Opcode and Operand.md"
-    },
-    {
-      "basename": "Lab3",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Lab3.md"
-    },
-    {
-      "basename": "Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Java.md"
-    },
-    {
-      "basename": "Heap and Stack Memory",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Heap and Stack Memory.md"
-    },
-    {
-      "basename": "fork() with wait()",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/fork() with wait().png"
-    },
-    {
-      "basename": "Fetch Execute Cycle",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Fetch Execute Cycle.md"
     }
   ],
   "omittedPaths": [],

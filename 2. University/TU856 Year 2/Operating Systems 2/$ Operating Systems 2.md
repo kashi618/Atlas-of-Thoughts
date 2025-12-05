@@ -31,9 +31,11 @@
 - [[Processes - wait()]]
 - [[processes - exec()]]
 
-- [[! Threads]]
+- [[Threads]]
 - [[Compiling Threads]]
 - [[Threads - Creating]]
+- [[Thread Control Block - TCB]]
+
 
 - [[C - Command Line Arguments in Main]]
 
@@ -56,3 +58,5 @@
 [[Heap and Stack Memory]]
 
 [[OS2 Potential Exam Questions]] 
+
+[[!OS2]]
