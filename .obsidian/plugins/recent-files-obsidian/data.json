@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
-    },
-    {
       "basename": "Phingal Libraries Brief",
       "path": "2. University/TU856 Year 2/Web Development 2/Phingal Libraries Brief.md"
     },
     {
       "basename": "$ Web Development 2",
       "path": "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md"
+    },
+    {
+      "basename": "Phingal Libraries - Website Plan",
+      "path": "2. University/TU856 Year 2/Web Development 2/Phingal Libraries - Website Plan.md"
+    },
+    {
+      "basename": "PHP",
+      "path": "2. University/TU856 Year 2/Web Development 2/PHP.md"
+    },
+    {
+      "basename": "Pasted image 20251002123333",
+      "path": "2. University/TU856 Year 2/Web Development 2/Pasted image 20251002123333.png"
+    },
+    {
+      "basename": "Interent Protocols",
+      "path": "2. University/TU856 Year 2/Web Development 2/Interent Protocols.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Entity Relationship Diagram Concepts",
@@ -51,10 +67,6 @@
     {
       "basename": "PostgreSQL - Creating Tables - IMDb Example",
       "path": "2. University/TU856 Year 2/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md"
-    },
-    {
-      "basename": "Phingal Libraries - Website Plan",
-      "path": "2. University/TU856 Year 2/Web Development 2/Phingal Libraries - Website Plan.md"
     },
     {
       "basename": "$ Java - Programming Language",
@@ -187,18 +199,6 @@
     {
       "basename": "Fetch Execute Cycle",
       "path": "2. University/TU856 Year 2/Operating Systems 2/Fetch Execute Cycle.md"
-    },
-    {
-      "basename": "Concurrent and Parallel Synchronization",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Concurrent and Parallel Synchronization.md"
-    },
-    {
-      "basename": "Compiling Threads",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Compiling Threads.md"
-    },
-    {
-      "basename": "Coding Standards - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Coding Standards - Java.md"
     }
   ],
   "omittedPaths": [],

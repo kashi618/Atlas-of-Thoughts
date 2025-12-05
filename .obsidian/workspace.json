@@ -10,21 +10,48 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -680,
+                  "y": -18.5,
+                  "zoom": -1.3082338252638903
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "121a8d31817bb3db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Web Development 2/Phingal Libraries Brief.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Phingal Libraries Brief"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,11 +250,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "121a8d31817bb3db",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Web Development 2/Phingal Libraries Brief.md",
     "2. University/TU856 Year 2/Web Development 2/$ Web Development 2.md",
+    "2. University/TU856 Year 2/Web Development 2/Phingal Libraries - Website Plan.md",
+    "2. University/TU856 Year 2/Web Development 2/PHP.md",
+    "2. University/TU856 Year 2/Web Development 2/Pasted image 20251002123333.png",
+    "2. University/TU856 Year 2/Web Development 2/Interent Protocols.md",
     "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Web Development 2/Phingal Libraries Brief.md",
     "2. University/TU856 Year 2/Databases 1/Entity Relationship Diagram Concepts.md",
     "2. University/TU856 Year 2/Databases 1/Pasted image 20251202112407.png",
     "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
@@ -238,7 +269,6 @@
     "3. General/Archlinux/Archlinux - Helpful Commands.md",
     "2. University/TU856 Year 2/Databases 1/PostgreSQL - ALTER TABLE (add  rename remove columns.md",
     "2. University/TU856 Year 2/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md",
-    "2. University/TU856 Year 2/Web Development 2/Phingal Libraries - Website Plan.md",
     "2. University/TU856 Year 2/Web Development 2/WebDev2 Project - Brief.md",
     "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Encapsulation - Java.md",
@@ -253,7 +283,6 @@
     "2. University/TU856 Year 2/Object Oriented Programming/Method Overloading - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Syntax and Semantics.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Constructors - Java.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/new - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Pasted image 20251009124000.png",
     "2. University/TU856 Year 2/Operating Systems 2/fork() with wait().png",
     "2. University/TU856 Year 2/Operating Systems 2/Before and After fork().png",
@@ -265,7 +294,6 @@
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105454.png",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105452.png",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251111134815.png",
-    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251111132643.png",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2",
     "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2019-2020.pdf",
