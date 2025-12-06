@@ -21,4 +21,4 @@ aliases:
 
 # See Also
 [[$ C - Programming Language]]
-[[Programs, Processes, Threads - OS2]]
+[[Programs Processes Threads Overview - OS2]]

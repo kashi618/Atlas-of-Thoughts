@@ -24,13 +24,14 @@
 - [[Queue - dequeue() - C]]
 
 ## Processes and Threads
-- [[Processes - OS1]]
-- [[Programs, Processes, Threads - OS2]]
+- ! [[Processes - OS1]] **OUTDATED**
 
-- [[processes - fork()]] Seperate out wait() into [[Processes - wait()]]
+- [[Programs Processes Threads Overview - OS2]]
+.
+- [[processes - fork()]]
 - [[Processes - wait()]]
 - [[processes - exec()]]
-
+.
 - [[Threads]]
 - [[Compiling Threads]]
 - [[Threads - Creating]]
@@ -45,7 +46,7 @@
 
 
 ### Inter Process Synchronization
-[[Concurrent and Parallel Synchronization]]
+[[Thread and Process Synchronization]]
 
 [[Test and Set]]
 [[Wait and Signal]]

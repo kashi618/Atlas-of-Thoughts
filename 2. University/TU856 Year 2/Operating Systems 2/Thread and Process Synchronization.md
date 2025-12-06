@@ -4,8 +4,7 @@ tags:
 aliases:
 ---
 ## Why?
-In a computer, processes need to be carefully synchronized
-1. To ensure efficiency
+Processes and threads need
 
 ## Concurrent Synchronization
 ![[Pasted image 20251118105454.png]]

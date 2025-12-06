@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Threads",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Threads.md"
-    },
-    {
       "basename": "!OS2",
       "path": "2. University/TU856 Year 2/Operating Systems 2/!OS2.md"
+    },
+    {
+      "basename": "Thread and Process Synchronization",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Synchronization.md"
     },
     {
       "basename": "$ Operating Systems 2",
       "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
     },
     {
-      "basename": "Concurrent and Parallel Synchronization",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Concurrent and Parallel Synchronization.md"
-    },
-    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "processes - fork()",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/processes - fork().md"
+    },
+    {
+      "basename": "Processes - wait()",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Processes - wait().md"
+    },
+    {
+      "basename": "Programs Processes Threads Overview - OS2",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Programs Processes Threads Overview - OS2.md"
+    },
+    {
+      "basename": "Threads",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Threads.md"
+    },
+    {
+      "basename": "Processes - OS1",
+      "path": "2. University/TU856 Year 1/Operating Systems 1/Unsorted Notes/Processes - OS1.md"
     },
     {
       "basename": "Thread Control Block - TCB",
@@ -183,22 +199,6 @@
     {
       "basename": "Pascal Case",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/Pascal Case.md"
-    },
-    {
-      "basename": "Module Information",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Module Information.md"
-    },
-    {
-      "basename": "OS - 9.16",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/OS - 9.16.md"
-    },
-    {
-      "basename": "OS - 9.15",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/OS - 9.15.md"
-    },
-    {
-      "basename": "Opcode and Operand",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Opcode and Operand.md"
     }
   ],
   "omittedPaths": [],

@@ -4,7 +4,6 @@ tags:
   - Processes
 aliases:
 ---
-
 ## Process vs Programs
 **Processes (task)**
 A process is a single instance of an executable program.
@@ -30,8 +29,7 @@ Each process contains:
 - **Unique PID** (process identification) used to uniquely identify the process
 
 ## Threads
-A subset of the process, that handles the functionality of a process
-- A process can contain multiple threads
+[[Threads]]
 
 ## Hierarchy/Overview
 - **Program**: Firefox.exe
