@@ -46,7 +46,7 @@
 
 
 ### Inter Process Synchronization and Thread Scheduling
-[[iThread and Process Synchronization]]
+[[Thread and Process Scheduling & Synchronization]]
 
 [[Test and Set]]
 [[Wait and Signal]]

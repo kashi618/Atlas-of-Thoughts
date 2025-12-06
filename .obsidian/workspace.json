@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Operating Systems 2/iThread and Process Synchronization.md",
+                "file": "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Scheduling & Synchronization.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "iThread and Process Synchronization"
+              "title": "Thread and Process Scheduling & Synchronization"
             }
           }
         ],
@@ -253,7 +253,7 @@
   "active": "23c75f1d6f6af287",
   "lastOpenFiles": [
     "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
-    "2. University/TU856 Year 2/Operating Systems 2/iThread and Process Synchronization.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Scheduling & Synchronization.md",
     "2. University/TU856 Year 2/Operating Systems 2/!OS2.md",
     "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/processes - fork().md",

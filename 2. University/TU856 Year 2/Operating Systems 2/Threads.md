@@ -13,7 +13,7 @@ aliases:
 - A thread is atomic, therefore it is "all or nothing". It either runs and finishes a piece of code, or it waits
 
 ## Thread Scheduling
-Due to threads sharing resources and being atomic, they require precise [[iThread and Process Synchronization|scheduling]] to avoid conflict when accessing these resources
+Due to threads sharing resources and being atomic, they require precise [[Thread and Process Scheduling & Synchronization|scheduling]] to avoid conflict when accessing these resources
 
 ## Single-Threading and Multi-Threading
 **Single-Threading**
