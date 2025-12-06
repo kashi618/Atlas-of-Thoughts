@@ -3,7 +3,11 @@ tags:
   - OS2
 aliases:
 ---
-## What 
+## Inter-Process
+Between Processes
+
+## Threads
+Within a process
 
 # See Also
 [[$ Operating Systems 2]]

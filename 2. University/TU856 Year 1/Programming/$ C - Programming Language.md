@@ -80,7 +80,10 @@ aliases: []
 - [[Files - Reading and Writing to Files - C]]
 
 **Other**
-[[Void Pointers - C]]
+- [[Void Pointers - C]]
+- [[Compiling Threads - C]]
+- [[Creating Threads - C]]
+- [[Command Line Arguments in C - C]]
 
 **Programming Pitfalls**
 [[$UNFINISHED Programming Pitfalls - C]]

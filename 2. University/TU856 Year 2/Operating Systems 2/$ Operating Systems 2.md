@@ -25,29 +25,27 @@
 
 ## Processes and Threads
 - ! [[Processes - OS1]] **OUTDATED**
-
+<br>
 - [[Programs Processes Threads Overview - OS2]]
-.
+<br>
+- [[Processes]]
 - [[processes - fork()]]
 - [[Processes - wait()]]
 - [[processes - exec()]]
-.
+<br>
 - [[Threads]]
-- [[Compiling Threads]]
-- [[Threads - Creating]]
+
 - [[Thread Control Block - TCB]]
+<br>
+- [[Compiling Threads - C]]
+- [[Creating Threads - C]]
+- [[Command Line Arguments in C - C]]
 
 
-- [[C - Command Line Arguments in Main]]
-
-- Thread Management
-
-`exit(1)`
-
-
-### Inter Process Synchronization and Thread Scheduling
+### Inter-Process Synchronization and Thread Scheduling
+[[Inter-Processes vs Threads]]
 [[Thread and Process Scheduling & Synchronization]]
-
+- 
 [[Test and Set]]
 [[Wait and Signal]]
 [[Semaphores]]

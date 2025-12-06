@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Scheduling & Synchronization.md",
+                "file": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thread and Process Scheduling & Synchronization"
+              "title": "$ Operating Systems 2"
             }
           }
         ],
@@ -63,7 +63,7 @@
       {
         "id": "97e0ba745913d80d",
         "type": "tabs",
-        "dimension": 81.17932148626818,
+        "dimension": 66.66666666666666,
         "children": [
           {
             "id": "9df8e4ea20b2a652",
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#C",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,29 +114,40 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
+          },
+          {
+            "id": "215d7435bdbde842",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
-        "id": "b5f3156b4083e9a4",
+        "id": "a7feb26b88d7b800",
         "type": "tabs",
-        "dimension": 18.820678513731824,
+        "dimension": 33.33333333333333,
         "children": [
           {
-            "id": "b486a0b99e750a45",
+            "id": "79d34c7a5d1449d9",
             "type": "leaf",
             "state": {
               "type": "pet-view",
               "state": {},
               "icon": "cat",
-              "title": "Pet view"
+              "title": "Atlas-of-Thoughts Pets"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 375.5
   },
   "right": {
     "id": "50297d24d0057534",
@@ -250,16 +261,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "23c75f1d6f6af287",
+  "active": "79d34c7a5d1449d9",
   "lastOpenFiles": [
+    "2. University/TU856 Year 1/Programming/$ C - Programming Language.md",
     "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Compiling Threads - C.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Creating Threads - C.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Command Line Arguments in C - C.md",
     "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Scheduling & Synchronization.md",
-    "2. University/TU856 Year 2/Operating Systems 2/!OS2.md",
-    "1. Home Page/Home.canvas",
-    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/processes - fork().md",
-    "2. University/TU856 Year 2/Operating Systems 2/Processes - wait().md",
+    "2. University/TU856 Year 2/Operating Systems 2/Processes.md",
     "2. University/TU856 Year 2/Operating Systems 2/Programs Processes Threads Overview - OS2.md",
     "2. University/TU856 Year 2/Operating Systems 2/Threads.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Inter-Processes vs Threads.md",
+    "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Operating Systems 2/!OS2.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/processes - fork().md",
+    "2. University/TU856 Year 2/Operating Systems 2/Processes - wait().md",
     "2. University/TU856 Year 1/Operating Systems 1/Unsorted Notes/Processes - OS1.md",
     "2. University/TU856 Year 2/Operating Systems 2/Thread Control Block - TCB.md",
     "2. University/TU856 Year 2/Object Oriented Programming/!!!.md",
@@ -274,12 +292,6 @@
     "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
     "2. University/TU856 Year 2/Databases 1/Entity Relationship Diagram - Types of Relationships.md",
     "2. University/TU856 Year 2/Databases 1/Entity Relationship Diagram -  How to Create.md",
-    "2. University/TU856 Year 2/Databases 1/SQL Datatypes.md",
-    "2. University/TU856 Year 2/Databases 1/Entity Relationship Diagram (ERD).md",
-    "3. General/Archlinux/Archlinux - Helpful Commands.md",
-    "2. University/TU856 Year 2/Databases 1/PostgreSQL - ALTER TABLE (add  rename remove columns.md",
-    "2. University/TU856 Year 2/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md",
-    "2. University/TU856 Year 2/Web Development 2/WebDev2 Project - Brief.md",
     "2. University/TU856 Year 2/! Exam Papers/Object Oriented Programming/CMPU 2016 | 2024-2025.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Object Oriented Programming/CMPU 2016 | 2023-2024.pdf",
     "2. University/TU856 Year 2/Object Oriented Programming/Pasted image 20251009124000.png",
