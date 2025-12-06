@@ -45,8 +45,8 @@
 `exit(1)`
 
 
-### Inter Process Synchronization
-[[Thread and Process Synchronization]]
+### Inter Process Synchronization and Thread Scheduling
+[[iThread and Process Synchronization]]
 
 [[Test and Set]]
 [[Wait and Signal]]

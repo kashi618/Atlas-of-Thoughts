@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "ae00916fada4f7e8",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -680,
                   "y": -18.5,
-                  "zoom": -0.5943611987234058
+                  "zoom": -0.9664339803666814
                 }
               },
               "pinned": true,
@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "5b70d068c5f3f29e",
+            "id": "23c75f1d6f6af287",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Synchronization.md",
+                "file": "2. University/TU856 Year 2/Operating Systems 2/iThread and Process Synchronization.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,31 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thread and Process Synchronization"
-            }
-          },
-          {
-            "id": "5207ec53133cf99a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/processes - fork().md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "processes - fork()"
+              "title": "iThread and Process Synchronization"
             }
           }
         ],
@@ -139,8 +115,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "b5f3156b4083e9a4",
@@ -161,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "50297d24d0057534",
@@ -276,60 +250,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "24e1a59225974634",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d22da6c452f53697",
-        "type": "window",
-        "children": [
-          {
-            "id": "1e11e1be723bf1ee",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ae00916fada4f7e8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2. University/TU856 Year 2/Operating Systems 2/!OS2.md",
-                    "mode": "preview",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "!OS2"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1003,
-        "y": 40,
-        "width": 906,
-        "height": 630,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "ae00916fada4f7e8",
+  "active": "23c75f1d6f6af287",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Synchronization.md",
-    "2. University/TU856 Year 2/Operating Systems 2/!OS2.md",
     "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
+    "2. University/TU856 Year 2/Operating Systems 2/iThread and Process Synchronization.md",
+    "2. University/TU856 Year 2/Operating Systems 2/!OS2.md",
     "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/processes - fork().md",
     "2. University/TU856 Year 2/Operating Systems 2/Processes - wait().md",
