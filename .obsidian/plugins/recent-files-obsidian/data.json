@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Test and Set",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md"
+    },
+    {
       "basename": "$ Operating Systems 2",
       "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "Threads",
       "path": "2. University/TU856 Year 2/Operating Systems 2/Threads.md"
-    },
-    {
-      "basename": "Test and Set",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md"
     },
     {
       "basename": "Inter-Processes vs Threads",

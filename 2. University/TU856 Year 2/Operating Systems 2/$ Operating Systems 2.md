@@ -41,7 +41,6 @@
 - [[Creating Threads - C]]
 - [[Command Line Arguments in C - C]]
 
-
 ### Inter-Process Synchronization and Thread Scheduling
 [[Inter-Processes vs Threads]]
 [[Thread and Process Scheduling & Synchronization]]
@@ -52,10 +51,8 @@
 
 
 ## Other
-
-
 [[Heap and Stack Memory]]
-
+<br>
 [[OS2 Potential Exam Questions]] 
 
 [[!OS2]]

@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
+                "file": "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Operating Systems 2"
+              "title": "Test and Set"
             }
           }
         ],
@@ -223,13 +223,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
+                "file": "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of $ Operating Systems 2"
+              "title": "Outline of Test and Set"
             }
           }
         ],
@@ -262,10 +262,10 @@
   },
   "active": "23c75f1d6f6af287",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
     "copilot/copilot-conversations/what_is_heap@20251206_132301.md",
     "copilot/copilot-conversations",
     "1. Home Page/Home.canvas",
-    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
