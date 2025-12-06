@@ -35,5 +35,7 @@
     "pets/batman-black-cat": 2
   },
   "indexedFiles": {},
-  "animatedBackground": true
+  "animatedBackground": true,
+  "openAiApiKey": "",
+  "selectedModel": "none"
 }

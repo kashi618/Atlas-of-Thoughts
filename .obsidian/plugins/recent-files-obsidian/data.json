@@ -5,6 +5,10 @@
       "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
     },
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "$ C - Programming Language",
       "path": "2. University/TU856 Year 1/Programming/$ C - Programming Language.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Inter-Processes vs Threads",
       "path": "2. University/TU856 Year 2/Operating Systems 2/Inter-Processes vs Threads.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "!OS2",
