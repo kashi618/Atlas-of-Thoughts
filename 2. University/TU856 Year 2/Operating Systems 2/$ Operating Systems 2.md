@@ -42,12 +42,12 @@
 - [[Command Line Arguments in C - C]]
 
 ### Inter-Process Synchronization and Thread Scheduling
-[[Inter-Processes vs Threads]]
-[[Thread and Process Scheduling & Synchronization]]
-- 
-[[Test and Set]]
-[[Wait and Signal]]
-[[Semaphores]]
+![[Inter-Processes vs Threads]]
+![[Thread and Process Scheduling & Synchronization]]
+<br>
+![[Test and Set]]
+![[Wait and Signal]]
+![[Semaphores]]
 
 
 ## Other
