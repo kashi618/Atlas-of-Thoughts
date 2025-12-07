@@ -49,9 +49,33 @@
               "icon": "lucide-file",
               "title": "$ Operating Systems 2"
             }
+          },
+          {
+            "id": "21dfbbf0ad712778",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Test and Set"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 375.5,
+    "collapsed": true
   },
   "right": {
     "id": "50297d24d0057534",
@@ -223,13 +248,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
+                "file": "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of $ Operating Systems 2"
+              "title": "Outline of Test and Set"
             }
           }
         ],
@@ -260,11 +285,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "edf9811bbd4fdb71",
+  "active": "21dfbbf0ad712778",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
     "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md",
-    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
     "copilot/copilot-conversations/what_is_heap@20251206_132301.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
