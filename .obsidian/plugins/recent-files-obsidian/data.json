@@ -5,78 +5,6 @@
       "path": "1. Home Page/Home.canvas"
     },
     {
-      "basename": "To Do",
-      "path": "1. Home Page/To Do.md"
-    },
-    {
-      "basename": "Test and Set",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md"
-    },
-    {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
-    },
-    {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/TU856 Year 1/Programming/$ C - Programming Language.md"
-    },
-    {
-      "basename": "Compiling Threads - C",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Compiling Threads - C.md"
-    },
-    {
-      "basename": "Creating Threads - C",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Creating Threads - C.md"
-    },
-    {
-      "basename": "Command Line Arguments in C - C",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Command Line Arguments in C - C.md"
-    },
-    {
-      "basename": "Thread and Process Scheduling & Synchronization",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Scheduling & Synchronization.md"
-    },
-    {
-      "basename": "Processes",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Processes.md"
-    },
-    {
-      "basename": "Programs Processes Threads Overview - OS2",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Programs Processes Threads Overview - OS2.md"
-    },
-    {
-      "basename": "Threads",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Threads.md"
-    },
-    {
-      "basename": "Inter-Processes vs Threads",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Inter-Processes vs Threads.md"
-    },
-    {
-      "basename": "!OS2",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/!OS2.md"
-    },
-    {
-      "basename": "processes - fork()",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/processes - fork().md"
-    },
-    {
-      "basename": "Processes - wait()",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Processes - wait().md"
-    },
-    {
-      "basename": "Processes - OS1",
-      "path": "2. University/TU856 Year 1/Operating Systems 1/Unsorted Notes/Processes - OS1.md"
-    },
-    {
-      "basename": "Thread Control Block - TCB",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Thread Control Block - TCB.md"
-    },
-    {
-      "basename": "!!!",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/!!!.md"
-    },
-    {
       "basename": "Phingal Libraries Brief",
       "path": "2. University/TU856 Year 2/Web Development 2/Phingal Libraries Brief.md"
     },
@@ -199,6 +127,74 @@
     {
       "basename": "Instantiating Objects - Java",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/Instantiating Objects - Java.md"
+    },
+    {
+      "basename": "Test and Set",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
+    },
+    {
+      "basename": "ArrayLists - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/ArrayLists - Java.md"
+    },
+    {
+      "basename": "Arrays vs ArrayLists - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Arrays vs ArrayLists - Java.md"
+    },
+    {
+      "basename": "OS2 Potential Exam Questions",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/OS2 Potential Exam Questions.md"
+    },
+    {
+      "basename": "Pasted image 20251009124000",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Pasted image 20251009124000.png"
+    },
+    {
+      "basename": "Programming Paradigms",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Programming Paradigms.md"
+    },
+    {
+      "basename": "Pascal Case",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Pascal Case.md"
+    },
+    {
+      "basename": "Module Information",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Module Information.md"
+    },
+    {
+      "basename": "OS - 9.16",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/OS - 9.16.md"
+    },
+    {
+      "basename": "OS - 9.15",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/OS - 9.15.md"
+    },
+    {
+      "basename": "Opcode and Operand",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Opcode and Operand.md"
+    },
+    {
+      "basename": "Lab3",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Lab3.md"
+    },
+    {
+      "basename": "Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Java.md"
+    },
+    {
+      "basename": "Heap and Stack Memory",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Heap and Stack Memory.md"
+    },
+    {
+      "basename": "fork() with wait()",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/fork() with wait().png"
     }
   ],
   "omittedPaths": [],

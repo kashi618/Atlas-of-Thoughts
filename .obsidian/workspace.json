@@ -16,9 +16,9 @@
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": 117.10501426338458,
-                  "y": 128.8947867805283,
-                  "zoom": 0.877871702136981
+                  "x": -680,
+                  "y": -18.5,
+                  "zoom": -0.1208543948743858
                 }
               },
               "pinned": true,
@@ -38,7 +38,7 @@
       {
         "id": "97e0ba745913d80d",
         "type": "tabs",
-        "dimension": 66.66666666666667,
+        "dimension": 81.17932148626818,
         "children": [
           {
             "id": "9df8e4ea20b2a652",
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#C",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,26 +89,16 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
-          },
-          {
-            "id": "215d7435bdbde842",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
           }
         ]
       },
       {
-        "id": "a7feb26b88d7b800",
+        "id": "b5f3156b4083e9a4",
         "type": "tabs",
-        "dimension": 33.333333333333336,
+        "dimension": 18.820678513731824,
         "children": [
           {
-            "id": "79d34c7a5d1449d9",
+            "id": "b486a0b99e750a45",
             "type": "leaf",
             "state": {
               "type": "pet-view",
@@ -121,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "50297d24d0057534",
@@ -199,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md",
+                "file": "2. University/TU856 Year 2/Web Development 2/Phingal Libraries Brief.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test and Set"
+              "title": "Outline of Phingal Libraries Brief"
             }
           }
         ],
@@ -238,35 +227,35 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md",
-    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
+    "conflict-files-obsidian-git.md",
     "1. Home Page/Home.canvas",
-    "copilot/copilot-conversations/what_is_heap@20251206_132301.md",
-    "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-conversations/what_is_heap@20251206_132301.md",
     "copilot/copilot-custom-prompts",
+    "copilot/copilot-conversations",
     "copilot",
-    "2. University/TU856 Year 1/Programming/$ C - Programming Language.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Compiling Threads - C.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Creating Threads - C.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Command Line Arguments in C - C.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Scheduling & Synchronization.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Processes.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Programs Processes Threads Overview - OS2.md",
     "2. University/TU856 Year 2/Operating Systems 2/Threads.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Scheduling & Synchronization.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Thread Control Block - TCB.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Programs Processes Threads Overview - OS2.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Processes.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Processes - wait().md",
     "2. University/TU856 Year 2/Operating Systems 2/Inter-Processes vs Threads.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Creating Threads - C.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Compiling Threads - C.md",
+    "2. University/TU856 Year 2/Operating Systems 2/!OS2.md",
     "2. University/TU856 Year 2/Web Development 2/Pasted image 20251002123333.png",
     "2. University/TU856 Year 2/Databases 1/Pasted image 20251202112407.png",
     "2. University/TU856 Year 2/! Exam Papers/Object Oriented Programming/CMPU 2016 | 2024-2025.pdf",
