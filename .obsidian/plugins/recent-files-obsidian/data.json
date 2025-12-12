@@ -195,10 +195,6 @@
     {
       "basename": "fork() with wait()",
       "path": "2. University/TU856 Year 2/Operating Systems 2/fork() with wait().png"
-    },
-    {
-      "basename": "Fetch Execute Cycle",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Fetch Execute Cycle.md"
     }
   ],
   "omittedPaths": [],

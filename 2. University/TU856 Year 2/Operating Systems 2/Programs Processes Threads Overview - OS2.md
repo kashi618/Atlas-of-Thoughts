@@ -4,7 +4,6 @@ tags:
   - Processes
 aliases:
 ---
-
 ## Process vs Programs
 **Processes (task)**
 A process is a single instance of an executable program.
@@ -19,19 +18,10 @@ A static passive set of instructions stored on a disk. It is an executable (.exe
 - Static: Means it only contains code.  I doesn't "run"
 
 ## Processes
-- An instance of a program that is being executed. It is what "runs" when a program is started
-- Each process is independent, meaning they do **NOT** share resources with other processes of the same program
-- A program can contain many processes
-
-Each process contains:
-- Code/instructions from the program
-- Data allocated in the heap and stack; containing variables and data
-- Program counter; which stores the next instruction to be executed
-- **Unique PID** (process identification) used to uniquely identify the process
+[[Processes]]
 
 ## Threads
-A subset of the process, that handles the functionality of a process
-- A process can contain multiple threads
+[[Threads]]
 
 ## Hierarchy/Overview
 - **Program**: Firefox.exe

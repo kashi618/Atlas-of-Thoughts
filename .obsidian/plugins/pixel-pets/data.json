@@ -20,12 +20,22 @@
       "id": "pets/pirate-cat-1",
       "type": "pets/pirate-cat",
       "name": "a"
+    },
+    {
+      "id": "pets/batman-black-cat-1",
+      "type": "pets/batman-black-cat",
+      "name": "batman"
     }
   ],
   "nextPetIdCounters": {
     "pets/black-cat": 2,
     "pets/ghost": 2,
     "pets/brown-cat": 2,
-    "pets/pirate-cat": 2
-  }
+    "pets/pirate-cat": 2,
+    "pets/batman-black-cat": 2
+  },
+  "indexedFiles": {},
+  "animatedBackground": true,
+  "openAiApiKey": "",
+  "selectedModel": "none"
 }

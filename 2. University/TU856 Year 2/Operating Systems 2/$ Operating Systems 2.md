@@ -24,35 +24,35 @@
 - [[Queue - dequeue() - C]]
 
 ## Processes and Threads
-- [[Processes - OS1]]
-- [[Programs, Processes, Threads - OS2]]
-
-- [[processes - fork()]] Seperate out wait() into [[Processes - wait()]]
+- ! [[Processes - OS1]] **OUTDATED**
+<br>
+- [[Programs Processes Threads Overview - OS2]]
+<br>
+- [[Processes]]
+- [[processes - fork()]]
 - [[Processes - wait()]]
 - [[processes - exec()]]
+<br>
+- [[Threads]]
 
-- [[! Threads]]
-- [[Compiling Threads]]
-- [[Threads - Creating]]
+- [[Thread Control Block - TCB]]
+<br>
+- [[Compiling Threads - C]]
+- [[Creating Threads - C]]
+- [[Command Line Arguments in C - C]]
 
-- [[C - Command Line Arguments in Main]]
-
-- Thread Management
-
-`exit(1)`
-
-
-### Inter Process Synchronization
-[[Concurrent and Parallel Synchronization]]
-
-[[Test and Set]]
-[[Wait and Signal]]
-[[Semaphores]]
+### Inter-Process Synchronization and Thread Scheduling
+![[Inter-Processes vs Threads]]
+![[Thread and Process Scheduling & Synchronization]]
+<br>
+![[Test and Set]]
+![[Wait and Signal]]
+![[Semaphores]]
 
 
 ## Other
-
-
 [[Heap and Stack Memory]]
-
+<br>
 [[OS2 Potential Exam Questions]] 
+
+[[!OS2]]
