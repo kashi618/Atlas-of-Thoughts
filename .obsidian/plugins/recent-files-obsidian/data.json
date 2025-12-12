@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "To Do",
+      "path": "1. Home Page/To Do.md"
+    },
+    {
       "basename": "Test and Set",
       "path": "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md"
     },
     {
       "basename": "$ Operating Systems 2",
       "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "$ C - Programming Language",
@@ -195,10 +199,6 @@
     {
       "basename": "Instantiating Objects - Java",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/Instantiating Objects - Java.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.md"
     }
   ],
   "omittedPaths": [],
