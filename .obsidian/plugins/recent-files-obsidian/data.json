@@ -5,6 +5,18 @@
       "path": "1. Home Page/Home.canvas"
     },
     {
+      "basename": "PostgreSQL - JOINS (combine data multiple table)",
+      "path": "2. University/TU856 Year 2/Databases 1/PostgreSQL - JOINS (combine data multiple table).md"
+    },
+    {
+      "basename": "$ Databases 1",
+      "path": "2. University/TU856 Year 2/Databases 1/$ Databases 1.md"
+    },
+    {
+      "basename": "TU856-Year2",
+      "path": "1. Home Page/TU856-Year2.md"
+    },
+    {
       "basename": "Phingal Libraries Brief",
       "path": "2. University/TU856 Year 2/Web Development 2/Phingal Libraries Brief.md"
     },
@@ -33,10 +45,6 @@
       "path": "2. University/TU856 Year 2/Databases 1/Entity Relationship Diagram Concepts.md"
     },
     {
-      "basename": "$ Databases 1",
-      "path": "2. University/TU856 Year 2/Databases 1/$ Databases 1.md"
-    },
-    {
       "basename": "Entity Relationship Diagram - Types of Relationships",
       "path": "2. University/TU856 Year 2/Databases 1/Entity Relationship Diagram - Types of Relationships.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "Entity Relationship Diagram (ERD)",
       "path": "2. University/TU856 Year 2/Databases 1/Entity Relationship Diagram (ERD).md"
-    },
-    {
-      "basename": "TU856-Year2",
-      "path": "1. Home Page/TU856-Year2.md"
     },
     {
       "basename": "Archlinux - Helpful Commands",
