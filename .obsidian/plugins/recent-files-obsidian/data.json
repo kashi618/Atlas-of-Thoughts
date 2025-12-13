@@ -5,6 +5,42 @@
       "path": "1. Home Page/Home.canvas"
     },
     {
+      "basename": "CMPU 2022 | 2024-2025",
+      "path": "2. University/TU856 Year 2/! Exam Papers/Web Development 2/CMPU 2022 | 2024-2025.pdf"
+    },
+    {
+      "basename": "CMPU 2022 | 2022-2023",
+      "path": "2. University/TU856 Year 2/! Exam Papers/Web Development 2/CMPU 2022 | 2022-2023.pdf"
+    },
+    {
+      "basename": "CMPU 2022 | 2018-2019",
+      "path": "2. University/TU856 Year 2/! Exam Papers/Web Development 2/CMPU 2022 | 2018-2019.pdf"
+    },
+    {
+      "basename": "CMPU 2019 | 2024-2025",
+      "path": "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2024-2025.pdf"
+    },
+    {
+      "basename": "CMPU 2017 | 2024-2025",
+      "path": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf"
+    },
+    {
+      "basename": "CMPU 2017 | 2018-2019",
+      "path": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2018-2019.pdf"
+    },
+    {
+      "basename": "CMPU 2007 | 2024-2025",
+      "path": "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf"
+    },
+    {
+      "basename": "CMPU 2007 | 2018-2019",
+      "path": "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2018-2019.pdf"
+    },
+    {
+      "basename": "What to DO",
+      "path": "2. University/What to DO.md"
+    },
+    {
       "basename": "Phingal Libraries Brief",
       "path": "2. University/TU856 Year 2/Web Development 2/Phingal Libraries Brief.md"
     },
@@ -163,38 +199,6 @@
     {
       "basename": "Pascal Case",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/Pascal Case.md"
-    },
-    {
-      "basename": "Module Information",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Module Information.md"
-    },
-    {
-      "basename": "OS - 9.16",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/OS - 9.16.md"
-    },
-    {
-      "basename": "OS - 9.15",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/OS - 9.15.md"
-    },
-    {
-      "basename": "Opcode and Operand",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Opcode and Operand.md"
-    },
-    {
-      "basename": "Lab3",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Lab3.md"
-    },
-    {
-      "basename": "Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Java.md"
-    },
-    {
-      "basename": "Heap and Stack Memory",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Heap and Stack Memory.md"
-    },
-    {
-      "basename": "fork() with wait()",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/fork() with wait().png"
     }
   ],
   "omittedPaths": [],

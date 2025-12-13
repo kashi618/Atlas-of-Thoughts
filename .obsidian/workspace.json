@@ -16,8 +16,8 @@
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": -680,
-                  "y": -18.5,
+                  "x": -839.243680503426,
+                  "y": -101.58365939309186,
                   "zoom": -0.1208543948743858
                 }
               },
@@ -90,7 +90,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "b5f3156b4083e9a4",
@@ -111,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 331.5
   },
   "right": {
     "id": "50297d24d0057534",
@@ -227,8 +228,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "2. University/TU856 Year 2/! Exam Papers/Web Development 2/CMPU 2022 | 2024-2025.pdf",
+    "2. University/TU856 Year 2/! Exam Papers/Web Development 2/CMPU 2022 | 2022-2023.pdf",
+    "2. University/TU856 Year 2/! Exam Papers/Web Development 2/CMPU 2022 | 2018-2019.pdf",
+    "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2024-2025.pdf",
+    "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf",
+    "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2018-2019.pdf",
+    "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf",
+    "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2018-2019.pdf",
+    "2. University/What to DO.md",
     "1. Home Page/Home.canvas",
+    "conflict-files-obsidian-git.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts/Simplify.md",
@@ -255,23 +265,15 @@
     "2. University/TU856 Year 2/Operating Systems 2/Inter-Processes vs Threads.md",
     "2. University/TU856 Year 2/Operating Systems 2/Creating Threads - C.md",
     "2. University/TU856 Year 2/Operating Systems 2/Compiling Threads - C.md",
-    "2. University/TU856 Year 2/Operating Systems 2/!OS2.md",
     "2. University/TU856 Year 2/Web Development 2/Pasted image 20251002123333.png",
     "2. University/TU856 Year 2/Databases 1/Pasted image 20251202112407.png",
-    "2. University/TU856 Year 2/! Exam Papers/Object Oriented Programming/CMPU 2016 | 2024-2025.pdf",
-    "2. University/TU856 Year 2/! Exam Papers/Object Oriented Programming/CMPU 2016 | 2023-2024.pdf",
     "2. University/TU856 Year 2/Object Oriented Programming/Pasted image 20251009124000.png",
     "2. University/TU856 Year 2/Operating Systems 2/fork() with wait().png",
     "2. University/TU856 Year 2/Operating Systems 2/Before and After fork().png",
-    "2. University/TU856 Year 2/Operating Systems 2",
-    "3. General/道/樸",
-    "3. General/道",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105509.png",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105455.png",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105454.png",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105452.png",
-    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251111134815.png",
-    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2",
-    "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf"
+    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251111134815.png"
   ]
 }
