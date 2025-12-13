@@ -18,15 +18,64 @@
                 "viewState": {
                   "x": -680,
                   "y": -18.5,
-                  "zoom": -0.6940863142076091
+                  "zoom": -1.1465486633529418
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "569fe0f125dfc190",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Operating Systems 2/OS Schedulers.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "OS Schedulers"
+            }
+          },
+          {
+            "id": "c32536f20711a806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Scheduling & Synchronization.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Thread and Process Scheduling & Synchronization"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 375.5,
+    "collapsed": true
   },
   "right": {
     "id": "50297d24d0057534",
@@ -235,13 +285,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "569fe0f125dfc190",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Operating Systems 2/Jobs.md",
+    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
+    "2. University/TU856 Year 2/Operating Systems 2/OS Schedulers.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Scheduling & Synchronization.md",
+    "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf",
+    "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md",
     "2. University/TU856 Year 2/Databases 1/PostgreSQL - JOINS (combine data multiple table).md",
     "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
-    "1. Home Page/Home.canvas",
-    "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md",
-    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
     "copilot/copilot-conversations/what_is_heap@20251206_132301.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
@@ -263,10 +317,7 @@
     "2. University/TU856 Year 2/Operating Systems 2/Compiling Threads - C.md",
     "2. University/TU856 Year 2/Operating Systems 2/Creating Threads - C.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Command Line Arguments in C - C.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Scheduling & Synchronization.md",
     "2. University/TU856 Year 2/Operating Systems 2/Processes.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Programs Processes Threads Overview - OS2.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Threads.md",
     "2. University/TU856 Year 2/Web Development 2/Pasted image 20251002123333.png",
     "2. University/TU856 Year 2/Databases 1/Pasted image 20251202112407.png",
     "2. University/TU856 Year 2/! Exam Papers/Object Oriented Programming/CMPU 2016 | 2024-2025.pdf",
@@ -282,7 +333,6 @@
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105454.png",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105452.png",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251111134815.png",
-    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2",
-    "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf"
+    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2"
   ]
 }

@@ -40,14 +40,15 @@
 - [[Compiling Threads - C]]
 - [[Creating Threads - C]]
 - [[Command Line Arguments in C - C]]
-
 ### Inter-Process Synchronization and Thread Scheduling
-![[Inter-Processes vs Threads]]
-![[Thread and Process Scheduling & Synchronization]]
+- [[Inter-Processes vs Threads]]
+- [[Jobs]]
+- [[OS Schedulers]]
+- [[Thread and Process Scheduling & Synchronization]]
 <br>
-![[Test and Set]]
-![[Wait and Signal]]
-![[Semaphores]]
+- [[Test and Set]]
+- [[Wait and Signal]]
+- [[Semaphores]]
 
 
 ## Other

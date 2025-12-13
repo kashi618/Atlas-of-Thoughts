@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "OS Schedulers",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/OS Schedulers.md"
+    },
+    {
+      "basename": "Jobs",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Jobs.md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "Thread and Process Scheduling & Synchronization",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Scheduling & Synchronization.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "CMPU 2017 | 2024-2025",
+      "path": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf"
+    },
+    {
+      "basename": "Test and Set",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md"
+    },
+    {
+      "basename": "TU856-Year2",
+      "path": "1. Home Page/TU856-Year2.md"
     },
     {
       "basename": "PostgreSQL - JOINS (combine data multiple table)",
@@ -11,10 +39,6 @@
     {
       "basename": "$ Databases 1",
       "path": "2. University/TU856 Year 2/Databases 1/$ Databases 1.md"
-    },
-    {
-      "basename": "TU856-Year2",
-      "path": "1. Home Page/TU856-Year2.md"
     },
     {
       "basename": "Phingal Libraries Brief",
@@ -133,14 +157,6 @@
       "path": "2. University/TU856 Year 2/Object Oriented Programming/Instantiating Objects - Java.md"
     },
     {
-      "basename": "Test and Set",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md"
-    },
-    {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
-    },
-    {
       "basename": "Untitled 1",
       "path": "Untitled 1.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Opcode and Operand",
       "path": "2. University/TU856 Year 2/Operating Systems 2/Opcode and Operand.md"
-    },
-    {
-      "basename": "Lab3",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Lab3.md"
-    },
-    {
-      "basename": "Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Java.md"
-    },
-    {
-      "basename": "Heap and Stack Memory",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Heap and Stack Memory.md"
-    },
-    {
-      "basename": "fork() with wait()",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/fork() with wait().png"
     }
   ],
   "omittedPaths": [],
