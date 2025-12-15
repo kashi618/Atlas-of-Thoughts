@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Constructors - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Constructors - Java.md"
+    },
+    {
+      "basename": "$ Java - Programming Language",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md"
+    },
+    {
+      "basename": "??Abstraction - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/??Abstraction - Java.md"
+    },
+    {
+      "basename": "Basic Class Template - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Basic Class Template - Java.md"
+    },
+    {
+      "basename": "Attributes - Java",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/Attributes - Java.md"
+    },
+    {
+      "basename": "!!!",
+      "path": "2. University/TU856 Year 2/Object Oriented Programming/!!!.md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "!OS2",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/!OS2.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -11,10 +43,6 @@
     {
       "basename": "Jobs",
       "path": "2. University/TU856 Year 2/Operating Systems 2/Jobs.md"
-    },
-    {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
     },
     {
       "basename": "Thread and Process Scheduling & Synchronization",
@@ -97,10 +125,6 @@
       "path": "2. University/TU856 Year 2/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md"
     },
     {
-      "basename": "$ Java - Programming Language",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md"
-    },
-    {
       "basename": "Encapsulation - Java",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/Encapsulation - Java.md"
     },
@@ -145,10 +169,6 @@
       "path": "2. University/TU856 Year 2/Object Oriented Programming/Syntax and Semantics.md"
     },
     {
-      "basename": "Constructors - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Constructors - Java.md"
-    },
-    {
       "basename": "new - Java",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/new - Java.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Programming Paradigms",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/Programming Paradigms.md"
-    },
-    {
-      "basename": "Pascal Case",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Pascal Case.md"
-    },
-    {
-      "basename": "Module Information",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Module Information.md"
-    },
-    {
-      "basename": "OS - 9.16",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/OS - 9.16.md"
-    },
-    {
-      "basename": "OS - 9.15",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/OS - 9.15.md"
-    },
-    {
-      "basename": "Opcode and Operand",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Opcode and Operand.md"
     }
   ],
   "omittedPaths": [],
