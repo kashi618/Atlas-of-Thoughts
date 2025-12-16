@@ -25,8 +25,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "b25831e83c382ae6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TV Shows & Movies & Anime & Manga"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,13 +260,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b25831e83c382ae6",
   "lastOpenFiles": [
+    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Object Oriented Programming/Instantiating Objects - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Methods - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Attributes - Java.md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Object Oriented Programming/Constructors - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/??Abstraction - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Basic Class Template - Java.md",
@@ -265,7 +290,6 @@
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "2. University/TU856 Year 2/Web Development 2/Pasted image 20251002123333.png",
