@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Constructors - Java",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/Constructors - Java.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "!OS2",
       "path": "2. University/TU856 Year 2/Operating Systems 2/!OS2.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "OS Schedulers",
