@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Instantiating Objects - Java",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/Instantiating Objects - Java.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Attributes - Java",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/Attributes - Java.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Constructors - Java",
