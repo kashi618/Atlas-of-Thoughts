@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -20,11 +21,37 @@
                   "zoom": -1.4756236521398831
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "893024a43b8199a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Object Oriented Programming/Instantiating Objects - Java.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Instantiating Objects - Java"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,17 +260,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "893024a43b8199a8",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Object Oriented Programming/Constructors - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/Methods - Java.md",
+    "2. University/TU856 Year 2/Object Oriented Programming/Attributes - Java.md",
+    "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Object Oriented Programming/Constructors - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/??Abstraction - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Basic Class Template - Java.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/Attributes - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/!!!.md",
     "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
     "2. University/TU856 Year 2/Operating Systems 2/!OS2.md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Operating Systems 2/OS Schedulers.md",
     "2. University/TU856 Year 2/Operating Systems 2/Jobs.md",
     "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Scheduling & Synchronization.md",
@@ -263,7 +291,6 @@
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "2. University/TU856 Year 2/Web Development 2/Pasted image 20251002123333.png",
