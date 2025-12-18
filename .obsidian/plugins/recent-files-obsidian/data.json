@@ -1,16 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Results",
-      "path": "2. University/TU856 Year 2/Results.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
-    },
-    {
-      "basename": "CMPU 2017",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017.md"
+      "basename": "Linked Lists - Deleting Nodes - C",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Deleting Nodes - C.md"
     },
     {
       "basename": "Linked Lists - Inserting Nodes - C",
@@ -19,6 +11,26 @@
     {
       "basename": "$ Operating Systems 2",
       "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "CMPU 2017",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017.md"
+    },
+    {
+      "basename": "Linked Lists - Creating Nodes - C",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Creating Nodes - C.md"
+    },
+    {
+      "basename": "Linked Lists",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Linked Lists.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Results",
+      "path": "2. University/TU856 Year 2/Results.md"
     },
     {
       "basename": "Stacks - push() - C",
@@ -187,18 +199,6 @@
     {
       "basename": "Access Modifiers - Java",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/Access Modifiers - Java.md"
-    },
-    {
-      "basename": "Getters & Setters, And Gatekeeping - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Getters & Setters, And Gatekeeping - Java.md"
-    },
-    {
-      "basename": "Method Overloading - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Method Overloading - Java.md"
-    },
-    {
-      "basename": "Syntax and Semantics",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Syntax and Semantics.md"
     }
   ],
   "omittedPaths": [],

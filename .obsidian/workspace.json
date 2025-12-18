@@ -51,7 +51,7 @@
             }
           },
           {
-            "id": "e08f512c75afab6e",
+            "id": "7b82b753d2725364",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,8 +73,33 @@
               "icon": "lucide-file",
               "title": "Linked Lists - Inserting Nodes - C"
             }
+          },
+          {
+            "id": "e08f512c75afab6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Deleting Nodes - C.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Linked Lists - Deleting Nodes - C"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 375.5,
+    "collapsed": true
   },
   "right": {
     "id": "50297d24d0057534",
@@ -323,22 +349,25 @@
           }
         ],
         "direction": "vertical",
-        "x": 1173,
+        "x": 173,
         "y": 40,
-        "width": 736,
+        "width": 1736,
         "height": 1029,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "e1329fe9de44716a",
+  "active": "e08f512c75afab6e",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Inserting Nodes - C.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Deleting Nodes - C.md",
+    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
+    "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Creating Nodes - C.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Linked Lists.md",
     "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Results.md",
-    "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Inserting Nodes - C.md",
-    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
     "2. University/TU856 Year 2/Operating Systems 2/Stacks - push() - C.md",
     "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf",
     "2. University/TU856 Year 2/Operating Systems 2/Deadlock.md",
@@ -361,8 +390,6 @@
     "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
     "copilot/copilot-conversations/what_is_heap@20251206_132301.md",
     "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "2. University/TU856 Year 2/Web Development 2/Pasted image 20251002123333.png",

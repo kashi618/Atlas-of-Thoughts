@@ -35,7 +35,7 @@ void main() {
 ```
 
 
-## Insert()
+## insert()
 This function inserts node in **ascending order**.
 
 ```c showlinenumbers
@@ -44,15 +44,13 @@ void insert(ListNode **sPtr, char value) {
 	ListNode *newPtr = malloc(sizeof(ListNode));
 	
 	if (newPtr != NULL) {// Checks if node is successfully created
-		
 		// Sets attributes for our node
 		newPtr->data    = value;
 		newPtr->nextPtr = NULL;
 		
-		
 		// Create temporary node, for sorting in ascending order
-		ListNode *prevPtr = NULL; // NULL because start node does not have previous nodes
-		ListNode *currPtr = *sPtr; // Set to *sPtr (dereferenced, to get address of sPtr)
+		ListNode *prevPtr = NULL; 
+		ListNode *currPtr = *sPtr;
 		
 		// Loop to find where to place the newPtr (newPtr will be between prevPtr and currPtr)
 		while (currPtr!=NULL && value > currPtr->data) {

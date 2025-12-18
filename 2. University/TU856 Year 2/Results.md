@@ -66,14 +66,14 @@ Quiz2: ??/??
 TOTAL: ??/??
 
 (8 Labs worth 3/4% each)
-Lab1: 
-Lab2: 
-Lab3: 
-Lab4: 
-Lab5: 
-Lab6: 
-Lab7: 
-Lab8: 
+Lab1: ??
+Lab2: ??
+Lab3: ??
+Lab4: ??
+Lab5: ??
+Lab6: ??
+Lab7: ??
+Lab8: ??
 
 ## Web Development 2
 50/50
@@ -81,3 +81,17 @@ Lab8:
 **Exam**
 
 **CA**
+(Project worth 70% of total ca)
+Project: ??
+
+(Labs worth 3/4% each)
+Lab1: ?? 100%
+Lab2: ?? 100%
+Lab3: ?? 100%
+Lab4: ?? 100%
+Lab5: ?? 100%
+Lab6: ?? 100%
+Lab7: ?? 100%
+Lab8: ?? 100%
+Lab9: ?? 100%
+Lab10: ?? 0%
