@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Deadlock",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Deadlock.md"
+      "basename": "CMPU 2017 | 2024-2025",
+      "path": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf"
     },
     {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
-    },
-    {
-      "basename": "Thread and Process Scheduling & Synchronization",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Scheduling & Synchronization.md"
+      "basename": "Stacks - push() - C",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Stacks - push() - C.md"
     },
     {
       "basename": "CMPU 2017",
       "path": "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017.md"
     },
     {
-      "basename": "CMPU 2017 | 2024-2025",
-      "path": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf"
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "Deadlock",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Deadlock.md"
+    },
+    {
+      "basename": "Thread and Process Scheduling & Synchronization",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Scheduling & Synchronization.md"
     },
     {
       "basename": "TU856-Year2",
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled 1",
       "path": "Untitled 1.md"
-    },
-    {
-      "basename": "ArrayLists - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/ArrayLists - Java.md"
     }
   ],
   "omittedPaths": [],

@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
+                "file": "2. University/TU856 Year 2/Operating Systems 2/Stacks - push() - C.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -72,35 +72,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Operating Systems 2"
-            }
-          },
-          {
-            "id": "4cf74acce8516b20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Operating Systems 2/Deadlock.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Deadlock"
+              "title": "Stacks - push() - C"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "867884be3368d118",
@@ -330,13 +306,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4cf74acce8516b20",
+  "active": "e1329fe9de44716a",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Operating Systems 2/Deadlock.md",
-    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Scheduling & Synchronization.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Stacks - push() - C.md",
     "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017.md",
+    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Deadlock.md",
     "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf",
+    "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251218170821.png",
+    "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Scheduling & Synchronization.md",
     "1. Home Page/Home.canvas",
     "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Instantiating Objects - Java.md",
@@ -360,7 +338,6 @@
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "2. University/TU856 Year 2/Web Development 2/Pasted image 20251002123333.png",
@@ -377,7 +354,6 @@
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105455.png",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105454.png",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105452.png",
-    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251111134815.png",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2"
   ]
 }
