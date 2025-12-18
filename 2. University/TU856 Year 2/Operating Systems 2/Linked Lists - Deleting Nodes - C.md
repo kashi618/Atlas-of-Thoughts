@@ -60,11 +60,11 @@ char delete(ListNode* *sPtr, char value) {
 			// Free deleted node
 			free(currentPtr);
 			 
-			return value
+			return value;
 		}
 	} // END else
 	
-	return '\0';\
+	return '\0';
 }
 ```
 

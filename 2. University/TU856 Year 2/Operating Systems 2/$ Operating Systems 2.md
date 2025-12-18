@@ -1,4 +1,3 @@
-- [[OS - 9.15]]
 - [[OS - 9.16]]
 
 ## Von Neumann Architecture
@@ -59,5 +58,4 @@
 [[!OS2]]
 
 ## Exam Papers
-[[CMPU 2017 | 2024-2025.pdf]]
-[[CMPU 2017 | 2024-2025]]
+[[CMPU 2017 2024-2025]]

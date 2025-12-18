@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Linked Lists - Deleting Nodes - C",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Deleting Nodes - C.md"
+      "basename": "CMPU 2017 2024-2025",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017 2024-2025.md"
+    },
+    {
+      "basename": "CMPU 2017   2024-2025",
+      "path": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017   2024-2025"
     },
     {
       "basename": "Linked Lists - Inserting Nodes - C",
@@ -13,8 +17,16 @@
       "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
     },
     {
-      "basename": "CMPU 2017",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017.md"
+      "basename": "CMPU 2017   2022-2023",
+      "path": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017   2022-2023"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Linked Lists - Deleting Nodes - C",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Deleting Nodes - C.md"
     },
     {
       "basename": "Linked Lists - Creating Nodes - C",
@@ -25,20 +37,12 @@
       "path": "2. University/TU856 Year 2/Operating Systems 2/Linked Lists.md"
     },
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
-    },
-    {
       "basename": "Results",
       "path": "2. University/TU856 Year 2/Results.md"
     },
     {
       "basename": "Stacks - push() - C",
       "path": "2. University/TU856 Year 2/Operating Systems 2/Stacks - push() - C.md"
-    },
-    {
-      "basename": "CMPU 2017 | 2024-2025",
-      "path": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf"
     },
     {
       "basename": "Deadlock",
@@ -191,14 +195,6 @@
     {
       "basename": "Interfaces - Java",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/Interfaces - Java.md"
-    },
-    {
-      "basename": "(.equals) vs (==) - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/(.equals) vs (==) - Java.md"
-    },
-    {
-      "basename": "Access Modifiers - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Access Modifiers - Java.md"
     }
   ],
   "omittedPaths": [],
