@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Operating Systems 2/Stacks - push() - C.md",
+                "file": "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Inserting Nodes - C.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -72,7 +72,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Stacks - push() - C"
+              "title": "Linked Lists - Inserting Nodes - C"
             }
           }
         ],
@@ -306,13 +306,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e1329fe9de44716a",
+  "active": "e08f512c75afab6e",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
     "2. University/TU856 Year 2/Operating Systems 2/Stacks - push() - C.md",
     "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017.md",
-    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Deadlock.md",
     "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf",
+    "2. University/TU856 Year 2/Operating Systems 2/Deadlock.md",
     "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251218170821.png",
     "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Scheduling & Synchronization.md",
     "1. Home Page/Home.canvas",
@@ -337,7 +337,6 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "2. University/TU856 Year 2/Web Development 2/Pasted image 20251002123333.png",
