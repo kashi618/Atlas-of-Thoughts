@@ -33,8 +33,8 @@
               "type": "markdown",
               "state": {
                 "file": "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017 2024-2025.md",
-                "mode": "source",
-                "source": true,
+                "mode": "preview",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -48,6 +48,25 @@
               },
               "icon": "lucide-file",
               "title": "CMPU 2017 2024-2025"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "5d00e686d392e0e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea11203cc175ad76",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017   2024-2025"
+              },
+              "icon": "lucide-file-text",
+              "title": "CMPU 2017   2024-2025"
             }
           },
           {
@@ -76,24 +95,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "5d00e686d392e0e4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ea11203cc175ad76",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017   2024-2025"
-              },
-              "icon": "lucide-file-text",
-              "title": "CMPU 2017   2024-2025"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -354,9 +355,12 @@
   },
   "active": "f0858b26b84405e4",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251218233235.png",
+    "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Inserting Nodes - C.md",
     "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017   2024-2025",
     "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017 2024-2025.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Inserting Nodes - C.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251218232043.png",
+    "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251218231901.png",
     "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
     "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017 2024-2025.pdf.md",
     "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017   2022-2023",
@@ -397,8 +401,6 @@
     "3. General/道/樸",
     "3. General/道",
     "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105509.png",
-    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105455.png",
-    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105454.png",
-    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105452.png"
+    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105455.png"
   ]
 }
