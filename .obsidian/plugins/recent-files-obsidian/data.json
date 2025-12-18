@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Results",
+      "path": "2. University/TU856 Year 2/Results.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "CMPU 2017",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017.md"
+    },
+    {
       "basename": "Linked Lists - Inserting Nodes - C",
       "path": "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Inserting Nodes - C.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "Stacks - push() - C",
       "path": "2. University/TU856 Year 2/Operating Systems 2/Stacks - push() - C.md"
-    },
-    {
-      "basename": "CMPU 2017",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017.md"
     },
     {
       "basename": "CMPU 2017 | 2024-2025",
@@ -31,10 +39,6 @@
     {
       "basename": "TU856-Year2",
       "path": "1. Home Page/TU856-Year2.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "TV Shows & Movies & Anime & Manga",
@@ -195,10 +199,6 @@
     {
       "basename": "Syntax and Semantics",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/Syntax and Semantics.md"
-    },
-    {
-      "basename": "new - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/new - Java.md"
     }
   ],
   "omittedPaths": [],
