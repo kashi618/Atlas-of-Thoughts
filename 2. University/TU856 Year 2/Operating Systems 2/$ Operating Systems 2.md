@@ -50,10 +50,14 @@
 - [[Wait and Signal]]
 - [[Semaphores]]
 
-
+[[Deadlock]]
 ## Other
 [[Heap and Stack Memory]]
 <br>
 [[OS2 Potential Exam Questions]] 
 
 [[!OS2]]
+
+## Exam Papers
+[[CMPU 2017 | 2024-2025.pdf]]
+[[CMPU 2017 | 2024-2025]]

@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Deadlock",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Deadlock.md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "Thread and Process Scheduling & Synchronization",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Scheduling & Synchronization.md"
+    },
+    {
+      "basename": "CMPU 2017",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017.md"
+    },
+    {
+      "basename": "CMPU 2017 | 2024-2025",
+      "path": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf"
+    },
+    {
+      "basename": "TU856-Year2",
+      "path": "1. Home Page/TU856-Year2.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -41,10 +65,6 @@
       "path": "2. University/TU856 Year 2/Object Oriented Programming/!!!.md"
     },
     {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
-    },
-    {
       "basename": "!OS2",
       "path": "2. University/TU856 Year 2/Operating Systems 2/!OS2.md"
     },
@@ -57,20 +77,8 @@
       "path": "2. University/TU856 Year 2/Operating Systems 2/Jobs.md"
     },
     {
-      "basename": "Thread and Process Scheduling & Synchronization",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Scheduling & Synchronization.md"
-    },
-    {
-      "basename": "CMPU 2017 | 2024-2025",
-      "path": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf"
-    },
-    {
       "basename": "Test and Set",
       "path": "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md"
-    },
-    {
-      "basename": "TU856-Year2",
-      "path": "1. Home Page/TU856-Year2.md"
     },
     {
       "basename": "PostgreSQL - JOINS (combine data multiple table)",
@@ -191,14 +199,6 @@
     {
       "basename": "ArrayLists - Java",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/ArrayLists - Java.md"
-    },
-    {
-      "basename": "Arrays vs ArrayLists - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Arrays vs ArrayLists - Java.md"
-    },
-    {
-      "basename": "OS2 Potential Exam Questions",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/OS2 Potential Exam Questions.md"
     }
   ],
   "omittedPaths": [],

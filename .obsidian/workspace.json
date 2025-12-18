@@ -6,10 +6,12 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
+        "dimension": 46.794871794871796,
         "children": [
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -17,11 +19,104 @@
                 "viewState": {
                   "x": -680,
                   "y": -18.5,
-                  "zoom": -2.111968431642797
+                  "zoom": -0.9516369784386008
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
+            }
+          },
+          {
+            "id": "f0858b26b84405e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CMPU 2017"
+            }
+          },
+          {
+            "id": "e08f512c75afab6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Operating Systems 2"
+            }
+          },
+          {
+            "id": "4cf74acce8516b20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Operating Systems 2/Deadlock.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Deadlock"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "867884be3368d118",
+        "type": "tabs",
+        "dimension": 53.205128205128204,
+        "children": [
+          {
+            "id": "e1329fe9de44716a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CMPU 2017 | 2024-2025"
             }
           }
         ]
@@ -98,7 +193,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "a7feb26b88d7b800",
@@ -119,7 +215,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 375.5,
+    "collapsed": true
   },
   "right": {
     "id": "50297d24d0057534",
@@ -233,8 +330,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "4cf74acce8516b20",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Operating Systems 2/Deadlock.md",
+    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Scheduling & Synchronization.md",
+    "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017.md",
+    "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf",
     "1. Home Page/Home.canvas",
     "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Instantiating Objects - Java.md",
@@ -245,12 +347,9 @@
     "2. University/TU856 Year 2/Object Oriented Programming/??Abstraction - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Basic Class Template - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/!!!.md",
-    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
     "2. University/TU856 Year 2/Operating Systems 2/!OS2.md",
     "2. University/TU856 Year 2/Operating Systems 2/OS Schedulers.md",
     "2. University/TU856 Year 2/Operating Systems 2/Jobs.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Scheduling & Synchronization.md",
-    "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf",
     "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md",
     "2. University/TU856 Year 2/Databases 1/PostgreSQL - JOINS (combine data multiple table).md",
     "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
@@ -262,7 +361,6 @@
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "2. University/TU856 Year 2/Web Development 2/Pasted image 20251002123333.png",
