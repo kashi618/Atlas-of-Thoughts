@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "CMPU 2017 2024-2025",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017 2024-2025.md"
+    },
+    {
       "basename": "CMPU 2017  2024-2025",
       "path": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017  2024-2025.pdf"
     },
     {
-      "basename": "CMPU 2017 2024-2025",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017 2024-2025.md"
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Structures - Anatomy - C",
+      "path": "2. University/TU856 Year 1/Programming/Structures - Anatomy - C.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "2. University/TU856 Year 1/Programming/$ C - Programming Language.md"
     },
     {
       "basename": "$ Operating Systems 2",
@@ -15,10 +27,6 @@
     {
       "basename": "TU856-Year2",
       "path": "1. Home Page/TU856-Year2.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "CMPU 2017  2018-2019",
@@ -191,14 +199,6 @@
     {
       "basename": "PostgreSQL - ALTER TABLE (add  rename remove columns",
       "path": "2. University/TU856 Year 2/Databases 1/PostgreSQL - ALTER TABLE (add  rename remove columns.md"
-    },
-    {
-      "basename": "PostgreSQL - Creating Tables - IMDb Example",
-      "path": "2. University/TU856 Year 2/Databases 1/PostgreSQL - Creating Tables - IMDb Example.md"
-    },
-    {
-      "basename": "Encapsulation - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Encapsulation - Java.md"
     }
   ],
   "omittedPaths": [],

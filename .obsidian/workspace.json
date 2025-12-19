@@ -35,7 +35,7 @@
               "state": {
                 "file": "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017 2024-2025.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -293,19 +293,22 @@
         "direction": "vertical",
         "x": 11,
         "y": 40,
-        "width": 906,
-        "height": 572,
+        "width": 1130,
+        "height": 94,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "8924deebd1245ee1",
+  "active": "24b7219913d082b3",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017 2024-2025.md",
     "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017  2024-2025.pdf",
-    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
+    "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017 2024-2025.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251219190222.png",
     "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 1/Programming/Structures - Anatomy - C.md",
+    "2. University/TU856 Year 1/Programming/$ C - Programming Language.md",
+    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
     "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017  2018-2019.pdf",
     "Untitled 1.md",
     "Untitled.md",
@@ -334,8 +337,6 @@
     "2. University/TU856 Year 2/Object Oriented Programming/Instantiating Objects - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/$ Java - Programming Language.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Methods - Java.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/Attributes - Java.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/Constructors - Java.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",
@@ -346,7 +347,6 @@
     "2. University/TU856 Year 2/Object Oriented Programming/Pasted image 20251009124000.png",
     "2. University/TU856 Year 2/Operating Systems 2/fork() with wait().png",
     "2. University/TU856 Year 2/Operating Systems 2/Before and After fork().png",
-    "2. University/TU856 Year 2/Operating Systems 2",
-    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105509.png"
+    "2. University/TU856 Year 2/Operating Systems 2"
   ]
 }
