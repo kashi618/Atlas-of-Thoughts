@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Results",
+      "path": "2. University/TU856 Year 2/Results.md"
+    },
+    {
       "basename": "CMPU 2017 2024-2025",
       "path": "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017 2024-2025.md"
     },
@@ -21,10 +29,6 @@
       "path": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017   2022-2023"
     },
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
-    },
-    {
       "basename": "Linked Lists - Deleting Nodes - C",
       "path": "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Deleting Nodes - C.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Linked Lists",
       "path": "2. University/TU856 Year 2/Operating Systems 2/Linked Lists.md"
-    },
-    {
-      "basename": "Results",
-      "path": "2. University/TU856 Year 2/Results.md"
     },
     {
       "basename": "Stacks - push() - C",
