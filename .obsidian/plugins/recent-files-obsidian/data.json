@@ -1,32 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
-    },
-    {
-      "basename": "Results",
-      "path": "2. University/TU856 Year 2/Results.md"
+      "basename": "CMPU 2017  2024-2025",
+      "path": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017  2024-2025.pdf"
     },
     {
       "basename": "CMPU 2017 2024-2025",
       "path": "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017 2024-2025.md"
     },
     {
-      "basename": "Linked Lists - Inserting Nodes - C",
-      "path": "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Inserting Nodes - C.md"
-    },
-    {
-      "basename": "CMPU 2017   2024-2025",
-      "path": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017   2024-2025"
-    },
-    {
       "basename": "$ Operating Systems 2",
       "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
     },
     {
+      "basename": "TU856-Year2",
+      "path": "1. Home Page/TU856-Year2.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "CMPU 2017  2018-2019",
+      "path": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017  2018-2019.pdf"
+    },
+    {
+      "basename": "Rewrite as tweet thread",
+      "path": "copilot/copilot-custom-prompts/Rewrite as tweet thread.md"
+    },
+    {
+      "basename": "Simplify",
+      "path": "copilot/copilot-custom-prompts/Simplify.md"
+    },
+    {
+      "basename": "Generate table of contents",
+      "path": "copilot/copilot-custom-prompts/Generate table of contents.md"
+    },
+    {
+      "basename": "Emojify",
+      "path": "copilot/copilot-custom-prompts/Emojify.md"
+    },
+    {
+      "basename": "what_is_heap@20251206_132301",
+      "path": "copilot/copilot-conversations/what_is_heap@20251206_132301.md"
+    },
+    {
+      "basename": "Results",
+      "path": "2. University/TU856 Year 2/Results.md"
+    },
+    {
+      "basename": "Linked Lists - Inserting Nodes - C",
+      "path": "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Inserting Nodes - C.md"
+    },
+    {
       "basename": "CMPU 2017   2022-2023",
-      "path": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017   2022-2023"
+      "path": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017   2022-2023.pdf"
     },
     {
       "basename": "Linked Lists - Deleting Nodes - C",
@@ -51,10 +79,6 @@
     {
       "basename": "Thread and Process Scheduling & Synchronization",
       "path": "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Scheduling & Synchronization.md"
-    },
-    {
-      "basename": "TU856-Year2",
-      "path": "1. Home Page/TU856-Year2.md"
     },
     {
       "basename": "TV Shows & Movies & Anime & Manga",
@@ -175,26 +199,6 @@
     {
       "basename": "Encapsulation - Java",
       "path": "2. University/TU856 Year 2/Object Oriented Programming/Encapsulation - Java.md"
-    },
-    {
-      "basename": "Java Pitfalls",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Java Pitfalls.md"
-    },
-    {
-      "basename": "Static - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Static - Java.md"
-    },
-    {
-      "basename": "CMPU 2016 | 2024-2025",
-      "path": "2. University/TU856 Year 2/! Exam Papers/Object Oriented Programming/CMPU 2016 | 2024-2025.pdf"
-    },
-    {
-      "basename": "CMPU 2016 | 2023-2024",
-      "path": "2. University/TU856 Year 2/! Exam Papers/Object Oriented Programming/CMPU 2016 | 2023-2024.pdf"
-    },
-    {
-      "basename": "Interfaces - Java",
-      "path": "2. University/TU856 Year 2/Object Oriented Programming/Interfaces - Java.md"
     }
   ],
   "omittedPaths": [],

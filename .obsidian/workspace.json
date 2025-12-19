@@ -6,6 +6,7 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -18,7 +19,7 @@
                 "viewState": {
                   "x": -680,
                   "y": -18.5,
-                  "zoom": -0.9516369784386008
+                  "zoom": -0.6940863142076091
                 }
               },
               "pinned": true,
@@ -27,56 +28,13 @@
             }
           },
           {
-            "id": "f0858b26b84405e4",
+            "id": "24b7219913d082b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017 2024-2025.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CMPU 2017 2024-2025"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "5d00e686d392e0e4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ea11203cc175ad76",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017   2024-2025"
-              },
-              "icon": "lucide-file-text",
-              "title": "CMPU 2017   2024-2025"
-            }
-          },
-          {
-            "id": "70c16ae7ed834542",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Inserting Nodes - C.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -90,7 +48,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Linked Lists - Inserting Nodes - C"
+              "title": "CMPU 2017 2024-2025"
             }
           }
         ],
@@ -168,7 +126,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "a7feb26b88d7b800",
@@ -305,71 +264,68 @@
     }
   },
   "floating": {
-    "id": "0472f8304c79411c",
+    "id": "6824d40b4ae8fd14",
     "type": "floating",
     "children": [
       {
-        "id": "6559781e9085a11e",
+        "id": "4cc2729207c113e4",
         "type": "window",
         "children": [
           {
-            "id": "a8690af50dea92a2",
+            "id": "7e004a015351369d",
             "type": "tabs",
             "children": [
               {
-                "id": "e1329fe9de44716a",
+                "id": "8924deebd1245ee1",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "pdf",
                   "state": {
-                    "file": "2. University/TU856 Year 2/Results.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
+                    "file": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017  2024-2025.pdf"
                   },
-                  "icon": "lucide-file",
-                  "title": "Results"
+                  "icon": "lucide-file-text",
+                  "title": "CMPU 2017  2024-2025"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 173,
+        "x": 11,
         "y": 40,
-        "width": 1736,
-        "height": 1029,
+        "width": 906,
+        "height": 572,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "f0858b26b84405e4",
+  "active": "8924deebd1245ee1",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017 2024-2025.md",
+    "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017  2024-2025.pdf",
+    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
+    "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017  2018-2019.pdf",
+    "Untitled 1.md",
+    "Untitled.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-conversations/what_is_heap@20251206_132301.md",
+    "2. University/TU856 Year 2/Results.md",
     "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251218233235.png",
     "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Inserting Nodes - C.md",
     "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017   2024-2025",
-    "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017 2024-2025.md",
     "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251218232043.png",
     "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251218231901.png",
-    "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md",
     "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017 2024-2025.pdf.md",
-    "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017   2022-2023",
+    "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017   2022-2023.pdf",
     "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017.md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Deleting Nodes - C.md",
     "2. University/TU856 Year 2/Operating Systems 2/Linked Lists - Creating Nodes - C.md",
     "2. University/TU856 Year 2/Operating Systems 2/Linked Lists.md",
-    "2. University/TU856 Year 2/Results.md",
     "2. University/TU856 Year 2/Operating Systems 2/Stacks - push() - C.md",
     "2. University/TU856 Year 2/Operating Systems 2/Deadlock.md",
     "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251218170821.png",
@@ -380,13 +336,6 @@
     "2. University/TU856 Year 2/Object Oriented Programming/Methods - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Attributes - Java.md",
     "2. University/TU856 Year 2/Object Oriented Programming/Constructors - Java.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/??Abstraction - Java.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/Basic Class Template - Java.md",
-    "2. University/TU856 Year 2/Object Oriented Programming/!!!.md",
-    "2. University/TU856 Year 2/Operating Systems 2/!OS2.md",
-    "2. University/TU856 Year 2/Operating Systems 2/OS Schedulers.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Jobs.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Test and Set.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",
@@ -398,9 +347,6 @@
     "2. University/TU856 Year 2/Operating Systems 2/fork() with wait().png",
     "2. University/TU856 Year 2/Operating Systems 2/Before and After fork().png",
     "2. University/TU856 Year 2/Operating Systems 2",
-    "3. General/道/樸",
-    "3. General/道",
-    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105509.png",
-    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105455.png"
+    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105509.png"
   ]
 }
