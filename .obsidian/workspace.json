@@ -49,9 +49,33 @@
               "icon": "lucide-file",
               "title": "Is Knowledge Finite?"
             }
+          },
+          {
+            "id": "8c62485a74f05823",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -250,10 +274,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "43285790ec984681",
+  "active": "8c62485a74f05823",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "3. General/Ideas/Is Knowledge Finite?.md",
+    "conflict-files-obsidian-git.md",
+    "2. University/TU856 Year 2/Results.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251219190222.png",
+    "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251218233235.png",
+    "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251218232043.png",
+    "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251218170821.png",
+    "2. University/TU856 Year 2/Operating Systems 2/OS Schedulers.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Jobs.md",
+    "2. University/TU856 Year 2/Operating Systems 2/Deadlock.md",
+    "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017 2024-2025.md",
     "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/! Exam Papers/Web Development 2/CMPU 2022 | 2024-2025.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Web Development 2/CMPU 2022 | 2022-2023.pdf",
@@ -284,20 +317,11 @@
     "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Scheduling & Synchronization.md",
     "2. University/TU856 Year 2/Operating Systems 2/Thread Control Block - TCB.md",
     "2. University/TU856 Year 2/Operating Systems 2/Programs Processes Threads Overview - OS2.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Processes.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Processes - wait().md",
-    "2. University/TU856 Year 2/Operating Systems 2/Inter-Processes vs Threads.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Creating Threads - C.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Compiling Threads - C.md",
     "2. University/TU856 Year 2/Web Development 2/Pasted image 20251002123333.png",
     "2. University/TU856 Year 2/Databases 1/Pasted image 20251202112407.png",
     "2. University/TU856 Year 2/Object Oriented Programming/Pasted image 20251009124000.png",
     "2. University/TU856 Year 2/Operating Systems 2/fork() with wait().png",
     "2. University/TU856 Year 2/Operating Systems 2/Before and After fork().png",
-    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105509.png",
-    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105455.png",
-    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105454.png",
-    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105452.png",
-    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251111134815.png"
+    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105509.png"
   ]
 }

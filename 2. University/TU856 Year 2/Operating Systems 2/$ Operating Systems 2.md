@@ -1,4 +1,3 @@
-- [[OS - 9.15]]
 - [[OS - 9.16]]
 
 ## Von Neumann Architecture
@@ -40,19 +39,23 @@
 - [[Compiling Threads - C]]
 - [[Creating Threads - C]]
 - [[Command Line Arguments in C - C]]
-
 ### Inter-Process Synchronization and Thread Scheduling
-![[Inter-Processes vs Threads]]
-![[Thread and Process Scheduling & Synchronization]]
+- [[Inter-Processes vs Threads]]
+- [[Jobs]]
+- [[OS Schedulers]]
+- [[Thread and Process Scheduling & Synchronization]]
 <br>
-![[Test and Set]]
-![[Wait and Signal]]
-![[Semaphores]]
+- [[Test and Set]]
+- [[Wait and Signal]]
+- [[Semaphores]]
 
-
+[[Deadlock]]
 ## Other
 [[Heap and Stack Memory]]
 <br>
 [[OS2 Potential Exam Questions]] 
 
 [[!OS2]]
+
+## Exam Papers
+[[CMPU 2017 2024-2025]]

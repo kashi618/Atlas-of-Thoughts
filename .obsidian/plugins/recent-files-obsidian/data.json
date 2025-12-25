@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Is Knowledge Finite?",
       "path": "3. General/Ideas/Is Knowledge Finite?.md"
     },
@@ -23,14 +27,6 @@
     {
       "basename": "CMPU 2019 | 2024-2025",
       "path": "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2024-2025.pdf"
-    },
-    {
-      "basename": "CMPU 2017 | 2024-2025",
-      "path": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf"
-    },
-    {
-      "basename": "CMPU 2017 | 2018-2019",
-      "path": "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2018-2019.pdf"
     },
     {
       "basename": "CMPU 2007 | 2024-2025",
@@ -175,10 +171,6 @@
     {
       "basename": "$ Operating Systems 2",
       "path": "2. University/TU856 Year 2/Operating Systems 2/$ Operating Systems 2.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.md"
     },
     {
       "basename": "ArrayLists - Java",
