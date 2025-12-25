@@ -13,3 +13,5 @@
 	- Use to ask questions 
 - Obsidian shortkeys
 - waybar (wifi) add colour green yellow oragne red for signal strength
+- Whiteboard/blackboard with to do list
+- Calculate how much study

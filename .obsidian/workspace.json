@@ -16,17 +16,42 @@
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": -839.243680503426,
-                  "y": -101.58365939309186,
-                  "zoom": -0.1208543948743858
+                  "x": -680,
+                  "y": -18.5,
+                  "zoom": -0.1628431108033441
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "43285790ec984681",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. General/Ideas/Is Knowledge Finite?.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Is Knowledge Finite?"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,8 +115,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "b5f3156b4083e9a4",
@@ -226,8 +250,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "43285790ec984681",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "3. General/Ideas/Is Knowledge Finite?.md",
+    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/! Exam Papers/Web Development 2/CMPU 2022 | 2024-2025.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Web Development 2/CMPU 2022 | 2022-2023.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Web Development 2/CMPU 2022 | 2018-2019.pdf",
@@ -237,8 +264,6 @@
     "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2018-2019.pdf",
     "2. University/What to DO.md",
-    "1. Home Page/Home.canvas",
-    "conflict-files-obsidian-git.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts/Simplify.md",
@@ -255,7 +280,6 @@
     "copilot/copilot-conversations/what_is_heap@20251206_132301.md",
     "copilot/copilot-custom-prompts",
     "copilot/copilot-conversations",
-    "copilot",
     "2. University/TU856 Year 2/Operating Systems 2/Threads.md",
     "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Scheduling & Synchronization.md",
     "2. University/TU856 Year 2/Operating Systems 2/Thread Control Block - TCB.md",
