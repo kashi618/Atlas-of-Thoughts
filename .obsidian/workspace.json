@@ -18,15 +18,40 @@
                 "viewState": {
                   "x": -680,
                   "y": -18.5,
-                  "zoom": -1.9336311903842849
+                  "zoom": -0.6247348477669246
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "5ce437ac0c52f85a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Databases 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,6 +248,47 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "e7a7b303c61786dc",
-  "lastOpenFiles": []
+  "floating": {
+    "id": "5ed5b85a898d9004",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ac39c53bf017aac5",
+        "type": "window",
+        "children": [
+          {
+            "id": "6443cf8c5d273391",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "735f055c8cc95e6a",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "CMPU 2007 | 2024-2025"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 699,
+        "y": 40,
+        "width": 1210,
+        "height": 79,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "735f055c8cc95e6a",
+  "lastOpenFiles": [
+    "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
+    "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf",
+    "1. Home Page/Home.canvas"
+  ]
 }
