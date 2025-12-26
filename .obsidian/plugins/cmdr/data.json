@@ -1,0 +1,57 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "app:toggle-left-sidebar"
+        },
+        {
+          "action": 0,
+          "commandId": "app:toggle-right-sidebar"
+        },
+        {
+          "action": 0,
+          "commandId": "app:toggle-ribbon"
+        },
+        {
+          "action": 0,
+          "commandId": "obsidian-hider:toggle-tab-containers"
+        },
+        {
+          "action": 0,
+          "commandId": "obsidian-hider:toggle-hider-status"
+        }
+      ],
+      "name": "Zen Mode",
+      "icon": "star",
+      "startup": false
+    }
+  ],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

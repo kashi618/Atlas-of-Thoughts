@@ -9,6 +9,7 @@ missing week 3 i think
 
 ## General
 - [[Relational Databases]]
+- [[Entities and Attributes]]
 - [[Database Management System (DBMS)]]
 - [[Primary and Foreign Keys]]
 
@@ -18,12 +19,15 @@ missing week 3 i think
 ## Data Models and Entity Relationships Models
 - [[Data Models]]
 - [[Entity Relationship Diagram (ERD)]]
-- [[Entity Relationship Diagram Concepts]] **Important**
-- [[Entity Relationship Diagram -  How to Create]]
-- [[Entity Relationship Diagram - Types of Relationships]]
-- [[SQL Datatypes]]
+
+- **Entities, Attributes, Primary/Foreign Keys, etc** 
+- [[ERD - Key Terms]] 
+- [[ERD - Creating Entity Relationship Diagrams]]
+- [[ERD - Types of Relationships]]
+
 
 ## SQL
+- [[SQL Datatypes]]
 - [[PostgreSQL]]
 	- [[PostgreSQL - Creating Tables - IMDb Example]]
 	- [[PostgreSQL - Inserting Values (rows)]]
@@ -39,5 +43,6 @@ missing week 3 i think
 ## Misc
 [[ACID Model]]
 
-# See Also
-[[$ Databases 1]]
+## Exam Papers
+[[CMPU 2007 2024-2025]]
+

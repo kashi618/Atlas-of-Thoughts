@@ -258,5 +258,30 @@
       ],
       "key": "L"
     }
+  ],
+  "obsidian-hider:toggle-hider-status": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "`"
+    }
+  ],
+  "obsidian-hider:toggle-tab-containers": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": ";"
+    }
+  ],
+  "cmdr:macro-0": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Z"
+    }
   ]
 }

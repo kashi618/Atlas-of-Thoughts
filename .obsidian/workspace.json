@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -17,9 +18,10 @@
                 "viewState": {
                   "x": -680,
                   "y": -18.5,
-                  "zoom": -0.1628431108033441
+                  "zoom": -1.9336311903842849
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
@@ -30,26 +32,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3fe86d0fc5b5a2b5",
+    "id": "7d807e60b4aeb079",
     "type": "split",
     "children": [
       {
-        "id": "97e0ba745913d80d",
+        "id": "302e9b33768e1178",
         "type": "tabs",
-        "dimension": 81.17932148626818,
         "children": [
           {
-            "id": "9df8e4ea20b2a652",
+            "id": "3c304f401ec26914",
             "type": "leaf",
             "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "201ab2e5b6d9f745",
+            "id": "6c8db23fb84fd041",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +70,7 @@
             }
           },
           {
-            "id": "9b7ca4a545ed1dd6",
+            "id": "d7428045facefa91",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,27 +80,24 @@
             }
           },
           {
-            "id": "887b24913c3bc633",
+            "id": "0158bffff2e95e83",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
-        "id": "b5f3156b4083e9a4",
+        "id": "b2b152570fec8082",
         "type": "tabs",
-        "dimension": 18.820678513731824,
         "children": [
           {
-            "id": "b486a0b99e750a45",
+            "id": "39fcfa0d05c65f36",
             "type": "leaf",
             "state": {
               "type": "pet-view",
@@ -109,23 +110,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 300
   },
   "right": {
-    "id": "50297d24d0057534",
+    "id": "6093574c6847bdb3",
     "type": "split",
     "children": [
       {
-        "id": "fda0c463630daa84",
+        "id": "1c403d1fcd9205ab",
         "type": "tabs",
         "children": [
           {
-            "id": "0f40ace741d3431a",
+            "id": "aa19b8ae0efff975",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. University/TU856 Year 2/Web Development 2/Phingal Libraries Brief.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,11 +135,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Phingal Libraries Brief"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "b61a22bc1aa84861",
+            "id": "4a3958e9ca9759fd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -152,7 +152,7 @@
             }
           },
           {
-            "id": "6206382b92a1e03a",
+            "id": "b405f92b33de34ca",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "ec4e609601ee9cf8",
+            "id": "af4621dcbd25c58a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -181,26 +181,24 @@
             }
           },
           {
-            "id": "361c351bbc2776c4",
+            "id": "800cbefb08d44a37",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/TU856 Year 2/Web Development 2/Phingal Libraries Brief.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Phingal Libraries Brief"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 410.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -211,6 +209,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "widgets:Add widget": false,
@@ -219,58 +218,9 @@
       "obsidian-git:Open Git source control": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "pixel-pets:Toggle pet view": false,
-      "workspaces:Manage workspace layouts": false
+      "pixel-pets:Toggle pet view": false
     }
   },
   "active": "e7a7b303c61786dc",
-  "lastOpenFiles": [
-    "3. General/Ideas/Is Knowledge Finite?.md",
-    "conflict-files-obsidian-git.md",
-    "2. University/TU856 Year 2/Results.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251219190222.png",
-    "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251218233235.png",
-    "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251218232043.png",
-    "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251218170821.png",
-    "2. University/TU856 Year 2/Operating Systems 2/OS Schedulers.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Jobs.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Deadlock.md",
-    "2. University/TU856 Year 2/Operating Systems 2/CMPU 2017 2024-2025.md",
-    "1. Home Page/Home.canvas",
-    "2. University/TU856 Year 2/! Exam Papers/Web Development 2/CMPU 2022 | 2024-2025.pdf",
-    "2. University/TU856 Year 2/! Exam Papers/Web Development 2/CMPU 2022 | 2022-2023.pdf",
-    "2. University/TU856 Year 2/! Exam Papers/Web Development 2/CMPU 2022 | 2018-2019.pdf",
-    "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2024-2025.pdf",
-    "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf",
-    "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2018-2019.pdf",
-    "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf",
-    "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2018-2019.pdf",
-    "2. University/What to DO.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-conversations/what_is_heap@20251206_132301.md",
-    "copilot/copilot-custom-prompts",
-    "copilot/copilot-conversations",
-    "2. University/TU856 Year 2/Operating Systems 2/Threads.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Thread and Process Scheduling & Synchronization.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Thread Control Block - TCB.md",
-    "2. University/TU856 Year 2/Operating Systems 2/Programs Processes Threads Overview - OS2.md",
-    "2. University/TU856 Year 2/Web Development 2/Pasted image 20251002123333.png",
-    "2. University/TU856 Year 2/Databases 1/Pasted image 20251202112407.png",
-    "2. University/TU856 Year 2/Object Oriented Programming/Pasted image 20251009124000.png",
-    "2. University/TU856 Year 2/Operating Systems 2/fork() with wait().png",
-    "2. University/TU856 Year 2/Operating Systems 2/Before and After fork().png",
-    "2. University/TU856 Year 2/Object Oriented Programming/Operating Systems 2/Pasted image 20251118105509.png"
-  ]
+  "lastOpenFiles": []
 }

@@ -28,6 +28,8 @@
 - [[Programs Processes Threads Overview - OS2]]
 <br>
 - [[Processes]]
+- [[Process Space]]
+- [[Process Control Block - PCB]]
 - [[processes - fork()]]
 - [[Processes - wait()]]
 - [[processes - exec()]]
@@ -59,3 +61,4 @@
 
 ## Exam Papers
 [[CMPU 2017 2024-2025]]
+

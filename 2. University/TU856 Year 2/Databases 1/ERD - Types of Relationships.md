@@ -37,5 +37,5 @@ To resolve M:N, we can:
 
 # See Also
 [[$ Databases 1]]
-[[Entity Relationship Diagram -  How to Create]]
+[[ERD - Creating Entity Relationship Diagrams]]
 [[Entity Relationship Diagram (ERD)]]

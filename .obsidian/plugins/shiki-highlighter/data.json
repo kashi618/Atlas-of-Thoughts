@@ -2,7 +2,11 @@
   "disabledLanguages": [],
   "customThemeFolder": "",
   "customLanguageFolder": "",
-  "theme": "tokyo-night",
+  "darkTheme": "tokyo-night",
+  "lightTheme": "tokyo-night",
   "preferThemeColors": false,
-  "inlineHighlighting": true
+  "inlineHighlighting": true,
+  "ecDefaultShowLineNumbers": true,
+  "ecDefaultWrap": false,
+  "ecDefaultFrame": "auto"
 }

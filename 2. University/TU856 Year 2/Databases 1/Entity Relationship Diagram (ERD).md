@@ -26,4 +26,4 @@ Relational databases use ERD models to represent databases considering:
 
 # See Also
 [[$ Databases 1]]
-[[Entity Relationship Diagram -  How to Create]]
+[[ERD - Creating Entity Relationship Diagrams]]

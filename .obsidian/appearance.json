@@ -5,13 +5,13 @@
   "textFontFamily": "JetBrainsMono Nerd Font",
   "enabledCssSnippets": [
     "canvas",
-    "style",
-    "cards"
+    "style"
   ],
   "baseFontSizeAction": false,
   "cssTheme": "Tokyo Night",
   "translucency": false,
   "interfaceFontFamily": "JetBrainsMono Nerd Font",
   "monospaceFontFamily": "JetBrainsMono Nerd Font",
-  "showRibbon": false
+  "showRibbon": false,
+  "nativeMenus": false
 }
