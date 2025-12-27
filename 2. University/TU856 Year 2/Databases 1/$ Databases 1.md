@@ -24,6 +24,7 @@ missing week 3 i think
 - [[ERD - Key Terms]] 
 - [[ERD - Creating Entity Relationship Diagrams]]
 - [[ERD - Types of Relationships]]
+- [[ERD - Normalisation]]
 
 
 ## SQL

@@ -33,7 +33,7 @@
               "type": "markdown",
               "state": {
                 "file": "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -49,9 +49,33 @@
               "icon": "lucide-file",
               "title": "$ Databases 1"
             }
+          },
+          {
+            "id": "8473aeb04c3f273f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Databases 1/ERD - Normalisation.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ERD - Normalisation"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -276,9 +300,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 803,
+        "x": 731,
         "y": 40,
-        "width": 1106,
+        "width": 1178,
         "height": 1029,
         "maximize": false,
         "zoom": 0
@@ -287,8 +311,9 @@
   },
   "active": "735f055c8cc95e6a",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
+    "2. University/TU856 Year 2/Databases 1/ERD - Normalisation.md",
     "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf",
+    "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
     "1. Home Page/Home.canvas"
   ]
 }
