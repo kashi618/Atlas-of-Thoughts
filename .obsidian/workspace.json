@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -20,6 +21,7 @@
                   "zoom": -0.1628431108033441
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
@@ -225,6 +227,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2. University/TU856 Year 2/Databases 1/ERD - Normalisation.md",
     "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Operating Systems 2/Process Space.md",
     "2. University/TU856 Year 2/Operating Systems 2/Process Control Block - PCB.md",
