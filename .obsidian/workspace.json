@@ -25,8 +25,45 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "fed8507350fc6bd7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CMPU 2007 | 2024-2025"
+            }
+          },
+          {
+            "id": "5244a1458f818cb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Databases 1/CMPU 2007 2024-2025.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CMPU 2007 2024-2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,10 +262,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5244a1458f818cb1",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Databases 1/ERD - Normalisation.md",
+    "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
+    "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf",
     "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Databases 1/ERD - Normalisation.md",
     "2. University/TU856 Year 2/Operating Systems 2/Process Space.md",
     "2. University/TU856 Year 2/Operating Systems 2/Process Control Block - PCB.md",
     "2. University/TU856 Year 2/Operating Systems 2/Pasted image 20251221153659.png",
@@ -255,7 +294,6 @@
     "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2024-2025.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2018-2019.pdf",
-    "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2018-2019.pdf",
     "2. University/What to DO.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
@@ -266,8 +304,6 @@
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts",
     "copilot/copilot-conversations",
     "2. University/TU856 Year 2/Web Development 2/Pasted image 20251002123333.png",
