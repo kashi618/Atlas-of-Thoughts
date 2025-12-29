@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "CMPU 2007 | 2024-2025",
       "path": "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "$ Databases 1",
       "path": "2. University/TU856 Year 2/Databases 1/$ Databases 1.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     }
   ],
   "omittedPaths": [],
