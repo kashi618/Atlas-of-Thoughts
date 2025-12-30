@@ -27,24 +27,12 @@
             }
           },
           {
-            "id": "fed8507350fc6bd7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CMPU 2007 | 2024-2025"
-            }
-          },
-          {
-            "id": "5244a1458f818cb1",
+            "id": "d9f7c8ad006a2ad6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/TU856 Year 2/Databases 1/CMPU 2007 2024-2025.md",
+                "file": "2. University/TU856 Year 2/Software Engineering 1/$ Software Engineering 1.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -59,11 +47,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CMPU 2007 2024-2025"
+              "title": "$ Software Engineering 1"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,11 +250,71 @@
       "workspaces:Manage workspace layouts": false
     }
   },
+  "floating": {
+    "id": "c44f06f839ca1589",
+    "type": "floating",
+    "children": [
+      {
+        "id": "63ee0dc196c8f73c",
+        "type": "window",
+        "children": [
+          {
+            "id": "d9e828d91017ad91",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "48aee7d60e41aadb",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "1. Home Page/Home.canvas",
+                    "viewState": {
+                      "x": -680,
+                      "y": 96.07599999999954,
+                      "zoom": -1.1634987322828794
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Home"
+                }
+              },
+              {
+                "id": "5244a1458f818cb1",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2024-2025.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "CMPU 2019 | 2024-2025"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 365,
+        "y": 50,
+        "width": 2181,
+        "height": 763,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "5244a1458f818cb1",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
-    "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf",
+    "2. University/TU856 Year 2/Software Engineering 1/$ Software Engineering 1.md",
+    "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2024-2025.pdf",
     "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf",
+    "2. University/TU856 Year 2/Databases 1/CMPU 2007 2024-2025.md",
+    "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
     "2. University/TU856 Year 2/Databases 1/ERD - Normalisation.md",
     "2. University/TU856 Year 2/Operating Systems 2/Process Space.md",
     "2. University/TU856 Year 2/Operating Systems 2/Process Control Block - PCB.md",
@@ -276,7 +324,6 @@
     "2. University/TU856 Year 2/Databases 1/ERD - Types of Relationships.md",
     "2. University/TU856 Year 2/Databases 1/ERD - Key Terms.md",
     "2. University/TU856 Year 2/Databases 1/ERD - Creating Entity Relationship Diagrams.md",
-    "2. University/TU856 Year 2/Databases 1/CMPU 2007 2024-2025.md",
     "3. General/Ideas/Is Knowledge Finite?.md",
     "conflict-files-obsidian-git.md",
     "2. University/TU856 Year 2/Results.md",
@@ -291,7 +338,6 @@
     "2. University/TU856 Year 2/! Exam Papers/Web Development 2/CMPU 2022 | 2024-2025.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Web Development 2/CMPU 2022 | 2022-2023.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Web Development 2/CMPU 2022 | 2018-2019.pdf",
-    "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2024-2025.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2024-2025.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Operating Systems 2/CMPU 2017 | 2018-2019.pdf",
     "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2018-2019.pdf",
@@ -303,7 +349,6 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts",
     "copilot/copilot-conversations",
     "2. University/TU856 Year 2/Web Development 2/Pasted image 20251002123333.png",

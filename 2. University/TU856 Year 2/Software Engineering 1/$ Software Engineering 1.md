@@ -13,6 +13,7 @@ https://dn790001.ca.archive.org/0/items/bme-vik-konyvek/Software%20Engineering%2
 
 4
 
+
 [[Software Engineering 1 - 9-15]]
 [[Software Engineering 1 - 9-24]]
 
