@@ -4,7 +4,8 @@ tags:
 aliases:
 ---
 ## Coupling (Lower is Better)
-Coupling measures how much software modules or classes depend on each other
+Measures the degree of dependence between different modules
+-Essentially how much software modules or classes depend on each other
 
 **See More**
 [[Cohesion Levels]]
