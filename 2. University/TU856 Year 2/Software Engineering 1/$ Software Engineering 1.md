@@ -11,6 +11,8 @@ https://dn790001.ca.archive.org/0/items/bme-vik-konyvek/Software%20Engineering%2
 - PDF version
 ![[Software Engineering - Ian Sommerville.pdf]]
 
+
+
 4
 
 [[Software Engineering 1 - 9-15]]
@@ -20,4 +22,9 @@ https://dn790001.ca.archive.org/0/items/bme-vik-konyvek/Software%20Engineering%2
 
 [[Use Cases and Scenarios]]
 
+## Notes
+[[Coupling and Cohesion]]
+[[Cohesion Levels]]
+
+## Exam Papers
 [[CMPU 2019 2024-2025]]

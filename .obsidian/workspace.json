@@ -250,9 +250,9 @@
         ],
         "direction": "vertical",
         "x": 441,
-        "y": 655,
+        "y": 40,
         "width": 1468,
-        "height": 414,
+        "height": 1029,
         "maximize": false,
         "zoom": 0
       }
@@ -260,6 +260,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "1. Home Page/Home.canvas",
     "conflict-files-obsidian-git.md",
     "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2024-2025.pdf",
     "2. University/TU856 Year 2/Software Engineering 1/Cohesion Levels.md",
@@ -268,7 +269,6 @@
     "2. University/TU856 Year 2/Software Engineering 1/CMPU 2019 2024-2025.md",
     "2. University/TU856 Year 2/Databases 1/CMPU 2007 2024-2025.md",
     "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf",
     "2. University/TU856 Year 2/Databases 1/ERD - Normalisation.md"
   ]
