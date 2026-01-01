@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Cohesion",
+      "path": "2. University/TU856 Year 2/Software Engineering 1/Cohesion.md"
+    },
+    {
+      "basename": "Coupling",
+      "path": "2. University/TU856 Year 2/Software Engineering 1/Coupling.md"
+    },
+    {
+      "basename": "$ Software Engineering 1",
+      "path": "2. University/TU856 Year 2/Software Engineering 1/$ Software Engineering 1.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -9,16 +21,76 @@
       "path": "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2024-2025.pdf"
     },
     {
+      "basename": "TU856-Year2",
+      "path": "1. Home Page/TU856-Year2.md"
+    },
+    {
+      "basename": "Obsidian Keybinds",
+      "path": "1. Home Page/Obsidian Keybinds.md"
+    },
+    {
+      "basename": "Archlinux - Network Manager - eduroam",
+      "path": "3. General/Archlinux/Archlinux - Network Manager - eduroam.md"
+    },
+    {
+      "basename": "Archlinux - Rice",
+      "path": "3. General/Archlinux/Archlinux - Rice.md"
+    },
+    {
+      "basename": "Tossi Stuff",
+      "path": "3. General/Notes/Tossi Stuff.md"
+    },
+    {
+      "basename": "Project ideas",
+      "path": "3. General/Ideas/Project ideas.md"
+    },
+    {
+      "basename": "Projects",
+      "path": "3. General/Ideas/Projects.md"
+    },
+    {
+      "basename": "Is Knowledge Finite?",
+      "path": "3. General/Ideas/Is Knowledge Finite?.md"
+    },
+    {
+      "basename": "Horror Games",
+      "path": "3. General/Ideas/Horror Games.md"
+    },
+    {
+      "basename": "Comp Sci to Learn",
+      "path": "3. General/Lists/Comp Sci to Learn.md"
+    },
+    {
+      "basename": "GameDev ToDo List",
+      "path": "3. General/Lists/GameDev ToDo List.md"
+    },
+    {
+      "basename": "Games to Play",
+      "path": "3. General/Lists/Games to Play.md"
+    },
+    {
+      "basename": "Guitar Wishlist",
+      "path": "3. General/Lists/Guitar Wishlist.md"
+    },
+    {
+      "basename": "Philosophy to Learn",
+      "path": "3. General/Lists/Philosophy to Learn.md"
+    },
+    {
+      "basename": "Monster Can Flavours and Tierlist",
+      "path": "3. General/Lists/Monster Can Flavours and Tierlist.md"
+    },
+    {
+      "basename": "TV Shows & Movies & Anime & Manga",
+      "path": "3. General/Lists/TV Shows & Movies & Anime & Manga.md"
+    },
+    {
+      "basename": "Wishlist",
+      "path": "3. General/Lists/Wishlist.md"
+    },
+    {
       "basename": "Cohesion Levels",
       "path": "2. University/TU856 Year 2/Software Engineering 1/Cohesion Levels.md"
-    },
-    {
-      "basename": "Coupling and Cohesion",
-      "path": "2. University/TU856 Year 2/Software Engineering 1/Coupling and Cohesion.md"
-    },
-    {
-      "basename": "$ Software Engineering 1",
-      "path": "2. University/TU856 Year 2/Software Engineering 1/$ Software Engineering 1.md"
     },
     {
       "basename": "CMPU 2019 2024-2025",
@@ -31,10 +103,6 @@
     {
       "basename": "$ Databases 1",
       "path": "2. University/TU856 Year 2/Databases 1/$ Databases 1.md"
-    },
-    {
-      "basename": "TU856-Year2",
-      "path": "1. Home Page/TU856-Year2.md"
     },
     {
       "basename": "CMPU 2007 | 2024-2025",

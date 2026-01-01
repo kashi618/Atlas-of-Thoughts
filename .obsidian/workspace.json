@@ -10,14 +10,108 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "canvas",
+              "state": {
+                "file": "1. Home Page/Home.canvas",
+                "viewState": {
+                  "x": -439.4421748652487,
+                  "y": -115.29453709497804,
+                  "zoom": 0.6173839784135339
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2024-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CMPU 2019 | 2024-2025"
+            }
+          },
+          {
+            "id": "1a9b5efe80b02f13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Software Engineering 1/$ Software Engineering 1.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "$ Software Engineering 1"
+            }
+          },
+          {
+            "id": "884be5ea818af8d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Software Engineering 1/Cohesion.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cohesion"
+            }
+          },
+          {
+            "id": "4b2f4347afeac09c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/TU856 Year 2/Software Engineering 1/Coupling.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Coupling"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -227,45 +321,66 @@
             "type": "tabs",
             "children": [
               {
-                "id": "e7a7b303c61786dc",
+                "id": "d396e7af64a65b90",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
-                  "type": "canvas",
+                  "type": "markdown",
                   "state": {
-                    "file": "1. Home Page/Home.canvas",
-                    "viewState": {
-                      "x": -680,
-                      "y": -18.5,
-                      "zoom": -1.3826160215864662
+                    "file": "2. University/TU856 Year 2/Software Engineering 1/$ Software Engineering 1.md",
+                    "mode": "preview",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
                     }
                   },
-                  "pinned": true,
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Home"
+                  "icon": "lucide-file",
+                  "title": "$ Software Engineering 1"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 441,
+        "x": 1460,
         "y": 40,
-        "width": 1468,
+        "width": 449,
         "height": 1029,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "e7a7b303c61786dc",
+  "active": "884be5ea818af8d6",
   "lastOpenFiles": [
-    "1. Home Page/Home.canvas",
-    "conflict-files-obsidian-git.md",
-    "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2024-2025.pdf",
-    "2. University/TU856 Year 2/Software Engineering 1/Cohesion Levels.md",
-    "2. University/TU856 Year 2/Software Engineering 1/Coupling and Cohesion.md",
+    "2. University/TU856 Year 2/Software Engineering 1/Coupling.md",
+    "2. University/TU856 Year 2/Software Engineering 1/Cohesion.md",
     "2. University/TU856 Year 2/Software Engineering 1/$ Software Engineering 1.md",
+    "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2024-2025.pdf",
+    "3. General/Archlinux/Archlinux - Network Manager - eduroam.md",
+    "3. General/Archlinux/Archlinux - Rice.md",
+    "3. General/Notes/Tossi Stuff.md",
+    "3. General/Ideas/Project ideas.md",
+    "3. General/Ideas/Projects.md",
+    "3. General/Ideas/Is Knowledge Finite?.md",
+    "3. General/Ideas/Horror Games.md",
+    "3. General/Lists/Comp Sci to Learn.md",
+    "3. General/Lists/GameDev ToDo List.md",
+    "3. General/Lists/Games to Play.md",
+    "3. General/Lists/Guitar Wishlist.md",
+    "3. General/Lists/Philosophy to Learn.md",
+    "3. General/Lists/Monster Can Flavours and Tierlist.md",
+    "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
+    "3. General/Lists/Wishlist.md",
+    "conflict-files-obsidian-git.md",
+    "2. University/TU856 Year 2/Software Engineering 1/Cohesion Levels.md",
     "2. University/TU856 Year 2/Software Engineering 1/CMPU 2019 2024-2025.md",
     "2. University/TU856 Year 2/Databases 1/CMPU 2007 2024-2025.md",
     "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
