@@ -4,78 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2ac498885c1259bd",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "735f055c8cc95e6a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1. Home Page/Home.canvas",
-                "viewState": {
-                  "x": -680,
-                  "y": -18.5,
-                  "zoom": -1.9269365378102765
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "c6e8bd300a0f8932",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Software Engineering 1/$ Software Engineering 1.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "$ Software Engineering 1"
-            }
-          },
-          {
-            "id": "1ad2ec013ea3ab37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/TU856 Year 2/Software Engineering 1/CMPU 2019 2024-2025.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CMPU 2019 2024-2025"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "b2b152570fec8082",
@@ -161,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -288,33 +229,43 @@
               {
                 "id": "e7a7b303c61786dc",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
-                  "type": "pdf",
+                  "type": "canvas",
                   "state": {
-                    "file": "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2024-2025.pdf"
+                    "file": "1. Home Page/Home.canvas",
+                    "viewState": {
+                      "x": -680,
+                      "y": -18.5,
+                      "zoom": -1.3826160215864662
+                    }
                   },
-                  "icon": "lucide-file-text",
-                  "title": "CMPU 2019 | 2024-2025"
+                  "pinned": true,
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Home"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 809,
-        "y": 40,
-        "width": 1100,
-        "height": 357,
+        "x": 441,
+        "y": 655,
+        "width": 1468,
+        "height": 414,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "1ad2ec013ea3ab37",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2024-2025.pdf",
-    "2. University/TU856 Year 2/Software Engineering 1/CMPU 2019 2024-2025.md",
+    "2. University/TU856 Year 2/Software Engineering 1/Cohesion Levels.md",
+    "2. University/TU856 Year 2/Software Engineering 1/Coupling and Cohesion.md",
     "2. University/TU856 Year 2/Software Engineering 1/$ Software Engineering 1.md",
+    "2. University/TU856 Year 2/Software Engineering 1/CMPU 2019 2024-2025.md",
     "2. University/TU856 Year 2/Databases 1/CMPU 2007 2024-2025.md",
     "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
     "1. Home Page/Home.canvas",
