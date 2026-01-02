@@ -249,7 +249,7 @@
                 }
               },
               {
-                "id": "7c2b834333f91cec",
+                "id": "73839907dab9890d",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -273,12 +273,12 @@
                 }
               },
               {
-                "id": "73839907dab9890d",
+                "id": "c098d1f4d3f695ae",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2. University/TU856 Year 2/Databases 1/Database Normalisation.md",
+                    "file": "2. University/TU856 Year 2/Databases 1/Referential Integrity.md",
                     "mode": "source",
                     "source": true,
                     "backlinks": true,
@@ -293,7 +293,31 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Database Normalisation"
+                  "title": "Referential Integrity"
+                }
+              },
+              {
+                "id": "9c298d4a1e91b0d8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. University/TU856 Year 2/Databases 1/Three Main Normal Forms.md",
+                    "mode": "source",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Three Main Normal Forms"
                 }
               },
               {
@@ -325,23 +349,25 @@
           }
         ],
         "direction": "vertical",
-        "x": 950,
-        "y": 96,
-        "width": 959,
-        "height": 973,
+        "x": 782,
+        "y": 40,
+        "width": 1127,
+        "height": 1029,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "73839907dab9890d",
+  "active": "c098d1f4d3f695ae",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Databases 1/CMPU 2007 2024-2025.md",
-    "2. University/TU856 Year 2/Databases 1/Database Normalisation.md",
+    "2. University/TU856 Year 2/Databases 1/Referential Integrity.md",
     "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
+    "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf",
+    "2. University/TU856 Year 2/Databases 1/Database Normalisation.md",
+    "2. University/TU856 Year 2/Databases 1/Three Main Normal Forms.md",
+    "2. University/TU856 Year 2/Databases 1/CMPU 2007 2024-2025.md",
     "2. University/TU856 Year 2/Databases 1/ERD - Types of Relationships.md",
     "1. Home Page/Home.canvas",
-    "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf",
     "2. University/TU856 Year 2/Software Engineering 1/$ Software Engineering 1.md",
     "2. University/TU856 Year 2/Software Engineering 1/Coupling.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
@@ -362,8 +388,6 @@
     "3. General/Lists/GameDev ToDo List.md",
     "3. General/Lists/Games to Play.md",
     "3. General/Lists/Guitar Wishlist.md",
-    "3. General/Lists/Philosophy to Learn.md",
-    "3. General/Lists/Monster Can Flavours and Tierlist.md",
-    "3. General/Lists/TV Shows & Movies & Anime & Manga.md"
+    "3. General/Lists/Philosophy to Learn.md"
   ]
 }

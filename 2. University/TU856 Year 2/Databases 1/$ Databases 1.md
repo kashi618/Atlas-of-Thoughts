@@ -27,6 +27,9 @@ missing week 3 i think
 - [[ERD - Normalisation]]
 
 - [[Database Normalisation]]
+- [[Three Main Normal Forms]]
+
+- [[Referential Integrity]]
 
 ## SQL
 - [[SQL Datatypes]]

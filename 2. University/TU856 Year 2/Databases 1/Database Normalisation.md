@@ -16,5 +16,8 @@ Here are the core goals:
 	- Ensuring each piece of data is stored in only one place, guarantees that it is the only "source" of truth.
 	- Also ensuring that relationships between data are consistent
 
+## Normal Forms
+[[Three Main Normal Forms]]
+
 # See Also
 [[$ Databases 1]]
