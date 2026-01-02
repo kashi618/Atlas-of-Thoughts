@@ -26,6 +26,7 @@ missing week 3 i think
 - [[ERD - Types of Relationships]]
 - [[ERD - Normalisation]]
 
+- [[Database Normalisation]]
 
 ## SQL
 - [[SQL Datatypes]]
