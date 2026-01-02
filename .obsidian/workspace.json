@@ -345,27 +345,28 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           }
         ],
         "direction": "vertical",
-        "x": 782,
+        "x": 897,
         "y": 40,
-        "width": 1127,
+        "width": 1012,
         "height": 1029,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "c098d1f4d3f695ae",
+  "active": "9c298d4a1e91b0d8",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Databases 1/Referential Integrity.md",
-    "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
-    "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf",
-    "2. University/TU856 Year 2/Databases 1/Database Normalisation.md",
-    "2. University/TU856 Year 2/Databases 1/Three Main Normal Forms.md",
     "2. University/TU856 Year 2/Databases 1/CMPU 2007 2024-2025.md",
+    "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf",
+    "2. University/TU856 Year 2/Databases 1/Referential Integrity.md",
+    "2. University/TU856 Year 2/Databases 1/Three Main Normal Forms.md",
+    "2. University/TU856 Year 2/Databases 1/Pasted image 20260102204829.png",
+    "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
+    "2. University/TU856 Year 2/Databases 1/Database Normalisation.md",
     "2. University/TU856 Year 2/Databases 1/ERD - Types of Relationships.md",
     "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Software Engineering 1/$ Software Engineering 1.md",
@@ -387,7 +388,6 @@
     "3. General/Lists/Comp Sci to Learn.md",
     "3. General/Lists/GameDev ToDo List.md",
     "3. General/Lists/Games to Play.md",
-    "3. General/Lists/Guitar Wishlist.md",
-    "3. General/Lists/Philosophy to Learn.md"
+    "3. General/Lists/Guitar Wishlist.md"
   ]
 }
