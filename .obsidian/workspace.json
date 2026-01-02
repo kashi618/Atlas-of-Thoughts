@@ -229,25 +229,20 @@
               {
                 "id": "d396e7af64a65b90",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
-                  "type": "markdown",
+                  "type": "canvas",
                   "state": {
-                    "file": "2. University/TU856 Year 2/Software Engineering 1/$ Software Engineering 1.md",
-                    "mode": "preview",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
+                    "file": "1. Home Page/Home.canvas",
+                    "viewState": {
+                      "x": -680,
+                      "y": -18.5,
+                      "zoom": -1.3826160215864662
                     }
                   },
-                  "icon": "lucide-file",
-                  "title": "$ Software Engineering 1"
+                  "pinned": true,
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Home"
                 }
               }
             ]
@@ -265,15 +260,15 @@
   },
   "active": "d396e7af64a65b90",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/Software Engineering 1/Coupling.md",
+    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Software Engineering 1/$ Software Engineering 1.md",
+    "2. University/TU856 Year 2/Software Engineering 1/Coupling.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-conversations/what_is_heap@20251206_132301.md",
     "2. University/TU856 Year 2/Software Engineering 1/Cohesion.md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2024-2025.pdf",
     "3. General/Archlinux/Archlinux - Network Manager - eduroam.md",
     "3. General/Archlinux/Archlinux - Rice.md",
@@ -292,7 +287,6 @@
     "3. General/Lists/Wishlist.md",
     "conflict-files-obsidian-git.md",
     "2. University/TU856 Year 2/Software Engineering 1/Cohesion Levels.md",
-    "2. University/TU856 Year 2/Software Engineering 1/CMPU 2019 2024-2025.md",
     "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf"
   ]
 }
