@@ -5,24 +5,24 @@
       "path": "1. Home Page/Home.canvas"
     },
     {
-      "basename": "Three Main Normal Forms",
-      "path": "2. University/TU856 Year 2/Databases 1/Three Main Normal Forms.md"
-    },
-    {
-      "basename": "CMPU 2007 | 2024-2025",
-      "path": "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf"
-    },
-    {
-      "basename": "CMPU 2007 2024-2025",
-      "path": "2. University/TU856 Year 2/Databases 1/CMPU 2007 2024-2025.md"
+      "basename": "$ Databases 1",
+      "path": "2. University/TU856 Year 2/Databases 1/$ Databases 1.md"
     },
     {
       "basename": "Referential Integrity",
       "path": "2. University/TU856 Year 2/Databases 1/Referential Integrity.md"
     },
     {
-      "basename": "$ Databases 1",
-      "path": "2. University/TU856 Year 2/Databases 1/$ Databases 1.md"
+      "basename": "Three Main Normal Forms",
+      "path": "2. University/TU856 Year 2/Databases 1/Three Main Normal Forms.md"
+    },
+    {
+      "basename": "CMPU 2007 2024-2025",
+      "path": "2. University/TU856 Year 2/Databases 1/CMPU 2007 2024-2025.md"
+    },
+    {
+      "basename": "CMPU 2007 | 2024-2025",
+      "path": "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf"
     },
     {
       "basename": "Database Normalisation",

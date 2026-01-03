@@ -11,12 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CMPU 2007 | 2024-2025"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -105,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -247,128 +244,31 @@
                   "icon": "lucide-layout-dashboard",
                   "title": "Home"
                 }
-              },
-              {
-                "id": "73839907dab9890d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "$ Databases 1"
-                }
-              },
-              {
-                "id": "c098d1f4d3f695ae",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2. University/TU856 Year 2/Databases 1/Referential Integrity.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Referential Integrity"
-                }
-              },
-              {
-                "id": "9c298d4a1e91b0d8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2. University/TU856 Year 2/Databases 1/Three Main Normal Forms.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Three Main Normal Forms"
-                }
-              },
-              {
-                "id": "ed685587a466f517",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2. University/TU856 Year 2/Databases 1/CMPU 2007 2024-2025.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "CMPU 2007 2024-2025"
-                }
               }
-            ],
-            "currentTab": 3
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 1467,
+        "x": 964,
         "y": 40,
-        "width": 442,
+        "width": 945,
         "height": 1029,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "9c298d4a1e91b0d8",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf",
+    "1. Home Page/Home.canvas",
+    "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
+    "2. University/TU856 Year 2/Databases 1/Referential Integrity.md",
     "2. University/TU856 Year 2/Databases 1/Three Main Normal Forms.md",
     "2. University/TU856 Year 2/Databases 1/CMPU 2007 2024-2025.md",
-    "2. University/TU856 Year 2/Databases 1/Referential Integrity.md",
+    "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf",
     "2. University/TU856 Year 2/Databases 1/Pasted image 20260102204829.png",
-    "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
     "2. University/TU856 Year 2/Databases 1/Database Normalisation.md",
     "2. University/TU856 Year 2/Databases 1/ERD - Types of Relationships.md",
-    "1. Home Page/Home.canvas",
     "2. University/TU856 Year 2/Software Engineering 1/$ Software Engineering 1.md",
     "2. University/TU856 Year 2/Software Engineering 1/Coupling.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
