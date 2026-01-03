@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Three Main Normal Forms",
       "path": "2. University/TU856 Year 2/Databases 1/Three Main Normal Forms.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "ERD - Types of Relationships",
       "path": "2. University/TU856 Year 2/Databases 1/ERD - Types of Relationships.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "TU856-Year2",
