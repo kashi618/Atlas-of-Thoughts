@@ -273,6 +273,43 @@
       "pixel-pets:Toggle pet view": false
     }
   },
+  "floating": {
+    "id": "58dd13c149a26c3a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1922029528419ecd",
+        "type": "window",
+        "children": [
+          {
+            "id": "a268b13921688272",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e9f28a2d34f2f433",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "2. University/Year 2/S1 Databases 1/Exam Papers/CMPU 2007 | 2023-2024.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "CMPU 2007 | 2023-2024"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 964,
+        "y": 40,
+        "width": 945,
+        "height": 1029,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "7fb57581ceb8013a",
   "lastOpenFiles": [
     "2. University/Year 2/S1 Databases 1/Exam Papers/CMPU 2007 | 2023-2024.pdf",
