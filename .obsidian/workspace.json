@@ -11,10 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "1. Home Page/Home.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
             }
           }
         ]
@@ -103,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 837.5
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -214,80 +221,47 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "floating": {
-    "id": "5ed5b85a898d9004",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ac39c53bf017aac5",
-        "type": "window",
-        "children": [
-          {
-            "id": "6443cf8c5d273391",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d396e7af64a65b90",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "1. Home Page/Home.canvas",
-                    "viewState": {
-                      "x": -680,
-                      "y": -18.5,
-                      "zoom": -0.4538070694434192
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Home"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 964,
-        "y": 40,
-        "width": 945,
-        "height": 1029,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2. University/Year 2 Module Notes/! Exam Papers/Mathematics 2/CMPU 2012 | 2024-2025.pdf",
+    "2. University/Year 2 Module Notes/Operating Systems 2/Lecture Materials",
+    "2. University/Year 1/Module Notes",
+    "2. University/Year 2 Module Notes/Mathematics 2/Incongruent Solutions.md",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/vim.md",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Virtual Machines.md",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/strace.md",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/UOperating System.md",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/UI.md",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Timesharing.md",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Software.md",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Software & Hardware.md",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/STDIN-STDOUT-STDERR.md",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/ROM.md",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Processes - OS1.md",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Processes - Introduction.md",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Process States and Transitions.md",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Process Scheduling.md",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Process Queues.md",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Process Control Block.md",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Process Context Switching.md",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Process Commands.md",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/POST.md",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Operating System.md",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Multiprogramming.md",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/MAN Install Script.md",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Linux Shell Commands.md",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Kernel.md",
+    "2. University/Year 1/Programming/Pasted image 20250929101751.png",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes",
+    "2. University/Year 1/Operating Systems 1/Exercises",
+    "2. University/Year 1/Algorithm Design and Problem Solving/Unsorted",
+    "2. University/Year 1/Algorithm Design and Problem Solving/CA Notes",
+    "2. University/Year 1/! Exam Papers/CMPU 1025 - 2023.2024.pdf",
+    "2. University/Year 1/! Exam Papers/CMPU 1025 - 2022.2023.pdf",
+    "2. University/Year 1/! Exam Papers/CMPU 1025 - 2021.2022.pdf",
+    "2. University/Year 1/! Exam Papers/CMPU 1022 - 2023.2024.pdf",
+    "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "1. Home Page/Home.canvas",
-    "2. University/TU856 Year 2/Databases 1/$ Databases 1.md",
-    "2. University/TU856 Year 2/Databases 1/Referential Integrity.md",
-    "2. University/TU856 Year 2/Databases 1/Three Main Normal Forms.md",
-    "2. University/TU856 Year 2/Databases 1/CMPU 2007 2024-2025.md",
-    "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf",
-    "2. University/TU856 Year 2/Databases 1/Pasted image 20260102204829.png",
-    "2. University/TU856 Year 2/Databases 1/Database Normalisation.md",
-    "2. University/TU856 Year 2/Databases 1/ERD - Types of Relationships.md",
-    "2. University/TU856 Year 2/Software Engineering 1/$ Software Engineering 1.md",
-    "2. University/TU856 Year 2/Software Engineering 1/Coupling.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-conversations/what_is_heap@20251206_132301.md",
-    "2. University/TU856 Year 2/Software Engineering 1/Cohesion.md",
-    "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2024-2025.pdf",
-    "3. General/Archlinux/Archlinux - Network Manager - eduroam.md",
-    "3. General/Archlinux/Archlinux - Rice.md",
-    "3. General/Notes/Tossi Stuff.md",
-    "3. General/Ideas/Project ideas.md",
-    "3. General/Ideas/Projects.md",
-    "3. General/Ideas/Is Knowledge Finite?.md",
-    "3. General/Ideas/Horror Games.md",
-    "3. General/Lists/Comp Sci to Learn.md",
-    "3. General/Lists/GameDev ToDo List.md",
-    "3. General/Lists/Games to Play.md",
-    "3. General/Lists/Guitar Wishlist.md"
+    "2. University/Year 2 Module Notes/Databases 1/Pasted image 20260102204829.png"
   ]
 }

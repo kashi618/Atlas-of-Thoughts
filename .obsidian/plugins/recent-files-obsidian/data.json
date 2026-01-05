@@ -5,52 +5,64 @@
       "path": "1. Home Page/Home.canvas"
     },
     {
-      "basename": "$ Databases 1",
-      "path": "2. University/TU856 Year 2/Databases 1/$ Databases 1.md"
+      "basename": "CMPU 2012 | 2024-2025",
+      "path": "2. University/Year 2 Module Notes/! Exam Papers/Mathematics 2/CMPU 2012 | 2024-2025.pdf"
     },
     {
-      "basename": "Referential Integrity",
-      "path": "2. University/TU856 Year 2/Databases 1/Referential Integrity.md"
+      "basename": "Incongruent Solutions",
+      "path": "2. University/Year 2 Module Notes/Mathematics 2/Incongruent Solutions.md"
     },
     {
-      "basename": "Three Main Normal Forms",
-      "path": "2. University/TU856 Year 2/Databases 1/Three Main Normal Forms.md"
+      "basename": "$ Mathematics 2",
+      "path": "2. University/Year 2 Module Notes/Mathematics 2/$ Mathematics 2.md"
     },
     {
-      "basename": "CMPU 2007 2024-2025",
-      "path": "2. University/TU856 Year 2/Databases 1/CMPU 2007 2024-2025.md"
-    },
-    {
-      "basename": "CMPU 2007 | 2024-2025",
-      "path": "2. University/TU856 Year 2/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf"
-    },
-    {
-      "basename": "Database Normalisation",
-      "path": "2. University/TU856 Year 2/Databases 1/Database Normalisation.md"
-    },
-    {
-      "basename": "ERD - Types of Relationships",
-      "path": "2. University/TU856 Year 2/Databases 1/ERD - Types of Relationships.md"
+      "basename": "$ Software Engineering 1",
+      "path": "2. University/Year 2 Module Notes/Software Engineering 1/$ Software Engineering 1.md"
     },
     {
       "basename": "TU856-Year2",
       "path": "1. Home Page/TU856-Year2.md"
     },
     {
-      "basename": "$ Software Engineering 1",
-      "path": "2. University/TU856 Year 2/Software Engineering 1/$ Software Engineering 1.md"
+      "basename": "$ Databases 1",
+      "path": "2. University/Year 2 Module Notes/Databases 1/$ Databases 1.md"
+    },
+    {
+      "basename": "Referential Integrity",
+      "path": "2. University/Year 2 Module Notes/Databases 1/Referential Integrity.md"
+    },
+    {
+      "basename": "Three Main Normal Forms",
+      "path": "2. University/Year 2 Module Notes/Databases 1/Three Main Normal Forms.md"
+    },
+    {
+      "basename": "CMPU 2007 2024-2025",
+      "path": "2. University/Year 2 Module Notes/Databases 1/CMPU 2007 2024-2025.md"
+    },
+    {
+      "basename": "CMPU 2007 | 2024-2025",
+      "path": "2. University/Year 2 Module Notes/! Exam Papers/Databases 1/CMPU 2007 | 2024-2025.pdf"
+    },
+    {
+      "basename": "Database Normalisation",
+      "path": "2. University/Year 2 Module Notes/Databases 1/Database Normalisation.md"
+    },
+    {
+      "basename": "ERD - Types of Relationships",
+      "path": "2. University/Year 2 Module Notes/Databases 1/ERD - Types of Relationships.md"
     },
     {
       "basename": "Coupling",
-      "path": "2. University/TU856 Year 2/Software Engineering 1/Coupling.md"
+      "path": "2. University/Year 2 Module Notes/Software Engineering 1/Coupling.md"
     },
     {
       "basename": "Cohesion",
-      "path": "2. University/TU856 Year 2/Software Engineering 1/Cohesion.md"
+      "path": "2. University/Year 2 Module Notes/Software Engineering 1/Cohesion.md"
     },
     {
       "basename": "CMPU 2019 | 2024-2025",
-      "path": "2. University/TU856 Year 2/! Exam Papers/Software Engineering 1/CMPU 2019 | 2024-2025.pdf"
+      "path": "2. University/Year 2 Module Notes/! Exam Papers/Software Engineering 1/CMPU 2019 | 2024-2025.pdf"
     },
     {
       "basename": "Obsidian Keybinds",
@@ -118,15 +130,15 @@
     },
     {
       "basename": "Cohesion Levels",
-      "path": "2. University/TU856 Year 2/Software Engineering 1/Cohesion Levels.md"
+      "path": "2. University/Year 2 Module Notes/Software Engineering 1/Cohesion Levels.md"
     },
     {
       "basename": "CMPU 2019 2024-2025",
-      "path": "2. University/TU856 Year 2/Software Engineering 1/CMPU 2019 2024-2025.md"
+      "path": "2. University/Year 2 Module Notes/Software Engineering 1/CMPU 2019 2024-2025.md"
     },
     {
       "basename": "ERD - Normalisation",
-      "path": "2. University/TU856 Year 2/Databases 1/ERD - Normalisation.md"
+      "path": "2. University/Year 2 Module Notes/Databases 1/ERD - Normalisation.md"
     }
   ],
   "omittedPaths": [],
