@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S1 Databases 1/$ Databases 1.md",
+                "file": "2. University/Year 2/S1 Databases 1/Three Main Normal Forms.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Databases 1"
+              "title": "Three Main Normal Forms"
             }
           },
           {
@@ -301,9 +301,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 964,
+        "x": 1015,
         "y": 40,
-        "width": 945,
+        "width": 894,
         "height": 1029,
         "maximize": false,
         "zoom": 0
@@ -314,7 +314,9 @@
   "lastOpenFiles": [
     "2. University/Year 2/S1 Databases 1/CMPU 2007 2023-2024.md",
     "2. University/Year 2/S1 Databases 1/Exam Papers/CMPU 2007 | 2023-2024.pdf",
+    "2. University/Year 2/S1 Databases 1/Three Main Normal Forms.md",
     "2. University/Year 2/S1 Databases 1/$ Databases 1.md",
+    "2. University/Year 2/S1 Databases 1/CMPU 2007 2024-2025.md",
     "2. University/Year 2/S2 AI",
     "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2024-2025.pdf",
     "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2023-2024.pdf",
@@ -346,8 +348,6 @@
     "2. University/Year 1/Operating Systems 1/Unsorted Notes/Process Commands.md",
     "2. University/Year 1/Operating Systems 1/Unsorted Notes/POST.md",
     "2. University/Year 1/Operating Systems 1/Unsorted Notes/Operating System.md",
-    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Multiprogramming.md",
-    "2. University/Year 1/Operating Systems 1/Unsorted Notes/MAN Install Script.md",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 2/S1 Databases 1/Pasted image 20260102204829.png"

@@ -9,8 +9,16 @@
       "path": "2. University/Year 2/S1 Databases 1/CMPU 2007 2023-2024.md"
     },
     {
+      "basename": "Three Main Normal Forms",
+      "path": "2. University/Year 2/S1 Databases 1/Three Main Normal Forms.md"
+    },
+    {
       "basename": "$ Databases 1",
       "path": "2. University/Year 2/S1 Databases 1/$ Databases 1.md"
+    },
+    {
+      "basename": "CMPU 2007 2024-2025",
+      "path": "2. University/Year 2/S1 Databases 1/CMPU 2007 2024-2025.md"
     },
     {
       "basename": "TU856-Year2",
@@ -35,14 +43,6 @@
     {
       "basename": "Referential Integrity",
       "path": "2. University/Year 2/S1 Databases 1/Referential Integrity.md"
-    },
-    {
-      "basename": "Three Main Normal Forms",
-      "path": "2. University/Year 2/S1 Databases 1/Three Main Normal Forms.md"
-    },
-    {
-      "basename": "CMPU 2007 2024-2025",
-      "path": "2. University/Year 2/S1 Databases 1/CMPU 2007 2024-2025.md"
     },
     {
       "basename": "Database Normalisation",
