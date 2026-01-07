@@ -32,8 +32,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S1 Mathematics 2/$ Mathematics 2.md",
-                "mode": "source",
+                "file": "2. University/Year 2/S1 Mathematics 2/Chinese Remainder Theorem.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Mathematics 2"
+              "title": "Chinese Remainder Theorem"
             }
           }
         ],
@@ -285,14 +285,14 @@
       }
     ]
   },
-  "active": "950aad90803dfb6b",
+  "active": "f20bdee14e5c7467",
   "lastOpenFiles": [
-    "2. University/Year 2/S1 Mathematics 2/Modular Exponentiation.md",
-    "2. University/Year 2/S1 Mathematics 2/$ Mathematics 2.md",
-    "2. University/Year 2/S1 Mathematics 2/Diophantine Equations.md",
-    "2. University/Year 1/Mathematics/Euclidean Algorithm 1.md",
     "2. University/Year 2/S1 Mathematics 2/Chinese Remainder Theorem.md",
     "2. University/Year 2/S1 Mathematics 2/Exam Papers/CMPU 2012 | 2024-2025.pdf",
+    "2. University/Year 2/S1 Mathematics 2/$ Mathematics 2.md",
+    "2. University/Year 2/S1 Mathematics 2/Modular Exponentiation.md",
+    "2. University/Year 2/S1 Mathematics 2/Diophantine Equations.md",
+    "2. University/Year 1/Mathematics/Euclidean Algorithm 1.md",
     "2. University/Year 2/S1 Mathematics 2/Independent Events.md",
     "2. University/Year 2/S1 Mathematics 2/Incongruent Solutions.md",
     "2. University/Year 1/Mathematics/Fermat's Little Theorum.md",
@@ -323,7 +323,6 @@
     "2. University/Year 1/Operating Systems 1/Unsorted Notes/ROM.md",
     "2. University/Year 1/Operating Systems 1/Unsorted Notes/Processes - OS1.md",
     "2. University/Year 1/Operating Systems 1/Unsorted Notes/Processes - Introduction.md",
-    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Process States and Transitions.md",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 2/S1 Databases 1/Pasted image 20260102204829.png"

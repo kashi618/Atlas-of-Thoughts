@@ -7,7 +7,7 @@ aliases:
 To find X from equations,
 $X=r_{1}(mod\>n_{1})$
 $X=r_{2}(mod\>n_{2})$
-$X=r_{2}(mod\>n_{2})$
+$X=r_{3}(mod\>n_{3})$
 
 Use this formula,
 $X=m_{1}r_{1}s_{1}+m_{2}r_{2}s_{2}+m_{3}r_{3}s_{3}$
@@ -15,9 +15,9 @@ $X=m_{1}r_{1}s_{1}+m_{2}r_{2}s_{2}+m_{3}r_{3}s_{3}$
 Where
 $M=n_{1}*n_{2}*n_{3}$
 
-$m_{1}=\frac{M}{r_{1}}\>,\>m_{2}=\frac{M}{r_{2}}\>,\>m_{3}=\frac{M}{r_{3}}$
+$m_{1}=\frac{M}{n_{1}}\>,\>m_{2}=\frac{M}{n_{2}}\>,\>m_{3}=\frac{M}{n_{3}}$
 
-$m_{1}s_{1}≡1mod\>n_{1}$ (Inverse of $m_{1},m_{2},m_{3}$)
+$s_{1}≡m_{1}*1mod\>n_{1}$ (Inverse of $m_{1},m_{2},m_{3}$)
 
 ## Example Find X
 $X≡2mod3$
@@ -33,7 +33,7 @@ $M=3*5*7=105$
 
 $m_{1}=\frac{105}{3}=35$
 $m_{2}=\frac{105}{5}=21$
-$m_{3}=\frac{105}{7}=115$
+$m_{3}=\frac{105}{7}=15$
 
 $35s_{1}≡1mod3\>\to\>2s_{1}=1mod3$ (write 35 in mod 3)
 $s_{1}=2$
