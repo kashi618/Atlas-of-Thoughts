@@ -5,8 +5,36 @@
       "path": "2. University/Year 2/S1 Mathematics 2/$ Mathematics 2.md"
     },
     {
+      "basename": "Diophantine Equations",
+      "path": "2. University/Year 2/S1 Mathematics 2/Diophantine Equations.md"
+    },
+    {
+      "basename": "Euclidean Algorithm 1",
+      "path": "2. University/Year 1/Mathematics/Euclidean Algorithm 1.md"
+    },
+    {
+      "basename": "Chinese Remainder Theorem",
+      "path": "2. University/Year 2/S1 Mathematics 2/Chinese Remainder Theorem.md"
+    },
+    {
       "basename": "CMPU 2012 | 2024-2025",
       "path": "2. University/Year 2/S1 Mathematics 2/Exam Papers/CMPU 2012 | 2024-2025.pdf"
+    },
+    {
+      "basename": "Independent Events",
+      "path": "2. University/Year 2/S1 Mathematics 2/Independent Events.md"
+    },
+    {
+      "basename": "Incongruent Solutions",
+      "path": "2. University/Year 2/S1 Mathematics 2/Incongruent Solutions.md"
+    },
+    {
+      "basename": "Fermat's Little Theorum",
+      "path": "2. University/Year 1/Mathematics/Fermat's Little Theorum.md"
+    },
+    {
+      "basename": "Fast Exponentiation - Binary Exponentiation",
+      "path": "2. University/Year 2/S1 Mathematics 2/Fast Exponentiation - Binary Exponentiation.md"
     },
     {
       "basename": "Home",
@@ -15,10 +43,6 @@
     {
       "basename": "TU856-Year2",
       "path": "1. Home Page/TU856-Year2.md"
-    },
-    {
-      "basename": "Fast Exponentiation - Binary Exponentiation",
-      "path": "2. University/Year 2/S1 Mathematics 2/Fast Exponentiation - Binary Exponentiation.md"
     },
     {
       "basename": "la la la ~~",
@@ -43,10 +67,6 @@
     {
       "basename": "CMPU 2007 2024-2025",
       "path": "2. University/Year 2/S1 Databases 1/CMPU 2007 2024-2025.md"
-    },
-    {
-      "basename": "Incongruent Solutions",
-      "path": "2. University/Year 2/S1 Mathematics 2/Incongruent Solutions.md"
     },
     {
       "basename": "$ Software Engineering 1",

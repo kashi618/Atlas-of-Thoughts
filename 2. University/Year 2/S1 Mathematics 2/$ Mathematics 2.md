@@ -8,9 +8,6 @@
 [[Hill Digraph Cipher - Decrypting]]
 
 **Finding large exponents of modulo numbers**
-[[Modular Exponentiation]]
-
-**Faster way for finding large exponents of modulo numbers**
 [[Fast Exponentiation - Binary Exponentiation]]
 
 **Quick way to find prime exponent of modulo number**

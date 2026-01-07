@@ -33,7 +33,7 @@
               "type": "markdown",
               "state": {
                 "file": "2. University/Year 2/S1 Mathematics 2/$ Mathematics 2.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -48,18 +48,6 @@
               },
               "icon": "lucide-file",
               "title": "$ Mathematics 2"
-            }
-          },
-          {
-            "id": "f20bdee14e5c7467",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2. University/Year 2/S1 Mathematics 2/Exam Papers/CMPU 2012 | 2024-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CMPU 2012 | 2024-2025"
             }
           }
         ],
@@ -148,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.5
+    "width": 452.5,
+    "collapsed": true
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -259,12 +248,56 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "3c304f401ec26914",
+  "floating": {
+    "id": "78a95fbe0a42d89f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "41c86fe39a98c794",
+        "type": "window",
+        "children": [
+          {
+            "id": "64bc7965fdff3283",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f20bdee14e5c7467",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "2. University/Year 2/S1 Mathematics 2/Exam Papers/CMPU 2012 | 2024-2025.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "CMPU 2012 | 2024-2025"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2573,
+        "y": 50,
+        "width": 3818,
+        "height": 2109,
+        "maximize": false,
+        "zoom": 1.5
+      }
+    ]
+  },
+  "active": "950aad90803dfb6b",
   "lastOpenFiles": [
-    "2. University/Year 2/S1 Mathematics 2/Exam Papers/CMPU 2012 | 2024-2025.pdf",
-    "1. Home Page/Home.canvas",
+    "2. University/Year 2/S1 Mathematics 2/Modular Exponentiation.md",
     "2. University/Year 2/S1 Mathematics 2/$ Mathematics 2.md",
+    "2. University/Year 2/S1 Mathematics 2/Diophantine Equations.md",
+    "2. University/Year 1/Mathematics/Euclidean Algorithm 1.md",
+    "2. University/Year 2/S1 Mathematics 2/Chinese Remainder Theorem.md",
+    "2. University/Year 2/S1 Mathematics 2/Exam Papers/CMPU 2012 | 2024-2025.pdf",
+    "2. University/Year 2/S1 Mathematics 2/Independent Events.md",
+    "2. University/Year 2/S1 Mathematics 2/Incongruent Solutions.md",
+    "2. University/Year 1/Mathematics/Fermat's Little Theorum.md",
     "2. University/Year 2/S1 Mathematics 2/Fast Exponentiation - Binary Exponentiation.md",
+    "1. Home Page/Home.canvas",
     "2. University/Year 2/S1 Databases 1/Exam Papers/CMPU 2007 | 2023-2024.pdf",
     "2. University/Year 2/S1 Databases 1/CMPU 2007 2023-2024.md",
     "2. University/Year 2/S1 Databases 1/Three Main Normal Forms.md",
@@ -278,7 +311,6 @@
     "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2018-2019.pdf",
     "2. University/Year 2/S1 Web Development 2/Exam Papers",
     "2. University/Year 2 Module Notes/! Exam Papers/Exam Papers/CMPU 2022 | 2024-2025.pdf",
-    "2. University/Year 2/S1 Mathematics 2/Incongruent Solutions.md",
     "2. University/Year 1/Operating Systems 1/Unsorted Notes/vim.md",
     "2. University/Year 1/Operating Systems 1/Unsorted Notes/Virtual Machines.md",
     "2. University/Year 1/Operating Systems 1/Unsorted Notes/strace.md",
@@ -292,11 +324,6 @@
     "2. University/Year 1/Operating Systems 1/Unsorted Notes/Processes - OS1.md",
     "2. University/Year 1/Operating Systems 1/Unsorted Notes/Processes - Introduction.md",
     "2. University/Year 1/Operating Systems 1/Unsorted Notes/Process States and Transitions.md",
-    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Process Scheduling.md",
-    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Process Queues.md",
-    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Process Control Block.md",
-    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Process Context Switching.md",
-    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Process Commands.md",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 2/S1 Databases 1/Pasted image 20260102204829.png"
