@@ -1,5 +1,10 @@
 
 ## Number Theory
+**Previous Notes**
+[[Euclidean Algorithm 1]]
+[[Euclidean Algorithm 2]]
+[[Inverse Matrices]]
+
 **Inverse of a Modulo Number**
 [[Diophantine Equations]]
 

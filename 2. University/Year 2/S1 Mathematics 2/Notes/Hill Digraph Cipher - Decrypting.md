@@ -9,7 +9,7 @@ Decrypt the cipher text `WKFT` using the matrix $A=\begin{bmatrix}4&1\\3&2\end{b
 
 
 ### Step 1 find det(A) and adj(A)
-$det(A) = \frac{1}{(4)(2)-(1)(3)} = -1$
+$det(A) = \frac{1}{(4)(2)-(1)(3)} = \frac{1}{5 }$
 
 - Multiply (top left)(bottom right) - (top right)(bottom left)
 
