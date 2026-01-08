@@ -1,72 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Incongruent Solutions",
-      "path": "2. University/Year 2/S1 Mathematics 2/Notes/Incongruent Solutions.md"
-    },
-    {
-      "basename": "$ Mathematics 2",
-      "path": "2. University/Year 2/S1 Mathematics 2/Notes/$ Mathematics 2.md"
-    },
-    {
-      "basename": "De Morgan's Law",
-      "path": "2. University/Year 2/S1 Mathematics 2/Notes/De Morgan's Law.md"
-    },
-    {
-      "basename": "Properties of Probability Spaces",
-      "path": "2. University/Year 2/S1 Mathematics 2/Notes/Properties of Probability Spaces.md"
+      "basename": "Chinese Remainder Theorem",
+      "path": "2. University/Year 2/S1 Mathematics 2/Chinese Remainder Theorem.md"
     },
     {
       "basename": "CMPU 2012 | 2024-2025",
       "path": "2. University/Year 2/S1 Mathematics 2/Exam Papers/CMPU 2012 | 2024-2025.pdf"
     },
     {
-      "basename": "Inverse Numbers",
-      "path": "2. University/Year 1/Mathematics/Inverse Numbers.md"
+      "basename": "$ Mathematics 2",
+      "path": "2. University/Year 2/S1 Mathematics 2/$ Mathematics 2.md"
     },
     {
-      "basename": "CMPU 2012 | 2023-2024",
-      "path": "2. University/Year 2/S1 Mathematics 2/Exam Papers/CMPU 2012 | 2023-2024.pdf"
-    },
-    {
-      "basename": "CMPU 2012 | 2019-2020",
-      "path": "2. University/Year 2/S1 Mathematics 2/Exam Papers/CMPU 2012 | 2019-2020.pdf"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
-    },
-    {
-      "basename": "CMPU 2012 | 2022-2023",
-      "path": "2. University/Year 2/S1 Mathematics 2/Exam Papers/CMPU 2012 | 2022-2023.pdf"
+      "basename": "Diophantine Equations",
+      "path": "2. University/Year 2/S1 Mathematics 2/Diophantine Equations.md"
     },
     {
       "basename": "Euclidean Algorithm 1",
       "path": "2. University/Year 1/Mathematics/Euclidean Algorithm 1.md"
     },
     {
-      "basename": "Diophantine Equations",
-      "path": "2. University/Year 2/S1 Mathematics 2/Notes/Diophantine Equations.md"
+      "basename": "Independent Events",
+      "path": "2. University/Year 2/S1 Mathematics 2/Independent Events.md"
     },
     {
-      "basename": "Fast Exponentiation",
-      "path": "2. University/Year 2/S1 Mathematics 2/Notes/Fast Exponentiation.md"
+      "basename": "Incongruent Solutions",
+      "path": "2. University/Year 2/S1 Mathematics 2/Incongruent Solutions.md"
     },
     {
-      "basename": "Hill Digraph Cipher - Decrypting",
-      "path": "2. University/Year 2/S1 Mathematics 2/Notes/Hill Digraph Cipher - Decrypting.md"
+      "basename": "Fermat's Little Theorum",
+      "path": "2. University/Year 1/Mathematics/Fermat's Little Theorum.md"
     },
     {
-      "basename": "A Compliment",
-      "path": "2. University/Year 2/S1 Mathematics 2/Notes/A Compliment.md"
+      "basename": "Fast Exponentiation - Binary Exponentiation",
+      "path": "2. University/Year 2/S1 Mathematics 2/Fast Exponentiation - Binary Exponentiation.md"
     },
     {
-      "basename": "Bernoulli Trials - Bernoulli Distribution",
-      "path": "2. University/Year 2/S1 Mathematics 2/Notes/Bernoulli Trials - Bernoulli Distribution.md"
-    },
-    {
-      "basename": "Conditional Probability",
-      "path": "2. University/Year 2/S1 Mathematics 2/Notes/Conditional Probability.md"
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "TU856-Year2",
@@ -75,42 +47,6 @@
     {
       "basename": "la la la ~~",
       "path": "1. Home Page/la la la ~~.md"
-    },
-    {
-      "basename": "Multiplying Matrices",
-      "path": "2. University/Year 1/Mathematics/Multiplying Matrices.md"
-    },
-    {
-      "basename": "Matrices",
-      "path": "2. University/Year 1/Mathematics/Matrices.md"
-    },
-    {
-      "basename": "Inverse Matrices",
-      "path": "2. University/Year 1/Mathematics/Inverse Matrices.md"
-    },
-    {
-      "basename": "Hill Digraph Cipher - Encrypting",
-      "path": "2. University/Year 2/S1 Mathematics 2/Notes/Hill Digraph Cipher - Encrypting.md"
-    },
-    {
-      "basename": "$ Software Engineering 1",
-      "path": "2. University/Year 2/S1 Software Engineering 1/$ Software Engineering 1.md"
-    },
-    {
-      "basename": "Adding and Subtracting Matrices",
-      "path": "2. University/Year 1/Mathematics/Adding and Subtracting Matrices.md"
-    },
-    {
-      "basename": "Combinations and Permutations",
-      "path": "2. University/Year 2/S1 Mathematics 2/Notes/Combinations and Permutations.md"
-    },
-    {
-      "basename": "Euclidean Algorithm 2",
-      "path": "2. University/Year 1/Mathematics/Euclidean Algorithm 2.md"
-    },
-    {
-      "basename": "Modular Exponentiation",
-      "path": "2. University/Year 2/S1 Mathematics 2/Notes/Modular Exponentiation.md"
     },
     {
       "basename": "CMPU 2007 | 2023-2024",
@@ -131,6 +67,10 @@
     {
       "basename": "CMPU 2007 2024-2025",
       "path": "2. University/Year 2/S1 Databases 1/CMPU 2007 2024-2025.md"
+    },
+    {
+      "basename": "$ Software Engineering 1",
+      "path": "2. University/Year 2/S1 Software Engineering 1/$ Software Engineering 1.md"
     },
     {
       "basename": "Referential Integrity",
@@ -199,6 +139,34 @@
     {
       "basename": "Guitar Wishlist",
       "path": "3. General/Lists/Guitar Wishlist.md"
+    },
+    {
+      "basename": "Philosophy to Learn",
+      "path": "3. General/Lists/Philosophy to Learn.md"
+    },
+    {
+      "basename": "Monster Can Flavours and Tierlist",
+      "path": "3. General/Lists/Monster Can Flavours and Tierlist.md"
+    },
+    {
+      "basename": "TV Shows & Movies & Anime & Manga",
+      "path": "3. General/Lists/TV Shows & Movies & Anime & Manga.md"
+    },
+    {
+      "basename": "Wishlist",
+      "path": "3. General/Lists/Wishlist.md"
+    },
+    {
+      "basename": "Cohesion Levels",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Cohesion Levels.md"
+    },
+    {
+      "basename": "CMPU 2019 2024-2025",
+      "path": "2. University/Year 2/S1 Software Engineering 1/CMPU 2019 2024-2025.md"
+    },
+    {
+      "basename": "ERD - Normalisation",
+      "path": "2. University/Year 2/S1 Databases 1/ERD - Normalisation.md"
     }
   ],
   "omittedPaths": [],
