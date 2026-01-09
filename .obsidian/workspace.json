@@ -10,7 +10,6 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -18,40 +17,14 @@
                 "viewState": {
                   "x": -680,
                   "y": -18.5,
-                  "zoom": -0.24441872766644696
+                  "zoom": -0.7689347037437836
                 }
               },
-              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "950aad90803dfb6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Year 2/S1 Mathematics 2/Chinese Remainder Theorem.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Chinese Remainder Theorem"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +88,8 @@
               "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "b2b152570fec8082",
@@ -136,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.5,
-    "collapsed": true
+    "width": 452.5
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -248,45 +221,11 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "floating": {
-    "id": "78a95fbe0a42d89f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "41c86fe39a98c794",
-        "type": "window",
-        "children": [
-          {
-            "id": "64bc7965fdff3283",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f20bdee14e5c7467",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "2. University/Year 2/S1 Mathematics 2/Exam Papers/CMPU 2012 | 2024-2025.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "CMPU 2012 | 2024-2025"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 13,
-        "y": 50,
-        "width": 2532,
-        "height": 1536,
-        "maximize": false,
-        "zoom": 1.5
-      }
-    ]
-  },
-  "active": "950aad90803dfb6b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2. University/Year 2/S1 Mathematics 2/Fast Exponentiation - Binary Exponentiation.md",
+    "2. University/Year 2/S1 Mathematics 2/Notes/$ Mathematics 2.md",
+    "1. Home Page/Home.canvas",
     "2. University/Year 2/S1 Mathematics 2/Exam Papers/CMPU 2012 | 2024-2025.pdf",
     "2. University/Year 2/S1 Mathematics 2/Chinese Remainder Theorem.md",
     "2. University/Year 2/S1 Mathematics 2/$ Mathematics 2.md",
@@ -296,8 +235,6 @@
     "2. University/Year 2/S1 Mathematics 2/Independent Events.md",
     "2. University/Year 2/S1 Mathematics 2/Incongruent Solutions.md",
     "2. University/Year 1/Mathematics/Fermat's Little Theorum.md",
-    "2. University/Year 2/S1 Mathematics 2/Fast Exponentiation - Binary Exponentiation.md",
-    "1. Home Page/Home.canvas",
     "2. University/Year 2/S1 Databases 1/Exam Papers/CMPU 2007 | 2023-2024.pdf",
     "2. University/Year 2/S1 Databases 1/CMPU 2007 2023-2024.md",
     "2. University/Year 2/S1 Databases 1/Three Main Normal Forms.md",
