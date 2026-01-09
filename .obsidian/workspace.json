@@ -149,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -320,24 +321,25 @@
                   "title": "CMPU 2017 2024-2025"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 964,
+        "x": 950,
         "y": 40,
-        "width": 945,
-        "height": 1029,
+        "width": 959,
+        "height": 74,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "8d5f20f38ec5c3bf",
+  "active": "073a8e7f15c857cc",
   "lastOpenFiles": [
     "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf",
-    "2. University/Year 2/S1 Operating Systems 2/Deadlock.md",
     "2. University/Year 2/S1 Operating Systems 2/CMPU 2017 2024-2025.md",
+    "2. University/Year 2/S1 Operating Systems 2/Deadlock.md",
     "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2023-2024.pdf",
     "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2022-2023.pdf",
     "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2019-2020.pdf",
