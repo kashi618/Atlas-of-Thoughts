@@ -37,30 +37,6 @@
               "icon": "lucide-file-text",
               "title": "CMPU 2017  2024-2025"
             }
-          },
-          {
-            "id": "b316f424c58db98f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Year 2/S1 Operating Systems 2/$ Operating Systems 2.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ Operating Systems 2"
-            }
           }
         ],
         "currentTab": 1
@@ -274,12 +250,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "8d5f20f38ec5c3bf",
+                "id": "073a8e7f15c857cc",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2. University/Year 2/S1 Operating Systems 2/Deadlock.md",
+                    "file": "2. University/Year 2/S1 Operating Systems 2/processes - fork().md",
                     "mode": "source",
                     "source": true,
                     "backlinks": true,
@@ -294,16 +270,16 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Deadlock"
+                  "title": "processes - fork()"
                 }
               },
               {
-                "id": "073a8e7f15c857cc",
+                "id": "3033c853333239a3",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2. University/Year 2/S1 Operating Systems 2/CMPU 2017 2024-2025.md",
+                    "file": "2. University/Year 2/S1 Operating Systems 2/Processes - wait().md",
                     "mode": "preview",
                     "source": true,
                     "backlinks": true,
@@ -318,33 +294,64 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "CMPU 2017 2024-2025"
+                  "title": "Processes - wait()"
+                }
+              },
+              {
+                "id": "c408c753bb02039a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. University/Year 2/S1 Operating Systems 2/$ Operating Systems 2.md",
+                    "mode": "preview",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "$ Operating Systems 2"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 950,
+        "x": 572,
         "y": 40,
-        "width": 959,
-        "height": 74,
+        "width": 1097,
+        "height": 1029,
         "maximize": false,
-        "zoom": 0
+        "zoom": 0.5
       }
     ]
   },
   "active": "073a8e7f15c857cc",
   "lastOpenFiles": [
     "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf",
-    "2. University/Year 2/S1 Operating Systems 2/CMPU 2017 2024-2025.md",
+    "2. University/Year 2/S1 Operating Systems 2/processes - fork().md",
+    "2. University/Year 2/S1 Operating Systems 2/$ Operating Systems 2.md",
+    "2. University/Year 2/S1 Operating Systems 2/Processes - wait().md",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Process Control Block.md",
+    "2. University/Year 2/S1 Operating Systems 2/Process Control Block - PCB.md",
     "2. University/Year 2/S1 Operating Systems 2/Deadlock.md",
+    "1. Home Page/Home.canvas",
+    "2. University/Year 2/S1 Operating Systems 2/Thread Control Block - TCB.md",
+    "2. University/Year 2/S1 Operating Systems 2/CMPU 2017 2024-2025.md",
+    "2. University/Year 2/S1 Operating Systems 2/Linked Lists - Creating Nodes - C.md",
+    "2. University/Year 2/S1 Operating Systems 2/Linked Lists.md",
+    "2. University/Year 2/S1 Operating Systems 2/Linked Lists - Deleting Nodes - C.md",
     "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2023-2024.pdf",
     "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2022-2023.pdf",
     "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2019-2020.pdf",
-    "1. Home Page/Home.canvas",
-    "2. University/Year 2/S1 Operating Systems 2/$ Operating Systems 2.md",
     "2. University/Year 2/S1 Mathematics 2/Fast Exponentiation - Binary Exponentiation.md",
     "2. University/Year 2/S1 Mathematics 2/Notes/$ Mathematics 2.md",
     "2. University/Year 2/S1 Mathematics 2/Exam Papers/CMPU 2012 | 2024-2025.pdf",
@@ -365,14 +372,6 @@
     "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2024-2025.pdf",
     "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2023-2024.pdf",
     "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2022-2023.pdf",
-    "2. University/Year 1/Operating Systems 1/Unsorted Notes/vim.md",
-    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Virtual Machines.md",
-    "2. University/Year 1/Operating Systems 1/Unsorted Notes/strace.md",
-    "2. University/Year 1/Operating Systems 1/Unsorted Notes/UOperating System.md",
-    "2. University/Year 1/Operating Systems 1/Unsorted Notes/UI.md",
-    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Timesharing.md",
-    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Software.md",
-    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Software & Hardware.md",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 2/S1 Databases 1/Pasted image 20260102204829.png"
