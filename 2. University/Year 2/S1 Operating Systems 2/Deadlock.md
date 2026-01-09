@@ -20,7 +20,7 @@ Resources cannot be forcibly taken away from a process. It must be released by t
 
 ### Circular Wait
 Process 1 holds resource 1, waits for resource 2
-Process 2 holds resource 2, waits for resource 1eab
+Process 2 holds resource 2, waits for resource 1
 ![[Pasted image 20251218170821.png]]
 
 # See Also

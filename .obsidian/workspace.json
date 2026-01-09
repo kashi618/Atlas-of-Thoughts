@@ -27,13 +27,25 @@
             }
           },
           {
-            "id": "3477f79e79092244",
+            "id": "10437700be2a9e77",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CMPU 2017  2024-2025"
+            }
+          },
+          {
+            "id": "b316f424c58db98f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2. University/Year 2/S1 Operating Systems 2/$ Operating Systems 2.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -49,21 +61,9 @@
               "icon": "lucide-file",
               "title": "$ Operating Systems 2"
             }
-          },
-          {
-            "id": "c13f568ee9a4a873",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CMPU 2017  2024-2025"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.5
+    "width": 267.5
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -260,11 +260,89 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "c13f568ee9a4a873",
+  "floating": {
+    "id": "15056dec35202ca2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d96bee6fdf794dea",
+        "type": "window",
+        "children": [
+          {
+            "id": "a8752690e4f70f3a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8d5f20f38ec5c3bf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. University/Year 2/S1 Operating Systems 2/Deadlock.md",
+                    "mode": "source",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Deadlock"
+                }
+              },
+              {
+                "id": "073a8e7f15c857cc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. University/Year 2/S1 Operating Systems 2/CMPU 2017 2024-2025.md",
+                    "mode": "preview",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "CMPU 2017 2024-2025"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 964,
+        "y": 40,
+        "width": 945,
+        "height": 1029,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "8d5f20f38ec5c3bf",
   "lastOpenFiles": [
-    "2. University/Year 2/S1 Operating Systems 2/$ Operating Systems 2.md",
     "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf",
+    "2. University/Year 2/S1 Operating Systems 2/Deadlock.md",
+    "2. University/Year 2/S1 Operating Systems 2/CMPU 2017 2024-2025.md",
+    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2023-2024.pdf",
+    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2022-2023.pdf",
+    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2019-2020.pdf",
     "1. Home Page/Home.canvas",
+    "2. University/Year 2/S1 Operating Systems 2/$ Operating Systems 2.md",
     "2. University/Year 2/S1 Mathematics 2/Fast Exponentiation - Binary Exponentiation.md",
     "2. University/Year 2/S1 Mathematics 2/Notes/$ Mathematics 2.md",
     "2. University/Year 2/S1 Mathematics 2/Exam Papers/CMPU 2012 | 2024-2025.pdf",
@@ -285,9 +363,6 @@
     "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2024-2025.pdf",
     "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2023-2024.pdf",
     "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2022-2023.pdf",
-    "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2019-2020.pdf",
-    "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2018-2019.pdf",
-    "2. University/Year 2/S1 Web Development 2/Exam Papers",
     "2. University/Year 1/Operating Systems 1/Unsorted Notes/vim.md",
     "2. University/Year 1/Operating Systems 1/Unsorted Notes/Virtual Machines.md",
     "2. University/Year 1/Operating Systems 1/Unsorted Notes/strace.md",
@@ -296,8 +371,6 @@
     "2. University/Year 1/Operating Systems 1/Unsorted Notes/Timesharing.md",
     "2. University/Year 1/Operating Systems 1/Unsorted Notes/Software.md",
     "2. University/Year 1/Operating Systems 1/Unsorted Notes/Software & Hardware.md",
-    "2. University/Year 1/Operating Systems 1/Unsorted Notes/STDIN-STDOUT-STDERR.md",
-    "2. University/Year 1/Operating Systems 1/Unsorted Notes/ROM.md",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 2/S1 Databases 1/Pasted image 20260102204829.png"

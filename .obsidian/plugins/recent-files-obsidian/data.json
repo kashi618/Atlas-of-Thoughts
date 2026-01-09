@@ -5,12 +5,20 @@
       "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf"
     },
     {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/Year 2/S1 Operating Systems 2/$ Operating Systems 2.md"
+      "basename": "Deadlock",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Deadlock.md"
+    },
+    {
+      "basename": "CMPU 2017 2024-2025",
+      "path": "2. University/Year 2/S1 Operating Systems 2/CMPU 2017 2024-2025.md"
     },
     {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/Year 2/S1 Operating Systems 2/$ Operating Systems 2.md"
     },
     {
       "basename": "TU856-Year2",

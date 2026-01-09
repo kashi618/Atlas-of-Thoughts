@@ -51,7 +51,8 @@
 - [[Wait and Signal]]
 - [[Semaphores]]
 
-[[Deadlock]]
+- [[Deadlock]]
+
 ## Other
 [[Heap and Stack Memory]]
 <br>
