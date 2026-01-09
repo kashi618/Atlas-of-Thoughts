@@ -13,7 +13,11 @@ The PID value of the child process is returned
 **In the child process**
 A value of 0 is returned, to signal that it is a child process
 
-## Information About Fork
-- Both the parent and child process are ran concurrently.
+## Concurrency Between Parent and Child
+The parent and child class are ran concurrently. This means that if the parent class finishes first, then the child process will be destroyed (regardless if it has finished or not)
+[[Processes - wait()|How to ensure child finishes before parent]]
+
+
 # See Also
 [[$ Operating Systems 2]]
+[[Processes - wait()]]
