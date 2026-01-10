@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "processes - fork()",
       "path": "2. University/Year 2/S1 Operating Systems 2/processes - fork().md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Deadlock",
       "path": "2. University/Year 2/S1 Operating Systems 2/Deadlock.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Thread Control Block - TCB",

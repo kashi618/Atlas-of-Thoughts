@@ -10,36 +10,14 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1. Home Page/Home.canvas",
-                "viewState": {
-                  "x": -680,
-                  "y": -18.5,
-                  "zoom": -0.7689347037437836
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "10437700be2a9e77",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CMPU 2017  2024-2025"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -252,25 +229,20 @@
               {
                 "id": "073a8e7f15c857cc",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
-                  "type": "markdown",
+                  "type": "canvas",
                   "state": {
-                    "file": "2. University/Year 2/S1 Operating Systems 2/processes - fork().md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
+                    "file": "1. Home Page/Home.canvas",
+                    "viewState": {
+                      "x": -680,
+                      "y": -18.5,
+                      "zoom": -1.5135697915159463
                     }
                   },
-                  "icon": "lucide-file",
-                  "title": "processes - fork()"
+                  "pinned": true,
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Home"
                 }
               },
               {
@@ -325,10 +297,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 485,
+        "x": 109,
         "y": 40,
-        "width": 362,
-        "height": 1029,
+        "width": 1800,
+        "height": 47,
         "maximize": false,
         "zoom": 0.5
       }
@@ -336,8 +308,8 @@
   },
   "active": "073a8e7f15c857cc",
   "lastOpenFiles": [
-    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf",
     "2. University/Year 2/S1 Operating Systems 2/processes - fork().md",
+    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf",
     "2. University/Year 2/S1 Operating Systems 2/$ Operating Systems 2.md",
     "2. University/Year 2/S1 Operating Systems 2/Processes - wait().md",
     "2. University/Year 1/Operating Systems 1/Unsorted Notes/Process Control Block.md",
