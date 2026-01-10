@@ -297,10 +297,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 109,
+        "x": 485,
         "y": 40,
-        "width": 1800,
-        "height": 47,
+        "width": 1424,
+        "height": 1029,
         "maximize": false,
         "zoom": 0.5
       }
