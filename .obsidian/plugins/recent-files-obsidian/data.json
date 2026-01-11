@@ -1,40 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "Results",
+      "path": "2. University/Year 2/Results.md"
+    },
+    {
+      "basename": "!!!",
+      "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/!!!.md"
+    },
+    {
+      "basename": "Fast Exponentiation - Binary Exponentiation",
+      "path": "2. University/Year 2/S1 Mathematics 2/Notes/Fast Exponentiation - Binary Exponentiation.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
     {
-      "basename": "Processes - wait()",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Processes - wait().md"
+      "basename": "Creating Threads - C",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Creating Threads - C.md"
+    },
+    {
+      "basename": "Programs Processes Threads Overview - OS2",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Programs Processes Threads Overview - OS2.md"
+    },
+    {
+      "basename": "Queue - dequeue() - C",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Queue - dequeue() - C.md"
     },
     {
       "basename": "CMPU 2017  2024-2025",
       "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf"
     },
     {
-      "basename": "processes - fork()",
-      "path": "2. University/Year 2/S1 Operating Systems 2/processes - fork().md"
-    },
-    {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/Year 2/S1 Operating Systems 2/$ Operating Systems 2.md"
-    },
-    {
-      "basename": "Zombie and Orphan Processes",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Zombie and Orphan Processes.md"
-    },
-    {
-      "basename": "Process Control Block - PCB",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Process Control Block - PCB.md"
-    },
-    {
-      "basename": "CMPU 2017 2024-2025",
-      "path": "2. University/Year 2/S1 Operating Systems 2/CMPU 2017 2024-2025.md"
+      "basename": "Applied Jobs",
+      "path": "1. Home Page/Applied Jobs.md"
     },
     {
       "basename": "TU856-Year2",
       "path": "1. Home Page/TU856-Year2.md"
+    },
+    {
+      "basename": "Processes - wait()",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - wait().md"
+    },
+    {
+      "basename": "processes - fork()",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/processes - fork().md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "Zombie and Orphan Processes",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Zombie and Orphan Processes.md"
+    },
+    {
+      "basename": "Process Control Block - PCB",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Process Control Block - PCB.md"
+    },
+    {
+      "basename": "CMPU 2017 2024-2025",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/CMPU 2017 2024-2025.md"
     },
     {
       "basename": "Process Control Block",
@@ -42,27 +70,23 @@
     },
     {
       "basename": "Deadlock",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Deadlock.md"
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Deadlock.md"
     },
     {
       "basename": "Thread Control Block - TCB",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Thread Control Block - TCB.md"
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Thread Control Block - TCB.md"
     },
     {
       "basename": "Linked Lists - Creating Nodes - C",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Linked Lists - Creating Nodes - C.md"
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Linked Lists - Creating Nodes - C.md"
     },
     {
       "basename": "Linked Lists",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Linked Lists.md"
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Linked Lists.md"
     },
     {
       "basename": "Linked Lists - Deleting Nodes - C",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Linked Lists - Deleting Nodes - C.md"
-    },
-    {
-      "basename": "Fast Exponentiation - Binary Exponentiation",
-      "path": "2. University/Year 2/S1 Mathematics 2/Fast Exponentiation - Binary Exponentiation.md"
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Linked Lists - Deleting Nodes - C.md"
     },
     {
       "basename": "$ Mathematics 2",
@@ -126,7 +150,7 @@
     },
     {
       "basename": "$ Software Engineering 1",
-      "path": "2. University/Year 2/S1 Software Engineering 1/$ Software Engineering 1.md"
+      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md"
     },
     {
       "basename": "Referential Integrity",
@@ -142,11 +166,11 @@
     },
     {
       "basename": "Coupling",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Coupling.md"
+      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Coupling.md"
     },
     {
       "basename": "Cohesion",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Cohesion.md"
+      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Cohesion.md"
     },
     {
       "basename": "Obsidian Keybinds",
@@ -175,30 +199,6 @@
     {
       "basename": "Is Knowledge Finite?",
       "path": "3. General/Ideas/Is Knowledge Finite?.md"
-    },
-    {
-      "basename": "Horror Games",
-      "path": "3. General/Ideas/Horror Games.md"
-    },
-    {
-      "basename": "Comp Sci to Learn",
-      "path": "3. General/Lists/Comp Sci to Learn.md"
-    },
-    {
-      "basename": "GameDev ToDo List",
-      "path": "3. General/Lists/GameDev ToDo List.md"
-    },
-    {
-      "basename": "Games to Play",
-      "path": "3. General/Lists/Games to Play.md"
-    },
-    {
-      "basename": "Guitar Wishlist",
-      "path": "3. General/Lists/Guitar Wishlist.md"
-    },
-    {
-      "basename": "Philosophy to Learn",
-      "path": "3. General/Lists/Philosophy to Learn.md"
     }
   ],
   "omittedPaths": [],
