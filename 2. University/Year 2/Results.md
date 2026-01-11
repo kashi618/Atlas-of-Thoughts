@@ -1,97 +1,121 @@
-## 🖥️ Operating Systems 2  
-**Weighting:** 60% Exam | 40% CA  
+## Operating Systems 2
+**Weighting**: 60% Exam | 40% CA
 
-### Exam (??/60%)  
-- **Exam:** ??/100  
+### Exam (??/60%)
+Exam: ??/100
 
-### CA (22.6/40%)  
-- **CA1:** 68/100  
-- **CA2:** 45/100  
-- **Raw Total:** 113/200  
-- **Scaled to CA weight:** 56.5% → **22.6/40**
+### CA (22.6/40%)
+CA1: 68/100
+CA2: 45/100
 
----
+**CA Total**
+Raw Total: 113/200 -> 56.5%/100%
+CA Weight: 22.6%/40%
 
-## 🗄️ Databases 1  
-**Weighting:** 50% Exam | 50% CA  
+## Databases 1
+**Weighting**: 50% Exam | 50% CA
 
-### Exam (??/50%)  
-- **Exam:** ??/??  
+### Exam (??/50%)
+Exam: ??/??
 
-### CA (48.5/50%)  
-**Lab Tests (20% of CA)**  
-- Quiz 1: 10/10 (100%)  
-- Quiz 2: 8.5/10 (85%)  
-- Subtotal: 18.5/20 → **18.5/20**  
+### CA (48.5/50%)
+**Lab Tests 10% each**
+Quiz1: 10/10 100%
+Quiz2: 8.5/10 85%
+Total: 18.5/20
 
-**Lab Works (30% of CA)**  
-- Labs 1–10: All 100%  
-- Subtotal: 30/30 → **30/30**  
+**Lab Works 3% each**
+Lab1: 100%
+Lab2: 100%
+Lab3: 100%
+Lab4: 100%
+Lab5: 100%
+Lab6: 100%
+Lab7: 100%
+Lab8: 100%
+Lab9: 100%
+Lab10: 100%
+Total: 30/30
 
-**CA Total:** 48.5/50  
+**CA Total**
+Raw Total: 48.5/50
+CA Weight: 48.5%
 
----
+## Mathematics 2
+**Weighting**: 70% Exam | 30% CA
 
-## ➗ Mathematics 2  
-**Weighting:** 70% Exam | 30% CA  
+### Exam (??/70%)
+Exam: ??/??
 
-### Exam (??/70%)  
-- **Exam:** ??/??  
+### CA (28.31/30%)
+Quiz1: 12/13 92.31%
+Quiz2: 27/28 96.43%
 
-### CA (28.31/30%)  
-- Quiz 1: 12/13 (92.31%)  
-- Quiz 2: 27/28 (96.43%)  
-- **Weighted CA:** 28.31/30  
+**Total**
+Raw Total: 39/41 -> 95.12%≈/100%
+CA Weight: 28.54%/30%
 
----
+## Software Engineering 1
+**Weighting**: 70 Exam | 30 CA
 
-## ⚙️ Software Engineering 1  
-**Weighting:** 70% Exam | 30% CA  
+### Exam (??/70%)
+Exam: ??/??
 
-### Exam (??/70%)  
-- **Exam:** ??/??  
+### CA (18.6/30%)
+CA1: 76/100
+CA2: 48/100
 
-### CA (18.6/30%)  
-- CA1: 76/100  
-- CA2: 48/100  
-- **Raw Total:** 124/200  
-- **Scaled to CA weight:** 62% → **18.6/30**
+**Total**
+Raw Total: 124/200 -> 62%/100%
+CA Weight: 18.6%/30%
 
----
+## Object Oriented Programming
+**Weighting**: 50% Exam | 50% CA
 
-## 🧩 Object Oriented Programming  
-**Weighting:** 50% Exam | 50% CA  
+### Exam (??/50%)
 
-### Exam (??/50%)  
-- **Exam:** ??/??  
+### CA (??/50%)
+(2 Lab Tests worth 15% each)
+Quiz1: 20/30
+Quiz2: 24/30
+TOTAL: 44/60
 
-### CA (??/50%)  
-**Lab Tests (30% of CA)**  
-- Quiz 1: 20/30  
-- Quiz 2: 24/30  
-- **Subtotal:** 44/60 → **??/30**  
+(8 Labs worth 3/4% each)
+Lab1: ??
+Lab2: ??
+Lab3: ??
+Lab4: ??
+Lab5: ??
+Lab6: ??
+Lab7: ??
+Lab8: ??
 
-**Labs (20% of CA)**  
-- Labs 1–8: ??  
-- **Subtotal:** ??/?? → **??/20**  
+**Total**
+Raw Total: ??/?? -> ??/??
+CA Weight: ??%
 
-**CA Total:** ??/50  
+## Web Development 2
+**Weighting**: 50% Exam / 50% CA
 
----
+### Exam (??/50%)
+Exam: ??/??
 
-## 🌐 Web Development 2  
-**Weighting:** 50% Exam | 50% CA  
+### CA (??/50%)
+(Project worth 70% of total ca)
+Project: ??
 
-### Exam (??/50%)  
-- **Exam:** ??/??  
+(Labs worth 3/4% each)
+Lab1: ?? 100%
+Lab2: ?? 100%
+Lab3: ?? 100%
+Lab4: ?? 100%
+Lab5: ?? 100%
+Lab6: ?? 100%
+Lab7: ?? 100%
+Lab8: ?? 100%
+Lab9: ?? 100%
+Lab10: ?? 0%
 
-### CA (??/50%)  
-**Project (70% of CA)**  
-- Project: ??  
-
-**Labs (30% of CA)**  
-- Labs 1–9: 100%  
-- Lab 10: 0%  
-- Lab Average: 90% → **??/30**  
-
-**CA Total:** ??/50  
+**Total**
+Raw Total: ??/?? -> ??/??
+CA Weight: ??/??

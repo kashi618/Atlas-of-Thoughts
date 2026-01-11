@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c408c753bb02039a",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -17,13 +17,104 @@
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
                   "x": -380,
-                  "y": 110,
-                  "zoom": -0.3168571053399405
+                  "y": 109.99999999999997,
+                  "zoom": -0.7173950349236693
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
+            }
+          },
+          {
+            "id": "4130b18ab2b7d55f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Operating Systems 2"
+            }
+          },
+          {
+            "id": "d43330b640bd0011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - wait().md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Processes - wait()"
+            }
+          },
+          {
+            "id": "0d55b75b311a2334",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/CMPU 2017 2024-2025.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CMPU 2017 2024-2025"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "5dc1d174c66a96f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e09f087189dc6026",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CMPU 2017  2024-2025"
             }
           }
         ]
@@ -40,6 +131,16 @@
         "type": "tabs",
         "dimension": 71.80527383367141,
         "children": [
+          {
+            "id": "0158bffff2e95e83",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          },
           {
             "id": "3c304f401ec26914",
             "type": "leaf",
@@ -79,19 +180,8 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "0158bffff2e95e83",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "b2b152570fec8082",
@@ -112,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -128,6 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - wait().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +229,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Processes - wait()"
             }
           },
           {
@@ -223,53 +315,47 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "c408c753bb02039a",
+  "active": "d43330b640bd0011",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/CMPU 2017 2024-2025.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/!OS2.md",
+    "2. University/Year 2/S1 Databases 1/Entities and Attributes.md",
+    "2. University/Year 2/S1 Databases 1/$ Databases 1.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - wait().md",
+    "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Course overview.pptx",
+    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf",
+    "2. University/Year 1/Results.md",
     "1. Home Page/Home.canvas",
-    "2. University/Year 2/S1 Operating Systems 2/processes - fork().md",
-    "2. University/Year 2/S1 Web Development 2/Notes/Transmission Control Protocol (TCP).md",
-    "2. University/Year 2/S1 Web Development 2/Notes/The Internet.md",
-    "2. University/Year 2/S1 Web Development 2/Notes/Pasted image 20251002123333.png",
-    "2. University/Year 2/S1 Web Development 2/Notes/PHP.md",
-    "2. University/Year 2/S1 Web Development 2/Notes/Phingal Libraries Brief.md",
-    "2. University/Year 2/S1 Web Development 2/Notes/Phingal Libraries - Website Plan.md",
-    "2. University/Year 2/S1 Web Development 2/Notes/Internet Protocol (IP).md",
-    "2. University/Year 2/S1 Web Development 2/Notes/Interent Protocols.md",
-    "2. University/Year 2/S1 Web Development 2/Notes/IP Address.md",
-    "2. University/Year 2/S1 Web Development 2/Notes/Basic PHP Syntax.md",
-    "2. University/Year 2/S1 Web Development 2/Notes/$ Web Development 2.md",
+    "2. University/Year 2/Results.md",
+    "2. University/Year 2/S1 Object Oriented Programming/Notes/!!!.md",
     "2. University/Year 2/S1 Web Development 2/Notes",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Use Cases and Scenarios.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Software Engineering 1 - 9-24.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Software Engineering 1 9-17.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Software Engineering 1 - 9-15.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Hardware and Software Reliability.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Coupling.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Cohesion Levels.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Cohesion.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/CMPU 2019 2024-2025.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/processes - fork().md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/fork() with wait().png",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Zombie and Orphan Processes.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Wait and Signal.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Pasted image 20251221153659.png",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Pasted image 20251221151612.png",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Pasted image 20251219190222.png",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Pasted image 20251218233235.png",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Pasted image 20251218170821.png",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Pasted image 20251218232043.png",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Before and After fork().png",
+    "2. University/Year 2/S1 Object Oriented Programming/Notes",
+    "2. University/Year 2/S1 Mathematics 2/Notes/Fast Exponentiation - Binary Exponentiation.md",
+    "2. University/Year 2/S1 Software Engineering 1/Untitled.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Creating Threads - C.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Programs Processes Threads Overview - OS2.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Queue - dequeue() - C.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/processes - fork().md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Zombie and Orphan Processes.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Process Control Block - PCB.md",
+    "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 11 Main Memory and Virtual Memory.pdf",
+    "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 10 Deadlock.pdf",
     "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 9 Thread Synchronisation 2025.pdf",
     "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 8.5 Threads Part 1.pdf",
-    "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 8.4 Process in Unix.pdf",
-    "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 8.3 Processes .pdf",
-    "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 8.2 Queues 2025.pdf",
-    "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 8.1 Stacks 2025.pdf",
-    "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 7 Linked Lists.pdf",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/Pasted image 20251009124000.png"
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Process Control Block.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Deadlock.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Thread Control Block - TCB.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Linked Lists - Creating Nodes - C.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Linked Lists.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Linked Lists - Deleting Nodes - C.md",
+    "2. University/Year 2/S1 Mathematics 2/Notes/$ Mathematics 2.md",
+    "2. University/Year 2/S1 Mathematics 2/Chinese Remainder Theorem.md",
+    "2. University/Year 2/S1 Mathematics 2/$ Mathematics 2.md",
+    "2. University/Year 1/Programming/Pasted image 20250929101751.png",
+    "2. University/Year 1/Programming/Pasted image 20250929101751.png",
+    "2. University/Year 2/S1 Databases 1/Pasted image 20260102204829.png"
   ]
 }
