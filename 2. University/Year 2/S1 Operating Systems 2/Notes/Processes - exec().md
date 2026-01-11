@@ -26,8 +26,27 @@ exec() is not actually a command in C. It instead refers to the family of functi
 ### execvp()
 This variant is used to run a command by name (like calling a command in the bash shell)
 
-**Usage**
+**Function Signature**
+`int execvp(char *prog, char **argv)`
 
+`char *prog`
+- Takes in pointer to string containing name of executable
+- Short for "program"
+- If if I want to run `ls`, then `prog = "ls"`
+
+`char **argv`
+- Takes in a pointer to an array of strings
+- This represents the CLI arguments you want to pass into the program
+- Short for "vector"
+- If i want to run `ls`
+
+
+```c
+char *prog = "cp";
+char *args[] = {"cp", "file.c", "file2.c", NULL};
+
+execvp(prog, args);
+```
 **Return Values**
 
 # See Also
