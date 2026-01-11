@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Processes - exec()",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - exec().md"
+      "basename": "CMPU 2017  2024-2025",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf"
     },
     {
       "basename": "$ Operating Systems 2",
       "path": "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md"
     },
     {
-      "basename": "Processes - wait()",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - wait().md"
+      "basename": "Deadlock",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Deadlock.md"
     },
     {
       "basename": "CMPU 2017 2024-2025",
       "path": "2. University/Year 2/S1 Operating Systems 2/Notes/CMPU 2017 2024-2025.md"
     },
     {
-      "basename": "CMPU 2017  2024-2025",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf"
+      "basename": "Processes - exec()",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - exec().md"
+    },
+    {
+      "basename": "CMPU 2017  2023-2024",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2023-2024.pdf"
+    },
+    {
+      "basename": "CMPU 2017  2022-2023",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2022-2023.pdf"
+    },
+    {
+      "basename": "CMPU 2017  2019-2020",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2019-2020.pdf"
+    },
+    {
+      "basename": "Processes - wait()",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - wait().md"
     },
     {
       "basename": "Command Line Arguments - argc & argv",
@@ -183,22 +199,6 @@
     {
       "basename": "Is Knowledge Finite?",
       "path": "3. General/Ideas/Is Knowledge Finite?.md"
-    },
-    {
-      "basename": "Horror Games",
-      "path": "3. General/Ideas/Horror Games.md"
-    },
-    {
-      "basename": "Comp Sci to Learn",
-      "path": "3. General/Lists/Comp Sci to Learn.md"
-    },
-    {
-      "basename": "GameDev ToDo List",
-      "path": "3. General/Lists/GameDev ToDo List.md"
-    },
-    {
-      "basename": "Games to Play",
-      "path": "3. General/Lists/Games to Play.md"
     }
   ],
   "omittedPaths": [],
