@@ -1,64 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "processes - fork()",
-      "path": "2. University/Year 2/S1 Operating Systems 2/processes - fork().md"
-    },
-    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
     {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/Year 2/S1 Operating Systems 2/$ Operating Systems 2.md"
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
     },
     {
       "basename": "CMPU 2017  2024-2025",
       "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf"
     },
     {
-      "basename": "Processes - wait()",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Processes - wait().md"
-    },
-    {
       "basename": "Process Control Block",
       "path": "2. University/Year 1/Operating Systems 1/Unsorted Notes/Process Control Block.md"
     },
     {
-      "basename": "Process Control Block - PCB",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Process Control Block - PCB.md"
-    },
-    {
-      "basename": "Deadlock",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Deadlock.md"
-    },
-    {
-      "basename": "Thread Control Block - TCB",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Thread Control Block - TCB.md"
-    },
-    {
-      "basename": "CMPU 2017 2024-2025",
-      "path": "2. University/Year 2/S1 Operating Systems 2/CMPU 2017 2024-2025.md"
-    },
-    {
-      "basename": "Linked Lists - Creating Nodes - C",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Linked Lists - Creating Nodes - C.md"
-    },
-    {
-      "basename": "Linked Lists",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Linked Lists.md"
-    },
-    {
-      "basename": "Linked Lists - Deleting Nodes - C",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Linked Lists - Deleting Nodes - C.md"
-    },
-    {
       "basename": "TU856-Year2",
       "path": "1. Home Page/TU856-Year2.md"
-    },
-    {
-      "basename": "Fast Exponentiation - Binary Exponentiation",
-      "path": "2. University/Year 2/S1 Mathematics 2/Fast Exponentiation - Binary Exponentiation.md"
     },
     {
       "basename": "$ Mathematics 2",
@@ -121,10 +81,6 @@
       "path": "2. University/Year 2/S1 Databases 1/CMPU 2007 2024-2025.md"
     },
     {
-      "basename": "$ Software Engineering 1",
-      "path": "2. University/Year 2/S1 Software Engineering 1/$ Software Engineering 1.md"
-    },
-    {
       "basename": "Referential Integrity",
       "path": "2. University/Year 2/S1 Databases 1/Referential Integrity.md"
     },
@@ -135,14 +91,6 @@
     {
       "basename": "ERD - Types of Relationships",
       "path": "2. University/Year 2/S1 Databases 1/ERD - Types of Relationships.md"
-    },
-    {
-      "basename": "Coupling",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Coupling.md"
-    },
-    {
-      "basename": "Cohesion",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Cohesion.md"
     },
     {
       "basename": "Obsidian Keybinds",

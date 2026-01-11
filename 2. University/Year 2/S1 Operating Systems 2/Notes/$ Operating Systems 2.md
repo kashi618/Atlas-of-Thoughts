@@ -34,6 +34,7 @@
 - [[processes - fork()]]
 - [[Processes - wait()]]
 - [[processes - exec()]]
+- [[Zombie and Orphan Processes]]
 <br>
 - [[Threads]]
 
