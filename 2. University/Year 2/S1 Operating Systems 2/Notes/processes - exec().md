@@ -14,11 +14,13 @@ Essentially, we have the parent process create a child process using fork(). The
 **Example - Linux Command Line (bash)**
 In the linux terminal, the bash shell runs as a parent process. When we type a command such as ls, two things happen.
 
-It first calls fork(), creating a child process . In the newly created child process it uses exec() to overwrite its memory (currently a copy of the bash process) and replace it with the code for `ls`. 
+It first calls fork(), creating a child process identical to the bash process. The child process then uses exec() to overwrite its memory (currently a copy of the bash process) and replace it with the code for `ls`, letting the child process execute the command.
 
 It basically changes its identify from a copy of the bash process, into a copy of an ls process.
 
 This is important because if the bash process runs ls on its own, it will terminate after the command finishes executing. The fork() and exec() combo essentially allows you to execute as many commands within a single bash process.
+
+## Using exec()
 
 # See Also
 [[$ Operating Systems 2]]
