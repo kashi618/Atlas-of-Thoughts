@@ -56,8 +56,32 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Creating Threads.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Threads - Creating Threads"
+            }
+          },
+          {
+            "id": "4a62f1aeb0e019b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -73,9 +97,33 @@
               "icon": "lucide-file",
               "title": "$ Operating Systems 2"
             }
+          },
+          {
+            "id": "403b99c5c1c7e1a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Joining Threads.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Threads - Joining Threads"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -176,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf",
+                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +234,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CMPU 2017  2024-2025"
+              "title": "Backlinks for $ Operating Systems 2"
             }
           },
           {
@@ -300,32 +348,39 @@
           }
         ],
         "direction": "vertical",
-        "x": 992,
-        "y": 95,
-        "width": 917,
-        "height": 974,
+        "x": 1145,
+        "y": 954,
+        "width": 764,
+        "height": 115,
         "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "e09f087189dc6026",
+  "active": "4a62f1aeb0e019b9",
   "lastOpenFiles": [
-    "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Deadlock.md",
     "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Joining Threads.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Creating Threads.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Compiling Threads - C.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - fork() - Creating Processes.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - wait().md",
+    "2. University/Year 1/Operating Systems 1/$ Operating Systems 1.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/CMPU 2017 2024-2025.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Thread Control Block - TCB.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Single and Multi-Threaded Processes.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Threads.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Deadlock.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - exec().md",
     "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2023-2024.pdf",
     "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2022-2023.pdf",
     "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2019-2020.pdf",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - wait().md",
     "2. University/Year 1/Programming/Command Line Arguments - argc & argv.md",
     "1. Home Page/Home.canvas",
     "2. University/Year 1/Programming/$ C - Programming Language.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/OS2 Potential Exam Questions.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Linked Lists - Deleting Nodes - C.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - fork().md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Zombie and Orphan Processes.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Processes.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Process Space.md",
@@ -335,19 +390,11 @@
     "2. University/Year 2/S1 Databases 1/$ Databases 1.md",
     "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Course overview.pptx",
     "2. University/Year 1/Results.md",
-    "2. University/Year 2/Results.md",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/!!!.md",
     "2. University/Year 2/S1 Web Development 2/Notes",
     "2. University/Year 2/S1 Software Engineering 1/Notes",
     "2. University/Year 2/S1 Object Oriented Programming/Notes",
-    "2. University/Year 2/S1 Mathematics 2/Notes/Fast Exponentiation - Binary Exponentiation.md",
-    "2. University/Year 2/S1 Software Engineering 1/Untitled.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Creating Threads - C.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Queue - dequeue() - C.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Process Control Block - PCB.md",
     "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 11 Main Memory and Virtual Memory.pdf",
-    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Process Control Block.md",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 2/S1 Databases 1/Pasted image 20260102204829.png"

@@ -80,14 +80,14 @@ aliases: []
 - [[Files - Reading and Writing to Files - C]]
 
 **Process Specific**
-[[Processes - fork()]]
+[[Processes - fork() - Creating Processes]]
 [[Processes - wait()]]
 [[Processes - exec()]]
 
 **Other**
 - [[Void Pointers - C]]
-- [[Compiling Threads - C]]
-- [[Creating Threads - C]]
+- [[Threads - Compiling Threads - C]]
+- [[Threads - Creating Threads]]
 - [[Command Line Arguments - argc & argv]]
 
 **Programming Pitfalls**

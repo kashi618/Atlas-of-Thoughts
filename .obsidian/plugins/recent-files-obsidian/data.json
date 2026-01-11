@@ -1,20 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "CMPU 2017  2024-2025",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf"
-    },
-    {
       "basename": "$ Operating Systems 2",
       "path": "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md"
     },
     {
-      "basename": "Deadlock",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Deadlock.md"
+      "basename": "CMPU 2017  2024-2025",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf"
+    },
+    {
+      "basename": "Threads - Joining Threads",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Joining Threads.md"
+    },
+    {
+      "basename": "Threads - Creating Threads",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Creating Threads.md"
+    },
+    {
+      "basename": "Threads - Compiling Threads - C",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Compiling Threads - C.md"
+    },
+    {
+      "basename": "Processes - fork() - Creating Processes",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - fork() - Creating Processes.md"
+    },
+    {
+      "basename": "Processes - wait()",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - wait().md"
+    },
+    {
+      "basename": "$ Operating Systems 1",
+      "path": "2. University/Year 1/Operating Systems 1/$ Operating Systems 1.md"
     },
     {
       "basename": "CMPU 2017 2024-2025",
       "path": "2. University/Year 2/S1 Operating Systems 2/Notes/CMPU 2017 2024-2025.md"
+    },
+    {
+      "basename": "Thread Control Block - TCB",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Thread Control Block - TCB.md"
+    },
+    {
+      "basename": "Single and Multi-Threaded Processes",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Single and Multi-Threaded Processes.md"
+    },
+    {
+      "basename": "Threads",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Threads.md"
+    },
+    {
+      "basename": "Deadlock",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Deadlock.md"
     },
     {
       "basename": "Processes - exec()",
@@ -31,10 +67,6 @@
     {
       "basename": "CMPU 2017  2019-2020",
       "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2019-2020.pdf"
-    },
-    {
-      "basename": "Processes - wait()",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - wait().md"
     },
     {
       "basename": "Command Line Arguments - argc & argv",
@@ -59,10 +91,6 @@
     {
       "basename": "Linked Lists - Deleting Nodes - C",
       "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Linked Lists - Deleting Nodes - C.md"
-    },
-    {
-      "basename": "Processes - fork()",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - fork().md"
     },
     {
       "basename": "Zombie and Orphan Processes",
@@ -171,34 +199,6 @@
     {
       "basename": "ERD - Types of Relationships",
       "path": "2. University/Year 2/S1 Databases 1/ERD - Types of Relationships.md"
-    },
-    {
-      "basename": "Obsidian Keybinds",
-      "path": "1. Home Page/Obsidian Keybinds.md"
-    },
-    {
-      "basename": "Archlinux - Network Manager - eduroam",
-      "path": "3. General/Archlinux/Archlinux - Network Manager - eduroam.md"
-    },
-    {
-      "basename": "Archlinux - Rice",
-      "path": "3. General/Archlinux/Archlinux - Rice.md"
-    },
-    {
-      "basename": "Tossi Stuff",
-      "path": "3. General/Notes/Tossi Stuff.md"
-    },
-    {
-      "basename": "Project ideas",
-      "path": "3. General/Ideas/Project ideas.md"
-    },
-    {
-      "basename": "Projects",
-      "path": "3. General/Ideas/Projects.md"
-    },
-    {
-      "basename": "Is Knowledge Finite?",
-      "path": "3. General/Ideas/Is Knowledge Finite?.md"
     }
   ],
   "omittedPaths": [],

@@ -8,7 +8,7 @@ It stops and replaces the current process with a new process, whilst keeping the
 It does NOT create a new process, only replace the current process with a new one
 
 ## Why use it?
-It is usually paired with the [[Processes - fork()|fork()]] command
+It is usually paired with the [[Processes - fork() - Creating Processes|fork()]] command
 Essentially, we have the parent process create a child process using fork(). The child process is currently a copy of the parent process. We then use the exec() function to turn that child process (change identity) into something we want to run, whilst keeping the parent process.
 
 **Example - Linux Command Line (bash)**
