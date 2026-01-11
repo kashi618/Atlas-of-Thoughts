@@ -3,9 +3,8 @@ tags:
   - OS2
 aliases:
 ---
-## What is i?
+## What is it?
 A function in C that is called once, but returns two things at once. It is used to run two processes concurrently/in parallel.
-
 
 **In the parent process**
 The PID value of the child process is returned

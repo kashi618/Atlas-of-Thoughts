@@ -11,10 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "1. Home Page/Home.canvas",
+                "viewState": {
+                  "x": -680,
+                  "y": -18.5,
+                  "zoom": -0.5952454739830169
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
             }
           }
         ]
@@ -214,119 +221,33 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "floating": {
-    "id": "15056dec35202ca2",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d96bee6fdf794dea",
-        "type": "window",
-        "children": [
-          {
-            "id": "a8752690e4f70f3a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "073a8e7f15c857cc",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "1. Home Page/Home.canvas",
-                    "viewState": {
-                      "x": -680,
-                      "y": -18.5,
-                      "zoom": -1.5135697915159463
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Home"
-                }
-              },
-              {
-                "id": "3033c853333239a3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2. University/Year 2/S1 Operating Systems 2/Processes - wait().md",
-                    "mode": "preview",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Processes - wait()"
-                }
-              },
-              {
-                "id": "c408c753bb02039a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2. University/Year 2/S1 Operating Systems 2/$ Operating Systems 2.md",
-                    "mode": "preview",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "$ Operating Systems 2"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 485,
-        "y": 40,
-        "width": 1424,
-        "height": 1029,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "073a8e7f15c857cc",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2. University/Year 2/S1 Operating Systems 2/processes - fork().md",
-    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf",
-    "2. University/Year 2/S1 Operating Systems 2/$ Operating Systems 2.md",
     "2. University/Year 2/S1 Operating Systems 2/Processes - wait().md",
-    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Process Control Block.md",
+    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf",
+    "2. University/Year 2/S1 Operating Systems 2/processes - fork().md",
+    "2. University/Year 2/S1 Operating Systems 2/$ Operating Systems 2.md",
+    "2. University/Year 2/S1 Operating Systems 2/Zombie and Orphan Processes.md",
     "2. University/Year 2/S1 Operating Systems 2/Process Control Block - PCB.md",
-    "2. University/Year 2/S1 Operating Systems 2/Deadlock.md",
-    "1. Home Page/Home.canvas",
-    "2. University/Year 2/S1 Operating Systems 2/Thread Control Block - TCB.md",
     "2. University/Year 2/S1 Operating Systems 2/CMPU 2017 2024-2025.md",
+    "1. Home Page/Home.canvas",
+    "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 11 Main Memory and Virtual Memory.pdf",
+    "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 10 Deadlock.pdf",
+    "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 9 Thread Synchronisation 2025.pdf",
+    "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 8.5 Threads Part 1.pdf",
+    "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 8.4 Process in Unix.pdf",
+    "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 8.3 Processes .pdf",
+    "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 8.2 Queues 2025.pdf",
+    "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 8.1 Stacks 2025.pdf",
+    "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 7 Linked Lists.pdf",
+    "2. University/Year 1/Operating Systems 1/Unsorted Notes/Process Control Block.md",
+    "2. University/Year 2/S1 Operating Systems 2/Deadlock.md",
+    "2. University/Year 2/S1 Operating Systems 2/Thread Control Block - TCB.md",
     "2. University/Year 2/S1 Operating Systems 2/Linked Lists - Creating Nodes - C.md",
     "2. University/Year 2/S1 Operating Systems 2/Linked Lists.md",
     "2. University/Year 2/S1 Operating Systems 2/Linked Lists - Deleting Nodes - C.md",
-    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2023-2024.pdf",
-    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2022-2023.pdf",
-    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2019-2020.pdf",
     "2. University/Year 2/S1 Mathematics 2/Fast Exponentiation - Binary Exponentiation.md",
     "2. University/Year 2/S1 Mathematics 2/Notes/$ Mathematics 2.md",
-    "2. University/Year 2/S1 Mathematics 2/Exam Papers/CMPU 2012 | 2024-2025.pdf",
     "2. University/Year 2/S1 Mathematics 2/Chinese Remainder Theorem.md",
     "2. University/Year 2/S1 Mathematics 2/$ Mathematics 2.md",
     "2. University/Year 2/S1 Mathematics 2/Modular Exponentiation.md",
@@ -335,15 +256,9 @@
     "2. University/Year 2/S1 Mathematics 2/Independent Events.md",
     "2. University/Year 2/S1 Mathematics 2/Incongruent Solutions.md",
     "2. University/Year 1/Mathematics/Fermat's Little Theorum.md",
-    "2. University/Year 2/S1 Databases 1/Exam Papers/CMPU 2007 | 2023-2024.pdf",
     "2. University/Year 2/S1 Databases 1/CMPU 2007 2023-2024.md",
     "2. University/Year 2/S1 Databases 1/Three Main Normal Forms.md",
     "2. University/Year 2/S1 Databases 1/$ Databases 1.md",
-    "2. University/Year 2/S1 Databases 1/CMPU 2007 2024-2025.md",
-    "2. University/Year 2/S2 AI",
-    "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2024-2025.pdf",
-    "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2023-2024.pdf",
-    "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2022-2023.pdf",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 2/S1 Databases 1/Pasted image 20260102204829.png"
