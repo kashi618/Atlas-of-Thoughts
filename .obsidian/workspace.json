@@ -32,8 +32,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
-                "mode": "preview",
+                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/processes - exec().md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Operating Systems 2"
+              "title": "processes - exec()"
             }
           },
           {
@@ -57,7 +57,7 @@
               "type": "markdown",
               "state": {
                 "file": "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - wait().md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -81,7 +81,7 @@
               "type": "markdown",
               "state": {
                 "file": "2. University/Year 2/S1 Operating Systems 2/Notes/CMPU 2017 2024-2025.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "5dc1d174c66a96f7",
@@ -219,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - wait().md",
+                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/processes - exec().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Processes - wait()"
+              "title": "Backlinks for processes - exec()"
             }
           },
           {
@@ -315,16 +315,18 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "d43330b640bd0011",
+  "active": "4130b18ab2b7d55f",
   "lastOpenFiles": [
     "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/processes - exec().md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/processes - fork().md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - wait().md",
+    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf",
     "2. University/Year 2/S1 Operating Systems 2/Notes/CMPU 2017 2024-2025.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/!OS2.md",
     "2. University/Year 2/S1 Databases 1/Entities and Attributes.md",
     "2. University/Year 2/S1 Databases 1/$ Databases 1.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - wait().md",
     "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Course overview.pptx",
-    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf",
     "2. University/Year 1/Results.md",
     "1. Home Page/Home.canvas",
     "2. University/Year 2/Results.md",
@@ -338,7 +340,6 @@
     "2. University/Year 2/S1 Operating Systems 2/Notes/Programs Processes Threads Overview - OS2.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Queue - dequeue() - C.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/processes - fork().md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Zombie and Orphan Processes.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Process Control Block - PCB.md",
     "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 11 Main Memory and Virtual Memory.pdf",
@@ -353,7 +354,6 @@
     "2. University/Year 2/S1 Operating Systems 2/Notes/Linked Lists - Deleting Nodes - C.md",
     "2. University/Year 2/S1 Mathematics 2/Notes/$ Mathematics 2.md",
     "2. University/Year 2/S1 Mathematics 2/Chinese Remainder Theorem.md",
-    "2. University/Year 2/S1 Mathematics 2/$ Mathematics 2.md",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 2/S1 Databases 1/Pasted image 20260102204829.png"
