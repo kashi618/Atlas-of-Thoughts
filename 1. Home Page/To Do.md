@@ -9,9 +9,11 @@
 - Half life alyx
 - ~~Virtual Box on thinkpad~~
 - ~~Dual boot windows on main~~
-- AI to study
-	- Use to ask questions 
+- ~~AI to study
+	- Use to ask questions ~~
 - Obsidian shortkeys
-- waybar (wifi) add colour green yellow oragne red for signal strength
+- ~~waybar (wifi) add colour green yellow oragne red for signal strength~~
 - Whiteboard/blackboard with to do list
 - Calculate how much study
+- "! [INFO]"
+- Mermaid diagrams | online mermaid editor

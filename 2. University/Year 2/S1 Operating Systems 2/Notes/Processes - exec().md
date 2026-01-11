@@ -8,7 +8,7 @@ It stops and replaces the current process with a new process, whilst keeping the
 It does NOT create a new process, only replace the current process with a new one
 
 ## Why use it?
-It is usually paired with the [[processes - fork()|fork()]] command
+It is usually paired with the [[Processes - fork()|fork()]] command
 Essentially, we have the parent process create a child process using fork(). The child process is currently a copy of the parent process. We then use the exec() function to turn that child process (change identity) into something we want to run, whilst keeping the parent process.
 
 **Example - Linux Command Line (bash)**
@@ -21,6 +21,16 @@ It basically changes its identify from a copy of the bash process, into a copy o
 This is important because if the bash process runs ls on its own, it will terminate after the command finishes executing. The fork() and exec() combo essentially allows you to execute as many commands within a single bash process.
 
 ## Using exec()
+exec() is not actually a command in C. It instead refers to the family of functions that replaces a process with a new process
+
+### execvp()
+This variant is used to run a command by name (like calling a command in the bash shell)
+
+**Usage**
+
+**Return Values**
 
 # See Also
 [[$ Operating Systems 2]]
+[[Processes]]
+[[$ C - Programming Language]]

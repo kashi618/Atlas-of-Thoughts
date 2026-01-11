@@ -6,6 +6,7 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
+        "dimension": 44.149377593360995,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -32,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/processes - exec().md",
+                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,31 +48,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "processes - exec()"
-            }
-          },
-          {
-            "id": "d43330b640bd0011",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - wait().md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Processes - wait()"
+              "title": "$ Operating Systems 2"
             }
           },
           {
@@ -104,6 +81,7 @@
       {
         "id": "5dc1d174c66a96f7",
         "type": "tabs",
+        "dimension": 55.850622406639005,
         "children": [
           {
             "id": "e09f087189dc6026",
@@ -219,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/processes - exec().md",
+                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +207,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for processes - exec()"
+              "title": "Backlinks for $ Operating Systems 2"
             }
           },
           {
@@ -317,18 +295,26 @@
   },
   "active": "4130b18ab2b7d55f",
   "lastOpenFiles": [
-    "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/processes - exec().md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/processes - fork().md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - wait().md",
-    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf",
+    "2. University/Year 1/Programming/Command Line Arguments - argc & argv.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/CMPU 2017 2024-2025.md",
+    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf",
+    "1. Home Page/Home.canvas",
+    "2. University/Year 1/Programming/$ C - Programming Language.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/OS2 Potential Exam Questions.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Linked Lists - Deleting Nodes - C.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - fork().md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - wait().md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Zombie and Orphan Processes.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - exec().md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Processes.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Process Space.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Programs Processes Threads Overview - OS2.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/!OS2.md",
     "2. University/Year 2/S1 Databases 1/Entities and Attributes.md",
     "2. University/Year 2/S1 Databases 1/$ Databases 1.md",
     "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Course overview.pptx",
     "2. University/Year 1/Results.md",
-    "1. Home Page/Home.canvas",
     "2. University/Year 2/Results.md",
     "2. University/Year 2/S1 Object Oriented Programming/Notes/!!!.md",
     "2. University/Year 2/S1 Web Development 2/Notes",
@@ -337,23 +323,14 @@
     "2. University/Year 2/S1 Mathematics 2/Notes/Fast Exponentiation - Binary Exponentiation.md",
     "2. University/Year 2/S1 Software Engineering 1/Untitled.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Creating Threads - C.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Programs Processes Threads Overview - OS2.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Queue - dequeue() - C.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Zombie and Orphan Processes.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Process Control Block - PCB.md",
     "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 11 Main Memory and Virtual Memory.pdf",
     "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 10 Deadlock.pdf",
     "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 9 Thread Synchronisation 2025.pdf",
     "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 8.5 Threads Part 1.pdf",
     "2. University/Year 1/Operating Systems 1/Unsorted Notes/Process Control Block.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Deadlock.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Thread Control Block - TCB.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Linked Lists - Creating Nodes - C.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Linked Lists.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Linked Lists - Deleting Nodes - C.md",
-    "2. University/Year 2/S1 Mathematics 2/Notes/$ Mathematics 2.md",
-    "2. University/Year 2/S1 Mathematics 2/Chinese Remainder Theorem.md",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 2/S1 Databases 1/Pasted image 20260102204829.png"

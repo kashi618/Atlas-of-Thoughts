@@ -79,11 +79,16 @@ aliases: []
 - [[Files - File Modes - C]]
 - [[Files - Reading and Writing to Files - C]]
 
+**Process Specific**
+[[Processes - fork()]]
+[[Processes - wait()]]
+[[Processes - exec()]]
+
 **Other**
 - [[Void Pointers - C]]
 - [[Compiling Threads - C]]
 - [[Creating Threads - C]]
-- [[Command Line Arguments in C - C]]
+- [[Command Line Arguments - argc & argv]]
 
 **Programming Pitfalls**
 [[$UNFINISHED Programming Pitfalls - C]]

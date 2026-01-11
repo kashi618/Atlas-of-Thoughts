@@ -25,4 +25,6 @@ The parent and child class are ran concurrently. This means that if the parent c
 # See Also
 [[$ Operating Systems 2]]
 [[$ C - Programming Language]]
+[[Processes]]
 [[Processes - wait()]]
+[[Zombie and Orphan Processes]]

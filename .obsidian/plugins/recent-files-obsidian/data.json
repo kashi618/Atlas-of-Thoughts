@@ -1,28 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "processes - exec()",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/processes - exec().md"
-    },
-    {
       "basename": "$ Operating Systems 2",
       "path": "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md"
     },
     {
-      "basename": "processes - fork()",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/processes - fork().md"
+      "basename": "Command Line Arguments - argc & argv",
+      "path": "2. University/Year 1/Programming/Command Line Arguments - argc & argv.md"
     },
     {
-      "basename": "Processes - wait()",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - wait().md"
+      "basename": "CMPU 2017 2024-2025",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/CMPU 2017 2024-2025.md"
     },
     {
       "basename": "CMPU 2017  2024-2025",
       "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf"
     },
     {
-      "basename": "CMPU 2017 2024-2025",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/CMPU 2017 2024-2025.md"
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "To Do",
+      "path": "1. Home Page/To Do.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "2. University/Year 1/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "OS2 Potential Exam Questions",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/OS2 Potential Exam Questions.md"
+    },
+    {
+      "basename": "Linked Lists - Deleting Nodes - C",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Linked Lists - Deleting Nodes - C.md"
+    },
+    {
+      "basename": "Processes - fork()",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - fork().md"
+    },
+    {
+      "basename": "Processes - wait()",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - wait().md"
+    },
+    {
+      "basename": "Zombie and Orphan Processes",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Zombie and Orphan Processes.md"
+    },
+    {
+      "basename": "Processes - exec()",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - exec().md"
+    },
+    {
+      "basename": "Processes",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Processes.md"
+    },
+    {
+      "basename": "Process Space",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Process Space.md"
+    },
+    {
+      "basename": "Programs Processes Threads Overview - OS2",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Programs Processes Threads Overview - OS2.md"
     },
     {
       "basename": "!OS2",
@@ -35,10 +75,6 @@
     {
       "basename": "$ Databases 1",
       "path": "2. University/Year 2/S1 Databases 1/$ Databases 1.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "conflict-files-obsidian-git",
@@ -163,18 +199,6 @@
     {
       "basename": "Games to Play",
       "path": "3. General/Lists/Games to Play.md"
-    },
-    {
-      "basename": "Guitar Wishlist",
-      "path": "3. General/Lists/Guitar Wishlist.md"
-    },
-    {
-      "basename": "Philosophy to Learn",
-      "path": "3. General/Lists/Philosophy to Learn.md"
-    },
-    {
-      "basename": "Monster Can Flavours and Tierlist",
-      "path": "3. General/Lists/Monster Can Flavours and Tierlist.md"
     }
   ],
   "omittedPaths": [],
