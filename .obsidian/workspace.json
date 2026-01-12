@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
+                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - fork() - Creating Processes.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -95,7 +95,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Operating Systems 2"
+              "title": "Processes - fork() - Creating Processes"
             }
           },
           {
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
+                "file": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for $ Operating Systems 2"
+              "title": "Backlinks for CMPU 2017  2024-2025"
             }
           },
           {
@@ -357,15 +357,15 @@
       }
     ]
   },
-  "active": "4a62f1aeb0e019b9",
+  "active": "e09f087189dc6026",
   "lastOpenFiles": [
-    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - fork() - Creating Processes.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
+    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Joining Threads.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/CMPU 2017 2024-2025.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Creating Threads.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Compiling Threads - C.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - fork() - Creating Processes.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - wait().md",
     "2. University/Year 1/Operating Systems 1/$ Operating Systems 1.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Thread Control Block - TCB.md",
