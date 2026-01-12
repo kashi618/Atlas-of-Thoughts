@@ -25,8 +25,59 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "f610fe8cde2f2967",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2024-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CMPU 2019 | 2024-2025"
+            }
+          },
+          {
+            "id": "c8b47c0142f41f73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Software Engineering 1"
+            }
+          },
+          {
+            "id": "daa097f258c359dc",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://drive.google.com/file/d/1pOmnuGFElqT72bJYHbpYChy_Ioxc2aFg/view",
+                "title": "Use-cases.pdf - Google Drive",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Use-cases.pdf - Google Drive"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -223,10 +274,12 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "c408c753bb02039a",
+  "active": "daa097f258c359dc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2024-2025.pdf",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md",
     "1. Home Page/Home.canvas",
+    "conflict-files-obsidian-git.md",
     "2. University/Year 2/S1 Operating Systems 2/processes - fork().md",
     "2. University/Year 2/S1 Web Development 2/Notes/Transmission Control Protocol (TCP).md",
     "2. University/Year 2/S1 Web Development 2/Notes/The Internet.md",
@@ -249,7 +302,6 @@
     "2. University/Year 2/S1 Software Engineering 1/Notes/Cohesion Levels.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Cohesion.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/CMPU 2019 2024-2025.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes",
     "2. University/Year 2/S1 Operating Systems 2/Notes/processes - fork().md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/fork() with wait().png",
@@ -269,7 +321,6 @@
     "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 8.3 Processes .pdf",
     "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 8.2 Queues 2025.pdf",
     "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 8.1 Stacks 2025.pdf",
-    "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 7 Linked Lists.pdf",
     "2. University/Year 2/S1 Object Oriented Programming/Notes/Pasted image 20251009124000.png"
   ]
 }
