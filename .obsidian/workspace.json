@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Joining Threads.md",
+                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -95,7 +95,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Threads - Joining Threads"
+              "title": "$ Operating Systems 2"
             }
           },
           {
@@ -224,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Joining Threads.md",
+                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Threads - Joining Threads"
+              "title": "Backlinks for $ Operating Systems 2"
             }
           },
           {
@@ -348,10 +348,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 1045,
-        "y": 1022,
-        "width": 864,
-        "height": 47,
+        "x": 1022,
+        "y": 95,
+        "width": 887,
+        "height": 974,
         "maximize": false,
         "zoom": 0.5
       }
@@ -359,8 +359,8 @@
   },
   "active": "4a62f1aeb0e019b9",
   "lastOpenFiles": [
-    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Joining Threads.md",
+    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf",
     "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/CMPU 2017 2024-2025.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Creating Threads.md",
