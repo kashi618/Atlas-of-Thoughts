@@ -348,10 +348,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 1022,
-        "y": 95,
-        "width": 887,
-        "height": 974,
+        "x": 685,
+        "y": 763,
+        "width": 1224,
+        "height": 306,
         "maximize": false,
         "zoom": 0.5
       }
@@ -359,9 +359,9 @@
   },
   "active": "4a62f1aeb0e019b9",
   "lastOpenFiles": [
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Joining Threads.md",
     "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf",
     "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Joining Threads.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/CMPU 2017 2024-2025.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Creating Threads.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Compiling Threads - C.md",
