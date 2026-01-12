@@ -10,120 +10,29 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "1. Home Page/Home.canvas",
-                "viewState": {
-                  "x": -380,
-                  "y": 109.99999999999997,
-                  "zoom": -0.7173950349236693
-                }
+                "file": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf"
               },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "Home"
+              "icon": "lucide-file-text",
+              "title": "CMPU 2017  2024-2025"
             }
           },
           {
-            "id": "0d55b75b311a2334",
+            "id": "1d963e74cdf35385",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/CMPU 2017 2024-2025.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "CMPU 2017 2024-2025"
-            }
-          },
-          {
-            "id": "4130b18ab2b7d55f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Creating Threads.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Threads - Creating Threads"
-            }
-          },
-          {
-            "id": "4a62f1aeb0e019b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - fork() - Creating Processes.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Processes - fork() - Creating Processes"
-            }
-          },
-          {
-            "id": "403b99c5c1c7e1a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Joining Threads.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Threads - Joining Threads"
+              "icon": "lucide-file-text",
+              "title": "CMPU 2017  2024-2025"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -335,49 +244,106 @@
               {
                 "id": "e09f087189dc6026",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
-                  "type": "pdf",
+                  "type": "canvas",
                   "state": {
-                    "file": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf"
+                    "file": "1. Home Page/Home.canvas",
+                    "viewState": {
+                      "x": -380,
+                      "y": 110,
+                      "zoom": -0.8593093107451355
+                    }
                   },
-                  "icon": "lucide-file-text",
-                  "title": "CMPU 2017  2024-2025"
+                  "pinned": true,
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Home"
+                }
+              },
+              {
+                "id": "716f06ef7e49817a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Creating Threads.md",
+                    "mode": "preview",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Threads - Creating Threads"
+                }
+              },
+              {
+                "id": "fb83cacd4c1af402",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. University/Year 2/S1 Operating Systems 2/Notes/Thread Control Block - TCB.md",
+                    "mode": "preview",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Thread Control Block - TCB"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
-        "x": 685,
-        "y": 763,
-        "width": 606,
-        "height": 306,
+        "x": 517,
+        "y": 40,
+        "width": 1392,
+        "height": 1029,
         "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "4a62f1aeb0e019b9",
+  "active": "1d963e74cdf35385",
   "lastOpenFiles": [
-    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - fork() - Creating Processes.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Thread Control Block - TCB.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Joining Threads.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/CMPU 2017 2024-2025.md",
+    "1. Home Page/Home.canvas",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Creating Threads.md",
+    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf",
+    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2019-2020.pdf",
+    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2018-2019.pdf",
+    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2022-2023.pdf",
+    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2023-2024.pdf",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Joining Threads.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - fork() - Creating Processes.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/CMPU 2017 2024-2025.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Compiling Threads - C.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - wait().md",
     "2. University/Year 1/Operating Systems 1/$ Operating Systems 1.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Thread Control Block - TCB.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Single and Multi-Threaded Processes.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Threads.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Deadlock.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - exec().md",
-    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2023-2024.pdf",
-    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2022-2023.pdf",
-    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2019-2020.pdf",
     "2. University/Year 1/Programming/Command Line Arguments - argc & argv.md",
-    "1. Home Page/Home.canvas",
     "2. University/Year 1/Programming/$ C - Programming Language.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/OS2 Potential Exam Questions.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Linked Lists - Deleting Nodes - C.md",
@@ -394,7 +360,6 @@
     "2. University/Year 2/S1 Software Engineering 1/Notes",
     "2. University/Year 2/S1 Object Oriented Programming/Notes",
     "2. University/Year 2/S1 Operating Systems 2/Notes",
-    "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Lecture 11 Main Memory and Virtual Memory.pdf",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 2/S1 Databases 1/Pasted image 20260102204829.png"

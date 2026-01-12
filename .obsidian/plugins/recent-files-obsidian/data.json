@@ -9,24 +9,48 @@
       "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf"
     },
     {
-      "basename": "Processes - fork() - Creating Processes",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - fork() - Creating Processes.md"
+      "basename": "Thread Control Block - TCB",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Thread Control Block - TCB.md"
     },
     {
       "basename": "$ Operating Systems 2",
       "path": "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md"
     },
     {
+      "basename": "Threads - Creating Threads",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Creating Threads.md"
+    },
+    {
+      "basename": "CMPU 2017  2019-2020",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2019-2020.pdf"
+    },
+    {
+      "basename": "CMPU 2017  2018-2019",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2018-2019.pdf"
+    },
+    {
+      "basename": "CMPU 2017  2022-2023",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2022-2023.pdf"
+    },
+    {
+      "basename": "CMPU 2017  2023-2024",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2023-2024.pdf"
+    },
+    {
       "basename": "Threads - Joining Threads",
       "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Joining Threads.md"
     },
     {
-      "basename": "CMPU 2017 2024-2025",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/CMPU 2017 2024-2025.md"
+      "basename": "TU856-Year2",
+      "path": "1. Home Page/TU856-Year2.md"
     },
     {
-      "basename": "Threads - Creating Threads",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Creating Threads.md"
+      "basename": "Processes - fork() - Creating Processes",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - fork() - Creating Processes.md"
+    },
+    {
+      "basename": "CMPU 2017 2024-2025",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/CMPU 2017 2024-2025.md"
     },
     {
       "basename": "Threads - Compiling Threads - C",
@@ -39,10 +63,6 @@
     {
       "basename": "$ Operating Systems 1",
       "path": "2. University/Year 1/Operating Systems 1/$ Operating Systems 1.md"
-    },
-    {
-      "basename": "Thread Control Block - TCB",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Thread Control Block - TCB.md"
     },
     {
       "basename": "Single and Multi-Threaded Processes",
@@ -59,18 +79,6 @@
     {
       "basename": "Processes - exec()",
       "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - exec().md"
-    },
-    {
-      "basename": "CMPU 2017  2023-2024",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2023-2024.pdf"
-    },
-    {
-      "basename": "CMPU 2017  2022-2023",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2022-2023.pdf"
-    },
-    {
-      "basename": "CMPU 2017  2019-2020",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2019-2020.pdf"
     },
     {
       "basename": "Command Line Arguments - argc & argv",
@@ -127,10 +135,6 @@
     {
       "basename": "Process Control Block",
       "path": "2. University/Year 1/Operating Systems 1/Unsorted Notes/Process Control Block.md"
-    },
-    {
-      "basename": "TU856-Year2",
-      "path": "1. Home Page/TU856-Year2.md"
     },
     {
       "basename": "$ Mathematics 2",
@@ -195,10 +199,6 @@
     {
       "basename": "Database Normalisation",
       "path": "2. University/Year 2/S1 Databases 1/Database Normalisation.md"
-    },
-    {
-      "basename": "ERD - Types of Relationships",
-      "path": "2. University/Year 2/S1 Databases 1/ERD - Types of Relationships.md"
     }
   ],
   "omittedPaths": [],
