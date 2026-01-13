@@ -27,6 +27,30 @@
             }
           },
           {
+            "id": "fcd3d7c09b82ea21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Software Engineering 1"
+            }
+          },
+          {
             "id": "ffd5790685f47626",
             "type": "leaf",
             "state": {
@@ -51,12 +75,12 @@
             }
           },
           {
-            "id": "fcd3d7c09b82ea21",
+            "id": "4092f34ef0de670f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md",
+                "file": "2. University/Year 2/S1 Software Engineering 1/Notes/Adaptive and Predictive Methodologies to Development.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -71,35 +95,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Software Engineering 1"
-            }
-          },
-          {
-            "id": "65900e4196c30210",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Year 2/S1 Software Engineering 1/Notes/Waterfall Model.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Waterfall Model"
+              "title": "Adaptive and Predictive Methodologies to Development"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -297,18 +297,24 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "65900e4196c30210",
+  "active": "ffd5790685f47626",
   "lastOpenFiles": [
-    "2. University/Year 2/S1 Software Engineering 1/Notes/CMPU 2019 2024-2025.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Waterfall Model.md",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/Adaptive and Predictive Methodologies to Development.md",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/Throwaway (rapid) Prototyping.md",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/Evolutionary Development.md",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/Modularity.md",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Realization.md",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/CMPU 2019 2024-2025.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Diagrams and Descriptions.md",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/Use Cases and Scenarios.md",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/Hardware and Software Reliability.md",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/Waterfall Model.md",
     "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2018-2019.pdf",
     "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2024-2025.pdf",
     "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2022-2023.pdf",
     "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2023-2024.pdf",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Requirements Engineering.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Realization.md",
     "1. Home Page/Home.canvas",
     "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2019-2020.pdf",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005112.png",
@@ -319,12 +325,8 @@
     "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005038.png",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005032.png",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Formal Specification.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Adaptive and Predictive Methodologies to Development.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Agile Development.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Evolutionary Development.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Throwaway (rapid) Prototyping.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113000154.png",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Modularity.md",
     "2. University/Year 2/S1 Object Oriented Programming/Notes/Encapsulation - Java.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Coupling.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Thread Control Block - TCB.md",
@@ -339,8 +341,6 @@
     "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - wait().md",
     "2. University/Year 1/Operating Systems 1/$ Operating Systems 1.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Single and Multi-Threaded Processes.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Threads.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Deadlock.md",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 2/S1 Databases 1/Pasted image 20260102204829.png"

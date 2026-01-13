@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Waterfall Model",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Waterfall Model.md"
-    },
-    {
       "basename": "CMPU 2019 2024-2025",
       "path": "2. University/Year 2/S1 Software Engineering 1/Notes/CMPU 2019 2024-2025.md"
     },
@@ -13,8 +9,40 @@
       "path": "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md"
     },
     {
+      "basename": "Adaptive and Predictive Methodologies to Development",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Adaptive and Predictive Methodologies to Development.md"
+    },
+    {
+      "basename": "Throwaway (rapid) Prototyping",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Throwaway (rapid) Prototyping.md"
+    },
+    {
+      "basename": "Evolutionary Development",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Evolutionary Development.md"
+    },
+    {
+      "basename": "Modularity",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Modularity.md"
+    },
+    {
+      "basename": "Usecase Realization",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Realization.md"
+    },
+    {
       "basename": "Usecase Diagrams and Descriptions",
       "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Diagrams and Descriptions.md"
+    },
+    {
+      "basename": "Use Cases and Scenarios",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Use Cases and Scenarios.md"
+    },
+    {
+      "basename": "Hardware and Software Reliability",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Hardware and Software Reliability.md"
+    },
+    {
+      "basename": "Waterfall Model",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Waterfall Model.md"
     },
     {
       "basename": "CMPU 2019 | 2018-2019",
@@ -37,10 +65,6 @@
       "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Requirements Engineering.md"
     },
     {
-      "basename": "Usecase Realization",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Realization.md"
-    },
-    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -61,24 +85,8 @@
       "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Formal Specification.md"
     },
     {
-      "basename": "Adaptive and Predictive Methodologies to Development",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Adaptive and Predictive Methodologies to Development.md"
-    },
-    {
       "basename": "Agile Development",
       "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Agile Development.md"
-    },
-    {
-      "basename": "Evolutionary Development",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Evolutionary Development.md"
-    },
-    {
-      "basename": "Throwaway (rapid) Prototyping",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Throwaway (rapid) Prototyping.md"
-    },
-    {
-      "basename": "Modularity",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Modularity.md"
     },
     {
       "basename": "Encapsulation - Java",
@@ -191,14 +199,6 @@
     {
       "basename": "Process Space",
       "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Process Space.md"
-    },
-    {
-      "basename": "Programs Processes Threads Overview - OS2",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Programs Processes Threads Overview - OS2.md"
-    },
-    {
-      "basename": "!OS2",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/!OS2.md"
     }
   ],
   "omittedPaths": [],
