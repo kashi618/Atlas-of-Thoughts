@@ -34,7 +34,14 @@ https://dn790001.ca.archive.org/0/items/bme-vik-konyvek/Software%20Engineering%2
 - [[Encapsulation - Java]]
 
 ### Software Processes
+**Types of Prototyping**
+- [[Evolutionary Development]]
+- [[Throwaway (rapid) Prototyping]]
+
+- [[Adaptive and Predictive Methodologies to Development]]
 - [[Requirements Engineering]]
+
+- [[Formal Specification]]
 
 ## Exam Papers
 [[CMPU 2019 2024-2025]]

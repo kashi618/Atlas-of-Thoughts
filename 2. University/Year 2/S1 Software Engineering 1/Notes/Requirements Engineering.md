@@ -6,7 +6,9 @@ aliases:
 ## What is it?
 The systematic process of discovering, analyzing, and documenting the requirements needed for a piece of software. It is used as a bridge that translates what the customer/stakeholder needs, into goals for the developer to build the software.
 
-## Activities
+## Requirements Engineering Process
+![[Pasted image 20260113000154.png|500]]
+
 ### Feasibility Study
 Estimates the required resources, to determine if the proposed system is worth developing and cost-effective
 

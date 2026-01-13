@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Requirements Engineering",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Requirements Engineering.md"
+      "basename": "Formal Specification",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Formal Specification.md"
     },
     {
       "basename": "CMPU 2019 | 2024-2025",
@@ -11,6 +11,26 @@
     {
       "basename": "$ Software Engineering 1",
       "path": "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md"
+    },
+    {
+      "basename": "Adaptive and Predictive Methodologies to Development",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Adaptive and Predictive Methodologies to Development.md"
+    },
+    {
+      "basename": "Agile Development",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Agile Development.md"
+    },
+    {
+      "basename": "Requirements Engineering",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Requirements Engineering.md"
+    },
+    {
+      "basename": "Evolutionary Development",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Evolutionary Development.md"
+    },
+    {
+      "basename": "Throwaway (rapid) Prototyping",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Throwaway (rapid) Prototyping.md"
     },
     {
       "basename": "Modularity",
@@ -179,26 +199,6 @@
     {
       "basename": "$ Mathematics 2",
       "path": "2. University/Year 2/S1 Mathematics 2/$ Mathematics 2.md"
-    },
-    {
-      "basename": "Diophantine Equations",
-      "path": "2. University/Year 2/S1 Mathematics 2/Diophantine Equations.md"
-    },
-    {
-      "basename": "Euclidean Algorithm 1",
-      "path": "2. University/Year 1/Mathematics/Euclidean Algorithm 1.md"
-    },
-    {
-      "basename": "Independent Events",
-      "path": "2. University/Year 2/S1 Mathematics 2/Independent Events.md"
-    },
-    {
-      "basename": "Incongruent Solutions",
-      "path": "2. University/Year 2/S1 Mathematics 2/Incongruent Solutions.md"
-    },
-    {
-      "basename": "Fermat's Little Theorum",
-      "path": "2. University/Year 1/Mathematics/Fermat's Little Theorum.md"
     }
   ],
   "omittedPaths": [],
