@@ -6,6 +6,7 @@
       {
         "id": "6a07ac1dc5e144ae",
         "type": "tabs",
+        "dimension": 23.211567732115675,
         "children": [
           {
             "id": "a5cb833ab40adc1f",
@@ -80,6 +81,7 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
+        "dimension": 76.78843226788432,
         "children": [
           {
             "id": "e7a7b303c61786dc",
@@ -94,27 +96,15 @@
             }
           },
           {
-            "id": "cfacb559b328bfca",
+            "id": "c799e4f55d310f40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "2. University/Year 2/S1 Software Engineering 1/Notes/Requirements Engineering.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2022-2023.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Requirements Engineering"
+              "icon": "lucide-file-text",
+              "title": "CMPU 2019 | 2022-2023"
             }
           }
         ],
@@ -203,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -316,16 +305,16 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "ffd5790685f47626",
+  "active": "c799e4f55d310f40",
   "lastOpenFiles": [
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Requirements Engineering.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Diagrams and Descriptions.md",
     "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2024-2025.pdf",
+    "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2023-2024.pdf",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/Requirements Engineering.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/CMPU 2019 2024-2025.md",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Diagrams and Descriptions.md",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Realization.md",
     "1. Home Page/Home.canvas",
-    "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2023-2024.pdf",
     "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2022-2023.pdf",
     "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2018-2019.pdf",
     "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2019-2020.pdf",
