@@ -6,7 +6,6 @@
       {
         "id": "6a07ac1dc5e144ae",
         "type": "tabs",
-        "dimension": 23.211567732115675,
         "children": [
           {
             "id": "a5cb833ab40adc1f",
@@ -57,8 +56,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Diagrams and Descriptions.md",
-                "mode": "preview",
+                "file": "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -72,43 +71,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Usecase Diagrams and Descriptions"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "4509724f8bf84da7",
-        "type": "tabs",
-        "dimension": 76.78843226788432,
-        "children": [
-          {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2024-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CMPU 2019 | 2024-2025"
+              "title": "$ Software Engineering 1"
             }
           },
           {
-            "id": "c799e4f55d310f40",
+            "id": "65900e4196c30210",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2022-2023.pdf"
+                "file": "2. University/Year 2/S1 Software Engineering 1/Notes/Waterfall Model.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "CMPU 2019 | 2022-2023"
+              "icon": "lucide-file",
+              "title": "Waterfall Model"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -305,18 +297,19 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "c799e4f55d310f40",
+  "active": "65900e4196c30210",
   "lastOpenFiles": [
+    "2. University/Year 2/S1 Software Engineering 1/Notes/CMPU 2019 2024-2025.md",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/Waterfall Model.md",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Diagrams and Descriptions.md",
+    "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2018-2019.pdf",
     "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2024-2025.pdf",
+    "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2022-2023.pdf",
     "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2023-2024.pdf",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Requirements Engineering.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/CMPU 2019 2024-2025.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Diagrams and Descriptions.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Realization.md",
     "1. Home Page/Home.canvas",
-    "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2022-2023.pdf",
-    "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2018-2019.pdf",
     "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2019-2020.pdf",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005112.png",
     "Untitled.canvas",
