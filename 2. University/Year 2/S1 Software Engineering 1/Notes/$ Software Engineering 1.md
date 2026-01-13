@@ -26,21 +26,24 @@ https://dn790001.ca.archive.org/0/items/bme-vik-konyvek/Software%20Engineering%2
 ## Notes
 **Diagrams**
 - [[Usecase Diagrams and Descriptions]]
-
+- [[Usecase Realization]]
+.
 - [[Coupling]]
-
+.
 - [[Cohesion]]
 - [[Cohesion Levels]]
-
+.
 - [[Modularity]]
-
+.
 - [[Encapsulation - Java]]
 
 **Types of Prototyping**
 - [[Evolutionary Development]]
 - [[Throwaway (rapid) Prototyping]]
+
 **Engineering Methodologies**
 - [[Adaptive and Predictive Methodologies to Development]]
+
 **Gathering System Requirements**
 - [[Requirements Engineering]]
 - [[Formal Specification]]

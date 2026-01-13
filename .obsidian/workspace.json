@@ -18,57 +18,106 @@
               "icon": "lucide-file-text",
               "title": "CMPU 2019 | 2024-2025"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "6a07ac1dc5e144ae",
+        "type": "tabs",
+        "children": [
           {
-            "id": "38f6132d0efdd8c0",
+            "id": "a5cb833ab40adc1f",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2023-2024.pdf"
+                "file": "1. Home Page/Home.canvas",
+                "viewState": {
+                  "x": -391.0674846625767,
+                  "y": 105.57300613496932,
+                  "zoom": -1.1463273741369413
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "CMPU 2019 | 2023-2024"
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
             }
           },
           {
-            "id": "eb119e7c225882be",
+            "id": "ffd5790685f47626",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2022-2023.pdf"
+                "file": "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "CMPU 2019 | 2022-2023"
+              "icon": "lucide-file",
+              "title": "$ Software Engineering 1"
             }
           },
           {
-            "id": "54302b2b928f62e7",
+            "id": "d69b9f6ef8e0dbec",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2019-2020.pdf"
+                "file": "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Realization.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "CMPU 2019 | 2019-2020"
+              "icon": "lucide-file",
+              "title": "Usecase Realization"
             }
           },
           {
-            "id": "c548547f10304cbb",
+            "id": "fcd3d7c09b82ea21",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2018-2019.pdf"
+                "file": "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Diagrams and Descriptions.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "CMPU 2019 | 2018-2019"
+              "icon": "lucide-file",
+              "title": "Usecase Diagrams and Descriptions"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -316,6 +366,20 @@
                 }
               },
               {
+                "id": "8c534165dc909e88",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://drive.google.com/file/d/10s3RnOkAqrLkkEw34ki_NNIjYcO18mnR/view",
+                    "title": "03. Library Sequence Diagram.pdf - Google Drive",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "03. Library Sequence Diagram.pdf - Google Drive"
+                }
+              },
+              {
                 "id": "bc7064d84d9fef2d",
                 "type": "leaf",
                 "state": {
@@ -348,26 +412,28 @@
           }
         ],
         "direction": "vertical",
-        "x": 1185,
+        "x": 1214,
         "y": 40,
-        "width": 724,
-        "height": 1029,
+        "width": 695,
+        "height": 511,
         "maximize": false,
         "zoom": 1
       }
     ]
   },
-  "active": "bc7064d84d9fef2d",
+  "active": "d69b9f6ef8e0dbec",
   "lastOpenFiles": [
-    "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2019-2020.pdf",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Realization.md",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Diagrams and Descriptions.md",
+    "1. Home Page/Home.canvas",
+    "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2024-2025.pdf",
+    "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2023-2024.pdf",
     "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2022-2023.pdf",
     "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2018-2019.pdf",
-    "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2023-2024.pdf",
-    "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2024-2025.pdf",
+    "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2019-2020.pdf",
     "2. University/Year 2/S1 Software Engineering 1/Notes/CMPU 2019 2024-2025.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Diagrams and Descriptions.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005112.png",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md",
     "Untitled.canvas",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Ink/Drawing/2026.1.13 - 0.50am.drawing",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Ink/Drawing",
@@ -384,13 +450,11 @@
     "2. University/Year 2/S1 Software Engineering 1/Notes/Modularity.md",
     "2. University/Year 2/S1 Object Oriented Programming/Notes/Encapsulation - Java.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Coupling.md",
-    "1. Home Page/Home.canvas",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Thread Control Block - TCB.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Creating Threads.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
     "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf",
     "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2019-2020.pdf",
-    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2018-2019.pdf",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Joining Threads.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - fork() - Creating Processes.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/CMPU 2017 2024-2025.md",
