@@ -24,6 +24,9 @@ https://dn790001.ca.archive.org/0/items/bme-vik-konyvek/Software%20Engineering%2
 [[Use Cases and Scenarios]]
 
 ## Notes
+**Diagrams**
+- [[Usecase Diagrams and Descriptions]]
+
 - [[Coupling]]
 
 - [[Cohesion]]
@@ -33,14 +36,13 @@ https://dn790001.ca.archive.org/0/items/bme-vik-konyvek/Software%20Engineering%2
 
 - [[Encapsulation - Java]]
 
-### Software Processes
 **Types of Prototyping**
 - [[Evolutionary Development]]
 - [[Throwaway (rapid) Prototyping]]
-
+**Engineering Methodologies**
 - [[Adaptive and Predictive Methodologies to Development]]
+**Gathering System Requirements**
 - [[Requirements Engineering]]
-
 - [[Formal Specification]]
 
 ## Exam Papers

@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Formal Specification",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Formal Specification.md"
+      "basename": "CMPU 2019 | 2019-2020",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2019-2020.pdf"
+    },
+    {
+      "basename": "CMPU 2019 | 2022-2023",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2022-2023.pdf"
+    },
+    {
+      "basename": "CMPU 2019 | 2018-2019",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2018-2019.pdf"
+    },
+    {
+      "basename": "CMPU 2019 | 2023-2024",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2023-2024.pdf"
     },
     {
       "basename": "CMPU 2019 | 2024-2025",
       "path": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2024-2025.pdf"
     },
     {
+      "basename": "CMPU 2019 2024-2025",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/CMPU 2019 2024-2025.md"
+    },
+    {
+      "basename": "Usecase Diagrams and Descriptions",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Diagrams and Descriptions.md"
+    },
+    {
       "basename": "$ Software Engineering 1",
       "path": "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.canvas"
+    },
+    {
+      "basename": "Formal Specification",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Formal Specification.md"
     },
     {
       "basename": "Adaptive and Predictive Methodologies to Development",
@@ -43,10 +71,6 @@
     {
       "basename": "Coupling",
       "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Coupling.md"
-    },
-    {
-      "basename": "CMPU 2019 2024-2025",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/CMPU 2019 2024-2025.md"
     },
     {
       "basename": "Home",
@@ -175,30 +199,6 @@
     {
       "basename": "$ Databases 1",
       "path": "2. University/Year 2/S1 Databases 1/$ Databases 1.md"
-    },
-    {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
-    },
-    {
-      "basename": "Process Control Block",
-      "path": "2. University/Year 1/Operating Systems 1/Unsorted Notes/Process Control Block.md"
-    },
-    {
-      "basename": "$ Mathematics 2",
-      "path": "2. University/Year 2/S1 Mathematics 2/Notes/$ Mathematics 2.md"
-    },
-    {
-      "basename": "CMPU 2012 | 2024-2025",
-      "path": "2. University/Year 2/S1 Mathematics 2/Exam Papers/CMPU 2012 | 2024-2025.pdf"
-    },
-    {
-      "basename": "Chinese Remainder Theorem",
-      "path": "2. University/Year 2/S1 Mathematics 2/Chinese Remainder Theorem.md"
-    },
-    {
-      "basename": "$ Mathematics 2",
-      "path": "2. University/Year 2/S1 Mathematics 2/$ Mathematics 2.md"
     }
   ],
   "omittedPaths": [],
