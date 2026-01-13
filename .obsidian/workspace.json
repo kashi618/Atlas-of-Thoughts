@@ -13,26 +13,37 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf"
+                "file": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2024-2025.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "CMPU 2017  2024-2025"
+              "title": "CMPU 2019 | 2024-2025"
             }
           },
           {
-            "id": "1d963e74cdf35385",
+            "id": "8c1043d1eba54a33",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf"
+                "file": "2. University/Year 2/S1 Software Engineering 1/Notes/CMPU 2019 2024-2025.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "CMPU 2017  2024-2025"
+              "icon": "lucide-file",
+              "title": "CMPU 2019 2024-2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +107,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b2b152570fec8082",
@@ -117,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -261,13 +274,13 @@
                 }
               },
               {
-                "id": "716f06ef7e49817a",
+                "id": "b381c90cfef97d53",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Creating Threads.md",
-                    "mode": "preview",
+                    "file": "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md",
+                    "mode": "source",
                     "source": true,
                     "backlinks": true,
                     "backlinkOpts": {
@@ -281,17 +294,17 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Threads - Creating Threads"
+                  "title": "$ Software Engineering 1"
                 }
               },
               {
-                "id": "fb83cacd4c1af402",
+                "id": "e6e21dab2ffc8257",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2. University/Year 2/S1 Operating Systems 2/Notes/Thread Control Block - TCB.md",
-                    "mode": "preview",
+                    "file": "2. University/Year 2/S1 Software Engineering 1/Notes/Requirements Engineering.md",
+                    "mode": "source",
                     "source": true,
                     "backlinks": true,
                     "backlinkOpts": {
@@ -305,7 +318,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Thread Control Block - TCB"
+                  "title": "Requirements Engineering"
                 }
               }
             ],
@@ -313,21 +326,61 @@
           }
         ],
         "direction": "vertical",
-        "x": 517,
+        "x": 820,
         "y": 40,
-        "width": 1392,
+        "width": 1089,
         "height": 1029,
         "maximize": false,
-        "zoom": 0.5
+        "zoom": 1
+      },
+      {
+        "id": "03d81fff2f217ea9",
+        "type": "window",
+        "children": [
+          {
+            "id": "b0e50ce6283468a4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f96ca8150843eb81",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://drive.google.com/file/d/1O1KDtZmSg1A3HAr57CcRZltLGCgaBnVX/view",
+                    "title": "Software Processes.pdf - Google Drive",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Software Processes.pdf - Google Drive"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 3205,
+        "y": 50,
+        "width": 1261,
+        "height": 1536,
+        "maximize": false,
+        "zoom": 1
       }
     ]
   },
-  "active": "1d963e74cdf35385",
+  "active": "f96ca8150843eb81",
   "lastOpenFiles": [
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Thread Control Block - TCB.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/Requirements Engineering.md",
+    "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2024-2025.pdf",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/Modularity.md",
+    "2. University/Year 2/S1 Object Oriented Programming/Notes/Encapsulation - Java.md",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/Coupling.md",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/CMPU 2019 2024-2025.md",
     "1. Home Page/Home.canvas",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Thread Control Block - TCB.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Creating Threads.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
     "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf",
     "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2019-2020.pdf",
     "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2018-2019.pdf",
@@ -349,17 +402,10 @@
     "2. University/Year 2/S1 Operating Systems 2/Notes/Linked Lists - Deleting Nodes - C.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Zombie and Orphan Processes.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Processes.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Process Space.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Programs Processes Threads Overview - OS2.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/!OS2.md",
-    "2. University/Year 2/S1 Databases 1/Entities and Attributes.md",
-    "2. University/Year 2/S1 Databases 1/$ Databases 1.md",
     "2. University/Year 2/S1 Operating Systems 2/Lecture Materials/Course overview.pptx",
-    "2. University/Year 1/Results.md",
     "2. University/Year 2/S1 Web Development 2/Notes",
     "2. University/Year 2/S1 Software Engineering 1/Notes",
     "2. University/Year 2/S1 Object Oriented Programming/Notes",
-    "2. University/Year 2/S1 Operating Systems 2/Notes",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 2/S1 Databases 1/Pasted image 20260102204829.png"

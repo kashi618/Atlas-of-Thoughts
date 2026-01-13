@@ -1,24 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
+      "basename": "Requirements Engineering",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Requirements Engineering.md"
     },
     {
-      "basename": "CMPU 2017  2024-2025",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf"
+      "basename": "CMPU 2019 | 2024-2025",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2024-2025.pdf"
+    },
+    {
+      "basename": "$ Software Engineering 1",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md"
+    },
+    {
+      "basename": "Modularity",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Modularity.md"
+    },
+    {
+      "basename": "Encapsulation - Java",
+      "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/Encapsulation - Java.md"
+    },
+    {
+      "basename": "Coupling",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Coupling.md"
+    },
+    {
+      "basename": "CMPU 2019 2024-2025",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/CMPU 2019 2024-2025.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Thread Control Block - TCB",
       "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Thread Control Block - TCB.md"
     },
     {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md"
-    },
-    {
       "basename": "Threads - Creating Threads",
       "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Creating Threads.md"
+    },
+    {
+      "basename": "TU856-Year2",
+      "path": "1. Home Page/TU856-Year2.md"
+    },
+    {
+      "basename": "CMPU 2017  2024-2025",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md"
     },
     {
       "basename": "CMPU 2017  2019-2020",
@@ -39,10 +71,6 @@
     {
       "basename": "Threads - Joining Threads",
       "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Joining Threads.md"
-    },
-    {
-      "basename": "TU856-Year2",
-      "path": "1. Home Page/TU856-Year2.md"
     },
     {
       "basename": "Processes - fork() - Creating Processes",
@@ -171,34 +199,6 @@
     {
       "basename": "Fermat's Little Theorum",
       "path": "2. University/Year 1/Mathematics/Fermat's Little Theorum.md"
-    },
-    {
-      "basename": "la la la ~~",
-      "path": "1. Home Page/la la la ~~.md"
-    },
-    {
-      "basename": "CMPU 2007 | 2023-2024",
-      "path": "2. University/Year 2/S1 Databases 1/Exam Papers/CMPU 2007 | 2023-2024.pdf"
-    },
-    {
-      "basename": "CMPU 2007 2023-2024",
-      "path": "2. University/Year 2/S1 Databases 1/CMPU 2007 2023-2024.md"
-    },
-    {
-      "basename": "Three Main Normal Forms",
-      "path": "2. University/Year 2/S1 Databases 1/Three Main Normal Forms.md"
-    },
-    {
-      "basename": "CMPU 2007 2024-2025",
-      "path": "2. University/Year 2/S1 Databases 1/CMPU 2007 2024-2025.md"
-    },
-    {
-      "basename": "Referential Integrity",
-      "path": "2. University/Year 2/S1 Databases 1/Referential Integrity.md"
-    },
-    {
-      "basename": "Database Normalisation",
-      "path": "2. University/Year 2/S1 Databases 1/Database Normalisation.md"
     }
   ],
   "omittedPaths": [],

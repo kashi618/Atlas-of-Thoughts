@@ -24,9 +24,17 @@ https://dn790001.ca.archive.org/0/items/bme-vik-konyvek/Software%20Engineering%2
 [[Use Cases and Scenarios]]
 
 ## Notes
-[[Coupling]]
-[[Cohesion]]
-[[Cohesion Levels]]
+- [[Coupling]]
+
+- [[Cohesion]]
+- [[Cohesion Levels]]
+
+- [[Modularity]]
+
+- [[Encapsulation - Java]]
+
+### Software Processes
+- [[Requirements Engineering]]
 
 ## Exam Papers
 [[CMPU 2019 2024-2025]]
