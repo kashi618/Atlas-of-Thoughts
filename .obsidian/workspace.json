@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2024-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CMPU 2019 | 2024-2025"
-            }
-          }
-        ]
-      },
-      {
         "id": "6a07ac1dc5e144ae",
         "type": "tabs",
         "children": [
@@ -50,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md",
+                "file": "2. University/Year 2/S1 Software Engineering 1/Notes/CMPU 2019 2024-2025.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -65,31 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Software Engineering 1"
-            }
-          },
-          {
-            "id": "d69b9f6ef8e0dbec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Realization.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Usecase Realization"
+              "title": "CMPU 2019 2024-2025"
             }
           },
           {
@@ -117,7 +75,50 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2024-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CMPU 2019 | 2024-2025"
+            }
+          },
+          {
+            "id": "cfacb559b328bfca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Year 2/S1 Software Engineering 1/Notes/Requirements Engineering.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Requirements Engineering"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -315,124 +316,19 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "floating": {
-    "id": "bf50ecc1b3b9f6cd",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6bf2dac241f532dc",
-        "type": "window",
-        "children": [
-          {
-            "id": "969b72bf72d2531b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b381c90cfef97d53",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Diagrams and Descriptions.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Usecase Diagrams and Descriptions"
-                }
-              },
-              {
-                "id": "5478f57b6b017e29",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://sites.google.com/view/richard-lawlor-tud/home/se1/se1-lab-work",
-                    "title": "richard-lawlor-TUD - SE1 lab Work",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "richard-lawlor-TUD - SE1 lab Work"
-                }
-              },
-              {
-                "id": "8c534165dc909e88",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://drive.google.com/file/d/10s3RnOkAqrLkkEw34ki_NNIjYcO18mnR/view",
-                    "title": "03. Library Sequence Diagram.pdf - Google Drive",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "03. Library Sequence Diagram.pdf - Google Drive"
-                }
-              },
-              {
-                "id": "bc7064d84d9fef2d",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://drive.google.com/file/d/1e-N3nyDSlZXxkPh0puYTJJCI7beMX3Jm/view",
-                    "title": "02. Library Activity _ Class Diagrams.pdf - Google Drive",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "02. Library Activity _ Class Diagrams.pdf - Google Drive"
-                }
-              },
-              {
-                "id": "de5c96f4b1635160",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://dn790001.ca.archive.org/0/items/bme-vik-konyvek/Software%20Engineering%20-%20Ian%20Sommerville.pdf",
-                    "title": "Software Engineering, 10th GLOBAL Edition",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Software Engineering, 10th GLOBAL Edition"
-                }
-              }
-            ],
-            "currentTab": 2
-          }
-        ],
-        "direction": "vertical",
-        "x": 1214,
-        "y": 40,
-        "width": 695,
-        "height": 511,
-        "maximize": false,
-        "zoom": 1
-      }
-    ]
-  },
-  "active": "d69b9f6ef8e0dbec",
+  "active": "ffd5790685f47626",
   "lastOpenFiles": [
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Realization.md",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/Requirements Engineering.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Diagrams and Descriptions.md",
-    "1. Home Page/Home.canvas",
     "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2024-2025.pdf",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/CMPU 2019 2024-2025.md",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Realization.md",
+    "1. Home Page/Home.canvas",
     "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2023-2024.pdf",
     "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2022-2023.pdf",
     "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2018-2019.pdf",
     "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2019-2020.pdf",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/CMPU 2019 2024-2025.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005112.png",
     "Untitled.canvas",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Ink/Drawing/2026.1.13 - 0.50am.drawing",
@@ -443,7 +339,6 @@
     "2. University/Year 2/S1 Software Engineering 1/Notes/Formal Specification.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Adaptive and Predictive Methodologies to Development.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Agile Development.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Requirements Engineering.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Evolutionary Development.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Throwaway (rapid) Prototyping.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113000154.png",
@@ -464,7 +359,6 @@
     "2. University/Year 2/S1 Operating Systems 2/Notes/Single and Multi-Threaded Processes.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Threads.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Deadlock.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - exec().md",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 2/S1 Databases 1/Pasted image 20260102204829.png"
