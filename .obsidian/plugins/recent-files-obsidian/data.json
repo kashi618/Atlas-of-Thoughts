@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "CMPU 2022 | 2024-2025",
+      "path": "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2024-2025.pdf"
+    },
+    {
+      "basename": "$ Web Development 2",
+      "path": "2. University/Year 2/S1 Web Development 2/Notes/$ Web Development 2.md"
+    },
+    {
+      "basename": "CMPU 2022 | 2023-2024",
+      "path": "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2023-2024.pdf"
+    },
+    {
+      "basename": "TU856-Year2",
+      "path": "1. Home Page/TU856-Year2.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -67,10 +83,6 @@
     {
       "basename": "Requirements Engineering",
       "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Requirements Engineering.md"
-    },
-    {
-      "basename": "TU856-Year2",
-      "path": "1. Home Page/TU856-Year2.md"
     },
     {
       "basename": "CMPU 2019 | 2019-2020",
@@ -187,18 +199,6 @@
     {
       "basename": "Linked Lists - Deleting Nodes - C",
       "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Linked Lists - Deleting Nodes - C.md"
-    },
-    {
-      "basename": "Zombie and Orphan Processes",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Zombie and Orphan Processes.md"
-    },
-    {
-      "basename": "Processes",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Processes.md"
-    },
-    {
-      "basename": "Process Space",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Process Space.md"
     }
   ],
   "omittedPaths": [],
