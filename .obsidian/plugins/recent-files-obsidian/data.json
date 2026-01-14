@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "$ Software Engineering 1",
       "path": "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md"
+    },
+    {
+      "basename": "Usecase Realization",
+      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Realization.md"
     },
     {
       "basename": "Waterfall Model",
@@ -27,10 +35,6 @@
     {
       "basename": "Modularity",
       "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Modularity.md"
-    },
-    {
-      "basename": "Usecase Realization",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Realization.md"
     },
     {
       "basename": "Usecase Diagrams and Descriptions",
@@ -63,10 +67,6 @@
     {
       "basename": "Requirements Engineering",
       "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Requirements Engineering.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "TU856-Year2",
