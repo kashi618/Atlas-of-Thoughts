@@ -5,16 +5,20 @@
       "path": "2. University/Year 2/S1 Web Development 2/Notes/CMPU 2022  2024-2025.md"
     },
     {
+      "basename": "CMPU 2022 | 2024-2025",
+      "path": "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2024-2025.pdf"
+    },
+    {
       "basename": "$ Web Development 2",
       "path": "2. University/Year 2/S1 Web Development 2/Notes/$ Web Development 2.md"
     },
     {
-      "basename": "Web Server Criteria",
-      "path": "2. University/Year 2/S1 Web Development 2/Notes/Web Server Criteria.md"
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
     },
     {
-      "basename": "CMPU 2022 | 2024-2025",
-      "path": "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2024-2025.pdf"
+      "basename": "Web Server Criteria",
+      "path": "2. University/Year 2/S1 Web Development 2/Notes/Web Server Criteria.md"
     },
     {
       "basename": "CMPU 2022 | 2023-2024",
@@ -23,10 +27,6 @@
     {
       "basename": "TU856-Year2",
       "path": "1. Home Page/TU856-Year2.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "$ Software Engineering 1",

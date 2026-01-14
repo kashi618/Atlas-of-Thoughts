@@ -27,7 +27,7 @@
             }
           },
           {
-            "id": "41de429b5b17b90c",
+            "id": "2a18faeb55c3bbdd",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -67,54 +67,6 @@
               },
               "icon": "lucide-file",
               "title": "CMPU 2022  2024-2025"
-            }
-          },
-          {
-            "id": "2a18faeb55c3bbdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Year 2/S1 Web Development 2/Notes/$ Web Development 2.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ Web Development 2"
-            }
-          },
-          {
-            "id": "f3dcb1d8511fd0a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Year 2/S1 Web Development 2/Notes/Web Server Criteria.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Web Server Criteria"
             }
           }
         ]
@@ -317,12 +269,12 @@
   },
   "active": "2f31a4ef6266c168",
   "lastOpenFiles": [
+    "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2024-2025.pdf",
     "2. University/Year 2/S1 Web Development 2/Notes/$ Web Development 2.md",
+    "1. Home Page/Home.canvas",
     "2. University/Year 2/S1 Web Development 2/Notes/Web Server Criteria.md",
     "2. University/Year 2/S1 Web Development 2/Notes/CMPU 2022  2024-2025.md",
-    "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2024-2025.pdf",
     "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2023-2024.pdf",
-    "1. Home Page/Home.canvas",
     "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Waterfall Model.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Adaptive and Predictive Methodologies to Development.md",
@@ -358,7 +310,6 @@
     "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Joining Threads.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - fork() - Creating Processes.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/CMPU 2017 2024-2025.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Compiling Threads - C.md",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 2/S1 Databases 1/Pasted image 20260102204829.png"
