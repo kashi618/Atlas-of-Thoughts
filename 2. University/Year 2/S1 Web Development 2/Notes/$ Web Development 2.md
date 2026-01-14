@@ -17,6 +17,8 @@ ca 50%
 	- [[IP Address]]
 	- [[Transmission Control Protocol (TCP)]] ! NOT DONE
 
+### Other
+- [[Web Server Criteria]]
 ### PHP
 - [[PHP]]
 - [[Basic PHP Syntax]]
@@ -25,5 +27,7 @@ ca 50%
 [[Phingal Libraries Brief]]
 [[Phingal Libraries - Website Plan]]
 
+## Exam Paper
+[[CMPU 2022  2024-2025]]
 # See Also
 [[$ Web Development 2]]

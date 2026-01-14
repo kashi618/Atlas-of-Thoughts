@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "CMPU 2022 | 2024-2025",
-      "path": "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2024-2025.pdf"
+      "basename": "CMPU 2022  2024-2025",
+      "path": "2. University/Year 2/S1 Web Development 2/Notes/CMPU 2022  2024-2025.md"
     },
     {
       "basename": "$ Web Development 2",
       "path": "2. University/Year 2/S1 Web Development 2/Notes/$ Web Development 2.md"
+    },
+    {
+      "basename": "Web Server Criteria",
+      "path": "2. University/Year 2/S1 Web Development 2/Notes/Web Server Criteria.md"
+    },
+    {
+      "basename": "CMPU 2022 | 2024-2025",
+      "path": "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2024-2025.pdf"
     },
     {
       "basename": "CMPU 2022 | 2023-2024",
@@ -191,14 +199,6 @@
     {
       "basename": "$ C - Programming Language",
       "path": "2. University/Year 1/Programming/$ C - Programming Language.md"
-    },
-    {
-      "basename": "OS2 Potential Exam Questions",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/OS2 Potential Exam Questions.md"
-    },
-    {
-      "basename": "Linked Lists - Deleting Nodes - C",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Linked Lists - Deleting Nodes - C.md"
     }
   ],
   "omittedPaths": [],

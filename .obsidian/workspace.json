@@ -37,15 +37,46 @@
               "icon": "lucide-file-text",
               "title": "CMPU 2022 | 2024-2025"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "59de2cfa28eac2b4",
+        "type": "tabs",
+        "children": [
           {
             "id": "2f31a4ef6266c168",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+                "file": "2. University/Year 2/S1 Web Development 2/Notes/CMPU 2022  2024-2025.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CMPU 2022  2024-2025"
+            }
+          },
+          {
+            "id": "2a18faeb55c3bbdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "2. University/Year 2/S1 Web Development 2/Notes/$ Web Development 2.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -61,9 +92,32 @@
               "icon": "lucide-file",
               "title": "$ Web Development 2"
             }
+          },
+          {
+            "id": "f3dcb1d8511fd0a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Year 2/S1 Web Development 2/Notes/Web Server Criteria.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Web Server Criteria"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -260,9 +315,11 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "41de429b5b17b90c",
+  "active": "2f31a4ef6266c168",
   "lastOpenFiles": [
     "2. University/Year 2/S1 Web Development 2/Notes/$ Web Development 2.md",
+    "2. University/Year 2/S1 Web Development 2/Notes/Web Server Criteria.md",
+    "2. University/Year 2/S1 Web Development 2/Notes/CMPU 2022  2024-2025.md",
     "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2024-2025.pdf",
     "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2023-2024.pdf",
     "1. Home Page/Home.canvas",
@@ -302,7 +359,6 @@
     "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - fork() - Creating Processes.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/CMPU 2017 2024-2025.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Compiling Threads - C.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - wait().md",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 2/S1 Databases 1/Pasted image 20260102204829.png"
