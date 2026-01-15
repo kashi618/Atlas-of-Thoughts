@@ -29,5 +29,6 @@ ca 50%
 
 ## Exam Paper
 [[CMPU 2022  2024-2025]]
+[[CMPU 2022  2023-2024]]
 # See Also
 [[$ Web Development 2]]
