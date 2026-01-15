@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "020bd8e5c4ee1e92",
+            "id": "365a5360957ed85f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S1 Web Development 2/Notes/CMPU 2022  2024-2025.md",
+                "file": "2. University/Year 2/S1 Object Oriented Programming/Notes/!Super.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CMPU 2022  2024-2025"
+              "title": "!Super"
             }
           }
         ],
@@ -136,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -249,12 +248,14 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "020bd8e5c4ee1e92",
+  "active": "365a5360957ed85f",
   "lastOpenFiles": [
-    "2. University/Year 2/S1 Web Development 2/Notes/$ Web Development 2.md",
-    "2. University/Year 2/S1 Web Development 2/Notes/CMPU 2022  2024-2025.md",
-    "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2019-2020.pdf",
+    "2. University/Year 2/S1 Object Oriented Programming/Notes/$ Java - Programming Language.md",
+    "2. University/Year 2/S1 Object Oriented Programming/Notes/!Super.md",
     "1. Home Page/Home.canvas",
+    "2. University/Year 2/S1 Web Development 2/Notes/CMPU 2022  2024-2025.md",
+    "2. University/Year 2/S1 Web Development 2/Notes/$ Web Development 2.md",
+    "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2019-2020.pdf",
     "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2022-2023.pdf",
     "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2023-2024.pdf",
     "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2024-2025.pdf",
@@ -291,7 +292,6 @@
     "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Creating Threads.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Joining Threads.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - fork() - Creating Processes.md",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 2/S1 Databases 1/Pasted image 20260102204829.png"

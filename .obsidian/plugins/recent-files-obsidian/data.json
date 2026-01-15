@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "!Super",
+      "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/!Super.md"
+    },
+    {
+      "basename": "$ Java - Programming Language",
+      "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/$ Java - Programming Language.md"
+    },
+    {
+      "basename": "TU856-Year2",
+      "path": "1. Home Page/TU856-Year2.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "CMPU 2022  2024-2025",
       "path": "2. University/Year 2/S1 Web Development 2/Notes/CMPU 2022  2024-2025.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "CMPU 2022 | 2019-2020",
       "path": "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2019-2020.pdf"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "CMPU 2022 | 2022-2023",
@@ -35,10 +47,6 @@
     {
       "basename": "Web Server Criteria",
       "path": "2. University/Year 2/S1 Web Development 2/Notes/Web Server Criteria.md"
-    },
-    {
-      "basename": "TU856-Year2",
-      "path": "1. Home Page/TU856-Year2.md"
     },
     {
       "basename": "$ Software Engineering 1",
@@ -191,14 +199,6 @@
     {
       "basename": "Threads",
       "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Threads.md"
-    },
-    {
-      "basename": "Deadlock",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Deadlock.md"
-    },
-    {
-      "basename": "Processes - exec()",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - exec().md"
     }
   ],
   "omittedPaths": [],
