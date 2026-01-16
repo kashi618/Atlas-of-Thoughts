@@ -75,37 +75,7 @@
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "f0f85c1d14cae42b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f4cd7463b9bc94d5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2. University/Year 2/S1 Object Oriented Programming/Exam Papers/CMPU 2016 | 2024-2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CMPU 2016 | 2024-2025"
-            }
-          },
-          {
-            "id": "94d9a733ae1a109a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2. University/Year 2/S1 Object Oriented Programming/Exam Papers/CMPU 2016 | 2023-2024.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CMPU 2016 | 2023-2024"
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -302,15 +273,22 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "cfaf7ac0a15f9e0e",
+  "active": "ad5d34a6dbf5e767",
   "lastOpenFiles": [
-    "2. University/Year 2/S1 Object Oriented Programming/Exam Papers/CMPU 2016 | 2024-2025.pdf",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/CMPU 2016  2024-2025.md",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/Pasted image 20260116102052.png",
-    "2. University/Year 2/S1 Object Oriented Programming/Exam Papers/CMPU 2016 | 2023-2024.pdf",
+    "2. University/Year 2/S1 Object Oriented Programming/Notes/??Extends - Java.md",
     "2. University/Year 2/S1 Object Oriented Programming/Notes/$ Java - Programming Language.md",
+    "2. University/Year 2/S1 Object Oriented Programming/Notes/extends - Java.md",
+    "2. University/Year 2/S1 Object Oriented Programming/Notes/Inheritance - Java.md",
+    "2. University/Year 2/S1 Object Oriented Programming/Notes/Super.md",
+    "2. University/Year 2/S1 Object Oriented Programming/Notes/CMPU 2016  2024-2025.md",
+    "2. University/Year 2/S1 Object Oriented Programming/Notes/super.md",
+    "2. University/Year 2/S1 Object Oriented Programming/Notes/??Super - Java.md",
+    "2. University/Year 2/S1 Object Oriented Programming/Notes/Writing JavaDocs.md",
+    "2. University/Year 2/S1 Object Oriented Programming/Notes/JavaDoc.md",
+    "2. University/Year 2/S1 Object Oriented Programming/Exam Papers/CMPU 2016 | 2023-2024.pdf",
+    "2. University/Year 2/S1 Object Oriented Programming/Exam Papers/CMPU 2016 | 2024-2025.pdf",
+    "2. University/Year 2/S1 Object Oriented Programming/Notes/Pasted image 20260116102052.png",
     "1. Home Page/Home.canvas",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/!Super.md",
     "2. University/Year 2/S1 Web Development 2/Notes/CMPU 2022  2024-2025.md",
     "2. University/Year 2/S1 Web Development 2/Notes/$ Web Development 2.md",
     "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2019-2020.pdf",
@@ -339,13 +317,7 @@
     "Untitled.canvas",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005038.png",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005032.png",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Formal Specification.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Agile Development.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113000154.png",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/Encapsulation - Java.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Coupling.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Thread Control Block - TCB.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Creating Threads.md",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 1/Programming/Pasted image 20250929101751.png",
     "2. University/Year 2/S1 Databases 1/Pasted image 20260102204829.png"
