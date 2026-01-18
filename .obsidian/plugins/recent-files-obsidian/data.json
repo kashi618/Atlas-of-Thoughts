@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Structures - Creating Structures - C",
+      "path": "2. University/Year 1/Programming/Structures - Creating Structures - C.md"
+    },
+    {
+      "basename": "$ C - Programming Language",
+      "path": "2. University/Year 1/Programming/$ C - Programming Language.md"
+    },
+    {
+      "basename": "Ternary Operators - C",
+      "path": "2. University/Year 1/Programming/Ternary Operators - C.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "$ Java - Programming Language",
       "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/$ Java - Programming Language.md"
     },
@@ -39,10 +55,6 @@
     {
       "basename": "TU856-Year2",
       "path": "1. Home Page/TU856-Year2.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "CMPU 2022  2024-2025",
@@ -187,14 +199,6 @@
     {
       "basename": "CMPU 2017  2018-2019",
       "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2018-2019.pdf"
-    },
-    {
-      "basename": "CMPU 2017  2022-2023",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2022-2023.pdf"
-    },
-    {
-      "basename": "CMPU 2017  2023-2024",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2023-2024.pdf"
     }
   ],
   "omittedPaths": [],

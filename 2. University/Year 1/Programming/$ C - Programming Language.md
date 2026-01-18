@@ -35,6 +35,7 @@ aliases: []
 	- [[Incrementing & Decrementing - C]]
 	- [[Operator Precedence - C]]
 - [[Logical Operators - C]]
+- [[Ternary Operators - C]]
 
 **Conditional Statements and Loops**
 - [[If Statements- C]]
