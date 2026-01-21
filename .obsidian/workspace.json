@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -620,
                   "y": 110,
-                  "zoom": -1.8950304403984575
+                  "zoom": -2.0919550504079396
                 }
               },
               "pinned": true,
@@ -27,36 +27,12 @@
             }
           },
           {
-            "id": "193039ecde7f551d",
+            "id": "a27db28da6a008a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Year 1/Programming/$ C - Programming Language.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ C - Programming Language"
-            }
-          },
-          {
-            "id": "028917f86e2b337a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Year 1/Programming/Structures - Creating Structures - C.md",
+                "file": "3. General/Notes/SAP STAR Program Interview.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -71,11 +47,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Structures - Creating Structures - C"
+              "title": "SAP STAR Program Interview"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -272,11 +248,13 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "028917f86e2b337a",
+  "active": "a27db28da6a008a5",
   "lastOpenFiles": [
+    "1. Home Page/Home.canvas",
+    "3. General/Notes/SAP STAR Program Interview.md",
+    "2. University/Year 1/Programming/Structures - Creating Structures - C.md",
     "2. University/Year 1/Programming/$ C - Programming Language.md",
     "2. University/Year 1/Programming/Ternary Operators - C.md",
-    "1. Home Page/Home.canvas",
     "2. University/Year 2/S1 Object Oriented Programming/Notes/$ Java - Programming Language.md",
     "2. University/Year 2/S1 Object Oriented Programming/Notes/??Extends - Java.md",
     "2. University/Year 2/S1 Object Oriented Programming/Notes/extends - Java.md",
@@ -305,9 +283,6 @@
     "2. University/Year 2/S1 Software Engineering 1/Notes/Throwaway (rapid) Prototyping.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Evolutionary Development.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Modularity.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Realization.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Diagrams and Descriptions.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Use Cases and Scenarios.md",
     "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2018-2019.pdf",
     "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2024-2025.pdf",
     "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2022-2023.pdf",

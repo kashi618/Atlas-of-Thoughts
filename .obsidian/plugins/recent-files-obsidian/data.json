@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "SAP STAR Program Interview",
+      "path": "3. General/Notes/SAP STAR Program Interview.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Structures - Creating Structures - C",
       "path": "2. University/Year 1/Programming/Structures - Creating Structures - C.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Ternary Operators - C",
       "path": "2. University/Year 1/Programming/Ternary Operators - C.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "$ Java - Programming Language",
@@ -195,10 +199,6 @@
     {
       "basename": "CMPU 2017  2019-2020",
       "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2019-2020.pdf"
-    },
-    {
-      "basename": "CMPU 2017  2018-2019",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2018-2019.pdf"
     }
   ],
   "omittedPaths": [],
