@@ -26,29 +26,22 @@
 # Script
 ## Slide 1 - Introduction & Reason for Hospitality
 {**Introduction**}
-Hi I'm Neil Jiang. As you know, I am a student at TUD studying computer science
+Hi I'm Neil Jiang. I am a student at TUD studying computer science.
 
 {**Reason for Choice**}
-The industry I chose for this presentation, is the public healthcare system in Ireland.
+For this presentation, I chose to focus on the industry of the public healthcare system in Ireland.
 
-I have navigated with first hand experience, from initial consultation, to recovery and aftercare.
-I have accompanied my mom, through various hospital visits, acting as a translator due to her poor English.
-And I have encountered and witness many points of friction and inefficiency in the system
+This is because I have first-hand experience navigating the system, as I often accompany my mother to her consultations and appointments, acting as a translator due to her poor English.
 
+And through these trips, me and my mother have been met with many points of friction and inefficiencies in the system. 
 
 ## Slide 2 - Outline Issues met
 {**Outline Issues Met**}
-I won't get into the details because it is not important for this presentation, 
-But I have talked:
-- The GP,
-- Been through the referral process to the hospital,
-- Talked to the doctors and nurses there,
-- And then specialized consultants such as the cardiologist
-
-And there has always been a few problems that have come up
+From my experience going through the process of the initial consultation with the GP, the referral process, or speaking to specialists, three main issues and problems have become evident.
 
 {**Fragmented patient information across systems**}
-From each point in a patients journey, you often
+The first issue is patient data silo's. This basically means that each hospital and GP, has their own 
+A patient's history doesn't travel with them.
 
 {**Language barrier**}
 According to the 2022 census, over 2% of the population in Ireland spoke poor English. This is not counting those who speak irish.
