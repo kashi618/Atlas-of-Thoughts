@@ -32,8 +32,8 @@ Hi I'm Neil Jiang. As you know, I am a student at TUD studying computer science
 The industry I chose for this presentation, is the public healthcare system in Ireland.
 
 I have navigated with first hand experience, from initial consultation, to recovery and aftercare.
-I accompany my mom, acting as a translator due to her poor English.
-And I have witnessed and encountered many points of friction and inefficiency
+I have accompanied my mom, through various hospital visits, acting as a translator due to her poor English.
+And I have encountered and witness many points of friction and inefficiency in the system
 
 
 ## Slide 2 - Outline Issues met
@@ -45,7 +45,7 @@ But I have talked:
 - Talked to the doctors and nurses there,
 - And then specialized consultants such as the cardiologist
 
-And there has been one common problem that has always come up
+And there has always been a few problems that have come up
 
 {**Silo-ed and fragmented patient information**}
 
@@ -74,8 +74,10 @@ SO, "suite first"
 
 ## Slide 4 - "Suite 1st" Solution - Connected Care
 {Suite 1st for connected care}
-Doctors, nurses, specialized consultants won't need to be brought up to speed by the patient. Everything is stored in a database that follows a computer sciency term called a "single source of truth"t
-This means that the GP's and Hospitals work togthor, building up the patients data.
+Doctors, nurses, specialized consultants won't need to be brought up to speed by the patient. Everything is stored in a database that follows a computer sciency term called a "single source of truth"
+This means that the GP's and Hospitals work togthor, building up the patients history and data.
+
+
 
 ## Slide 5 - "AI 1st" Solution - Reduce Overload Increase Speed
 {AI for schechuling}
@@ -88,6 +90,15 @@ GP nurse and doctor focuses purely on helping the patient
 ## Slide 6 - 5 Year Plan
 
 ## Slide 7 - Common Issues
+{**Loss of admin jobs?**}
+
+{**Possible data breach, or virus?**}
+
+
+{**Conclusion**}
+That is the end
+I hope you found it interesting, and that you would relate to this
+Thank you
 
 
 # Interview
