@@ -33,7 +33,7 @@ For this presentation, I chose to focus on the industry of the public healthcare
 
 This is because I have first-hand experience navigating the system, as I often accompany my mother to her consultations and appointments, acting as a translator due to her poor English.
 
-And through these trips, me and my mother have been met with many points of friction and inefficiencies in the system. 
+And through these trips, me and my mother have been met with many points of friction and inefficiencies within the system. 
 
 ## Slide 2 - Outline Issues met
 {**Outline Issues Met**}
