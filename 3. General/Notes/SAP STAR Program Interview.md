@@ -64,7 +64,7 @@ This means interoperability, where when a GP enters data, it is instantly access
 ## Slide 4 - "AI 1st" Solution
 Once the suite/database is in place, we can then use the AI first strategy to build our core system.
 
-{**AI for schechuling**}
+{**AI for scheduling**}
 - Just like how Alex scheduled this interview today, we can use SAP's Joule to manage patient bookings. This means that patients can book appointments 24/7 seamlessly online.
 - There have been times where I urgently needed to schedule an appointment at the GP, but it was the weekend, forcing me to wait until Monday. SAP Joule will eliminate that.
 
@@ -72,17 +72,24 @@ Once the suite/database is in place, we can then use the AI first strategy to bu
 - Second, SAP's generative AI can also offer real-time, medical-grade translations for patients like my mother. This allows doctors to focus on treating patients, instead of communication. This is helpful for patients who either cannot afford, or wait for an available interpreter, especially if they speak a rare language.
 - Even for Mandarin Chinese, it is very hard to find skilled and available interpreters
 
-{**Predictive Care**}
-
-
 ## Slide 5 - Year 1-3 Implementation
+
 
 ## Slide 6 - Year 4-5 Deployment
 
-## Slide 7 - Common Issues
-{**Loss of admin jobs?**}
+
+## Slide 7 - Issues Which May Occur During Deployment
+{**AI Unpredictability?**}
+Due to the unpredictability of AI, we have to remember that generative AI is first and for most a too.
 
 {**Possible data breach, or virus?**}
+The suite first approach means that all patient data are stored on the cloud. This is succeptible to online attacks by bad actors.
+A good example of this is the wannacry pandemic in 2017. This was a computer virus that essentialy shut down many windows computers, including hospital systems. You can imagine the damage this caused, as 
+
+
+{**Job Security?**}
+My GF works as an admin at a hospital, when I was preparing for this presentation, she was worried about her job being replaced by AI.
+
 
 
 {**Conclusion**}
