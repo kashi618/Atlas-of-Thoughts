@@ -73,6 +73,7 @@ Once the suite/database is in place, we can then use the AI first strategy to bu
 - Even for Mandarin Chinese, it is very hard to find skilled and available interpreters
 
 ## Slide 5 - Year 1-3 Implementation
+{**Focusing moving from fragmented legacy systems, to a unified system**}
 
 
 ## Slide 6 - Year 4-5 Deployment
