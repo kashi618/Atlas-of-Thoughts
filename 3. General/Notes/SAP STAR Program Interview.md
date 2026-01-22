@@ -24,26 +24,42 @@
   - WannaCry 2.0? (2017)
 
 # Script
-## Slide 1
-{introduction}
+## Slide 1 - Introduction & Reason for Hospitality
+{**Introduction**}
 Hi I'm Neil Jiang. {18, computer science TUD}
 
+{**Reason for Choice**}
 The industry I chose for this presentation, is the public healthcare system in Ireland.
-I have first-hand experience on going the hurdles of 
+
+I have first hand experience going through the whole process of GP, to Hospital, to aftercare.
+As I accompany my mom as the translator, (English to Mandarin, Mandarin to English) for many hospital trips.
+
+
+## Slide 2 - Outline Issues met
+{**Outline Issues Met**}
+- Need to re-explain mom's health to the GP, Hospital, and Specialized consultant
+I won't get into the details because it is not important for this presentation, 
+But I have talked to the GP, hospital staff, and specialized consultants such as the cardiologist
 
 
 
-## Slide 2
+## Slide 3 - Define What SAP Can Do
+This is where SAP comes in.
+SAP's "Suite 1st, AI 1st" approach is very good for this.
+{define suite 1st}
 
-## Slide 3
+{define AI 1st}
 
-## Slide 4
 
-## Slide 5
 
-## Slide 6
+## Slide 4 - "Suite 1st" Solution - Connected Care
 
-## Slide 7
+## Slide 5 - "AI 1st" Solution - Reduce Overload Increase Speed
+
+## Slide 6 - 5 Year Plan
+
+## Slide 7 - Common Issues
+
 
 # Interview
 Hi, I'm Neil Jiang.
