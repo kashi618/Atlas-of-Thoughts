@@ -40,32 +40,39 @@ And through these trips, me and my mother have been met with many points of fric
 From my experience going through the process of the initial consultation with the GP, the referral process, or speaking to specialists, three main issues and problems have become evident.
 
 {**Fragmented patient information across systems**}
-The first issue is patient data silo's. This basically means that each hospital and GP, has their own 
-A patient's history doesn't travel with them.
+The first issue is patient data silo's. 
+A patients medical history is fragmented, as each GP and Hospital has their own database for storing the information. Hospitals often don't share this, leading to patients needing to repeat their condition multiple times to various people. A patient's history doesn't travel with them.
 
 {**Language barrier**}
-According to the 2022 census, over 2% of the population in Ireland spoke poor English. This is not counting those who speak irish.
+The second issue is language barriers. According to the 2022 census, over 2% of the population in Ireland speaks poor English.
 It seems small, but that is over 20,000 per 1 million. Around 100k in Ireland.
 
 {**Scheduling hours are a pain**}
 The last issue I have encountered, is that GP's often have very strict opening hours.
 The local GP near me, opens Mon-Fri, (8:30-11:30, 3:30-5:30) 5 hours total.
 
+{**Outro**}
+How do we fix this? Lets start with SAP's "suite first" approach
+
 ## Slide 3 - "Suite 1st" Solution
-{**Define Suite 1st**}
+{**Suite 1st**}
+Essentially, we create a unified source for a patients medical history, by using SAP's S4/HANNA Cloud database. By unifying a patients medical history we create a system where GP's, hospitals, and specialist consultants are able to work together instead of apart, creating a "single source of truth".
 
-{**Suite 1st for connected care**}
-Doctors, nurses, specialized consultants won't need to be brought up to speed by the patient. Everything is stored in a database that follows a computer sciency term called a "single source of truth"
-This means that the GP's and Hospitals work togthor, building up the patients history and data.
-
+This means interoperability, where when a GP enters data, it is instantly accessible securely through SAP's cloud database by a Hospital, and vice verse.
 
 
 ## Slide 4 - "AI 1st" Solution
-{AI for schechuling}
-- Seamless scheduling, as present from Alex.
+Once the suite/database is in place, we can then use the AI first strategy to build our core system.
 
-{AI for language}
-GP nurse and doctor focuses purely on helping the patient
+{**AI for schechuling**}
+- Just like how Alex scheduled this interview today, we can use SAP's Joule to manage patient bookings. This means that patients can book appointments 24/7 seamlessly online.
+- There have been times where I urgently needed to schedule an appointment at the GP, but it was the weekend, forcing me to wait until Monday. SAP Joule will eliminate that.
+
+{**AI for language**}
+- Second, SAP's generative AI can also offer real-time, medical-grade translations for patients like my mother. This allows doctors to focus on treating patients, instead of communication. This is helpful for patients who either cannot afford, or wait for an available interpreter, especially if they speak a rare language.
+- Even for Mandarin Chinese, it is very hard to find skilled and available interpreters
+
+{**Predictive Care**}
 
 
 ## Slide 5 - Year 1-3 Implementation
