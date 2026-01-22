@@ -9,7 +9,7 @@
 
 ### Issues (Problems which can be solved)
 **Fragmented**
-- Patient data "siloed" across many hospitals and GP's
+- Patient data "silo-ed" across many hospitals and GP's
   - Need to explain situation to every hospital and GP
 - 
 
