@@ -70,33 +70,41 @@ Once the suite/database is in place, we can then use the AI first strategy to bu
 
 {**AI for language**}
 - Second, SAP's generative AI can also offer real-time, medical-grade translations for patients like my mother. This allows doctors to focus on treating patients, instead of communication. This is helpful for patients who either cannot afford, or wait for an available interpreter, especially if they speak a rare language.
-- Even for Mandarin Chinese, it is very hard to find skilled and available interpreters
+- Even for Mandarin Chinese, the language my mother and I speak, it is very hard to find skilled and qualified interpreter.
 
-## Slide 5 - Year 1-3 Implementation
-{**Focusing moving from fragmented legacy systems, to a unified system**}
+## Slide 5 - Year 1-3 Migrating from Legacy to SAP
+Year 1 will focus on migrating the data from the hospitals and GP into SAP's HANA Cloud network. 
 
+Year 2-3 will focus on using SAP's Business Technology Platform to connect GP's and hospitals, allowing for a seamless integration of managing patient data between GP's and hospitals. It will also focus on implementing Joule for scheduling appointments.
 
-## Slide 6 - Year 4-5 Deployment
-
+## Slide 6 - Year 4-5 "AI first"
+Years 4-5 will focus by changing from a reactive, to proactive AI based healthcare system.
+Just like Alex, AI scheduling methods will be implemented, allowing patients to register and book appointments 24/7.
 
 ## Slide 7 - Issues Which May Occur During Deployment
-{**AI Unpredictability?**}
-Due to the unpredictability of AI, we have to remember that generative AI is first and for most a too.
+{**AI Unpredictability during translation**}
+AI might mess up translations, causing major issues.
+How To fix:
+- idk
 
 {**Possible data breach, or virus?**}
-The suite first approach means that all patient data are stored on the cloud. This is succeptible to online attacks by bad actors.
-A good example of this is the wannacry pandemic in 2017. This was a computer virus that essentialy shut down many windows computers, including hospital systems. You can imagine the damage this caused, as 
+S4/HANA Cloud succeptible to online attacks by bad actors. An example of this is the WANACRY pandemic in 2017. This was a computer virus that essentially shut down windows computers due to a bug. Causes millions of computers to break, including life saving medical equipment
+How To Fix:
+- idk
 
 
-{**Job Security?**}
-My GF works as an admin at a hospital, when I was preparing for this presentation, she was worried about her job being replaced by AI.
+{**Job Security for administrative/secretary work**}
+My GF works as an admin at a hospital. When I was preparing for this presentation, she was worried about her job being replaced by AI.
+But I believe that this will never be the case. Although SJ
 
 
 
-{**Conclusion**}
-That is the end
-I hope you found it interesting, and that you would relate to this
-Thank you
+{**Outro**}
+In the next five years, SAP's Suite 1st and AI 1st approach isn't just about upgrading software. Instead, it is about moving away from fragmented systems. We ensuring that people who are in need of medical care, will not be stopped either by scheduling or language barriers, because the system already understands, supports, and prioritizes their care.
+
+Thank you for listening, and I hope you found it interesting
+
+
 
 
 # Interview
