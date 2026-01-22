@@ -26,35 +26,64 @@
 # Script
 ## Slide 1 - Introduction & Reason for Hospitality
 {**Introduction**}
-Hi I'm Neil Jiang. {18, computer science TUD}
+Hi I'm Neil Jiang. As you know, I am a student at TUD studying computer science
 
 {**Reason for Choice**}
 The industry I chose for this presentation, is the public healthcare system in Ireland.
 
-I have first hand experience going through the whole process of GP, to Hospital, to aftercare.
-As I accompany my mom as the translator, (English to Mandarin, Mandarin to English) for many hospital trips.
+I have navigated with first hand experience, from initial consultation, to recovery and aftercare.
+I accompany my mom, acting as a translator due to her poor English.
+And I have witnessed and encountered many points of friction and inefficiency
 
 
 ## Slide 2 - Outline Issues met
 {**Outline Issues Met**}
-- Need to re-explain mom's health to the GP, Hospital, and Specialized consultant
 I won't get into the details because it is not important for this presentation, 
-But I have talked to the GP, hospital staff, and specialized consultants such as the cardiologist
+But I have talked:
+- The GP,
+- Been through the referral process to the hospital,
+- Talked to the doctors and nurses there,
+- And then specialized consultants such as the cardiologist
+
+And there has been one common problem that has always come up
+
+{**Silo-ed and fragmented patient information**}
+
+For each point of the  
 
 
+{**2% arn't fluent in English and or Irish**}
+According to the 2022 census, over 2% of the population in Ireland spoke poor English. This is not counting those who speak irish.
+It seems small, but that is over 20,000 per 1 million. Around 100k in Ireland.
+
+{**Scheduling hours are a pain**}
+The last issue I have encountered, is that GP's often have very strict opening hours.
+The local GP near me, opens Mon-Fri, (8:30-11:30, 3:30-5:30) 5 hours total.
 
 ## Slide 3 - Define What SAP Can Do
 This is where SAP comes in.
-SAP's "Suite 1st, AI 1st" approach is very good for this.
-{define suite 1st}
+But first, I want to explain what these two terms mean.
 
-{define AI 1st}
+{**define suite 1st**}
+SO, "suite first" 
+
+
+{**define AI 1st**}
 
 
 
 ## Slide 4 - "Suite 1st" Solution - Connected Care
+{Suite 1st for connected care}
+Doctors, nurses, specialized consultants won't need to be brought up to speed by the patient. Everything is stored in a database that follows a computer sciency term called a "single source of truth"t
+This means that the GP's and Hospitals work togthor, building up the patients data.
 
 ## Slide 5 - "AI 1st" Solution - Reduce Overload Increase Speed
+{AI for schechuling}
+- Seamless scheduling, as present from Alex.
+
+{AI for language}
+GP nurse and doctor focuses purely on helping the patient
+
 
 ## Slide 6 - 5 Year Plan
 
