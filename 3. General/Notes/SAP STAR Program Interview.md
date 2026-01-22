@@ -11,7 +11,6 @@
 **Fragmented**
 - Patient data "silo-ed" across many hospitals and GP's
   - Need to explain situation to every hospital and GP
-- 
 
 ## Opposition (What I will be asked)
 - AI risks
