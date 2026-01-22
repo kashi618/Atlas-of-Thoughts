@@ -47,12 +47,10 @@ But I have talked:
 
 And there has always been a few problems that have come up
 
-{**Silo-ed and fragmented patient information**}
+{**Fragmented patient information across systems**}
+From each point in a patients journey, you often
 
-For each point of the  
-
-
-{**2% arn't fluent in English and or Irish**}
+{**Language barrier**}
 According to the 2022 census, over 2% of the population in Ireland spoke poor English. This is not counting those who speak irish.
 It seems small, but that is over 20,000 per 1 million. Around 100k in Ireland.
 
@@ -60,26 +58,16 @@ It seems small, but that is over 20,000 per 1 million. Around 100k in Ireland.
 The last issue I have encountered, is that GP's often have very strict opening hours.
 The local GP near me, opens Mon-Fri, (8:30-11:30, 3:30-5:30) 5 hours total.
 
-## Slide 3 - Define What SAP Can Do
-This is where SAP comes in.
-But first, I want to explain what these two terms mean.
+## Slide 3 - "Suite 1st" Solution
+{**Define Suite 1st**}
 
-{**define suite 1st**}
-SO, "suite first" 
-
-
-{**define AI 1st**}
-
-
-
-## Slide 4 - "Suite 1st" Solution - Connected Care
-{Suite 1st for connected care}
+{**Suite 1st for connected care**}
 Doctors, nurses, specialized consultants won't need to be brought up to speed by the patient. Everything is stored in a database that follows a computer sciency term called a "single source of truth"
 This means that the GP's and Hospitals work togthor, building up the patients history and data.
 
 
 
-## Slide 5 - "AI 1st" Solution - Reduce Overload Increase Speed
+## Slide 4 - "AI 1st" Solution
 {AI for schechuling}
 - Seamless scheduling, as present from Alex.
 
@@ -87,7 +75,9 @@ This means that the GP's and Hospitals work togthor, building up the patients hi
 GP nurse and doctor focuses purely on helping the patient
 
 
-## Slide 6 - 5 Year Plan
+## Slide 5 - Year 1-3 Implementation
+
+## Slide 6 - Year 4-5 Deployment
 
 ## Slide 7 - Common Issues
 {**Loss of admin jobs?**}
