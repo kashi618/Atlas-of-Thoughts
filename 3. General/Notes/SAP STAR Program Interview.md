@@ -1,20 +1,42 @@
-## Presentation
-### Slide 1
+# Presentation
+## Things to look up
+- SAP S/4HANA
+- 
+## Proposition (My argument)
+- One source of truth
+- Proactive (learns)
+- Language/translation
+
+### Issues (Problems which can be solved)
+**Fragmented**
+- Patient data "siloed" across many hospitals and GP's
+  - Need to explain situation to every hospital and GP
+- 
+
+## Opposition (What I will be asked)
+- AI risks
+- Data privacy risks
+- Why SAP?
+- Server crash/downtime?
+  - WannaCry 2.0? (2017)
+
+# Script
+## Slide 1
 
 
-### Slide 2
+## Slide 2
 
-### Slide 3
+## Slide 3
 
-### Slide 4
+## Slide 4
 
-### Slide 5
+## Slide 5
 
-### Slide 6
+## Slide 6
 
-### Slide 7
+## Slide 7
 
-## Interview
+# Interview
 Hi, I'm Neil Jiang.
 - 18
 - Computer Science (TU856)

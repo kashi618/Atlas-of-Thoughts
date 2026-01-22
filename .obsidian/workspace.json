@@ -8,26 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1. Home Page/Home.canvas",
-                "viewState": {
-                  "x": -620,
-                  "y": 110,
-                  "zoom": -2.0919550504079396
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "a27db28da6a008a5",
+            "id": "28f347d63d50fe4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,8 +31,7 @@
               "title": "SAP STAR Program Interview"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 398.5,
+    "collapsed": true
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -248,7 +229,7 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "a27db28da6a008a5",
+  "active": "28f347d63d50fe4b",
   "lastOpenFiles": [
     "1. Home Page/Home.canvas",
     "3. General/Notes/SAP STAR Program Interview.md",
