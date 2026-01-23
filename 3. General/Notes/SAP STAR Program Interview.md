@@ -170,9 +170,13 @@ I don't deal with many customers, as the front office people take them.
 - If i was successful, are there any advice you would give.
   Considering
 - You have hired many STAR interns. Are there any that caught your eye? Whether its their technical skills, projects, or personality traitas
+- Im a big advocate for the transparancy and philosophy behind Linux' design. I love open source software, so i was wondering how much exposure interns get with linux based systems, and cloud infrastyructure
+- Concering the mentorship
 
+**S/4HANA features a method called automated patching, where the system watches itself to identity threats and deploy safety patches and hotfixes.**
 
-  
+work in AI
+
 **Git usage in website and arch**
 **Teamwork**
 **Working under pressure** The more pressure, the more you need to slow down
