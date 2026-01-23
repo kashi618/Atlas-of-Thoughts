@@ -72,9 +72,11 @@ Once the suite/database is in place, we can then use the AI first strategy to bu
 - Even for Mandarin Chinese, the language my mother and I speak, it is very hard to find skilled and qualified interpreter.
 
 ## Slide 5 - Year 1-3 Migrating from Legacy to SAP
-Year 1 will focus on migrating the data from the hospitals and GP into SAP's HANA Cloud network. 
+Year 1 will focus
 
-Year 2-3 will focus on using SAP's Business Technology Platform to connect GP's and hospitals, allowing for a seamless integration of managing patient data between GP's and hospitals. It will also focus on implementing Joule for scheduling appointments.
+Year 2 will focus on migrating the data from the hospitals and GP into SAP's HANA Cloud network. 
+
+Year 3 will focus on using SAP's Business Technology Platform to connect GP's and hospitals, allowing for a seamless integration of managing patient data between GP's and hospitals.
 
 ## Slide 6 - Year 4-5 "AI first"
 Years 4-5 will focus by changing from a reactive, to proactive AI based healthcare system.
@@ -89,14 +91,15 @@ How To fix:
 {**Possible data breach, or virus?**}
 S4/HANA Cloud succeptible to online attacks by bad actors. An example of this is the WANACRY pandemic in 2017. This was a computer virus that essentially shut down windows computers due to a bug. Causes millions of computers to break, including life saving medical equipment
 How To Fix:
-- idk
-
+- S/4HANA Cloud is securely managed centrally by SAP. It provides enterprise-grade encryption, instead of relying on a local GP/hospital.
 
 {**Job Security for administrative/secretary work**}
 My GF works as an admin at a hospital. When I was preparing for this presentation, she was worried about her job being replaced by AI.
 But I believe that this will never be the case. Although Joule will speed up scheduling, there should still be human admins for elderly, or those which are unable to use the software. or if any bugs appear
+How To Fix:
+AI will handles monotonous and repetitive tasks such as scheduling and data entry. This allows human admins to focus on higher value tasks, such as support for elderly patients who aren't tech-savvy, complex emergency cases, and for providing empathy which an AI cannot replicate
 
-
+{**GDPR Patient Privacy Act **}
 
 {**Outro**}
 In the next five years, SAP's Suite 1st and AI 1st approach isn't just about upgrading software. Instead, it is about moving away from fragmented systems. We ensuring that people who are in need of medical care, will not be stopped either by scheduling or language barriers, because the system already understands, supports, and prioritizes their care.
