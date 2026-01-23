@@ -48,14 +48,14 @@ The second issue is language barriers.
 According to the 2022 census in Ireland, over 2% of the population speaks poor English, unable to effectively communicate with doctors. Seemingly small, it translates to over around ~100k people in Ireland.
 
 {**Strict scheduling hours**}
-The last issue I have encountered, is that GP's often have very restrictive opening hours. Many open 6 hours a day, during weekdays only. This means that if you have an emergency out of hours, or during the weekend, you are often left waiting until the next Monday morning just to book an appointment.
+The last issue I have encountered, is that GP's and clinics often have very restrictive opening hours. Many open 6 hours a day, during weekdays only. This means that if you have an emergency out of hours, or during the weekend, you are often left waiting until the next Monday morning just to book an appointment.
 
 {**Outro**}
 Well, how do we fix this. I would like to being with the "suite first" approach
 
 ## Slide 3 - "Suite 1st" Solution
 {**Unified data**}
-A suite 1st approach means moving away from disconnected hospital databases, and instead creating a unified source for a patients medical history. By using SAP's S/4HANA Cloud, we can create a system where GP's, hospitals, and clinics are able to work together instead of apart, creating a "single source of truth".
+A suite 1st approach means moving away from disconnected hospital databases, and creating effectively a unified source for a patients medical history. By using SAP's S/4HANA Cloud, we can create a system where GP's, hospitals, and clinics are able to work together instead of apart, creating a "single source of truth".
 
 {**Interoperability**}
 This means interoperability, where when a GP enters data, it is instantly accessible through the HANA database by the Hospital, and vice verse.
@@ -90,7 +90,7 @@ Year 3 will focus on integration via SAP's Business Technology Platform. GP's an
 Once the system is stable and trusted, we can begin to introduce Joule for our automated scheduling. Joule will allow patients to book appointments 24/7, but also help small clinics to manage during busier times of the year.
 
 {**Year 5**}
-In the final stage, year 5, we can leverage SAP's generative AI to fight the language barrier. By implementing fast, reliable, medical-grade translations, we give non-English speakers a way for to describe their symptoms in their native language, and for doctors to communicate their treatment to them.
+In the final stage, year 5, we can leverage SAP's generative AI to fight the language barrier. By implementing fast, reliable, medical-grade translations, we give non-English speakers a way for them to describe their symptoms in their native language, and for doctors to communicate their treatment to them.
 
 ## Slide 7 - Issues Which May Occur During Deployment
 During the switch over to this new system, a few issues will come up.
@@ -105,14 +105,14 @@ However with S/4HANA Cloud, instead of relying on local IT staff within GP's and
 \*S/4HANA features a method called automated patching, where the system watches itself to identity threats and deploy safety patches and hotfixes.
 
 {**Job Security for administrative/secretary work**}
-The second is job security. My GF actually works as an admin at a hospital, so I was preparing for this presentation, she was worried about her job being replaced.
+The second is job security. My GF actually works as an admin at a hospital, so when I was preparing for this presentation, she was worried about her job being replaced.
 
 However I believe that this is not the case. Instead, Joule will speed up mundane and repetitive tasks such scheduling, freeing up human admins such as herself, to focus on high-value tasks that AI cannot do. Such as providing help for non tech-savvy elderly patients, complex emergency cases, and for proving a sense of empathy that AI just cannot replicate.
 
 {**GDPR Patient Privacy Act**}
 Now, GDPR states you should only collect data for a specific, stated purpose.
-Therefore can implement a purpose-based access system, where it automatically hides patient information depending on who's accessing it. An admin only needs access to your contact information, whilst a doctor will need access to your medical history.
-Also, due to the nature of the cloud database, we can also allow patients to request and delete their data anytime they want.
+Therefore we can implement a purpose-based access system, where it automatically hides patient information depending on who's accessing it. An admin needs only access to your contact information, whilst a doctor will need access to your entire medical history.
+Also, due to the nature of the cloud database, we can also offer the option for patients to request and delete their data anytime they want.
 
 {**Outro**}
 In conclusion, SAP's Suite 1st and AI 1st approach isn't just about upgrading software. Instead, it is about moving away from fragmented systems. 
