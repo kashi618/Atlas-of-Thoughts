@@ -9,7 +9,7 @@
 - Language/translation
 
 ## Funnies
-- I read in the emails, that "Alex" was used to schedule this interview. Just as Alex streamlined my interview, SAP's AI 1st approch can streamline a patient's journey from GP to a doctor or specialized consultant
+- I read in the emails, that "Alex" was used to schedule this interview. Just as Alex streamlined my interview, SAP's AI 1st approach can streamline a patient's journey from GP to a doctor or specialized consultant
 
 ### Issues (Problems which can be solved)
 **Fragmented**
@@ -26,14 +26,14 @@
 # Script
 ## Slide 1 - Introduction & Reason for Hospitality
 {**Introduction**}
-Hi I'm Neil Jiang. I am a student at TUD studying computer science.
+Hi I'm Neil Jiang, and I am a student at TUD studying computer science.
 
 {**Reason for Choice**}
-For this presentation, I chose to focus on the industry of the public healthcare system in Ireland.
+For this presentation, I'm focusing on the irish public healthcare system.
 
-This is because I have first-hand experience navigating the system, as I often accompany my mother to her consultations and appointments, acting as a translator due to her poor English.
+This is because I have first-hand experience navigating its complexities, as I often accompany my mother to her consultations and appointments, acting as a translator due to her poor English.
 
-Through these trips, my mother and I have been met with many points of friction and inefficiencies within the system. 
+Through these trips, my mother and I have been encountered many points of friction and inefficiencies within the system, which I believe that SAP will be able to solve.
 
 ## Slide 2 - Outline Issues met
 {**Outline Issues Met**}
@@ -41,18 +41,17 @@ From my experience going through the process of the initial consultation with th
 
 {**Fragmented patient information across systems**}
 The first issue is patient data silo's. 
-A patients medical history is fragmented, as each GP and Hospital has their own database for storing the information. Hospitals often don't share this, leading to patients needing to repeat their condition multiple times to various people. A patient's history doesn't travel with them.
+Patient medical histories are fragmented. In my experience, every GP and Hospital has their own database for storing a patients information. Records don't travel with the patient. This requires them to repeat their condition multiple times to every GP, hospital, and specialist consultant during their journey. Although referral letters may contain some information, it is often not the full picture.
 
 {**Language barrier**}
-The second issue is language barriers. According to the 2022 census, over 2% of the population in Ireland speaks poor English.
-It seems small, but that is over 20,000 per 1 million. Around 100k in Ireland.
+The second issue is language barriers.
+According to the 2022 census in Ireland, over 2% of the population in speaks poor English. Seemingly small, it translates to over 100k people in Ireland.
 
 {**Scheduling hours are a pain**}
-The last issue I have encountered, is that GP's often have very strict opening hours.
-The local GP near me, opens Mon-Fri, (8:30-11:30, 3:30-5:30) 5 hours total.
+The last issue I have encountered, is that GP's often have very restrictive opening hours. Some open only 6 hours a day, during weekdays. If you have an emergency on the weekend, you are often left waiting until Monday morning just to book an appointment for a alter date.
 
 {**Outro**}
-How do we fix this? Lets start with SAP's "suite first" approach
+Well, how do we fix t Lets start with SAP's "suite first" approach
 
 ## Slide 3 - "Suite 1st" Solution
 {**Suite 1st**}
@@ -95,7 +94,7 @@ How To Fix:
 
 {**Job Security for administrative/secretary work**}
 My GF works as an admin at a hospital. When I was preparing for this presentation, she was worried about her job being replaced by AI.
-But I believe that this will never be the case. Although SJ
+But I believe that this will never be the case. Although Joule will speed up scheduling, there should still be human admins for elderly, or those which are unable to use the software. or if any bugs appear
 
 
 
