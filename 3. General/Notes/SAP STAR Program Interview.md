@@ -29,50 +29,53 @@
 Hi I'm Neil Jiang, and I am a student at TUD studying computer science.
 
 {**Reason for Choice**}
-For this presentation, I'm focusing on the irish public healthcare system.
+I'm presenting on how SAP's suite-first and AI-first approach can be used to improve the Irish public healthcare system over the next 5 years.
 
-This is because I have first-hand experience navigating its complexities, as I often accompany my mother to her consultations and appointments, acting as a translator due to her poor English.
+I chose this topic because I have first-hand experience navigating its complexities, as I often accompany my mother to her consultations and appointments, acting as a translator due to her poor English.
 
-Through these trips, my mother and I have been encountered many points of friction and inefficiencies within the system, which I believe that SAP will be able to solve.
+Through these trips, my mother and I have been encountered many points of friction and inefficiencies within the system, which I believe that SAP will be able to help solve.
 
 ## Slide 2 - Outline Issues met
 {**Outline Issues Met**}
-From my experience going through the process of the initial consultation with the GP, the referral process, or speaking to specialists, three main issues and problems have become evident.
+From my experience going through the process of the initial consultation with the GP, the referral process, then speaking to specialists, three main issues and problems have become evident.
 
 {**Fragmented patient information across systems**}
 The first issue is patient data silo's. 
-Patient medical histories are fragmented. In my experience, every GP and Hospital has their own database for storing a patients information. Records don't travel with the patient. This requires them to repeat their condition multiple times to every GP, hospital, and specialist consultant during their journey. Although referral letters may contain some information, it is often not the full picture.
+Patient medical histories are fragmented. In my experience, every GP and Hospital has their own database for storing a patients information. Records don't travel with them requiring them to repeat their condition multiple times during their journey. Although referral letters may contain some information, it is often not the full picture.
 
 {**Language barrier**}
 The second issue is language barriers.
-According to the 2022 census in Ireland, over 2% of the population in speaks poor English. Seemingly small, it translates to over 100k people in Ireland.
+According to the 2022 census in Ireland, over 2% of the population speaks poor English, unable to effectively communicate with doctors. Seemingly small, it translates to over around ~100k people in Ireland.
 
 {**Scheduling hours are a pain**}
-The last issue I have encountered, is that GP's often have very restrictive opening hours. Some open only 6 hours a day, during weekdays. If you have an emergency on the weekend, you are often left waiting until Monday morning just to book an appointment for a alter date.
+The last issue I have encountered, is that GP's often have very restrictive opening hours. Many open 6 hours a day, during weekdays only. This means that if you have an emergency out of hours, or during the weekend, you are often left waiting until the mext morning, or next Monday morning just to book an appointment.
 
 {**Outro**}
-Well, how do we fix t Lets start with SAP's "suite first" approach
+Well, how do we fix this. I would like to first start with SAP's "suite first" approach
 
 ## Slide 3 - "Suite 1st" Solution
 {**Suite 1st**}
-Essentially, we create a unified source for a patients medical history, by using SAP's S4/HANNA Cloud database. By unifying a patients medical history we create a system where GP's, hospitals, and specialist consultants are able to work together instead of apart, creating a "single source of truth".
+A suite 1st approach means moving away from hundreds of disconnected hospital databases, and instead, create a unified source for a patients medical history. By using SAP's S/4HANNA Cloud database we can create a system where GP's, hospitals, and specialist consultants are able to work together instead of apart, creating a "single source of truth".
 
-This means interoperability, where when a GP enters data, it is instantly accessible securely through SAP's cloud database by a Hospital, and vice verse.
+This means interoperability, where when a GP enters data, it is instantly accessible securely through SAP's cloud database by the Hospital, and vice verse.
 
+In short, a patient's data travels with them.
 
 ## Slide 4 - "AI 1st" Solution
-Once the suite/database is in place, we can then use the AI first strategy to build our core system.
+Once the data is unified, we can then use SAP's Joule as our backbone.
 
-{**AI for scheduling**}
-- Just like how Alex scheduled this interview today, we can use SAP's Joule to manage patient bookings. This means that patients can book appointments 24/7 seamlessly online.
-- There have been times where I urgently needed to schedule an appointment at the GP, but it was the weekend, forcing me to wait until Monday. SAP Joule will eliminate that.
+{**AI Scheduling**}
+- Just like how Alex scheduled this interview today, Joule can be used to manage patient bookings. This means that patients can book appointments online 24/7 seamlessly.
+- SAP Joule will eliminate the need to "wait until the next day"
 
-{**AI for language**}
-- Second, SAP's generative AI can also offer real-time, medical-grade translations for patients like my mother. This allows doctors to focus on treating patients, instead of communication. This is helpful for patients who either cannot afford, or wait for an available interpreter, especially if they speak a rare language.
+{**AI Translations**}
+- For language, SAP's generative AI can offer real-time, medical-grade translations for patients like my mother. 
+- This allows doctors to focus on treating patients, instead of communication. 
+- This is helpful for patients who either cannot afford, or wait for an available interpreter, especially if they speak a rare language.
 - Even for Mandarin Chinese, the language my mother and I speak, it is very hard to find skilled and qualified interpreter.
 
 ## Slide 5 - Year 1-3 Migrating from Legacy to SAP
-Year 1 will focus
+Year 1 will focus on building the foundations. This will include designing and implementing the system architecture, whilst also agreeing on data standards betweem GP's, ho}
 
 Year 2 will focus on migrating the data from the hospitals and GP into SAP's HANA Cloud network. 
 
