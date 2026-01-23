@@ -122,7 +122,6 @@ Thank you for listening, and I hope you found it interesting
 
 
 
-
 # Interview
 Hi, I'm Neil Jiang.
 - 18
@@ -137,3 +136,17 @@ C Memory Management - Garbage Collector
 - Playing with fire
 	- one wrong line of code = death ish
 	  
+## The "Difficult Customer" (Top Bun Experience)
+I don't deal with many customers, as the front office peopel take them. 
+- Often felt pressures when making burgers
+- One time mistake forgot the patty
+- From that day, learned to take a step back when pressured
+- Calm yourself and clear your mind
+- The more pressure there is, the more you need to control yourself
+
+## Someone not pulling weight in group project
+- There have been times
+- Often caused by them not understanding the project, laziness, dont feel welcomed
+- To mitigate, put yourself in their shoes
+- Try to split work up evenly and clearly
+
