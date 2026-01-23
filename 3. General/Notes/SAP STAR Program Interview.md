@@ -32,10 +32,10 @@ Hi I'm Neil Jiang, and I am a student at TUD studying computer science.
 I'm presenting on how SAP's suite-first and AI-first approach can be used to improve the Irish public healthcare system over the next 5 years.
 
 {**Reason for choice**}
-I chose this topic because I have first-hand experience navigating its complexities, as I accompany my mother to her appointments, acting as a translator due to her poor English.
+I chose this topic because I have first-hand experience navigating its complexities. I accompany my mother to her appointments, and act as a translator due to her poor English.
 
 {**Personal story**}
-Over the time, my mother and I have been encountered many points of friction within the system, which I believe that SAP will be able to help solve.
+Over the time, I have been encountered many points of friction within the system, which I believe that SAP will be able to help solve.
 
 ## Slide 2 - Outline Issues met
 {**Data silos**}
@@ -137,7 +137,7 @@ C Memory Management - Garbage Collector
 	- one wrong line of code = death ish
 	  
 ## The "Difficult Customer" (Top Bun Experience)
-I don't deal with many customers, as the front office peopel take them. 
+I don't deal with many customers, as the front office people take them. 
 - Often felt pressures when making burgers
 - One time mistake forgot the patty
 - From that day, learned to take a step back when pressured
@@ -147,6 +147,32 @@ I don't deal with many customers, as the front office peopel take them.
 ## Someone not pulling weight in group project
 - There have been times
 - Often caused by them not understanding the project, laziness, dont feel welcomed
-- To mitigate, put yourself in their shoes
+- To mitigatev, put yourself in their shoes
 - Try to split work up evenly and clearly
 
+## Why TUD?
+- Hands on modules
+- Work placement in 3rd year
+
+## Why Computer Science?
+- I love working with computers
+- Watched alot of computer building videos
+- Built many computers
+- Khan academy coding course
+- Configuring and fixing
+- Learning
+- Vast industry
+
+## Questions for Alan
+- What work does STAR intern typically learn and do
+- How is the work/study balance
+- What kind of projects typically worked
+- If i was successful, are there any advice you would give.
+  Considering
+- You have hired many STAR interns. Are there any that caught your eye? Whether its their technical skills, projects, or personality traitas
+
+
+  
+**Git usage in website and arch**
+**Teamwork**
+**Working under pressure** The more pressure, the more you need to slow down
