@@ -1,5 +1,5 @@
 ## Module Information
-[[Module Information]]
+[[2. University/Year 2/S1 Object Oriented Programming/Notes/Module Information]]
 
 ## Java
 [[Java]]

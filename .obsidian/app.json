@@ -9,5 +9,6 @@
   "attachmentFolderPath": "./",
   "spellcheck": true,
   "defaultViewMode": "preview",
-  "livePreview": false
+  "livePreview": false,
+  "promptDelete": false
 }
