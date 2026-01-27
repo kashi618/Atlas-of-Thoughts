@@ -22,3 +22,4 @@ However, if the parent process dies, then it becomes an orphan process, as it ge
 ## 
 # See Also
 [[$ Operating Systems 2]]
+[[Processes]]

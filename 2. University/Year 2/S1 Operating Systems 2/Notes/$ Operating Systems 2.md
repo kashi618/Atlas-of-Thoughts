@@ -10,7 +10,7 @@
 - [[Linked Lists]]
 - [[Linked Lists - Creating Nodes - C]]
 - [[Linked Lists - Inserting Nodes - C]]
-- [[Linked Lists - Deleting Nodes - C]] !!! Empty
+- [[Linked Lists - Deleting Nodes - C]]
 
 **Stacks**
 - [[Stacks - LIFO]]
@@ -23,36 +23,43 @@
 - [[Queue - dequeue() - C]]
 
 ## Processes and Threads
-- ! [[Processes - OS1]] **OUTDATED**
-<br>
 - [[Programs Processes Threads Overview - OS2]]
-<br>
-- [[Processes]]
-- [[Process Space]]
-- [[Process Control Block - PCB]]
-<br>
-- [[processes - fork()]]
-- [[Processes - wait()]]
-- [[processes - exec()]]
-- [[Zombie and Orphan Processes]]
-<br>
-- [[Threads]]
 
-- [[Thread Control Block - TCB]]
-<br>
-- [[Compiling Threads - C]]
-- [[Creating Threads - C]]
-- [[Command Line Arguments in C - C]]
+**Processes**
+- [[Processes]]
+	- [[Process Control Block - PCB]]
+	- [[Process Space]]
+	<br>
+	- [[Processes - fork() - Creating Processes]]
+	- [[Processes - wait()]]
+	- [[Processes - exec()]]
+	- [[Zombie and Orphan Processes]]
+
+**Threads**
+- [[Threads]]
+	- [[Single and Multi-Threaded Processes]]
+	- [[Thread Control Block - TCB]]
+	<br>
+	- [[Threads - Creating Threads]]
+	- [[Threads - Joining Threads]] Essentially wait() for threads
+	- [[Threads - Compiling Threads - C]]
+
+**Misc**
+- [[Command Line Arguments - argc & argv]]
+- [[Processes - OS1]] **OUTDATED**
+
 ### Inter-Process Synchronization and Thread Scheduling
 - [[Inter-Processes vs Threads]]
 - [[Jobs]]
 - [[OS Schedulers]]
 - [[Thread and Process Scheduling & Synchronization]]
-<br>
+
+**Scheduling Algorithms**
 - [[Test and Set]]
 - [[Wait and Signal]]
 - [[Semaphores]]
 
+**Misc**
 - [[Deadlock]]
 
 ## Other

@@ -23,7 +23,7 @@ struct structureTag {
 - **NOTE:** Don't forget the semicolon!
 - **NOTE:** Assigning strings don't work. Use strcpy()
 
-**2) Declare Structure Variables**
+**2.1) Declare Structure Variables**
 ```c showlinenumbers
 int main(void) {
 	// Create 2 structure variables 
@@ -31,12 +31,30 @@ int main(void) {
 }
 ```
 
-**3) Changing Value of Structure Variables**
+**2.2) Declare Member Value During Initialization**
+```c
+struct student {
+	int age;
+	int studentID;
+	int year;
+}
+
+void main(void) {
+	struct student s1 = {
+		.age = 18,
+		.studentID = 123456,
+		.year = 2
+	};
+}
+```
+
+**3.1) Changing Value of Structure Variables**
 ```c showlinenumbers 
 member1.variableName = value;
 ```
 - The name of the member comes first!
-  
+
+
 **FULL Example**
 ```c showlinenumbers
 #include <stdio.h>

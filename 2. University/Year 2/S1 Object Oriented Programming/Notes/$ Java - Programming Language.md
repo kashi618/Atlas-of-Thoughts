@@ -30,9 +30,9 @@
 [[Getters & Setters, And Gatekeeping - Java]]
 
 ### Inheritance
-[[Inheritance - extends - Java]]
-[[Implementing Inheritence - Extends - Java]]
-[[!Super]]
+[[Inheritance - Java]]
+[[extends - Java]]
+[[Super]]
 [[!@Override]]
 
 ### !Polymorphism
@@ -42,7 +42,7 @@
 
 - [[??Object() Class - Java]]
 - [[??Extends - Java]] Could merge into inheritance. Maybe use inheritance for theory, and this for syntax
-- [[??Super - Java]]
+- [[Super]]
 
 [[??Polymorphism - Java]]
 
@@ -78,4 +78,6 @@
 [[Syntax and Semantics]]
 [[Java Pitfalls]]
 # See Also
-[[$ Java - Programming Language]]
+[[$ Java - Programming Language]]i
+
+[[CMPU 2016  2024-2025]]

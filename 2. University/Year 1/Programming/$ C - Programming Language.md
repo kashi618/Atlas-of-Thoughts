@@ -35,6 +35,7 @@ aliases: []
 	- [[Incrementing & Decrementing - C]]
 	- [[Operator Precedence - C]]
 - [[Logical Operators - C]]
+- [[Ternary Operators - C]]
 
 **Conditional Statements and Loops**
 - [[If Statements- C]]
@@ -79,11 +80,16 @@ aliases: []
 - [[Files - File Modes - C]]
 - [[Files - Reading and Writing to Files - C]]
 
+**Process Specific**
+[[Processes - fork() - Creating Processes]]
+[[Processes - wait()]]
+[[Processes - exec()]]
+
 **Other**
 - [[Void Pointers - C]]
-- [[Compiling Threads - C]]
-- [[Creating Threads - C]]
-- [[Command Line Arguments in C - C]]
+- [[Threads - Compiling Threads - C]]
+- [[Threads - Creating Threads]]
+- [[Command Line Arguments - argc & argv]]
 
 **Programming Pitfalls**
 [[$UNFINISHED Programming Pitfalls - C]]
