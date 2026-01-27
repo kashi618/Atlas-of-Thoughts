@@ -17,8 +17,8 @@
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
                   "x": -380,
-                  "y": -102.5220657703483,
-                  "zoom": -0.7234823648025844
+                  "y": 110,
+                  "zoom": -0.663734901764068
                 }
               },
               "pinned": true,
@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "59bc8faa89c862d6",
+            "id": "990914298215ce8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S2 Legal and Professional Issues/Notes/$ Legal and Professional Issues.md",
+                "file": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,31 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Legal and Professional Issues"
-            }
-          },
-          {
-            "id": "98312b902c180dc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Year 2/S2 Legal and Professional Issues/Notes/Common Law.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Common Law"
+              "title": "$ Data Communications"
             }
           }
         ],
@@ -161,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -273,11 +248,17 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "59bc8faa89c862d6",
+  "active": "990914298215ce8c",
   "lastOpenFiles": [
-    "2. University/Year 2/S2 Legal and Professional Issues/Notes/Common Law.md",
-    "2. University/Year 2/S2 Legal and Professional Issues/Notes/$ Legal and Professional Issues.md",
     "1. Home Page/Home.canvas",
+    "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md",
+    "2. University/Year 2/S2 Data Communications/Data Communications - Course Information.md",
+    "2. University/Year 2/Results - Semester 1.md",
+    "2. University/Year 2/Results - Semester 2.md",
+    "6. Templates/DC - Data Communications.md",
+    "2. University/Year 2/S2 Data Communications/Notes",
+    "2. University/Year 2/S2 Legal and Professional Issues/Notes/$ Legal and Professional Issues.md",
+    "2. University/Year 2/S2 Legal and Professional Issues/Notes/Common Law.md",
     "2. University/Year 2/S2 Gen-AI/$ Gen-AI.md",
     "6. Templates/LAPI.md",
     "conflict-files-obsidian-git.md",
@@ -304,12 +285,6 @@
     "2. University/Year 2/S1 Software Engineering 1/Notes/Agile Development.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Adaptive and Predictive Methodologies to Development.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Joining Threads.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Creating Threads.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Compiling Threads - C.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Single and Multi-Threaded Processes.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - fork() - Creating Processes.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Processes - exec().md",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/extends - Java.md",
     "2. University/Year 2/S1 Object Oriented Programming/Notes/Pasted image 20260116102052.png",
     "2. University/Year 2/S2 Gen-AI/Notes",
     "2. University/Year 2/S2 Gen-AI",
@@ -318,7 +293,6 @@
     "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2024-2025.pdf",
     "2. University/Year 2/S1 Web Development 2/Notes/Pasted image 20251002123333.png",
     "2. University/Year 2/S1 Web Development 2/Notes",
-    "2. University/Year 2/S1 Software Engineering 1/Notes",
     "2. University/Year 2/S1 Operating Systems 2/Notes/fork() with wait().png",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Pasted image 20251221153659.png",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Pasted image 20251221151612.png",

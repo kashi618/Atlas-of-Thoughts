@@ -17,3 +17,5 @@
 - Calculate how much study
 - "! [INFO]"
 - Mermaid diagrams | online mermaid editor
+- MOC outside of notes
+- Wisdom tooth extraction Plan
