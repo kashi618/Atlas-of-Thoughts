@@ -18,7 +18,7 @@
                 "viewState": {
                   "x": -380,
                   "y": 110,
-                  "zoom": -0.663734901764068
+                  "zoom": -1.8483168300601729
                 }
               },
               "pinned": true,
@@ -27,13 +27,13 @@
             }
           },
           {
-            "id": "990914298215ce8c",
+            "id": "b5c0ccaf9305158b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md",
-                "mode": "source",
+                "file": "2. University/Year 2/S2 Data Communications/Notes/Calculating Sine Waves.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -47,16 +47,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Data Communications"
+              "title": "Calculating Sine Waves"
             }
           },
           {
-            "id": "efa9764768261262",
+            "id": "491a49a733d1761a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S2 Data Communications/Notes/Topics.md",
+                "file": "2. University/Year 2/S2 Data Communications/Notes/Calculating Sine Waves.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -71,7 +71,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Topics"
+              "title": "Calculating Sine Waves"
+            }
+          },
+          {
+            "id": "b500cee1e7019a0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Year 2/S2 Data Communications/Notes/Signal Characteristics.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Signal Characteristics"
+            }
+          },
+          {
+            "id": "68e650fbdd318111",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Year 2/S2 Data Communications/Notes/Transmission System.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Transmission System"
             }
           }
         ],
@@ -273,12 +321,21 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "990914298215ce8c",
+  "active": "b5c0ccaf9305158b",
   "lastOpenFiles": [
-    "2. University/Year 2/S2 Data Communications/Notes/Topics.md",
     "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md",
-    "1. Home Page/Home.canvas",
+    "2. University/Year 2/S2 Data Communications/Notes/Calculating Sine Waves.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Signal Characteristics.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Periodic Signal - Continuous and Discrete.png",
+    "2. University/Year 2/S2 Data Communications/Notes/Discrete Signal.png",
+    "2. University/Year 2/S2 Data Communications/Notes/Pasted image 20260127172929.png",
+    "2. University/Year 2/S2 Data Communications/Notes/Continuous Signal.png",
+    "2. University/Year 2/S2 Data Communications/Notes/Transmission System.md",
     "2. University/Year 2/S2 Data Communications/Data Communications - Course Information.md",
+    "1. Home Page/Home.canvas",
+    "2. University/Year 2/S2 Data Communications/Notes/Transmission Signal.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Data Transmission.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Topics.md",
     "2. University/Year 2/Results - Semester 1.md",
     "2. University/Year 2/Results - Semester 2.md",
     "6. Templates/DC - Data Communications.md",
@@ -306,11 +363,6 @@
     "2. University/Year 2/S1 Software Engineering 1/Notes/Ink/Drawing/2026.1.13 - 0.50am.drawing",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Ink/Drawing",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Ink",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Formal Specification.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Evolutionary Development.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Agile Development.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Adaptive and Predictive Methodologies to Development.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Joining Threads.md",
     "2. University/Year 2/S1 Object Oriented Programming/Notes/Pasted image 20260116102052.png",
     "2. University/Year 2/S2 Gen-AI/Notes",
     "2. University/Year 2/S2 Gen-AI",
@@ -318,10 +370,6 @@
     "2. University/Year 2/S2 Legal and Professional Issues/Notes",
     "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2024-2025.pdf",
     "2. University/Year 2/S1 Web Development 2/Notes/Pasted image 20251002123333.png",
-    "2. University/Year 2/S1 Web Development 2/Notes",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/fork() with wait().png",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Pasted image 20251221153659.png",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Pasted image 20251221151612.png",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Pasted image 20251219190222.png"
+    "2. University/Year 2/S1 Web Development 2/Notes"
   ]
 }

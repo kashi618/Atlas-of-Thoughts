@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Calculating Sine Waves",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Calculating Sine Waves.md"
+    },
+    {
       "basename": "$ Data Communications",
       "path": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md"
+    },
+    {
+      "basename": "Signal Characteristics",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Signal Characteristics.md"
+    },
+    {
+      "basename": "Transmission System",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Transmission System.md"
+    },
+    {
+      "basename": "Data Communications - Course Information",
+      "path": "2. University/Year 2/S2 Data Communications/Data Communications - Course Information.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Transmission Signal",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Transmission Signal.md"
+    },
+    {
+      "basename": "Data Transmission",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Data Transmission.md"
     },
     {
       "basename": "Topics",
@@ -11,14 +39,6 @@
     {
       "basename": "To Do",
       "path": "1. Home Page/To Do.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
-    },
-    {
-      "basename": "Data Communications - Course Information",
-      "path": "2. University/Year 2/S2 Data Communications/Data Communications - Course Information.md"
     },
     {
       "basename": "Results - Semester 1",
@@ -179,22 +199,6 @@
     {
       "basename": "GameDev ToDo List",
       "path": "3. General/Lists/GameDev ToDo List.md"
-    },
-    {
-      "basename": "Games to Play",
-      "path": "3. General/Lists/Games to Play.md"
-    },
-    {
-      "basename": "Guitar Wishlist",
-      "path": "3. General/Lists/Guitar Wishlist.md"
-    },
-    {
-      "basename": "Philosophy to Learn",
-      "path": "3. General/Lists/Philosophy to Learn.md"
-    },
-    {
-      "basename": "Monster Can Flavours and Tierlist",
-      "path": "3. General/Lists/Monster Can Flavours and Tierlist.md"
     }
   ],
   "omittedPaths": [],
