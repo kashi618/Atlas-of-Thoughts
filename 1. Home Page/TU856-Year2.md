@@ -1,1 +1,2 @@
-[[6]]
+[[$ Legal and Professional Issues]]
+[[$ Gen-AI]]
