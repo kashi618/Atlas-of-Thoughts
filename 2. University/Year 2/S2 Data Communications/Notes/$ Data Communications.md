@@ -8,4 +8,5 @@
 	- [[Transmission System]]
 	- [[Signal Characteristics]]
 
-[[Calculating Sine Waves]]
+[[Sine Wave Equations]]
+[[Fourier Analysis]]

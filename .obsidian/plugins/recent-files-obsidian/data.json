@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Calculating Sine Waves",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Calculating Sine Waves.md"
+      "basename": "Sine Wave Equations",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Sine Wave Equations.md"
+    },
+    {
+      "basename": "Fourier Analysis",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Fourier Analysis.md"
     },
     {
       "basename": "$ Data Communications",
       "path": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md"
     },
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Example Sine Wave Functions",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Example Sine Wave Functions.png"
+    },
+    {
+      "basename": "Transmission Signal",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Transmission Signal.md"
+    },
+    {
       "basename": "Signal Characteristics",
       "path": "2. University/Year 2/S2 Data Communications/Notes/Signal Characteristics.md"
+    },
+    {
+      "basename": "Data Transmission",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Data Transmission.md"
     },
     {
       "basename": "Transmission System",
@@ -19,18 +39,6 @@
     {
       "basename": "Data Communications - Course Information",
       "path": "2. University/Year 2/S2 Data Communications/Data Communications - Course Information.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
-    },
-    {
-      "basename": "Transmission Signal",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Transmission Signal.md"
-    },
-    {
-      "basename": "Data Transmission",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Data Transmission.md"
     },
     {
       "basename": "Topics",
@@ -191,14 +199,6 @@
     {
       "basename": "Horror Games",
       "path": "3. General/Ideas/Horror Games.md"
-    },
-    {
-      "basename": "Comp Sci to Learn",
-      "path": "3. General/Lists/Comp Sci to Learn.md"
-    },
-    {
-      "basename": "GameDev ToDo List",
-      "path": "3. General/Lists/GameDev ToDo List.md"
     }
   ],
   "omittedPaths": [],
