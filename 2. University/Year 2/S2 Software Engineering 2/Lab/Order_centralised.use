@@ -54,7 +54,7 @@ class Order
         insert (lineItem, p) into HasProduct                       
     end
     
-	calculatePrice() : Real
+	  calculatePrice() : Real
     begin
         declare item:OrderLine, upr:Real, pr:Real, q:Integer, p:Product;
         
@@ -90,6 +90,13 @@ class OrderLine
     price : Real  init : 0
     quantity : Integer
   operations
+    getPrice() : Real
+    begin
+      result := self.price
+    end
+
+    processOrderLine(q:Integer, p:Product)
+
     getQuantity() : Integer
     begin
         result := self.quantity
@@ -109,7 +116,7 @@ class Product
     stockLevel : Integer init : 8
     
   operations
-    getUnitPrice() : Real
+    getPrice() : Real
     begin
         result := self.price
     end
