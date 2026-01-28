@@ -9,6 +9,10 @@
       "path": "1. Home Page/Home.canvas"
     },
     {
+      "basename": "To Do",
+      "path": "1. Home Page/To Do.md"
+    },
+    {
       "basename": "$ Data Communications",
       "path": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "Topics",
       "path": "2. University/Year 2/S2 Data Communications/Notes/Topics.md"
-    },
-    {
-      "basename": "To Do",
-      "path": "1. Home Page/To Do.md"
     },
     {
       "basename": "Results - Semester 1",

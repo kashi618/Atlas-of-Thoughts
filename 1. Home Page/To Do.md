@@ -19,3 +19,4 @@
 - Mermaid diagrams | online mermaid editor
 - MOC outside of notes
 - Wisdom tooth extraction Plan
+- if many peopel access one file on internet, they need to manually download the file each person. Mayb ecreate system where, using SHA256 encryption, only one person neds to download,and then it can be shared betwee nother users
