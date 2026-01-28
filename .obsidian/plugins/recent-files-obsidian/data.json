@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Sine Wave Equations",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Sine Wave Equations.md"
+      "basename": "$ Software Engineering 2",
+      "path": "2. University/Year 2/S2 Software Engineering 2/Notes/$ Software Engineering 2.md"
     },
     {
-      "basename": "Fourier Analysis",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Fourier Analysis.md"
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "$ Data Communications",
       "path": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md"
     },
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
+      "basename": "Signaling Concepts",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Signaling Concepts.md"
+    },
+    {
+      "basename": "SE2",
+      "path": "6. Templates/SE2.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "2. University/Year 2/S2 Software Engineering 2/Untitled.md"
+    },
+    {
+      "basename": "Fourier Analysis",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Fourier Analysis.md"
+    },
+    {
+      "basename": "Sine Wave Equations",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Sine Wave Equations.md"
     },
     {
       "basename": "Example Sine Wave Functions",
@@ -183,22 +199,6 @@
     {
       "basename": "Tossi Stuff",
       "path": "3. General/Notes/Tossi Stuff.md"
-    },
-    {
-      "basename": "Project ideas",
-      "path": "3. General/Ideas/Project ideas.md"
-    },
-    {
-      "basename": "Projects",
-      "path": "3. General/Ideas/Projects.md"
-    },
-    {
-      "basename": "Is Knowledge Finite?",
-      "path": "3. General/Ideas/Is Knowledge Finite?.md"
-    },
-    {
-      "basename": "Horror Games",
-      "path": "3. General/Ideas/Horror Games.md"
     }
   ],
   "omittedPaths": [],

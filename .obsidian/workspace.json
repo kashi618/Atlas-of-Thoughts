@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "5f14aae61aba7f42",
+            "id": "2a8fd938e20c7800",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md",
+                "file": "2. University/Year 2/S2 Software Engineering 2/Notes/$ Software Engineering 2.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,16 +47,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Data Communications"
+              "title": "$ Software Engineering 2"
             }
           },
           {
-            "id": "fb8d93424c5b42e9",
+            "id": "3ec92d6f46388179",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S2 Data Communications/Notes/Fourier Analysis.md",
+                "file": "2. University/Year 2/S2 Data Communications/Notes/Signaling Concepts.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -71,35 +71,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fourier Analysis"
-            }
-          },
-          {
-            "id": "b5c0ccaf9305158b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Year 2/S2 Data Communications/Notes/Sine Wave Equations.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sine Wave Equations"
+              "title": "Signaling Concepts"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -297,12 +272,17 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "b5c0ccaf9305158b",
+  "active": "2a8fd938e20c7800",
   "lastOpenFiles": [
-    "2. University/Year 2/S2 Data Communications/Notes/Fourier Analysis.md",
-    "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md",
-    "2. University/Year 2/S2 Data Communications/Notes/Sine Wave Equations.md",
     "1. Home Page/Home.canvas",
+    "2. University/Year 2/S2 Software Engineering 2/Notes/$ Software Engineering 2.md",
+    "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Signaling Concepts.md",
+    "6. Templates/SE2.md",
+    "2. University/Year 2/S2 Software Engineering 2/Untitled.md",
+    "2. University/Year 2/S2 Software Engineering 2/Notes",
+    "2. University/Year 2/S2 Data Communications/Notes/Fourier Analysis.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Sine Wave Equations.md",
     "2. University/Year 2/S2 Data Communications/Notes/Example Sine Wave Functions.png",
     "2. University/Year 2/S2 Data Communications/Notes/Other Sine Wave Functions.png",
     "2. University/Year 2/S2 Data Communications/Notes/Transmission Signal.md",
@@ -329,11 +309,6 @@
     "2. University/Year 2/S1 Web Development 2/Notes/Web Server Criteria.md",
     "2. University/Year 2/S1 Web Development 2/Notes/CMPU 2022  2024-2025.md",
     "2. University/Year 2/S1 Web Development 2/Notes/CMPU 2022  2023-2024.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Waterfall Model.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Realization.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Diagrams and Descriptions.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Throwaway (rapid) Prototyping.md",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Requirements Engineering.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005112.png",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005038.png",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005032.png",
@@ -345,7 +320,6 @@
     "2. University/Year 2/S2 Gen-AI",
     "S2 GEN-AI",
     "2. University/Year 2/S2 Legal and Professional Issues/Notes",
-    "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2024-2025.pdf",
-    "2. University/Year 2/S1 Web Development 2/Notes"
+    "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2024-2025.pdf"
   ]
 }
