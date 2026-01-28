@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Testing Strategies",
+      "path": "2. University/Year 2/S2 Software Engineering 2/Notes/Testing Strategies.md"
+    },
+    {
       "basename": "$ Software Engineering 2",
       "path": "2. University/Year 2/S2 Software Engineering 2/Notes/$ Software Engineering 2.md"
+    },
+    {
+      "basename": "CMPU 2020 2024-2025",
+      "path": "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU 2020 2024-2025.pdf"
+    },
+    {
+      "basename": "Signaling Concepts",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Signaling Concepts.md"
     },
     {
       "basename": "Home",
@@ -15,10 +27,6 @@
     {
       "basename": "$ Data Communications",
       "path": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md"
-    },
-    {
-      "basename": "Signaling Concepts",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Signaling Concepts.md"
     },
     {
       "basename": "SE2",
@@ -191,14 +199,6 @@
     {
       "basename": "Archlinux - Network Manager - eduroam",
       "path": "3. General/Archlinux/Archlinux - Network Manager - eduroam.md"
-    },
-    {
-      "basename": "Archlinux - Rice",
-      "path": "3. General/Archlinux/Archlinux - Rice.md"
-    },
-    {
-      "basename": "Tossi Stuff",
-      "path": "3. General/Notes/Tossi Stuff.md"
     }
   ],
   "omittedPaths": [],

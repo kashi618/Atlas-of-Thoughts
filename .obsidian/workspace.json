@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S2 Software Engineering 2/Notes/$ Software Engineering 2.md",
+                "file": "2. University/Year 2/S2 Software Engineering 2/Notes/Testing Strategies.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,7 +47,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "$ Software Engineering 2"
+              "title": "Testing Strategies"
+            }
+          },
+          {
+            "id": "db356d8ee8969640",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU 2020 2024-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CMPU 2020 2024-2025"
             }
           },
           {
@@ -161,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -274,21 +287,22 @@
   },
   "active": "2a8fd938e20c7800",
   "lastOpenFiles": [
-    "2. University/Year 2/S2 Human Computer Interaction/CMPU 2008.pdf",
-    "2. University/Year 2/S2 Data Communications/Exam Papers/CMPU 2005 2018-2019.pdf",
-    "2. University/Year 2/S2 Data Communications/Exam Papers/CMPU2005.pdf",
-    "2. University/Year 2/S2 Data Communications/Exam Papers/CMPU 2005 2023-2024.pdf",
-    "2. University/Year 2/S2 Data Communications/Exam Papers/CMPU 2005.pdf",
-    "2. University/Year 2/S2 Data Communications/Exam Papers/CMPU 2005 2024-2025.pdf",
-    "2. University/Year 2/S2 Data Communications/Exam Papers/CMPU 2005 2022-2023.pdf",
-    "2. University/Year 2/S2 Data Communications/Exam Papers",
-    "2. University/Year 2/S2 Data Communications/Exam Paper",
-    "2. University/Year 2/S2 Data Communications/CMPU 2005.pdf",
-    "2. University/Year 2/S2 Algorithms & Data Structures/Exam Papers/CMPU 2001 2018-2019.pdf",
-    "1. Home Page/Home.canvas",
+    "2. University/Year 2/S2 Software Engineering 2/Notes/Testing Strategies.png",
     "2. University/Year 2/S2 Software Engineering 2/Notes/$ Software Engineering 2.md",
-    "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md",
+    "2. University/Year 2/S2 Software Engineering 2/Notes/Testing Strategies.md",
+    "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU 2020 2024-2025.pdf",
     "2. University/Year 2/S2 Data Communications/Notes/Signaling Concepts.md",
+    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2023-2024.pdf",
+    "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017.pdf",
+    "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU 2020 2021-2022.pdf",
+    "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU 2020 2018-2019.pdf",
+    "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU2020.pdf",
+    "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU 2020 2021-2022 .pdf",
+    "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU2020 - Soft Eng 2 Exam Sum 2022 TU856-2_R_Deirdre Lawless.pdf",
+    "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU 2020.pdf",
+    "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU 2020 2023-2024.pdf",
+    "1. Home Page/Home.canvas",
+    "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md",
     "6. Templates/SE2.md",
     "2. University/Year 2/S2 Software Engineering 2/Untitled.md",
     "2. University/Year 2/S2 Data Communications/Notes/Fourier Analysis.md",
@@ -317,7 +331,6 @@
     "3. General/Notes/SAP STAR Program Interview.md",
     "2. University/Year 2/S1 Web Development 2/Notes/Web Server Criteria.md",
     "2. University/Year 2/S1 Web Development 2/Notes/CMPU 2022  2024-2025.md",
-    "2. University/Year 2/S1 Web Development 2/Notes/CMPU 2022  2023-2024.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005112.png",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005038.png",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005032.png",
