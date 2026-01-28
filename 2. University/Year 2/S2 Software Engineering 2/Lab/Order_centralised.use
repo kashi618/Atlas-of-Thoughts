@@ -1,0 +1,137 @@
+-- RL's
+-- Based on Fowler's UML Distilled chapter 3 example
+
+model CustomerOrders
+
+class Customer
+  attributes
+    name : String init : 'Jeff Bezos'
+  operations
+    getCreditRating() : String = 'poor'
+end
+
+class CorporateCustomer < Customer
+  attributes
+    contactName : String
+	creditRating : String
+	creditLimit : Integer
+  operations
+    getCreditRating() : String
+    begin
+        result:= self.creditRating
+    end 
+    
+end
+
+class PersonalCustomer < Customer
+  attributes
+    creditCarNum : String
+  operations
+    
+end
+
+
+class Order
+  attributes
+    isPrepaid : Boolean init : false
+    number : String
+    price : Real  init : 0
+  operations
+    addLineItem( quantity : Integer, p : Product)
+    begin
+    -- some of the following actions could be given to OrderLine processOrderLine() 
+    -- and Product upadateStock() operations to do instead of this operation doing all
+    -- which weakens cohesion and greatly increases coupling between the 3 classes.
+    
+        declare lineItem : OrderLine;
+        lineItem := new OrderLine;
+        insert(self,lineItem) into Contains;               
+        
+        -- centralised control from here on, not very OO in spirit
+        -- move the following 3 actions to other methods
+        lineItem.quantity := quantity;
+        p.stockLevel := p.stockLevel - quantity;
+        insert (lineItem, p) into HasProduct                       
+    end
+    
+	calculatePrice() : Real
+    begin
+        declare item:OrderLine, upr:Real, pr:Real, q:Integer, p:Product;
+        
+        self.price := 0;
+        for item in self.lineItems do
+            -- even more centralised control here as in Fowler chap 4 example
+            -- better to get Orderline getPrice() and Roduct getPrice() do some of the work
+            q := item.getQuantity();  -- treating Orderline object item as a dumb data holder
+            p := item.getProduct();   -- treating Product object p as a dumb data holder too
+            upr := p.getUnitPrice();
+            pr := self.calculateBasePrice(q, upr);
+            
+            self.price := self.price + pr                               
+        end;
+        result:= self.price                   
+    end
+    
+    -- the following method doesn't really belong in Order class
+    calculateBasePrice(q : Integer, unitPrice : Real) : Real
+    begin        
+        if q >= 3 then
+                result := q * unitPrice * 0.9   -- 10% off
+            else
+                result := q * unitPrice
+        end        
+    end
+    
+    
+end
+                                                              
+class OrderLine
+  attributes
+    price : Real  init : 0
+    quantity : Integer
+  operations
+    getQuantity() : Integer
+    begin
+        result := self.quantity
+    end
+    
+    getProduct() : Product
+    begin
+        result := self.product
+    end
+    
+end
+
+class Product
+  attributes
+    name : String
+	price : Real
+    stockLevel : Integer init : 8
+    
+  operations
+    getUnitPrice() : Real
+    begin
+        result := self.price
+    end
+    
+    updateStock(q : Integer)
+    begin
+        self.stockLevel := self.stockLevel - q
+    end
+end
+
+association Contains between
+  Order[1] 
+  OrderLine[1..*] role lineItems
+end
+
+association HasOrdered between
+  Customer[1]
+  Order[*] role orders
+end
+
+association HasProduct between
+  OrderLine[*] role orderLines
+  Product[1] 
+end
+  
