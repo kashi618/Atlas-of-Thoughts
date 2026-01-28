@@ -34,7 +34,7 @@
               "state": {
                 "file": "2. University/Year 2/S2 Software Engineering 2/Notes/Testing Strategies.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -287,10 +287,10 @@
   },
   "active": "2a8fd938e20c7800",
   "lastOpenFiles": [
+    "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU 2020 2024-2025.pdf",
+    "2. University/Year 2/S2 Software Engineering 2/Notes/Testing Strategies.md",
     "2. University/Year 2/S2 Software Engineering 2/Notes/Testing Strategies.png",
     "2. University/Year 2/S2 Software Engineering 2/Notes/$ Software Engineering 2.md",
-    "2. University/Year 2/S2 Software Engineering 2/Notes/Testing Strategies.md",
-    "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU 2020 2024-2025.pdf",
     "2. University/Year 2/S2 Data Communications/Notes/Signaling Concepts.md",
     "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2023-2024.pdf",
     "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017.pdf",
@@ -333,7 +333,6 @@
     "2. University/Year 2/S1 Web Development 2/Notes/CMPU 2022  2024-2025.md",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005112.png",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005038.png",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005032.png",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113000154.png"
+    "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005032.png"
   ]
 }
