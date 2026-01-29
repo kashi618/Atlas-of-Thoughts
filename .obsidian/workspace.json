@@ -16,9 +16,9 @@
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": -620,
+                  "x": -380,
                   "y": 110,
-                  "zoom": -0.6578940231750076
+                  "zoom": -0.9920248827268587
                 }
               },
               "pinned": true,
@@ -27,13 +27,13 @@
             }
           },
           {
-            "id": "94ebbb5e95de5303",
+            "id": "16b87e48be80eb2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
+                "file": "2. University/Year 2/S2 Human Computer Interaction/Notes/Human Computeri Interaction.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Human Computeri Interaction"
             }
           }
         ],
@@ -115,7 +115,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b2b152570fec8082",
@@ -248,9 +249,16 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "94ebbb5e95de5303",
+  "active": "16b87e48be80eb2f",
   "lastOpenFiles": [
+    "6. Templates/HCI.md",
+    "2. University/Year 2/S2 Human Computer Interaction/Notes/Human Computeri Interaction.md",
+    "2. University/Year 2/S2 Human Computer Interaction/Notes/$ Human Computer Interaction.md",
     "1. Home Page/Home.canvas",
+    "Ink/Drawing/2025.9.16 - 13.26pm.drawing",
+    "8. Other/Descartes.gif",
+    "7. UNSORTED/Untitled.md",
+    "1. Home Page/TU856-Year2.md",
     "conflict-files-obsidian-git.md",
     "6. Templates/SE2.md",
     "6. Templates/LAPI.md",
@@ -267,8 +275,6 @@
     "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU 2020 2021-2022.pdf",
     "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU 2020 2024-2025.pdf",
     "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU 2020 2022-2023.pdf",
-    "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU 2020 2018-2019.pdf",
-    "2. University/Year 2/S2 Human Computer Interaction/Notes/$ Human Computer Interaction.md",
     "2. University/Year 2/S2 Gen-AI/$ Gen-AI.md",
     "2. University/Year 2/Results - Semester 2.md",
     "2. University/Year 2/Results - Semester 1.md",
@@ -283,10 +289,6 @@
     "2. University/Year 2/S1 Object Oriented Programming/Notes/Inheritance - Java.md",
     "2. University/Year 2/S1 Object Oriented Programming/Notes/Super.md",
     "2. University/Year 2/S1 Object Oriented Programming/Notes/CMPU 2016  2024-2025.md",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/super.md",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/??Super - Java.md",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/Writing JavaDocs.md",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/JavaDoc.md",
     "2. University/Year 2/S1 Object Oriented Programming/Notes/Pasted image 20260116102052.png",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005112.png",
     "Untitled.canvas",
