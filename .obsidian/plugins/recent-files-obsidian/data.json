@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Testing Strategies",
-      "path": "2. University/Year 2/S2 Software Engineering 2/Notes/Testing Strategies.md"
+      "basename": "$ Human Computer Interaction",
+      "path": "2. University/Year 2/S2 Human Computer Interaction/Notes/$ Human Computer Interaction.md"
     },
     {
-      "basename": "CMPU 2020 2024-2025",
-      "path": "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU 2020 2024-2025.pdf"
-    },
-    {
-      "basename": "$ Software Engineering 2",
-      "path": "2. University/Year 2/S2 Software Engineering 2/Notes/$ Software Engineering 2.md"
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Signaling Concepts",
       "path": "2. University/Year 2/S2 Data Communications/Notes/Signaling Concepts.md"
     },
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
+      "basename": "CMPU 2020 2024-2025",
+      "path": "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU 2020 2024-2025.pdf"
+    },
+    {
+      "basename": "Testing Strategies",
+      "path": "2. University/Year 2/S2 Software Engineering 2/Notes/Testing Strategies.md"
+    },
+    {
+      "basename": "$ Software Engineering 2",
+      "path": "2. University/Year 2/S2 Software Engineering 2/Notes/$ Software Engineering 2.md"
     },
     {
       "basename": "To Do",
@@ -195,10 +199,6 @@
     {
       "basename": "Obsidian Keybinds",
       "path": "1. Home Page/Obsidian Keybinds.md"
-    },
-    {
-      "basename": "Archlinux - Network Manager - eduroam",
-      "path": "3. General/Archlinux/Archlinux - Network Manager - eduroam.md"
     }
   ],
   "omittedPaths": [],
