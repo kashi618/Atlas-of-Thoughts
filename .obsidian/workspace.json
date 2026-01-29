@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S2 Human Computer Interaction/Notes/Human Computeri Interaction.md",
+                "file": "2. University/Year 2/S2 Human Computer Interaction/Notes/HCI - Intro.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Human Computeri Interaction"
+              "title": "HCI - Intro"
             }
           }
         ],
@@ -137,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 398.5,
+    "collapsed": true
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -252,7 +253,7 @@
   "active": "16b87e48be80eb2f",
   "lastOpenFiles": [
     "6. Templates/HCI.md",
-    "2. University/Year 2/S2 Human Computer Interaction/Notes/Human Computeri Interaction.md",
+    "2. University/Year 2/S2 Human Computer Interaction/Notes/HCI - Intro.md",
     "2. University/Year 2/S2 Human Computer Interaction/Notes/$ Human Computer Interaction.md",
     "1. Home Page/Home.canvas",
     "Ink/Drawing/2025.9.16 - 13.26pm.drawing",
