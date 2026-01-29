@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "CMPU 2017  2024-2025",
       "path": "2. University/Year 2/S1 Operating Systems 2/Exam Papers/CMPU 2017  2024-2025.pdf"
-    },
-    {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md"
     }
   ],
   "omittedPaths": [],
