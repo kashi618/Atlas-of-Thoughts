@@ -104,6 +104,8 @@ The Imitation Game
 | Scream III                                                 | Good            | A bit boring? But the detective kincaid was cool. The romance between Gale and Dewey was also nice.               |
 | Scream IV                                                  | Amazing         | Fantastic opening (movie within a movie within a movie). Judy Hicks. Victim was the killer. Throwback to scream 1 |
 | Whiplash                                                   | **MUST WATCH**  | Masterpiece                                                                                                       |
+| Unthinkable                                                | **MUST WATCH**  | Masterpiece                                                                                                       |
+|                                                            |                 |                                                                                                                   |
 
 ---
 

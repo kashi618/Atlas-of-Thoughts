@@ -8,27 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28f347d63d50fe4b",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "3. General/Notes/SAP STAR Program Interview.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "1. Home Page/Home.canvas",
+                "viewState": {
+                  "x": -620,
+                  "y": 110,
+                  "zoom": -0.6578940231750076
                 }
               },
-              "icon": "lucide-file",
-              "title": "SAP STAR Program Interview"
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
             }
           }
         ]
@@ -116,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5,
-    "collapsed": true
+    "width": 398.5
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -229,8 +221,9 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "28f347d63d50fe4b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
     "1. Home Page/Home.canvas",
     "3. General/Notes/SAP STAR Program Interview.md",
     "2. University/Year 1/Programming/Structures - Creating Structures - C.md",
