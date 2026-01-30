@@ -16,9 +16,9 @@
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": -620,
+                  "x": -380,
                   "y": 110,
-                  "zoom": -0.6578940231750076
+                  "zoom": -0.8660273440294796
                 }
               },
               "pinned": true,
@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "94ebbb5e95de5303",
+            "id": "cbcdc95ae719a73b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "$ Data Communications"
             }
           }
         ],
@@ -65,16 +65,6 @@
         "type": "tabs",
         "dimension": 71.80527383367141,
         "children": [
-          {
-            "id": "0158bffff2e95e83",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
-            }
-          },
           {
             "id": "3c304f401ec26914",
             "type": "leaf",
@@ -114,8 +104,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "0158bffff2e95e83",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "b2b152570fec8082",
@@ -136,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 267.5
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -152,7 +153,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. University/Year 2/S1 Web Development 2/Notes/CMPU 2022  2024-2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CMPU 2022  2024-2025"
+              "title": "Backlinks"
             }
           },
           {
@@ -248,53 +248,55 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "94ebbb5e95de5303",
+  "active": "cbcdc95ae719a73b",
   "lastOpenFiles": [
-    "1. Home Page/Home.canvas",
-    "conflict-files-obsidian-git.md",
-    "6. Templates/SE2.md",
-    "6. Templates/LAPI.md",
-    "6. Templates/DC - Data Communications.md",
-    "2. University/Year 2/S2 Software Engineering 2/Notes/$ Software Engineering 2.md",
-    "2. University/Year 2/S2 Software Engineering 2/Notes/Testing Strategies.png",
-    "2. University/Year 2/S2 Software Engineering 2/Notes/Testing Strategies.md",
-    "2. University/Year 2/S2 Software Engineering 2/Notes",
-    "2. University/Year 2/S2 Software Engineering 2/Lab/Order_centralised_default.clt",
-    "2. University/Year 2/S2 Software Engineering 2/Lab/Order_centralised.use",
-    "2. University/Year 2/S2 Software Engineering 2/Lab/Order.soil",
-    "2. University/Year 2/S2 Software Engineering 2/Lab",
-    "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU 2020 2023-2024.pdf",
-    "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU 2020 2021-2022.pdf",
-    "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU 2020 2024-2025.pdf",
-    "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU 2020 2022-2023.pdf",
-    "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU 2020 2018-2019.pdf",
+    "2. University/Year 2/S2 Algorithms & Data Structures/Labs/Week 1/StackTest.class",
+    "2. University/Year 2/S2 Algorithms & Data Structures/Labs/Week 1/Stack.class",
+    "2. University/Year 2/S2 Algorithms & Data Structures/Labs/Week 1/Stack$Node.class",
+    "2. University/Year 2/S2 Algorithms & Data Structures/Labs/Week 1/StackTest.java",
+    "2. University/Year 2/S2 Algorithms & Data Structures/Labs/Week 1/stackTest.java",
+    "2. University/Year 2/S2 Algorithms & Data Structures/Labs/Week 1/stack.java",
+    "2. University/Year 2/S2 Algorithms & Data Structures/Labs/Week 1",
+    "2. University/Year 2/S2 Algorithms & Data Structures/Labs",
+    "2. University/Year 2/S2 Data Communications/Notes/Continuous Signal.png",
     "2. University/Year 2/S2 Human Computer Interaction/Notes/$ Human Computer Interaction.md",
-    "2. University/Year 2/S2 Gen-AI/$ Gen-AI.md",
-    "2. University/Year 2/Results - Semester 2.md",
+    "1. Home Page/Home.canvas",
+    "2. University/Year 2/S2 Data Communications/Notes/Signaling Concepts.md",
+    "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU 2020 2024-2025.pdf",
+    "2. University/Year 2/S2 Software Engineering 2/Notes/Testing Strategies.md",
+    "2. University/Year 2/S2 Software Engineering 2/Lab/Order_centralised_default.clt",
+    "2. University/Year 2/S2 Software Engineering 2/Lab/Order.soil",
+    "2. University/Year 2/S2 Software Engineering 2/Notes/Testing Strategies.png",
+    "2. University/Year 2/S2 Software Engineering 2/Notes/$ Software Engineering 2.md",
+    "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md",
+    "6. Templates/SE2.md",
+    "2. University/Year 2/S2 Software Engineering 2/Untitled.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Fourier Analysis.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Sine Wave Equations.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Example Sine Wave Functions.png",
+    "2. University/Year 2/S2 Data Communications/Notes/Other Sine Wave Functions.png",
+    "2. University/Year 2/S2 Data Communications/Notes/Transmission Signal.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Signal Characteristics.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Data Transmission.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Transmission System.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Periodic Signal - Continuous and Discrete.png",
+    "2. University/Year 2/S2 Data Communications/Notes/Discrete Signal.png",
+    "2. University/Year 2/S2 Data Communications/Notes/Pasted image 20260127172929.png",
+    "2. University/Year 2/S2 Data Communications/Data Communications - Course Information.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Topics.md",
     "2. University/Year 2/Results - Semester 1.md",
-    "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
-    "3. General/Notes/SAP STAR Program Interview.md",
-    "2. University/Year 1/Programming/Structures - Creating Structures - C.md",
-    "2. University/Year 1/Programming/$ C - Programming Language.md",
-    "2. University/Year 1/Programming/Ternary Operators - C.md",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/$ Java - Programming Language.md",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/??Extends - Java.md",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/extends - Java.md",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/Inheritance - Java.md",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/Super.md",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/CMPU 2016  2024-2025.md",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/super.md",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/??Super - Java.md",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/Writing JavaDocs.md",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/JavaDoc.md",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/Pasted image 20260116102052.png",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005112.png",
+    "2. University/Year 2/Results - Semester 2.md",
+    "6. Templates/DC - Data Communications.md",
+    "2. University/Year 2/S2 Legal and Professional Issues/Notes/$ Legal and Professional Issues.md",
+    "2. University/Year 2/S2 Legal and Professional Issues/Notes/Common Law.md",
+    "2. University/Year 2/S2 Gen-AI/$ Gen-AI.md",
+    "6. Templates/LAPI.md",
+    "conflict-files-obsidian-git.md",
     "Untitled.canvas",
+    "3. General/Notes/SAP STAR Program Interview.md",
+    "2. University/Year 2/S1 Web Development 2/Notes/Web Server Criteria.md",
+    "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005112.png",
     "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005038.png",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005032.png",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113000154.png",
-    "2. University/Year 1/Programming/Pasted image 20250929101751.png",
-    "2. University/Year 1/Programming/Pasted image 20250929101751.png",
-    "2. University/Year 2/S1 Databases 1/Pasted image 20260102204829.png"
+    "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005032.png"
   ]
 }
