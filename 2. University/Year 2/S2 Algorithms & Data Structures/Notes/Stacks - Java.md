@@ -12,23 +12,10 @@ class Stack {
 	
 	private Node top;
 	
-	public Stack() {
+	public Stack() { // Not strictly needed...
 		top = null;
 	}
-	
-	public int pop() {
-		if (top != null) {
-			int val = top.data;
-			top = top.next;
-			
-			return val; 
-		}
-		else {
-			System.out.println("ERROR: Stack empty");
-			return -1;
-		}
-	}
-	
+		
 	public void push(int x) {
 		Node newNode = new Node();
 		
@@ -36,6 +23,18 @@ class Stack {
 		newNode.next = top;
 		
 		top = newNode;
+	}
+	
+	public int pop() {
+		if (top == null) {
+			System.out.println("ERROR: Stack empty");
+			return -1; // Returning -1 isnt that good...
+		}
+		
+		int val = top.data;
+		top = top.next;
+		
+		return val; 
 	}
 }
 ```

@@ -19,7 +19,13 @@
 - NP - Non deterministic polynomial algorithms
 
 ## Topics
+**Data Structures**
 - [[Stacks - LIFO]]
 	- [[Stacks - Java]]
 - [[Queue - FIFO]]
 	- [[Queue - Java]]
+	- [[!Circular Buffer Queue - Java]]
+- [[Heap]]
+
+
+

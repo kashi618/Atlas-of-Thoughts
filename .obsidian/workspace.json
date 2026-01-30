@@ -32,9 +32,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/Queue - FIFO.md",
+                "file": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/$ Algorithms & Data Structures.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -47,7 +47,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Queue - FIFO"
+              "title": "$ Algorithms & Data Structures"
+            }
+          },
+          {
+            "id": "e21d1aa51b2e2765",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Heap"
             }
           },
           {
@@ -75,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -236,13 +260,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. University/Year 2/S1 Operating Systems 2/Notes/Queue - FIFO.md",
+                "file": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Queue - FIFO"
+              "title": "Outline of Heap"
             }
           },
           {
@@ -283,12 +307,14 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "80d34fcbf3de7c42",
+  "active": "e21d1aa51b2e2765",
   "lastOpenFiles": [
-    "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Queue - Java.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Queue - FIFO.md",
+    "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Pasted image 20260130144653.png",
+    "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap.md",
     "2. University/Year 2/S2 Algorithms & Data Structures/Notes/$ Algorithms & Data Structures.md",
     "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Stacks - Java.md",
+    "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Queue - Java.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Queue - FIFO.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Stacks - LIFO.md",
     "6. Templates/AADS - Algorithms & Data Structures.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
@@ -316,7 +342,6 @@
     "2. University/Year 2/S2 Data Communications/Notes/Analogue Amplifiers & Digital Repeaters.png",
     "2. University/Year 2/S2 Data Communications/Notes/Analogue and Digital Transmitters and Receivers.png",
     "2. University/Year 2/S2 Data Communications/Notes/Pasted image 20260130114538.png",
-    "2. University/Year 2/S2 Data Communications/Notes/Bandwidth & Data Rate.md",
     "2. University/Year 2/S2 Data Communications/Notes/2 v 4 Harmonics.png",
     "2. University/Year 2/S2 Data Communications/Notes/1 vs 2 Harmonics.png",
     "2. University/Year 2/S2 Data Communications/Notes/Data Rate Table.png",

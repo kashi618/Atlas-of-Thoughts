@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Queue - FIFO",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Queue - FIFO.md"
-    },
-    {
-      "basename": "Queue - Java",
-      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Queue - Java.md"
+      "basename": "Heap",
+      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap.md"
     },
     {
       "basename": "$ Algorithms & Data Structures",
@@ -15,6 +11,14 @@
     {
       "basename": "Stacks - Java",
       "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Stacks - Java.md"
+    },
+    {
+      "basename": "Queue - Java",
+      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Queue - Java.md"
+    },
+    {
+      "basename": "Queue - FIFO",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Queue - FIFO.md"
     },
     {
       "basename": "Stacks - LIFO",
