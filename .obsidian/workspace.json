@@ -49,33 +49,9 @@
               "icon": "lucide-file",
               "title": "$ Data Communications"
             }
-          },
-          {
-            "id": "f2b6819c562d6884",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,8 +220,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "1bb35d5532aa2b18",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -272,10 +259,10 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "f2b6819c562d6884",
+  "active": "cbcdc95ae719a73b",
   "lastOpenFiles": [
-    "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md",
     "conflict-files-obsidian-git.md",
+    "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md",
     "2. University/Year 2/S2 Software Engineering 2/Lab/Boobies-20260130T100745Z-3-001.5J_poh1O.zip.part",
     "2. University/Year 2/S2 Software Engineering 2/Lab/Boobies-20260130T100745Z-3-001.zip",
     "6. Templates/HCI.md",
