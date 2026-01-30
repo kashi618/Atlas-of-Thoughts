@@ -33,7 +33,7 @@
               "type": "markdown",
               "state": {
                 "file": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -137,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -261,8 +262,10 @@
   },
   "active": "cbcdc95ae719a73b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md",
+    "2. University/Year 2/S2 Human Computer Interaction/Notes/$ Human Computer Interaction.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Continuous Signal.png",
+    "conflict-files-obsidian-git.md",
     "2. University/Year 2/S2 Software Engineering 2/Lab/Boobies-20260130T100745Z-3-001.5J_poh1O.zip.part",
     "2. University/Year 2/S2 Software Engineering 2/Lab/Boobies-20260130T100745Z-3-001.zip",
     "6. Templates/HCI.md",
@@ -275,8 +278,6 @@
     "2. University/Year 2/S2 Algorithms & Data Structures/Labs/Week 1/stack.java",
     "2. University/Year 2/S2 Algorithms & Data Structures/Labs/Week 1",
     "2. University/Year 2/S2 Algorithms & Data Structures/Labs",
-    "2. University/Year 2/S2 Data Communications/Notes/Continuous Signal.png",
-    "2. University/Year 2/S2 Human Computer Interaction/Notes/$ Human Computer Interaction.md",
     "1. Home Page/Home.canvas",
     "2. University/Year 2/S2 Data Communications/Notes/Signaling Concepts.md",
     "2. University/Year 2/S2 Software Engineering 2/Notes/Testing Strategies.md",

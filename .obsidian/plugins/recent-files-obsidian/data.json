@@ -5,6 +5,14 @@
       "path": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md"
     },
     {
+      "basename": "$ Human Computer Interaction",
+      "path": "2. University/Year 2/S2 Human Computer Interaction/Notes/$ Human Computer Interaction.md"
+    },
+    {
+      "basename": "Continuous Signal",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Continuous Signal.png"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "Thread Control Block - TCB",
       "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Thread Control Block - TCB.md"
-    },
-    {
-      "basename": "Threads - Creating Threads",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Threads - Creating Threads.md"
     }
   ],
   "omittedPaths": [],
