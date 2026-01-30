@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Stacks - Java",
+      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Stacks - Java.md"
+    },
+    {
       "basename": "$ Algorithms & Data Structures",
       "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/$ Algorithms & Data Structures.md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "Linked Lists",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Linked Lists.md"
+    },
+    {
+      "basename": "Queue - FIFO",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Queue - FIFO.md"
+    },
+    {
+      "basename": "Stacks - LIFO",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Stacks - LIFO.md"
+    },
+    {
+      "basename": "OS2",
+      "path": "6. Templates/OS2.md"
     },
     {
       "basename": "Home",
@@ -151,54 +175,6 @@
     {
       "basename": "Usecase Realization",
       "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Realization.md"
-    },
-    {
-      "basename": "Waterfall Model",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Waterfall Model.md"
-    },
-    {
-      "basename": "Adaptive and Predictive Methodologies to Development",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Adaptive and Predictive Methodologies to Development.md"
-    },
-    {
-      "basename": "CMPU 2019 2024-2025",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/CMPU 2019 2024-2025.md"
-    },
-    {
-      "basename": "Throwaway (rapid) Prototyping",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Throwaway (rapid) Prototyping.md"
-    },
-    {
-      "basename": "Evolutionary Development",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Evolutionary Development.md"
-    },
-    {
-      "basename": "Modularity",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Modularity.md"
-    },
-    {
-      "basename": "Usecase Diagrams and Descriptions",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Diagrams and Descriptions.md"
-    },
-    {
-      "basename": "Use Cases and Scenarios",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Use Cases and Scenarios.md"
-    },
-    {
-      "basename": "Hardware and Software Reliability",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Hardware and Software Reliability.md"
-    },
-    {
-      "basename": "CMPU 2019 | 2018-2019",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2018-2019.pdf"
-    },
-    {
-      "basename": "CMPU 2019 | 2024-2025",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2024-2025.pdf"
-    },
-    {
-      "basename": "CMPU 2019 | 2022-2023",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2022-2023.pdf"
     }
   ],
   "omittedPaths": [],

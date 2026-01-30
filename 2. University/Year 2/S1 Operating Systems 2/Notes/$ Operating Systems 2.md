@@ -6,21 +6,9 @@
 [[Fetch Execute Cycle]]
 
 ## Dynamic Data Structures
-**Linked Lists**
 - [[Linked Lists]]
-- [[Linked Lists - Creating Nodes - C]]
-- [[Linked Lists - Inserting Nodes - C]]
-- [[Linked Lists - Deleting Nodes - C]]
-
-**Stacks**
 - [[Stacks - LIFO]]
-- [[Stacks - pop() - C]]
-- [[Stacks - push() - C]]
-
-**Queues**
 - [[Queue - FIFO]]
-- [[Queue - enqueue() - C]]
-- [[Queue - dequeue() - C]]
 
 ## Processes and Threads
 - [[Programs Processes Threads Overview - OS2]]

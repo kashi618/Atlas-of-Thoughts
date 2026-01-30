@@ -12,4 +12,12 @@
 **Sorting**
 
 **Search Trees**
+- Binary search tree
 
+**Complexity**
+- P - Polynomial algoriths
+- NP - Non deterministic polynomial algorithms
+
+## Topics
+[[Stacks - LIFO]]
+[[Stacks - Java]]
