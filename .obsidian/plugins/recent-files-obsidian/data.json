@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Digital and Analogue Signals",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Digital and Analogue Signals.md"
+    },
+    {
       "basename": "$ Data Communications",
       "path": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Bandwidth & Data Rate",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Bandwidth & Data Rate.md"
+    },
+    {
+      "basename": "Signaling Concepts",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Signaling Concepts.md"
+    },
+    {
+      "basename": "Fourier Analysis",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Fourier Analysis.md"
+    },
+    {
+      "basename": "Bandwidth and Frequency",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Bandwidth and Frequency.md"
     },
     {
       "basename": "$ Human Computer Interaction",
@@ -11,10 +35,6 @@
     {
       "basename": "Continuous Signal",
       "path": "2. University/Year 2/S2 Data Communications/Notes/Continuous Signal.png"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "TV Shows & Movies & Anime & Manga",
@@ -179,26 +199,6 @@
     {
       "basename": "Untitled",
       "path": "Untitled.canvas"
-    },
-    {
-      "basename": "Formal Specification",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Formal Specification.md"
-    },
-    {
-      "basename": "Agile Development",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Agile Development.md"
-    },
-    {
-      "basename": "Encapsulation - Java",
-      "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/Encapsulation - Java.md"
-    },
-    {
-      "basename": "Coupling",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Coupling.md"
-    },
-    {
-      "basename": "Thread Control Block - TCB",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Thread Control Block - TCB.md"
     }
   ],
   "omittedPaths": [],
