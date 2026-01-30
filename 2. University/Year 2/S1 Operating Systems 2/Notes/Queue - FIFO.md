@@ -3,6 +3,7 @@ tags:
   - OS2
 aliases:
 ---
+Nodes added to 
 A queue is a **first in first out** type structure.
 It uses the `enqueue()` and `dequeue()` functions to add and remove a node from the queue.
 
@@ -12,12 +13,12 @@ In a queue:
 - `pop()` removes nodes from the bottom/tail of the queue
 - nodes point from head -> tail
 
-| Keywords | Meaning                                                                                                       |
-| -------- | ------------------------------------------------------------------------------------------------------------- |
-| headPtr  | points to the top of the queue                                                                                |
-| tailPtr  | points to the bottom of the queue                                                                             |
-| value    | attribute of a node, stores a value                                                                           |
-| tempPtr  | stores address of a node to be deleted (so it doesn't get lost when you replace the topPtr with the next one) |
+| Keywords | Meaning                                                                                                          |
+| -------- | ---------------------------------------------------------------------------------------------------------------- |
+| headPtr  | points to the top of the queue                                                                                   |
+| tailPtr  | points to the bottom of the queue                                                                                |
+| value    | attribute of a node, stores a value                                                                              |
+| tempPtr  | stores address of a node to be deleted<br>(so it doesn't get lost when you replace the topPtr with the next one) |
 
 ## Structure
 ![[Pasted image 20251101184326.png]]

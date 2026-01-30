@@ -1,6 +1,6 @@
 ---
 tags:
-  - DataCommunications
+  - AlgorithmsAndDataStructures
 aliases:
 ---
 ```java
@@ -42,4 +42,5 @@ class Stack {
 - Remember that Java has automatic garbage collection. There is no need to "free()" the node that is popped
 - 
 # See Also
-[[$ Data Communications]]
+[[$ Algorithms & Data Structures]]
+[[$ Java - Programming Language]]
