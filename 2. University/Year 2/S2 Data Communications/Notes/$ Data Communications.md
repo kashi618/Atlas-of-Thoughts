@@ -11,7 +11,7 @@ https://tudublin-my.sharepoint.com/personal/damian_bourke_tudublin_ie/_layouts/1
 
 - [[Sine Wave Equations]]
 - [[Fourier Analysis]] **A complex wave can be represented by the sum of a series of sine waves**
-- [[Signaling Concepts]]
+- [[!Signaling Concepts]]
 
 - One cycle has two bits. Sine wave. (higher = 1, lower = 0) Or whatever bits
 - Spectrum
@@ -20,7 +20,8 @@ https://tudublin-my.sharepoint.com/personal/damian_bourke_tudublin_ie/_layouts/1
 slide 19
 
 
-[[Bandwidth and Frequency]]
-[[Bandwidth & Data Rate]]
-
-[[Digital and Analogue Signals]]
+- [[Bandwidth and Frequency]]
+- [[Bandwidth & Data Rate]]
+- [[Digital vs Analogue]]
+- [[Transmitting Digital and Analogue Signals]]
+- [[Attenuation]]

@@ -27,36 +27,12 @@
             }
           },
           {
-            "id": "f031e9c6f5511a65",
+            "id": "80d34fcbf3de7c42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S2 Data Communications/Notes/Bandwidth & Data Rate.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Bandwidth & Data Rate"
-            }
-          },
-          {
-            "id": "6ef3f62e8219a9f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Year 2/S2 Data Communications/Notes/Bandwidth and Frequency.md",
+                "file": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/$ Algorithms & Data Structures.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -71,59 +47,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bandwidth and Frequency"
-            }
-          },
-          {
-            "id": "e4b402cc64b2cb8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ Data Communications"
-            }
-          },
-          {
-            "id": "390a36bf81d77918",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Year 2/S2 Data Communications/Notes/Digital and Analogue Signals.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Digital and Analogue Signals"
+              "title": "$ Algorithms & Data Structures"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 267.5
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -332,21 +259,29 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "390a36bf81d77918",
+  "active": "80d34fcbf3de7c42",
   "lastOpenFiles": [
-    "2. University/Year 2/S2 Data Communications/Notes/Digital and Analogue Signals.md",
-    "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md",
     "1. Home Page/Home.canvas",
+    "2. University/Year 2/S2 Algorithms & Data Structures/Notes/$ Algorithms & Data Structures.md",
+    "2. University/Year 2/S2 Data Communications/Notes/!Signaling Concepts.md",
+    "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Fourier Analysis.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Attenuation.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Transmitting Digital and Analogue Signals.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Bandwidth and Frequency.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Digital vs Analogue.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Continuous Signal.png",
+    "2. University/Year 2/S2 Data Communications/Notes/Attenuation - Analogue Amplitude.png",
+    "2. University/Year 2/S2 Data Communications/Notes/Attenuation - Amplitude Dropping.png",
+    "2. University/Year 2/S2 Data Communications/Notes/Analogue Amplifiers & Digital Repeaters.png",
+    "2. University/Year 2/S2 Data Communications/Notes/Analogue and Digital Transmitters and Receivers.png",
+    "2. University/Year 2/S2 Data Communications/Notes/Pasted image 20260130114538.png",
     "2. University/Year 2/S2 Data Communications/Notes/Bandwidth & Data Rate.md",
     "2. University/Year 2/S2 Data Communications/Notes/2 v 4 Harmonics.png",
     "2. University/Year 2/S2 Data Communications/Notes/1 vs 2 Harmonics.png",
     "2. University/Year 2/S2 Data Communications/Notes/Data Rate Table.png",
-    "2. University/Year 2/S2 Data Communications/Notes/Signaling Concepts.md",
-    "2. University/Year 2/S2 Data Communications/Notes/Fourier Analysis.md",
-    "2. University/Year 2/S2 Data Communications/Notes/Bandwidth and Frequency.md",
     "2. University/Year 2/S2 Data Communications/Notes/Bandwidth.png",
     "2. University/Year 2/S2 Human Computer Interaction/Notes/$ Human Computer Interaction.md",
-    "2. University/Year 2/S2 Data Communications/Notes/Continuous Signal.png",
     "conflict-files-obsidian-git.md",
     "2. University/Year 2/S2 Software Engineering 2/Lab/Boobies-20260130T100745Z-3-001.5J_poh1O.zip.part",
     "2. University/Year 2/S2 Software Engineering 2/Lab/Boobies-20260130T100745Z-3-001.zip",
@@ -361,26 +296,17 @@
     "2. University/Year 2/S2 Algorithms & Data Structures/Labs/Week 1",
     "2. University/Year 2/S2 Algorithms & Data Structures/Labs",
     "2. University/Year 2/S2 Software Engineering 2/Notes/Testing Strategies.md",
-    "2. University/Year 2/S2 Software Engineering 2/Notes/Testing Strategies.png",
     "2. University/Year 2/S2 Software Engineering 2/Notes/$ Software Engineering 2.md",
     "6. Templates/SE2.md",
     "2. University/Year 2/S2 Software Engineering 2/Untitled.md",
     "2. University/Year 2/S2 Data Communications/Notes/Sine Wave Equations.md",
-    "2. University/Year 2/S2 Data Communications/Notes/Example Sine Wave Functions.png",
-    "2. University/Year 2/S2 Data Communications/Notes/Other Sine Wave Functions.png",
     "2. University/Year 2/S2 Data Communications/Notes/Transmission Signal.md",
     "2. University/Year 2/S2 Data Communications/Notes/Signal Characteristics.md",
     "2. University/Year 2/S2 Data Communications/Notes/Data Transmission.md",
     "2. University/Year 2/S2 Data Communications/Notes/Transmission System.md",
-    "2. University/Year 2/S2 Data Communications/Notes/Periodic Signal - Continuous and Discrete.png",
-    "2. University/Year 2/S2 Data Communications/Notes/Discrete Signal.png",
     "2. University/Year 2/S2 Data Communications/Data Communications - Course Information.md",
     "2. University/Year 2/S2 Data Communications/Notes/Topics.md",
     "2. University/Year 2/Results - Semester 1.md",
-    "2. University/Year 2/Results - Semester 2.md",
-    "6. Templates/DC - Data Communications.md",
-    "2. University/Year 2/S2 Legal and Professional Issues/Notes/$ Legal and Professional Issues.md",
-    "2. University/Year 2/S2 Legal and Professional Issues/Notes/Common Law.md",
     "Untitled.canvas"
   ]
 }

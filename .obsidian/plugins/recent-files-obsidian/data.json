@@ -1,40 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Digital and Analogue Signals",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Digital and Analogue Signals.md"
-    },
-    {
-      "basename": "$ Data Communications",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md"
+      "basename": "$ Algorithms & Data Structures",
+      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/$ Algorithms & Data Structures.md"
     },
     {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
     {
-      "basename": "Bandwidth & Data Rate",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Bandwidth & Data Rate.md"
+      "basename": "!Signaling Concepts",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/!Signaling Concepts.md"
     },
     {
-      "basename": "Signaling Concepts",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Signaling Concepts.md"
+      "basename": "$ Data Communications",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md"
     },
     {
       "basename": "Fourier Analysis",
       "path": "2. University/Year 2/S2 Data Communications/Notes/Fourier Analysis.md"
     },
     {
+      "basename": "Attenuation",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Attenuation.md"
+    },
+    {
+      "basename": "Transmitting Digital and Analogue Signals",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Transmitting Digital and Analogue Signals.md"
+    },
+    {
       "basename": "Bandwidth and Frequency",
       "path": "2. University/Year 2/S2 Data Communications/Notes/Bandwidth and Frequency.md"
     },
     {
-      "basename": "$ Human Computer Interaction",
-      "path": "2. University/Year 2/S2 Human Computer Interaction/Notes/$ Human Computer Interaction.md"
+      "basename": "Digital vs Analogue",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Digital vs Analogue.md"
     },
     {
       "basename": "Continuous Signal",
       "path": "2. University/Year 2/S2 Data Communications/Notes/Continuous Signal.png"
+    },
+    {
+      "basename": "Attenuation - Amplitude Dropping",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Attenuation - Amplitude Dropping.png"
+    },
+    {
+      "basename": "Bandwidth & Data Rate",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Bandwidth & Data Rate.md"
+    },
+    {
+      "basename": "$ Human Computer Interaction",
+      "path": "2. University/Year 2/S2 Human Computer Interaction/Notes/$ Human Computer Interaction.md"
     },
     {
       "basename": "TV Shows & Movies & Anime & Manga",
@@ -183,22 +199,6 @@
     {
       "basename": "CMPU 2019 | 2022-2023",
       "path": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2022-2023.pdf"
-    },
-    {
-      "basename": "CMPU 2019 | 2023-2024",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2023-2024.pdf"
-    },
-    {
-      "basename": "Requirements Engineering",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Requirements Engineering.md"
-    },
-    {
-      "basename": "CMPU 2019 | 2019-2020",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2019-2020.pdf"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.canvas"
     }
   ],
   "omittedPaths": [],
