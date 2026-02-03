@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "CLI Games - GDD",
+      "path": "3. General/Projects/CLI Games/CLI Games - GDD.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Brainstorm",
+      "path": "3. General/Projects/CLI Games/Brainstorm.md"
     },
     {
       "basename": "Setup",
@@ -191,10 +199,6 @@
     {
       "basename": "$ Software Engineering 1",
       "path": "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md"
-    },
-    {
-      "basename": "Usecase Realization",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Usecase Realization.md"
     }
   ],
   "omittedPaths": [],
