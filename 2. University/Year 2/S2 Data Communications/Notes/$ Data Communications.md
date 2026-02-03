@@ -20,12 +20,17 @@ https://tudublin-my.sharepoint.com/personal/damian_bourke_tudublin_ie/_layouts/1
 slide 19
 
 
-- [[Bandwidth and Frequency]]
-- [[Bandwidth & Data Rate]]
-- [[Digital vs Analogue]]
-- [[Transmitting Signals - Modem and Codec]]
+- [[Bandwidth and Frequency]]merge
+- [[Bandwidth & Data Rate]]merge
+- 
+- [[Digital vs Analogue]] merge
+- [[Transmitting Signals - Modem and Codec]] merge
 
 **Signal Quality Loss**
 - [[Transmission Impairments]] 
 	- [[Attenuation]] Reduction of signal strength over distance
 	- [[Noise]]
+
+**Channel Capacity**
+[[Chanel Capacity]]
+	- [[Noise Free and Noisy Channels - Nyquist and Shannon]]

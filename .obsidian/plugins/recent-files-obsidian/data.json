@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Noise",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Noise.md"
+      "basename": "Noise Free and Noisy Channels - Nyquist and Shannon",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Noise Free and Noisy Channels - Nyquist and Shannon.md"
     },
     {
       "basename": "$ Data Communications",
       "path": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md"
+    },
+    {
+      "basename": "Chanel Capacity",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Chanel Capacity.md"
+    },
+    {
+      "basename": "Noise",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Noise.md"
     },
     {
       "basename": "Attenuation",
@@ -191,14 +199,6 @@
     {
       "basename": "$ Web Development 2",
       "path": "2. University/Year 2/S1 Web Development 2/Notes/$ Web Development 2.md"
-    },
-    {
-      "basename": "CMPU 2022 | 2019-2020",
-      "path": "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2019-2020.pdf"
-    },
-    {
-      "basename": "CMPU 2022 | 2022-2023",
-      "path": "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2022-2023.pdf"
     }
   ],
   "omittedPaths": [],
