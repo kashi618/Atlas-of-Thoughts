@@ -16,7 +16,7 @@ flowchart TD
 	Z[game3.c]
 	
 	
-	A -->  B
+	A --> || B
 	
 	B --> |Enter game1| X
 	X --> |Exit| B

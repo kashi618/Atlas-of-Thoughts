@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "CLI Games - GDD",
-      "path": "3. General/Projects/CLI Games/CLI Games - GDD.md"
+      "basename": "Noise",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Noise.md"
+    },
+    {
+      "basename": "$ Data Communications",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md"
+    },
+    {
+      "basename": "Attenuation",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Attenuation.md"
+    },
+    {
+      "basename": "Transmission Impairments",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Transmission Impairments.md"
+    },
+    {
+      "basename": "Digital vs Analogue",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Digital vs Analogue.md"
+    },
+    {
+      "basename": "Transmitting Signals - Modem and Codec",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Transmitting Signals - Modem and Codec.md"
+    },
+    {
+      "basename": "Bandwidth and Frequency",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Bandwidth and Frequency.md"
+    },
+    {
+      "basename": "!Signaling Concepts",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/!Signaling Concepts.md"
+    },
+    {
+      "basename": "Transmission System",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Transmission System.md"
+    },
+    {
+      "basename": "Transmission Signal",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Transmission Signal.md"
+    },
+    {
+      "basename": "Data Transmission",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Data Transmission.md"
     },
     {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "CLI Games - GDD",
+      "path": "3. General/Projects/CLI Games/CLI Games - GDD.md"
     },
     {
       "basename": "Brainstorm",
@@ -65,32 +109,8 @@
       "path": "6. Templates/OS2.md"
     },
     {
-      "basename": "!Signaling Concepts",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/!Signaling Concepts.md"
-    },
-    {
-      "basename": "$ Data Communications",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md"
-    },
-    {
       "basename": "Fourier Analysis",
       "path": "2. University/Year 2/S2 Data Communications/Notes/Fourier Analysis.md"
-    },
-    {
-      "basename": "Attenuation",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Attenuation.md"
-    },
-    {
-      "basename": "Transmitting Digital and Analogue Signals",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Transmitting Digital and Analogue Signals.md"
-    },
-    {
-      "basename": "Bandwidth and Frequency",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Bandwidth and Frequency.md"
-    },
-    {
-      "basename": "Digital vs Analogue",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Digital vs Analogue.md"
     },
     {
       "basename": "Continuous Signal",
@@ -179,26 +199,6 @@
     {
       "basename": "CMPU 2022 | 2022-2023",
       "path": "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2022-2023.pdf"
-    },
-    {
-      "basename": "CMPU 2022 | 2023-2024",
-      "path": "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2023-2024.pdf"
-    },
-    {
-      "basename": "CMPU 2022 | 2024-2025",
-      "path": "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2024-2025.pdf"
-    },
-    {
-      "basename": "CMPU 2022  2023-2024",
-      "path": "2. University/Year 2/S1 Web Development 2/Notes/CMPU 2022  2023-2024.md"
-    },
-    {
-      "basename": "Web Server Criteria",
-      "path": "2. University/Year 2/S1 Web Development 2/Notes/Web Server Criteria.md"
-    },
-    {
-      "basename": "$ Software Engineering 1",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md"
     }
   ],
   "omittedPaths": [],

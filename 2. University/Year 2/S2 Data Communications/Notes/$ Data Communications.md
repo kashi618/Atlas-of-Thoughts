@@ -23,5 +23,9 @@ slide 19
 - [[Bandwidth and Frequency]]
 - [[Bandwidth & Data Rate]]
 - [[Digital vs Analogue]]
-- [[Transmitting Digital and Analogue Signals]]
-- [[Attenuation]]
+- [[Transmitting Signals - Modem and Codec]]
+
+**Signal Quality Loss**
+- [[Transmission Impairments]] 
+	- [[Attenuation]] Reduction of signal strength over distance
+	- [[Noise]]

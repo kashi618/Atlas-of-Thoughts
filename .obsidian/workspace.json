@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "79e0ca68d743a45e",
+            "id": "13d5810bceaf9e8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. General/Projects/CLI Games/CLI Games - GDD.md",
+                "file": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,11 +47,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CLI Games - GDD"
+              "title": "$ Data Communications"
+            }
+          },
+          {
+            "id": "df9b8a465192a006",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Year 2/S2 Data Communications/Notes/Noise.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Noise"
+            }
+          },
+          {
+            "id": "47388e1d4c1fd879",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Year 2/S2 Data Communications/Notes/Transmission Impairments.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Transmission Impairments"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +163,8 @@
               "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "b2b152570fec8082",
@@ -136,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -260,11 +310,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "79e0ca68d743a45e",
+  "active": "df9b8a465192a006",
   "lastOpenFiles": [
+    "2. University/Year 2/S2 Data Communications/Notes/Thermal Noise Extreme.png",
+    "2. University/Year 2/S2 Data Communications/Notes/Thermal Noise Graph.png",
+    "2. University/Year 2/S2 Data Communications/Notes/Noise.md",
+    "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Attenuation.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Pasted image 20260203163125.png",
+    "2. University/Year 2/S2 Data Communications/Notes/Transmission Impairments.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Digital vs Analogue.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Transmitting Signals - Modem and Codec.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Bandwidth and Frequency.md",
+    "2. University/Year 2/S2 Data Communications/Notes/!Signaling Concepts.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Transmission System.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Transmission Signal.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Data Transmission.md",
     "1. Home Page/Home.canvas",
-    "3. General/Projects/CLI Games/Brainstorm.md",
     "3. General/Projects/CLI Games/CLI Games - GDD.md",
+    "3. General/Projects/CLI Games/Brainstorm.md",
     "Excalidraw",
     "3. General/Projects",
     "3. General/Projects/CLI Games",
@@ -281,17 +345,6 @@
     "2. University/Year 2/S1 Operating Systems 2/Notes/Linked Lists - Inserting Nodes - C.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Linked Lists - Deleting Nodes - C.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Linked Lists - Creating Nodes - C.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Queue - enqueue() - C.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Queue - dequeue() - C.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Stacks - pop() - C.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Stacks - push() - C.md",
-    "6. Templates/OS2.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Stacks.md",
-    "2. University/Year 2/S2 Data Communications/Notes/!Signaling Concepts.md",
-    "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md",
-    "2. University/Year 2/S2 Data Communications/Notes/Fourier Analysis.md",
-    "2. University/Year 2/S2 Data Communications/Notes/Attenuation.md",
-    "2. University/Year 2/S2 Data Communications/Notes/Transmitting Digital and Analogue Signals.md",
     "2. University/Year 2/S2 Data Communications/Notes/Continuous Signal.png",
     "2. University/Year 2/S2 Data Communications/Notes/Attenuation - Analogue Amplitude.png",
     "2. University/Year 2/S2 Data Communications/Notes/Attenuation - Amplitude Dropping.png",
@@ -299,8 +352,6 @@
     "2. University/Year 2/S2 Data Communications/Notes/Analogue and Digital Transmitters and Receivers.png",
     "2. University/Year 2/S2 Data Communications/Notes/Pasted image 20260130114538.png",
     "2. University/Year 2/S2 Data Communications/Notes/2 v 4 Harmonics.png",
-    "2. University/Year 2/S2 Data Communications/Notes/1 vs 2 Harmonics.png",
-    "2. University/Year 2/S2 Data Communications/Notes/Data Rate Table.png",
     "2. University/Year 2/S2 Software Engineering 2/Lab/Boobies-20260130T100745Z-3-001.5J_poh1O.zip.part",
     "2. University/Year 2/S2 Software Engineering 2/Lab/Boobies-20260130T100745Z-3-001.zip",
     "2. University/Year 2/S2 Algorithms & Data Structures/Labs/Week 1/StackTest.class",

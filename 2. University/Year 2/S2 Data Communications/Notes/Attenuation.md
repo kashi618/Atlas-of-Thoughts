@@ -16,6 +16,10 @@ In digital systems, we use a repeater. Instead of "boosting" the signal like an 
 
 ![[Analogue Amplifiers & Digital Repeaters.png]]
 
+## Attenuation Distortion
+A type of signal degradation that occurs when certain frequencies of a signal are attenuated, as they travel through a transmission medium.
+![[Pasted image 20260203163125.png]]
+
 
 # See Also
 [[$ Data Communications]]
