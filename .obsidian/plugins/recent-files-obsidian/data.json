@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Setup",
+      "path": "1. Home Page/Setup.md"
+    },
+    {
+      "basename": "To Do",
+      "path": "1. Home Page/To Do.md"
+    },
+    {
+      "basename": "TU856-Year2",
+      "path": "1. Home Page/TU856-Year2.md"
+    },
+    {
       "basename": "Heap",
       "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap.md"
     },
@@ -31,10 +47,6 @@
     {
       "basename": "$ Operating Systems 2",
       "path": "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Linked Lists",
@@ -143,10 +155,6 @@
     {
       "basename": "CMPU 2016 | 2024-2025",
       "path": "2. University/Year 2/S1 Object Oriented Programming/Exam Papers/CMPU 2016 | 2024-2025.pdf"
-    },
-    {
-      "basename": "TU856-Year2",
-      "path": "1. Home Page/TU856-Year2.md"
     },
     {
       "basename": "CMPU 2022  2024-2025",
