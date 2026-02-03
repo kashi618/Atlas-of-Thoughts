@@ -15,5 +15,21 @@ $C=2BLog_{2}M$
 `B` = Bandwidth of the transmission system (Hz)
 `M` = Number of discrete states in digital signal
 
+## Shannon's Theorem
+Shannon extended Nyquist's theorem, to account for the effects of noise
+- It appears that:
+	- Increased bandwidth -> increased maximum data rate
+	- Increased noise -> reduced maximum data rate
+- Data rate is thus limited by bandwidth AND noise
+
+$C=BLog_{2}(1+(S/N))$
+`C` = Maximum data rate (bits per second)
+`B` = Bandwidth of the transmission system (Hz)
+`S` = Average signal power
+`N` = Average noise power
+
+## Using them Both
+Use Shannon's formula to find the realistic maximum data rate, and then use Nyquist's formula to work out the optimal M value. (what transmitter we use)
+
 # See Also
 [[$ Data Communications]]
