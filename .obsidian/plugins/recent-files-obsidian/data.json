@@ -1,20 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Noise Free and Noisy Channels - Nyquist and Shannon",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Noise Free and Noisy Channels - Nyquist and Shannon.md"
+      "basename": "Transmission Medium",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Transmission Medium.md"
     },
     {
-      "basename": "$ Data Communications",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md"
+      "basename": "$ Human Computer Interaction",
+      "path": "2. University/Year 2/S2 Human Computer Interaction/Notes/$ Human Computer Interaction.md"
+    },
+    {
+      "basename": "Noise",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Noise.md"
     },
     {
       "basename": "Chanel Capacity",
       "path": "2. University/Year 2/S2 Data Communications/Notes/Chanel Capacity.md"
     },
     {
-      "basename": "Noise",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Noise.md"
+      "basename": "HCI - Intro",
+      "path": "2. University/Year 2/S2 Human Computer Interaction/Notes/HCI - Intro.md"
+    },
+    {
+      "basename": "TU856-Year2",
+      "path": "1. Home Page/TU856-Year2.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "$ Data Communications",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md"
+    },
+    {
+      "basename": "Transmission System",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Transmission System.md"
+    },
+    {
+      "basename": "Transmission Signal",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Transmission Signal.md"
+    },
+    {
+      "basename": "Data Transmission",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Data Transmission.md"
+    },
+    {
+      "basename": "Noise Free and Noisy Channels - Nyquist and Shannon",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Noise Free and Noisy Channels - Nyquist and Shannon.md"
     },
     {
       "basename": "Attenuation",
@@ -41,22 +73,6 @@
       "path": "2. University/Year 2/S2 Data Communications/Notes/!Signaling Concepts.md"
     },
     {
-      "basename": "Transmission System",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Transmission System.md"
-    },
-    {
-      "basename": "Transmission Signal",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Transmission Signal.md"
-    },
-    {
-      "basename": "Data Transmission",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Data Transmission.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
-    },
-    {
       "basename": "CLI Games - GDD",
       "path": "3. General/Projects/CLI Games/CLI Games - GDD.md"
     },
@@ -71,10 +87,6 @@
     {
       "basename": "To Do",
       "path": "1. Home Page/To Do.md"
-    },
-    {
-      "basename": "TU856-Year2",
-      "path": "1. Home Page/TU856-Year2.md"
     },
     {
       "basename": "Heap",
@@ -133,10 +145,6 @@
       "path": "2. University/Year 2/S2 Data Communications/Notes/Bandwidth & Data Rate.md"
     },
     {
-      "basename": "$ Human Computer Interaction",
-      "path": "2. University/Year 2/S2 Human Computer Interaction/Notes/$ Human Computer Interaction.md"
-    },
-    {
       "basename": "TV Shows & Movies & Anime & Manga",
       "path": "3. General/Lists/TV Shows & Movies & Anime & Manga.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "CMPU 2016 | 2024-2025",
       "path": "2. University/Year 2/S1 Object Oriented Programming/Exam Papers/CMPU 2016 | 2024-2025.pdf"
-    },
-    {
-      "basename": "CMPU 2022  2024-2025",
-      "path": "2. University/Year 2/S1 Web Development 2/Notes/CMPU 2022  2024-2025.md"
-    },
-    {
-      "basename": "$ Web Development 2",
-      "path": "2. University/Year 2/S1 Web Development 2/Notes/$ Web Development 2.md"
     }
   ],
   "omittedPaths": [],

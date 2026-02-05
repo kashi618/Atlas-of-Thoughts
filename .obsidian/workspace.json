@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S2 Data Communications/Notes/Noise Free and Noisy Channels - Nyquist and Shannon.md",
+                "file": "2. University/Year 2/S2 Data Communications/Notes/Transmission Medium.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,16 +47,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Noise Free and Noisy Channels - Nyquist and Shannon"
+              "title": "Transmission Medium"
             }
           },
           {
-            "id": "eb4ca2af13d15e5d",
+            "id": "a2e0bc08589bd2a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S2 Data Communications/Notes/Chanel Capacity.md",
+                "file": "2. University/Year 2/S2 Human Computer Interaction/Notes/$ Human Computer Interaction.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -71,31 +71,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chanel Capacity"
-            }
-          },
-          {
-            "id": "df9b8a465192a006",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Year 2/S2 Data Communications/Notes/Noise.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Noise"
+              "title": "$ Human Computer Interaction"
             }
           }
         ],
@@ -312,10 +288,17 @@
   },
   "active": "13d5810bceaf9e8b",
   "lastOpenFiles": [
-    "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md",
-    "2. University/Year 2/S2 Data Communications/Notes/Noise Free and Noisy Channels - Nyquist and Shannon.md",
-    "2. University/Year 2/S2 Data Communications/Notes/Chanel Capacity.md",
+    "2. University/Year 2/S2 Human Computer Interaction/Notes/$ Human Computer Interaction.md",
     "2. University/Year 2/S2 Data Communications/Notes/Noise.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Chanel Capacity.md",
+    "2. University/Year 2/S2 Human Computer Interaction/Notes/HCI - Intro.md",
+    "1. Home Page/Home.canvas",
+    "2. University/Year 2/S2 Data Communications/Notes/Transmission Medium.md",
+    "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Transmission System.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Transmission Signal.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Data Transmission.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Noise Free and Noisy Channels - Nyquist and Shannon.md",
     "2. University/Year 2/S2 Data Communications/Notes/Thermal and Impulse Noise.png",
     "2. University/Year 2/S2 Data Communications/Notes/Impulse Noise Graph.png",
     "2. University/Year 2/S2 Data Communications/Notes/Impulse Noise Graph.png",
@@ -329,10 +312,6 @@
     "2. University/Year 2/S2 Data Communications/Notes/Transmitting Signals - Modem and Codec.md",
     "2. University/Year 2/S2 Data Communications/Notes/Bandwidth and Frequency.md",
     "2. University/Year 2/S2 Data Communications/Notes/!Signaling Concepts.md",
-    "2. University/Year 2/S2 Data Communications/Notes/Transmission System.md",
-    "2. University/Year 2/S2 Data Communications/Notes/Transmission Signal.md",
-    "2. University/Year 2/S2 Data Communications/Notes/Data Transmission.md",
-    "1. Home Page/Home.canvas",
     "3. General/Projects/CLI Games/CLI Games - GDD.md",
     "3. General/Projects/CLI Games/Brainstorm.md",
     "Excalidraw",
@@ -347,9 +326,6 @@
     "2. University/Year 2/S1 Operating Systems 2/Notes/Stacks - LIFO.md",
     "6. Templates/AADS - Algorithms & Data Structures.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Linked Lists.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Linked Lists - Inserting Nodes - C.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Linked Lists - Deleting Nodes - C.md",
     "2. University/Year 2/S2 Data Communications/Notes/Continuous Signal.png",
     "2. University/Year 2/S2 Data Communications/Notes/Attenuation - Analogue Amplitude.png",
     "2. University/Year 2/S2 Software Engineering 2/Lab/Boobies-20260130T100745Z-3-001.5J_poh1O.zip.part",

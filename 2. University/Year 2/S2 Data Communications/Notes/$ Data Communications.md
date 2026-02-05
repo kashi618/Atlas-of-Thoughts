@@ -7,6 +7,7 @@ https://tudublin-my.sharepoint.com/personal/damian_bourke_tudublin_ie/_layouts/1
 - [[Data Transmission]]
 	- [[Transmission Signal]]
 	- [[Transmission System]]
+	- [[Transmission Medium]]
 	- [[Signal Characteristics]]
 
 - [[Sine Wave Equations]]
