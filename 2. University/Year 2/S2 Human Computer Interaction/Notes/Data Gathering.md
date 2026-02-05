@@ -19,7 +19,7 @@ There are three types of interviews:
 
 ### Interview Questions
 There are two types:
-- **Closed questions**
+- **Closed questions**`
 - **Open questions**
 
 # See Also
