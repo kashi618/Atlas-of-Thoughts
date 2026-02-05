@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Data Gathering",
+      "path": "2. University/Year 2/S2 Human Computer Interaction/Notes/Data Gathering.md"
+    },
+    {
+      "basename": "$ Human Computer Interaction",
+      "path": "2. University/Year 2/S2 Human Computer Interaction/Notes/$ Human Computer Interaction.md"
+    },
+    {
+      "basename": "Human Computer Interaction",
+      "path": "2. University/Year 2/S2 Human Computer Interaction/Notes/Human Computer Interaction.md"
+    },
+    {
+      "basename": "CMPU 2008 2024-2025",
+      "path": "2. University/Year 2/S2 Human Computer Interaction/Exam Papers/CMPU 2008 2024-2025.pdf"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "CMPU 2008 2018-2019",
+      "path": "2. University/Year 2/S2 Human Computer Interaction/Exam Papers/CMPU 2008 2018-2019.pdf"
     },
     {
       "basename": "Setup",
@@ -13,20 +33,12 @@
       "path": "2. University/Year 2/S2 Data Communications/Notes/Transmission Medium.md"
     },
     {
-      "basename": "$ Human Computer Interaction",
-      "path": "2. University/Year 2/S2 Human Computer Interaction/Notes/$ Human Computer Interaction.md"
-    },
-    {
       "basename": "Noise",
       "path": "2. University/Year 2/S2 Data Communications/Notes/Noise.md"
     },
     {
       "basename": "Chanel Capacity",
       "path": "2. University/Year 2/S2 Data Communications/Notes/Chanel Capacity.md"
-    },
-    {
-      "basename": "HCI - Intro",
-      "path": "2. University/Year 2/S2 Human Computer Interaction/Notes/HCI - Intro.md"
     },
     {
       "basename": "TU856-Year2",
@@ -187,18 +199,6 @@
     {
       "basename": "Writing JavaDocs",
       "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/Writing JavaDocs.md"
-    },
-    {
-      "basename": "JavaDoc",
-      "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/JavaDoc.md"
-    },
-    {
-      "basename": "CMPU 2016 | 2023-2024",
-      "path": "2. University/Year 2/S1 Object Oriented Programming/Exam Papers/CMPU 2016 | 2023-2024.pdf"
-    },
-    {
-      "basename": "CMPU 2016 | 2024-2025",
-      "path": "2. University/Year 2/S1 Object Oriented Programming/Exam Papers/CMPU 2016 | 2024-2025.pdf"
     }
   ],
   "omittedPaths": [],

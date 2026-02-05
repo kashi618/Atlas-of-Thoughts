@@ -25,6 +25,97 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "67c57946f71c1bd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Year 2/S2 Human Computer Interaction/Notes/$ Human Computer Interaction.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Human Computer Interaction"
+            }
+          },
+          {
+            "id": "85408bd7723df54e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Year 2/S2 Human Computer Interaction/Notes/Data Gathering.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Data Gathering"
+            }
+          },
+          {
+            "id": "ab5515ea4cc1d526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Year 2/S2 Human Computer Interaction/Notes/Human Computer Interaction.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Human Computer Interaction"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "f2d0679ecd0684e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41596daa523e0e9a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2. University/Year 2/S2 Human Computer Interaction/Exam Papers/CMPU 2008 2024-2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CMPU 2008 2024-2025"
+            }
           }
         ]
       }
@@ -112,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -236,14 +328,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0158bffff2e95e83",
+  "active": "85408bd7723df54e",
   "lastOpenFiles": [
-    "1. Home Page/Home.canvas",
-    "2. University/Year 2/S2 Data Communications/Notes/Transmission Medium.md",
+    "2. University/Year 2/S2 Human Computer Interaction/Notes/Data Gathering.md",
     "2. University/Year 2/S2 Human Computer Interaction/Notes/$ Human Computer Interaction.md",
+    "2. University/Year 2/S2 Human Computer Interaction/Notes/Human Computer Interaction.md",
+    "2. University/Year 2/S2 Human Computer Interaction/Exam Papers/CMPU 2008 2024-2025.pdf",
+    "1. Home Page/Home.canvas",
+    "2. University/Year 2/S2 Human Computer Interaction/Exam Papers/CMPU 2008 2018-2019.pdf",
+    "2. University/Year 2/S2 Data Communications/Notes/Transmission Medium.md",
     "2. University/Year 2/S2 Data Communications/Notes/Noise.md",
     "2. University/Year 2/S2 Data Communications/Notes/Chanel Capacity.md",
-    "2. University/Year 2/S2 Human Computer Interaction/Notes/HCI - Intro.md",
     "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md",
     "2. University/Year 2/S2 Data Communications/Notes/Transmission System.md",
     "2. University/Year 2/S2 Data Communications/Notes/Transmission Signal.md",
@@ -282,8 +377,6 @@
     "2. University/Year 2/S2 Algorithms & Data Structures/Labs/Week 1/StackTest.class",
     "2. University/Year 2/S2 Algorithms & Data Structures/Labs/Week 1/Stack.class",
     "2. University/Year 2/S2 Algorithms & Data Structures/Labs/Week 1/Stack$Node.class",
-    "2. University/Year 2/S2 Algorithms & Data Structures/Labs/Week 1/StackTest.java",
-    "2. University/Year 2/S2 Algorithms & Data Structures/Labs/Week 1/stackTest.java",
     "Untitled.canvas"
   ]
 }
