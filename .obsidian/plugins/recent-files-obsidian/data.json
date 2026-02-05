@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Setup",
+      "path": "1. Home Page/Setup.md"
+    },
+    {
       "basename": "Transmission Medium",
       "path": "2. University/Year 2/S2 Data Communications/Notes/Transmission Medium.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "TU856-Year2",
       "path": "1. Home Page/TU856-Year2.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "$ Data Communications",
@@ -79,10 +83,6 @@
     {
       "basename": "Brainstorm",
       "path": "3. General/Projects/CLI Games/Brainstorm.md"
-    },
-    {
-      "basename": "Setup",
-      "path": "1. Home Page/Setup.md"
     },
     {
       "basename": "To Do",

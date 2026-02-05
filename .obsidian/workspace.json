@@ -17,7 +17,7 @@
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
                   "x": -380,
-                  "y": 110,
+                  "y": -266.6864482465149,
                   "zoom": -0.8660273440294796
                 }
               },
@@ -74,8 +74,7 @@
               "title": "$ Human Computer Interaction"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -286,14 +285,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "13d5810bceaf9e8b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2. University/Year 2/S2 Data Communications/Notes/Transmission Medium.md",
     "2. University/Year 2/S2 Human Computer Interaction/Notes/$ Human Computer Interaction.md",
     "2. University/Year 2/S2 Data Communications/Notes/Noise.md",
     "2. University/Year 2/S2 Data Communications/Notes/Chanel Capacity.md",
     "2. University/Year 2/S2 Human Computer Interaction/Notes/HCI - Intro.md",
     "1. Home Page/Home.canvas",
-    "2. University/Year 2/S2 Data Communications/Notes/Transmission Medium.md",
     "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md",
     "2. University/Year 2/S2 Data Communications/Notes/Transmission System.md",
     "2. University/Year 2/S2 Data Communications/Notes/Transmission Signal.md",
