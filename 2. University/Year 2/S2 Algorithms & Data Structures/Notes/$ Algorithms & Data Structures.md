@@ -25,6 +25,7 @@
 - [[Queue - FIFO]]
 	- [[Queue - Java]]
 	- [[!Circular Buffer Queue - Java]]
+- [[Priority Queue]]
 - [[Heap]]
 
 

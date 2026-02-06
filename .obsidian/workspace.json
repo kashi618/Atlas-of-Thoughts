@@ -10,6 +10,7 @@
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -20,11 +21,61 @@
                   "zoom": -0.9257335901537476
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
+          },
+          {
+            "id": "94ee5a7a6237d8a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Heap"
+            }
+          },
+          {
+            "id": "7a0709c89435fb01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Priority Queue.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Priority Queue"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,8 +285,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "94ee5a7a6237d8a0",
   "lastOpenFiles": [
+    "2. University/Year 2/S2 Algorithms & Data Structures/Notes/$ Algorithms & Data Structures.md",
+    "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Priority Queue.md",
+    "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap.md",
+    "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Queue - Java.md",
     "1. Home Page/Home.canvas",
     "2. University/Year 2/S2 Human Computer Interaction/Exam Papers/CMPU 2008 2024-2025.pdf",
     "2. University/Year 2/S2 Human Computer Interaction/Notes/Data Gathering.md",
@@ -268,11 +323,8 @@
     "Excalidraw",
     "3. General/Projects",
     "3. General/Projects/CLI Games",
-    "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap.md",
     "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Pasted image 20260130144653.png",
-    "2. University/Year 2/S2 Algorithms & Data Structures/Notes/$ Algorithms & Data Structures.md",
     "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Stacks - Java.md",
-    "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Queue - Java.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Queue - FIFO.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Stacks - LIFO.md",
     "2. University/Year 2/S2 Data Communications/Notes/Continuous Signal.png",

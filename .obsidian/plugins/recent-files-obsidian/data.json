@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Heap",
+      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap.md"
+    },
+    {
+      "basename": "$ Algorithms & Data Structures",
+      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/$ Algorithms & Data Structures.md"
+    },
+    {
+      "basename": "Priority Queue",
+      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Priority Queue.md"
+    },
+    {
+      "basename": "Queue - Java",
+      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Queue - Java.md"
+    },
+    {
+      "basename": "TU856-Year2",
+      "path": "1. Home Page/TU856-Year2.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -39,10 +59,6 @@
     {
       "basename": "Chanel Capacity",
       "path": "2. University/Year 2/S2 Data Communications/Notes/Chanel Capacity.md"
-    },
-    {
-      "basename": "TU856-Year2",
-      "path": "1. Home Page/TU856-Year2.md"
     },
     {
       "basename": "$ Data Communications",
@@ -101,20 +117,8 @@
       "path": "1. Home Page/To Do.md"
     },
     {
-      "basename": "Heap",
-      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap.md"
-    },
-    {
-      "basename": "$ Algorithms & Data Structures",
-      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/$ Algorithms & Data Structures.md"
-    },
-    {
       "basename": "Stacks - Java",
       "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Stacks - Java.md"
-    },
-    {
-      "basename": "Queue - Java",
-      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Queue - Java.md"
     },
     {
       "basename": "Queue - FIFO",
@@ -195,10 +199,6 @@
     {
       "basename": "CMPU 2016  2024-2025",
       "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/CMPU 2016  2024-2025.md"
-    },
-    {
-      "basename": "Writing JavaDocs",
-      "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/Writing JavaDocs.md"
     }
   ],
   "omittedPaths": [],
