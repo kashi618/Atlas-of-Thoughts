@@ -1,5 +1,5 @@
 
-gggggbbbbbggbbbbbbbbbbbbbbbbbbbbbbbbbbbgbbbbbbbb[[Common Law]]
+[[Common Law]]
 [[Curia Regis]]
 [[Magna Carta 1215]]
 
