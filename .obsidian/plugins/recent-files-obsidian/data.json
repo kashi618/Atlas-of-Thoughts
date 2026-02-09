@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "$ Legal and Professional Issues",
+      "path": "2. University/Year 2/S2 Legal and Professional Issues/Notes/$ Legal and Professional Issues.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Priority Queue",
+      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Priority Queue.md"
+    },
+    {
       "basename": "Heap",
       "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap.md"
     },
@@ -9,20 +21,12 @@
       "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/$ Algorithms & Data Structures.md"
     },
     {
-      "basename": "Priority Queue",
-      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Priority Queue.md"
-    },
-    {
       "basename": "Queue - Java",
       "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Queue - Java.md"
     },
     {
       "basename": "TU856-Year2",
       "path": "1. Home Page/TU856-Year2.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "CMPU 2008 2024-2025",
@@ -195,10 +199,6 @@
     {
       "basename": "Super",
       "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/Super.md"
-    },
-    {
-      "basename": "CMPU 2016  2024-2025",
-      "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/CMPU 2016  2024-2025.md"
     }
   ],
   "omittedPaths": [],
