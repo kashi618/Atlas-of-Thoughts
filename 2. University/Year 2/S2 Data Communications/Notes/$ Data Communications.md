@@ -35,3 +35,4 @@ slide 19
 **Channel Capacity**
 [[Chanel Capacity]]
 	- [[Noise Free and Noisy Channels - Nyquist and Shannon]]
+

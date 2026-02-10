@@ -49,9 +49,57 @@
               "icon": "lucide-file",
               "title": "$ Legal and Professional Issues"
             }
+          },
+          {
+            "id": "a0c705820a86573c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Year 2/S2 Legal and Professional Issues/Notes/Utilitarianism.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Utilitarianism"
+            }
+          },
+          {
+            "id": "46e1290b8012d258",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "$ Data Communications"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 267.5,
+    "collapsed": true
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -261,9 +310,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "797ed32f95ea9d9d",
+  "active": "46e1290b8012d258",
   "lastOpenFiles": [
+    "2. University/Year 2/S1 Operating Systems 2/Notes/Stacks - LIFO.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md",
+    "2. University/Year 2/S1 Operating Systems 2/Notes/!OS2.md",
     "1. Home Page/Home.canvas",
+    "2. University/Year 2/S2 Legal and Professional Issues/Notes/Utilitarianism.md",
+    "2. University/Year 2/S2 Legal and Professional Issues/Notes/Kantianism.md",
+    "2. University/Year 2/S2 Legal and Professional Issues/Notes/$ Legal and Professional Issues.md",
+    "2. University/Year 2/S2 Legal and Professional Issues/Notes/Divine Command Theory.md",
+    "2. University/Year 2/S2 Legal and Professional Issues/Notes/Relativism.md",
+    "2. University/Year 1/Algorithm Design and Problem Solving/Unsorted/Searching Algorithms.md",
+    "2. University/Algorithms/Searching Algorithms/Binary Search.md",
+    "2. University/Year 2/S2 Algorithms & Data Structures/Notes/t122.use",
     "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Priority Queue.md",
     "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap.md",
     "2. University/Year 2/S2 Algorithms & Data Structures/Notes/$ Algorithms & Data Structures.md",
@@ -289,26 +349,16 @@
     "2. University/Year 2/S2 Data Communications/Notes/Thermal Noise Graph.png",
     "2. University/Year 2/S2 Data Communications/Notes/Attenuation.md",
     "2. University/Year 2/S2 Data Communications/Notes/Pasted image 20260203163125.png",
-    "2. University/Year 2/S2 Data Communications/Notes/Transmission Impairments.md",
-    "2. University/Year 2/S2 Data Communications/Notes/Digital vs Analogue.md",
-    "2. University/Year 2/S2 Data Communications/Notes/Transmitting Signals - Modem and Codec.md",
-    "2. University/Year 2/S2 Data Communications/Notes/Bandwidth and Frequency.md",
-    "2. University/Year 2/S2 Data Communications/Notes/!Signaling Concepts.md",
-    "3. General/Projects/CLI Games/CLI Games - GDD.md",
-    "3. General/Projects/CLI Games/Brainstorm.md",
     "Excalidraw",
     "3. General/Projects",
     "3. General/Projects/CLI Games",
     "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Pasted image 20260130144653.png",
-    "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Stacks - Java.md",
-    "2. University/Year 2/S1 Operating Systems 2/Notes/Queue - FIFO.md",
     "2. University/Year 2/S2 Data Communications/Notes/Continuous Signal.png",
     "2. University/Year 2/S2 Data Communications/Notes/Attenuation - Analogue Amplitude.png",
     "2. University/Year 2/S2 Software Engineering 2/Lab/Boobies-20260130T100745Z-3-001.5J_poh1O.zip.part",
     "2. University/Year 2/S2 Software Engineering 2/Lab/Boobies-20260130T100745Z-3-001.zip",
     "2. University/Year 2/S2 Algorithms & Data Structures/Labs/Week 1/StackTest.class",
     "2. University/Year 2/S2 Algorithms & Data Structures/Labs/Week 1/Stack.class",
-    "2. University/Year 2/S2 Algorithms & Data Structures/Labs/Week 1/Stack$Node.class",
     "Untitled.canvas"
   ]
 }

@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "$ Legal and Professional Issues",
-      "path": "2. University/Year 2/S2 Legal and Professional Issues/Notes/$ Legal and Professional Issues.md"
+      "basename": "$ Data Communications",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md"
+    },
+    {
+      "basename": "Stacks - LIFO",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Stacks - LIFO.md"
+    },
+    {
+      "basename": "$ Operating Systems 2",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md"
+    },
+    {
+      "basename": "!OS2",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/!OS2.md"
     },
     {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Utilitarianism",
+      "path": "2. University/Year 2/S2 Legal and Professional Issues/Notes/Utilitarianism.md"
+    },
+    {
+      "basename": "Kantianism",
+      "path": "2. University/Year 2/S2 Legal and Professional Issues/Notes/Kantianism.md"
+    },
+    {
+      "basename": "$ Legal and Professional Issues",
+      "path": "2. University/Year 2/S2 Legal and Professional Issues/Notes/$ Legal and Professional Issues.md"
+    },
+    {
+      "basename": "Divine Command Theory",
+      "path": "2. University/Year 2/S2 Legal and Professional Issues/Notes/Divine Command Theory.md"
+    },
+    {
+      "basename": "Relativism",
+      "path": "2. University/Year 2/S2 Legal and Professional Issues/Notes/Relativism.md"
+    },
+    {
+      "basename": "Searching Algorithms",
+      "path": "2. University/Year 1/Algorithm Design and Problem Solving/Unsorted/Searching Algorithms.md"
+    },
+    {
+      "basename": "Binary Search",
+      "path": "2. University/Algorithms/Searching Algorithms/Binary Search.md"
     },
     {
       "basename": "Priority Queue",
@@ -63,10 +103,6 @@
     {
       "basename": "Chanel Capacity",
       "path": "2. University/Year 2/S2 Data Communications/Notes/Chanel Capacity.md"
-    },
-    {
-      "basename": "$ Data Communications",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md"
     },
     {
       "basename": "Transmission System",
@@ -129,16 +165,8 @@
       "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Queue - FIFO.md"
     },
     {
-      "basename": "Stacks - LIFO",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Stacks - LIFO.md"
-    },
-    {
       "basename": "AADS - Algorithms & Data Structures",
       "path": "6. Templates/AADS - Algorithms & Data Structures.md"
-    },
-    {
-      "basename": "$ Operating Systems 2",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/$ Operating Systems 2.md"
     },
     {
       "basename": "Linked Lists",
@@ -171,34 +199,6 @@
     {
       "basename": "SAP STAR Program Interview",
       "path": "3. General/Notes/SAP STAR Program Interview.md"
-    },
-    {
-      "basename": "Structures - Creating Structures - C",
-      "path": "2. University/Year 1/Programming/Structures - Creating Structures - C.md"
-    },
-    {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/Year 1/Programming/$ C - Programming Language.md"
-    },
-    {
-      "basename": "Ternary Operators - C",
-      "path": "2. University/Year 1/Programming/Ternary Operators - C.md"
-    },
-    {
-      "basename": "$ Java - Programming Language",
-      "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/$ Java - Programming Language.md"
-    },
-    {
-      "basename": "extends - Java",
-      "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/extends - Java.md"
-    },
-    {
-      "basename": "Inheritance - Java",
-      "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/Inheritance - Java.md"
-    },
-    {
-      "basename": "Super",
-      "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/Super.md"
     }
   ],
   "omittedPaths": [],
