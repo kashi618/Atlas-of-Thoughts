@@ -3,8 +3,16 @@ tags:
   - DataCommunications
 aliases:
 ---
+## Signal Concepts
+| Concept             | Description                                                |
+| ------------------- | ---------------------------------------------------------- |
+| Spectrum            | The range of frequencies within a signal                   |
+| Absolute Bandwidth  | The total width of the frequency spectrum                  |
+| Effective Bandwidth | The practical frequency containing most of a signals power |
+| D.C Component       | The zero-frequency component of a signal's spectrum        |
 
-## Types
+
+## Types of Signals
 ### Continuous
 - At any point of time, there will always be a value
 - There are no breaks or discontinuities

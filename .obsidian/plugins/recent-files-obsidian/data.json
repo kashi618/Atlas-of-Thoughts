@@ -1,8 +1,88 @@
 {
   "recentFiles": [
     {
+      "basename": "Heap",
+      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap.md"
+    },
+    {
+      "basename": "$ Algorithms & Data Structures",
+      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/$ Algorithms & Data Structures.md"
+    },
+    {
+      "basename": "Queue - FIFO",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Queue - FIFO.md"
+    },
+    {
+      "basename": "Priority Queue",
+      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Priority Queue.md"
+    },
+    {
+      "basename": "TU856-Year2",
+      "path": "1. Home Page/TU856-Year2.md"
+    },
+    {
+      "basename": "Obsidian Keybinds",
+      "path": "1. Home Page/Obsidian Keybinds.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Data Encoding",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Data Encoding.md"
+    },
+    {
       "basename": "$ Data Communications",
       "path": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md"
+    },
+    {
+      "basename": "Delta modulation and PCM",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Delta modulation and PCM.md"
+    },
+    {
+      "basename": "Analogue Data to Digital Signal",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Analogue Data to Digital Signal.md"
+    },
+    {
+      "basename": "Modulation Rate vs (Bit Rate and Signal Element)",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Modulation Rate vs (Bit Rate and Signal Element).md"
+    },
+    {
+      "basename": "Digital vs Analogue",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Digital vs Analogue.md"
+    },
+    {
+      "basename": "Transmitting Signals - Modem and Codec",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Transmitting Signals - Modem and Codec.md"
+    },
+    {
+      "basename": "Sine Waves",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Sine Waves.md"
+    },
+    {
+      "basename": "Signal Concepts",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Signal Concepts.md"
+    },
+    {
+      "basename": "Data Transmission",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Data Transmission.md"
+    },
+    {
+      "basename": "Fourier Analysis",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Fourier Analysis.md"
+    },
+    {
+      "basename": "Topics",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Topics.md"
+    },
+    {
+      "basename": "Bandwidth and Frequency",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Bandwidth and Frequency.md"
+    },
+    {
+      "basename": "!Low and High bandwidth",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/!Low and High bandwidth.md"
     },
     {
       "basename": "Stacks - LIFO",
@@ -15,10 +95,6 @@
     {
       "basename": "!OS2",
       "path": "2. University/Year 2/S1 Operating Systems 2/Notes/!OS2.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Utilitarianism",
@@ -49,24 +125,8 @@
       "path": "2. University/Algorithms/Searching Algorithms/Binary Search.md"
     },
     {
-      "basename": "Priority Queue",
-      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Priority Queue.md"
-    },
-    {
-      "basename": "Heap",
-      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap.md"
-    },
-    {
-      "basename": "$ Algorithms & Data Structures",
-      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/$ Algorithms & Data Structures.md"
-    },
-    {
       "basename": "Queue - Java",
       "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Queue - Java.md"
-    },
-    {
-      "basename": "TU856-Year2",
-      "path": "1. Home Page/TU856-Year2.md"
     },
     {
       "basename": "CMPU 2008 2024-2025",
@@ -93,28 +153,12 @@
       "path": "1. Home Page/Setup.md"
     },
     {
-      "basename": "Transmission Medium",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Transmission Medium.md"
-    },
-    {
       "basename": "Noise",
       "path": "2. University/Year 2/S2 Data Communications/Notes/Noise.md"
     },
     {
       "basename": "Chanel Capacity",
       "path": "2. University/Year 2/S2 Data Communications/Notes/Chanel Capacity.md"
-    },
-    {
-      "basename": "Transmission System",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Transmission System.md"
-    },
-    {
-      "basename": "Transmission Signal",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Transmission Signal.md"
-    },
-    {
-      "basename": "Data Transmission",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Data Transmission.md"
     },
     {
       "basename": "Noise Free and Noisy Channels - Nyquist and Shannon",
@@ -127,22 +171,6 @@
     {
       "basename": "Transmission Impairments",
       "path": "2. University/Year 2/S2 Data Communications/Notes/Transmission Impairments.md"
-    },
-    {
-      "basename": "Digital vs Analogue",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Digital vs Analogue.md"
-    },
-    {
-      "basename": "Transmitting Signals - Modem and Codec",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Transmitting Signals - Modem and Codec.md"
-    },
-    {
-      "basename": "Bandwidth and Frequency",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Bandwidth and Frequency.md"
-    },
-    {
-      "basename": "!Signaling Concepts",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/!Signaling Concepts.md"
     },
     {
       "basename": "CLI Games - GDD",
@@ -161,10 +189,6 @@
       "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Stacks - Java.md"
     },
     {
-      "basename": "Queue - FIFO",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Queue - FIFO.md"
-    },
-    {
       "basename": "AADS - Algorithms & Data Structures",
       "path": "6. Templates/AADS - Algorithms & Data Structures.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "OS2",
       "path": "6. Templates/OS2.md"
-    },
-    {
-      "basename": "Fourier Analysis",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Fourier Analysis.md"
-    },
-    {
-      "basename": "Continuous Signal",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Continuous Signal.png"
-    },
-    {
-      "basename": "Attenuation - Amplitude Dropping",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Attenuation - Amplitude Dropping.png"
-    },
-    {
-      "basename": "Bandwidth & Data Rate",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Bandwidth & Data Rate.md"
-    },
-    {
-      "basename": "TV Shows & Movies & Anime & Manga",
-      "path": "3. General/Lists/TV Shows & Movies & Anime & Manga.md"
-    },
-    {
-      "basename": "SAP STAR Program Interview",
-      "path": "3. General/Notes/SAP STAR Program Interview.md"
     }
   ],
   "omittedPaths": [],

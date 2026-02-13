@@ -5,34 +5,40 @@ https://tudublin-my.sharepoint.com/personal/damian_bourke_tudublin_ie/_layouts/1
 
 ## Data Transmission
 - [[Data Transmission]]
-	- [[Transmission Signal]]
-	- [[Transmission System]]
-	- [[Transmission Medium]]
-	- [[Signal Characteristics]]
+- [[Signal Concepts]]
+	- [[Sine Waves]]
+	- [[Fourier Analysis]]
 
-- [[Sine Wave Equations]]
-- [[Fourier Analysis]] **A complex wave can be represented by the sum of a series of sine waves**
-- [[!Signaling Concepts]]
-
-- One cycle has two bits. Sine wave. (higher = 1, lower = 0) Or whatever bits
-- Spectrum
-- Absolute bandwidth
-
-slide 19
-
-
-- [[Bandwidth and Frequency]]merge
-- [[Bandwidth & Data Rate]]merge
-- 
+## Digital and Analogue
 - [[Digital vs Analogue]] merge
 - [[Transmitting Signals - Modem and Codec]] merge
 
-**Signal Quality Loss**
+## Bandwidth and Frequency
+- [[Bandwidth and Frequency]]merge
+- [[!Low and High bandwidth]]
+- [[Bandwidth & Data Rate]]merge
+
+## Signal Quality Loss
 - [[Transmission Impairments]] 
 	- [[Attenuation]] Reduction of signal strength over distance
 	- [[Noise]]
 
-**Channel Capacity**
+## Channel Capacity
 [[Chanel Capacity]]
 	- [[Noise Free and Noisy Channels - Nyquist and Shannon]]
+
+## Data Encoding
+- Maybe separate into
+- Digital Data/Digital Signal
+- Digital Data/Analogue Signal
+- Analogue Data/Digital Signal
+- Analogue Data/Analogue Signal
+
+
+- [[Data Encoding]]
+- [[Modulation Rate vs (Bit Rate and Signal Element)]] 
+- [[Modulation Rate vs Bit Rate]]
+
+[[Analogue Data to Digital Signal]]
+[[Delta modulation and PCM]]
 

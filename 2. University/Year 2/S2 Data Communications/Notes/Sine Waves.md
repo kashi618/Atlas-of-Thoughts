@@ -3,8 +3,8 @@ tags:
   - DataCommunications
 aliases:
 ---
-
-## General Sine Wave Equation
+## Calculating Sine Waves
+### General Sine Wave Equation
 **$s(t)=A\sin(2\pi.ft+\emptyset$**
 
 $A=Amplitude$
@@ -21,7 +21,7 @@ The measure of the relative position within a cycle of a signal
 ![[Example Sine Wave Functions.png]]
 
 
-## Composite Sine Waves
+### Composite Sine Waves
 ![[Other Sine Wave Functions.png]]
 When the two left waves are added togethor, you get the second wave
 

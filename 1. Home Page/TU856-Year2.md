@@ -3,3 +3,4 @@
 [[$ Data Communications]]
 [[$ Human Computer Interaction]]
 [[$ Software Engineering 2]]
+[[$ Algorithms & Data Structures]]
