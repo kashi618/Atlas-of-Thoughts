@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Linked Lists",
       "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Linked Lists.md"
-    },
-    {
-      "basename": "OS2",
-      "path": "6. Templates/OS2.md"
     }
   ],
   "omittedPaths": [],
