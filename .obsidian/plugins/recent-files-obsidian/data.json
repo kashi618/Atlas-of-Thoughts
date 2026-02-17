@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
       "basename": "Heap",
       "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Obsidian Keybinds",
       "path": "1. Home Page/Obsidian Keybinds.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
     },
     {
       "basename": "Data Encoding",
