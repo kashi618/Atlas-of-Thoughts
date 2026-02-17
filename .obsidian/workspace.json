@@ -25,33 +25,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Home"
             }
-          },
-          {
-            "id": "eb61e1b98920ada6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,10 +235,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "eb61e1b98920ada6",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "1. Home Page/Home.canvas",
     "conflict-files-obsidian-git.md",
+    "1. Home Page/Home.canvas",
     "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap.md",
     "2. University/Year 2/S2 Algorithms & Data Structures/Notes/$ Algorithms & Data Structures.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Queue - FIFO.md",
