@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Heap",
+      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap.md"
+    },
+    {
+      "basename": "$ Algorithms & Data Structures",
+      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/$ Algorithms & Data Structures.md"
+    },
+    {
+      "basename": "Priority Queue",
+      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Priority Queue.md"
+    },
+    {
+      "basename": "Binary Tree",
+      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Binary Tree.md"
+    },
+    {
       "basename": "Home",
       "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Heap Condition",
+      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap Condition.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Untitled.md"
     },
     {
       "basename": "HCI",
@@ -175,22 +199,6 @@
     {
       "basename": "Requirements Engineering",
       "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Requirements Engineering.md"
-    },
-    {
-      "basename": "CMPU 2019 | 2019-2020",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2019-2020.pdf"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.canvas"
-    },
-    {
-      "basename": "Formal Specification",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Formal Specification.md"
-    },
-    {
-      "basename": "Agile Development",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Agile Development.md"
     }
   ],
   "omittedPaths": [],

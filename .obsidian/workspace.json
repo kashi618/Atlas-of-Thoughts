@@ -17,8 +17,8 @@
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
                   "x": -380,
-                  "y": 110,
-                  "zoom": -1.8509555234152546
+                  "y": 80,
+                  "zoom": -1.907333751821768
                 }
               },
               "pinned": true,
@@ -27,15 +27,27 @@
             }
           },
           {
-            "id": "a81b90b302921721",
+            "id": "09b3fc72ed7f1302",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "Heap"
             }
           }
         ],
@@ -124,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 398.5,
+    "collapsed": true
   },
   "right": {
     "id": "6093574c6847bdb3",
@@ -218,6 +231,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -236,54 +250,55 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "a81b90b302921721",
+  "active": "09b3fc72ed7f1302",
   "lastOpenFiles": [
+    "2. University/Year 2/S2 Algorithms & Data Structures/Notes/$ Algorithms & Data Structures.md",
+    "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap.md",
+    "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Priority Queue.md",
+    "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Binary Tree.md",
     "1. Home Page/Home.canvas",
-    "2. University/Year 2/S2 Human Computer Interaction/Notes/HCI - Intro.md",
-    "6. Templates/HCI.md",
-    "2. University/Year 2/S2 Human Computer Interaction/Notes/$ Human Computer Interaction.md",
-    "Ink/Drawing/2025.9.16 - 13.26pm.drawing",
-    "8. Other/Descartes.gif",
-    "7. UNSORTED/Untitled.md",
-    "1. Home Page/TU856-Year2.md",
-    "conflict-files-obsidian-git.md",
-    "6. Templates/SE2.md",
-    "6. Templates/LAPI.md",
-    "6. Templates/DC - Data Communications.md",
-    "2. University/Year 2/S2 Software Engineering 2/Notes/$ Software Engineering 2.md",
-    "2. University/Year 2/S2 Software Engineering 2/Notes/Testing Strategies.png",
-    "2. University/Year 2/S2 Software Engineering 2/Notes/Testing Strategies.md",
-    "2. University/Year 2/S2 Software Engineering 2/Notes",
-    "2. University/Year 2/S2 Software Engineering 2/Lab/Order_centralised_default.clt",
-    "2. University/Year 2/S2 Software Engineering 2/Lab/Order_centralised.use",
-    "2. University/Year 2/S2 Software Engineering 2/Lab/Order.soil",
-    "2. University/Year 2/S2 Software Engineering 2/Lab",
-    "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU 2020 2023-2024.pdf",
-    "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU 2020 2021-2022.pdf",
-    "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU 2020 2024-2025.pdf",
-    "2. University/Year 2/S2 Software Engineering 2/Exam Papers/CMPU 2020 2022-2023.pdf",
-    "2. University/Year 2/S2 Gen-AI/$ Gen-AI.md",
-    "2. University/Year 2/Results - Semester 2.md",
-    "2. University/Year 2/Results - Semester 1.md",
-    "3. General/Lists/TV Shows & Movies & Anime & Manga.md",
-    "3. General/Notes/SAP STAR Program Interview.md",
-    "2. University/Year 1/Programming/Structures - Creating Structures - C.md",
-    "2. University/Year 1/Programming/$ C - Programming Language.md",
-    "2. University/Year 1/Programming/Ternary Operators - C.md",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/$ Java - Programming Language.md",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/??Extends - Java.md",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/extends - Java.md",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/Inheritance - Java.md",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/Super.md",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/CMPU 2016  2024-2025.md",
-    "2. University/Year 2/S1 Object Oriented Programming/Notes/Pasted image 20260116102052.png",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005112.png",
-    "Untitled.canvas",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005038.png",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113005032.png",
-    "2. University/Year 2/S1 Software Engineering 1/Notes/Pasted image 20260113000154.png",
-    "2. University/Year 1/Programming/Pasted image 20250929101751.png",
-    "2. University/Year 1/Programming/Pasted image 20250929101751.png",
-    "2. University/Year 2/S1 Databases 1/Pasted image 20260102204829.png"
+    "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap Condition.md",
+    "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Binary Tree.png",
+    "2. University/Year 2/S2 Algorithms & Data Structures/Notes/!Circular Buffer Queue - Java.md",
+    "2. University/Year 2/S2 Algorithms & Data Structures/Untitled.md",
+    "6. Templates/AADS - Algorithms & Data Structures.md",
+    "3. General/Projects/CLI Games/CLI Games - GDD.md",
+    "3. General/Projects/CLI Games/Brainstorm.md",
+    "3. General/Projects/CLI Games",
+    "3. General/Projects",
+    "2. University/Year 2/S2 Legal and Professional Issues/Notes/Utilitarianism.md",
+    "2. University/Year 2/S2 Legal and Professional Issues/Notes/Relativism.md",
+    "2. University/Year 2/S2 Legal and Professional Issues/Notes/Kantianism.md",
+    "2. University/Year 2/S2 Legal and Professional Issues/Notes/Divine Command Theory.md",
+    "2. University/Year 2/S2 Human Computer Interaction/Notes/Human Computer Interaction.md",
+    "2. University/Year 2/S2 Human Computer Interaction/Notes/Data Gathering.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Transmitting Signals - Modem and Codec.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Transmission Impairments.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Thermal and Impulse Noise.png",
+    "2. University/Year 2/S2 Data Communications/Notes/Thermal Noise Graph.png",
+    "2. University/Year 2/S2 Data Communications/Notes/Thermal Noise Extreme.png",
+    "2. University/Year 2/S2 Data Communications/Notes/Sine Waves.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Signal Concepts.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Quadrature PSK.png",
+    "2. University/Year 2/S2 Data Communications/Notes/Pasted image 20260213115039.png",
+    "2. University/Year 2/S2 Data Communications/Notes/Pasted image 20260213113716.png",
+    "2. University/Year 2/S2 Data Communications/Notes/Pasted image 20260210165321.png",
+    "2. University/Year 2/S2 Data Communications/Notes/Pasted image 20260210163813.png",
+    "2. University/Year 2/S2 Data Communications/Notes/Pasted image 20260203164153.png",
+    "2. University/Year 2/S2 Data Communications/Notes/Noise.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Noise Free and Noisy Channels - Nyquist and Shannon.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Modulation Rate vs (Bit Rate and Signal Element).md",
+    "2. University/Year 2/S2 Data Communications/Notes/Digital vs Analogue.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Delta modulation and PCM.md",
+    "2. University/Year 2/S2 Data Communications/Notes/Data Encoding.md",
+    "2. University/Year 2/S2 Data Communications/Lecture Materials/06_AnalogueSigEncoding.pdf",
+    "2. University/Year 2/S2 Data Communications/Lecture Materials/05_DigSigEncoding.pdf",
+    "2. University/Year 2/S2 Data Communications/Lecture Materials/04_TxMedia.pdf",
+    "2. University/Year 2/S2 Data Communications/Lecture Materials/03_DataImpairments.pdf",
+    "2. University/Year 2/S2 Data Communications/Lecture Materials/02_DataTrans.pdf",
+    "2. University/Year 2/S2 Data Communications/Lecture Materials/01_Intro.pdf",
+    "2. University/Year 2/S2 Data Communications/Lecture Materials",
+    "2. University/Year 2/S2 Algorithms & Data Structures/Notes/t122.use",
+    "Untitled.canvas"
   ]
 }

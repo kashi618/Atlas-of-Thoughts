@@ -4,9 +4,10 @@ tags:
 aliases:
 ---
 ## What is it?
-Heap is a complete binary tree obeying the heap condition.
-**Heap Condition**
-The priority of the parent node, greater or equal than the priority of the left and right child
+A heap is a way to implement a priority queue
+A Heap is a complete [[Binary Tree|binary tree]] that obeys the [[Heap Condition|heap condition]]
+
+
 
 
 ## Example

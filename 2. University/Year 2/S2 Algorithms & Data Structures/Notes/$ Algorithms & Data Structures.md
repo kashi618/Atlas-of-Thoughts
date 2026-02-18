@@ -24,9 +24,14 @@
 	- [[Stacks - Java]]
 - [[Queue - FIFO]]
 	- [[Queue - Java]]
-	- [[!Circular Buffer Queue - Java]]
+
+**Binary Trees, Heaps, Priority Queues**
 - [[Priority Queue]]
-- [[Heap]]
+	- [[Heap]]
+		- [[Binary Tree]]
+	
+
+
 
 
 
