@@ -5,12 +5,28 @@
       "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap Functions.md"
     },
     {
-      "basename": "arrow box",
-      "path": "6. Templates/arrow box.md"
-    },
-    {
       "basename": "$ Algorithms & Data Structures",
       "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/$ Algorithms & Data Structures.md"
+    },
+    {
+      "basename": "Queue - Java",
+      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Queue - Java.md"
+    },
+    {
+      "basename": "Queue - FIFO",
+      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Queue - FIFO.md"
+    },
+    {
+      "basename": "Priority Queue",
+      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Priority Queue.md"
+    },
+    {
+      "basename": "Heaps",
+      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heaps.md"
+    },
+    {
+      "basename": "arrow box",
+      "path": "6. Templates/arrow box.md"
     },
     {
       "basename": "Home",
@@ -21,16 +37,8 @@
       "path": "1. Home Page/TU856-Year2.md"
     },
     {
-      "basename": "Heaps",
-      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heaps.md"
-    },
-    {
       "basename": "Binary Tree",
       "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Binary Tree.md"
-    },
-    {
-      "basename": "Priority Queue",
-      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Priority Queue.md"
     },
     {
       "basename": "Heap Condition",
@@ -191,14 +199,6 @@
     {
       "basename": "CMPU 2019 | 2018-2019",
       "path": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2018-2019.pdf"
-    },
-    {
-      "basename": "CMPU 2019 | 2024-2025",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2024-2025.pdf"
-    },
-    {
-      "basename": "CMPU 2019 | 2022-2023",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2022-2023.pdf"
     }
   ],
   "omittedPaths": [],
