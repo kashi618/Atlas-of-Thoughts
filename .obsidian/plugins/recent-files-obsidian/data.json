@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Heap",
-      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap.md"
+      "basename": "Heap Functions",
+      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap Functions.md"
+    },
+    {
+      "basename": "arrow box",
+      "path": "6. Templates/arrow box.md"
     },
     {
       "basename": "$ Algorithms & Data Structures",
       "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/$ Algorithms & Data Structures.md"
     },
     {
-      "basename": "Priority Queue",
-      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Priority Queue.md"
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "TU856-Year2",
+      "path": "1. Home Page/TU856-Year2.md"
+    },
+    {
+      "basename": "Heaps",
+      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heaps.md"
     },
     {
       "basename": "Binary Tree",
       "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Binary Tree.md"
     },
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
+      "basename": "Priority Queue",
+      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Priority Queue.md"
     },
     {
       "basename": "Heap Condition",
@@ -43,10 +55,6 @@
     {
       "basename": "Untitled",
       "path": "7. UNSORTED/Untitled.md"
-    },
-    {
-      "basename": "TU856-Year2",
-      "path": "1. Home Page/TU856-Year2.md"
     },
     {
       "basename": "TV Shows & Movies & Anime & Manga",
@@ -191,14 +199,6 @@
     {
       "basename": "CMPU 2019 | 2022-2023",
       "path": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2022-2023.pdf"
-    },
-    {
-      "basename": "CMPU 2019 | 2023-2024",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Exam Papers/CMPU 2019 | 2023-2024.pdf"
-    },
-    {
-      "basename": "Requirements Engineering",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/Requirements Engineering.md"
     }
   ],
   "omittedPaths": [],

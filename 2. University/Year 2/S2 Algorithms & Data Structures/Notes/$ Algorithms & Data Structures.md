@@ -27,8 +27,9 @@
 
 **Binary Trees, Heaps, Priority Queues**
 - [[Priority Queue]]
-	- [[Heap]]
-		- [[Binary Tree]]
+- [[Binary Tree]]
+- [[Heaps]]
+- [[Heap Functions]]
 	
 
 
