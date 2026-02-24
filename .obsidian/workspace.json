@@ -16,9 +16,9 @@
               "state": {
                 "file": "1. Home Page/Home.canvas",
                 "viewState": {
-                  "x": -348.61670139877685,
-                  "y": -336.23844774853035,
-                  "zoom": -0.8257417898720898
+                  "x": -380,
+                  "y": 80,
+                  "zoom": -0.9190155568694032
                 }
               },
               "pinned": true,
@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "c4a772c698fac0ea",
+            "id": "7b64e5cb268c2986",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap Functions.md",
+                "file": "2. University/Year 2/S2 Legal and Professional Issues/Notes/$ Legal and Professional Issues.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,31 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Heap Functions"
-            }
-          },
-          {
-            "id": "99436a112e0c6174",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/$ Algorithms & Data Structures.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "$ Algorithms & Data Structures"
+              "title": "$ Legal and Professional Issues"
             }
           }
         ],
@@ -274,16 +250,28 @@
       "pixel-pets:Toggle pet view": false
     }
   },
-  "active": "c4a772c698fac0ea",
+  "active": "7b64e5cb268c2986",
   "lastOpenFiles": [
-    "2. University/Year 2/S2 Algorithms & Data Structures/Notes/$ Algorithms & Data Structures.md",
+    "2. University/Year 2/S2 Legal and Professional Issues/Notes/Ethical Egoism.md",
+    "2. University/Year 2/S2 Legal and Professional Issues/Notes/$ Legal and Professional Issues.md",
+    "2. University/Year 2/S2 Legal and Professional Issues/Notes/Social Contract Theory.md",
+    "1. Home Page/Home.canvas",
+    "2. University/Year 2/S2 Legal and Professional Issues/Notes/Utilitarianism.md",
+    "2. University/Year 2/S2 Legal and Professional Issues/Notes/Divine Command Theory.md",
+    "2. University/Year 2/S2 Legal and Professional Issues/Notes/Relativism.md",
+    "2. University/Year 2/S2 Legal and Professional Issues/Notes/EU Law.md",
+    "2. University/Year 2/S2 Legal and Professional Issues/Notes/Common Law Evolution.md",
+    "2. University/Year 2/S2 Legal and Professional Issues/Notes/Curia Regis.md",
+    "2. University/Year 2/S2 Legal and Professional Issues/Notes/Common Law.md",
+    "2. University/Year 2/S2 Legal and Professional Issues/Notes/Modern Irish Law.md",
+    "2. University/Year 2/S2 Legal and Professional Issues/Notes/Legal Eras in England and Ireland.png",
     "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap Functions.md",
+    "2. University/Year 2/S2 Algorithms & Data Structures/Notes/$ Algorithms & Data Structures.md",
     "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Queue - Java.md",
     "2. University/Year 2/S1 Operating Systems 2/Notes/Queue - FIFO.md",
     "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Priority Queue.md",
     "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heaps.md",
     "6. Templates/arrow box.md",
-    "1. Home Page/Home.canvas",
     "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Binary Tree.md",
     "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap Condition.md",
     "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Binary Tree.png",
@@ -294,27 +282,15 @@
     "3. General/Projects/CLI Games/Brainstorm.md",
     "3. General/Projects/CLI Games",
     "3. General/Projects",
-    "2. University/Year 2/S2 Legal and Professional Issues/Notes/Utilitarianism.md",
-    "2. University/Year 2/S2 Legal and Professional Issues/Notes/Relativism.md",
     "2. University/Year 2/S2 Legal and Professional Issues/Notes/Kantianism.md",
-    "2. University/Year 2/S2 Legal and Professional Issues/Notes/Divine Command Theory.md",
-    "2. University/Year 2/S2 Human Computer Interaction/Notes/Human Computer Interaction.md",
-    "2. University/Year 2/S2 Human Computer Interaction/Notes/Data Gathering.md",
-    "2. University/Year 2/S2 Data Communications/Notes/Transmitting Signals - Modem and Codec.md",
-    "2. University/Year 2/S2 Data Communications/Notes/Transmission Impairments.md",
     "2. University/Year 2/S2 Data Communications/Notes/Thermal and Impulse Noise.png",
     "2. University/Year 2/S2 Data Communications/Notes/Thermal Noise Graph.png",
     "2. University/Year 2/S2 Data Communications/Notes/Thermal Noise Extreme.png",
-    "2. University/Year 2/S2 Data Communications/Notes/Sine Waves.md",
-    "2. University/Year 2/S2 Data Communications/Notes/Signal Concepts.md",
     "2. University/Year 2/S2 Data Communications/Notes/Quadrature PSK.png",
     "2. University/Year 2/S2 Data Communications/Notes/Pasted image 20260213115039.png",
     "2. University/Year 2/S2 Data Communications/Notes/Pasted image 20260213113716.png",
     "2. University/Year 2/S2 Data Communications/Notes/Pasted image 20260210165321.png",
     "2. University/Year 2/S2 Data Communications/Notes/Pasted image 20260210163813.png",
-    "2. University/Year 2/S2 Data Communications/Notes/Pasted image 20260203164153.png",
-    "2. University/Year 2/S2 Data Communications/Notes/Noise.md",
-    "2. University/Year 2/S2 Data Communications/Notes/Noise Free and Noisy Channels - Nyquist and Shannon.md",
     "2. University/Year 2/S2 Data Communications/Lecture Materials/06_AnalogueSigEncoding.pdf",
     "2. University/Year 2/S2 Data Communications/Lecture Materials/05_DigSigEncoding.pdf",
     "2. University/Year 2/S2 Data Communications/Lecture Materials/04_TxMedia.pdf",

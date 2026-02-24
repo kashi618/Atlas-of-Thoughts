@@ -75,7 +75,7 @@ class Heap {
     void siftDown(int k) {
         int v, j;
         v = a[k];
-        // complete yourself
+        // complete yourself#
         while (2*k <= N) {  // while node has at least one child
             j = 2*k;        // left child index
             
