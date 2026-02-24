@@ -15,7 +15,7 @@
 - Binary search tree
 
 **Complexity**
-- P - Polynomial algoriths
+- P - Polynomial algorithms
 - NP - Non deterministic polynomial algorithms
 
 ## Topics

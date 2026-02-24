@@ -10,17 +10,15 @@ https://tudublin-my.sharepoint.com/personal/damian_bourke_tudublin_ie/_layouts/1
 	- [[Fourier Analysis]]
 
 ## Digital and Analogue
-- [[Digital vs Analogue]] merge
-- [[Transmitting Signals - Modem and Codec]] merge
+- [[Digital Analogue Signals]]
 
 ## Bandwidth and Frequency
-- [[Bandwidth and Frequency]]merge
-- [[!Low and High bandwidth]]
-- [[Bandwidth & Data Rate]]merge
+- [[Bandwidth and Frequency]]
+- [[Data Rate and Harmonics]]
 
 ## Signal Quality Loss
 - [[Transmission Impairments]] 
-	- [[Attenuation]] Reduction of signal strength over distance
+	- [[Attenuation]]
 	- [[Noise]]
 
 ## Channel Capacity
@@ -35,10 +33,15 @@ https://tudublin-my.sharepoint.com/personal/damian_bourke_tudublin_ie/_layouts/1
 - Analogue Data/Analogue Signal
 
 
+
 - [[Data Encoding]]
 - [[Modulation Rate vs (Bit Rate and Signal Element)]] 
 - [[Modulation Rate vs Bit Rate]]
 
 [[Analogue Data to Digital Signal]]
 [[Delta modulation and PCM]]
+
+[[Multiplexing - FDM & TDM]]
+
+
 

@@ -8,7 +8,7 @@ Morality of an action, has nothing to do with intent.
   
  **Utility:** tendency of an object to produce happiness, or prevent unhappiness for an individual or community
 
-## Principle of Utility
+### Principle of Utility
 (Greatest Happiness Principle)
 An action is right or wrong, to the extent that it increase or decreases the total happiness of the affected parties.
 

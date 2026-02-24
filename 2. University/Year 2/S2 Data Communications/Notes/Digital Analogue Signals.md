@@ -3,6 +3,18 @@ tags:
   - DataCommunications
 aliases:
 ---
+## Key Terms
+- `Tx'er` = Transmitter
+- `Rxer` = Receiver
+<br>
+- `Modulator` = Analogue transmitter
+- `Demodulator` = Analogue receiver
+- `Modem` = Analogue transmitter+receiver
+<br>
+- `Encoder` = Digital transmitter
+- `Decoder` = Digital receiver
+- `Codec` = Digital transmitter+receiver
+
 ## Characteristics and Examples
 ### Digital
 **Characteristics**
@@ -26,6 +38,7 @@ aliases:
 - Heart rate monitor
 - Vinyl records
 
+![[Analogue and Digital Transmitters and Receivers.png]]
 
 
 # See Also
