@@ -41,7 +41,14 @@ https://tudublin-my.sharepoint.com/personal/damian_bourke_tudublin_ie/_layouts/1
 [[Analogue Data to Digital Signal]]
 [[Delta modulation and PCM]]
 
+**Multiplexing**
 [[Multiplexing - FDM & TDM]]
 
+**Data Link Control**
+[[Data Link Control]]
+- [[Synchronization]]
+- [[Error Control]]
+	- [[Error Checking]]
+- [[Flow Control]]
 
 

@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "$ Data Communications",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md"
+    },
+    {
+      "basename": "Topics",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Topics.md"
+    },
+    {
+      "basename": "Error Checking",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Error Checking.md"
+    },
+    {
+      "basename": "Error Control",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Error Control.md"
+    },
+    {
+      "basename": "Data Link Control",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Data Link Control.md"
+    },
+    {
+      "basename": "Flow Control",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Flow Control.md"
+    },
+    {
+      "basename": "Synchronization",
+      "path": "2. University/Year 2/S2 Data Communications/Notes/Synchronization.md"
+    },
+    {
+      "basename": "TU856-Year2",
+      "path": "1. Home Page/TU856-Year2.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1. Home Page/Home.canvas"
+    },
+    {
+      "basename": "Relativism",
+      "path": "2. University/Year 2/S2 Legal and Professional Issues/Notes/Relativism.md"
+    },
+    {
       "basename": "$ Legal and Professional Issues",
       "path": "2. University/Year 2/S2 Legal and Professional Issues/Notes/$ Legal and Professional Issues.md"
+    },
+    {
+      "basename": "Key Terms in Contracts",
+      "path": "2. University/Year 2/S2 Legal and Professional Issues/Notes/Key Terms in Contracts.md"
+    },
+    {
+      "basename": "Contracts",
+      "path": "2. University/Year 2/S2 Legal and Professional Issues/Notes/Contracts.md"
     },
     {
       "basename": "Ethical Egoism",
@@ -13,20 +61,12 @@
       "path": "2. University/Year 2/S2 Legal and Professional Issues/Notes/Social Contract Theory.md"
     },
     {
-      "basename": "Home",
-      "path": "1. Home Page/Home.canvas"
-    },
-    {
       "basename": "Utilitarianism",
       "path": "2. University/Year 2/S2 Legal and Professional Issues/Notes/Utilitarianism.md"
     },
     {
       "basename": "Divine Command Theory",
       "path": "2. University/Year 2/S2 Legal and Professional Issues/Notes/Divine Command Theory.md"
-    },
-    {
-      "basename": "Relativism",
-      "path": "2. University/Year 2/S2 Legal and Professional Issues/Notes/Relativism.md"
     },
     {
       "basename": "EU Law",
@@ -47,10 +87,6 @@
     {
       "basename": "Modern Irish Law",
       "path": "2. University/Year 2/S2 Legal and Professional Issues/Notes/Modern Irish Law.md"
-    },
-    {
-      "basename": "TU856-Year2",
-      "path": "1. Home Page/TU856-Year2.md"
     },
     {
       "basename": "Heap Functions",
@@ -163,42 +199,6 @@
     {
       "basename": "CMPU 2016 | 2024-2025",
       "path": "2. University/Year 2/S1 Object Oriented Programming/Exam Papers/CMPU 2016 | 2024-2025.pdf"
-    },
-    {
-      "basename": "CMPU 2022  2024-2025",
-      "path": "2. University/Year 2/S1 Web Development 2/Notes/CMPU 2022  2024-2025.md"
-    },
-    {
-      "basename": "$ Web Development 2",
-      "path": "2. University/Year 2/S1 Web Development 2/Notes/$ Web Development 2.md"
-    },
-    {
-      "basename": "CMPU 2022 | 2019-2020",
-      "path": "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2019-2020.pdf"
-    },
-    {
-      "basename": "CMPU 2022 | 2022-2023",
-      "path": "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2022-2023.pdf"
-    },
-    {
-      "basename": "CMPU 2022 | 2023-2024",
-      "path": "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2023-2024.pdf"
-    },
-    {
-      "basename": "CMPU 2022 | 2024-2025",
-      "path": "2. University/Year 2/S1 Web Development 2/Exam Papers/CMPU 2022 | 2024-2025.pdf"
-    },
-    {
-      "basename": "CMPU 2022  2023-2024",
-      "path": "2. University/Year 2/S1 Web Development 2/Notes/CMPU 2022  2023-2024.md"
-    },
-    {
-      "basename": "Web Server Criteria",
-      "path": "2. University/Year 2/S1 Web Development 2/Notes/Web Server Criteria.md"
-    },
-    {
-      "basename": "$ Software Engineering 1",
-      "path": "2. University/Year 2/S1 Software Engineering 1/Notes/$ Software Engineering 1.md"
     }
   ],
   "omittedPaths": [],
