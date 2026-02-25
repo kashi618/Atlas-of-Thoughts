@@ -1,0 +1,26 @@
+
+- 1 tb SSD x 2
+	- (**€**50-100)
+- Air Pods Pro 2 v5.3 HR+
+	- (**$63.20**, Jenny)
+- Edifier R1280Ts
+	- (**€118.40**, Amazon.ie)
+- Handheld Hoover
+- Helping Hands
+- IEM Ear Tips
+- NAS Setup
+- Safety Razor
+	- (**€10-50**)
+- Skateboard
+	- (**€130-159**)
+- Spiderco Native 5 Pink
+	- (**$200**)
+- Steam Deck
+	- (**€679**)
+- Swiss Army Knife
+- Upgraded PC
+	- (**€1600**)
+- Wire Stripper
+	- (**€10**)
+- Zippo Fluid
+	- (**€4.50-20**)

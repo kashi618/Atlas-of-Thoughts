@@ -1,0 +1,4 @@
+- SSH!
+- Self Hosting
+- Docker
+- NAS

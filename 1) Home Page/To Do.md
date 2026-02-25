@@ -1,0 +1,22 @@
+- Neovim Configuration
+- ~~Waybar Configuration~~
+	- ~~Wifi and Bluetooth modules~~
+	- ~~Pipewire audio module~~
+	- Constant Upgrade
+
+- Hyprshell Configuration
+- ~~FF7 Remake~~
+- Half life alyx
+- ~~Virtual Box on thinkpad~~
+- ~~Dual boot windows on main~~
+- ~~AI to study
+	- Use to ask questions ~~
+- Obsidian shortkeys
+- ~~waybar (wifi) add colour green yellow oragne red for signal strength~~
+- Whiteboard/blackboard with to do list
+- Calculate how much study
+- "! [INFO]"
+- Mermaid diagrams | online mermaid editor
+- MOC outside of notes
+- Wisdom tooth extraction Plan
+- if many peopel access one file on internet, they need to manually download the file each person. Mayb ecreate system where, using SHA256 encryption, only one person neds to download,and then it can be shared betwee nother users
