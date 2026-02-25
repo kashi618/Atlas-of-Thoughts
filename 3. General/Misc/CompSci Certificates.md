@@ -1,5 +1,0 @@
-- https://www.comptia.org/certifications/which-certification
-- https://ecollege.ie/all-courses/comptia
-- https://www.isc2.org/certifications/cissp
-- https://skillbuilder.aws/
-- https://www.reddit.com/r/CompTIA/

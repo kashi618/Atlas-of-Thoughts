@@ -1,1 +1,0 @@
-Starting from 1921 , and led by [[Mao ZeDong]], it has been China's official politcal party.

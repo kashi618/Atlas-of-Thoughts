@@ -1,2 +1,0 @@
-Very strong glass made by communist/socialist germany as a way to earn money after ww2. However, when it was presented to major glass companies such as coca cola and such, it recieved basically no attention. The major glass companies did not want an unbreakble glass, and they would rather have planned obscelecence to guarantee more customers. 
-Later on, Steve jobs asked the company if they were able to make slim but extremely strong glass for use as phone screens. They succeeded, and it eventually led up to the gorilla glass we use today.
