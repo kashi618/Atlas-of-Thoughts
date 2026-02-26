@@ -47,8 +47,7 @@ https://tudublin-my.sharepoint.com/personal/damian_bourke_tudublin_ie/_layouts/1
 **Data Link Control**
 [[Data Link Control]]
 - [[Synchronization]]
+- [[Flow Control]]
 - [[Error Control]]
 	- [[Error Checking]]
-- [[Flow Control]]
-
 

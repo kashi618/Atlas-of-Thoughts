@@ -10,7 +10,7 @@ For effective communications between devices, we need a way to manage the exchan
 
 ## Data Link Protocol
 There are six requirements for effective data link control
-1. **Frame synchronization**: Frames must be recognizable by the receiver
+1. **[[Synchronization|Frame synchronization]]**: Frames must be recognizable by the receiver
 2. **[[Flow Control]]**: The sender must NOT overload the receiver
 3. **[[Error Control]]**: Errors should be detectable by the receiver
 4. **Addressing**: For multi point configurations, each station must be uniquely identifiable
