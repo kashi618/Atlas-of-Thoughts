@@ -4,9 +4,9 @@ tags:
 aliases:
 ---
 ## What is it?
-A queue where elements are processed based on priority, not arrival order such as queues (LIFO)
-The highest priority is stored at the front, and will be removed first
-Meanwhile, the lowest priority is stored at the back and is removed last
+A queue where elements are processed based on priority, not arrival order such as queues (LIFO). The major characteristics are:
+- High priority stored at front, low at the back
+- Removal starts from high priority ONLY
 
 **Example**
 Lets say we have these elements `A B X Z`, where A is the lowest priority and Z is the highest

@@ -4,14 +4,14 @@ tags:
 aliases:
 ---
 ## What is it?
-A heap is a way to implement a priority queue, that obeys the [[Heap Condition|heap condition]]. It is also a form of a [[Binary Tree|binary tree]].
+A data structure that represents a priority queue, but also follows the [[Heap Condition|heap condition]]. It is also a form of a [[Binary Tree|binary tree]].
 
 **Example Tree Diagram**
 ![[Heap Example.png|200]]
 
 ### Characteristics
 - Is a **complete binary tree structure**
-	- This means all levels are fully filled, except the last level, which is filled from left to right
+	- This means all levels are fully filled, except the last level, which is filled starting from left to right
 - **Obeys heap condition** (heap property)
 	- Max-Heap: Every parent node is greater or equal to its children
 	- Min-Heap: Every parent node is less than or equal to its children

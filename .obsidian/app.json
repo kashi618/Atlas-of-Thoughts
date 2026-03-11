@@ -10,5 +10,6 @@
   "spellcheck": true,
   "defaultViewMode": "preview",
   "livePreview": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "showInlineTitle": true
 }
