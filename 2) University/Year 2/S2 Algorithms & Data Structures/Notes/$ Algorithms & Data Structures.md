@@ -32,7 +32,8 @@
 - [[Heap Functions]]
 	
 
-
-
-
+**Graph Functions**
+[[Graphs Introduction]]
+[[Implementing Graphs]]
+[[Graph Traversal]]
 

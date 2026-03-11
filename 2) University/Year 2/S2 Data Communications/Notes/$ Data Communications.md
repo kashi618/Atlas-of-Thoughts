@@ -51,3 +51,23 @@ https://tudublin-my.sharepoint.com/personal/damian_bourke_tudublin_ie/_layouts/1
 - [[Error Control]]
 	- [[Error Checking]]
 
+**HLDC**
+*Propagation delay* Nothing transmits instantaneously. There will be a delay
+
+
+**Local Area Networks**
+[[LAN Networks]]
+- [[LAN Topologies]]
+- [[Medium Access Control - MAC]]
+- [[CSMA]] Bus LAN
+- [[!Token Ring Operation]] Ring LAN
+- [[Hub-Star LAN - Switched-Hub LAN]]
+- [[IEEE 802 (.11) (.3)]] NOT FINISHED
+
+**Extending Lans**
+[[Repeaters and Bridges]]
+
+
+**OTHER**
+- [[Network Interface Card (NIC)]] NOT FINISHED
+- 
