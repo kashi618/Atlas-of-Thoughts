@@ -63,7 +63,7 @@ Every parent node is greater or equal to its children
 ```
 
 ## Heap Functions
-[[Heap Functions]]
+[[Heap Functions (Inserting & Removing) and Java]]
 
 # See Also
 [[$ Algorithms & Data Structures]]

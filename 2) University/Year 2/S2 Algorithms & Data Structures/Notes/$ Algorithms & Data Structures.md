@@ -29,8 +29,8 @@
 - [[Priority Queue]]
 - [[Binary Tree]]
 - [[Heaps]]
-- [[Heap Functions]]
-	
+- [[Heap Functions (Inserting & Removing) and Java]]
+- [[Heapsort]]	
 
 **Graph Functions**
 [[Graphs Introduction]]
