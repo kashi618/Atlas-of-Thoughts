@@ -18,6 +18,7 @@ B is also a parent node, with child nodes D and E
 
 ### Properties
 Each level in the binary tree, can have at most $2^{n}$ nodes, where `n` is the level, starting at 0
+- Known as `Hpos`
 ```
 1st level n=0  2^0 = 1 node
 2nd level n=1  2^1 = 2 nodes

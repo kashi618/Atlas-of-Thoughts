@@ -35,5 +35,12 @@
 **Graph Functions**
 [[Graphs Introduction]]
 [[Implementing Graphs]]
-[[Graph Traversal]]
+[[!Graph Traversal and Search]] DFS and BFS
 
+**Greedy Algorithms &Minimum Spanning Tree**
+[[Greedy Algorithms]]
+[[Prim's Algorithm]]
+[[Kruskal's Algorithm]]
+
+**Other**
+[[Traveling Sales Person]]

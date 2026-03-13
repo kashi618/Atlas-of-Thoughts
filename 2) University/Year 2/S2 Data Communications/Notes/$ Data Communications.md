@@ -60,7 +60,7 @@ https://tudublin-my.sharepoint.com/personal/damian_bourke_tudublin_ie/_layouts/1
 - [[LAN Topologies]]
 - [[Medium Access Control - MAC]]
 - [[CSMA]] Bus LAN
-- [[!Token Ring Operation]] Ring LAN
+- [[Token Ring Operation]] Ring LAN
 - [[Hub-Star LAN - Switched-Hub LAN]]
 - [[IEEE 802 (.11) (.3)]] NOT FINISHED
 
