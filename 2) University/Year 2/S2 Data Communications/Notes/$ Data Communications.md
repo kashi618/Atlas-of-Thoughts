@@ -8,12 +8,10 @@ https://tudublin-my.sharepoint.com/personal/damian_bourke_tudublin_ie/_layouts/1
 - [[Signal Concepts]]
 	- [[Sine Waves]]
 	- [[Fourier Analysis]]
-
-## Digital and Analogue
 - [[Digital Analogue Signals]]
 
 ## Bandwidth and Frequency
-- [[Bandwidth and Frequency]]
+- [[Bandwidth]]
 - [[Data Rate and Harmonics]]
 
 ## Signal Quality Loss
@@ -26,36 +24,25 @@ https://tudublin-my.sharepoint.com/personal/damian_bourke_tudublin_ie/_layouts/1
 	- [[Noise Free and Noisy Channels - Nyquist and Shannon]]
 
 ## Data Encoding
-- Maybe separate into
-- Digital Data/Digital Signal
-- Digital Data/Analogue Signal
-- Analogue Data/Digital Signal
-- Analogue Data/Analogue Signal
-
-
-
 - [[Data Encoding]]
 - [[Modulation Rate vs (Bit Rate and Signal Element)]] 
-- [[Modulation Rate vs Bit Rate]]
+- [[Analogue Data to Digital Signal]]
+- [[Delta modulation and PCM]]
 
-[[Analogue Data to Digital Signal]]
-[[Delta modulation and PCM]]
-
-**Multiplexing**
+## Multiplexing
 [[Multiplexing - FDM & TDM]]
 
-**Data Link Control**
+## Data Link Control
 [[Data Link Control]]
 - [[Synchronization]]
 - [[Flow Control]]
 - [[Error Control]]
 	- [[Error Checking]]
+- [[HDLC]]
+	- [[Bit Stuffing]]
+[[Propagation Delay]]
 
-**HLDC**
-*Propagation delay* Nothing transmits instantaneously. There will be a delay
-
-
-**Local Area Networks**
+## Local Area Networks
 [[LAN Networks]]
 - [[LAN Topologies]]
 - [[Medium Access Control - MAC]]
@@ -63,11 +50,8 @@ https://tudublin-my.sharepoint.com/personal/damian_bourke_tudublin_ie/_layouts/1
 - [[Token Ring Operation]] Ring LAN
 - [[Hub-Star LAN - Switched-Hub LAN]]
 - [[IEEE 802 (.11) (.3)]] NOT FINISHED
-
-**Extending Lans**
-[[Repeaters and Bridges]]
-
-
-**OTHER**
 - [[Network Interface Card (NIC)]] NOT FINISHED
 - 
+## Extending Lans
+[[Repeaters and Bridges]]
+
