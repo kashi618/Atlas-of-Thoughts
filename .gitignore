@@ -1,2 +1,5 @@
 .trash
-.obsidian
+.obsidian/workspace*
+.obsidian/copilot-index-*.json
+.obsidian/graph.json
+.obsidian/vault-stats.json
