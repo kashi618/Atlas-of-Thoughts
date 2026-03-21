@@ -3,3 +3,6 @@
 .obsidian/copilot-index-*.json
 .obsidian/graph.json
 .obsidian/vault-stats.json
+
+# Temp
+.obsidian/plugins/obsidian-copilot-auto-completion/data.json
