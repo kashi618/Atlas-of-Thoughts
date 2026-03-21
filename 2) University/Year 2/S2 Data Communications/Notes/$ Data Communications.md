@@ -49,9 +49,9 @@ https://tudublin-my.sharepoint.com/personal/damian_bourke_tudublin_ie/_layouts/1
 - [[CSMA]] Bus LAN
 - [[Token Ring Operation]] Ring LAN
 - [[Hub-Star LAN - Switched-Hub LAN]]
-- [[IEEE 802 (.11) (.3)]] NOT FINISHED
-- [[Network Interface Card (NIC)]] NOT FINISHED
-- 
+- [[IEEE 802 Standards]]
+- [[Network Interface Card (NIC)]]
+
 ## Extending Lans
 [[Repeaters and Bridges]]
 

@@ -8,8 +8,7 @@ It is unlikely that two communicating devices fully utilize the data capacity of
 - Fibre optic cables have very high bandwidth, allowing you to carry a lot of data. Usually more than enough for host to host interactions
 - Why? Because communications equipment is expensive
 
-Multiplexing essentially uses the spare capacity, for other communicating devices, sharing data communications on the same transmission link.
-
+Multiplexing essentially uses the spare capacity, for other communicating devices, sharing data communications on the same transmission link 
 ![[Basic Multiplexing Components.png]]
 
 ### Multiplexing Examples
@@ -40,7 +39,6 @@ An **analogue transmission technique**, producing an analogue signal from multip
 ![[FDM Receiver.png]]
 - Bandpass filter isolates each input frequency, separating each channel and removing noise and interference
 - Demodulator is used to extract the original baseband signal
-
 
 ![[FDM ISP Example.png]]
 - In an ISP, the f1 can be broadband, f2 can be phone, f3 can be radio, etc
