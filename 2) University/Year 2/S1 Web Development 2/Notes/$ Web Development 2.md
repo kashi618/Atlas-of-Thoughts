@@ -14,7 +14,7 @@ ca 50%
 - [[The Internet]]
 - [[Interent Protocols]]
 	- [[Internet Protocol (IP)]]
-	- [[IP Address]]
+	- [[IP Address (WEB DEV 2)]]
 	- [[Transmission Control Protocol (TCP)]] ! NOT DONE
 
 ### Other

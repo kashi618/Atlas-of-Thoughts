@@ -5,7 +5,7 @@ aliases:
 ---
 
 An internet protocol is a standardized set of rules that dictates how data is transmitted between devices.
-**NOTE:** Not to be confused with the [[IP Address]].
+**NOTE:** Not to be confused with the [[IP Address (WEB DEV 2)]].
 
 # See Also
 [[$ Web Development 2]]

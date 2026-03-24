@@ -7,7 +7,7 @@ aliases:
 This is a family of IEEE standards dealing with LANs and MANs.
 
 ### IEEE 802.3 - Ethernet
-- Defines wired ethernet ([[CSMA|CSMA/CD]])
+- Defines wired ethernet ([[CSMA and CSMA CD|CSMA/CD]])
 - Most common LAN technology
 - Physical layer, and MAC layer specifications
 

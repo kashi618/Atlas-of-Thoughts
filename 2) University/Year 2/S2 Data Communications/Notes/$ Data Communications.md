@@ -30,28 +30,49 @@ https://tudublin-my.sharepoint.com/personal/damian_bourke_tudublin_ie/_layouts/1
 - [[Delta modulation and PCM]]
 
 ## Multiplexing
-[[Multiplexing - FDM & TDM]]
+- [[Multiplexing - FDM & TDM]]
 
 ## Data Link Control
-[[Data Link Control]]
+- [[Data Link Control]]
 - [[Synchronization]]
 - [[Flow Control]]
 - [[Error Control]]
 	- [[Error Checking]]
 - [[HDLC]]
 	- [[Bit Stuffing]]
-[[Propagation Delay]]
+- [[Propagation Delay]]
 
 ## Local Area Networks
-[[LAN Networks]]
+- [[LAN Networks]]
 - [[LAN Topologies]]
+- [[Bus LAN]]
+	- [[CSMA and CSMA CD]]
+- [[Star LAN]]
+- [[Ring LAN]]
+	- [[Token Ring Operation]]
 - [[Medium Access Control - MAC]]
-- [[CSMA]] Bus LAN
-- [[Token Ring Operation]] Ring LAN
 - [[Hub-Star LAN - Switched-Hub LAN]]
 - [[IEEE 802 Standards]]
 - [[Network Interface Card (NIC)]]
 
 ## Extending Lans
-[[Repeaters and Bridges]]
+- [[Repeaters and Bridges]]
+	- [[Bridges]]
+		- [[Transparent Bridges]] <--
+	- [[Repeaters]] <--
+	- [[Routers]] <--
+	- [[Routing Tables]] <--
 
+## Mac Addresses
+- [[Hardware Address - MAC Address]] <--
+
+## Internet Protocols
+- [[IP Address (WEB DEV 2)]] 
+- [[IP Addresses]] <--
+- [[Masks]] <--
+	- [[DDN and CIDR Notation]] <--
+- [[Subnetting]] <--
+	- [[Subnetting - Magic Number Approach]] <--
+
+## Acronyms
+- [[TLA and FLA]]

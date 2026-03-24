@@ -5,42 +5,38 @@ aliases:
 ---
 
 ## Bridges
-Functions by interconnecting multiple small LANs, to create one large LAN
+Bridges function by interconnecting multiple small LANs, to create one large LAN. By doing this, you can also expand the distance between each LAN.
 - This is preferable than creating one single large lan
 
-**Advantages**
+**Bridge Implementation**
+![[LAN Bridge.png]]
+
+### Bridge Advantages
 - Reliability: Faults can be contained and restricted to only a few stations
 - Performance: Smaller LAN provide better performance to locally attached devices.
 - Security: Some LAN topologies can potentially see all frames transmitted. Bridges uses physical isolation of high security traffic, and specific users with special security access
 - Geography: Can be used to extend a LAN to isolated clusters of stations, using long distance communications. (microwave links, satellite links, etc)
-![[LAN Bridge.png]]
 
+## Bridge Functions
+Basis bridges, provide the following functionality
 
-### Bridge Routing
-![[LAN Bridge Routing.png]]
+### Store and Forward
+Unlike [[Repeaters|repeaters]], bridges read the entire frame, and then retransmit it bit-by-bit if the destination is on a different segment.
 
-#### Address Learning
-An alternative approach to routing.
-In this aproach, the bridge can learn of the location of each station **automatically**, because:
-- Each incomming MAC frame contains a source address field
-- Each LAN attaches to **one port** only
-- By using these identifiers, the bridge constructs a routing table automatically, without manual intervention
+### Address Learning and Fixed Routing
+Techniques used by transparent bridges to create a routing table. A routing table is used to track the locations of different stations, so that the bridge knows where to forward data.
+- Address Learning automatically creates and updates a routing table as LANs are discovered. Is dynamic, and can change.
+- Fixed routing uses pre-configured static paths that never change.
 
-## Transparent bridges
-For bridges, resilience is very important. We can solve this by using two bridges at separate locations, whilst connected to the same LAN. This way, if one breaks down, the other is still alive. These are called transparent bridges
-One major problem that comes with this configuration, is looping/
-- This issues comes when redundant bridges are used for reliability, but creates a loop of data transmission
+[[Transparent Bridges|View more details here]]
+
+### Loop Prevention
+If redundant bridges are used to increase reliability, it can create infinite routing loops. For example, SW1 gets a signal, and sends it to SW2 and SW3. SW2 receives it, and sends it to SW3. SW3 now gets both a signal from SW1 and SW2, in which it sends it out to SW2 first, then to SW1. This repeats.
 ![[Bridge Loops.png]]
 
-### Loop-free bridge network
-To create a loop-free bridge network, we can use graph theory
-- We first create a spanning tree of the network
-- Each graph node represents the bridges, and LANs in which they connect
-- Connecting arcs represents the connections between a LAN(s) to a bridge(s)
 
-
-![[Pasted image 20260310170942.png]]
 
 
 # See Also
+[[Transparent Bridges]] Building redundant bridges
 [[$ Data Communications]]
