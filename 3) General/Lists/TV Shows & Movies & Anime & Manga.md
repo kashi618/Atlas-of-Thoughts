@@ -105,7 +105,10 @@ The Imitation Game
 | Scream IV                                                  | Amazing         | Fantastic opening (movie within a movie within a movie). Judy Hicks. Victim was the killer. Throwback to scream 1 |
 | Whiplash                                                   | **MUST WATCH**  | Masterpiece                                                                                                       |
 | Unthinkable                                                | **MUST WATCH**  | Masterpiece                                                                                                       |
-|                                                            |                 |                                                                                                                   |
+| John Wick                                                  | **MUST WATCH**  | Masterpiece                                                                                                       |
+| John Wick: Chapter 2                                       | **MUST WATCH**  | Masterpiece                                                                                                       |
+| John Wick: Chapter 3                                       | **MUST WATCH**  | Masterpiece                                                                                                       |
+| John Wick: Chapter 4                                       | **MUST WATCH**  | Masterpiece                                                                                                       |
 
 ---
 
