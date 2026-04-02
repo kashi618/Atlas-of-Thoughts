@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "TV Shows & Movies & Anime & Manga",
+      "path": "3) General/Lists/TV Shows & Movies & Anime & Manga.md"
+    },
+    {
+      "basename": "Home",
+      "path": "1) Home Page/Home.canvas"
+    },
+    {
+      "basename": "Results",
+      "path": "2) University/Results.md"
+    },
+    {
+      "basename": "$ Algorithms & Data Structures",
+      "path": "2) University/Year 2/S2 Algorithms & Data Structures/Notes/$ Algorithms & Data Structures.md"
+    },
+    {
+      "basename": "Greedy Algorithms",
+      "path": "2) University/Year 2/S2 Algorithms & Data Structures/Notes/Greedy Algorithms.md"
+    },
+    {
+      "basename": "!Graph Traversal and Search",
+      "path": "2) University/Year 2/S2 Algorithms & Data Structures/Notes/!Graph Traversal and Search.md"
+    },
+    {
+      "basename": "Alexandre Dumas - The Count of Monte Cristo",
+      "path": "Library/Alexandre Dumas - The Count of Monte Cristo.md"
+    },
+    {
       "basename": "$ Data Communications",
       "path": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "extends - Java",
       "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/extends - Java.md"
-    },
-    {
-      "basename": "Inheritance - Java",
-      "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/Inheritance - Java.md"
-    },
-    {
-      "basename": "Super",
-      "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/Super.md"
-    },
-    {
-      "basename": "CMPU 2016  2024-2025",
-      "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/CMPU 2016  2024-2025.md"
-    },
-    {
-      "basename": "Writing JavaDocs",
-      "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/Writing JavaDocs.md"
-    },
-    {
-      "basename": "JavaDoc",
-      "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/JavaDoc.md"
-    },
-    {
-      "basename": "CMPU 2016 | 2023-2024",
-      "path": "2. University/Year 2/S1 Object Oriented Programming/Exam Papers/CMPU 2016 | 2023-2024.pdf"
-    },
-    {
-      "basename": "CMPU 2016 | 2024-2025",
-      "path": "2. University/Year 2/S1 Object Oriented Programming/Exam Papers/CMPU 2016 | 2024-2025.pdf"
     }
   ],
   "omittedPaths": [],

@@ -19,7 +19,6 @@
   "obsidian-git",
   "dataview",
   "file-tree-alternative",
-  "table-editor-obsidian",
   "obsidian-go-to-line",
   "obsidian-sort-and-permute-lines",
   "ink",
@@ -29,6 +28,5 @@
   "editing-toolbar",
   "obsidian-hider",
   "cmdr",
-  "obsidian-excalidraw-plugin",
-  "copilot-auto-completion"
+  "obsidian-excalidraw-plugin"
 ]
