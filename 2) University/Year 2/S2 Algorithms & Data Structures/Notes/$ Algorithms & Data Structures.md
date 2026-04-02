@@ -1,3 +1,12 @@
+
+
+## Textbooks
+[Introduction to Algorithms - Cormen (PDF)](https://filedn.eu/lCMD9emJDsHB1Ac7x8XHtjp/Introduction%20to%20algorithms%20by%20Cormen.pdf)
+[Algorithms - Papadimitriou (PDF)](https://filedn.eu/lCMD9emJDsHB1Ac7x8XHtjp/Algorithms%20by%20Papadimitriou%20et%20al.pdf)
+
+## Topics Covered
+
+
 **Simple Data Structures**
 - Stack
 - Queue
@@ -18,7 +27,7 @@
 - P - Polynomial algorithms
 - NP - Non deterministic polynomial algorithms
 
-## Topics
+## Notes
 **Data Structures**
 - [[Stacks - LIFO]]
 	- [[Stacks - Java]]
@@ -32,10 +41,13 @@
 - [[Heap Functions (Inserting & Removing) and Java]]
 - [[Heapsort]]	
 
-**Graph Functions**
+**Graphs**
 [[Graphs Introduction]]
 [[Implementing Graphs]]
-[[!Graph Traversal and Search]] DFS and BFS
+
+**Graph Traversal Methods**
+[[Depth First Traversal]]
+[[Breadth First Traversal]]
 
 **Greedy Algorithms & Minimum Spanning Tree**
 [[Greedy Algorithms]]
@@ -46,3 +58,4 @@
 
 **Other**
 [[Traveling Sales Person]]
+

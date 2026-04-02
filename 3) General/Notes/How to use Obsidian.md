@@ -8,6 +8,11 @@ tags:
 ![|200](https://i.imgur.com/mF5q81F.jpeg)
 
 ---
+## Embedding Links
+```
+![](INSERT LINK HERE)
+```
+---
 
 ## Text Boxes
 > [!NOTE] Title of text Box

@@ -3,17 +3,6 @@ tags:
   - Software-Engineering-2
 aliases:
 ---
-## Overview
-![[Testing Strategies.png]]
-
-## Unit Testing
-Unit testing focuses on testing the smallest part of a program (a unit), in isolation from the rest of the program
-
-**Characteristics**
-- Fast to execute
-- Tests one thing at a time
-- Verifies that a unit of code works correctly, in isolation
-
 ## Integration Testing
 Tests system components that are working together. Essentially, it focuses on testing the collaboration of multiple units
 
@@ -48,18 +37,6 @@ This approach starts with testing the low-level modules and units. It uses and c
 **Cons**
 - High-level modules tested last
 - System's main functionality is tested last
-
-### Comparison
-
-| Aspect                 | Top-Down               |
-| ---------------------- | ---------------------- |
-| Starting Point         | Low-level modules      |
-| Requirements           | Drivers                |
-| Best for testing...    | Detailed functionality |
-| First defects detected |                        |
-|                        |                        |
-
-## Functional Testing
 
 
 # See Also

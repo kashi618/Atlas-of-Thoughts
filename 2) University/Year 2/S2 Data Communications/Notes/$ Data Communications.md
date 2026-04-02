@@ -72,7 +72,28 @@ https://tudublin-my.sharepoint.com/personal/damian_bourke_tudublin_ie/_layouts/1
 - [[Masks]] <--
 	- [[DDN and CIDR Notation]] <--
 - [[Subnetting]] <--
-	- [[Subnetting - Magic Number Approach]] <--
+	- [[Calculating Subnets]]
+	- [[Calculating Subnets - Magic Number]] <--
+	- [[Calculating Subnets - VLSN]] Variable Length Subnet Mask
+
+
+![[Pasted image 20260325104236.png|400]]
+```
+17.12.14.2/27
+255.255.255.224   (255-31)
+  00000010
+& 11100000
+  00000000
+
+17.12.14.45/28
+255.255.255.
+  00101101
+& 11110000
+  00100000
+
+if you have IP, and you know the MASK, if you && the addresses, you get the home network
+```
 
 ## Acronyms
+
 - [[TLA and FLA]]
