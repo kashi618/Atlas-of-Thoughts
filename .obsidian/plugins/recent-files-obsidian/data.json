@@ -1,8 +1,92 @@
 {
   "recentFiles": [
     {
+      "basename": "CA2",
+      "path": "2) University/Year 2/S2 Human Computer Interaction/Notes/CA2.md"
+    },
+    {
       "basename": "Home",
       "path": "1) Home Page/Home.canvas"
+    },
+    {
+      "basename": "17_Intro_Internets",
+      "path": "2) University/Year 2/S2 Data Communications/Lecture Materials/17_Intro_Internets.pdf"
+    },
+    {
+      "basename": "Universal Service",
+      "path": "2) University/Year 2/S2 Data Communications/Notes/Universal Service.md"
+    },
+    {
+      "basename": "$ Data Communications",
+      "path": "2) University/Year 2/S2 Data Communications/Notes/$ Data Communications.md"
+    },
+    {
+      "basename": "Extending LANs",
+      "path": "2) University/Year 2/S2 Data Communications/Notes/Extending LANs.md"
+    },
+    {
+      "basename": "18_IPAddressing",
+      "path": "2) University/Year 2/S2 Data Communications/Lecture Materials/18_IPAddressing.pdf"
+    },
+    {
+      "basename": "16_HW_MAC_Addressing",
+      "path": "2) University/Year 2/S2 Data Communications/Lecture Materials/16_HW_MAC_Addressing.pdf"
+    },
+    {
+      "basename": "15_Extending_LANs_Bridges",
+      "path": "2) University/Year 2/S2 Data Communications/Lecture Materials/15_Extending_LANs_Bridges.pdf"
+    },
+    {
+      "basename": "TU856-Year2",
+      "path": "1) Home Page/TU856-Year2.md"
+    },
+    {
+      "basename": "Applied Jobs",
+      "path": "1) Home Page/Applied Jobs.md"
+    },
+    {
+      "basename": "Types of LAN Communications",
+      "path": "2) University/Year 2/S2 Data Communications/Notes/Types of LAN Communications.md"
+    },
+    {
+      "basename": "Hardware Addressing - MAC Address",
+      "path": "2) University/Year 2/S2 Data Communications/Notes/Hardware Addressing - MAC Address.md"
+    },
+    {
+      "basename": "Routing Tables",
+      "path": "2) University/Year 2/S2 Data Communications/Notes/Routing Tables.md"
+    },
+    {
+      "basename": "Transparent Bridges",
+      "path": "2) University/Year 2/S2 Data Communications/Notes/Transparent Bridges.md"
+    },
+    {
+      "basename": "Bridges",
+      "path": "2) University/Year 2/S2 Data Communications/Notes/Bridges.md"
+    },
+    {
+      "basename": "Bridge Loops",
+      "path": "2) University/Year 2/S2 Data Communications/Notes/Bridge Loops.png"
+    },
+    {
+      "basename": "14_LAN_AccessTechniques",
+      "path": "2) University/Year 2/S2 Data Communications/Lecture Materials/14_LAN_AccessTechniques.pdf"
+    },
+    {
+      "basename": "Routers",
+      "path": "2) University/Year 2/S2 Data Communications/Notes/Routers.md"
+    },
+    {
+      "basename": "Repeaters",
+      "path": "2) University/Year 2/S2 Data Communications/Notes/Repeaters.md"
+    },
+    {
+      "basename": "CSMA and CSMA CD",
+      "path": "2) University/Year 2/S2 Data Communications/Notes/CSMA and CSMA CD.md"
+    },
+    {
+      "basename": "Medium Access Control - MAC",
+      "path": "2) University/Year 2/S2 Data Communications/Notes/Medium Access Control - MAC.md"
     },
     {
       "basename": "TV Shows & Movies & Anime & Manga",
@@ -115,86 +199,6 @@
     {
       "basename": "Heap Functions",
       "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap Functions.md"
-    },
-    {
-      "basename": "$ Algorithms & Data Structures",
-      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/$ Algorithms & Data Structures.md"
-    },
-    {
-      "basename": "Queue - Java",
-      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Queue - Java.md"
-    },
-    {
-      "basename": "Queue - FIFO",
-      "path": "2. University/Year 2/S1 Operating Systems 2/Notes/Queue - FIFO.md"
-    },
-    {
-      "basename": "Priority Queue",
-      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Priority Queue.md"
-    },
-    {
-      "basename": "Heaps",
-      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heaps.md"
-    },
-    {
-      "basename": "arrow box",
-      "path": "6. Templates/arrow box.md"
-    },
-    {
-      "basename": "Binary Tree",
-      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Binary Tree.md"
-    },
-    {
-      "basename": "Heap Condition",
-      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap Condition.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Untitled.md"
-    },
-    {
-      "basename": "HCI",
-      "path": "6. Templates/HCI.md"
-    },
-    {
-      "basename": "$ Human Computer Interaction",
-      "path": "2. University/Year 2/S2 Human Computer Interaction/Notes/$ Human Computer Interaction.md"
-    },
-    {
-      "basename": "Descartes",
-      "path": "8. Other/Descartes.gif"
-    },
-    {
-      "basename": "Untitled",
-      "path": "7. UNSORTED/Untitled.md"
-    },
-    {
-      "basename": "TV Shows & Movies & Anime & Manga",
-      "path": "3. General/Lists/TV Shows & Movies & Anime & Manga.md"
-    },
-    {
-      "basename": "SAP STAR Program Interview",
-      "path": "3. General/Notes/SAP STAR Program Interview.md"
-    },
-    {
-      "basename": "Structures - Creating Structures - C",
-      "path": "2. University/Year 1/Programming/Structures - Creating Structures - C.md"
-    },
-    {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/Year 1/Programming/$ C - Programming Language.md"
-    },
-    {
-      "basename": "Ternary Operators - C",
-      "path": "2. University/Year 1/Programming/Ternary Operators - C.md"
-    },
-    {
-      "basename": "$ Java - Programming Language",
-      "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/$ Java - Programming Language.md"
-    },
-    {
-      "basename": "extends - Java",
-      "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/extends - Java.md"
     }
   ],
   "omittedPaths": [],
