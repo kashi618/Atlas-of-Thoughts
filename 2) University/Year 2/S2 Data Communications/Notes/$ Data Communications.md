@@ -55,16 +55,20 @@ https://tudublin-my.sharepoint.com/personal/damian_bourke_tudublin_ie/_layouts/1
 - [[IEEE 802 Standards]]
 - [[Network Interface Card (NIC)]]
 
-## Extending Lans
-- [[Repeaters and Bridges]]
+## LAN Technologies
+Routers/Bridges/Repeaters
+- [[Extending LANs]]
 	- [[Bridges]]
-		- [[Transparent Bridges]] <--
-	- [[Repeaters]] <--
-	- [[Routers]] <--
-	- [[Routing Tables]] <--
+		- [[Transparent Bridges]]
+	- [[Repeaters]]
+	- [[Routers]]
+	- [[Routing Tables]]
+- [[Universal Service]]
+
 
 ## Mac Addresses
-- [[Hardware Address - MAC Address]] <--
+- [[Hardware Addressing - MAC Address]]
+- [[Types of LAN Communications]]
 
 ## Internet Protocols
 - [[IP Address (WEB DEV 2)]] 

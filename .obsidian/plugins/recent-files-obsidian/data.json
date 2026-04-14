@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
       "basename": "Home",
       "path": "1) Home Page/Home.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "$ Java - Programming Language",
       "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/$ Java - Programming Language.md"
-    },
-    {
-      "basename": "extends - Java",
-      "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/extends - Java.md"
     }
   ],
   "omittedPaths": [],
