@@ -2,17 +2,17 @@
 
 | Module                               | Weight | Result |
 | ------------------------------------ | ------ | ------ |
-| Programming                          |        |        |
+| Algorithm Design Problem             | i      |        |
 | Communications                       |        |        |
+| Computer Architecture and Technology |        |        |
+| Data Exploration                     |        |        |
 | IT Fundamentals                      |        |        |
 | Mathematics 1                        |        |        |
-| Program Design                       |        |        |
-| Web Development 1                    |        |        |
-| Algorithm Design Problem             |        |        |
-| Computer Architecture and Technology |        |        |
 | Microprocessor Systems               |        |        |
 | Operating Systems 1                  |        |        |
-| Data Exploration                     |        |        |
+| Program Design                       |        |        |
+| Programming                          | 10     |        |
+| Web Development 1                    |        |        |
 
 ## Year 2
 
