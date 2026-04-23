@@ -112,6 +112,8 @@ The Imitation Game
 | Borat                                                      | Amazing         |                                                                                                                   |
 | Borat Subsequent Moviefilm                                 | Amazing         |                                                                                                                   |
 
+The dictator
+
 ---
 
 ### Planning
