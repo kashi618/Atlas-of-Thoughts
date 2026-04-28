@@ -109,6 +109,10 @@ The Imitation Game
 | John Wick: Chapter 2                                       | **MUST WATCH**  | Masterpiece                                                                                                       |
 | John Wick: Chapter 3                                       | **MUST WATCH**  | Masterpiece                                                                                                       |
 | John Wick: Chapter 4                                       | **MUST WATCH**  | Masterpiece                                                                                                       |
+| Borat                                                      | Amazing         |                                                                                                                   |
+| Borat Subsequent Moviefilm                                 | Amazing         |                                                                                                                   |
+
+The dictator
 
 ---
 

@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
+      "basename": "TV Shows & Movies & Anime & Manga",
+      "path": "3) General/Lists/TV Shows & Movies & Anime & Manga.md"
     },
     {
       "basename": "Home",
       "path": "1) Home Page/Home.canvas"
     },
     {
-      "basename": "TV Shows & Movies & Anime & Manga",
-      "path": "3) General/Lists/TV Shows & Movies & Anime & Manga.md"
+      "basename": "Results",
+      "path": "2) University/Year 1/Results.md"
     },
     {
       "basename": "Results",
       "path": "2) University/Results.md"
+    },
+    {
+      "basename": "CA2",
+      "path": "2) University/Year 2/S2 Human Computer Interaction/Notes/CA2.md"
+    },
+    {
+      "basename": "$ Human Computer Interaction",
+      "path": "2) University/Year 2/S2 Human Computer Interaction/Notes/$ Human Computer Interaction.md"
+    },
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
     },
     {
       "basename": "$ Algorithms & Data Structures",
@@ -187,18 +199,6 @@
     {
       "basename": "Structures - Creating Structures - C",
       "path": "2. University/Year 1/Programming/Structures - Creating Structures - C.md"
-    },
-    {
-      "basename": "$ C - Programming Language",
-      "path": "2. University/Year 1/Programming/$ C - Programming Language.md"
-    },
-    {
-      "basename": "Ternary Operators - C",
-      "path": "2. University/Year 1/Programming/Ternary Operators - C.md"
-    },
-    {
-      "basename": "$ Java - Programming Language",
-      "path": "2. University/Year 2/S1 Object Oriented Programming/Notes/$ Java - Programming Language.md"
     }
   ],
   "omittedPaths": [],
