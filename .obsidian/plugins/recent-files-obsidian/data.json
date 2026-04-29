@@ -1,12 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "TV Shows & Movies & Anime & Manga",
-      "path": "3) General/Lists/TV Shows & Movies & Anime & Manga.md"
+      "basename": "Topics NOT in Summer Exam",
+      "path": "2) University/Year 2/S2 Data Communications/Notes/Topics NOT in Summer Exam.md"
+    },
+    {
+      "basename": "$ Data Communications",
+      "path": "2) University/Year 2/S2 Data Communications/Notes/$ Data Communications.md"
     },
     {
       "basename": "Home",
       "path": "1) Home Page/Home.canvas"
+    },
+    {
+      "basename": "Data Communications - 2024_2025",
+      "path": "2) University/Year 2/S2 Data Communications/Notes/Data Communications - 2024_2025.md"
+    },
+    {
+      "basename": "CMPU 2005 2024-2025",
+      "path": "2) University/Year 2/S2 Data Communications/Exam Papers/CMPU 2005 2024-2025.pdf"
+    },
+    {
+      "basename": "20_IP Fragmentation",
+      "path": "2) University/Year 2/S2 Data Communications/Lecture Materials/20_IP Fragmentation.pdf"
+    },
+    {
+      "basename": "Synchronization",
+      "path": "2) University/Year 2/S2 Data Communications/Notes/Synchronization.md"
+    },
+    {
+      "basename": "Data Link Control",
+      "path": "2) University/Year 2/S2 Data Communications/Notes/Data Link Control.md"
+    },
+    {
+      "basename": "Flow Control",
+      "path": "2) University/Year 2/S2 Data Communications/Notes/Flow Control.md"
+    },
+    {
+      "basename": "TU856-Year2",
+      "path": "1) Home Page/TU856-Year2.md"
+    },
+    {
+      "basename": "Masks",
+      "path": "2) University/Year 2/S2 Data Communications/Notes/Masks.md"
+    },
+    {
+      "basename": "IP Addresses",
+      "path": "2) University/Year 2/S2 Data Communications/Notes/IP Addresses.md"
+    },
+    {
+      "basename": "Protocol Hierarchies",
+      "path": "2) University/Year 2/S2 Data Communications/Notes/Protocol Hierarchies.md"
+    },
+    {
+      "basename": "TV Shows & Movies & Anime & Manga",
+      "path": "3) General/Lists/TV Shows & Movies & Anime & Manga.md"
     },
     {
       "basename": "Results",
@@ -151,54 +199,6 @@
     {
       "basename": "Priority Queue",
       "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Priority Queue.md"
-    },
-    {
-      "basename": "Heaps",
-      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heaps.md"
-    },
-    {
-      "basename": "arrow box",
-      "path": "6. Templates/arrow box.md"
-    },
-    {
-      "basename": "Binary Tree",
-      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Binary Tree.md"
-    },
-    {
-      "basename": "Heap Condition",
-      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Notes/Heap Condition.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "2. University/Year 2/S2 Algorithms & Data Structures/Untitled.md"
-    },
-    {
-      "basename": "HCI",
-      "path": "6. Templates/HCI.md"
-    },
-    {
-      "basename": "$ Human Computer Interaction",
-      "path": "2. University/Year 2/S2 Human Computer Interaction/Notes/$ Human Computer Interaction.md"
-    },
-    {
-      "basename": "Descartes",
-      "path": "8. Other/Descartes.gif"
-    },
-    {
-      "basename": "Untitled",
-      "path": "7. UNSORTED/Untitled.md"
-    },
-    {
-      "basename": "TV Shows & Movies & Anime & Manga",
-      "path": "3. General/Lists/TV Shows & Movies & Anime & Manga.md"
-    },
-    {
-      "basename": "SAP STAR Program Interview",
-      "path": "3. General/Notes/SAP STAR Program Interview.md"
-    },
-    {
-      "basename": "Structures - Creating Structures - C",
-      "path": "2. University/Year 1/Programming/Structures - Creating Structures - C.md"
     }
   ],
   "omittedPaths": [],
