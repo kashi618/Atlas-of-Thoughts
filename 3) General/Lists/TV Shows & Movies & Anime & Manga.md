@@ -111,6 +111,7 @@ The Imitation Game
 | John Wick: Chapter 4                                       | **MUST WATCH**  | Masterpiece                                                                                                       |
 | Borat                                                      | Amazing         |                                                                                                                   |
 | Borat Subsequent Moviefilm                                 | Amazing         |                                                                                                                   |
+| Howl's Moving Castle                                       | Amazing         |                                                                                                                   |
 
 The dictator
 
