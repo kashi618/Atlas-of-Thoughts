@@ -60,3 +60,5 @@
 **Other**
 [[Traveling Sales Person]]
 
+## Assignments
+[[AADS CA2]]
