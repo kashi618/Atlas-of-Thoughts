@@ -10,7 +10,7 @@ Each component will pass through the system without distortion. This is because 
 **Explain the characteristics of a digital signal in terms of harmonics and state its Absolute Bandwidth. In your answer, explain the impact on the signal’s harmonics, and the effect this has on the shape of the pulses as the signal is passed through the coaxial cable. (10 marks)**
 - For a digital signal, it has an infinite number of harmonics.
 - Absolute bandwidth refers to the total width of the spectrum of the signal, which in this case, is also infinite.
-- For the signal's harmonics, it is a finite number. This means that you loose harmonics beyond 50Mhz, which decreases the clarity of the perceived pulse.
+- For the signal's harmonics, it is a finite number. This means that you loose harmonics beyond 50Mhz, which decreases the clarity of the perceived pulse. This means that the pulse will lose their sharp edges, becoming more round and unreadable.
 
 ### C)
 **The following table, Table 1, shows different data rates associated with a digital signal passing through the coaxial cable and the corresponding number of surviving harmonics. Analyze the table and explain the effects on the received signal at various data rates. In your answer, explain if it is realistic to attempt to transmit data at a rate of 10 Mbps. (10 marks)**
@@ -43,15 +43,33 @@ Data rate is inversely proportional to the number of surviving harmonics, which 
 
 ## Question 3
 **In relation to Ethernet Bus and Star LANs:**
+
 ### A)
 **Explain the term CSMA/CD and separately explain the purpose of CSMA and CD. In your answer, list the basic steps undertaken by stations employing CSMA/CD before transmission of a frame, during transmission and after a collision occurs on an Ethernet Bus LAN. (7 marks)**
+CSMA (Carrier Sense Multiple Access) is a MAC technique, used for transmitting data. It waits for a station to become idle, before atempting to transmit data.
+CD (Colision Detection). This allows a station to monitor the medium when sending data. If a collision occurs, it stops all transmission of data.
+
+Before:
+The station listens to the bus. If it is idle, it attempts to transmit data. if it is busy, it waits until it is idle.
+
+During:
+During the transmission of data, CD continuously monitors for collisions
+
+During Collision:
+If a collision occurs, a "jamming signal" is sent to all stations, to immediately stop sending data. Then, after a period of time (backoff time) data transmission is attempted again.
+
 
 ### B)
 **Explain how the use of store-and-forward within a Switching Hub eliminates the need for the use of CSMA/CD. (8 marks)**
+Using store-and-forward techniques, collisions can effectively never occur. This is because, if station A and station B wants to both send data to station C, the switch first stores the frames from station A and station B. Then, it looks at the frame, and forwards them one after another to station C. There is no point during the data transmission, where collisions can occur.
 
 ### C)
 **Explain how a Switching Hub can facilitate simultaneous communications between two separate pairs of communicating hosts: A & B and C & D and, explain how this impacts on throughput from the perspective of each host when compared to hosts connected to a Shared-medium Hub device. In your answer, explain the relationship between contention and throughput. (10 marks)**
+A switching hub can facilitate simultaneous communications between multiple pairs of host, by using an internal switching fabric. This allows the bridge to connect allows the ability to create multiple dedicated connections between connected stations at the same time.
 
+From the perspective of the hosts, a switching hub features a dedicated bandwidth for each station. Meanwhile, a shared medium hub shares its total bandwidth with each station.
+
+This means that a switching bridge has high throughput and low contention, giving a high data transmission rate. Whilst a shared medium hub has low throughput and high contention, leading to slower performance due to collisions. This forces hosts to wait until a collision is cleared up.
 
 
 ## Question 4
@@ -62,10 +80,29 @@ The table identifies: the address mask for each subnet in CIDR notation and, a s
 ### A)
 **Copy the table into your answer book and using the address mask and host address shown, derive the missing elements for each subnet and complete the table. Show your calculations. In your answer, identify the following for each subnet: Network address, First and Last Host addresses and Broadcast address – all addresses should be in Dotted Decimal Notation. (Table: 10 marks, Calculations: 10 marks)**
 
-### B)
+| Network Identifier | Single Host Address | Mask | Network Address | 1st Host Address | Last Host Address | Broadcast Address |
+| ------------------ | ------------------- | ---- | --------------- | ---------------- | ----------------- | ----------------- |
+| A:                 | 192.168.1.50        | /26  | 192.168.1.0     | 192.168.1.1      | 192.168.1.62      | 192.168.1.63      |
+| B:                 | 192.168.1.80        | /27  | 192.168.1.64    | 192.168.1.65     | 192.168.1.94      | 192.168.1.95      |
+| C:                 | 192.168.1.99        | /28  | 192.168.1.96    | 192.168.1.97     | 192.168.1.110     | 192.168.1.111     |
+| D:                 | 192.168.1.114       | /28  | 192.168.1.112   | 192.168.1.113    | 192.168.1.126     | 192.168.1.127     |
+| R1-R2              | 192.168.1.130       | /30  | 192.168.1.128   | 192.168.1.129    | 192.168.1.130     | 192.168.1.131     |
+| R1-R3              | 192.168.1.133       | /30  | 192.168.1.132   | 192.168.1.133    | 192.168.1.134     | 192.168.1.135     |
+| R1-R4              | 192.168.1.138       | /30  | 192.168.1.136   | 192.168.1.137    | 192.168.1.138     | 192.168.1.139     |
+| R2-R3              | 192.168.1.141       | /30  | 192.168.1.140   | 192.168.1.141    | 192.168.1.142     | 192.168.1.143     |
+| R2-R4              | 192.168.1.146       | /30  | 192.168.1.144   | 192.168.1.145    | 192.168.1.146     | 192.168.1.147     |
+| R3-R4              | 192.168.1.149       | /30  | 192.168.1.148   | 192.168.1.149    | 192.168.1.150     | 192.168.1.151     |
+
+
+### B) 
 **Identify the total number of addresses allocated to each subnet and state how many addresses from the original block remain unallocated, if any. Show your calculations. (5 marks)**
-
-
+A: 64
+B: 32
+C: 16
+D: 16
+Routers: 24
+Total Allocated: 152 address
+Total Unallocated: 104
 ## Question 5
 **Refer to Figure 2 which shows an internetwork with three interconnected sub-networks and a routing table available at each router. Consider the transmission of a frame with an encapsulated packet leaving Host X connected to Net A and destined for Host Y connected to Net B.**
 ![[Data Communications 2024_2025 Figure 2.png]]
@@ -73,16 +110,17 @@ The table identifies: the address mask for each subnet in CIDR notation and, a s
 
 ### A)
 **What would be the impact on communication if a host had an IP address but did not have a MAC address? In your answer, identify the type of network each address relates to and, identify which the layer of the ISO OSI 7-layer model each address relates to. (6 marks)**
-
+If a host did not have a MAC address, data communication would fail. IP addresses operates at layer 3, and is used for logical networking. MAC addresses operates at layer 2, and is used for physical networking.
 
 ### B)
 **Identify where any source/destination IP or MAC addresses contained in the packet/frame are changed, if at all.  (5 marks)**
-
+In this internetwork, the IP address will remain unchanged during the entire journey. However, the source and destination MAC addresses will be changed at every single hop, (at router 1 and router 2)
 
 ### C)
 **Explain Next Hop Routing and identify what addresses are used in the routing process and what addresses are returned in any queries. (6 marks)**
-
+Next hop routing means that a router doesn't need to know the destination of a packet. It only needs to know the next router it needs to send the packet to. The router first checks the destination IP address of an incoming packet, then uses the routing table to calculate and find the IP address of the next router it should hop to.
 
 ### D)
 **Explain the role of ARP in Next Hop Routing. In your answer identify what is contained in an ARP table and explain the high-level process by which entries are added. (8 marks)**
+The ARP (Address Resolution Protocol) acts as a bridge between layers 2 and 3 in Next Hop Routing. Once the router knows the IP address of the next hop, it must then find the corresponding MAC address of that interface to transmit the data. The ARP table contains IP addresses to their corresponding MAC addresses. If an entry doesn't exist, the device sends a broadcast ARP request, in which the device that owns the IP address responds with its MAC address.
 
