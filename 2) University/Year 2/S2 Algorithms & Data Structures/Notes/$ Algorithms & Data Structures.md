@@ -62,3 +62,11 @@
 
 ## Assignments
 [[AADS CA2]]
+
+## Exam Paper
+[[Algorithms & Data Structures - 2024_2025]]
+[[Algorithms & Data Structures - 2023_2024]]
+[[Algorithms & Data Structures - 2022_2023]]
+[[Algorithms & Data Structures - 2021_2022]]
+
+
