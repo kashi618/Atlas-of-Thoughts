@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Archlinux - Zram",
+      "path": "3) General/Archlinux/Archlinux - Zram.md"
+    },
+    {
+      "basename": "Horror Games",
+      "path": "3) General/Ideas/Horror Games.md"
+    },
+    {
+      "basename": "Project ideas",
+      "path": "3) General/Ideas/Project ideas.md"
+    },
+    {
+      "basename": "Is Knowledge Finite?",
+      "path": "3) General/Ideas/Is Knowledge Finite?.md"
+    },
+    {
       "basename": "Irish Life Interview Prep",
-      "path": "2) University/Irish Life Interview Prep.md"
+      "path": "3) General/Notes/Irish Life Interview Prep.md"
     },
     {
       "basename": "Home",
       "path": "1) Home Page/Home.canvas"
+    },
+    {
+      "basename": "June 4th",
+      "path": "3) General/Notes/June 4th.md"
+    },
+    {
+      "basename": "Nintendo Switch 1",
+      "path": "3) General/Notes/Nintendo Switch 1.md"
+    },
+    {
+      "basename": "CLI Games - GDD",
+      "path": "3) General/Projects/CLI Games/CLI Games - GDD.md"
+    },
+    {
+      "basename": "Brainstorm",
+      "path": "3) General/Projects/CLI Games/Brainstorm.md"
+    },
+    {
+      "basename": "Results",
+      "path": "2) University/Results.md"
     },
     {
       "basename": "Software Engineering 2 - 2024_2025",
@@ -163,42 +199,6 @@
     {
       "basename": "TV Shows & Movies & Anime & Manga",
       "path": "3) General/Lists/TV Shows & Movies & Anime & Manga.md"
-    },
-    {
-      "basename": "Results",
-      "path": "2) University/Year 1/Results.md"
-    },
-    {
-      "basename": "Results",
-      "path": "2) University/Results.md"
-    },
-    {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
-    },
-    {
-      "basename": "Greedy Algorithms",
-      "path": "2) University/Year 2/S2 Algorithms & Data Structures/Notes/Greedy Algorithms.md"
-    },
-    {
-      "basename": "!Graph Traversal and Search",
-      "path": "2) University/Year 2/S2 Algorithms & Data Structures/Notes/!Graph Traversal and Search.md"
-    },
-    {
-      "basename": "Alexandre Dumas - The Count of Monte Cristo",
-      "path": "Library/Alexandre Dumas - The Count of Monte Cristo.md"
-    },
-    {
-      "basename": "$ Data Communications",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/$ Data Communications.md"
-    },
-    {
-      "basename": "Topics",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Topics.md"
-    },
-    {
-      "basename": "Error Checking",
-      "path": "2. University/Year 2/S2 Data Communications/Notes/Error Checking.md"
     }
   ],
   "omittedPaths": [],
