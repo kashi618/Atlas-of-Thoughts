@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "1) Home Page/Home.canvas"
+    },
+    {
+      "basename": "Results",
+      "path": "2) University/Results.md"
+    },
+    {
+      "basename": "Driving Theory Test",
+      "path": "3) General/Notes/Driving Theory Test.md"
+    },
+    {
+      "basename": "Irish Life Interview Prep",
+      "path": "3) General/Notes/Irish Life Interview Prep.md"
+    },
+    {
+      "basename": "June 4th",
+      "path": "3) General/Notes/June 4th.md"
+    },
+    {
       "basename": "Archlinux - Zram",
       "path": "3) General/Archlinux/Archlinux - Zram.md"
     },
@@ -17,18 +37,6 @@
       "path": "3) General/Ideas/Is Knowledge Finite?.md"
     },
     {
-      "basename": "Irish Life Interview Prep",
-      "path": "3) General/Notes/Irish Life Interview Prep.md"
-    },
-    {
-      "basename": "Home",
-      "path": "1) Home Page/Home.canvas"
-    },
-    {
-      "basename": "June 4th",
-      "path": "3) General/Notes/June 4th.md"
-    },
-    {
       "basename": "Nintendo Switch 1",
       "path": "3) General/Notes/Nintendo Switch 1.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "Brainstorm",
       "path": "3) General/Projects/CLI Games/Brainstorm.md"
-    },
-    {
-      "basename": "Results",
-      "path": "2) University/Results.md"
     },
     {
       "basename": "Software Engineering 2 - 2024_2025",
@@ -195,10 +199,6 @@
     {
       "basename": "Protocol Hierarchies",
       "path": "2) University/Year 2/S2 Data Communications/Notes/Protocol Hierarchies.md"
-    },
-    {
-      "basename": "TV Shows & Movies & Anime & Manga",
-      "path": "3) General/Lists/TV Shows & Movies & Anime & Manga.md"
     }
   ],
   "omittedPaths": [],
