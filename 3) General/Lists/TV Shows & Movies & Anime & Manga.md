@@ -107,11 +107,14 @@ The Imitation Game
 | Unthinkable                                                | **MUST WATCH**  | Masterpiece                                                                                                       |
 | John Wick                                                  | **MUST WATCH**  | Masterpiece                                                                                                       |
 | John Wick: Chapter 2                                       | **MUST WATCH**  | Masterpiece                                                                                                       |
-| John Wick: Chapter 3                                       | **MUST WATCH**  | Masterpiece                                                                                                       |
+| John Wick: Chapter 3                                       | **MUST WiATCH** | Masterpiece                                                                                                       |
 | John Wick: Chapter 4                                       | **MUST WATCH**  | Masterpiece                                                                                                       |
 | Borat                                                      | Amazing         |                                                                                                                   |
 | Borat Subsequent Moviefilm                                 | Amazing         |                                                                                                                   |
 | Howl's Moving Castle                                       | Amazing         |                                                                                                                   |
+| Jackass: The Movie                                         | Good            |                                                                                                                   |
+| Obsession                                                  | **MUST WATCH**  |                                                                                                                   |
+| The Backrooms                                              | **MUST WATCH**  |                                                                                                                   |
 
 The dictator
 
