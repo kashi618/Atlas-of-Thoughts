@@ -115,7 +115,7 @@ The Imitation Game
 | Jackass: The Movie                                         | Good            |                                                                                                                   |
 | Obsession                                                  | Amazing         | Amazing indie horror                                                                                              |
 | The Backrooms                                              | Amazing         | Amazing indie horror                                                                                              |
-| Iron Lung                                                  | Amazing         |                                                                                                                   |
+| Iron Lung                                                  | Amazing         | Amazing indie horror                                                                                              |
 
 The dictator
 

@@ -1,6 +1,5 @@
 [
   "colored-tags",
-  "recent-files-obsidian",
   "calendar",
   "obsidian-full-calendar",
   "templater-obsidian",
@@ -21,12 +20,10 @@
   "file-tree-alternative",
   "obsidian-go-to-line",
   "obsidian-sort-and-permute-lines",
-  "ink",
   "unicode-search",
   "pixel-pets",
   "editor-width-slider",
   "editing-toolbar",
   "obsidian-hider",
-  "cmdr",
-  "obsidian-excalidraw-plugin"
+  "cmdr"
 ]
