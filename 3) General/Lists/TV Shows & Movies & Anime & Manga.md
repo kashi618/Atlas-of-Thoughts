@@ -117,6 +117,7 @@ The Imitation Game
 | The Backrooms                                              | Amazing         | Amazing indie horror                                                                                              |
 | Iron Lung                                                  | Amazing         | Amazing indie horror                                                                                              |
 | The Ring (2002)                                            | Good            | Creepy as fuck                                                                                                    |
+| The Dictator                                               | Good            |                                                                                                                   |
 
 The dictator
 
