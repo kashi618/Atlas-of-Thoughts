@@ -120,7 +120,6 @@ The Imitation Game
 | The Dictator                                               | Good            |                                                                                                                   |
 | Insidious                                                  | Meh             | Mid                                                                                                               |
 
-
 ---
 
 ### Planning
