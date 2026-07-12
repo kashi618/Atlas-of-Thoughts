@@ -118,9 +118,8 @@ The Imitation Game
 | Iron Lung                                                  | Amazing         | Amazing indie horror                                                                                              |
 | The Ring (2002)                                            | Good            | Creepy as fuck                                                                                                    |
 | The Dictator                                               | Good            |                                                                                                                   |
-| Insidious                                                  | Good            | Mid                                                                                                               |
+| Insidious                                                  | Meh             | Mid                                                                                                               |
 
-The dictator
 
 ---
 
