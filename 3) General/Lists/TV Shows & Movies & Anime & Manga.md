@@ -120,6 +120,7 @@ The Imitation Game
 | The Dictator                                               | Good            |                                                                                                                   |
 | Insidious                                                  | Meh             | Mid                                                                                                               |
 | Micheal                                                    | Good            | Nothing surprising. But the child actor for Micheal was amazing                                                   |
+| The Truman Show                                            | **MUST WATCH**  |                                                                                                                   |
 
 ---
 
