@@ -119,6 +119,7 @@ The Imitation Game
 | The Ring (2002)                                            | Good            | Creepy as fuck                                                                                                    |
 | The Dictator                                               | Good            |                                                                                                                   |
 | Insidious                                                  | Meh             | Mid                                                                                                               |
+| Micheal                                                    | Good            | Nothing surprising. But the child actor for Micheal was amazing                                                   |
 
 ---
 
