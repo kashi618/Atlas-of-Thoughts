@@ -121,6 +121,7 @@ The Imitation Game
 | Insidious                                                  | Meh             | Mid                                                                                                               |
 | Micheal                                                    | Good            | Nothing surprising. But the child actor for Micheal was amazing                                                   |
 | The Truman Show                                            | **MUST WATCH**  |                                                                                                                   |
+| The Help                                                   | Amazing         |                                                                                                                   |
 
 ---
 
