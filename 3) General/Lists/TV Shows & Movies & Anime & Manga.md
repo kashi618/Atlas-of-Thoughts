@@ -109,11 +109,11 @@ The Imitation Game
 | John Wick: Chapter 2                                       | **MUST WATCH**  | Masterpiece                                                                                                       |
 | John Wick: Chapter 3                                       | **MUST WATCH**  | Masterpiece                                                                                                       |
 | John Wick: Chapter 4                                       | **MUST WATCH**  | Masterpiece                                                                                                       |
-| Borat                                                      | Amazing         |                                                                                                                   |
-| Borat Subsequent Moviefilm                                 | Amazing         |                                                                                                                   |
+| Borat                                                      | Good            |                                                                                                                   |
+| Borat Subsequent Moviefilm                                 | Good            |                                                                                                                   |
 | Howl's Moving Castle                                       | Amazing         |                                                                                                                   |
-| Jackass: The Movie                                         | Good            |                                                                                                                   |
-| Obsession                                                  | Amazing         | Amazing indie horror                                                                                              |
+| Jackass: The Movie                                         | meh             |                                                                                                                   |
+| Obsession                                                  | **MUST WATCH**  | Amazing indie horror                                                                                              |
 | The Backrooms                                              | Amazing         | Amazing indie horror                                                                                              |
 | Iron Lung                                                  | Amazing         | Amazing indie horror                                                                                              |
 | The Ring (2002)                                            | Good            | Creepy as fuck                                                                                                    |
