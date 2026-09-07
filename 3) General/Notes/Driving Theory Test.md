@@ -1,84 +1,89 @@
-### Driving Situations
-Joining a motorway from a slip road?
-- Try match vehicle speed of traffic already on motorway, and merge into a suitable gap
+## Technical
+**What distance before a zebra crossing is parking prohibited?**
+- 15 metres
 
-What should the driver be aware of, during dark winter mornings and evenings on unlit country roads?
-- Schoolchildren are more vulnerable
+**In general, above what gross vehicle weight must a trailer have brakes fitted?**
+- 750 kg
 
-Which lane should driver occupy on a motorway?
-- Drive in the nearside (left handed) lane, unless intending to overtake
+**Within what distance of a road junction is parking prohibited?**
+- 5 metres, unless parking spaces are clearly marked
 
-What should driver do if in an incident where nobody is injured, but the vehicles are causing a danger/obstruction on the road?
-- Be careful when moving vehicles, making effort to warn other traffic
+**Within what distance of a road junction is parking prohibited?**
+- 5 metres, unless parking spaces are clearly marked
 
-What should driver do if vehicle goes on fire in a tunnel?
-- Leave vehicle and follow emergency escape route
+## Speed Limits
 
-What should driver do if in incident where there is only damage to property
-- Not necessary to report to gardai, if already reported to property owner
+| Road Type | Speed Limit    |
+| --------- | -------------- |
+| Motorway  | Up to 120 km/h |
+| National  | Up to 100 km/h |
+| Regional  | Up to 80 km/h  |
+| Local     | Up to 60 km/h  |
 
-When should driver use vehicle side lights?
-- When parking on an unlit road
+## Stopping Distances
+**What stopping distance should a driver allow for when driving in snow or icy conditions?**
+- Up to ten times the normal distance
 
-If stopped in a tunnel due to congestion, what should driver do?
-- Switch off the engine
+**What is the recommended minimum stopping distance for a car travelling at 50 km/h on a dry road?**
+- 25 metres
 
-What is the penalty for refusing to give breath/blood/urine samples as evidence for a second offence to the gardai?
-- Automatic disqualification for 6 years
+**What is the recommended minimum stopping distance for a car travelling 50 km/h on a wet road?**
+- 36 metres
 
-How do you calculate maximum overall permitted weight of a vehicle?
-- Adding the unladen weight of the vehicle, to the load permitted to be carried
-
-Can a driver break a red light or speed limit to allow an emergency service vehicle to pass?
-- no
+**What effect does a wet road surface have on a vehicle's braking abilit?**
+- Generally, it doubles the braking distance of that required on a dry surface
 
 
-### Driving/Technical Information
-Distance of full headlights?
-- 100 Metres
+| Speed    | Stopping Distance (Dry Road) |
+| -------- | ---------------------------- |
+| 50 km/h  | 25 m                         |
+| 60 km/h  | 35 m                         |
+| 80 km/h  | 55 m                         |
+| 100 km/h | 70 m                         |
+| 120 km/h | 105 m                        |
 
-Film of water between tyres and road?
-- Steering and braking less effective
+## Fines and Penalties
+**How many penalty points will an unaccompanied learner driver receive on conviction?**
+- 4 penalty points
 
-Fuel system air-locked?
-- Bleed air out of fuel system
+**What is the penalty for a vehicle owner who allows a learner driver to drive their vehicle unaccompanied?**
+- Their vehicle will be siezed
 
-Is rebated (green) diesel allowed?
-- no
+**What is the fine for a learner drier who drives unaccompanied?**
+- €160
 
-What is the minimum passing distance for overtaking a cyclist in speed zones under 50km?
-- Minimum of 1 metre
+**If the owner of a vehicle allows a learner driver to drive their vehicle, what is the maximum fine the owner could face?**
+- €1,000
 
-Minimum insurance cover for driving on public road?
-- Third party
-
-Where is MAM (Maximum Authorised Mass) located?
-- On metal place on the vehicle
-
-What is load index of a tyre?
-- Maximum load a tyre can carry
-
-Maximum speed for towing a trailer?
-- 80km/h
-
-How long are you banned from driving if you get 7 penalty points?
+**A learner permit driver who receives 7 penalty points in a 36 month period (three years) will be banned from driving for how many months?**
 - 6 months
 
-How regularly should a vehicle be servied?
-- As per the manufacturer's recommendation
+## Providing Sample of Blood, Urine, or Breath
+**A driver is automatically disqualified from driving for how long if, on a first offence they refused to provide a member of An Garda Siochana with a sample of blood, urine, or breath?**
+- 4 years
 
-When is a vehicle load more likely to shift?
-- When cornering
+**A driver is automatically disqualified from driving for how long if, on a second offence they refused to provide a member of An Garda Siochana with a sample of blood, urine, or breath?**
+- 6 years
 
-What does the rev counter do?
-- Show engine revolutions
+**Along with an impairment test, what may a Garda request if they suspect a driver of driving under the influence of drugs?**
+- A saliva sample
 
+## Drink Driving & Drug Driving
+**What are the drink driving penalties for a learner driver with a blood alcohol concentrate (BAC) of 20 mg to 80 mg per 100 ml of blood?**
+- €200 fine and 3 months driving disqualification
 
-### How to Drive
-Procedure To Overtake
-1. Check mirrors
-2. Signal
-3. Move out
+**What are the drink driving penalties for a professional driver holding a full car licence and found to have a blood alcohol concentrate (BAC) of 20 mg to 80 mg per 100 ml of blood?**
+- €200 fine and 3 months driving disqualification
+- 
+**What are the drink driving penalties for a driver with a blood alcohol concentrate (BAC) of 80 mg to 100 mg per 100 ml of blood?**
+- €400 fine and 6 months driving disqualification
 
-### Other
-“Only a fool breaks the two second rule.”
+**What is the maximum disqualification period imposed in court when the learner driver has a blood alcohol concentration (BAC) level in excess of 80 mg?**
+- 6 years
+
+**What is the maximum penalty on conviction for drug driving?**
+- €5,000 fine and 6 months in prison
+
+**Which of the following is a possible consequence for a learner driver if they drive after drinking as little as just one unit of alcohol?**
+- A three month disqualification from driving
+
