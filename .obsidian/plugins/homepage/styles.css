@@ -1,65 +1,31 @@
-.nv-homepage-interstitial {
-	position: absolute;
-	left: 0;
-	top: 0;
-	width: 100vw;
-	height: 100vh;
-	background: var(--background-primary);
-	z-index: 9999;
-	animation: 0.02s ease-in 0.5s forwards nv-interstitial-destroy;
-	pointer-events: none;
-}
-
 @keyframes nv-interstitial-destroy {
   from { opacity: 1; }
   to { opacity: 0; }
 }
 
-.setting-item[nv-greyed] {
+.nv-settings-group .checkbox-container.is-disabled,
+.nv-settings-group .setting-item.is-disabled .setting-item-info  {
 	opacity: .5; 
-	pointer-events: none !important;
 }
 
-#nv-main-setting {
+#nv-setting-homepage-kind {
 	flex-wrap: wrap;
-	margin-bottom: 30px;
+	row-gap: 0;
 }
 
-#nv-main-setting .setting-item-control {
-	padding-top: var(--size-4-2);
-	flex-basis: 100%;
-	align-items: stretch;
-}
-
-#nv-main-setting .setting-item-control input, #nv-main-setting .setting-item-control select {
-	font-size: var(--font-ui-medium);
+#nv-setting-homepage-kind .setting-item-control .dropdown {
 	font-weight: 600;
 }
 
-#nv-main-setting .setting-item-control select {
-	padding: var(--size-4-3) var(--size-4-4);
-	padding-right: var(--size-4-8);
-	height: auto;
-}
-
-#nv-main-setting .setting-item-control input {
-	flex-grow: 1;
-	padding: var(--size-4-5) var(--size-4-4);
-}
-
-#nv-main-setting .setting-item-control input[disabled] {
-	opacity: 0.3;
-}
-
-#nv-main-setting #nv-desc, #nv-main-setting #nv-info {
+#nv-setting-homepage-kind #nv-desc {
 	flex-basis: 100%;
-}
-
-#nv-main-setting #nv-desc {
-	font-weight: 500;
-	color: var(--text-normal);
-	font-size: var(--font-ui-small);
-	padding: 10px 0 0;
+	font-weight: 400;
+	color: var(--text-muted);
+	font-size: var(--font-ui-smaller);
+	padding: var(--setting-items-padding-y) 0 0;
+	margin: var(--setting-items-padding-y) 0 0;
+	line-height: var(--line-height-tight);
+	border-top: 1px solid var(--setting-items-border-color);
 }
 
 #nv-main-setting #nv-desc.mod-warning {
@@ -86,7 +52,7 @@
 	margin-left: var(--size-2-2);
 }
 
-.nv-mobile-setting {
+.nv-mobile-setting, .nv-command-setting {
 	flex-wrap: wrap;
 	row-gap: var(--size-2-2);
 }
@@ -97,22 +63,21 @@
 	margin-right: var(--size-4-18);
 }
 
-.nv-command-desc {
-	padding: 1.2em 0 0;
-	border-top: 1px solid var(--background-modifier-border);
+.nv-command-setting .setting-item-name {
+	display: none;
 }
 
 .nv-command-box {
-	margin: 1em 0 1.75em;
+	margin: 1em 0 0;
 	display: flex;
 	flex-wrap: wrap;
 	gap: 12px;
 	align-items: center;
+	width: 100%;
 }
 
 .nv-command-pill {
-	background-color: var(--background-secondary);
-	border: 1px solid var(--background-modifier-border-hover);
+	background-color: var(--background-modifier-hover);
 	border-radius: var(--radius-s);
 	font-size: var(--font-ui-small);
 	padding: var(--size-2-1) var(--size-2-2) var(--size-2-1) var(--size-2-3) ;
@@ -150,6 +115,7 @@
 .nv-command-pill > .svg-icon, .nv-command-pill button .svg-icon {
 	height: 1em;
 	width: 1em;
+	opacity: 1;
 }
 
 .nv-command-pill > .svg-icon {
@@ -168,28 +134,6 @@
 	height: auto;
 }
 
-#nv-main-setting + .setting-item, .nv-command-desc + .setting-item {
-	padding-top: 20px; 
-	border-top: none !important;
-}
-
-.nv-debug-button {
-	margin: 3em 0 -0.2em;
-	font-size: var(--font-ui-smaller);
-	padding: 0;
-	height: auto;
-	float: right;
-	box-shadow: none !important;
-	background: none !important;
-	color: var(--text-accent);
-	font-weight: 600;
-	cursor: pointer;
-}
-
-.nv-debug-button:hover, .nv-debug-button:active {
-	text-decoration: underline;
-}
-
 .is-phone #nv-main-setting .setting-item-control {
 	flex-wrap: wrap;
 	justify-content: flex-start;
@@ -198,14 +142,6 @@
 .is-phone #nv-main-setting .setting-item-control select {
 	width: auto;
 	max-width: auto;
-}
-
-.is-phone .nv-mobile-setting {
-	row-gap: var(--size-4-2);
-}
-
-.is-phone .nv-mobile-setting .setting-item-info {
-	max-width: calc(100% - 100px);
 }
 
 .is-phone .nv-mobile-setting {
@@ -237,8 +173,12 @@
 	justify-content: space-between;
 }
 
+.is-phone .nv-command-add-button {
+	padding: var(--size-2-3) var(--size-4-3);
+}
+
 .is-phone .nv-command-pill button {
 	line-height: var(--font-ui-medium);
 	height: 100%;
-	margin: 0 !important;
+	margin: 0;
 }

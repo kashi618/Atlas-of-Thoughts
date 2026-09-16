@@ -1,3 +1,38 @@
+/* Register scale props as a number so windows build resolves scaleX properly */
+@property --scale-x {
+	syntax: "<number>";
+	inherits: true;
+	initial-value: 1;
+}
+
+@property --scale {
+	syntax: "<number>";
+	inherits: true;
+	initial-value: 1;
+}
+
+/* ------------- Overlay Mode Styles ------------- */
+
+/* Full-screen transparent overlay for overlay mode (overlay top to allow dragging) */
+.pet-overlay-container {
+	position: fixed;
+	top: var(--overlay-top, 0px);
+	left: 0;
+	width: 100vw;
+	height: calc(100vh - var(--overlay-top, 0px));
+	pointer-events: none;
+	z-index: 9999;
+	overflow: hidden;
+}
+
+/* Pets inside the overlay need to capture clicks */
+.pet-overlay-container .pet {
+	pointer-events: auto;
+}
+
+
+/* ------------- Pet View Styles ------------- */
+
 .pet-view-wrapper {
 	position: relative;
 	width: 100%;
@@ -111,7 +146,7 @@
 
 .ball {
   position: absolute;
-  transform: translate(var(--x, 0), var(--y, 0)) scale(var(--scale, 1));
+  transform: translate(calc(var(--x, 0)), calc(var(--y, 0))) scale(var(--scale, 1)); /* same as above */
   width: var(--ballwidth);
   height: var(--ballheight);
   z-index: 200;
@@ -154,8 +189,37 @@
 	}
 }
 
+.cat-toy-hide-cursor {
+	cursor: none !important;
+}
 
+.cat-toy-cursor {
+	position: fixed;
+	left: var(--cursor-x);
+	top: var(--cursor-y);
+	width: var(--cat-toy-frame-size);
+	height: var(--cat-toy-frame-size);
+	transform: translate(var(--cat-toy-offset), var(--cat-toy-offset)) scale(var(--cat-toy-scale));
+	transform-origin: top left;
+	background-image: var(--cat-toy-url);
+	background-size: var(--cat-toy-sprite-width);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	image-rendering: pixelated;
+	pointer-events: none;
+	z-index: 99999;
+	animation: cat-toy-cursor var(--cat-toy-duration) steps(6) infinite;
+}
 
+@keyframes pet-sprite {
+	from { background-position: 0 0; }
+	to   { background-position: var(--sprite-total-width) 0; }
+}
+
+@keyframes cat-toy-cursor {
+	from { background-position: 0 0; }
+	to   { background-position: calc(-1 * var(--cat-toy-sprite-width)) 0; }
+}
 
 /* Chat Modal Styles */
 .modal:has(.pp-chat-modal-content) { /* Target this specific modal to change width + height */
