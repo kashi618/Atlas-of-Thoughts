@@ -1,5 +1,5 @@
 
-| Specs   | Thinkpad X13 Gen 1 (laptop)     | Thinkpad P14s Gen 6 (laptop) | Mechrevo Aurora X (laptop) | Dell Optiplex 8940 (desktop)                       |
+| Specs   | Thinkpad X13 Gen 1 (laptop)     | Thinkpad P14s Gen 6 (laptop) | Mechrevo Aurora X (laptop) | Dell Optiplex 8940 (desktop)                       | Arch
 | ------- | ------------------------------- | ---------------------------- | -------------------------- | -------------------------------------------------- |
 | CPU     | Intel i5 10510U                 | Intel Ultra 5 225H           | Intel Core i7-12800HX      | Intel Core i5-11400                                |
 | GPU     | Intel UHD 630                   | Intel Arc 130T               | Nvidia RTX 4070            | Nvidia GTX 1650 Super<br>(Core: +175, Mem: +1250 ) |

@@ -1,6 +1,0 @@
-[[$ Legal and Professional Issues]]
-[[$ Gen-AI Assisted Programming]]
-[[$ Data Communications]]
-[[$ Human Computer Interaction]]
-[[$ Software Engineering 2]]
-[[$ Algorithms & Data Structures]]
