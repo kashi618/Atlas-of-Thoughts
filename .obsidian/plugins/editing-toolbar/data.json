@@ -489,7 +489,7 @@
     "onboardingShown": true,
     "providerMode": "pkmer-first",
     "enableInlineCompletion": true,
-    "inlineCompletionHintLearned": false,
+    "inlineCompletionHintLearned": true,
     "completionTrigger": "manual",
     "completionDelay": 500,
     "enableRewrite": true,
@@ -508,12 +508,12 @@
       "tokenExpiresAt": 0,
       "userInfo": null
     },
-    "enableCustomModel": false,
+    "enableCustomModel": true,
     "customModel": {
       "apiFormat": "openai-compatible",
-      "baseUrl": "",
+      "baseUrl": "https://api.deepseek.com",
       "apiKey": "",
-      "model": "",
+      "model": "deepseek-flash",
       "temperature": 0.2
     },
     "frontmatterPrompt": {
