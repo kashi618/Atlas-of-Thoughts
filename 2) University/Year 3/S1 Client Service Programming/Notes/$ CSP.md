@@ -1,13 +1,4 @@
-Berkeley Sockets API
-- socket()
-- bind()
-- listen()
-- accept()
 
-- connect()
-- send()
-- recv()
-- close()
 
 ## MOC
 
@@ -39,6 +30,39 @@ local IP:local port | remote IP:remote port
 
 --- Clients and Servers
 
- 
+
+--- Service vs protocol
+## Service
+What the layer promises the layer above. The contract. The application sees it through the socket
+
+## Protocol
+How the layer keeps the promise: segments, header fields, and rules for responding to them
+
+--- TCP Promises
+{Week 3 Lecture Slide 12}
+
+--- HTTP HTTP2 HTTP3/QUIC
+
+
+
+--- Berkeley Sockets API
+- socket()
+- bind()
+- listen()
+- accept()
+
+- connect()
+- send()
+- recv()
+- close()
+
+{Week 3 Slide 30}
+
+*Iterative Server Problem
+
+
+
+
+
 
 
