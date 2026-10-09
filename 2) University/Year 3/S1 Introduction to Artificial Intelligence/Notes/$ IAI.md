@@ -5,14 +5,30 @@
 
 ---
 
-# Prolog Queries 
+# Prolog Queries and Knowledge Bases
+## Query
+A question or goal that a user can ask the prolog interpreter to prove, using a stored database of facts and rules. It starts with the prompt symbol
+`?- `
 
+## Knowledge Base
+Set of sentences in a formal language.
+Also known as a database of facts, rules, assertions
 
 ---
-# Using Prolog
-Edit and write files using text editor. End with ".pl" or ".pro"
+# Prolog Agents
+An agent is anything that uses Prolog to reason, plan, and make decisions based on on a knowledge base of facts and rules.
 
-Then pull the file into `swipl {FILE}`
+They can be viewed either at the knowledge level, or the implementation level.
+
+### Knowledge Level
+This describes what the agent knows, and what it can do, independent on how it is implemented. Such as through prolog syntax, or execution mechanics.
+
+It perceives its environment using sensors, and maintains a representation of the world in a knowledge base. It then acts on the environment through logic reasonings based on the knowledge base.
+
+### Implementation Level
+This is how the knowledge is stored and ran in the KB.
+
+## Declarative Approach
 
 ---
 # Prolog Predicates
@@ -158,8 +174,53 @@ cat(lucky).
 
 
 ---
-# Prolog Knowledge Base
+# Prolog Operators
+`:=`
+`=:=`
+`\=`
+`=`
 
+
+
+
+---
+# Rational Agents
+A rational agent is an agent that takes the "right" action. It is evaluated using the PEAS performance measure
+
+## PEAS Measure
+- Performance measure
+- Environment
+- Actuators
+- Sensors
+
+**Example - Interactive English Tutor System**
+- Performance measure - student score on test
+- Environment - set of students tests
+- Actuators - display exercises, corrections, feedback
+- Sensors - keyboar input
+
+
+---
+# Logic
+A formal language for expressing knowledge, and ways of reasoning
+- Syntax
+- Semantics
+- Inference method
+
+---
+# Propositional Logic
+
+## Syntax
+
+## Semantics
+
+## Inference Method
+
+---
+# Wumpus World PEAS Example
+
+## PEAS
+{Week 3 - slide 7-8}
 
 ---
 # Prolog Syntax
@@ -230,6 +291,9 @@ makes(ann, cake, mary).
 ---
 Add all functions to one note
 
+---
+# Resolution Algorithm
 
+## Proof by Contradiction Using Resolution
 
 

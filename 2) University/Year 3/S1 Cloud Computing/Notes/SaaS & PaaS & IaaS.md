@@ -3,6 +3,8 @@ tags:
   - CloudComputing
 aliases:
 ---
+## Model
+![[Pasted image 20261005141504.png]]
 
 ## SaaS - Software as a Service
 All user needs is a browser, and they can access the service
@@ -21,7 +23,6 @@ The basic building blocks of virtualized hardware, including servesr, storage, a
 - It is the physical hardware that is the service.
 - You write/manage the OS, data, and applications
 
-## {Insert Picture From Lecture Slides}
 
 # See Also
-[[$ CC]]
+[[$ CC - Cloud Computing]]

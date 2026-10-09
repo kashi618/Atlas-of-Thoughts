@@ -25,6 +25,11 @@
       "id": "pets/batman-black-cat-1",
       "type": "pets/batman-black-cat",
       "name": "batman"
+    },
+    {
+      "id": "pets/tiger-cat-1",
+      "type": "pets/tiger-cat",
+      "name": "Tiger Cat"
     }
   ],
   "nextPetIdCounters": {
@@ -32,10 +37,14 @@
     "pets/ghost": 2,
     "pets/brown-cat": 2,
     "pets/pirate-cat": 2,
-    "pets/batman-black-cat": 2
+    "pets/batman-black-cat": 2,
+    "pets/tiger-cat": 2
   },
+  "overlayMode": true,
+  "soundEnabled": true,
   "indexedFiles": {},
   "animatedBackground": true,
   "openAiApiKey": "",
-  "selectedModel": "none"
+  "selectedModel": "none",
+  "petSize": 1
 }
