@@ -60,9 +60,24 @@ How the layer keeps the promise: segments, header fields, and rules for respondi
 
 *Iterative Server Problem
 
+---
+# Connection Refused vs Connection Timed Out
 
 
+---
+# Client Calls
+socket() -> connect() -> recv() -> close()
 
+| Call        | Success                                       | Failure                              |
+| ----------- | --------------------------------------------- | ------------------------------------ |
+| socket      | a descriptor (>=0)                            | -1                                   |
+| inet_pton() | 1                                             | 0 : not a valid string<br>-1 : error |
+| connect()   | 0                                             | -1                                   |
+| recv()      | \>0 : bytes received<br>0 : other side closed | -1                                   |
+| close()     | 0                                             | -1                                   |
 
+---
+# Server Calls
 
+socket() -> bind() -> listen() -> FOREVER(accept() -> send() -> close())
 
