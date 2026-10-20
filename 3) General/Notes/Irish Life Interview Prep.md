@@ -99,7 +99,7 @@ Result
 - The customer immediately calmed down, and seemed more relaxed and understanding for the wait. I learned that showing empathy and really putting myself in their shoes, can help turn a negative experience for them, into a more positive experience one.
 
 ### Projects and Personal Achievements
-**Arch**
+**Spudman**
 Situation
 - During a college project, in a team of 3 we built a video game called Spudman on an STM32 micro controller. This micro controller is essentially just a very small motherboard, which you can connect buttons, and a display to, and you can tinker with it
 
@@ -113,6 +113,7 @@ Result
 - In the end, I was able to successfully store everything from ou initial brainstowm, using up over 95% of the total memory. I am very proud of this project, as it shows my ability to take a difficult technical restrait, research research for solutions, and push the chip to its limit.
 
 ### Going Above and Beyond Call of Duty, and Results
+**Nvidia**
 Situation
 - During my first semester of college last year, I wanted to expand my knowledge beyond just our standard university classes.
 
@@ -126,6 +127,7 @@ Result
 - After alot of fine tuning, I was able to optimize the AI model, and achieve an accuracy rate of around 97.3%, which earned me my certification. I purely out of selft-motivation, as i'm always seeking to learn about new technologies and how to use them. Which is a skill I want to bring to this placement.
 
 ### Ability to Grasp Technical/Difficult Concepts Quickly
+**Archlinux**
 Situation
 - To push my boundaries, I wanted to move away from windows, and experiment with Linux based systems.
 
@@ -139,6 +141,7 @@ Result
 - Now, I have an operating system that is uniquely mine, which I have been using for the past 2 years. This experience has has taught me how to dive deep into something completely foreign to me, and how to read complex technical documentation quickly to debug my issues, and how to make things work.
 
 ### Project with MS Office Skills
+**Cisco Data**
 Situation
 - During my data exploration module, I was given the opportunity to take a Cisco Data Analytics certification in my own time.
 
