@@ -23,7 +23,8 @@
 	- [[Virtualisation - Hypervisor]]
 
 - [[VDC - Virtualised Data Center]]
-	- [[VDC - Compute and Resource Virtualisation]]
+	- [[VDC - Compute Virtualisation]]
+	- [[VDC - Resource ]]
 # Resource Pool
 
 ## Share, Limit, Reservation
