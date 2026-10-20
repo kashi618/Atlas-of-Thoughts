@@ -8,11 +8,22 @@
 	- [[NFR - Scalability]]
 	- [[NFR - Fault Tolerance]]
 	- [[NFR - Transparency]]
-- [[Virtualization vs Emulation]]
 - [[Load Balancing]]
 	- [[Auto Scaling]]
 		- [[Elasticity]]
+- [[RAID - Data Protection]]
+	- [[RAID - Implementation Methods and Techniques]]
+	- [[RAID - Levels]]
+	- [[Hot Spare]]
+- [[Buffering vs Caching]]
+	- [[Types of Caching]]
+- [[Virtualisation - Virtual Machines]]
+	- [[Virtualisation vs Emulation]]
+	- [[Virtualisation - Virtualisation Techniques]]
+	- [[Virtualisation - Hypervisor]]
 
+- [[VDC - Virtualised Data Center]]
+	- [[VDC - Compute and Resource Virtualisation]]
 # Resource Pool
 
 ## Share, Limit, Reservation
@@ -88,37 +99,7 @@ Refers to both the storage devices, as well as the network that connects the sto
 
 # SCSI, ISCSI
 
-# RAID
-Redundant array of independent disks
 
-## Implementation Methods
-**Software**
-Uses host-based software to provide RAID functionality
-However, due to being software, it gives computing overhead
-
-**Hardware**
-Uses a specialized hardware controller installed on either the host and the array
-
-## RAID Techniques
-**Striping**
-
-
-**Mirroring**
-
-
-**Parity**
-- Cyclic Redundancy Check
-
-## RAID Levels
-### RAID 0
-### RAID 1
-### RAID 1+0 / RAID 2
-### RAID 3
-CONS if any of the data in the non parity disc is changed, the speed is limited by the parity being recomputed
-
-### RAID 4
-### RAID 5
-### RAID 6
  
 
 

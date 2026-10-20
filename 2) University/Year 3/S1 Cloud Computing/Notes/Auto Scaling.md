@@ -24,6 +24,11 @@ Referred to as scaling up or scaling down
 
 ### Horizontal Auto Scaling
 Referred to as scaling out or scaling in
+- Instead of making a single server bigger, you run multiple servers behind a load balancer
+- The more power you need, the more servers you add
+- Resources can be added, without interruption
+- If demand drops, additional resources can be reclaimed without interruption
+- The most common approach to implementing elasticity in cloud
 
 
 # See Also

@@ -3,9 +3,9 @@ tags:
   - CloudComputing
 aliases:
 ---
-The main difference between virtualization and emulation, is the access to hardware.
+The main difference between virtualisation and emulation, is the access to hardware.
 
-## Virtualization
+## Virtualisation
 The guest OS is ran directly using the host's CPU instruction set. Due to the host and guest's CPU instruction set being the same, the guest OS can be ran natively. This is because there is no translation required.
 
 ## Emulation
