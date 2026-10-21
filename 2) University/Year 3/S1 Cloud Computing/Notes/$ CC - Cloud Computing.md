@@ -17,7 +17,7 @@
 	- [[Hot Spare]]
 - [[Buffering vs Caching]]
 	- [[Types of Caching]]
-- [[Virtualisation and Virtual Machines]]
+- [[Virtualisation]]
 	- [[Virtualisation vs Emulation]]
 	- [[Virtualisation - Hypervisor]]
 	- [[VDC - Virtualised Data Center]]
@@ -29,70 +29,39 @@
 		- [[Resource Pool - Network Virtualization]]
 		- [[Resource Pool - Desktop Virtualization]]
 		- [[Resource Pool - Application Virtualization]]
+	- [[Virtual Machine Snapshots]]
+		- [[VSS - Volume Shadow Copy Service]]
+		- [[Automatic Virtual Hard Disk]]
+	- [[Virtual Disk File Formats]]
+- [[Cloud Computing Deployment Model]]
+	- [[Cloud Computing - Economics]]
+	- [[Cloud Computing - Challenges]]
+- [[TCO - Total Cost of Ownership]]
+- [[Storage Basics]]
+	- [[Partitions vs Volumes]]
+	- [[Hard Drives]]
+	- [[SCSI and iSCSI]]
+		- [[DAS vs NAS vs SAN]]
 
 
-### TCO - Total Cost Ownership
-Cost of procuring the device, getting it shipped, installation, lifetime costs, decommission price
+---
+Only need notes from:
+- Week 4 Lecture 07
+- Week 5 Lecture 08
+- Required reading
+
+
+
 
 ### VMFS NFS
-
-## Network Virtualization
-
-## Application Virtualization
-
 ---
 # CAPEX & OPEX
 Capital expense - Once off expense
 Operational expense - Ongoing expense
 
----
-# Cloud Repatriation
-
-## Cloud Deployment Model
-Public cloud
-Private cloud
-- On premise
-- Externally hosted
-Hybrid cloud
 
 ---
 # Sharding
-
----
-# Cloud Challenges
-## For Consumer
-### Security and Regulation
-### Network latency
-### Supportability
-### Interoperability
-
-## For Providers
-### Service Warranty and Service cost
-### Huge Numbers of Software to Manage
-### No Standard Cloud Access Interface
-
----
-# Storage Basics
-## Primary Storage
-
-## Secondary Storage
-
-# Storage Types
-### Partitions vs Volumes
-If using one hdd, partitions and volumns are technically the same concept. Ways to split storage into separate bits
-However, if you have more than one storage devices,, you can "merge" them into one volume. Which can then be partitioned. It is a superset of a partition
-
-# NAS, SAN, DAS
-## NAS
-### Sharing Protocols
-
-## SAN
-Refers to both the storage devices, as well as the network that connects the storage devices
-
-# SCSI, ISCSI
-
-
- 
 
 
 ---
