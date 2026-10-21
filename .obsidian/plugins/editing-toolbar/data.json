@@ -523,6 +523,7 @@
       "prompt": "Generate YAML frontmatter for the current Obsidian note using the requested properties below.\n\nRequested properties:\n{properties}\n\nOutput language for generated values: {language}\n\nRules:\n- Return only one complete YAML frontmatter block wrapped in --- delimiters.\n- Use the target text as the note content.\n- Follow current and sibling-note frontmatter conventions from context when provided.\n- Keep values concise, practical, and useful for filtering or browsing.\n- Do not add explanations or markdown fences outside the YAML block."
     },
     "customPromptHistory": [
+      "Fix wording",
       "Make this better",
       "Is this correct?"
     ],

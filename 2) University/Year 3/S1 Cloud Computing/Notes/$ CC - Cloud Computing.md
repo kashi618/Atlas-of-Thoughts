@@ -17,28 +17,19 @@
 	- [[Hot Spare]]
 - [[Buffering vs Caching]]
 	- [[Types of Caching]]
-- [[Virtualisation - Virtual Machines]]
+- [[Virtualisation and Virtual Machines]]
 	- [[Virtualisation vs Emulation]]
-	- [[Virtualisation - Virtualisation Techniques]]
 	- [[Virtualisation - Hypervisor]]
+	- [[VDC - Virtualised Data Center]]
+	- [[Compute Virtualisation]]
+	- [[Resource Virtualisation and Resource Pools]]
+		- [[Resource Pool - Share, Limit, Reservation]]
+		- [[Resource Pool - CPU Resources]]
+		- [[Resource Pool - Storage Virtualization]]
+		- [[Resource Pool - Network Virtualization]]
+		- [[Resource Pool - Desktop Virtualization]]
+		- [[Resource Pool - Application Virtualization]]
 
-- [[VDC - Virtualised Data Center]]
-	- [[VDC - Compute Virtualisation]]
-	- [[VDC - Resource ]]
-# Resource Pool
-
-## Share, Limit, Reservation
-
-## CPU Resources
-
-### Logical and Physical Cores
-
-
-### Sockets
-
-## Storage Virtualization
-
-**Benefits**
 
 ### TCO - Total Cost Ownership
 Cost of procuring the device, getting it shipped, installation, lifetime costs, decommission price
