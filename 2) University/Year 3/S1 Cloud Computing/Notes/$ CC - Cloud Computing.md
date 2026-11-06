@@ -71,11 +71,40 @@ Operational expense - Ongoing expense
 
 *"Docker is a set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers."* - Wikipedia
 
+
+
+
 ---
-# Docker
+# Week 8 - Lecture 12
+
+# Business Continuity
+## Protecting Compute
+### Server Clusters
+### VM Fault Tolerance
+### Protecting Storage
+#### RAID
+#### HOT SPAIRE
+#### REDUNDANT COMPONENTS
+### Protecting Network
+#### NIC Teamning=
+## Protection From Site Failure
+### Backup in VDC
+#### Deduplication
+Stores content (text changes), instead of the entire file. IE. git
+#### Compute Based / Array Based
+#### VM Replication
+#### VM Template
+### VM Migration
+Hot on
+Cold
+Hot suspended
+Concurrent`
+
+---
+# Week 8 - Lecture 13
+## The Twelve-Factor App
+
+meta mathematics
+1937
 
 
-
-
-
-Catalytic Computing

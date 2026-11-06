@@ -26,15 +26,6 @@ However, the hypervisor only allocates storage space then the VM requires it. Th
 ![[Pasted image 20261021012510.png]]
 In short, the VM believes it is allocated 20 GB, and is able to use its 20GB. However, the hypervisor only gives it the amount that it current needs. If the VM currently uses 10 GB, then only that is allocated to the VM. This size then exapnds as the VM decides to use more storage
 
-## Virtual Provisioning
-Virtual provisioning allows the hypervisor to create virtual disks for virtual machines, without needing to reserve the full capacity amount up front
-
-For example:
-- Each VM is allocated a 20 GB disk, and can use the full capacity as it needs
-- However, the hypervisor only allocates the storage space the VM actually needs. If the VM is currently only using 10 GB of its disk capacity, then the hypervisor only consumes 10GB of its physical storage
-- If the VM writes more data and uses more storage, the hypervisor then exapands dynamically, to give more storage to the VM
-![[Pasted image 20261021012510.png]]
-
 ## Benefits
 - Reduces administrative overhead
 - Improves capacity utilization
