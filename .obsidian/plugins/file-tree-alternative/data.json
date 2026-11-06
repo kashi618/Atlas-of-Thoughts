@@ -25,5 +25,12 @@
   "folderNote": false,
   "deleteFileOption": "trash",
   "showFileNameAsFullPath": false,
-  "bookmarksEvents": false
+  "bookmarksEvents": false,
+  "fileListStyle": "compact",
+  "previewLines": 2,
+  "previewShowThumbnail": true,
+  "previewShowTags": true,
+  "previewShowAliases": true,
+  "previewPropertyKey": "",
+  "mobileTouchFriendly": false
 }

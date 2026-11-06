@@ -98,11 +98,29 @@ Stores content (text changes), instead of the entire file. IE. git
 Hot on
 Cold
 Hot suspended
-Concurrent`
+Concurrent
 
 ---
 # Week 8 - Lecture 13
 ## The Twelve-Factor App
+- Declarative
+- Clean Contract
+- Deployment on cloud platforms
+- Minimize divergence
+- Scalability
+
+Application agnostic
+Language agnostic
+Platform agnostic
+Technology agnostic
+
+1. Codebase
+2. Dependencies
+3. Config
+4. Backing Services
+5. Build, Release, Run
+6. Processes
+
 
 meta mathematics
 1937

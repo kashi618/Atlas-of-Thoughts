@@ -5,11 +5,9 @@
   "templater-obsidian",
   "cm-editor-syntax-highlight-obsidian",
   "various-complements",
-  "cm-typewriter-scroll-obsidian",
   "better-word-count",
   "shiki-highlighter",
   "widgets",
-  "obsidian-vimrc-support",
   "omnisearch",
   "obsidian-latex-suite",
   "homepage",
@@ -25,5 +23,6 @@
   "editor-width-slider",
   "editing-toolbar",
   "obsidian-hider",
-  "cmdr"
+  "cmdr",
+  "obsidian-vimrc-support"
 ]
