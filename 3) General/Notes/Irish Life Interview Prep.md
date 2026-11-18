@@ -1,40 +1,3 @@
-Different example for each question
-- work experience
-
-- clearly identify issue
-- solution
-- my take in part
-- end result
-
-- steped in as organizer, and team leader. weekly update
-- - what missing, what fcixed, ideas, 
-- leadership
-- good reward/outcoime
-
-- customer satisfaction
-- customer want something out of scope
-- cant refuse, do the best i can
-- find manager
-- aftger manager tells scope, we reply with how to satisfy them
-- soimethings cant be done, but come to mutual understanidng
-
-- find customer issue
-- how to find solutionm
-
-school work, went above and beyhond, to satisfy custoimer or myself
-
-Technical Skills
-- cisco skills, work experince would be good with this
-- archlinux config, wvery knowledgeable.
-- BUT, not enough, so in my own time i got these certiicate, to help my with my studies
-- willing to learn, self taught,
-- micrtosoft office skills
-
-Communication Skills
-- technical language,
-- if meet a non technical personm, use common english, simple english
-- every question, prepare 2 experience
-
 ## STAR Method
 Situation
 Task
@@ -56,19 +19,6 @@ Result
 - We were able to successfully deliver the game on time, and we placed 115 out of 509 entries. 
 - From this, I learned how to assign tasks based on each of my teammates strengths, which is a skill I want to bring to this summer placement
 
-### Teamwork, Something Didn't Go to Plan
-**Snowtrails**
-Situation
-- I worked in a 3 person group in college for my web development module, to build a travel agency called snowtrails, withing the span of 3 months.
-
-Task
-- However, we quickly fell behind schedule in month 1, as we ran into a lot of technical problems. The website became slower and slower as time went on,
-
-Action
-- I realised that this major issue would slow our progress significantly, so I stepped in to find out the root of the problem. I first organized a meeting with my team, and we went over and reviewed each line of code in the code base. I found that we had a lot of redundant and useless code, from when we were prototyping the early design of the website.
-
-Result
-- When I refactored and removed these lines of code, I fixed the slow load times. The performance of the website improved by over 39%, as I used Chrome Lighthouse to measure the before and after. 
 
 ### Delivering Good Customer Service in Busy Environment
 **Topbun**
@@ -104,7 +54,7 @@ Situation
 - During a college project, in a team of 3 we built a video game called Spudman on an STM32 micro controller. This micro controller is essentially just a very small motherboard, which you can connect buttons, and a display to, and you can tinker with it
 
 Task
-- The biggest problem I ran into, was the very limited amount of memory. This specific chip only held 64kb of storage, which is extremely small when compared to phones today. In the hundreds of gbs
+- The biggest problem I ran into, was the very limited amount of memory. This specific chip only held 32kb of storage, which is extremely small when compared to phones today. In the hundreds of gbs
 
 Action
 - So I took initiative over the graphics and memory, whilst my other two teammates worked on programming the games functionality. I researched and found how to optimize and compress these graphics, as well as our code. During out brainstorm, we had a huge list of features we wanted to implement, and I was determined to make them all fit within the limited storage space.
