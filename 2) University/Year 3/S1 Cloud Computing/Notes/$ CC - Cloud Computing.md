@@ -77,6 +77,12 @@ Operational expense - Ongoing expense
 ---
 # Week 8 - Lecture 12
 
+[[Business Continuity & Disaster Recovery]]
+- [[Business Continuity in a VDC Environment]]
+- [[Compute Virtualization in Business Continuity]]
+	- [[SPOF in Compute Virtualization]]
+	- [[Eliminating SPOF]]
+
 # Business Continuity
 ## Protecting Compute
 ### Server Clusters
@@ -125,4 +131,8 @@ Technology agnostic
 meta mathematics
 1937
 
+---
+# Week 9 - Lecture 13
+## Twelve Factor App
 
+ 
